@@ -1165,7 +1165,7 @@
             "titleENG": "How to explain it...",
             "choice1ENG": "Do you know someone named Rina?",
             "choice2ENG": "Do you know about Teppei?",
-            "Explanation": ""
+            "Explanation": "choice1: go to 124930 and from 124934 jump to 124942, choice2: go to 124935, FLAG = 1"
         },
         {
             "type": "MSGSET",
@@ -1783,7 +1783,7 @@
             "titleENG": "It cannot be helped...",
             "choice1ENG": "Bring up Rina's background",
             "choice2ENG": "Ask Kasai-san about Rina's situation",
-            "Explanation": ""
+            "Explanation": "choice1: go to 125005 and from 125025 go to 125043, FLAG += 2. choice2: go to 125026."
         },
         {
             "type": "MSGSET",
@@ -2269,7 +2269,7 @@
             "titleENG": "Why?",
             "choice1ENG": "All right, I'll tell her about Satoko",
             "choice2ENG": "I became invested after talking with Rika-chan",
-            "Explanation": ""
+            "Explanation": "choice1: go to 125063 and from 125071 jump to 125082. choice2: go to 125072, FLAG += 1. If FLAG > 2 BAD END 2 is activated."
         },
         {
             "type": "MSGSET",
