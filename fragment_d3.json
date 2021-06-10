@@ -1,0 +1,673 @@
+{
+    "Main": [
+        {
+            "type": "SAVEINFO",
+            "category": 1,
+            "JPN": "D3 おやっさん",
+            "ENG": "D3 The Old Guy"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5480,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/VTK1_oishi1039.",
+            "TextJPN": "「……………」",
+            "NamesENG": "Ooishi",
+            "TextENG": "``............``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5481,
+            "TextJPN": "言葉など出ない。",
+            "TextENG": "I don't know what to say."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5482,
+            "TextJPN": "…何かを口にしたいのだが、何を口にすればいいか言葉が思いつかず、…私はため息に似たものを吐き出す他ない…。",
+            "TextENG": "I want to say something, but I can't think of the right words. I can only sigh."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5483,
+            "NamesJPN": "熊谷",
+            "PreTextTags": "@vS20/19/VTK1_kumagai1001.",
+            "TextJPN": "「あ、…大石さん！@k@vS20/19/VTK1_kumagai1002.　探したんすよ！！@k@vS20/19/VTK1_kumagai1003.　課長から手配写真の、」",
+            "NamesENG": "Kumagai",
+            "TextENG": "``Ah, Ooishi-san!@k@vS20/19/VTK1_kumagai1002. I've been looking for you!!@k@vS20/19/VTK1_kumagai1003. The section manager asked me about the wanted poster...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5484,
+            "NamesJPN": "鑑識",
+            "PreTextTags": "@vS20/00/VTK1_kanshiki1001.",
+            "TextJPN": "「静かにせい！@k@vS20/00/VTK1_kanshiki1002.　ここは騒ぐ部屋ではないぞ」",
+            "NamesENG": "Forensic Investigator",
+            "TextENG": "``Be quiet!@k@vS20/00/VTK1_kanshiki1002. This is a place of rest.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5485,
+            "TextJPN": "騒がしく飛び込んできた熊谷に、鑑識のじいさまがぴしゃりと言った。",
+            "TextENG": "As Kumagai barged into the room, the old coroner quickly snapped back at him."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5486,
+            "NamesJPN": "熊谷",
+            "PreTextTags": "@vS20/19/VTK1_kumagai1004.",
+            "TextJPN": "「…す、…すみません。@k@vS20/19/VTK1_kumagai1005.えっとですね、課長が容疑者の手配写真について、」",
+            "NamesENG": "Kumagai",
+            "TextENG": "``S... Sorry.@k@vS20/19/VTK1_kumagai1005. Umm, the section manager asked me about the wanted poster for the suspect.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5487,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/VTK1_oishi1040.",
+            "TextJPN": "「…あー、…それ、小宮山くんに相談してくれませんかね。@k@vS20/11/VTK1_oishi1041.ちょいと私、じいさまと話がありまして。@k@vS20/11/VTK1_oishi1042.すぐに上がりますと上に言っといてください」",
+            "NamesENG": "Ooishi",
+            "TextENG": "``...Ah... can you talk to Komiyama-kun about that?@k@vS20/11/VTK1_oishi1041. I need to speak to the coroner here.@k@vS20/11/VTK1_oishi1042. Could you tell him I'll be right over?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5488,
+            "NamesJPN": "熊谷",
+            "PreTextTags": "@vS20/19/VTK1_kumagai1006.",
+            "TextJPN": "「ぇ、…ぁ、わかりました！」",
+            "NamesENG": "Kumagai",
+            "TextENG": "``Eh... o-okay!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5489,
+            "TextJPN": "熊谷は来た時と同じように、騒がしく検死室を飛び出していくのだった。",
+            "TextENG": "Kumagai ran out of the autopsy room with the same haste he entered in."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5490,
+            "NamesJPN": "鑑識",
+            "PreTextTags": "@vS20/00/VTK1_kanshiki1003.",
+            "TextJPN": "「賑やかな男だの」",
+            "NamesENG": "Forensic Investigator",
+            "TextENG": "``Lively, isn't he?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5491,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/VTK1_oishi1043.",
+            "TextJPN": "「おやっさんだったら、やかましいって言ってゲンコツのひとつも食らわしてるところです」",
+            "NamesENG": "Ooishi",
+            "TextENG": "``The old man would've slapped him for making such a fuss.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5492,
+            "NamesJPN": "鑑識",
+            "PreTextTags": "@vS20/00/VTK1_kanshiki1004.",
+            "TextJPN": "「…お前さんも、少し上に戻った方がいいぞい。@k@vS20/00/VTK1_kanshiki1005.ここの空気は慣れんヤツには合わん」",
+            "NamesENG": "Forensic Investigator",
+            "TextENG": "``You probably should go back too.@k@vS20/00/VTK1_kanshiki1005. The air in here isn't for people who aren't used to it.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5493,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/VTK1_oishi1044.",
+            "TextJPN": "「そうですねぇ。@k@vS20/11/VTK1_oishi1045.あんまりサボってると、私もゲンコツを食らっちまいそうです」",
+            "NamesENG": "Ooishi",
+            "TextENG": "``You're right.@k@vS20/11/VTK1_oishi1045. If I slack off too long, I might get slapped as well.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5494,
+            "NamesJPN": "鑑識",
+            "PreTextTags": "@vS20/00/VTK1_kanshiki1006.",
+            "TextJPN": "「…かっかっかっか。@k@vS20/00/VTK1_kanshiki1007.鹿骨界隈じゃ、チンピラも避けて通るお前さんを、ツモの切り方が悪いとゲンコツ食らわせてきたのは、後にも先にもこいつだけだったのぅ…」",
+            "NamesENG": "Forensic Investigator",
+            "TextENG": "``...Ha ha ha ha.@k@vS20/00/VTK1_kanshiki1007. Here in Shishibone, all the hoodlums crossed the street when you passed through, yet he's the only one, past or future, who's ever punched you for splitting your tsumo wrong...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5495,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/VTK1_oishi1046.",
+            "TextJPN": "「容赦のない人だったなぁ…。@k@vS20/11/VTK1_oishi1047.ホントの親父よりゲンコツもらった気がしますよ」",
+            "NamesENG": "Ooishi",
+            "TextENG": "``He really was a merciless man...@k@vS20/11/VTK1_oishi1047. I think he punched me more than my real father.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5496,
+            "NamesJPN": "鑑識",
+            "PreTextTags": "@vS20/00/VTK1_kanshiki1008.",
+            "TextJPN": "「ホントもウソもないわい。@k@vS20/00/VTK1_kanshiki1009.…お前さんがホントの親父だと信じてたなら、こいつもホントの親父だ」",
+            "NamesENG": "Forensic Investigator",
+            "TextENG": "``Doesn't matter if he was your real one or not.@k@vS20/00/VTK1_kanshiki1009. If you looked up to him in the same way, then he really was a father to you.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5497,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/VTK1_oishi1048.",
+            "TextJPN": "「……………」",
+            "NamesENG": "Ooishi",
+            "TextENG": "``............``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5498,
+            "TextJPN": "私の本当の親父は、名古屋で死んだ。",
+            "TextENG": "My real father passed away in Nagoya."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5499,
+            "TextJPN": "…運がなかった。",
+            "TextENG": "...He was unlucky."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5500,
+            "TextJPN": "名古屋の工場への用事なんか仰せつからなければ、空襲に巻き込まれることもなかったのだ。",
+            "TextENG": "If he wasn't given the order to move to a plant in Nagoya, he wouldn't have died in an air raid."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5501,
+            "TextJPN": "…もう半年ものらりくらりとやっていれば、終戦を迎えられたのだから。",
+            "TextENG": "...If he could have rode it out another half a year or so, then the war would have been over."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5502,
+            "TextJPN": "当時の私は、もうしっかりとした成人だったから、…もちろん悲しかったが、母のように床に伏せて涙を流すほどには落ち込まなかった。",
+            "TextENG": "I was sad, of course, but I was grown up enough by then that I didn't cry into the ground like my mother did."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5503,
+            "TextJPN": "でも、…悲しさってのは、人によって違う。",
+            "TextENG": "But... people feel sadness in different ways."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5504,
+            "TextJPN": "一気に押し寄せる人もいれば、いつまでもじわじわと苛まれる人もいる。",
+            "TextENG": "For some people, it comes all at once as an overwhelming wave, but others feel sadness gradually, over a long period of time."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5505,
+            "TextJPN": "…多分、私は後者だった。",
+            "TextENG": "I think I was the latter."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5506,
+            "TextJPN": "生きている頃は、うるさい親父だとしか思わず、どうして徴兵から漏れたんだと心の中で悪態をついたこともあった。",
+            "TextENG": "When he was alive, I only thought of him as annoying. In my mind, I even cursed him with questions about why he avoided the draft."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5507,
+            "TextJPN": "自分でも、その程度のものだと思っていた。",
+            "TextENG": "And I thought my feelings towards him would always be the same."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5508,
+            "TextJPN": "そして終戦。",
+            "TextENG": "Then the war ended."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5509,
+            "TextJPN": "戦地から引き上げて来た人々が、駅で家族と再会するのをうんざりするほど見せ付けられ、…その時、初めて知ったのだ。",
+            "TextENG": "As I saw families and friends being reunited with joy as they came home from the front, it finally happened."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5510,
+            "TextJPN": "あぁ、私は親父を失ったのが、悲しかったんだな、悔しかったんだな、と。",
+            "TextENG": "I grieved for my father's death."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5511,
+            "TextJPN": "日本中に辛い人や悲しい人が溢れていた。",
+            "TextENG": "Japan was filled with people who were sad and full of despair."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5512,
+            "TextJPN": "私ひとりが辛い思いをしたなんて甘えるつもりはない。",
+            "TextENG": "I knew I wasn't the only one whose life ended up that way."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5513,
+            "TextJPN": "…でも、とてもとても悲しかったことを覚えている。",
+            "TextENG": "But... I remember I was very, very heartbroken."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5514,
+            "TextJPN": "終戦を境に、国はがらっと変わり、警官であった自分を取り巻く環境も急激に変化した。",
+            "TextENG": "After the war, the nation completely changed. As a policeman, the environment I worked in went through sudden changes too."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5515,
+            "TextJPN": "私にできることは、日々の仕事に没頭して、忙しさで悲しみを忘れることだけだった。",
+            "TextENG": "In order to forget my sorrow, the only thing I could do was devote myself to my work."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5516,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/VTK1_oishi1049.",
+            "TextJPN": "「……当時、私ゃいろんな取り締まりをやらされてましてね。@k@vS20/11/VTK1_oishi1050.食糧とか生活必需品を非合法な手段で買い込む人たちを、よく検挙したもんです。@k@vS20/11/VTK1_oishi1051.そりゃあもうぞろぞろ引っ掛かりましたっけ」",
+            "NamesENG": "Ooishi",
+            "TextENG": "``At the time, I was in charge of busting people for buying rice illegally.@k@vS20/11/VTK1_oishi1050. I conducted spot checks on travelers at major train stations.@k@vS20/11/VTK1_oishi1051. And boy, did I find a lot of them."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5517,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/VTK1_oishi1052.",
+            "TextJPN": "「穀倉のあたりは物が豊かで、そういったブツを手に入れるのにかなり都合が良かったそうなんですよ」",
+            "NamesENG": "Ooishi",
+            "TextENG": "The granary was rich in goods, and it was quite convenient to get such products.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5518,
+            "TextJPN": "だが…目的はどうであれ、あるいはその価格が高かろうと安かろうと、違法は違法だ。",
+            "TextENG": "But... whatever the purpose, or whether the price is high or low, illegal is illegal."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5519,
+            "TextJPN": "まして、合法的な流通経路を通じて市場へと売り出されたものを、正当な方法で手に入れている購買層が存在する以上、それらを見逃すわけにはいかない。",
+            "TextENG": "As long as there are legitimate buyers who are getting what they want through legitimate distribution channels, we cannot afford to overlook them."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5520,
+            "TextJPN": "だが…この当時の需要と供給のバランスは、明らかに混乱状態だった。",
+            "TextENG": "But... the balance between supply and demand at that time was clearly in a state of confusion."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5521,
+            "TextJPN": "たとえば、米などの食糧を買い求めたいという人たちが多数いる都市部では、その必要量が全く満たされていなかった。",
+            "TextENG": "For example, in urban areas where there were large numbers of people who wanted to buy rice and other foodstuffs, their needs were not being met at all."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5522,
+            "TextJPN": "逆に、人口も少ない辺境などでは売るほどに余っており、それがために。",
+            "TextENG": "On the other hand, in remote areas with small populations, there is a surplus to sell, and that is why."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5523,
+            "TextJPN": "それを法外な金額で売りさばき、一部の黒幕たちが濡れ手に粟のように荒稼ぎする時代でもあった。",
+            "TextENG": "The dealers there sold it at outrageous prices, and some of them became quite wealthy."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5524,
+            "TextJPN": "…園崎家が財を成したのもこの頃だったそうだが、それはここでは割愛する。",
+            "TextENG": "...It was also around this time that the Sonozaki family made their fortune, but I will not go into that here."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5525,
+            "TextJPN": "そういう状況下で、一番割の合わない苦しみと悲しみを味わわされるのが、…一番立場の弱い、法や権力の後ろ盾から見放された一般大衆だった。",
+            "TextENG": "In such a situation, it is the masses, who are in the weakest position and have been left out of the backing of the law and power, who are forced to suffer the most undeserved pain and sorrow."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5526,
+            "NamesJPN": "鑑識",
+            "PreTextTags": "@vS20/00/VTK1_kanshiki1010.",
+            "TextJPN": "「法や権力ってのは、本来そういった連中を救うために作られたものじゃなかったのかの…。@k@vS20/00/VTK1_kanshiki1011.本末転倒というか、何が本当に大事なものかがわからんやつらが多すぎるわい」",
+            "NamesENG": "Forensic Investigator",
+            "TextENG": "``Wasn't law and power originally designed to save people like that?@k@vS20/00/VTK1_kanshiki1011. There are too many people who don't know what's really important.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5527,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/VTK1_oishi1053.",
+            "TextJPN": "「そして、そういう人たちに限って偉くなっちゃうんですからね。@k@vS20/11/VTK1_oishi1054.…やりきれませんよ。@k@vS20/11/VTK1_oishi1055.正直者は馬鹿を見る、とでも言うんですか？」",
+            "NamesENG": "Ooishi",
+            "TextENG": "``And it's only people like that who end up becoming great.@k@vS20/11/VTK1_oishi1054. I couldn't do this.@k@vS20/11/VTK1_oishi1055. Are you saying that honesty is a fool's errand?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5528,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/VTK1_oishi1056.",
+            "TextJPN": "「必要悪どころか、法律自体が現実に即していないというのなら、それを合わせてあげるよう取り計らってやるのがお偉いさんの本来の仕事なのに」",
+            "NamesENG": "Ooishi",
+            "TextENG": "If the law itself is not in line with reality, let alone a necessary evil, then it is the job of the higher-ups to make it fit."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5529,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/VTK1_oishi1057.",
+            "TextJPN": "「…自分たちの懐ばっかりあたためやがって、くそっ…！」",
+            "NamesENG": "Ooishi",
+            "TextENG": "They're just lining their own pockets, damn it...!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5530,
+            "NamesJPN": "鑑識",
+            "PreTextTags": "@vS20/00/VTK1_kanshiki1012.",
+            "TextJPN": "「…お前さんも、ずいぶん割の合わないことをやらされたようじゃな。@k@vS20/00/VTK1_kanshiki1013.守るべきものを守ってやれず、逆にそういう連中の手先みたいに思われて、憎まれて、怨まれて…」",
+            "NamesENG": "Forensic Investigator",
+            "TextENG": "``...It looks like you've been forced to do something that's not worth it.@k@vS20/00/VTK1_kanshiki1013. You couldn't protect what you should have protected, and on the contrary, you was thought of as a pawn of those people, hated and resented."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5531,
+            "NamesJPN": "鑑識",
+            "PreTextTags": "@vS20/00/VTK1_kanshiki1014.",
+            "TextJPN": "「さぞかし釈然としない思いを、何度もしてきたんじゃないか？」",
+            "NamesENG": "Forensic Investigator",
+            "TextENG": "I'm sure you've had a lot of unanswered questions, haven't you?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5532,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/VTK1_oishi1058.",
+            "TextJPN": "「…違反した連中を次々、法と権力を大義名分にしてひっ捕らえていきました」",
+            "NamesENG": "Ooishi",
+            "TextENG": "``...One by one, the violators were rounded up, using the law and power as their cause."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5533,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/VTK1_oishi1059.",
+            "TextJPN": "「…ご婦人方はみんな泣かれるんですよ。@k@vS20/11/VTK1_oishi1060.自分たちだって、やりたくてやったわけじゃない。@k@vS20/11/VTK1_oishi1061.生きるために必死だったんだと」",
+            "NamesENG": "Ooishi",
+            "TextENG": "The women all cried.@k@vS20/11/VTK1_oishi1060. We didn't do it because we wanted to, either.@k@vS20/11/VTK1_oishi1061. They were struggling to stay alive."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5534,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/VTK1_oishi1062.",
+            "TextJPN": "「なのにお偉方はそういった現実から目をそらして、自分たちの不平不満などろくに聞きもしないって…」",
+            "NamesENG": "Ooishi",
+            "TextENG": "And yet, the great people were turning a blind eye to these realities and not even listening to their own complaints...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5535,
+            "NamesJPN": "鑑識",
+            "PreTextTags": "@vS20/00/VTK1_kanshiki1015.",
+            "TextJPN": "「道理だな。@k@vS20/00/VTK1_kanshiki1016.偉い連中ほど生き死にの瀬戸際を味わったことなどないのだから、庶民はたまったもんではないの」",
+            "NamesENG": "Forensic Investigator",
+            "TextENG": "``No wonder.@k@vS20/00/VTK1_kanshiki1016. It's a shame for the common people, because they've never been on the brink of life and death as much as the great ones.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5536,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/VTK1_oishi1063.",
+            "TextJPN": "「とはいえ…嫌々取り締まったってのは、自分への言い訳でしかありません」",
+            "NamesENG": "Ooishi",
+            "TextENG": "``However, the fact that I didn't want to crack down on them is just an excuse to myself."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5537,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/VTK1_oishi1064.",
+            "TextJPN": "「結局私は、上からの命令に唯々諾々と従うだけで、…弱い立場の人たちの都合に対してなんとかしてやろう、って努力もしなかった」",
+            "NamesENG": "Ooishi",
+            "TextENG": "In the end, I just obeyed the orders from the top and didn't make any effort to do anything about the situation of the weak people."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5538,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/VTK1_oishi1065.",
+            "TextJPN": "「情けない話ですよ。@k@vS20/11/VTK1_oishi1066.鬼とか悪魔呼ばわりされたって、仕方がないと思っています」",
+            "NamesENG": "Ooishi",
+            "TextENG": "It's a shameful story.@k@vS20/11/VTK1_oishi1066. I don't blame them for calling me a demon or a devil.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5539,
+            "TextJPN": "…おやっさんとの出会いはそんな中でだったと思う。",
+            "TextENG": "That was when I first met the old man."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5540,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/VTK1_oishi1067.",
+            "TextJPN": "「いやぁ…驚きましたよ。@k@vS20/11/VTK1_oishi1068.…私の親父にね？@k@vS20/11/VTK1_oishi1069.　あまりにもそっくりだったんですよ！@k@vS20/11/VTK1_oishi1070.　私ゃね、てっきり、死んだと思っていた親父が帰ってきてくれたんじゃないかな、って本気で思いましたよ」",
+            "NamesENG": "Ooishi",
+            "TextENG": "``Man... I was surprised.@k@vS20/11/VTK1_oishi1068. ...Remember old man?@k@vS20/11/VTK1_oishi1069. He looked exactly like my father!@k@vS20/11/VTK1_oishi1070. I really thought that maybe my father had miraculously survived the air raid in Nagoya.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5541,
+            "TextJPN": "あの時も…逃走した人間を追っていた。",
+            "TextENG": "I was chasing a man who was running away from the inspection point."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5542,
+            "TextJPN": "もちろん私にも負い目はあった。",
+            "TextENG": "Of course, I felt guilty about that."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5543,
+            "TextJPN": "その違法行為が、生きるためにどうしても仕方がない選択だったのだとわかっていた。",
+            "TextENG": "He knew that this illegal act was a choice that he had to make in order to survive."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5544,
+            "TextJPN": "だから、…追いながらいつも、疑問に感じていた。",
+            "TextENG": "So I was always wondering while chasing people like him."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5545,
+            "TextJPN": "警察って、いったい誰のために存在するのだと。",
+            "TextENG": "I wondered who the police were really there for."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5546,
+            "TextJPN": "捕まえたくない。",
+            "TextENG": "I didn't want to catch him."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5547,
+            "TextJPN": "…窮状を訴える泣き声を聞かされたくなかったから。",
+            "TextENG": "...Because I didn't want to hear him crying and pleading in distress."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5548,
+            "TextJPN": "そんな時、おやっさんが現れたんだ。",
+            "TextENG": "It was then that the old man showed up."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5549,
+            "TextJPN": "…死んだと思った親父に瓜二つ。",
+            "TextENG": "He looked exactly like my dead father."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5550,
+            "TextJPN": "私は面食らった。",
+            "TextENG": "I was dumbfounded."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5551,
+            "TextJPN": "そしたら、その親父が突然、私の頭をゲンコツで小突いたのだ。",
+            "TextENG": "Then, all of a sudden, he punched me in the head."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5552,
+            "TextJPN": "親父に叩かれたら、大人しく頭を垂れるのが子供の役割だ。",
+            "TextENG": "If a father disciplines you, as a child, you lower your head in apology."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5553,
+            "TextJPN": "でもとにかく、死んだと思っていた親父が生きていてくれたので、込み上げる嬉しさが抑え切れなかったんだ。",
+            "TextENG": "I was so happy to see my father alive that I couldn't hold my joy in."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5554,
+            "TextJPN": "おやっさんは言った。",
+            "TextENG": "The old man said,"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5555,
+            "TextJPN": "見逃してやれと。",
+            "TextENG": "``Let him go.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5556,
+            "TextJPN": "声を聞いてすぐに、親父ではないと気付き、私は警官への暴行の現行犯でしょっぴいてやろうと思った。",
+            "TextENG": "When I heard his voice, I realized he wasn't my father. So I thought I'd arrest him for assaulting a policeman."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5557,
+            "TextJPN": "だが、喧嘩慣れしてるおやっさんに、ようやく青二才に毛が生えた程度の私がかなうわけもない。",
+            "TextENG": "But a young man, like me, who'd barely grown any hairs yet, was no match for an older man used to fighting."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5558,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/VTK1_oishi1071.",
+            "TextJPN": "「…いやぁ、たっぷり説教をもらいましたよ。@k@vS20/11/VTK1_oishi1072.大通りの真ん中でぶちのめされた挙句に。@k@vS20/11/VTK1_oishi1073.なっはっは、普通に考えたら、そんなのに耳なんか傾けないですよねぇ？」",
+            "NamesENG": "Ooishi",
+            "TextENG": "``Yeah, he sure taught me a lesson.@k@vS20/11/VTK1_oishi1072. He gave me a good scolding in the middle of the street after I was all beat up.@k@vS20/11/VTK1_oishi1073. Na ha ha, who would even listen to him, right?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5559,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/VTK1_oishi1074.",
+            "TextJPN": "「でもあの時の私ゃどうかしてたんです。@k@vS20/11/VTK1_oishi1075.どうしてもおやっさんが親父に見えちゃって。@k@vS20/11/VTK1_oishi1076.大人しく言うことに耳を傾けることしかできなかったんです」",
+            "NamesENG": "Ooishi",
+            "TextENG": "But something struck me then.@k@vS20/11/VTK1_oishi1075. I kept seeing my father in him.@k@vS20/11/VTK1_oishi1076. All I could do was listen.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5560,
+            "NamesJPN": "鑑識",
+            "PreTextTags": "@vS20/00/VTK1_kanshiki1017.",
+            "TextJPN": "「まぁ、そこで小突いただけじゃなく、男の器量もきっちりと見せられたのが、こいつの大したところだったの。@k@vS20/00/VTK1_kanshiki1018.今時じゃすっかり珍しくなっちまった、古き良き時代の生き残りじゃった」",
+            "NamesENG": "Forensic Investigator",
+            "TextENG": "``Yeah, he was a ruffian, but he showed his guts, like a real man. That's what made him such a great guy.@k@vS20/00/VTK1_kanshiki1018. You don't see men like him nowadays. He was a true example of a man from the good old times.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5561,
+            "TextJPN": "いい年にもなって、私にはまだまだ親父が必要だったのだ。",
+            "TextENG": "Despite my age, I still needed a father."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5562,
+            "TextJPN": "酒を酌み交わし、男の器量を伝授してくれる目上の存在が、まだまだ必要だったのだ…。",
+            "TextENG": "I needed someone to look up to, and to show me what makes a man a man..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5563,
+            "TextJPN": "だから言える。",
+            "TextENG": "When I think about it..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5564,
+            "TextJPN": "……私には親父が二人いた。",
+            "TextENG": "I really did have two fathers."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5565,
+            "TextJPN": "おやっさんは、間違いなく私の親父であり、兄貴であり、…親友だった。",
+            "TextENG": "The old man was a father, a brother, and my best friend."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5566,
+            "TextJPN": "…そのおやっさんは今や、その身体をバラバラにされ、…そして、右腕は…。",
+            "TextENG": "...But now, here he lies with his head, body, arms, and legs all dismembered... and his right arm hasn't been found."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5567,
+            "TextJPN": "男の義理も、酒の飲み方も博打の打ち方も教えてくれて、道を外れたらゲンコツで教えてくれたその右腕が、…未だに見付からない。",
+            "TextENG": "He taught me how to be a man, how to enjoy alcohol, how to play mahjong, and with that right arm, he gave me a good beating when I did something wrong... But that right arm is still missing."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5568,
+            "NamesJPN": "鑑識",
+            "PreTextTags": "@vS20/00/VTK1_kanshiki1019.",
+            "TextJPN": "「…ホシの目星は？」",
+            "NamesENG": "Forensic Investigator",
+            "TextENG": "``Do you have any suspects?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5569,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/VTK1_oishi1077.",
+            "TextJPN": "「えぇ、もちろんついています。@k@vS20/11/VTK1_oishi1078.……おやっさんの右腕ももちろん取り返しますし、…この借りもきっちり返します」",
+            "NamesENG": "Ooishi",
+            "TextENG": "``Yeah, of course.@k@vS20/11/VTK1_oishi1078. ...I swear, I'll find the old man's right arm and pay them back for what they've done to him.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5570,
+            "TextJPN": "雛見沢を影から牛耳り、ダム戦争と称する集団犯罪を煽り立てて来た、…園崎家。",
+            "TextENG": "They're running Hinamizawa from the shadows, and inciting this collective crime they call the dam protests... The Sonozaki family."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5571,
+            "TextJPN": "私は心の中で宣戦布告する。",
+            "TextENG": "I declare war within myself."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5572,
+            "TextJPN": "…私の敵は、すでにはっきりしていた。",
+            "TextENG": "I already know who my enemy is."
+        }
+    ]
+}

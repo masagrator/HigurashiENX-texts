@@ -1,0 +1,931 @@
+{
+    "Main": [
+        {
+            "type": "SAVEINFO",
+            "category": 1,
+            "JPN": "V6 サイコロの６",
+            "ENG": "V6 A 6 on the Dice"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10523,
+            "NamesJPN": "前野",
+            "PreTextTags": "@vS20/00/VTK2_maeno2221.",
+            "TextJPN": "「それじゃ、我々の勝利を祝して…かんぱーい！！」",
+            "NamesENG": "Maeno",
+            "TextENG": "``All right, here's to our victory... Cheers!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10524,
+            "NamesJPN": "巴＆相馬",
+            "PreTextTags": "@o75.@vS20/00/VTK2_souma2008|S20/28/VTK2_tomoe2278.",
+            "TextJPN": "「「かんぱーい！！」」",
+            "NamesENG": "Tomoe & Souma",
+            "TextENG": "````Cheers!!````"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10525,
+            "TextJPN": "ビールがいっぱいに注がれたコップをめいめいに掲げると、私たちは前野さんに従って唱和する。",
+            "TextENG": "We all held up our full beer glasses and sang out following Maeno-san's lead."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10526,
+            "TextJPN": "あまりの勢いに中身が少しこぼれたが、特に気にもならなかった。",
+            "TextENG": "The contents spilled out a bit, but none of us were particularly concerned."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10527,
+            "NamesJPN": "前野",
+            "PreTextTags": "@vS20/00/VTK2_maeno2222.",
+            "TextJPN": "「んっ、んぐ…ぷはーっ！@k@vS20/00/VTK2_maeno2223.　いやぁ～、この寒い時期に冷えたビールってのは、なかなか乙だなぁ！@k@vS20/00/VTK2_maeno2224.　こう、首の後ろがきゅーっと引き締まるっていうか…鍋の熱気を中和して何杯でもいけそうだぜ！」",
+            "NamesENG": "Maeno",
+            "TextENG": "``Nn, ngh... Haah...!@k@vS20/00/VTK2_maeno2223. Man~, a cold beer in this cold season is pretty nice!@k@vS20/00/VTK2_maeno2224. With this tension in the back of my neck... it neutralizes the hot air coming from the pot, so I can drink as many cups as I'd like!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10528,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS20/28/VTK2_tomoe2279.",
+            "TextJPN": "「だからって、飲みすぎないでくださいね？@k@vS20/28/VTK2_tomoe2280.　今日は私も飲んでいますから、ご自宅には送って行けませんよ」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``Still, don't drink too much, all right?@k@vS20/28/VTK2_tomoe2280. I'm drinking too, so I can't drive you home today.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10529,
+            "NamesJPN": "前野",
+            "PreTextTags": "@vS20/00/VTK2_maeno2225.",
+            "TextJPN": "「わかってるっての、しつこいなぁ…。@k@vS20/00/VTK2_maeno2226.今日はそんなにビール飲まねぇよ。@k@vS20/00/VTK2_maeno2227.…おーいおかみ、熱燗３本だ！@k@vS20/00/VTK2_maeno2228.　かーっと胸の奥から燃えたぎるようなやつを頼まぁ！」",
+            "NamesENG": "Maeno",
+            "TextENG": "``I know, I know. Man, you're persistent...@k@vS20/00/VTK2_maeno2226. I won't drink that much today.@k@vS20/00/VTK2_maeno2227. ...Heey, hostess, three more orders of hot sake!@k@vS20/00/VTK2_maeno2228. Bring me something that'll make my heart feel like it's on fire!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10530,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS20/28/VTK2_tomoe2281.",
+            "TextJPN": "「日本酒飲んでたら一緒じゃないですか、もう！」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``Just because you're drinking sake doesn't mean we need to drink it together!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10531,
+            "NamesJPN": "相馬",
+            "PreTextTags": "@vS20/00/VTK2_souma2009.",
+            "TextJPN": "「ははは、お二人さんいいコンビですねぇ…」",
+            "NamesENG": "Souma",
+            "TextENG": "``Hahaha, the two of you make a nice pair...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10532,
+            "TextJPN": "そんな、私たちのやりとりをおかしそうに見つめながら対面に座っている男性…科警研の相馬主任はビール瓶の栓を抜く。",
+            "TextENG": "The man sitting across from us... Chief Souma of NRIPS curiously watched our interactions while opening another beer bottle."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10533,
+            "TextJPN": "それに気づいた私は慌てて横に回り込み、その瓶を受け取って『どうぞ』と彼のグラスにビールをなみなみと注いでいった。",
+            "TextENG": "When I noticed that, I quickly took the bottle and said ``here you go`` while filling his glass."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10534,
+            "NamesJPN": "相馬",
+            "PreTextTags": "@vS20/00/VTK2_souma2010.",
+            "TextJPN": "「あぁどうも、気が利くねぇ。@k@vS20/00/VTK2_souma2011.…ちょっと前野さん、あんまり年下の女性をいじめちゃいけませんよ？」",
+            "NamesENG": "Souma",
+            "TextENG": "``Ah, thanks, you're so considerate.@k@vS20/00/VTK2_souma2011. ...Now Maeno-san, you shouldn't bully a younger woman, you know?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10535,
+            "NamesJPN": "相馬",
+            "PreTextTags": "@vS20/00/VTK2_souma2012.",
+            "TextJPN": "「ただでさえあなたは、部下や関係者への当たりが厳しいって評判なんですから。@k@vS20/00/VTK2_souma2013.調子に乗ってると人事から突っ込まれて、また査問会にかけられますよ」",
+            "NamesENG": "Souma",
+            "TextENG": "``And to make it worse, you have a reputation of being extremely strict with your subordinates and colleagues.@k@vS20/00/VTK2_souma2013. You should lighten up on her. You'll end up in another HR inquiry meeting.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10536,
+            "NamesJPN": "前野",
+            "PreTextTags": "@vS20/00/VTK2_maeno2229.",
+            "TextJPN": "「失礼な、いじめてねぇよ！@k@vS20/00/VTK2_maeno2230.　そりゃもう俺は、南井に対しては親が子に接するように優しく、かいがいしく、そして真摯に――」",
+            "NamesENG": "Maeno",
+            "TextENG": "``How rude, I'm not bullying!@k@vS20/00/VTK2_maeno2230. In fact, I treat Minai the way a parent would treat their child. Gently, patiently, and sincerely...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10537,
+            "NamesJPN": "相馬",
+            "PreTextTags": "@vS20/00/VTK2_souma2014.",
+            "TextJPN": "「…あんたまだ独身でしょうが」",
+            "NamesENG": "Souma",
+            "TextENG": "``...You're still single, aren't you?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10538,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS20/28/VTK2_tomoe2282.",
+            "TextJPN": "「ふふっ…まぁ、親子というたとえは確かにその通りです。@k@vS20/28/VTK2_tomoe2283.もっともライオンの親子に近い関係ですが」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``Hehe... well, the parent/child analogy does hold true.@k@vS20/28/VTK2_tomoe2283. But it's closer to a lion's parent/child relationship.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10539,
+            "NamesJPN": "相馬",
+            "PreTextTags": "@vS20/00/VTK2_souma2015.",
+            "TextJPN": "「千尋の谷に叩き落として、しごき鍛えられてるってか？@k@vS20/00/VTK2_souma2016.　そりゃぁいい、イメージぴったりだ！@k@vS20/00/VTK2_souma2017.　あっはははは！！」",
+            "NamesENG": "Souma",
+            "TextENG": "``Knocking your cubs to the bottom of a ravine for the sake of their training?@k@vS20/00/VTK2_souma2016. That's great! What a perfect mental image!@k@vS20/00/VTK2_souma2017. Aahahahaha!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10540,
+            "NamesJPN": "前野",
+            "PreTextTags": "@vS20/00/VTK2_maeno2231.",
+            "TextJPN": "「おおぉぅ、南井っ！@k@vS20/00/VTK2_maeno2232.　なんだったら本気で谷底に蹴落としてやってもいいんだぞ？！」",
+            "NamesENG": "Maeno",
+            "TextENG": "``Ohhh, Minai!@k@vS20/00/VTK2_maeno2232. Are you saying it's fair for me to actually kick you to the bottom of a valley?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10541,
+            "TextJPN": "そう言って前野さんはからかい半分、本気半分といった表情で私に凄んでくる。",
+            "TextENG": "Maeno-san cut in with a half-teasing, half-serious look on his face."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10542,
+            "TextJPN": "ちょっと前までは、彼にこうやって鋭く睨まれると思わず怯気が走ったものだが…今では笑っていなすこともできるほどに耐性がついてきた。",
+            "TextENG": "Just a little while ago, I was frightened when he stared at me like this... but now, I had built up enough of a tolerance I could even laugh through it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10543,
+            "TextJPN": "それに、前野さんは仕事には厳しく、手抜かりがあった時などは辛辣なほど叱責を繰り出してくる人だが、落ち着いて咀嚼すればその一つ一つが丁寧で、しかも的確だった。",
+            "TextENG": "Plus, Maeno-san was tough when it came to work and he'd give a stern scolding any time I overlooked something, but if you keep calm and think through all his points, every single one of them is conscientious and accurate."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10544,
+            "TextJPN": "厳しい指摘や注意は、相手に対して高いレベルを要求する期待の表れだ。",
+            "TextENG": "His strict reproach and warnings were his way of expressing his high expectations in others."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10545,
+            "TextJPN": "それを理解してからは、他の広報室の同僚たちの心配をよそに、私は怒られ役を率先して引き受けていた。",
+            "TextENG": "After I understood that, I disregarded the concerns from other people at the Public Relations Office and started being proactive."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10546,
+            "TextJPN": "だから、親子というのは言いすぎとしても、それなりに仲のいい年の離れた兄妹みたいな関係。",
+            "TextENG": "So, even if the parent/child relationship is slightly overstating it, it's more like a brother/sister relationship between siblings of a large age gap."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10547,
+            "TextJPN": "…というのは、私の勝手な思い込みというものだろうか。",
+            "TextENG": "...Is it selfish of me to see it that way?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10548,
+            "NamesJPN": "巴",
+            "PreTextTags": "@-@vS20/28/VTK2_tomoe2284.",
+            "TextJPN": "（ただ、今夜だけは…）",
+            "NamesENG": "Tomoe",
+            "TextENG": "(But, just for tonight...)"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10549,
+            "TextJPN": "少しくらいやり返したい気分で、私はわざと不機嫌を装ってみせる。",
+            "TextENG": "I wanted to go back to the old times, just a little, so I intentionally pretended to be ill-tempered."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10550,
+            "TextJPN": "それに気づいた前野さんは少し苦笑しながら、下からのぞき込むように顔を近づけていった。",
+            "TextENG": "Seeming to realize that, Maeno-san had a slight wry smile on his face and leaned his face closer to look at me from below."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10551,
+            "NamesJPN": "前野",
+            "PreTextTags": "@vS20/00/VTK2_maeno2233.",
+            "TextJPN": "「…なんだ、南井？@k@vS20/00/VTK2_maeno2234.　お前、まだ怒ってるのか？」",
+            "NamesENG": "Maeno",
+            "TextENG": "``...What's that, Minai?@k@vS20/00/VTK2_maeno2234. Are you still angry?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10552,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS20/28/VTK2_tomoe2285.",
+            "TextJPN": "「別に…怒ってませんよ。@k@vS20/28/VTK2_tomoe2286.怒ってないけど…ちょっとだけ、だまされた気分で傷ついてるだけです」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``No... I'm not particularly upset.@k@vS20/28/VTK2_tomoe2286. Just a little hurt about being deceived.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10553,
+            "NamesJPN": "前野",
+            "PreTextTags": "@vS20/00/VTK2_maeno2235.",
+            "TextJPN": "「おいおい、だましたなんて人聞きの悪い。@k@vS20/00/VTK2_maeno2236.俺がお前に、嘘なんて言ったか？」",
+            "NamesENG": "Maeno",
+            "TextENG": "``Deceived? Why, I'm hurt.@k@vS20/00/VTK2_maeno2236. Did I ever lie to you?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10554,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS20/28/VTK2_tomoe2287.",
+            "TextJPN": "「嘘は言ってませんけど、本当のことも言ってくれなかったじゃないですか。@k@vS20/28/VTK2_tomoe2288.だいたい、前野さんと相馬さんがお知り合いだったなんて…私、今日初めて聞きましたよ？」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``You may not have lied to me... but you did abstain from telling me the truth, didn't you?@k@vS20/28/VTK2_tomoe2288. Maeno-san, you and Souma-san were already acquainted? ...Yet today was the first I'd heard of it?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10555,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS20/28/VTK2_tomoe2289.",
+            "TextJPN": "「しかも、大学の同じゼミの先輩後輩の関係なんて…思いっきり身内じゃないですか！」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``And not just that, but you attended the same college at the same time, and had a senior/junior relationship with one another... You're practically family!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10556,
+            "NamesJPN": "前野",
+            "PreTextTags": "@vS20/00/VTK2_maeno2237.",
+            "TextJPN": "「あれ、前に言ってなかったっけか？@k@|@y@vS20/00/VTK2_maeno2238.　…いやすまんすまん、忘れてたわ。@k@vS20/00/VTK2_maeno2239.あっはっはっはっ」",
+            "NamesENG": "Maeno",
+            "TextENG": "``Huh? Didn't I tell you that before?@k@|@y@vS20/00/VTK2_maeno2238. ...Sorry, I must've forgotten.@k@vS20/00/VTK2_maeno2239. Ahahahaha.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10557,
+            "TextJPN": "…絶っっ対、嘘だ。",
+            "TextENG": "...What a bald-faced lie."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10558,
+            "TextJPN": "それこそ四面楚歌の思いで科警研に乗り込んで、協力を求めるべく決死の覚悟だった私を後でからかおうと思って、わざと黙っていたに違いない。",
+            "TextENG": "He must have intentionally kept silent because he wanted to tease me and make me think I had enemies on all sides when I desperately pleaded with NRIPS to win their cooperation."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10559,
+            "TextJPN": "…今になってみると、相馬さんはあのプレゼンの時は常にうまいタイミングで発言して、場の雰囲気をこちら側に有利になるようさし向けてくれていた気がする。",
+            "TextENG": "...Looking back on it now, Souma-san always spoke up at just the right time during the presentation, trying to set up the atmosphere in the room to give us an advantage."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10560,
+            "TextJPN": "つまり、私はまんまと前野さんの策に乗せられて…いわば出来レース上で七転八倒していたということだ…。",
+            "TextENG": "In other words, I was completely taken in by Maeno-san's plan... I was writhing in agony even though our victory was practically assured from the start..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10561,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS20/28/VTK2_tomoe2290.",
+            "TextJPN": "「…私、あのプレゼンで生きた心地がしなかったんですよ？」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``...You know how miserable I felt during that presentation?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10562,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS20/28/VTK2_tomoe2291.",
+            "TextJPN": "「私より年配の…それも、スキルと知識がはるか上の偉い人たちにプロファイリング分析の必要性と協力の要請をするなんて、まさしく釈迦に説法な気分だったんですから！」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``Making me explain the necessity of profiling analysis to people older than me... top-brass people far more skilled and knowledgeable than me... and asking for their help? I felt like I was teaching fish to swim!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10563,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS20/28/VTK2_tomoe2292.",
+            "TextJPN": "「自分が知ったかぶった態度をとってるんじゃないかって、どれだけ気恥ずかしかったか…」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``Do you have any idea how embarrassing it is to know you were carrying on with that sly attitude...?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10564,
+            "NamesJPN": "相馬",
+            "PreTextTags": "@vS20/00/VTK2_souma2018.",
+            "TextJPN": "「ああ…確かに、あれは見物だったよな。@k@vS20/00/VTK2_souma2019.プロファイリング分析の細かいところに突っ込みを入れたら、懸命に動揺を隠そうとしながら返答を絞り出そうとしているのがバレバレでさ」",
+            "NamesENG": "Souma",
+            "TextENG": "``Yes... it certainly was a sight to behold.@k@vS20/00/VTK2_souma2019. Once you were interrogated on the finer details of profiling analysis, you were clearly trying to hide your agitation while squeezing out the answers.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10565,
+            "NamesJPN": "相馬",
+            "PreTextTags": "@vS20/00/VTK2_souma2020.",
+            "TextJPN": "「正直、こっちも笑いをこらえるのが大変だったよ」",
+            "NamesENG": "Souma",
+            "TextENG": "``To be honest, it was hard to keep myself from laughing.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10566,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS20/28/VTK2_tomoe2293.",
+            "TextJPN": "「相馬さんも…酷いです！@k@vS20/28/VTK2_tomoe2294.　私だって、絶対皆さんのほうがお詳しいってわかっていましたけど、…だったらあの時、私をからかっていたんですかっ？」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``You too, Souma-san? ...You're terrible!@k@vS20/28/VTK2_tomoe2294. I figured you knew more than everyone else... but even you were making fun of me at the time?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10567,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS20/28/VTK2_tomoe2295.",
+            "TextJPN": "「私、相馬さんたちからご指摘を受けるたびに、自分の勉強不足が申し訳なくて、ほんとに…」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``Souma-san, every time you and the others pointed something out, I seriously felt terrible about my insufficient study...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10568,
+            "NamesJPN": "前野",
+            "PreTextTags": "@vS20/00/VTK2_maeno2240.",
+            "TextJPN": "「まぁまぁ、確かに少し遊びが過ぎたかもしれんな。@k@vS20/00/VTK2_maeno2241.…だが、逆にそれが良かったのさ」",
+            "NamesENG": "Maeno",
+            "TextENG": "``Well, it's true that we may have gotten a little carried away.@k@vS20/00/VTK2_maeno2241. ...But on the other hand, things went well.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10569,
+            "TextJPN": "そう言いながら前野さんは、到着したばかりの熱燗を仲居さんから受け取って、お猪口を相馬さん、さらに私にも手ずから渡すと、にこやかに笑う。",
+            "TextENG": "As he said that, Maeno-san collected the hot sake that the waitress had just brought, then handed a glass to Souma-san and another to me, with a cheerful smile on his face."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10570,
+            "TextJPN": "そしてそれぞれに酌をして、最後に自分の杯にもお酒を満たしてから相好を崩し、私に向き直っていった。",
+            "TextENG": "Then he filled each glass one by one, before turning to me with a broad grin."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10571,
+            "NamesJPN": "前野",
+            "PreTextTags": "@vS20/00/VTK2_maeno2242.",
+            "TextJPN": "「…プロファイリング分析の手法は、科警研が数年前から目をつけていた」",
+            "NamesENG": "Maeno",
+            "TextENG": "``...NRIPS has been following profiling analysis techniques for several years now.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10572,
+            "NamesJPN": "前野",
+            "PreTextTags": "@vS20/00/VTK2_maeno2243.",
+            "TextJPN": "「俺も、相馬から何度かその関連の話を聞かされて…本当にそれが確立されれば、事件捜査の革新的な進歩がありうる、という期待を持ったもんだ」",
+            "NamesENG": "Maeno",
+            "TextENG": "``Souma has even spoken to me about it several times in the past... I really do expect a revolutionary advancement in investigation progress if it can become well established.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10573,
+            "NamesJPN": "前野",
+            "PreTextTags": "@vS20/00/VTK2_maeno2244.",
+            "TextJPN": "「そして、茨城県警の本条さんが意見交流会で発表したプロファイリングについての論文は、その発端になりうるものでは、と思えるほどに興味深いものだった」",
+            "NamesENG": "Maeno",
+            "TextENG": "``And a paper Honjou-san of Ibaraki prefectural police submitted at a meeting drummed up enough interest to get things started.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10574,
+            "TextJPN": "…だが、それを実際に現場へと試験導入してみては、という意見が立ちあがっても、それが実行に移されることはなかった。",
+            "TextENG": "...But even though they reached the consensus that it would be necessary to test it in the field, they never put it into practice."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10575,
+            "TextJPN": "なぜなら科警研には組織に提案するところで、組織をまとめる権限はない。",
+            "TextENG": "Because NRIPS doesn't have the authority to put together an organization to handle the proposal."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10576,
+            "TextJPN": "ゆえに現場の誰が指揮を執って責任をとるのか、といった枠組みが全く整備されなかったためだ。",
+            "TextENG": "Thus, there was no framework for establishing who was in charge in the field and who was responsible."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10577,
+            "TextJPN": "また…科警研と現場捜査員たちとのつながりは、ゼロどころかマイナスだった。",
+            "TextENG": "Plus... the connection between NRIPS and field investigators was worse than nonexistent, it was negative."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10578,
+            "TextJPN": "そのために、お互いに自分の職分へ立ち入られることを嫌い、また成功した際には手柄を横取りされるのでは、との疑念を晴らすことができなかったのだ。",
+            "TextENG": "Thanks to that, both sides resented one another for getting in the way of their work, or stealing the credit for their accomplishments, so it would be impossible to clear up those doubts."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10579,
+            "NamesJPN": "相馬",
+            "PreTextTags": "@vS20/00/VTK2_souma2021.",
+            "TextJPN": "「だからこそ、スタッフ系ではなく現場出身の元刑事が提案し、そして実践に移す手段を持ちかけてきた時、俺たちはむしろ、喝采を上げたのさ」",
+            "NamesENG": "Souma",
+            "TextENG": "``That's why we all cheered when we heard the person who came up with the means to put it into practice wasn't some desk jockey, but a detective with prior field experience.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10580,
+            "NamesJPN": "相馬",
+            "PreTextTags": "@vS20/00/VTK2_souma2022.",
+            "TextJPN": "「俺たちがどれだけ言葉を尽くして正論を並べ立てても、現場との壁はそう簡単には打ち破ることができない」",
+            "NamesENG": "Souma",
+            "TextENG": "``No matter how exhaustingly we explain the theories behind it, the wall between us and the field couldn't be broken so easily.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10581,
+            "NamesJPN": "相馬",
+            "PreTextTags": "@vS20/00/VTK2_souma2023.",
+            "TextJPN": "「だが、南井警部。@k@vS20/00/VTK2_souma2024.警察庁上層部からのお達しに加えて、現場刑事たちに近いお前さんが橋渡し役を務めるというのなら、おそらく彼らも無下にはせずに耳を傾けてくれるだろう」",
+            "NamesENG": "Souma",
+            "TextENG": "``But Chief Inspector Minai,@k@vS20/00/VTK2_souma2024. not only do you have reach with the upper echelons of the NPA, but you're also close to the field detectives. So they'd probably be willing to listen to you, and you can act as the bridge between.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10582,
+            "NamesJPN": "相馬",
+            "PreTextTags": "@vS20/00/VTK2_souma2025.",
+            "TextJPN": "「ＴＶ局との提携も、確実性と秘密主義にこだわりすぎて自縄自縛に陥っていた科警研には、必要な刺激だった。@k@vS20/00/VTK2_souma2026.…その可能性に、俺たちは賭けたんだよ」",
+            "NamesENG": "Souma",
+            "TextENG": "``The tie-in with the TV stations was also a necessary motivator for NRIPS, who had shot themselves in the foot with their obsession with secrecy and reliability.@k@vS20/00/VTK2_souma2026. ...So, we bet on this possibility.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10583,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS20/28/VTK2_tomoe2296.",
+            "TextJPN": "「…相馬さん」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``...Souma-san.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10584,
+            "NamesJPN": "相馬",
+            "PreTextTags": "@vS20/00/VTK2_souma2027.",
+            "TextJPN": "「その期待に、お前さんは十分すぎるほどこたえてくれた。@k@vS20/00/VTK2_souma2028.…ありがとうな、南井警部。@k@vS20/00/VTK2_souma2029.仲間の分まで、感謝させてくれ」",
+            "NamesENG": "Souma",
+            "TextENG": "``And you've more than met those expectations.@k@vS20/00/VTK2_souma2028. ...Thank you, Chief Inspector Minai.@k@vS20/00/VTK2_souma2029. And let me thank you on behalf of my colleagues as well.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10585,
+            "TextJPN": "相馬さんは穏やかなまなざしを私に送りながら、手に持った杯を掲げてみせる。",
+            "TextENG": "Souma-san gave me a gentle look as he raised his glass in hand."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10586,
+            "TextJPN": "最初会った時はいかにも堅苦しくてプライドの高い、とっつきにくい印象の人だったが…年下だとか女性だとかで態度を変えない、とても真摯な態度には素直に好感が持てた。",
+            "TextENG": "When I first met him, he seemed stiff, prideful, and hard to reach... but he didn't alter his behavior at all just because I was younger or female, so I was honestly impressed by his sincere attitude."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10587,
+            "NamesJPN": "前野",
+            "PreTextTags": "@vS20/00/VTK2_maeno2245.",
+            "TextJPN": "「まぁ、お前さんから提供された資料を読んだ時から、科警研の所長と総務部長は今回の提案に対して賛成するつもりでいたそうだ」",
+            "NamesENG": "Maeno",
+            "TextENG": "``Well, ever since they read the material you prepared for this proposal, the director of NRIPS and the general manager were already going to agree to it.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10588,
+            "NamesJPN": "前野",
+            "PreTextTags": "@vS20/00/VTK2_maeno2246.",
+            "TextJPN": "「もちろん、それは本条さんのネームバリューと、それ以上に官房長の口利きがあったことが大きかったんだがな」",
+            "NamesENG": "Maeno",
+            "TextENG": "``Of course, that was largely due to Honjou-san's name being attached, and the Commissioner's influence making a big deal out of it.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10589,
+            "NamesJPN": "前野",
+            "PreTextTags": "@vS20/00/VTK2_maeno2247.",
+            "TextJPN": "「そして、現場の主任クラスでそれなりに発言力のあるやつらには、相馬が事前に根回ししてくれていた」",
+            "NamesENG": "Maeno",
+            "TextENG": "``And Souma negotiated in advance to have speaking power with someone on the chief level out in the field.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10590,
+            "NamesJPN": "前野",
+            "PreTextTags": "@vS20/00/VTK2_maeno2248.",
+            "TextJPN": "「…実際のところ、出来レースだとお前が不快に思うかもしれないほどに、状況は俺たちにとって@bフォロー.@<追い風@>だったのさ」",
+            "NamesENG": "Maeno",
+            "TextENG": "``...In fact, we had such a strong tailwind behind us I might be uncomfortable calling it a fair race.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10591,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS20/28/VTK2_tomoe2297.",
+            "TextJPN": "「…光栄です。@k@vS20/28/VTK2_tomoe2298.ですが、みなさんのそこまでのご厚意に甘えて頼りきってしまって、なんだか申し訳ないです。@k@vS20/28/VTK2_tomoe2299.結局、私は何もできず…皆さんのお気遣いに乗っかっただけで…」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``...I'm honored.@k@vS20/28/VTK2_tomoe2298. But I'm also sorry for having come to rely on all the kindness you provided.@k@vS20/28/VTK2_tomoe2299. In the end, I couldn't do anything... I was just riding on the compassion of others...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10592,
+            "NamesJPN": "前野",
+            "PreTextTags": "@vS20/00/VTK2_maeno2249.",
+            "TextJPN": "「…そこまで自分を卑下するな、南井。@k@vS20/00/VTK2_maeno2250.俺たちは、お前が頼りないから支援したわけじゃない」",
+            "NamesENG": "Maeno",
+            "TextENG": "``...No need to be so humble, Minai.@k@vS20/00/VTK2_maeno2250. We didn't choose to support you because we thought you needed it.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10593,
+            "NamesJPN": "前野",
+            "PreTextTags": "@vS20/00/VTK2_maeno2251.",
+            "TextJPN": "「お前が、俺たちの意気をしっかり理解できるやつだと見込んだからこそ、遠慮なく力を貸したんだ。@k@vS20/00/VTK2_maeno2252.その点については、しっかり胸を張れ」",
+            "NamesENG": "Maeno",
+            "TextENG": "``We helped you without any hesitation, because we fully expected you to be capable of carrying out our will.@k@vS20/00/VTK2_maeno2252. And for that, you should be proud.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10594,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS20/28/VTK2_tomoe2300.",
+            "TextJPN": "「え…？」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``Huh...?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10595,
+            "NamesJPN": "前野",
+            "PreTextTags": "@vS20/00/VTK2_maeno2253.",
+            "TextJPN": "「責任と覚悟を持つ心構えは、確かに大事だ。@k@vS20/00/VTK2_maeno2254.そして、それを他人に訴えかけるためには、やはり本人が努力している姿を見せるしかないだろう」",
+            "NamesENG": "Maeno",
+            "TextENG": "``Responsibility and conviction are certainly important things to have.@k@vS20/00/VTK2_maeno2254. And you can only get through to others by demonstrating that you're capable of making the necessary effort.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10596,
+            "NamesJPN": "前野",
+            "PreTextTags": "@vS20/00/VTK2_maeno2255.",
+            "TextJPN": "「…だがな、それは自分ひとりで全てを背負わなきゃいけないってことじゃない。@k@vS20/00/VTK2_maeno2256.得意分野は誰かに任せて、自分は自分にできることを全力でやる」",
+            "NamesENG": "Maeno",
+            "TextENG": "``...But that doesn't mean you need to carry the burden all on your own.@k@vS20/00/VTK2_maeno2256. Leave others to handle their area of expertise, and just do the best you can.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10597,
+            "NamesJPN": "前野",
+            "PreTextTags": "@vS20/00/VTK2_maeno2257.",
+            "TextJPN": "「初めから他力本願はよくないが、自分ひとりでできる範囲も量も、たかだか知れているってことを忘れるな」",
+            "NamesENG": "Maeno",
+            "TextENG": "``It's wrong to depend on others from the start, but never forget that there's only so much you can do entirely on your own.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10598,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS20/28/VTK2_tomoe2301.",
+            "TextJPN": "「前野さん…」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``Maeno-san...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10599,
+            "NamesJPN": "相馬",
+            "PreTextTags": "@vS20/00/VTK2_souma2030.",
+            "TextJPN": "「それに、勘違いしないでくれよ。@k@vS20/00/VTK2_souma2031.俺たちは、お前さんに振り回されたんじゃない…むしろ、振り回すんだ。@k@vS20/00/VTK2_souma2032.ずっと今まで、変えたいと思っていたことを実現するためにな」",
+            "NamesENG": "Souma",
+            "TextENG": "``And please don't misunderstand.@k@vS20/00/VTK2_souma2031. Don't think that we're being swayed by you... We're actually acting of our own accord.@k@vS20/00/VTK2_souma2032. This is for the sake of making a change we always dreamed of a reality.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10600,
+            "NamesJPN": "相馬",
+            "PreTextTags": "@vS20/00/VTK2_souma2033.",
+            "TextJPN": "「だから引け目になるな、堂々としていけ。@k@vS20/00/VTK2_souma2034.そして、これから先も俺たちの期待に応えてみせろ。@k@vS20/00/VTK2_souma2035.それがお前さんにできる、一番の貢献だよ」",
+            "NamesENG": "Souma",
+            "TextENG": "``So don't feel inferior. Be proud.@k@vS20/00/VTK2_souma2034. And continue living up to our expectations.@k@vS20/00/VTK2_souma2035. That is the very best thing you can do to contribute.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10601,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS20/28/VTK2_tomoe2302.",
+            "TextJPN": "「…。@k@vS20/28/VTK2_tomoe2303.ありがとうございます」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``...@k@vS20/28/VTK2_tomoe2303.Thank you.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10602,
+            "TextJPN": "前野さんに、相馬さん。",
+            "TextENG": "Maeno-san, Souma-san."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10603,
+            "TextJPN": "…彼らの言葉が、あたたかい。",
+            "TextENG": "...Your words are so warm."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10604,
+            "TextJPN": "私はずっと、科警研の研究員たちを説得するために…それこそ寝る間も惜しんで必死に資料をまとめてきた。",
+            "TextENG": "I've been doing my utmost to persuade the researchers at NRIPS... That's why I eschewed sleep to desperately work on compiling these materials."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10605,
+            "TextJPN": "自分が失敗すれば、前野さんや官房長…所長たちの厚意と支援を裏切ることになってしまうと、その責任を重苦しいほどに感じ続けていた。",
+            "TextENG": "If I failed... I'd be betraying the kindness and support that Maeno-san, the Commissioner, the director, and everyone had shown to me. So I continued to feel the heavy responsibility of that."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10606,
+            "TextJPN": "だけど…実際には、周囲の偉い人たちは自分のために、ここまで色々と心を尽くしてくれていた。",
+            "TextENG": "But... the truth is, these great people around me are doing this exhausting work for their sake as well."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10607,
+            "TextJPN": "ありがたい。",
+            "TextENG": "Thank you."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10608,
+            "TextJPN": "そして、申し訳ない。",
+            "TextENG": "And, I'm sorry."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10609,
+            "TextJPN": "自分ひとりで大きなものを動かそうなど、なんと矮小で傲慢な考え方か…。",
+            "TextENG": "What a stunted, arrogant way of thinking. Believing I had to do something so huge all on my own..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10610,
+            "NamesJPN": "前野",
+            "PreTextTags": "@vS20/00/VTK2_maeno2258.",
+            "TextJPN": "「…とはいえ、南井警部。@k@vS20/00/VTK2_maeno2259.これからが、さらに大変だぞ」",
+            "NamesENG": "Maeno",
+            "TextENG": "``...Although, Chief Inspector Minai,@k@vS20/00/VTK2_maeno2259. from now on things are going to get even more difficult.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10611,
+            "NamesJPN": "前野",
+            "PreTextTags": "@vS20/00/VTK2_maeno2260.",
+            "TextJPN": "「お前は現場の捜査員やその責任者にかけ合って、今回のプロジェクトに力を貸してもらえるよう頼んで回らなきゃいけないんだからな。@k@vS20/00/VTK2_maeno2261.…むしろこれからのほうが、大変かもしれない」",
+            "NamesENG": "Maeno",
+            "TextENG": "``You'll need to talk to investigators in the field and the people in charge of them, convincing them to support your project.@k@vS20/00/VTK2_maeno2261. ...I think that'll be far harder than this.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10612,
+            "NamesJPN": "前野",
+            "PreTextTags": "@vS20/00/VTK2_maeno2262.",
+            "TextJPN": "「現場の連中は抱えている事件だけでも手一杯だから、得体のしれない依頼や要請には当然難色を示すはずだ。@k@vS20/00/VTK2_maeno2263.思っているほどに、簡単なものじゃないぞ」",
+            "NamesENG": "Maeno",
+            "TextENG": "``The on-site investigators have their hands full with plenty of case work, so needless to say, they'll be hesitant to agree to any unfamiliar requests and demands.@k@vS20/00/VTK2_maeno2263. Getting through to them is not as easy as you might think.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10613,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS20/28/VTK2_tomoe2304.",
+            "TextJPN": "「…心します。@k@vS20/28/VTK2_tomoe2305.甘えることなく、今回のように当たって砕ける覚悟で説得に臨みます」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``...I'll take that to heart.@k@vS20/28/VTK2_tomoe2305. I won't go easy. I'll hit them with everything I've got, and persuade them.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10614,
+            "TextJPN": "一瞬、『…わかっています』とは心のうちで思いながらも、口には出さなかった。",
+            "TextENG": "For a moment, I thought to myself ``...I already know that,`` but I wasn't about to say that."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10615,
+            "TextJPN": "そう答えることは、前野さんの忠告を軽んずる発言のようにも思えたからだ。",
+            "TextENG": "Because answering that way would be making light of Maeno-san's thoughtful advice."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10616,
+            "NamesJPN": "前野",
+            "PreTextTags": "@vS20/00/VTK2_maeno2264.",
+            "TextJPN": "「ん？@k@vS20/00/VTK2_maeno2265.　おぉ、来た来た…待ってましたよ～！」",
+            "NamesENG": "Maeno",
+            "TextENG": "``Hmm?@k@vS20/00/VTK2_maeno2265. Ohh, it's here... I've been waiting~!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10617,
+            "TextJPN": "その時、ちょうど場の空気を読んだように仲居さんが、鍋の具材を部屋の中に運びこんでくる。",
+            "TextENG": "Just then, the waitress walked in with the hot pot ingredients, as if she could read the atmosphere of the room."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10618,
+            "TextJPN": "それを前野さんは喝采を上げて受け取り、ぐつぐつと煮立った鍋の中にそれを遠慮なく放り込んでいった。",
+            "TextENG": "Maeno-san cheered as he grabbed it, and then tossed it into the pot without any hesitation."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10619,
+            "NamesJPN": "巴",
+            "PreTextTags": "@-@vS20/28/VTK2_tomoe2306.",
+            "TextJPN": "（フグ鍋…かぁ）",
+            "NamesENG": "Tomoe",
+            "TextENG": "(Pufferfish hot pot, huh...?)"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10620,
+            "TextJPN": "実は、フグを食べるのは生まれて初めてだった。",
+            "TextENG": "This was actually my first time eating pufferfish."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10621,
+            "TextJPN": "毒にあたったらどうしようという不安はちょっとだけあるが、…そんなこと言ったら前野さんたちに本気で笑われるだろうな。",
+            "TextENG": "I'm a little worried about getting poisoned... but if I said anything about it, Maeno-san and Souma-san would seriously laugh at me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10622,
+            "NamesJPN": "相馬",
+            "PreTextTags": "@vS20/00/VTK2_souma2036.",
+            "TextJPN": "「…本当は、俺が是非ともタッチしたかったんですがね。@k@vS20/00/VTK2_souma2037.残念ながら今、結構な数の事件鑑識の依頼が重なってて…ちょっと無理っぽいんですよ」",
+            "NamesENG": "Souma",
+            "TextENG": "``...Honestly, I really wanted to play a hands-on role.@k@vS20/00/VTK2_souma2037. But unfortunately, there are a lot of requests for forensic investigations nowadays... so it's kind of impossible for me.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10623,
+            "NamesJPN": "相馬",
+            "PreTextTags": "@vS20/00/VTK2_souma2038.",
+            "TextJPN": "「今後お手伝いできるのは、せいぜい下準備くらいですかね」",
+            "NamesENG": "Souma",
+            "TextENG": "``So, I guess the only thing I can help you with going forward is preliminary arrangements.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10624,
+            "NamesJPN": "前野",
+            "PreTextTags": "@vS20/00/VTK2_maeno2266.",
+            "TextJPN": "「まぁ、できるやつに仕事が集まるのは仕方ないさ。@k@vS20/00/VTK2_maeno2267.…で、担当は誰になりそうだ？」",
+            "NamesENG": "Maeno",
+            "TextENG": "``Well, it's inevitable that the work piles up for the capable.@k@vS20/00/VTK2_maeno2267. ...So, who will be in charge of things then?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10625,
+            "NamesJPN": "相馬",
+            "PreTextTags": "@vS20/00/VTK2_souma2039.",
+            "TextJPN": "「おそらく、能力的に適しているということで…大内主任じゃないかと。@k@vS20/00/VTK2_souma2040.もっとも、若干温情人事も関わっているみたいですがね」",
+            "NamesENG": "Souma",
+            "TextENG": "``The person most suitable for the task is probably... Chief Oouchi?@k@vS20/00/VTK2_souma2040. Although, it seems personnel affairs is giving it some consideration.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10626,
+            "NamesJPN": "前野",
+            "PreTextTags": "@vS20/00/VTK2_maeno2268.",
+            "TextJPN": "「ふむ…大内か。@k@vS20/00/VTK2_maeno2269.せめて岸とか、山辺あたりなら色々進めやすかったんだが…あいつはどうも、自分を過信してるところがちょっとなぁ」",
+            "NamesENG": "Maeno",
+            "TextENG": "``Hmm... Oouchi, huh?@k@vS20/00/VTK2_maeno2269. He does at least have a lot of experience in many fields... but it concerns me how overconfident he is in himself.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10627,
+            "NamesJPN": "相馬",
+            "PreTextTags": "@vS20/00/VTK2_souma2041.",
+            "TextJPN": "「大丈夫…とは言い切れませんね。@k@vS20/00/VTK2_souma2042.もっとも、現場の捜査員たちと積極的に接点を持たない限り、たぶん問題ないでしょう。@k@vS20/00/VTK2_souma2043.そのあたりは、調整役の南井警部の働きに期待って感じですかね。@k@vS20/00/VTK2_souma2044.あとは…」",
+            "NamesENG": "Souma",
+            "TextENG": "``Well... I can't say it'll be all right.@k@vS20/00/VTK2_souma2042. But as long as he's not actively dealing with the investigators in the field, there probably won't be any problems.@k@vS20/00/VTK2_souma2043. I'm expecting Chief Inspector Minai to play an active role as the coordinator on that front.@k@vS20/00/VTK2_souma2044. Plus...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10628,
+            "TextJPN": "……。",
+            "TextENG": "......"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10629,
+            "TextJPN": "そんな二人の会話を半分聞き流しながら、私は鍋のあく取りをしつつ遠くに想いを馳せる。",
+            "TextENG": "While half-listening to the conversation between the two of them, I opened the lid on the pot and gazed at it while feeling distant."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10630,
+            "TextJPN": "数ヶ月前まで、自分ほど不遇なやつはいないと思っていたけれど…本当に、信じられないほどの幸運の連続だった。",
+            "TextENG": "Until a few months ago, I thought there was nobody as unlucky as me... but the truth is, I've had an incredible series of good luck."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10631,
+            "TextJPN": "前野さん。",
+            "TextENG": "Maeno-san."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10632,
+            "TextJPN": "相馬さん。",
+            "TextENG": "Souma-san."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10633,
+            "TextJPN": "長官官房長に科警研の所長、そして本条さん…。",
+            "TextENG": "The Commissioner's Secretariat, the director of NRIPS, and Honjou-san..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10634,
+            "TextJPN": "こんなにも、有力で優秀な支援者に恵まれたことに怖いくらいの思いがせりあがってきて、お玉を持つ手が震える。",
+            "TextENG": "I was blessed with so many excellent and influential supporters, it was scary. My hand trembled as I held the ladle."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10635,
+            "TextJPN": "今の状況をたとえるなら、そう…仕掛けられたサイコロを渡されて、延々と６が出続けているようなものだった。",
+            "TextENG": "Looking at the current situation, yes... it was like being passed a set of dice and rolling a six over and over."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10636,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS20/28/VTK2_tomoe2307.",
+            "TextJPN": "「……」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10637,
+            "TextJPN": "逆にこの先、幸運の揺り戻しで思わぬ落とし穴が待っているのでは。",
+            "TextENG": "On the other hand, I'm wondering what unexpected pitfalls are awaiting beyond this good fortune."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10638,
+            "TextJPN": "…そんな小さな不安が、ちくちくと浮つきかけた気持ちに突き刺さっていく。",
+            "TextENG": "...That small anxiety floated to mind, stabbing at my thoughts."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10639,
+            "TextJPN": "だけど、…もう、それを畏れて躊躇っている暇は、ない。",
+            "TextENG": "But... I have no time for fear or hesitation."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10640,
+            "TextJPN": "私は前に進む。",
+            "TextENG": "I need to move forward."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10641,
+            "TextJPN": "進むと、決めたんだ。",
+            "TextENG": "I've decided I'll keep going."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 10642,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS20/28/VTK2_tomoe2308.",
+            "TextJPN": "「渚さん…。@k@vS20/28/VTK2_tomoe2309.まだまだクリアするものは多いけど、何とか頑張れそうよ。@k@vS20/28/VTK2_tomoe2310.…待っててね」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``Nagisa-san...@k@vS20/28/VTK2_tomoe2309. There are still so many things I need to accomplish, but I think I can do it.@k@vS20/28/VTK2_tomoe2310. ...So, please wait a little longer.``"
+        }
+    ]
+}

@@ -1,0 +1,3484 @@
+{
+    "Main": [
+        {
+            "type": "SAVEINFO",
+            "category": 0,
+            "JPN": "route 魅音4",
+            "ENG": "Mion Route 4"
+        },
+        {
+            "type": "SAVEINFO",
+            "category": 1,
+            "JPN": "#1 デザートフェスタ",
+            "ENG": "#1 / Dessert Festa"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26785,
+            "TextJPN": "家につくなりカバンを放り出し、手早く着替える。",
+            "TextENG": "As soon as I got home, I tossed aside my schoolbag and changed in a hurry."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26786,
+            "TextJPN": "昼飯を軽く済ませた効果はすでに出ている。@kお腹の虫がコロコロと鳴きだしていた。",
+            "TextENG": "The effects of only having a light lunch were starting to show...@k ...As my stomach began to let out fickle growls."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26787,
+            "TextJPN": "さぁ行くぞ、エンジェルモートへ！！",
+            "TextENG": "Alright, let's go! To Angel Mort!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26788,
+            "TextJPN": "いざ臨まん、デザート食い放題の世界へ！！",
+            "TextENG": "It's time to face the land of endless dessert!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26789,
+            "TextJPN": "戦闘準備完了ッ！！@k　出発だぁあぁあぁああ！！！",
+            "TextENG": "Preparations for battle are complete!!@k Tally ho!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26790,
+            "TextJPN": "エンジェルモートは、確かに昨日までとはどこか違う雰囲気に包まれていた。",
+            "TextENG": "Angel Mort had a decidedly different feel to it compared to yesterday."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26791,
+            "TextJPN": "『デザートフェスタ開催・本日招待客さま貸切です』",
+            "TextENG": "『Dessert Festa today - Admittance by reservation only.』"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26792,
+            "TextJPN": "にも拘らず、店の前には１０人を超えるいい年をしたお兄ちゃんたちが群がっている。",
+            "TextENG": "Nonetheless, the front of the store was being swarmed by over a dozen young men."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26793,
+            "TextJPN": "入店できずにうらやましそうに見上げているところを見ると、招待客ではないようだ。",
+            "TextENG": "Judging by how they were looking upwards in jealousy instead of entering the store, they weren't invitees."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26794,
+            "TextJPN": "ではなぜ入店できないと知りつつ、なぜ群がっている？",
+            "TextENG": "Why would they gather here if they knew they couldn't get in?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26795,
+            "TextJPN": "その答えは、彼らの間を抜け、お店の入口への階段に足をかけた時にわかった。",
+            "TextENG": "I found out the answer when I passed through the crowd and began to climb the steps to enter the restaurant."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26796,
+            "NamesJPN": "男",
+            "PreTextTags": "@vS19/00/manZ50001.",
+            "TextJPN": "「あ、あんた…当選者なのか？！@k@vS19/00/manZ50002.　チケットを持ってるのか？！」",
+            "NamesENG": "Man",
+            "TextENG": "``A-Are you... a participant!?@k@vS19/00/manZ50002. Do you have a ticket!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26797,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI17830.",
+            "TextJPN": "「…あ、あぁ。@k@vS19/01/HR_KEI17840.まぁな。@k@vS19/01/HR_KEI17850.ラッキーだったんだ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...Y-Yeah.@k@vS19/01/HR_KEI17840. Well.@k@vS19/01/HR_KEI17850. I was lucky.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26798,
+            "TextJPN": "その途端、彼らがわーッと群がってくる！！！",
+            "TextENG": "As soon as I said that, I was immediately mobbed!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26799,
+            "TextJPN": "押しくら饅頭の満員電車状態！@k　…い、一体…何が…！！",
+            "TextENG": "It was like being in the middle of a football scrum on a crowded train!@k ...W-What... is going on...!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26800,
+            "TextJPN": "彼らの言い分はこうだ。",
+            "TextENG": "Their reason was this:"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26801,
+            "TextJPN": "チケットは１人１枚ではなく、１枚で４名様まで入店できるものらしい。",
+            "TextENG": "It wasn't just one ticket per person; one ticket could let up to four people inside."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26802,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI17860.",
+            "TextJPN": "「…そうだったのか。@k@vS19/01/HR_KEI17870.……ますますレナや他のみんなを誘ってやるべきだった。@k@vS19/01/HR_KEI17880.親切にありがとう。@k@vS19/01/HR_KEI17890.でも今の話は聞かなかったことにするよ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...So it's like that, huh.@k@vS19/01/HR_KEI17870. ...Seems like I should have invited Rena and the others.@k@vS19/01/HR_KEI17880. Thanks for the tip...@k@vS19/01/HR_KEI17890. ...but I'll pretend I didn't hear that.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26803,
+            "TextJPN": "そう爽やかに笑い、彼らを無視しようとすると…彼らが救いを求める地獄の亡者たちのように…一斉に手を伸ばしてくる！！！",
+            "TextENG": "With an uplifting smile, I turned and ignored them. When I did... their arms all reached out at once, like the souls of the damned seeking succor!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26804,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otall50001.",
+            "TextJPN": "「そ、その４名様までのお供に…ぜひ俺たちをぉおぉおぉおお～！！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``````Th-That ticket can admit up to four people... please bring us with yooouuuuuuuuuu~!!``````"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26805,
+            "TextJPN": "な、なんてムシのいい奴らだ…。",
+            "TextENG": "Wh-What selfish people..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26806,
+            "TextJPN": "こいつらが店の前で群がっていたのはそういうことだったのか…！！",
+            "TextENG": "This was the only reason they were crowded in front of the restaurant...!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26807,
+            "TextJPN": "男たちのむさ苦しい大熊手のような腕が何十本も襲い掛かり…",
+            "TextENG": "Dozens of wretched arms reached out for me like the teeth on a giant rake..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26808,
+            "TextJPN": "空を切るッ！！！",
+            "TextENG": "And grasped at the air!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26809,
+            "TextJPN": "俺の姿はすでに入口の階段の上にあった。",
+            "TextENG": "I was already climbing the stairs to the entrance."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26810,
+            "NamesJPN": "男",
+            "PreTextTags": "@vS19/00/manZ50003.",
+            "TextJPN": "「な、なんて身軽なヤツ！！@k@vS19/00/manZ50004.　取り押さえろー！！！」",
+            "NamesENG": "Man",
+            "TextENG": "``W-What a heartless dick!!@k@vS19/00/manZ50004. Grab him!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26811,
+            "TextJPN": "じょ、冗談じゃねぇぞ！！",
+            "TextENG": "Th-This isn't something to joke about!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26812,
+            "TextJPN": "残る階段を駆け上り、店内へ飛び込む！！@k　…そこが絶対の国境だった。",
+            "TextENG": "I flew up the rest of the stairs and threw myself inside the restaurant!!@k ...It was like I had entered a different world."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26813,
+            "TextJPN": "むさ苦しい亡者たちはガラス扉の向こうから、様々な呪いの言葉を投げつけている。",
+            "TextENG": "The miserable throng of the damned hurled curses at me from the other side of the glass door..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26814,
+            "TextJPN": "だが完全防音でクーラーの効いたこの店内、@kそして天使の微笑みで迎えるウェイトレスさんの前ではそれすらも涼やかな見世物に過ぎない。",
+            "TextENG": "...but inside of this completely sound-proofed and air-conditioned restaurant...@k ...with the angelic smile of a waitress to welcome me, they were nothing more than a refreshing piece of scenery."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26815,
+            "TextJPN": "…笑っちゃいけないとわかっているが、黒い笑いでくっくっくと笑ってしまう…。",
+            "TextENG": "...I knew that I shouldn't laugh, but I began to let out a sinister cackle..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26816,
+            "NamesJPN": "ウェイトレス",
+            "PreTextTags": "@vS19/00/waitA50004.",
+            "TextJPN": "「いらっしゃいませ。@k@vS19/00/waitA50005.エンジェルモートへようこそいらっしゃいました」",
+            "NamesENG": "Waitress",
+            "TextENG": "``Good afternoon.@k@vS19/00/waitA50005. Welcome to Angel Mort.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26817,
+            "NamesJPN": "ウェイトレス",
+            "PreTextTags": "@vS19/00/waitA50006.",
+            "TextJPN": "「本日はデザートフェスタにつき、チケットのお客様のみの貸切になっております。@k@vS19/00/waitA50007.チケットとご芳名をお伺いしてもよろしいでしょうか？」",
+            "NamesENG": "Waitress",
+            "TextENG": "``Due to today's Dessert Festa, the restaurant is reserved for customers who won the draw.@k@vS19/00/waitA50007. Could I ask for your name and ticket?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26818,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI17900.",
+            "TextJPN": "「えっと…チケットはないけど名簿に名前があると思います。@k@vS19/01/HR_KEI17910.前原です」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Umm... I don't have a ticket but I should be on the guest list.@k@vS19/01/HR_KEI17910. Maebara.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26819,
+            "NamesJPN": "ウェイトレス",
+            "PreTextTags": "@vS19/00/waitA50008.",
+            "TextJPN": "「前原…前原。@k@vS19/00/waitA50009.…あった。@k@vS19/00/waitA50010.…失礼ですがフルネームでお伺いしてよろしいですか？」",
+            "NamesENG": "Waitress",
+            "TextENG": "``Maebara... Maebara.@k@vS19/00/waitA50009. ...There it is.@k@vS19/00/waitA50010. ...I'm sorry, but may I please have your full name?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26820,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI17920.",
+            "TextJPN": "「圭一です。@k@vS19/01/HR_KEI17930.前原圭一」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Keiichi.@k@vS19/01/HR_KEI17930. Keiichi Maebara.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26821,
+            "NamesJPN": "ウェイトレス",
+            "PreTextTags": "@vS19/00/waitA50011.",
+            "TextJPN": "「大変失礼いたしました。@k@vS19/00/waitA50012.特別招待の前原圭一さまですね。@k@vS19/00/waitA50013.お席へご案内いたします。@k@vS19/00/waitA50014.どうぞこちらへ」",
+            "NamesENG": "Waitress",
+            "TextENG": "``My apologies for the inconvenience.@k@vS19/00/waitA50012. You're here by special invitation, right?@k@vS19/00/waitA50013. I'll show you to your seat.@k@vS19/00/waitA50014. Please, this way.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26822,
+            "TextJPN": "店内はすごい熱気だった。",
+            "TextENG": "The mood inside the room was incredibly heated."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26823,
+            "TextJPN": "…ボックスシートはぎゅうぎゅうの超満員。",
+            "TextENG": "The booths were packed to the brim."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26824,
+            "TextJPN": "いい年をしたお兄ちゃんたちが、容姿的に到底似合わないような可愛らしいデザートを頬張っている光景は何だか恐ろしくもある…。",
+            "TextENG": "Men in their prime were stuffing their faces with dainty desserts that didn't suit them at all.  It was a rather unnerving spectacle..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26825,
+            "TextJPN": "席に案内されるとすぐに詩音がやってきた。",
+            "TextENG": "Soon after I was shown to my seat, Shion arrived."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26826,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS19/06/500600191.",
+            "TextJPN": "「いらっしゃいませ。@k@vS19/06/500600192.ようこそエンジェルモートへ」",
+            "NamesENG": "Shion",
+            "TextENG": "``Good afternoon.@k@vS19/06/500600192. Welcome to Angel Mort.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26827,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI17940.",
+            "TextJPN": "「よう詩音！　今日は本当にありがとうな。@k@vS19/01/HR_KEI17950.世話になりに来たぜ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Hey Shion! Thanks so much for today.@k@vS19/01/HR_KEI17950. I really appreciate it.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26828,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS19/06/500600193.",
+            "TextJPN": "「ちょっと遅かったから心配しました。@k@vS19/06/500600194.でも来てくれてうれしいです」",
+            "NamesENG": "Shion",
+            "TextENG": "``You were a bit late, so I was getting worried.@k@vS19/06/500600194. I'm really happy you came, though.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26829,
+            "TextJPN": "他の客の目もあるからなのか、ちょっと口調が堅めだったが、いつも見せてくれた飛び切りのスマイルで歓迎してくれた。",
+            "TextENG": "It may have been because other customers were around that her tone was less casual, but she still capped off that welcome with her usual brilliant smile."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26830,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS19/06/500600195.",
+            "TextJPN": "「…見ての通り、今日はお客さんがすっごいんで…定時に抜けさせてもらえるかちょっと自信がないんです。@k@vS19/06/500600196.私の仕事が終わるまでのんびりしてて下さいね」",
+            "NamesENG": "Shion",
+            "TextENG": "``...As you can see, there's a lot of customers here today. ...I'm not sure I'll be able to take a break.@k@vS19/06/500600196. Please take your time and relax until I'm finished.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26831,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS19/06/500600197.",
+            "TextJPN": "「終わったら一緒に遊びに行きましょうね～」",
+            "NamesENG": "Shion",
+            "TextENG": "``When I'm done, let's go play somewhere, okay~?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26832,
+            "TextJPN": "耳元でそれだけを告げると、詩音はウィンクを残して厨房に戻っていった。",
+            "TextENG": "Whispering just that last part into my ear, Shion winked and returned to the kitchen."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26833,
+            "TextJPN": "…店内の熱気のせいか、詩音も何だかちょっと大胆な雰囲気だった。",
+            "TextENG": "...Maybe it was because the mood in the restaurant was so heated, but Shion seemed a bit bolder."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26834,
+            "TextJPN": "…ちょっとした仕草の違いにどきどきしてしまう。",
+            "TextENG": "...Even a small change in her mannerisms was enough to set my heart aflutter."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26835,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS19/06/500600198.",
+            "TextJPN": "「お待たせしました～！」",
+            "NamesENG": "Shion",
+            "TextENG": "``Sorry to keep you waiting~!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26836,
+            "TextJPN": "店内の雰囲気に圧倒されている内に、次々と夏の新作デザートが運び込まれてきた。",
+            "TextENG": "While I was overwhelmed by the atmosphere inside the restaurant, orders from the new summer menu were carried out one after another."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26837,
+            "TextJPN": "……どれもボリューム満点の凄い迫力！！！",
+            "TextENG": "...Every single one was extravagantly huge!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26838,
+            "TextJPN": "なるほど…こんなスゴイのが無料で食い散らかせるんだから…今日のチケットがプラチナ扱いになるわけだ。納得する。",
+            "TextENG": "I get it... you can eat all of these amazing things for free... no wonder a ticket was worth its weight in gold."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26839,
+            "TextJPN": "しかも…どのデザートも充分にうまい。",
+            "TextENG": "On top of that, all of it was plenty delicious."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26840,
+            "TextJPN": "万人受けから対象を絞ったマニアな一品まで…レパートリーには隙がゼロだ！",
+            "TextENG": "From dishes with a general appeal to insane ones aimed at a specific audience... there were absolutely no gaps in their repertoire."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26841,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI17960.",
+            "TextJPN": "「……どう考えても…ひとりで食う量じゃないかもしれないなぁ。@k@vS19/01/HR_KEI17970.…まぁそれは置いておいて」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...No matter how you look at it... I don't think one person can eat this much.@k@vS19/01/HR_KEI17970. ...Well, let's just leave it at that for now.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26842,
+            "TextJPN": "…実は何だか雰囲気が落ち着かない…。@k何しろ…店内の熱気が異常なのだ。",
+            "TextENG": "...It didn't feel relaxing in here at all...@k Probably because the fervor inside the restaurant was clearly abnormal."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26843,
+            "TextJPN": "他のボックス席はどれも４人ぎっしり。",
+            "TextENG": "All the other booth seats were crammed with groups of four."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26844,
+            "TextJPN": "いい年をしたむさ苦しい男たちが可愛らしく盛られたデザートを欲望のままに食い散らし、皿までベロベロと舐める様子は…ちょっと怖すぎる…。",
+            "TextENG": "Sleazy men were gorging like pigs on cutely decorated desserts, and it wouldn't have been a surprise if they started licking the plates... it was more than a little unsettling..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26845,
+            "TextJPN": "何となく気になり、彼らの会話に耳を傾けると……何だか壮絶なものが多々聞こえてくる！",
+            "TextENG": "It piqued my interest, so I started listening in on their conversation... and what things I heard!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26846,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaA50001.",
+            "TextJPN": "「はぁはぁ…エンジェルモート萌え～♪」",
+            "NamesENG": "Otaku",
+            "TextENG": "``*pant pant* Angel Mort, so moe~♪``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26847,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaB50001.",
+            "TextJPN": "「僕ですか？@k@vS19/00/otaB50002.　当選チケットは秘密ルートから７万で購入したっす！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``Me?@k@vS19/00/otaB50002. I bought my ticket for 70,000 using secret route!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26848,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaC50001.",
+            "TextJPN": "「職場には親戚の葬式だと言ったにゃりんよ～♪@k@vS19/00/otaC50002.　エンジェルは制服が最高ニョリ！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``I told work that I was attending a relative's funeral~♪@k@vS19/00/otaC50002. The uniforms here are the greheheatest!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26849,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaD50001.",
+            "TextJPN": "「ウェイトレスさん、水とかズボンにこぼしてフキフキとかしてくれないかにゃ～♪@k@vS19/00/otaD50002.　にゃ～にゃ～～！！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``I wonder if the waitress would wipe it for me if I spilled some water on my pants right meow~♪@k@vS19/00/otaD50002. Meow~Meow~~!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26850,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaE50001.",
+            "TextJPN": "「エンジェルモートのフィギュアが今度発売されるらしいでござるな。@k@vS19/00/otaE50002.次のイベントは要注意でござる…！！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``I heard they're planning on selling Angel Mort figures.@k@vS19/00/otaE50002. We'll have to pay heed at the next event...!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26851,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaF50001.",
+            "TextJPN": "「そうそう、今度あの大手フィギュアメーカーが商品化を決めたそうであります！@k@vS19/00/otaF50002.　発売日は要チェックなのであります…！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``Speaking of which, that major figure maker decided to bring out the line!@k@vS19/00/otaF50002. We must confirm the release date...!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26852,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaG50001.",
+            "TextJPN": "「しかし大人買いするには種類が多すぎるのでごわすな……。@k@vS19/00/otaG50002.普通のファミレス制服のフィギュアなら１０種類程度でごわすのに……今度のはシークレットポーズ差分込みでざっと１００種類！！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``'The problem is, there's too many variations to bulk buy them...@k@vS19/00/otaG50002. If it were just a normal set of family restaurant uniforms, there'd only be around ten types... But, including the secret set with different poses that are planned, there's 100 or so!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26853,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaH50001.",
+            "TextJPN": "「ダブった時は誰かトレードしてもらいたいでおじゃる～。@k@vS19/00/otaH50002.ファンとしては即日コンプは義務！　いや君とボクとのデスティニーでおじゃるよ～！！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``Someone, trade with me when I get a double~☆@k@vS19/00/otaH50002. It's my duty as a fan to complete the collection right away! No, this is destiny between us~!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26854,
+            "TextJPN": "………彼らの口走る単語のほとんどは意味不明だ。",
+            "TextENG": "...The words spilling out of their mouths were pretty much all incomprehensible jargon."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26855,
+            "TextJPN": "…だが、それらの裏側に見え隠れするオーラの異常さだけはひしひしと伝わってくる…！！",
+            "TextENG": "...But, they still keenly conveyed that hidden behind them was an invisible aura of abnormality!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26856,
+            "NamesJPN": "ウェイトレス",
+            "PreTextTags": "@vS19/00/waitB50001.",
+            "TextJPN": "「お待たせしました～。@k@vS19/00/waitB50002.次のデザートは『南国風シナモンのアバンチュール』でございます。……？@k@vS19/00/waitB50003.　どうかなさいましたか？」",
+            "NamesENG": "Waitress",
+            "TextENG": "``Sorry to keep you waiting~.@k@vS19/00/waitB50002. The next dessert is 'Tropical Cinnamon Love Affair'. ...?@k@vS19/00/waitB50003. Is something the matter?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26857,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI17980.",
+            "TextJPN": "「……あ、…いえ。@k@vS19/01/HR_KEI17990.…………何かこう…、今日の店内は雰囲気が違うな…と」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...Ah, ...No.@k@vS19/01/HR_KEI17990. ...It's just... It's kind of different inside the restaurant today.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26858,
+            "NamesJPN": "ウェイトレス",
+            "PreTextTags": "@vS19/00/waitB50004.",
+            "TextJPN": "「うちのお店、その道の方々にはかなり有名らしいんです。@k@vS19/00/waitB50005.まぁ、そういう狙いのお店ですからイイんですけどね☆@k@vS19/00/waitB50006.　…でもイベントの日のお客様はちょっと濃い目の方が多いんで、困っちゃいます☆」",
+            "NamesENG": "Waitress",
+            "TextENG": "``Our restaurant is pretty famous in their circles.@k@vS19/00/waitB50005. Well, we were aiming for that so it's all well and good☆...@k@vS19/00/waitB50006. ...But during Festas they're something of the more hardcore crowd, so it can be a handful☆.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26859,
+            "TextJPN": "ウェイトレスさんは苦笑いしながら、耳元で小声で教えてくれた。",
+            "TextENG": "The waitress informed me quietly with a wry smile."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26860,
+            "NamesJPN": "ウェイトレス",
+            "PreTextTags": "@vS19/00/waitB50007.",
+            "TextJPN": "「なんかお客の人たちも血走ってて…ハイエナみたいですよね」",
+            "NamesENG": "Waitress",
+            "TextENG": "``The customers seem rather riled up... almost like a pack of hyenas.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26861,
+            "NamesJPN": "ウェイトレス",
+            "PreTextTags": "@vS19/00/waitB50008.",
+            "TextJPN": "「今日のお客さんのほとんどはかなり遠方から無理して来てるみたいですからね。@k@vS19/00/waitB50009.……そういう方々ってハメを外し易いんでちょっと怖いんです。@k@vS19/00/waitB50010.ちゃんとガードを固めておかないと大変なんですから」",
+            "NamesENG": "Waitress",
+            "TextENG": "``Seems a lot of the customers today came from unreasonably far away.@k@vS19/00/waitB50009. ...Those types of people are fairly prone to losing their self-control, so it's a little scary.@k@vS19/00/waitB50010. If you don't keep your guard up, something bad can happen.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26862,
+            "TextJPN": "ガードを固めるって、どういう意味だ？",
+            "TextENG": "What did she mean by 'keep your guard up'?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26863,
+            "TextJPN": "その時、ガシャーンという盛大な音がした。",
+            "TextENG": "At that moment, a large crash resounded through the room."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26864,
+            "TextJPN": "驚いて振り返ると……ウェイトレスさんが転んで…見事にオーダーをお客さんにぶちまけたらしい。@k…って、…詩音じゃないか！",
+            "TextENG": "I turned around, startled... to see that a waitress had fallen down... and spilled the order she was carrying right onto a customer.@k ...Wait ...Isn't that Shion!?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26865,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS19/06/500600199.",
+            "TextJPN": "「すす、す、すみませんでした…！@k@vS19/06/500600200.　そのお召し物はそ、そのその……、」",
+            "NamesENG": "Shion",
+            "TextENG": "``I-I-I... I-I'm so sorry!@k@vS19/06/500600200. Your food is... uhhh... ahhh...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26866,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaC50003.",
+            "TextJPN": "「何て事をするにゃりん～！！@k@vS19/00/otaC50004.　某ジーンズ専門店で１，８００円もしたズボンが生クリームでベトベトにゃりんよ！！　…はぁはぁ…♪」",
+            "NamesENG": "Otaku",
+            "TextENG": "``Oh, what have you done~!!@k@vS19/00/otaC50004. The jeans that I bought at a certain specialty shop for a whole 1,800 yen are all shticky with frosting!! ...*pant pant*...♪``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26867,
+            "TextJPN": "……何だありゃ。@k…悲惨な目にあった割には嬉しそうだぞ…。",
+            "TextENG": "...What the hell is that.@k ...For somebody who just met with disaster he seems awfully happy..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26868,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaD50003.",
+            "TextJPN": "「これは惨いですにょー。@k@vS19/00/otaD50004.ウェイトレスさんが誠心誠意、フキフキするしかないでござるにょ～♪」",
+            "NamesENG": "Otaku",
+            "TextENG": "``Hooow traagic.@k@vS19/00/otaD50004. It seems that little miss waitress here will have to wipey-wipey it up from the bottom of her heart~♪``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26869,
+            "TextJPN": "話が急におかしな方向へ転がり始める。",
+            "TextENG": "The conversation suddenly veered off in an odd direction."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26870,
+            "TextJPN": "…おいおい何だって？",
+            "TextENG": "...Hey, hey. What did he say?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26871,
+            "TextJPN": "フキフキって、拭かせる気か？！",
+            "TextENG": "Wipey-wipey? Did he want Shion to wipe him down!?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26872,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS19/06/500600201.",
+            "TextJPN": "「え………でも……その、……………わた、私、…………、」",
+            "NamesENG": "Shion",
+            "TextENG": "``Uh... But... That is, ...I-I...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26873,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otall50002.",
+            "TextJPN": "「フキフキ！　フキフキ！！　フキフキ！！！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``````Wipey-wipey! Wipey-wipey!! Wipey-wipey!!!``````"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26874,
+            "TextJPN": "店内にあっという間にフキフキコールが広がる！！",
+            "TextENG": "The ``Wipey-wipey`` chant quickly spread throughout the room!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26875,
+            "TextJPN": "絶対的に追い詰められた詩音が青ざめ、先輩ウェイトレスに助けを求めるが……同情の顔で首を振るだけだ。",
+            "TextENG": "Totally cornered, Shion went pale. She looked over to a more experienced waitress for help... but was only met with a head shaking out of pity."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26876,
+            "NamesJPN": "ウェイトレス",
+            "PreTextTags": "@vS19/00/waitB50011.",
+            "TextJPN": "「…園崎さん、足を引っ掛けられたんですね。@k@vS19/00/waitB50012.ああやってわざと衣服を汚させて絡んでくるお客が最近多いんですよ」",
+            "NamesENG": "Waitress",
+            "TextENG": "``...Sonozaki-san was tripped.@k@vS19/00/waitB50012. Customers who do that to purposely get their clothes dirty have been on the rise lately.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26877,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18000.",
+            "TextJPN": "「あ、足を引っ掛けてだって？！@k@vS19/01/HR_KEI18010.　じゃあ今のあれも…事故じゃなくて？　…故意？！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Ah, so you're saying she was tripped?@k@vS19/01/HR_KEI18010. Then what happened just now... wasn't an accident? ...It was on purpose!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26878,
+            "NamesJPN": "ウェイトレス",
+            "PreTextTags": "@vS19/00/waitB50013.",
+            "TextJPN": "「メインの女の子は充分気をつけてますから絶対あぁはならないんですけど…、園崎さんは短期バイトだからまだガードが甘くて」",
+            "NamesENG": "Waitress",
+            "TextENG": "``The regular girls are careful about it, so they definitely won't end up like that... but Sonozaki-san is only a seasonal hire, so she had her guard down.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26879,
+            "NamesJPN": "ウェイトレス",
+            "PreTextTags": "@vS19/00/waitB50014.",
+            "TextJPN": "「…今日のお客様たちにも早々に見破られちゃったみたいで…朝からあんな感じで絡まれてるんです」",
+            "NamesENG": "Waitress",
+            "TextENG": "``...The customers today could easily pick up on that... so she's been targeted since this morning.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26880,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18020.",
+            "TextJPN": "「店長とかは何やってんだよ！@k@vS19/01/HR_KEI18030.　あんな不良な客は追い出せよ！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``What's the manager doing!?@k@vS19/01/HR_KEI18040. He should just kick those thugs out!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26881,
+            "TextJPN": "…客商売ですから、弱いんですよ私たち。@k…笑いながらも諦めた口調で彼女はそう語った。",
+            "TextENG": "``...We're in the service industry, so there's not much we can do about it.``@k ...She laughed as she said that in a resigned tone."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26882,
+            "TextJPN": "詩音は真っ赤になりながらおしぼりを手にわなわなと震えている…。",
+            "TextENG": "Shion trembled uncontrollably with a dishcloth in her hands as she turned bright red..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26883,
+            "TextJPN": "……覚悟もできないまま…震える手が周りに気圧されて…意に反して少しずつ前に…。",
+            "TextENG": "...Still mentally unprepared... her trembling hand inched forward, goaded on by onlookers..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26884,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaE50003.",
+            "TextJPN": "「さぁさぁさぁ！！@k@vS19/00/otaE50004.　フキフキするでござるよ～～～！！！！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``Come, come come!!@k@vS19/00/otaE50004. It is the time for the wipey-wipey~~!!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26885,
+            "TextJPN": "男の俺から見れば、苦笑いするような滑稽な光景なのかもしれないが…女である彼女から見れば…これはとても屈辱的な行為に違いないのだ。",
+            "TextENG": "From my male point of view, it might have been a ridiculous spectacle I could just smile wryly at, but... From a woman's point of view... this was obviously pure humiliation."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26887,
+            "TextJPN": "……男の俺が、足がすくむぐらい恐ろしいごろつきに絡まれていた時、@k詩音は恐れることなく立ち向かい、俺を助けてくれた。",
+            "TextENG": "...When I was trapped by those thugs and had been paralyzed with fear...@k Shion fearlessly stood up to them and saved me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26888,
+            "TextJPN": "でも…屈辱的とは言え…詩音にも責任があるわけだし……別に、命の危機が迫ってるわけじゃないよな…？",
+            "TextENG": "Still... as humiliating as it was... Shion was also partly to blame for this... and it wasn't as though her life was at stake, right...?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26889,
+            "TextJPN": "あいつらだって…ちょっとＨなシチュエーションをはやし立ててるだけで、別に詩音を取って食おうってわけじゃない。@k…後で慰めてやればいいよな……。",
+            "TextENG": "Even these guys... they were just going to jeer at her in a bit of a lewd situation, it's not like they were going to eat Shion alive or anything.@k ...It'd be all right if I just consoled her afterwards..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26890,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS19/06/500600053.",
+            "TextJPN": "「私だって怖かったですよ。@k@vS19/06/500600054.でも、他ならぬ圭ちゃんのピンチだし……」",
+            "NamesENG": "Shion",
+            "TextENG": "``Even I was scared.@k@vS19/06/500600054. But, Kei-chan was in trouble so...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26891,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS19/06/500600055.",
+            "TextJPN": "「勇気出して頑張りましたってことです」",
+            "NamesENG": "Shion",
+            "TextENG": "``I had to be brave and do my best.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26892,
+            "TextJPN": "男の俺が、足がすくむくらい恐ろしいごろつきに３人も絡まれていた時、詩音は臆すことなく助けてくれた。",
+            "TextENG": "When I, a man, was being assailed by three thugs while paralyzed with fear, Shion saved me without a second thought."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26893,
+            "TextJPN": "今度は何だ？",
+            "TextENG": "What about now?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26894,
+            "TextJPN": "……汚らしい脂ぎった連中が、詩音に難癖をつけて絡んでいる。@k…あの時とはまったく逆のケースだ。",
+            "TextENG": "...These sleazy, filthy degenerates were trying to pin the blame on Shion.@k ...This time, our roles were reversed."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26895,
+            "TextJPN": "おい前原圭一。",
+            "TextENG": "Hey, Keiichi Maebara."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26896,
+            "TextJPN": "…これを救わずして、俺はいつあの時の恩を返せるんだ…？？",
+            "TextENG": "...If you don't save her now, when will you be able to repay the debt you owe her...??"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26897,
+            "TextJPN": "怖いかよ前原圭一。",
+            "TextENG": "You scared, Keiichi Maebara?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26898,
+            "TextJPN": "あの時の詩音、いや魅音は微塵ほども臆したりはしなかった。",
+            "TextENG": "At that time, Shion... no, Mion... didn't even show a hint of hesitation."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26899,
+            "TextJPN": "じゃあ今の俺は？",
+            "TextENG": "Then what about now?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26900,
+            "TextJPN": "……臆してなんかないさ。",
+            "TextENG": "...I'm not hesitating."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26901,
+            "TextJPN": "じゃあどうして？！",
+            "TextENG": "Then what!?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26902,
+            "TextJPN": "臆してないならなぜ助けないッ？！",
+            "TextENG": "If you're not hesitating then why aren't you helping her!?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26903,
+            "TextJPN": "…………………………………。",
+            "TextENG": "......"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26904,
+            "TextJPN": "あの時、とっさの勢いで俺は詩音を助けた。",
+            "TextENG": "At that time, I saved Shion in a moment of panic."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26905,
+            "TextJPN": "まぁ、今は…屈辱的とは言え…詩音にも責任があるわけだし……別に、命の危機が迫ってるわけじゃないよな…？",
+            "TextENG": "Well, now... even though it's humiliating... Shion is responsible for it. ...... Apart from that, it's not like your life is in danger... right?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26906,
+            "TextJPN": "あいつらだって…ちょっとＨなシチュエーションをはやし立ててるだけで、別に詩音を取って食おうってわけじゃない。@k…後で慰めてやればいいよな……。",
+            "TextENG": "Even these guys... they were just going to jeer at her in a bit of a lewd situation, it's not like they were going to eat Shion alive or anything.@k ...It'd be all right if I just consoled her afterwards..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26907,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18040.",
+            "TextJPN": "「また悪いヤツに絡まれたりさ、ピンチの時は俺を呼べばいいよ。@k@vS19/01/HR_KEI18050.助けに行ってやるよ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``You know, if you get in trouble or get tangled up with the wrong people again, you can call me.@k@vS19/01/HR_KEI18050. I'm going to help you.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26908,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS19/06/660600107.",
+            "TextJPN": "「本当に？」",
+            "NamesENG": "Shion",
+            "TextENG": "``Really?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26909,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18060.",
+            "TextJPN": "「ああ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Yes.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26910,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS19/06/660600108.",
+            "TextJPN": "「じゃあ、指切りげんまん」",
+            "NamesENG": "Shion",
+            "TextENG": "``So it's a pinky promise.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26911,
+            "TextJPN": "あの時、俺は約束した。確かに約束した。ピンチのときは、必ずまた助けるって……。",
+            "TextENG": "At that time, I promised. Certainly promised. When I'm in a pinch, I'll definitely help again..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26912,
+            "TextJPN": "今度は何だ？",
+            "TextENG": "What about now?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26913,
+            "TextJPN": "……汚らしい脂ぎった連中が、詩音に難癖をつけて絡んでいる。@k…あの時と全く同じケースだ。",
+            "TextENG": "...These sleazy, filthy degenerates were trying to pin the blame on Shion.@k ...This time, our roles were reversed."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26914,
+            "TextJPN": "おい前原圭一。",
+            "TextENG": "Hey, Keiichi Maebara."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26915,
+            "TextJPN": "…これを救わずして、俺はいつあの時の約束を守るんだ…？？",
+            "TextENG": "...If you don't save her now, when will you be able to repay the debt you owe her...??"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26916,
+            "TextJPN": "怖いかよ前原圭一。",
+            "TextENG": "You scared, Keiichi Maebara?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26917,
+            "TextJPN": "あの時だって怖かっただろう。",
+            "TextENG": "I'm sure you were scared even then."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26918,
+            "TextJPN": "じゃあ今の俺は？",
+            "TextENG": "Then what about now?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26919,
+            "TextJPN": "……臆してなんかないさ。",
+            "TextENG": "...I'm not hesitating."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26920,
+            "TextJPN": "じゃあどうして？！",
+            "TextENG": "Then what!?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26921,
+            "TextJPN": "臆してないならなぜ助けないッ？！",
+            "TextENG": "If you're not hesitating then why aren't you helping her!?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26922,
+            "TextJPN": "…………………………………。",
+            "TextENG": "......"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26923,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaE50005.",
+            "TextJPN": "「さぁ観念するでござる～～～！！！@k@vS19/00/otaE50006.　ふぉっふぉっふぉ～～！！！！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``Now, resign yourself to your fate~~~!!!@k@vS19/00/otaE50006. Bwahwahwa~~!!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26924,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18070.",
+            "TextJPN": "「やかましいぞ重量オーバー！@k@vS19/01/HR_KEI18080.　俺の目が黒い内に出て失せろ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Shut up, you greasy fatass!@k@vS19/01/HR_KEI18080. Get out of here before I get angry.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26925,
+            "TextJPN": "詩音の肩をぐっと掴み、後ろへ下がらせる。",
+            "TextENG": "I grasped Shion's shoulder firmly and pulled her behind me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26926,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS19/06/500600201_2.",
+            "TextJPN": "「け、圭ちゃん……、」",
+            "NamesENG": "Shion",
+            "TextENG": "``K... Kei-chan...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26927,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaE50007.",
+            "TextJPN": "「わかっておらんでござるな。@k@vS19/00/otaE50008.そのスタッフが余のおズボンに粗相をしたのでござるよ？@k@vS19/00/otaE50009.　これはお仕置きなのでござる～！！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``It seems you don't understand.@k@vS19/00/otaE50008. Yonder waitress was the one who wet mine pants!@k@vS19/00/otaE50009. This is her punishment!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26928,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18090.",
+            "TextJPN": "「お仕置きが必要なのはてめぇの方だぁあぁああ！！！@k@vS19/01/HR_KEI18100.　男なら能書き吐くな！！@k@vS19/01/HR_KEI18110.　腕で物を言ってみろぉおおぉおおぉお！！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``The one who needs punishing is you!!!@k@vS19/01/HR_KEI18100. Enough with the empty words!!@k@vS19/01/HR_KEI18110. If you're a man, talk with your fists!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26929,
+            "TextJPN": "ガス、ドガ、ズッギャーーーン！！！！",
+            "TextENG": "*THUD* *SMASH*"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26930,
+            "TextJPN": "俺の体が軽々と宙に浮き…自分の席まで吹き飛ばされる…！！！",
+            "TextENG": "My body was lifted into the air like nothing... I was thrown right back into my own seat!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26931,
+            "TextJPN": "こいつ…強い？！@k　どう見ても運動神経とは無縁そうな…ただの重量オーバーなのに…！",
+            "TextENG": "This guy is... strong!?@k No matter how you look at it 'athletic' and this lardo aren't even in the same area code..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26932,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaE50010.",
+            "TextJPN": "「ふっふっふ。@k@vS19/00/otaE50011.ヲタクは意外にマイナーな武道を会得していることが多いでござるから、甘く見ると大変でござるよ～☆」",
+            "NamesENG": "Otaku",
+            "TextENG": "``Hehehe.@k@vS19/00/otaE50011. Many otaku are unexpectedly well-versed in some obscure martial art. Don't be misunderestimating us~☆.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26933,
+            "TextJPN": "男はニマリと笑うと歯茎を見せて笑った。",
+            "TextENG": "The man smirked, showing off his gumline."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26934,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS19/06/500600202.",
+            "TextJPN": "「け、圭ちゃん……大丈夫？！」",
+            "NamesENG": "Shion",
+            "TextENG": "``Ke... Kei-chan, are you okay!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26935,
+            "TextJPN": "く…くそ……なんてみっともない…！！",
+            "TextENG": "D-Dammit... how lame must I look right now...?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26936,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18120.",
+            "TextJPN": "「詩音は足を引っ掛けられたんだろ？」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``You were tripped, weren't you Shion?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26937,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18130.",
+            "TextJPN": "「向こうが悪いんだから付け上がらせることなんかないぞ！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``They're the ones in the wrong here, so don't let them take advantage of you!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26938,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS19/06/500600203.",
+            "TextJPN": "「そ、…そうだけど……でも、………やっぱり悪いのは……私だし……」",
+            "NamesENG": "Shion",
+            "TextENG": "``T-That may be... but... ...it was still... my fault...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26939,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18140.",
+            "TextJPN": "「ぅおおおぉお！！@k@vS19/01/HR_KEI18150.　もう一度だ！！@k@vS19/01/HR_KEI18160.　行っくぞぉおおぉおおぉ！！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``WhooOooAaaaa!!@k@vS19/01/HR_KEI18150. One more time!!@k@vS19/01/HR_KEI18160. LET'S DO EEEEEeeeeet!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26940,
+            "TextJPN": "バキ、ドガ、ガッシャーーーーーーン！！！",
+            "TextENG": "*SNAP* *THUD* *CRAAAASH*!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26941,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18170.",
+            "TextJPN": "「これくらいでへこたれる圭一さまだと思うなよ！！@k@vS19/01/HR_KEI18180.　もう一度だぁあぁああ！！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Don't you go thinking that this is enough to make me give up!!@k@vS19/01/HR_KEI18180. One more tiiiiiiime!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26942,
+            "TextJPN": "バコ、バギ、ズッダーーーーーーーンッ！！！！",
+            "TextENG": "*WHACK* *SNAP* *THUNK*"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26943,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaE50012.",
+            "TextJPN": "「ふぉっふぉっふぉ！！@k@vS19/00/otaE50013.　口ほどにもないでござるの～！！！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``Hohoho!!@k@vS19/00/otaE50013. You're all talk~!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26944,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18190.",
+            "TextJPN": "「ま、まだまだぁあぁああぁ！！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``I... I'm not done yeeeeeeeEEeeet!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26945,
+            "TextJPN": "高まれ闘気！！",
+            "TextENG": "Rise, my will to fight!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26946,
+            "TextJPN": "ぬおおぉおおおぉおおおッッ！！",
+            "TextENG": "Hnnnnnnnwwwwwwwhoooooooaaaaaa!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26947,
+            "TextJPN": "安っぽく駆けるのでなく、一歩一歩踏みしめながら重量オーバーへの間合いを詰めていく。",
+            "TextENG": "Not just running, I planted every one of my steps firmly as I closed the distance to the lardball."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26948,
+            "TextJPN": "自分が床から足を引き剥がす度に、そこから闘気が吹き上がるのがわかる！",
+            "TextENG": "Each time I ripped my foot off the floor, I could feel my burning spirit flare up from the point of impact!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26949,
+            "TextJPN": "まるで水中を歩くような緩慢さ…。",
+            "TextENG": "Everything slowed down like I was walking underwater..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26950,
+            "TextJPN": "そんな粘ついた時間の中を歩きながら…冷静にヤツとの間合いを計る…！！",
+            "TextENG": "As I stepped forward in that viscous flow of time... I calmly measured the gap between us!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26951,
+            "TextJPN": "ヤツとの身長差、リーチの究極の有利点…！",
+            "TextENG": "With our difference in height, reach was my ultimate advantage!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26952,
+            "TextJPN": "俺のパンチだけが紙一重で届く究極の間合い…！！",
+            "TextENG": "There was an ever-so-tiny distance between us where only my punch would be able to reach."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26953,
+            "TextJPN": "繰り出す怒りの鉄拳が、水を割く様に…ゆっくりとヤツの顔面へ向かって繰り出されていく。",
+            "TextENG": "I unleashed my iron fist of righteous anger... but it flew towards his face slowly, like I was punching underwater."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26954,
+            "TextJPN": "それに反応して…ニヤリと笑いながら、俺のパンチの内側にゆらりと入り込む重量オーバー…！！",
+            "TextENG": "Reacting to that... with a smirk on his face, the fatso easily slipped inside of my punch!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26955,
+            "TextJPN": "先ほどまでは理解できなかった、ヤツの不可解な反撃が、この粘ついた時間の中では皮肉なくらいよく見て取れる！！",
+            "TextENG": "I hadn't realized it until now, but in this mired time, I was able to observe his baffling counterattack with almost painful clarity!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26956,
+            "TextJPN": "腕を風車のように大きくゆっくりと回し…、",
+            "TextENG": "His arm slowly swung around in a large windmill motion..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26957,
+            "TextJPN": "俺の空を切ったパンチを巻き込んで、@k下へ下へ…ぐるりと回し…。",
+            "TextENG": "Wrapped around my whiffed punch,@k and descended in an arc..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26958,
+            "TextJPN": "その回された手がそのまま時計のようにぐるりと回って、@k…俺の上体を捻りながら頭に絡み付いてきて…！！",
+            "TextENG": "That arm swung around like the arms of a clock...@k ...and came into contact with my head, twisting my upper body around!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26959,
+            "TextJPN": "俺の頭を巻き込みながらさらに一回転…！！",
+            "TextENG": "Dragging my head along, he followed through with another rotation!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26960,
+            "TextJPN": "今度は全身をコマのようにぐるりと回して…",
+            "TextENG": "This time he rotated his entire body like a top..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26961,
+            "TextJPN": "さらに一回転！！！",
+            "TextENG": "Followed by another rotation!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26962,
+            "TextJPN": "防御と攻撃が一体になった…見事な返し技。",
+            "TextENG": "Combining defense and offense... it was a brilliant counter."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26963,
+            "TextJPN": "そうだ…３回、回されてから投げられてたんだっけ。",
+            "TextENG": "That's right... three times... I was thrown after three rotations, I think."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26964,
+            "TextJPN": "だが…このねっとりとした時間に抗うこともできず、投げられるその瞬間を呆然と待つしかない…。",
+            "TextENG": "...In this viscous region of time, I was unable to struggle, and I could only wait dumbstruck until the moment I was thrown..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26965,
+            "TextJPN": "その水中を歩くような粘った時間は、投げられる瞬間、唐突に終わった。",
+            "TextENG": "The moment I was, that sluggish temporal anomaly abruptly ended."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26966,
+            "TextJPN": "グワッシャーーーーーーーーーンッ！！！",
+            "TextENG": "*CRAAAAAAAAAAAAAAAAAASH*"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26967,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaE50014.",
+            "TextJPN": "「修行が足りないでござるよ～。@k@vS19/00/otaE50015.ヤングメ～～～ン！！！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``You lack training~@k@vS19/00/otaE50015. Young man!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26968,
+            "TextJPN": "……悔しいが…気合だけでは…ちゃんと武道を習った相手には…勝てない…！",
+            "TextENG": "...I was loathe to admit it... but against somebody trained in martial arts... I couldn't win through force of will alone!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26969,
+            "TextJPN": "立ちくらみのような感じで意識が薄れた後、…気付くと自分の席に寝かされていた。",
+            "TextENG": "After my consciousness faded in a wave of dizziness... when I came to, I was lying down in my own seat."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26970,
+            "NamesJPN": "ウェイトレス",
+            "PreTextTags": "@vS19/00/waitA50015.",
+            "TextJPN": "「怪我しなくてよかったですね」",
+            "NamesENG": "Waitress",
+            "TextENG": "``Thankfully you weren't injured.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26971,
+            "TextJPN": "詩音の先輩ウェイトレスさんがおしぼりで額の汗を拭いてくれている。",
+            "TextENG": "The more experienced waitress from before wiped the sweat from my brow with a towel."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26972,
+            "TextJPN": "そこへ、真っ赤な顔に涙を溜めた詩音がとぼとぼとやって来た。",
+            "TextENG": "While she was doing that, a red-faced and teary-eyed Shion trudged over."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26973,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS19/06/500600204.",
+            "TextJPN": "「だ、大丈夫ですか…？@k@vS19/06/500600205.　私なんかのために……す、…すみませんでした…」",
+            "NamesENG": "Shion",
+            "TextENG": "``Are... Are you okay?@k@vS19/06/500600205. Doing that all for my sake... I-I'm sorry....``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26974,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18200.",
+            "TextJPN": "「俺こそ……役に立たなくて…すまん。@k@vS19/01/HR_KEI18210.…俺、喧嘩って勝ったことないし…」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``I'm sorry too... I wasn't much help.@k@vS19/01/HR_KEI18210. I've... never won a fight before...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26975,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS19/06/500600206.",
+            "TextJPN": "「う、うぅん、私のために助けに来てくれただけで……うれしかったです」",
+            "NamesENG": "Shion",
+            "TextENG": "``No, you just trying to help made me... happy.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26976,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS19/06/500600207.",
+            "TextJPN": "「本当ですよ？@k@vS19/06/500600208.　それだけでも…今日は圭ちゃんに来てもらえてよかったかな…って」",
+            "NamesENG": "Shion",
+            "TextENG": "``I'm not joking.@k@vS19/06/500600208. It's just that... I was thinking that it was lucky Kei-chan came here today.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26977,
+            "TextJPN": "そう言いながら、舌を出して強がる詩音だが。",
+            "TextENG": "As she said that, she stuck her tongue out teasingly."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26978,
+            "TextJPN": "……前にそろえた両手にはおしぼりが握られていて…生クリームが拭き取られていた。",
+            "TextENG": "...She wiped off the whipped cream with the washcloth she was holding in her hands."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26979,
+            "NamesJPN": "ウェイトレス",
+            "PreTextTags": "@vS19/00/waitA50016.",
+            "TextJPN": "「園崎さん、Ｒ入ってもいいですよ。@k@vS19/00/waitA50017.あと１～２時間でしょう？」",
+            "NamesENG": "Waitress",
+            "TextENG": "``Sonozaki-san, you can take your break now.@k@vS19/00/waitA50017. You still have one or two hours left, don't you?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26980,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS19/06/500600209.",
+            "TextJPN": "「あ、…ぇ、いいんです。@k@vS19/06/500600210.バイトとは言え、お給料をもらってる身ですから。@k@vS19/06/500600211.時間内はちゃんと働きたいんです。@k@vS19/06/500600212.だからホント、お気遣いなく……」",
+            "NamesENG": "Shion",
+            "TextENG": "``Ah... no, it's fine.@k@vS19/06/500600210. Even though it's just part-time, it's still a paying job.@k@vS19/06/500600211. I want to work properly while I'm on the clock.@k@vS19/06/500600212. So really, you don't have to worry about me...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26981,
+            "TextJPN": "強がりにすらなっていなかった。",
+            "TextENG": "She couldn't even put up a brave front."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26982,
+            "TextJPN": "あの魅音にもこんな脆さがあったのか…などと思ったりは一切なかった。",
+            "TextENG": "I would never even think for a second that Mion could be that weak."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26983,
+            "TextJPN": "こいつは詩音であり、そしてワケのわからない有象無象どもにいじめられた。@kそれだけが事実。",
+            "TextENG": "This was Shion, and she had been harassed by some unreasonable riffraff.@k That was reality."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26984,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS19/06/500600213.",
+            "TextJPN": "「圭ちゃんは気にしないでデザートいっぱい食べてて下さいね。@k@vS19/06/500600214.一通り食べ終わったらアンケートを書いてもらいますので。@k@vS19/06/500600215.……じゃあ私、ホールに戻りますね」",
+            "NamesENG": "Shion",
+            "TextENG": "``Kei-chan, don't mind me. Please eat as much dessert as you can.@k@vS19/06/500600214. When you're done, we'll have you fill out a survey.@k@vS19/06/500600215. ...Well then, I've got to get back to the floor.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26985,
+            "TextJPN": "先輩ウェイトレスさんは同情の笑みで慰めの言葉をかけた後、仕事に戻ろうとした。@k……それを俺は呼び止める。",
+            "TextENG": "After some consoling words and a sympathetic smile to Shion, the other waitress started to head back to work.@k ...That's where I stopped her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26986,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18220.",
+            "TextJPN": "「すんませんウェイトレスさん。@k@vS19/01/HR_KEI18230.……電話借りたいんですけど」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Excuse me.@k@vS19/01/HR_KEI18230. ...Could I borrow your phone?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26987,
+            "NamesJPN": "ウェイトレス",
+            "PreTextTags": "@vS19/00/waitA50018.",
+            "TextJPN": "「電話ですか？@k@vS19/00/waitA50019.　レジ横にございますよ。@k@vS19/00/waitA50020.ご案内いたします」",
+            "NamesENG": "Waitress",
+            "TextENG": "``The phone?@k@vS19/00/waitA50019. It's by the register.@k@vS19/00/waitA50020. I'll show you where.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26988,
+            "TextJPN": "財布から１０円玉を取り出す。",
+            "TextENG": "I pulled a 10 yen coin from my wallet."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26989,
+            "TextJPN": "もう面子とかそんなのは関係ない。",
+            "TextENG": "This wasn't about saving face."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26990,
+            "TextJPN": "俺が不甲斐ないのは動かしようもない事実だが、泣き寝入りは今晩いくらでもできる。",
+            "TextENG": "My being a worthless coward was an unchangeable fact, but I could just cry myself to sleep about that later tonight."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26991,
+            "TextJPN": "今は泣く時じゃない。",
+            "TextENG": "Now was not the time for tears."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26992,
+            "TextJPN": "戦わなければならないんだ…！",
+            "TextENG": "I had to fight!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26993,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18240.",
+            "TextJPN": "「確かチケット１枚で４人までＯＫなんですよね。@k@vS19/01/HR_KEI18250.あと３人、呼んでもいいんですよね」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``If I recall, one ticket is good for up to four people, right?@k@vS19/01/HR_KEI18250. Is it alright if I call over three more people?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26994,
+            "NamesJPN": "ウェイトレス",
+            "PreTextTags": "@vS19/00/waitA50021.",
+            "TextJPN": "「えぇ、そうですけど…。@k@vS19/00/waitA50022.一応、名簿に書きますので、お名前を伺ってもよろしいですか？」",
+            "NamesENG": "Waitress",
+            "TextENG": "``Yes, that's fine...@k@vS19/00/waitA50022. For the time being, I'll write them down on the guest list, could I have their names?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26995,
+            "TextJPN": "…そこで俺は一度振り返った。",
+            "TextENG": "...I turned around..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26996,
+            "TextJPN": "詩音に屈辱的な仕打ちを強いたあの無法者たちを見据える。",
+            "TextENG": "...and glared at the greasy hooligan who subjected Shion to that humiliation."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26997,
+            "TextJPN": "貴様らは３つ運に見放された…。",
+            "TextENG": "There are three things that aren't working in your favor today, punk."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 26999,
+            "TextJPN": "１つ目は俺が詩音に借りがあるということ。",
+            "TextENG": "The first is that I owe Shion."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27000,
+            "TextJPN": "１つ目は俺が詩音と約束していたということ。",
+            "TextENG": "The first is that I promised Shion."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27001,
+            "TextJPN": "２つ目は俺が勝つためならプライドだって捨てられる男だということ。",
+            "TextENG": "The second is that I'm a man who's not afraid to throw away his pride to win."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27002,
+            "TextJPN": "そして３つ目は………、",
+            "TextENG": "And the third is..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27003,
+            "TextJPN": "俺たちが史上最強の部活メンバーだと言うことだッ！！！",
+            "TextENG": "That we're the most powerful club members in history!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27004,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18260.",
+            "TextJPN": "「名簿には、竜宮レナ。それから北条沙都子。古手梨花で」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Please add: Rena Ryuugu, Satoko Houjou, and Rika Furude to the guest list.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27005,
+            "NamesJPN": "ウェイトレス",
+            "PreTextTags": "@vS19/00/waitA50023.",
+            "TextJPN": "「かしこまりました。承ります」",
+            "NamesENG": "Waitress",
+            "TextENG": "``Understood. I'll do that.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27006,
+            "TextJPN": "最高にして最強の部員たちを入国させる。",
+            "TextENG": "I'll have the best and most powerful club members join the fray."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27007,
+            "TextJPN": "ヤツらこそは一騎当千！！@k　無法者どもッ！！",
+            "TextENG": "They can bring down a thousand foes!!@k You fatasses!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27008,
+            "TextJPN": "貴様らは終わりだぁあぁああぁあぁああッ！！！",
+            "TextENG": "Prepare to meet your makeeeer!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27009,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200193.",
+            "TextJPN": "「イ、イイお店だね！！@k@vS19/02/500200194.　はぅ！　制服かぁいい！！@k@vS19/02/500200195.　レナも着たい！！@k@vS19/02/500200196.　はぅ～～！！」",
+            "NamesENG": "Rena",
+            "TextENG": "``T-This is a nice restaurant!!@k@vS19/02/500200194. Hau! The uniforms are kyute!!@k@vS19/02/500200195. Rena wants to wear them too!!@k@vS19/02/500200196. Hau~~!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27010,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500039.",
+            "TextJPN": "「……しかもデザートまでおごってもらえるなんて、ボクは大感激なのです」",
+            "NamesENG": "Rika",
+            "TextENG": "``...On top of that we're being treated to dessert. I'm deeply moved.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27011,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18270.",
+            "TextJPN": "「あぁ…好きなだけ食ってくれ。@k@vS19/01/HR_KEI18280.俺の分なんか気にするな」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Yeah... eat as much as you like.@k@vS19/01/HR_KEI18280. Don't worry about my share.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27012,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400072.",
+            "TextJPN": "「圭一さん、茶番は結構でございますのよ。@k@vS19/04/500400073.用件に入ってほしいですわ」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Keiichi-san, enough with the charades.@k@vS19/04/500400073. Let's get to the point.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27013,
+            "TextJPN": "沙都子がそう切り出すと、レナも梨花ちゃんもフォークを置いた。",
+            "TextENG": "Rena and Rika-chan put down their forks when Satoko broached the subject."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27014,
+            "TextJPN": "…俺はそれをしばし眺めた後、べたっと額を机に押し付けた。",
+            "TextENG": "...After looking at them for a few moments, I pressed my forehead firmly into the table."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27015,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18290.",
+            "TextJPN": "「頼む。@k@vS19/01/HR_KEI18300.……俺の不甲斐なさを笑ってもいい！@k@vS19/01/HR_KEI18310.　力を貸してくれッ！！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``I beg of you.@k@vS19/01/HR_KEI18300. ...I don't care if you make fun of how pathetic I am!@k@vS19/01/HR_KEI18310. Please lend me your strength!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27016,
+            "TextJPN": "突然のことに３人は少し驚いたようだったが、俺のただならぬ様子に茶化すことなく耳を傾けてくれた。",
+            "TextENG": "The three of them seemed surprised by the sudden turn of events, but nevertheless listened to what I had to say without making fun of my unusual behavior."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27017,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200197.",
+            "TextJPN": "「……ど、どうしたのかな？@k@vS19/02/500200198.　何があったんだろ。だろ！」",
+            "NamesENG": "Rena",
+            "TextENG": "``...Wh-What's the matter?@k@vS19/02/500200198. Something happened, didn't it!? Didn't it!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27018,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18320.",
+            "TextJPN": "「実は……魅音の妹の詩音がこの店でバイト中なんだ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Actually... Mion's younger sister Shion is working part-time at this restaurant.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27019,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200199.",
+            "TextJPN": "「あ、話に聞いてた魅ぃちゃんの妹さんだね？！@k@vS19/02/500200200.　ひょっとしてあれかな。あれかな？！@k@vS19/02/500200201.　似てるね似てるね！！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Ah, that little sister you were talking about, right!?@k@vS19/02/500200200. Could it be her? Could it!?@k@vS19/02/500200201. She resembles her! Resembles her!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27020,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400074.",
+            "TextJPN": "「に、似てるも何も…髪をおろしただけの本人ではありませんの…？」",
+            "NamesENG": "Satoko",
+            "TextENG": "``R-Resemble? ...That's just Mion with her hair down, isn't it...?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27021,
+            "TextJPN": "う。……言葉に詰まる。",
+            "TextENG": "Erp. ...I didn't know what to say."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27022,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500040.",
+            "TextJPN": "「……圭一が詩音だと言うから詩音なのですよ」",
+            "NamesENG": "Rika",
+            "TextENG": "``...If Keiichi says that's Shion, then that's Shion.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27023,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400075.",
+            "TextJPN": "「いくら双子だって、あんなに瓜二つになるもんなんですの？」",
+            "NamesENG": "Satoko",
+            "TextENG": "``They might be twins, but can they really look that much alike?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27024,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200202.",
+            "TextJPN": "「一卵性双生児って言ってね。@k@vS19/02/500200203.本当にそっくりの双子ってこともあるんだって」",
+            "NamesENG": "Rena",
+            "TextENG": "``They're called monozygotic twins.@k@vS19/02/500200203. They really can look identical.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27025,
+            "TextJPN": "…レナがもっともらしいことを言ってくれたので、みんなも納得する。",
+            "TextENG": "...Rena gave the most plausible explanation, so everybody else was convinced."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27026,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18330.",
+            "TextJPN": "「な、納得してもらえたかな？@k@vS19/01/HR_KEI18340.　それで…本題だ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``W-Well then, do you believe me?@k@vS19/01/HR_KEI18340. I'll get to the point then.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27027,
+            "TextJPN": "そして…俺はさっきあったことを全て話した。",
+            "TextENG": "I recounted everything that had just happened."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27028,
+            "TextJPN": "…詩音が目をつけられ、意地悪な客たちにどう扱われたか、どんな屈辱的なことを強いられたか。",
+            "TextENG": "...How Shion was targeted, how she was antagonized by the customers, and the humiliation that was forced upon her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27029,
+            "TextJPN": "…そして、自分がいかに情けなかったかを…包み隠さず話した。",
+            "TextENG": "...Also, how incredibly pathetic I was... I included everything without trying to hide it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27030,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200204.",
+            "TextJPN": "「そ、それはひどいね。@k@vS19/02/500200205.…詩ぃちゃんかわいそう」",
+            "NamesENG": "Rena",
+            "TextENG": "``T-That's awful.@k@vS19/02/500200205. ...Poor Shii-chan.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27031,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400076.",
+            "TextJPN": "「しかし…それを助けられないなんて！@k@vS19/04/500400077.　みっともないにもほどがありますわよ？！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``However... for you to be unable to help her!@k@vS19/04/500400077. There should be a limit to how unsightly you can be!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27032,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18350.",
+            "TextJPN": "「…それについては返す言葉がない」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...There's nothing I can say to that.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27033,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200206.",
+            "TextJPN": "「沙都子ちゃん。@k@vS19/02/500200207.負けを認めて助けを求めるのって、とっても難しいことなの。@k@vS19/02/500200208.圭一くんはヘンなプライドなんかより、詩ぃちゃんを助けることを選んだんだよ」",
+            "NamesENG": "Rena",
+            "TextENG": "``Satoko-chan.@k@vS19/02/500200207. To admit that you lost and to seek help is a very difficult thing to do.@k@vS19/02/500200208. Keiichi-kun chose to help Shii-chan rather than save his pride.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27034,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400078.",
+            "TextJPN": "「…ふん。情けないですことー」",
+            "NamesENG": "Satoko",
+            "TextENG": "``...Hmph. So pathetic.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27035,
+            "TextJPN": "レナのフォローが胸に痛いが…理解してくれたことに感謝する他ない。",
+            "TextENG": "Rena's follow-up stung a bit... but I could only be thankful that she understood."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27036,
+            "TextJPN": "沙都子はさんざん悪態をついたが、言葉には決してトゲは含まれていなかった。",
+            "TextENG": "Satoko was calling me all sorts of names, but there were no malign intentions behind her words."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27037,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500041.",
+            "TextJPN": "「……で、ボクたちは何をするですか？」",
+            "NamesENG": "Rika",
+            "TextENG": "``...Then, what should we do?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27038,
+            "TextJPN": "言葉に抑揚はないが、…すでに決意にも似た響きがあった。",
+            "TextENG": "Her voice was monotone... but there was a hint of resolve in her words."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27039,
+            "TextJPN": "俺はその梨花ちゃんの余韻ある沈黙に…同じく決意ある沈黙を返す。",
+            "TextENG": "I replied to Rika-chan's suggestive silence in kind with my own quiet resolve."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27040,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400079.",
+            "TextJPN": "「…ま、そんなところだと思ってましたわ。@k@vS19/04/500400080.圭一さん一人には少々荷が重過ぎますもの」",
+            "NamesENG": "Satoko",
+            "TextENG": "``...Well, I thought it would be something like that.@k@vS19/04/500400080. It is a bit much for Keiichi-san to handle alone.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27041,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18360.",
+            "TextJPN": "「え、……じゃあ……助けてくれるのか…？！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Huh? ...Then ...you'll help!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27042,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200209.",
+            "TextJPN": "「当然だよ、圭一くん。@k@vS19/02/500200210.私たちは誰がいじめられても助けに行くよ」",
+            "NamesENG": "Rena",
+            "TextENG": "``Of course, Keiichi-kun.@k@vS19/02/500200210. We'll help anybody who's being bullied.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27044,
+            "TextJPN": "…ごろつきに絡まれた日、詩音が話してくれた雛見沢の強い連帯感を痛感する…。",
+            "TextENG": "...I remembered when I was cornered by those thugs. What Shion had said about the strong feeling of solidarity in Hinamizawa really began to hit home."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27045,
+            "TextJPN": "…ごろつきから詩音を守った日、詩音が話してくれた雛見沢の強い連帯感を痛感する…。",
+            "TextENG": "...On the day I protected Shion from the rogue, I was acutely aware of the strong sense of solidarity in Hinamizawa that Shion had told me about..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27046,
+            "TextJPN": "だが前原圭一！",
+            "TextENG": "However, Keiichi Maebara!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27047,
+            "TextJPN": "今はそれに感謝して感涙に咽ぶ時じゃない。戦う時だ…！！",
+            "TextENG": "Now is not the time to get choked up with tears of gratitude. Now... is the time to fight!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27048,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18370.",
+            "TextJPN": "「すまん！！　恩に着るッ！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Sorry!! I owe you one!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27049,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500042.",
+            "TextJPN": "「……ひとりで頑張ったけど歯が立たなくてかわいそかわいそです」",
+            "NamesENG": "Rika",
+            "TextENG": "``...You tried your best but didn't stand a chance alone. How sad, how sad.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27050,
+            "TextJPN": "梨花ちゃんは俺の頭をなでなでしてくれた。",
+            "TextENG": "Rika-chan gently pat my head for me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27051,
+            "TextJPN": "…だがその手のひらには小馬鹿にした憐れみはない。",
+            "TextENG": "...But there was no mindless pity in the palm of that hand."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27052,
+            "TextJPN": "……あとはボクたちにお任せですよ、という…あまりに頼もしい力強さに満ちていた。",
+            "TextENG": "It was overflowing with the strong, dependable feeling of ``leave the rest to us.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27053,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18380.",
+            "TextJPN": "「……諸々の都合により魅音は参戦できないので、臨時に俺が指揮を執る。@k@vS19/01/HR_KEI18390.……作戦内容は詩音の護衛と敵勢力の殲滅」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...Mion can't join us due to various circumstances, so I'll temporarily be taking command.@k@vS19/01/HR_KEI18390. ...Our strategy will revolve around Shion's defense and the extermination of the enemy's combat capability.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27054,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200211.",
+            "TextJPN": "「敵って誰かな？@k@vS19/02/500200212.　いっぱいいるのかな？」",
+            "NamesENG": "Rena",
+            "TextENG": "``Who's the enemy?@k@vS19/02/500200212. Are there a lot of them?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27055,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18400.",
+            "TextJPN": "「現時刻以降、詩音にちょっかいを出そうとする全個人・全勢力を敵と認める。@k@vS19/01/HR_KEI18410.交戦規定はなし。@k@vS19/01/HR_KEI18420.報酬は今食ったデザート。@k@vS19/01/HR_KEI18430.……質問はあるか？」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``From this point forward, anybody who messes with Shion shall be considered an enemy combatant.@k@vS19/01/HR_KEI18410. There are no rules of engagement.@k@vS19/01/HR_KEI18420. Compensation will be the dessert you just ate.@k@vS19/01/HR_KEI18430. ...Any questions?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27056,
+            "TextJPN": "すでに部活モードに入った部員たちは闇より獲物を狙う肉食獣のような眼差しで、店内にひしめく有象無象たちを見渡す…。",
+            "TextENG": "Everybody had already entered Club Mode, their eyes peering at the riffraff clamoring around inside the restaurant like predators stalking their prey from the darkness..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27057,
+            "TextJPN": "その中、梨花ちゃんが挙手した。",
+            "TextENG": "Rika-chan held up her hand."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27058,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18440.",
+            "TextJPN": "「何だい、梨花ちゃん」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``What is it, Rika-chan?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27059,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500043.",
+            "TextJPN": "「……手加減は必要ですか？」",
+            "NamesENG": "Rika",
+            "TextENG": "``...Do we have to show mercy?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27060,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400081.",
+            "TextJPN": "「不要に決まってますわッ！！@k@vS19/04/500400082.　魅音さんの妹に@bろうぜき.@<狼藉@>を働く輩に手加減なんか不要ですの！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Of course we don't have to!!@k@vS19/04/500400082. We have no need to show mercy to the rabble that would dare lay a finger on Mion's little sister!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27061,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500044.",
+            "TextJPN": "「……いいんですね。圭一」",
+            "NamesENG": "Rika",
+            "TextENG": "``...Then it's okay. Keiichi?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27062,
+            "TextJPN": "…梨花ちゃんは…本気だ。@k…本気で殺る気だ。@k…あぁ…頼むぜ梨花ちゃん！！",
+            "TextENG": "...Rika-chan was... serious.@k ...She was really ready to pretty much murder someone.@k ...Ahh... I'm counting on you Rika-chan!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27063,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18450.",
+            "TextJPN": "「全責任は俺、前原圭一が取る。@k@vS19/01/HR_KEI18460.蹴散らしてやれッ！！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``I, Keiichi Maebara, shall assume all responsibility.@k@vS19/01/HR_KEI18460. Rout them!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27064,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200213.",
+            "TextJPN": "「あははははははは！@k@vS19/02/500200214.　ようし！@k@vS19/02/500200215.　レナも頑張るぞぅッ！！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Ahahahahahahaha!@k@vS19/02/500200214. Alrighty!@k@vS19/02/500200215. Rena's going to do her best too!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27065,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18470.",
+            "TextJPN": "「すまん！！@k@vS19/01/HR_KEI18480.　よろしく頼む…！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Sorry!!@k@vS19/01/HR_KEI18480. Please do...!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27066,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400083.",
+            "TextJPN": "「……圭一さん、そんなに力まなくても大丈夫ですのよ。@k@vS19/04/500400084.…まぁご覧あそばせ。@k@vS19/04/500400085.圭一さんがそのパフェを食べ終わる頃にはお掃除は終わってましてよ」",
+            "NamesENG": "Satoko",
+            "TextENG": "``...Keiichi-san, you don't have to be so tense.@k@vS19/04/500400084. ...Well, just wait and see.@k@vS19/04/500400085. By the time you finish that parfait, we'll have finished cleaning up too.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27067,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500045.",
+            "TextJPN": "「……ではみんな。@k@vS19/05/500500046.頑張りましょうですよ。@k@vS19/05/500500047.ファイト、おーです」",
+            "NamesENG": "Rika",
+            "TextENG": "``...Well then, everyone.@k@vS19/05/500500046. Let's give it our all.@k@vS19/05/500500047. Go for it, yay.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27068,
+            "NamesJPN": "圭一＆レナ＆沙都子",
+            "PreTextTags": "@o65.@vS19/02/500200216|S19/04/500400086|S19/01/HR_KEI18480_01.",
+            "TextJPN": "「「おぉぉーーーッ！！！」」",
+            "NamesENG": "Keiichi & Rena & Satoko",
+            "TextENG": "``````Yaaaay!!!``````"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27069,
+            "TextJPN": "かくして…魅音が育て上げた史上最強の局地戦集団が動き始める…。",
+            "TextENG": "Thus...  the most powerful warband the world had ever known, trained by Mion, began to move."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27070,
+            "TextJPN": "俺は年齢上、性別上、リーダーっぽく振舞ったが…部活だけで言うなら俺が一番の後輩だ。",
+            "TextENG": "I was the oldest, the only boy, and behaved like a leader... but when you consider our club activities, I was by far the most junior member."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27071,
+            "TextJPN": "……俺以外の誰だって、個人で恐ろしい戦闘能力を持っている！",
+            "TextENG": "Individually, everyone besides me had terrifying combat capabilities."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27072,
+            "TextJPN": "それらが、詩音ひとりを守るために結集したらッ？！",
+            "TextENG": "If all of them combined their strengths to protect Shion...!?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27073,
+            "TextJPN": "予想も付かない。",
+            "TextENG": "I couldn't even imagine."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27074,
+            "TextJPN": "…俺は恐ろしいものを目撃するかもしれない…。",
+            "TextENG": "...I was probably about to witness something terrible and awe-inspiring..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27075,
+            "NamesJPN": "ウェイトレス",
+            "PreTextTags": "@vS19/00/waitA50024.",
+            "TextJPN": "「園崎さ～ん、７番テーブルにＤＸパフェを５つお願いします～！」",
+            "NamesENG": "Waitress",
+            "TextENG": "``Sonozaki-sa~n, five Deluxe Parfaits for table seven~!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27076,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS19/06/500600216.",
+            "TextJPN": "「あ、はい…！！」",
+            "NamesENG": "Shion",
+            "TextENG": "``Ah, sure thing!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27077,
+            "TextJPN": "詩音がオーダーのパフェを５つも運んでいく。",
+            "TextENG": "Shion carried the order to the tables."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27078,
+            "TextJPN": "不安定な詩音はそれをバランスよく運ぶのに精一杯で足元に注意はまったく払われていない…。",
+            "TextENG": "For Shion to carry all five parfaits without wobbling took so much effort that she didn't have the breathing room to pay attention to her feet..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27079,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaE50016.",
+            "TextJPN": "「くっくっく…同志よ、また来たでござるよ…！！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``Hehehe... comrades, here she comes yet again...!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27080,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaA50002.",
+            "TextJPN": "「今度はミーのおズボンにぶっかけさせて、いっそう念入りにフキフキしてもらうニョリ！！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``This time we'll have her spill everything on my pants, and have her give an especially thorough wipey-wipey!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27081,
+            "TextJPN": "ほんの小一時間前に起こったフキフキ騒動…。@kそれを今度は自分が再現しようと…ケガれた男たちの欲望が襲い掛かろうとしてるッ…！！！",
+            "TextENG": "It was the same wipey-wipey scheme that had occurred just a short time earlier.@k This time, another one of them was trying it out for himself... the very depravity of these men was itself a full-out attack!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27082,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18490.",
+            "TextJPN": "「圭一よりレナへ。@k@vS19/01/HR_KEI18500.５～６番テーブル付近で待伏せだ。@k@vS19/01/HR_KEI18510.……レナ？　聞こえてるか？！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Rena, this is Keiichi.@k@vS19/01/HR_KEI18500. Ambush them around tables five and six.@k@vS19/01/HR_KEI18510. ...Rena? Do you copy!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27083,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200217.",
+            "TextJPN": "「お店の制服、…かぁいいねぇ…！！　はぅ～…お持ち帰り～…！」",
+            "NamesENG": "Rena",
+            "TextENG": "``The restaurant's uniforms... sooo kyuute!! Hau~ ...I want to take them home~...!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27084,
+            "TextJPN": "ふらふらとパフェを運ぶ詩音のおしりを、ふらふらと追うレナ。",
+            "TextENG": "Shion, her bottom swaying while carrying the parfaits, was being chased by an equally swaying Rena."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27085,
+            "TextJPN": "詩音の背後にぴったりと付き、護衛しているはずのレナは詩音の制服の後姿にすっかり釘付けだ。",
+            "TextENG": "She was supposed to be escorting Shion, but Rena was instead transfixed by the back of her uniform."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27086,
+            "TextJPN": "普通の人が見れば、まるで狼に羊の番をさせているように見えるのかもしれないが……レナに関しては違う！",
+            "TextENG": "From a normal person's point of view, it was probably like having a fox guard a henhouse... ...but when it comes to Rena, things are different!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27087,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18520.",
+            "TextJPN": "「かぁいい状態、シンクロ率１２０％…。@k@vS19/01/HR_KEI18530.勝ったな」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Kyute mode, 120% synchronization...@k@vS19/01/HR_KEI18530. We've won.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27088,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400087.",
+            "TextJPN": "「……あの状態のレナさんには、地球上のどんな物理法則も通用しませんわ」",
+            "NamesENG": "Satoko",
+            "TextENG": "``...When Rena's in that state, even the laws of physics don't apply.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27089,
+            "TextJPN": "よたよたと無防備に歩く詩音の足元を…、いくつもの淀んだ目が狙う…！",
+            "TextENG": "Shion's legs, unsteady and defenseless... were being targeted by those sleazebags!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27090,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaE50017.",
+            "TextJPN": "「今でござるよ同志諸君ッ！！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``Now, my comrades!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27091,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaA50003.",
+            "TextJPN": "「世界の輝ける明星にして偉大なる総統閣下万歳～ッ！！！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``Heil mein Fuhrer, shining Lucifer of the Harumi Mecca!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27092,
+            "TextJPN": "…詩音のその無防備な足元に…ヘビが襲い掛かるがごとく、転ばせようと足が伸びるッ！@k　なんと…一度に３人もッ！！！",
+            "TextENG": "A leg snaked out to trip Shion's defenseless feet!@k Egads... three of them at once!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27093,
+            "TextJPN": "スパパパパパーーーーンッ！！！！",
+            "TextENG": "*THAP THAP THAP*"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27094,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaA50004.",
+            "TextJPN": "「ぎゃッ？！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``Aarggghhhhhh!?!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27095,
+            "TextJPN": "まさに電光石火ッ！！！",
+            "TextENG": "It happened in an instant!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27096,
+            "TextJPN": "愚かな３人が足を不自然に曲げながら苦痛にのたうち回る！",
+            "TextENG": "The three fools writhed in pain as their legs bent at unnatural angles!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27097,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaA50005.",
+            "TextJPN": "「お、おごぉおおおぉおおぉッ？！？！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``W-W-W-W-What...?!?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27098,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaB50004.",
+            "TextJPN": "「ここここ、これは…何事で…ござるかぁああっぁあ…！！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``This is maaaaadneeeeeessss!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27099,
+            "TextJPN": "レナがふらふらと現れ、彼らに注意（？）する。",
+            "TextENG": "Rena teetered into view, and gave them a warning(?)."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27100,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200218.",
+            "TextJPN": "「はぅ～～～…おいたはダメなんだよ～☆@k@vS19/02/500200219.　メッだよ？　メ！@k@vS19/02/500200220.　レナがお持ち帰りするからメ～～～～～♪」",
+            "NamesENG": "Rena",
+            "TextENG": "``Hau~~~~ No mischief, okay~☆.@k@vS19/02/500200219. No means no. No!@k@vS19/02/500200220. Rena's going to be the one to take her hoooome~~~♪``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27101,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaA50006.",
+            "TextJPN": "「ここ、この小娘……珍妙な技をぉおおぉおぉお…ッ！！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``T-T-This girl.... what's with that strange techniiiiiiiiiiique!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27102,
+            "TextJPN": "不埒な無法者どもはアザの残る足首を押さえ悶絶している…。",
+            "TextENG": "The human scum clutched at their bruised ankles as they passed out..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27103,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400088.",
+            "TextJPN": "「さすがはレナさん…。@k@vS19/04/500400089.…いつ見ても恐ろしいキレですわね」",
+            "NamesENG": "Satoko",
+            "TextENG": "``That's our Rena-san...@k@vS19/04/500400089. ...No matter how many times I see it it's always frighteningly quick.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27104,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18540.",
+            "TextJPN": "「あぁ。絶対的なガードだ！！@k@vS19/01/HR_KEI18550.　半径２ｍ以内で行なわれる詩音へのあらゆる攻撃を、レナは完全なカウンターで粉砕するッ…！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Yeah.  It's an unbreakable barrier!!@k@vS19/01/HR_KEI18550. Anyone within a two-meter radius who attacks Shion is completely obliterated by Rena!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27105,
+            "TextJPN": "詩音がオーダーのために店内を何往復かするころには、あちこちで、足や手の甲にアザを作った連中が悶絶していた…。",
+            "TextENG": "As Shion was making her rounds through the restaurant, there were people here and there collapsing with welts on their legs or hands..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27106,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200221.",
+            "TextJPN": "「はぅ～～～☆@k@vS19/02/500200222.　レナより圭一くんへ。@k@vS19/02/500200223.もう詩ぃちゃんにちょっかい出す人はいないよ～。@k@vS19/02/500200224.だからもうお持ち帰り～～！！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Hau~~~☆.@k@vS19/02/500200222. Keiichi-kun, this is Rena.@k@vS19/02/500200223. There's nobody left that'll bother Shii-chan~.@k@vS19/02/500200224. So I'm going to take her home now~~!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27107,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18560.",
+            "TextJPN": "「圭一よりレナへ。@k@vS19/01/HR_KEI18570.ご苦労だった。@k@vS19/01/HR_KEI18580.引き続き護衛を続けてくれ。@k@vS19/01/HR_KEI18590.それからお持ち帰りは不可！@k@vS19/01/HR_KEI18600.　繰り返す、お持ち帰りは不可！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Rena, this is Keiichi.@k@vS19/01/HR_KEI18570. Good work.@k@vS19/01/HR_KEI18580. Please continue the mission.@k@vS19/01/HR_KEI18590. Also, permission to take home denied!@k@vS19/01/HR_KEI18600. I repeat, permission to take home denied!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27108,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200225.",
+            "TextJPN": "「じゃあ見てるだけだよ見てるだけ☆　はぅ～～～～～♪」",
+            "NamesENG": "Rena",
+            "TextENG": "``Then I'll just look, I'll just look☆. Hau~~~~~♪``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27109,
+            "TextJPN": "…まぁ見ているだけならいいか。",
+            "TextENG": "...I guess just looking is fine."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27110,
+            "TextJPN": "ついでに詩音のガードも続けてくれてるのだからＯＫにしてやろう…。",
+            "TextENG": "That wouldn't prevent her from guarding Shion, so I guess it's okay..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27111,
+            "TextJPN": "だがこれで、詩音に悪さをしようとしていたヤツらは全て把握した！",
+            "TextENG": "Anyway, thanks to this I knew who had tried to mess with Shion!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27112,
+            "TextJPN": "手や足を押さえて悶絶しているヤツらに残されたアザはまさに烙印！",
+            "TextENG": "Anybody who was clutching at their arm or leg while they were writhing in agony was basically branded by their bruises!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27113,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18610.",
+            "TextJPN": "「現時刻を以て敵勢力識別を完了。@k@vS19/01/HR_KEI18620.次のフェイズへ移行する。@k@vS19/01/HR_KEI18630.圭一より沙都子へ！@k@vS19/01/HR_KEI18640.　そっちはどうなってる？！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Currently, we have finished identifying all enemy forces.@k@vS19/01/HR_KEI18620. Proceeding to the next phase.@k@vS19/01/HR_KEI18630. Satoko, this is Keiichi!@k@vS19/01/HR_KEI18640. What's your status!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27114,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400090.",
+            "TextJPN": "「沙都子ですわよ。@k@vS19/04/500400091.…どうなってるとはヒドイ言い方でございますわね。@k@vS19/04/500400092.圭一さん、私を誰だと思っておいでですのー？」",
+            "NamesENG": "Satoko",
+            "TextENG": "``This is Satoko.@k@vS19/04/500400091. ...That's a rude way to ask.@k@vS19/04/500400092. Keiichi-san, exactly who do you think I am?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27115,
+            "TextJPN": "沙都子の姿は厨房内にあった。",
+            "TextENG": "Satoko was in the kitchen."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27116,
+            "TextJPN": "配膳卓上に何枚ものオーダー伝票と目標の所在を書き込んだ店内見取り図を広げ、出来上がったばかりのデザートを選り分けている。",
+            "TextENG": "She had spread open a sketch of the restaurant on the counter, replete with order chits and their destinations, and was now sorting through the freshly made desserts."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27117,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS19/06/500600217.",
+            "TextJPN": "「……ちょっと…さっきから何をしてるの？！」",
+            "NamesENG": "Shion",
+            "TextENG": "``...Hey... what are you doing!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27118,
+            "NamesJPN": "ウェイトレス",
+            "PreTextTags": "@vS19/00/waitA50025.",
+            "TextJPN": "「まーまー☆@k@vS19/00/waitA50026.　園崎さん、いいからいいから彼女に任せておいて！@k@vS19/00/waitA50027.　それよりもこのオーダー、全部一度に行くからお願いね！」",
+            "NamesENG": "Waitress",
+            "TextENG": "``Now, now☆.@k@vS19/00/waitA50026. Sonozaki-san, it's all right, just leave it to her!@k@vS19/00/waitA50027. More importantly, we're taking all these orders out at once, so I'm counting on you!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27119,
+            "TextJPN": "先輩スタッフが後輩たちにてきぱきと指示を出し、次々に配膳に出発させて行く。",
+            "TextENG": "The veteran waitress was briskly directing her juniors as the trays went out one after another."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27120,
+            "TextJPN": "店内に一斉に配られる、沙都子の手の入ったデザート…。",
+            "TextENG": "All the desserts that had passed through Satoko's hands were delivered at once."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27121,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200226.",
+            "TextJPN": "「はぅ～～！！@k@vS19/02/500200227.　かぁいいデザートがいっぱい来たよ～～！！@k@vS19/02/500200228.　はぅ～～！！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Hau~~!!@k@vS19/02/500200227. Lots of kyute desserts are coming~!!@k@vS19/02/500200228. Hau~~!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27122,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18650.",
+            "TextJPN": "「…わかってるだろうが、手をつけるなよ。@k@vS19/01/HR_KEI18660.自分の身が大事なら」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...I think you know this, but don't touch them.@k@vS19/01/HR_KEI18660. At least, if you still value your life.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27123,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200229.",
+            "TextJPN": "「わ、わかってるけど～…、はぅ～～！！」",
+            "NamesENG": "Rena",
+            "TextENG": "``I-I know but... Hau~~!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27124,
+            "TextJPN": "確かに、いずれも劣らぬ可愛いデザートばかり。@k食べる前から存分に目を楽しませてくれる芸術品ばかりだ…！",
+            "TextENG": "Certainly, they were all incredibly cute-looking desserts.@k They were all works of art that you could enjoy before even taking your first bite!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27125,
+            "TextJPN": "だが、その芸術品も沙都子が絡んでいると知れば…危険な@bＵｎｋｎｏｗｎ.@<未確認物体@>に過ぎない！",
+            "TextENG": "However, since Satoko had meddled with them... they were nothing more than an unpredictable danger!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27126,
+            "TextJPN": "そんなことには気付きもせず、がばがばと頬張る男ども！！",
+            "TextENG": "Blissfully ignorant of that fact were the men now stuffing their faces!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27127,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaC50006.",
+            "TextJPN": "「む…」",
+            "NamesENG": "Otaku",
+            "TextENG": "``Mu...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27128,
+            "TextJPN": "…異変は数瞬を置かずに起こり始める。",
+            "TextENG": "...Almost right away, they realized that something was wrong."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27129,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18670.",
+            "TextJPN": "「沙都子。@k@vS19/01/HR_KEI18680.………何を混ぜた？@k@vS19/01/HR_KEI18690.　塩やタバスコってわけじゃないだろ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Satoko.@k@vS19/01/HR_KEI18680. ...What did you mix in there?@k@vS19/01/HR_KEI18690. It couldn't have been salt or tabasco, right?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27130,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400093.",
+            "TextJPN": "「あぁら、圭一さんが言ったんですのよ？@k@vS19/04/500400094.　手加減無用って。@k@vS19/04/500400095.私、こう見えても叩く時は徹底的に叩く性分でございますの…！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Myyy, what ARE you saying Keiichi-san?@k@vS19/04/500400094. You said no mercy.@k@vS19/04/500400095. I might not look like it, but when I get down to business, I like to be very thorough!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27131,
+            "TextJPN": "そう言いながら、怪しげな薬瓶をくるくると回しながら、『スチャ！』とポシェットの中にしまった。",
+            "TextENG": "As she said that, she twirled a dubious phial in her fingers before putting it away smartly into her pouch."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27132,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400096.",
+            "TextJPN": "「沙都子より梨花へ。@k@vS19/04/500400097.お客様が行きますわよ。@k@vS19/04/500400098.エスコートをお願いしますわ～！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Rika, this is Satoko.@k@vS19/04/500400097. The customers are moving.@k@vS19/04/500400098. Escort duty is all yours~!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27133,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500048.",
+            "TextJPN": "「……ボクにお任せなのです」",
+            "NamesENG": "Rika",
+            "TextENG": "``...Leave it to me.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27134,
+            "TextJPN": "…そう言えば梨花ちゃんの姿が見当たらないな。@kどこかに潜んでいるのだろうか…？",
+            "TextENG": "...Come to think of it, I didn't see Rika-chan anywhere.@k Where could she be lurking...?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27135,
+            "TextJPN": "ガタガタン！@k　何席かの男たちが荒々しく席を立ち、店内をきょろきょろと見渡していた。",
+            "TextENG": "*Clatter clatter*@k Several men stood up suddenly from their seats, surveying the restaurant for something."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27136,
+            "TextJPN": "あのせかせかとした雰囲気。",
+            "TextENG": "That restless fidgeting."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27137,
+            "TextJPN": "……そして天井に吊るされた１枚の看板を見て安堵する。",
+            "TextENG": "...And that look of relief when they found the single placard hanging from the ceiling."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27138,
+            "TextJPN": "その看板には…『お手洗い』と書かれていた。@kそこを目指して殺到する！",
+            "TextENG": "Written on that placard was the word... ``Restroom.``@k They began a mad rush in that direction!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27139,
+            "TextJPN": "それは１人や２人ではなかった。",
+            "TextENG": "It wasn't just one or two people."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27140,
+            "TextJPN": "あちこちの席で『敵』だけが腹を押さえながら席を立つのだ。",
+            "TextENG": "All the people that were branded as 'The Enemy' were standing up from their seats while clutching at their stomachs."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27141,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaC50007.",
+            "TextJPN": "「ぅぅ…さすがにがっつき過ぎたでござるよ…。@k@vS19/00/otaC50008.お手洗いはどこでござるか…」",
+            "NamesENG": "Otaku",
+            "TextENG": "``Ugh... I think I was a little too greedy...@k@vS19/00/otaC50008. Where's the washroom...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27142,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaD50006.",
+            "TextJPN": "「僕もにゃりんよ。@k@vS19/00/otaD50007.オープンでなくクローズドの方でござる！@k@vS19/00/otaD50008.　要リプレイ外しにゃりん！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``Mew too.@k@vS19/00/otaD50007. Not a nyamber one, but a nyamber two!@k@vS19/00/otaD50008. I need to cash out meow!``."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27143,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaE50019.",
+            "TextJPN": "「おトイレはどこにゃー？！@k@vS19/00/otaE50020.　見つけたにゃー！@k@vS19/00/otaE50021.　緊急発進スクランブルにょ～！！！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``Where's da toilet!?@k@vS19/00/otaE50020. I found eeeet!@k@vS19/00/otaE50021. Urine for it now!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27144,
+            "TextJPN": "…沙都子がヤツらのデザートにどんな細工をしたのか、考えるだけでも野暮だな。",
+            "TextENG": "...I felt dirty just thinking about what Satoko probably did to their desserts."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27145,
+            "TextJPN": "問題はここからどうつなぐかだ。",
+            "TextENG": "The problem was how to follow this up."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27146,
+            "TextJPN": "…興味にかられ、続々とトイレへ向かう彼らに付いて行く。",
+            "TextENG": "...I was intrigued, so I followed the rush of men to the washroom."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27147,
+            "TextJPN": "トイレへ通じる狭い通路は１０人前後の男たちでひしめき合っていた。",
+            "TextENG": "The narrow hallway connecting to the restroom was crammed with about ten men."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27148,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otall50003.",
+            "TextJPN": "「こここ、これは…何としたことでござるかぁあぁあぁあああッ！！！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``````W-W-W-What... what is thiiiiiiiiiiiis!!!``````"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27149,
+            "TextJPN": "肩越しに何が起こってるのかをうかがうと……うわッ！！",
+            "TextENG": "As I peered over to see what was happening... whoa!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27150,
+            "TextJPN": "個室の便器にことごとく貼られた問答無用の紙……『故障中』！　しかもご丁寧に水道を閉じられた上に蛇口の栓を外されている！！",
+            "TextENG": "It seemed that the toilet was clogged and backflowing, unleashing a loud gurgling sound and a terrible stench!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27151,
+            "TextJPN": "これではとても用など足せないッ！！！",
+            "TextENG": "There was no way to use it in this state!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27152,
+            "TextJPN": "さ、沙都子のヤツ…何て荒技を…！！！",
+            "TextENG": "D-Damn that Satoko... what a frightening display of power!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27153,
+            "TextJPN": "い、いや、これは沙都子の仕業じゃないな。",
+            "TextENG": "N-No. This wasn't Satoko's doing."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27154,
+            "TextJPN": "天罰だ。",
+            "TextENG": "It was divine punishment."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27155,
+            "TextJPN": "うん、運が悪かっただけなのだ。",
+            "TextENG": "Yeah, they were just unlucky."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27156,
+            "TextJPN": "あとで忘れずに、沙都子から栓を回収して復活させておこう。",
+            "TextENG": "I'll just apologetically ask one of the employees here to clean it up."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27157,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaC50009.",
+            "TextJPN": "「こ、これでは…用が足せぬでござる！！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``I-I can't do my business like this!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27158,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaD50009.",
+            "TextJPN": "「あうぅぅううぅー！！@k@vS19/00/otaE50022.　どうしたものにゃりんか、マイ同志ぃいいいぃ！！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``Arrrrrgh!!@k@vS19/00/otaE50022. What do we do meow, comrades!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27159,
+            "TextJPN": "…見事なトラップコンボだが…最後にもう一押し欲しいところだよな。",
+            "TextENG": "...It was a brilliant combination of traps... but it would be better if there were one more push to the kicker."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27160,
+            "TextJPN": "…そして沙都子に限って、ぬかりがあるはずもない！",
+            "TextENG": "...Seeing as it was Satoko, she wouldn't have overlooked that!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27161,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaC50010.",
+            "TextJPN": "「こうなっては…ささ、最後の手段にゃー…」",
+            "NamesENG": "Otaku",
+            "TextENG": "``Meow that it's come to this... i-i-it's time for the last resort...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27162,
+            "TextJPN": "背を腹には代えられないと悟ったその男の行く手は…",
+            "TextENG": "Faced with a moral dilemma, that man only had one other option..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27163,
+            "TextJPN": "『女子手洗い』ッ！！！",
+            "TextENG": "``Women's Restroom``!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27164,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaC50011.",
+            "TextJPN": "「さ、さすがに女子トイレはまずいではござらんかぁあぁ？！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``Isn't using the girl's room going to get us in trouble!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27165,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaD50010.",
+            "TextJPN": "「今日のお客さんに、女子はいないにゃりん！！@k@vS19/00/otaD50011.　コロンブスの卵でにゃりん！！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``I'm purrty sure there's no female customers today!!@k@vS19/00/otaD50011. Why didn't I think of that befur!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27166,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaE50023.",
+            "TextJPN": "「はぁはぁ…背に腹は代えられぬ～～！！！！！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``*pant pant*... Women's toilets are the best~~!!!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27167,
+            "TextJPN": "な、なんてたくましいヤツらだッ！！",
+            "TextENG": "W-What a brazen bunch they are!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27168,
+            "TextJPN": "額にまでたっぷりと汗を浮かせた男たちが、何の躊躇もなく女子トイレに殺到する！",
+            "TextENG": "The men, sweat now pouring from their brows, made a mad rush to the girl's room without any hesitation!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27169,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500049.",
+            "TextJPN": "「……みぃ？」",
+            "NamesENG": "Rika",
+            "TextENG": "``...Meep?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27170,
+            "NamesJPN": "オタクたち",
+            "PreTextTags": "@vS19/00/HR_OTK00000_ABC.",
+            "TextJPN": "「「のわぁあぁあああぁああぁあッ…？！？！」」",
+            "NamesENG": "Otakus",
+            "TextENG": "``````Nnnnwaaaaaaaaaaah!?!?``````"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27171,
+            "TextJPN": "女子トイレには…女の子が、梨花ちゃんがいた。",
+            "TextENG": "There was girl there... it was Rika-chan."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27172,
+            "TextJPN": "複雑な驚きのポーズのまま石化する男たち…。",
+            "TextENG": "The men stood there, frozen in various complicated poses indicating their surprise..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27173,
+            "TextJPN": "梨花ちゃんも咄嗟の出来事に唖然としている…。",
+            "TextENG": "Rika-chan also seemed dumbfounded by the sudden turn of events..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27174,
+            "TextJPN": "……しかし微妙なうまい表情だな。@kこれも計算の内なのに。",
+            "TextENG": "...but the look on her face was strangely perfect.@k This was all part of the plan as well."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27175,
+            "TextJPN": "さすがは狸だぜ、侮れないぞ梨花ちゃん！！",
+            "TextENG": "You sly dog, Rika-chan. I should never underestimate you!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27176,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaC50012.",
+            "TextJPN": "「こ、ここ、これはでござるな、マドモアゼール…」",
+            "NamesENG": "Otaku",
+            "TextENG": "``D-D-Dis is, you see, Mademoiselle...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27177,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500050.",
+            "TextJPN": "「……みぃ」",
+            "NamesENG": "Rika",
+            "TextENG": "``...Meep.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27178,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaE50024.",
+            "TextJPN": "「男子便所がちょっとデンジャラスにゃので、ちょっとおトイレをお借りしたかっただけなのにゃ～…。にゃ～～♪」",
+            "NamesENG": "Otaku",
+            "TextENG": "``The men's room is bit dangerous at the moment, so we just want to borrow the toilet here right meow... Meow~~♪``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27179,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500051.",
+            "TextJPN": "「……みぃ……、」",
+            "NamesENG": "Rika",
+            "TextENG": "``...Meep...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27180,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaC50013.",
+            "TextJPN": "「ででででも…やっぱりいけないことでござるよな！！　どどど、同志諸君！！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``B-B-But... I guess it's not right after all!! R-R-R-Right, my comrades!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27181,
+            "TextJPN": "女子トイレに婦女子が立つだけで…ここまで圧倒的な結界が張れるものなのか…。",
+            "TextENG": "Just by having a girl stand there in the restroom... I never knew it could put up such an overwhelming barrier..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27182,
+            "TextJPN": "この状況下で梨花ちゃんの脇をひょいと抜けて用を足せる猛者などいようはずもない！",
+            "TextENG": "There was no way anybody could be brave enough to lift Rika-chan out of the way to try and do their business!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27183,
+            "TextJPN": "……ふん。",
+            "TextENG": "...Hmph."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27184,
+            "TextJPN": "だが、そこが所詮こいつらの限界なのだ。",
+            "TextENG": "This was the most they could do after all."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27185,
+            "TextJPN": "真の部活モードに入った男、たとえば俺なら、……梨花ちゃんなんか弾き飛ばして遠慮なく用を足してる！！",
+            "TextENG": "If it were a man in full Club Mode (for example, someone like me)... they would plow through Rika-chan without a second thought!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27186,
+            "TextJPN": "さぁどうする脂ぎった不埒者ども！！",
+            "TextENG": "Now what are you going to do, you fatasses!?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27187,
+            "TextJPN": "詩音に恥ずかしい思いをさせた代償はまだまだこんなもんじゃないぜ！！！",
+            "TextENG": "The price for tormenting Shion still hasn't been paid!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27188,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500052.",
+            "TextJPN": "「……お困りならボクが助けてあげてもいいのです」",
+            "NamesENG": "Rika",
+            "TextENG": "``...If you're in trouble, I can help you.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27189,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaC50014.",
+            "TextJPN": "「かか、かたじけのぅござる！！！@k@vS19/00/otaC50015.　してその方法は？」",
+            "NamesENG": "Otaku",
+            "TextENG": "``T-T-That would be much appreciated!!!@k@vS19/00/otaC50015. How would you do that?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27190,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500053.",
+            "TextJPN": "「……お外のトイレを使えばいいのです。@k@vS19/05/500500054.ご案内しますですよ」",
+            "NamesENG": "Rika",
+            "TextENG": "``...You can use one of the toilets outside.@k@vS19/05/500500054. I'll show you to them.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27191,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaD50012.",
+            "TextJPN": "「それは助かるにゃりん！！@k@vS19/00/otaD50013.　さぁさぁ！！@k@vS19/00/otaD50014.　このままじゃ集団デフコン１状態にゃりん～！！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``That would be purrfect!!@k@vS19/00/otaD50013. Purrease, purrease!!@k@vS19/00/otaD50014. At this rate it'll end up becoming group enema purray~~!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27192,
+            "TextJPN": "梨花ちゃんはニコニコ笑いながら、のんびりとした歩幅で彼らを先導し始める。",
+            "TextENG": "Rika-chan, with a pleasant smile on her face, guided them with a casual stride in her step."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27193,
+            "TextJPN": "……この一刻を争う状況下で牛歩とは……地獄の責め苦！！",
+            "TextENG": "In this race against time, her slow pace was... sadistic torture!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27194,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaC50016.",
+            "TextJPN": "「マドモアゼル…、そのおトイレはここから遠いでござるか…？？」",
+            "NamesENG": "Otaku",
+            "TextENG": "``Mademoiselle... is this toilet far from here??``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27195,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500055.",
+            "TextJPN": "「……すぐに着きますです」",
+            "NamesENG": "Rika",
+            "TextENG": "``...We'll get there soon.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27196,
+            "TextJPN": "彼らは梨花ちゃんに従えられて店の外へ出ようとする…。",
+            "TextENG": "Obeying Rika-chan's directions, they were about to leave the restaurant..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27197,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200230.",
+            "TextJPN": "「圭一くん、シメだよ。@k@vS19/02/500200231.『ビシ！』っといってね！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Keiichi-kun, finish it.@k@vS19/02/500200231. Give 'em hell!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27198,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18700.",
+            "TextJPN": "「おぅよ！！　任せておけッ！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Yeah!! Leave it to me!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27199,
+            "TextJPN": "俺は店を出ようとする彼らの前に両手を広げて立ち塞がる！！",
+            "TextENG": "I spread my arms out and blocked them as they tried to leave the restaurant!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27200,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaC50017.",
+            "TextJPN": "「何の真似でござるかあぁああぁあ！！！@k@vS19/00/otaC50018.　このデフコン１の非常時にぃいぃ！！！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``What is the meaning of thiiiiiis!!!@k@vS19/00/otaC50018. We're at Defcon 1 heeeere!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27201,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18710.",
+            "TextJPN": "「悪人ども…！！@k@vS19/01/HR_KEI18720.　この扉から一歩外へ出ることがどういうことになるか、わかってるんだろうな？！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Listen up, you tubs of lard!!@k@vS19/01/HR_KEI18720. You know what happens if you even set one foot outside this door, right!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27202,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otaD50015.",
+            "TextJPN": "「それはどういう意味にゃー！！！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``What is the meaning of the purrposterous statement!?!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27203,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200232.",
+            "TextJPN": "「あははははは！　ほら、チケットに書いてあるよ」",
+            "NamesENG": "Rena",
+            "TextENG": "``Ahahahahaha! Look, it's written right here on the ticket.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27204,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200233.",
+            "TextJPN": "「『途中退店無効』って～！」",
+            "NamesENG": "Rena",
+            "TextENG": "``'Not valid for re-entry,' see?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27205,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400099.",
+            "TextJPN": "「どこのおトイレに行くのも自由でございますがね、その扉を一歩でも外へ出たなら二度と戻れませんのよッ！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``You're free to use any toilet you want, but the moment you step outside that door you can't come back!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27206,
+            "TextJPN": "ドオォオオオォオオォオンッ！！！！！",
+            "TextENG": "BOOOOOOOOOOOOOOOOOOM!!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27207,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otall50004.",
+            "TextJPN": "「おお、覚えてろぉおおぉおぉおおおッ！！！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``````Y-Y-You'll remember this!!!``````"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27208,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500056.",
+            "TextJPN": "「……そんなこわいこと言う人たちを案内したくないのです」",
+            "NamesENG": "Rika",
+            "TextENG": "``...I don't want to guide anybody who says scary things like that.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27209,
+            "TextJPN": "踵を返そうとする梨花ちゃんに、みんな大慌てだ。@k…借りてきた猫のように大人しくなって一列になってついていくしかない…。",
+            "TextENG": "Everybody panicked as Rika-chan began to turn back.@k They could only figuratively and literally fall in line..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27210,
+            "TextJPN": "ウェイトレスさんも並んでお見送りだ。",
+            "TextENG": "All the waitresses also lined up to see them off."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27211,
+            "NamesJPN": "ウェイトレス",
+            "PreTextTags": "@vS19/00/waitall50001.",
+            "TextJPN": "「本日はご来店、誠にありがとうございました～☆」",
+            "NamesENG": "Waitress",
+            "TextENG": "``Thank you very much for coming~☆``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27212,
+            "NamesJPN": "オタク",
+            "PreTextTags": "@vS19/00/otall50005.",
+            "TextJPN": "「アイシャルリタぁああぁあぁあぁあぁンッ！！！！」",
+            "NamesENG": "Otaku",
+            "TextENG": "``I shall retuuuuuuuuuuurrrn!!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27213,
+            "TextJPN": "からんからん。",
+            "TextENG": "*clang clang*"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27214,
+            "TextJPN": "軽快なベルの音を立てて扉が閉まった。",
+            "TextENG": "The bell rang playfully as the door shut behind them."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27215,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400100.",
+            "TextJPN": "「ざッまぁないですわね！！　楽勝の極みでしてよ～！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``How puuh-thetic!! Too easy!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27216,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200234.",
+            "TextJPN": "「あっははははは！　やったねー！　えーい！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Ahahahaha! We did it! Yaaay!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27217,
+            "TextJPN": "レナと沙都子がパチンと手を叩き合う。",
+            "TextENG": "Rena and Satoko clapped their hands together."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27218,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18730.",
+            "TextJPN": "「ひゅー…。俺一人じゃ歯が立たねぇ連中も、メンバー総登場なら…まさに一網打尽だな」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Whew... I couldn't hold a candle to those guys by myself, but when we get the group together...  we sent them packing like a herd of cattle.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27219,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400101.",
+            "TextJPN": "「この程度の相手なら、私たちなら一人でもお相手できましてよ？@k@vS19/04/500400102.　圭一さんも少しは腕をお磨きあそばせ～！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``With opponents this weak, any of us could take them on by ourselves.@k@vS19/04/500400102. Keiichi-san, you need to up your game~!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27220,
+            "TextJPN": "…悔しいが沙都子の言うとおりだな。@kくそ！@k　俺もきっとこいつらに並んでも恥ずかしくない力を身に付けてやる！！",
+            "TextENG": "...I was loathe to admit it, but Satoko was right.@k Dammit!@k One day I'll be strong enough to be worthy to stand alongside them!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27221,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200235.",
+            "TextJPN": "「でも、魅ぃちゃんの妹さんを守れて本当に良かったね！@k@vS19/02/500200236.　もうこれで、いたずらする悪い人たちはひとりもいなくなったよ！」",
+            "NamesENG": "Rena",
+            "TextENG": "``But, I'm really glad we were able to protect Mii-chan's little sister!@k@vS19/02/500200236. Now there's none of those bad people who were pulling pranks left!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27222,
+            "NamesJPN": "ウェイトレス",
+            "PreTextTags": "@vS19/00/waitA50028.",
+            "TextJPN": "「素敵な友人に恵まれたわね。園崎さん」",
+            "NamesENG": "Waitress",
+            "TextENG": "``You're blessed to have such wonderful friends, Sonozaki-san.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27223,
+            "TextJPN": "先輩スタッフさんも微笑んでくれた。",
+            "TextENG": "The veteran waitress was also smiling."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27224,
+            "TextJPN": "当の詩音は、一網打尽になりすっかり落ち着きを取り戻した店内と俺たちを見比べながらおたおたしていた。",
+            "TextENG": "After the herd was sent packing, it had calmed down completely inside the restaurant. Shion was flustered as she glanced between us and the now-empty seats."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27225,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS19/06/500600218.",
+            "TextJPN": "「わ、わたわた…私のために…？@k@vS19/06/500600219.　…そ、…その……、」",
+            "NamesENG": "Shion",
+            "TextENG": "``Y-Y-You did that... for me...?@k@vS19/06/500600219. ...I ...I mean...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27226,
+            "TextJPN": "詩音は嬉しそうな、バツが悪そうな、曖昧な顔でうっすらと赤くなりながら……厨房に走って逃げた。",
+            "TextENG": "Shion's expression was somewhere between happy and guilt-ridden... her face had turned slightly red as she ran into the kitchen."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27227,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200237.",
+            "TextJPN": "「わ、…詩ぃちゃんもかぁいい！！@k@vS19/02/500200238.　双子なんだね～はぅ～～！！！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Whoa... Shii-chan is kyute!!@k@vS19/02/500200238. They really are twins~ Hau~~!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27228,
+            "TextJPN": "詩音の性格からして、面と向かってお礼なんか言えるわけないよな。",
+            "TextENG": "Given Shion's personality, there's no way she'd thank us directly."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27229,
+            "TextJPN": "ちょっと派手に暴れたけど、助けることができて本当に良かった…。",
+            "TextENG": "We might have been a bit excessive in our means, but I'm really glad we were able to save her..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27230,
+            "NamesJPN": "ウェイトレス",
+            "PreTextTags": "@vS19/00/waitA50029.",
+            "TextJPN": "「わかってると思いますけど、園崎さん、とても感謝してますよ。@k@vS19/00/waitA50030.私もホールを代表して感謝いたします」",
+            "NamesENG": "Waitress",
+            "TextENG": "``I think you know this already, but Sonozaki-san is very grateful.@k@vS19/00/waitA50030. As a representative of the floor staff here, I also extend my gratitude.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27231,
+            "TextJPN": "パチパチパチパチ。",
+            "TextENG": "*clap clap clap clap*"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27232,
+            "TextJPN": "その拍手がいつの間にか店内に広がっていった。",
+            "TextENG": "The applause quickly spread throughout the entire restaurant."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27233,
+            "TextJPN": "他のスタッフたちも、お店のデザートを純粋に味わいたかった紳士的なお客さんたちも、みんな拍手で称えてくれたのだった…。",
+            "TextENG": "Not only the other waitresses, but also the customers that were genuinely there to enjoy the desserts: everyone was lauding our efforts..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27234,
+            "TextJPN": "デザートをあらかた食いつくし、感想のアンケート用紙に記入しているところで梨花ちゃんが戻ってきた。",
+            "TextENG": "When we had mostly finished eating and were filling out the survey, Rika-chan made her return."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27235,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18740.",
+            "TextJPN": "「おぅお疲れ！@k@vS19/01/HR_KEI18750.　首尾は上々か？@k@vS19/01/HR_KEI18760.　ずいぶん遅かったな」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Ohh, good work!@k@vS19/01/HR_KEI18750. Did everything go all right?@k@vS19/01/HR_KEI18760. You took a while.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27236,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500057.",
+            "TextJPN": "「……ごめんなさいなのです。@k@vS19/05/500500058.帰りに迷子になってしまって大変だったのです」",
+            "NamesENG": "Rika",
+            "TextENG": "``...I'm sorry.@k@vS19/05/500500058. I got lost on the way back. It was a lot of trouble.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27237,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200239.",
+            "TextJPN": "「あははははは。@k@vS19/02/500200240.梨花ちゃんはヘンな道を通ることが多いからね、よく迷子になるんだよ」",
+            "NamesENG": "Rena",
+            "TextENG": "``Ahahahahahaha.@k@vS19/02/500200240. Rika-chan likes to stray down some pretty strange roads, so she gets lost pretty often.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27238,
+            "TextJPN": "…近場のトイレに案内するだけでどうして迷子になるんだろう？",
+            "TextENG": "...How did she get lost just guiding people to a nearby toilet?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27239,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400103.",
+            "TextJPN": "「人間誰にも得手不得手がありましてよ。@k@vS19/04/500400104.梨花にはそんなの負けないような長所がたくさんありますわー！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Everybody has their strengths and weaknesses.@k@vS19/04/500400104. Rika has a lot of strong points that more than make up for that!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27240,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18770.",
+            "TextJPN": "「それもそうだな。@k@vS19/01/HR_KEI18780.さっきの女子トイレのあの表情！　役者だったなぁ！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``I can see that.@k@vS19/01/HR_KEI18780. That expression in the girl's room! You're quite the thespian!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27241,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500059.",
+            "TextJPN": "「……あの時の圭一はひどいのです。@k@vS19/05/500500060.自分が彼らの立場だったら、ボクを弾き飛ばして女子トイレに飛び込むとか考えていたのです」",
+            "NamesENG": "Rika",
+            "TextENG": "``...Keiichi was being horrible.@k@vS19/05/500500060. He was thinking 'If I were in their shoes, I'd just run her over and rush into the washroom.'``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27242,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18790.",
+            "TextJPN": "「お、おわぁあぁあぁああ？！？！@k@vS19/01/HR_KEI18800.　また俺、考えが顔に出てたのかぁ！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Wh-Whaaaaaaaaaaaaaa!?!?@k@vS19/01/HR_KEI18800. Did what I was thinking show up on my face again!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27243,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200241.",
+            "TextJPN": "「け、圭一くん……」",
+            "NamesENG": "Rena",
+            "TextENG": "``Ke-Keiichi-kun... Hau...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27244,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18810.",
+            "TextJPN": "「いやその……わははははははは…！！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``No... I mean... Wahahahahahaha...!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27245,
+            "TextJPN": "この日は笑って済ませたが、俺は後日、新聞で……、",
+            "TextENG": "I could laugh about it then, but a few days later, a newspaper headline read:"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27246,
+            "TextJPN": "『飛騨山中にて行方不明男性１０人を保護。@k男性たちは鹿骨市内から徒歩でトイレにやってきたと主張したが、保護された場所から鹿骨市内までは１００キロも離れており…』",
+            "TextENG": "``Ten unidentified men were taken into custody in Hideyama.@k The men claim they had travelled from Shishibone City by foot to find a toilet, but the spot they were taken into custody was 100 kilometers away from Shishibone...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27247,
+            "TextJPN": "という記事を読み、梨花ちゃんの恐ろしさを知ることになるのだった…。",
+            "TextENG": "When I read that article, I realized how terrifying Rika-chan really was..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27248,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500061.",
+            "TextJPN": "「……さてと、ごちそうさまなのでした。@k@vS19/05/500500062.今日は呼んでもらえて嬉しかったのです」",
+            "NamesENG": "Rika",
+            "TextENG": "``...Well, thanks for treating me.@k@vS19/05/500500062. I'm happy that you called me here today.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27249,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400105.",
+            "TextJPN": "「あら、もう帰りますのー？@k@vS19/04/500400106.　もうちょっとゆっくりしても……」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Oh, are you going home already?@k@vS19/04/500400106. You can stay a little longer...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27250,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500063.",
+            "TextJPN": "「たんすのお片付けの途中だったのですよ。@k@vS19/05/500500064.あのままではお布団が敷けないのです」",
+            "NamesENG": "Rika",
+            "TextENG": "``I was in the middle of organizing some drawers.@k@vS19/05/500500064. If I leave it like that, I won't be able to put out the futon.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27251,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400107.",
+            "TextJPN": "「あ、……それもそうですわねぇ」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Ah, ...I guess that's true.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27252,
+            "TextJPN": "ありゃ、何だか悪いタイミングで呼んじゃったみたいだな。",
+            "TextENG": "Oops, looks like I called her at a bad time."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27253,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200242.",
+            "TextJPN": "「うん。@k@vS19/02/500200243.レナが電話した時はお部屋の片付け中だったんだよ。@k@vS19/02/500200244.でも駆けつけてくれたんだよね！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Yeah.@k@vS19/02/500200243. When I phoned her she was in the middle of cleaning her room.@k@vS19/02/500200244. But she still came!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27254,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400108.",
+            "TextJPN": "「まぁ。@k@vS19/04/500400109.非常時だから仕方ありませんわ」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Well.@k@vS19/04/500400109. It was an emergency so it couldn't be helped.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27255,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500065.",
+            "TextJPN": "「……それに、甘いものをいっぱいいっぱい食べさせてもらえましたですから、とても喜んでいますよ」",
+            "NamesENG": "Rika",
+            "TextENG": "``...Besides that, I got to eat a looooot of sweets, so I'm very happy.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27256,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI18820.",
+            "TextJPN": "「今日はありがとな。@k@vS19/01/HR_KEI18830.急に呼び出しちゃって」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Thanks for today.@k@vS19/01/HR_KEI18830. Sorry for calling you out suddenly.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27257,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500066.",
+            "TextJPN": "「……詩音によろしくとお伝えなのです」",
+            "NamesENG": "Rika",
+            "TextENG": "``...Tell Shion I said bye.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27258,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400110.",
+            "TextJPN": "「では失礼しますわ。@k@vS19/04/500400111.レナさんはどうぞごゆっくり」",
+            "NamesENG": "Satoko",
+            "TextENG": "``I'll be taking my leave, then.@k@vS19/04/500400111. Rena-san, please take your time.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27259,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200245.",
+            "TextJPN": "「うん、そうするね！@k@vS19/02/500200246.　じゃーねー！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Yeah, I will!@k@vS19/02/500200246. Laater!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 27260,
+            "TextJPN": "２人はいちゃいちゃとふざけ合いながら、上機嫌に去っていった…。",
+            "TextENG": "Rika and Satoko, in a good mood, horsed around with each other as they left..."
+        }
+    ]
+}

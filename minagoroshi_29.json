@@ -1,0 +1,3813 @@
+{
+    "Main": [
+        {
+            "type": "SAVEINFO",
+            "category": 1,
+            "JPN": "#29 脱出",
+            "ENG": "#29 / Escape"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109036,
+            "TextJPN": "時計は午前１時を指していた。",
+            "TextENG": "The time was one in the morning."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109037,
+            "TextJPN": "都会ならいざ知れず、雛見沢の午前１時は時間も光も眠ってしまう深い深い夜だった。",
+            "TextENG": "As it's hardly a big city, 1 AM in Hinamizawa is the middle of the night. The darkness here gets very deep."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109038,
+            "TextJPN": "刑事たちの詰める１階だけから灯りが漏れていて、それ以外は真っ暗な漆黒の闇。",
+            "TextENG": "There was light leaking out from the first floor where two detectives sat on guard, but everything else was pitch black."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109039,
+            "TextJPN": "だからこそ、月明かりをほのかに感じることができた。",
+            "TextENG": "Even the moonlight seemed indistinct."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109040,
+            "NamesJPN": "本部",
+            "PreTextTags": "@vS12/00/honbu28008.",
+            "TextJPN": "「予定時刻です。@k@vS12/00/honbu28009.１階には刑事２名。@k@vS12/00/honbu28010.２階は消灯してすでに１時間以上が経過します。@k@vS12/00/honbu28011.本部より三佐、決行の判断を」",
+            "NamesENG": "Headquarters",
+            "TextENG": "``It's time.@k@vS12/00/honbu28009. Two detectives are downstairs.@k@vS12/00/honbu28010. It's been more than an hour since the light went out above them.@k@vS12/00/honbu28011. Awaiting orders to begin the attack.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109041,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900250.",
+            "TextJPN": "「……こんなに月の綺麗な夜だもの。始めなさい」",
+            "NamesENG": "Takano",
+            "TextENG": "``...What a beautiful night. You have permission to engage.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109042,
+            "NamesJPN": "本部",
+            "PreTextTags": "@vS12/00/honbu28012.",
+            "TextJPN": "「…刑事は排除でよろしいですか」",
+            "NamesENG": "Headquarters",
+            "TextENG": "``...Should we terminate the detectives?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109043,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900251.",
+            "TextJPN": "「そうね。@k@vS12/09/280900252.今夜、古手神社にいた人間は全てが忽然と姿を消し、鬼隠しとなる。@k@vS12/09/280900253.……それでいいわ」",
+            "NamesENG": "Takano",
+            "TextENG": "``Yes.@k@vS12/09/280900252. Everyone in the Furude shrine will be demoned away tonight.@k@vS12/09/280900253. ...It's better that way.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109044,
+            "NamesJPN": "本部",
+            "PreTextTags": "@vS12/00/honbu28013.",
+            "TextJPN": "「本部より@bおおとり.@<鳳@>。@k@vS12/00/honbu28014.作戦開始。歩哨の刑事２名は実力で排除せよ。@k@vS12/00/honbu28015.なお、発砲は許可しない。@k@vS12/00/honbu28016.繰り返す、発砲は許可しない。@k@vS12/00/honbu28017.本部より@bうぐいす.@<鶯@>。@k@vS12/00/honbu28018.@bおおとり.@<鳳@>が作戦を開始する。@k@vS12/00/honbu28019.電話線を遮断せよ」",
+            "NamesENG": "Headquarters",
+            "TextENG": "``HQ to Phoenix.@k@vS12/00/honbu28014. Commence the mission. Terminate the two detectives.@k@vS12/00/honbu28015. You do not have permission to fire.@k@vS12/00/honbu28016. I repeat, you do not have permission to fire your weapons.@k@vS12/00/honbu28017. HQ to Nightingale.@k@vS12/00/honbu28018. Phoenix has commenced the mission.@k@vS12/00/honbu28019. Shut down the phone lines.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109045,
+            "NamesJPN": "鶯１",
+            "PreTextTags": "@vS12/00/ugu128013.",
+            "TextJPN": "「@bうぐいす.@<鶯@>了解。@k@vS12/00/ugu128014.遮断する」",
+            "NamesENG": "Nightingale 1",
+            "TextENG": "``Roger.@k@vS12/00/ugu128014. We're shutting them down.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109046,
+            "TextJPN": "万が一、突入時に不手際があって電話通報する時間を与えた際に備え、すでに電話線には細工がされていた。",
+            "TextENG": "They had been working to disable the phone lines, just in case their target tried to contact the police during the attack."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109047,
+            "TextJPN": "大石たちが見たのはその工作だったのだ。",
+            "TextENG": "That mission was what Ooishi happened to bump into."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109048,
+            "NamesJPN": "小此木",
+            "PreTextTags": "@vS12/14/283400075.",
+            "TextJPN": "「……ほんじゃ、始めるかいねぇ。@k@vS12/14/283400076.@bおおとり.@<鳳@>１より全隊員へ。@k@vS12/14/283400077.突入準備。@k@vS12/14/283400078.１階の刑事２名と２階の同伴者１名を排除せよ」",
+            "NamesENG": "Okonogi",
+            "TextENG": "``...Let's begin.@k@vS12/14/283400076. Phoenix 1 to all units.@k@vS12/14/283400077. Be prepared when you enter.@k@vS12/14/283400078. Terminate the two detectives on the first floor, and the one companion on the second."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109049,
+            "NamesJPN": "小此木",
+            "PreTextTags": "@vS12/14/283400079.",
+            "TextJPN": "「痕跡を残せん。@k@vS12/14/283400080.発砲禁止、ガスも使えんね。@k@vS12/14/283400081.テーサーを使え。@k@vS12/14/283400082.短銃で武装してるぞ、撃たせるな」",
+            "NamesENG": "Okonogi",
+            "TextENG": "Do not leave any evidence.@k@vS12/14/283400080. Do not fire your weapons or use any gas.@k@vS12/14/283400081. Use your tasers.@k@vS12/14/283400082. Remember, they have guns. Do not let them fire.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109050,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900254.",
+            "TextJPN": "「小此木、素人相手に手こずらないでよ？@k@vS12/09/280900255.　くすくす」",
+            "NamesENG": "Takano",
+            "TextENG": "``Come on, don't embarrass me, Okonogi.@k@vS12/09/280900255. Hee hee.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109051,
+            "NamesJPN": "小此木",
+            "PreTextTags": "@vS12/14/283400083.",
+            "TextJPN": "「まぁ、仕事ですんね、宮仕えの悲しさですわ。@k@vS12/14/283400084.@bおおとり.@<鳳@>７、８前進。@k@vS12/14/283400085.バックアップは周辺警戒を厳重にされたし」",
+            "NamesENG": "Okonogi",
+            "TextENG": "``I'm just doing my job.@k@vS12/14/283400084. Phoenix 7 and 8, advance forward.@k@vS12/14/283400085. Backup teams, secure the perimeter.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109052,
+            "NamesJPN": "鳳７",
+            "PreTextTags": "@vS12/00/oo728001.",
+            "TextJPN": "「@bおおとり.@<鳳@>７了解。@k@vS12/00/oo728002.前進する」",
+            "NamesENG": "Phoenix 7",
+            "TextENG": "``Roger.@k@vS12/00/oo728002. We're heading in now.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109053,
+            "TextJPN": "作業服姿の男が２人、足音を殺しながらプレハブ小屋に近付いていく。",
+            "TextENG": "The two men in uniform slowly approached the building."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109054,
+            "TextJPN": "作業服はねずみ色なので迷彩効果はまったくない。",
+            "TextENG": "The Mountain Dogs' uniform is gray, so it didn't blend in with their surroundings at all."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109055,
+            "TextJPN": "だが、発見されても違和感を持たれないという意味では高い迷彩効果があると言えた。",
+            "TextENG": "However, it doesn't look as suspicious as real camouflage suits."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109056,
+            "TextJPN": "………もっとも、この深夜に足音を殺すその姿は誰が見ても異様な光景だろうが。",
+            "TextENG": "......Of course, they looked suspicious enough creeping up to the house like that anyway."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109057,
+            "TextJPN": "シャッターの脇にあるドアの隙間からは、灯りと刑事の話し声が漏れ出していた。",
+            "TextENG": "They could both see light leaking from the door and hear the voices of the detectives."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109058,
+            "TextJPN": "普段、梨花たちが出入りするのはこちらの引き戸だ。",
+            "TextENG": "Rika would typically use this sliding door to get inside."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109059,
+            "TextJPN": "この引き戸はもちろん施錠されていたが、山狗はすでに有事に備え、だいぶ前から合鍵を用意していた。",
+            "TextENG": "The door was locked, but the Mountain Dogs had obtained a spare key a long time ago."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109060,
+            "TextJPN": "鍵を入れるが、スルリと入るわけではない。",
+            "TextENG": "They put the key in the keyhole, but it wouldn't go in smoothly."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109061,
+            "TextJPN": "開錠時に少なからずの音を立てるだろう。",
+            "TextENG": "They were certain it would make some kind of noise when they turned it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109062,
+            "TextJPN": "開錠と同時に気付かれる。@kその瞬間に突入して制圧しなければならない。",
+            "TextENG": "The detectives would notice them the minute they did that.@k They'd have to rush inside and defeat them in one swift burst."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109063,
+            "TextJPN": "@bおおとり.@<鳳@>７、８と呼ばれた２人は頷き合った。",
+            "TextENG": "Phoenixes 7 and 8 glanced at each other."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109064,
+            "NamesJPN": "鳳７",
+            "PreTextTags": "@vS12/00/oo728003.",
+            "TextJPN": "「@bおおとり.@<鳳@>７より本部、準備位置に到着。@k@vS12/00/oo728004.突入指示を請う」",
+            "NamesENG": "Phoenix 7",
+            "TextENG": "``This is Phoenix 7. We've arrived at the target location.@k@vS12/00/oo728004. Waiting for your command.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109065,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900256.",
+            "TextJPN": "「……鷹野です。@k@vS12/09/280900257.……綺麗に決めるのよ。@k@vS12/09/280900258.行きなさい」",
+            "NamesENG": "Takano",
+            "TextENG": "``...Takano here.@k@vS12/09/280900257. ...Make it nice and clean.@k@vS12/09/280900258. Go ahead.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109066,
+            "NamesJPN": "鳳７",
+            "PreTextTags": "@vS12/00/oo728005.",
+            "TextJPN": "「了解。@k@vS12/00/oo728006.突入する！」",
+            "NamesENG": "Phoenix 7",
+            "TextENG": "``Roger.@k@vS12/00/oo728006. We're breaking in!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109067,
+            "TextJPN": "ガタガタ、ガシャン！",
+            "TextENG": "Clack clack...!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109068,
+            "TextJPN": "荒々しい音を立てて鍵が突き立てられて一気に開錠される。",
+            "TextENG": "He turned the key in a hurry and opened the lock."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109069,
+            "TextJPN": "刑事たちがぎょっとして振り返った時には、すでに引き戸は開けられ２人の男が踏み込もうとしていた。",
+            "TextENG": "By the time the detectives turned around, the door was already open and the two Mountain Dogs had stepped inside."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109070,
+            "TextJPN": "刑事たちが、『何だお前らは！』と言おうと思うのに掛ける時間を、２人は武器を構えるのに費やした。",
+            "TextENG": "They had aimed their weapons at the detectives while the latter were still turning around."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109071,
+            "TextJPN": "だから最初の２秒で全ては決する…！",
+            "TextENG": "In a fight like that, the first two seconds are the most crucial moments."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109072,
+            "NamesJPN": "小宮山",
+            "PreTextTags": "@vS12/00/komi28011.",
+            "TextJPN": "「がッ！！！」",
+            "NamesENG": "Komiyama",
+            "TextENG": "``Ugh!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109073,
+            "TextJPN": "鋭く短い悲鳴を上げて飛び跳ねると、刑事たちはその場にばったりと倒れた。",
+            "TextENG": "The detectives collapsed, making minimal noise."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109074,
+            "TextJPN": "…彼らの体には針が打ち込まれ、その針から伸びたワイヤー状のものが@bおおとり.@<鳳@>たちの銃口に繋がっていた。",
+            "TextENG": "There were needles stuck in their bodies, and those needles were connected via wires to the attackers' guns."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109075,
+            "TextJPN": "２人が構えた武器は拳銃ではなく、拳銃型のスタンガンだった。",
+            "TextENG": "In other words, the weapons those two had weren't ordinary guns. They were stun guns in the shape of firearms."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109076,
+            "TextJPN": "弾丸の代わりに電極の針を撃ち出し、人体に差し込んで強力な電流を流し相手を無力化する。",
+            "TextENG": "Instead of bullets, they shoot out electric needles that electrocute their victims into unconsciousness."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109077,
+            "TextJPN": "本来は抵抗する犯人を無傷で制圧するための人道的武器だが、彼らが使用しているものには、非人道的な改造が加えられているようだった…。",
+            "TextENG": "Normally they would be nonlethal weapons that allow the shooter to capture their victim without harming them much, but their tasers had been modified."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109078,
+            "TextJPN": "倒れた刑事たちの首に手を当て、絶命を確認すると二人は２階へ上がる階段へゆっくりと向う…。",
+            "TextENG": "The two Dogs started walking up the stairs as soon as they confirmed that the detectives were no longer breathing."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109079,
+            "TextJPN": "その時、階上でバタバタと慌しい気配が伝わってきた。",
+            "TextENG": "But in the next moment, they heard a loud noise above them."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109080,
+            "NamesJPN": "鳳１０",
+            "PreTextTags": "@vS12/00/oo1028001.",
+            "TextJPN": "「こちら@bおおとり.@<鳳@>１０！@k@vS12/00/oo1028002.　Ｒ以下２名が勘付いた！@k@vS12/00/oo1028003.　２階の窓から…、飛び降りたぞ！！@k@vS12/00/oo1028004.　裏の茂みへ逃走している！！」",
+            "NamesENG": "Phoenix 10",
+            "TextENG": "``This is Phoenix 10!@k@vS12/00/oo1028002. R and her companion have noticed us!@k@vS12/00/oo1028003. They just jumped out from the second floor window!@k@vS12/00/oo1028004. They're running into the forest!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109081,
+            "NamesJPN": "鳳１０",
+            "PreTextTags": "@vS12/00/oo1028005.",
+            "TextJPN": "「@bおおとり.@<鳳@>４、５、そっちへ行くぞ、制圧しろッ！！」",
+            "NamesENG": "Phoenix 10",
+            "TextENG": "Attention, Phoenix 4 and 5. They're heading your way. Capture them!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109082,
+            "NamesJPN": "鳳４",
+            "PreTextTags": "@vS12/00/oo428008.",
+            "TextJPN": "「@bおおとり.@<鳳@>４了解、行くぞ！！」",
+            "NamesENG": "Phoenix 4",
+            "TextENG": "``Roger, let's go!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109083,
+            "TextJPN": "茂みの中を駆け抜けようとする２人の姿を確認し、姿を現して駆け出そうとした時、何か固いものを踏んだ。",
+            "TextENG": "Phoenix 4 spotted the two girls and started after them, but he suddenly stepped on something hard."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109084,
+            "TextJPN": "パパパパパンッ！！",
+            "TextENG": "Pow pow pow!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109085,
+            "TextJPN": "安っぽい破裂音と白煙が立ち込めた。",
+            "TextENG": "With a cheap-sounding explosion, the area was filled with smoke."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109086,
+            "TextJPN": "それは沙都子の仕掛けた癇癪玉を使ったトラップだったのだ。",
+            "TextENG": "That was the trap Satoko had set using firecrackers."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109087,
+            "TextJPN": "だが、癇癪玉というのが幸いした。",
+            "TextENG": "That had proven to be a very fortunate idea."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109088,
+            "TextJPN": "彼らがプロであったがゆえに、火薬の音を聞いて反射的に銃声だと思い、身を伏せてしまったのだ。",
+            "TextENG": "The Mountain Dogs dropped to the ground, assuming that they were under fire."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109089,
+            "TextJPN": "それが梨花たちに逃げ出すチャンスを与えた。",
+            "TextENG": "That gave Rika and Satoko a chance to escape."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109090,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS12/04/280400122.",
+            "TextJPN": "「な、何なんですのあいつらは！！@k@vS12/04/280400123.　梨花の言う『東京』なんですの？！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Who are they?!@k@vS12/04/280400123. Are they the organization from Tokyo that you were talking about?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109091,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500341_1.",
+            "TextJPN": "「……多分ね！@k@vS12/05/280500342_1.　いいから走って！！@k@vS12/05/280500343_1.　捕まったら殺されるわよッ！！」",
+            "NamesENG": "Rika",
+            "TextENG": "``......I think so.@k@vS12/05/280500342_1. Just run!@k@vS12/05/280500343_1. We're dead if they catch us!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109092,
+            "NamesJPN": "本部",
+            "PreTextTags": "@vS12/00/honbu28020.",
+            "TextJPN": "「どうした応答しろ！！@k@vS12/00/honbu28021.　今の音はなんだ？！」",
+            "NamesENG": "Headquarters",
+            "TextENG": "``What's going on?!@k@vS12/00/honbu28021. What was that noise?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109093,
+            "NamesJPN": "鳳５",
+            "PreTextTags": "@vS12/00/oo528001.",
+            "TextJPN": "「こちら@bおおとり.@<鳳@>５、銃撃を受けた模様！@k@vS12/00/oo528002.　Ｒは突破した。@k@vS12/00/oo528003.追撃する！！」",
+            "NamesENG": "Phoenix 5",
+            "TextENG": "``This is Phoenix 5. Someone was shooting at us!@k@vS12/00/oo528002. R has escaped.@k@vS12/00/oo528003. We'll continue the pursuit!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109094,
+            "NamesJPN": "鳳４",
+            "PreTextTags": "@vS12/00/oo428009.",
+            "TextJPN": "「く、くそ、癇癪玉か何かだ！@k@vS12/00/oo428010.　畜生め…！！」",
+            "NamesENG": "Phoenix 4",
+            "TextENG": "``Sh-Shit! They were just some firecrackers!@k@vS12/00/oo428010. Damn it!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109095,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900259.",
+            "TextJPN": "「くっくっくっく…。@k@vS12/09/280900260.沙都子ちゃんね。@k@vS12/09/280900261.やるわねぇ…くすくす」",
+            "NamesENG": "Takano",
+            "TextENG": "``Heh heh heh heh...@k@vS12/09/280900260. That must be Satoko-chan's handiwork.@k@vS12/09/280900261. She's pretty good... hee hee.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109096,
+            "NamesJPN": "小此木",
+            "PreTextTags": "@vS12/14/283400086.",
+            "TextJPN": "「……あぁん！！@k@vS12/14/283400087.　なっさけなぁ！@k@vS12/14/283400088.　近場の班は急行しろ、人家に逃げ込まれたらアウトだぞ！」",
+            "NamesENG": "Okonogi",
+            "TextENG": "``...What?!@k@vS12/14/283400087. Hurry up!@k@vS12/14/283400088. Don't let them escape inside someone's house!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109097,
+            "NamesJPN": "鳳１８",
+            "PreTextTags": "@vS12/00/oo1828001_01.",
+            "TextJPN": "「@bおおとり.@<鳳@>１８、発見した！@k@vS12/00/oo1828002.　追跡中、応援を送れ！！」",
+            "NamesENG": "Phoenix 18",
+            "TextENG": "``This is Phoenix 18! I've spotted the target!@k@vS12/00/oo1828002. I need some backup!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109098,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900262.",
+            "TextJPN": "「２人は土地勘が強いわよ。@k@vS12/09/280900263.早く押さえないと確実に見失うわ」",
+            "NamesENG": "Takano",
+            "TextENG": "``They know this area very well.@k@vS12/09/280900263. If we don't get them now, we'll definitely lose them.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109099,
+            "TextJPN": "もう、それは隠れんぼではなく鬼ごっこだった。",
+            "TextENG": "This wasn't a game of hide and seek. It was a game of tag."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109100,
+            "TextJPN": "疾走する梨花と沙都子を追う作業服姿の数人の男たち。",
+            "TextENG": "Several men in uniform were chasing after Rika and Satoko."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109101,
+            "TextJPN": "……彼らは馬鹿じゃないから『待て』などという無意味な制止音声は使わない。",
+            "TextENG": "...They weren't idiots, so they didn't waste energy on a futile act of shouting ``wait.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109102,
+            "TextJPN": "だから、静かな夜に死を賭した静寂の鬼ごっこだったのだ。",
+            "TextENG": "This was a quiet, deadly game of tag in the middle of the night."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109103,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS12/04/280400124.",
+            "TextJPN": "「はぁ、はぁはぁ！！@k@vS12/04/280400125.　どこへ行きますのッ？！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Hah, haah haah!!@k@vS12/04/280400125. Where are we going?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109104,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500344.",
+            "TextJPN": "「……バ、バラバラになって追っ手を振り切りましょうです！@k@vS12/05/280500345.　落ち合うのは魅ぃの家！@k@vS12/05/280500346.　地下の隠し部屋なら安全だし外部と連絡も取れますです！！」",
+            "NamesENG": "Rika",
+            "TextENG": "``......Let's, let's split up to try and shake them off!@k@vS12/05/280500345. We'll meet at Mii's house!@k@vS12/05/280500346. Her basement will be safe, and we can contact the police from there!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109105,
+            "TextJPN": "魅音の家に隠し部屋があるんだ、という素朴な疑問は今のこの状況下ではとりあえず保留された。@k沙都子は頷く。",
+            "TextENG": "Satoko had no idea that Mion had a basement in her house, but she didn't have time to ask anything about it under her current circumstances.@k All she did was nod."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109106,
+            "TextJPN": "ガツンッ！！",
+            "TextENG": "Bang!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109107,
+            "TextJPN": "左足の爪先にものすごい衝撃があり、私の軽い体が宙を舞って転げた。",
+            "TextENG": "The next moment, I felt my left foot catch on something, and I fell down to the ground."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109108,
+            "TextJPN": "地面に石かコンクリート片でも落ちていたのかもしれない！",
+            "TextENG": "I must have tripped on a rock or a piece of concrete..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109109,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS12/04/280400126.",
+            "TextJPN": "「り、梨花ぁあぁッ！！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``R-Rika!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109110,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500347.",
+            "TextJPN": "「沙都子は逃げてッ！！@k@vS12/05/280500348.　あんたも殺されちゃうッ！！」",
+            "NamesENG": "Rika",
+            "TextENG": "``Get out of here, Satoko!!@k@vS12/05/280500348. You'll be killed!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109111,
+            "TextJPN": "だが沙都子がそのまま逃げてくれるはずがない。",
+            "TextENG": "But Satoko wouldn't move on without me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109112,
+            "TextJPN": "私に手を貸すために駆け戻る。",
+            "TextENG": "She came back to lend me a hand."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109113,
+            "TextJPN": "私は手を借りるまでもなくすぐに立ち上がるが、もちろんそれだけの時間でも致命的だった。",
+            "TextENG": "I stood up without her help, but this cost us too much time."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109114,
+            "TextJPN": "雄叫びすら上げずに男が私に取っ組みかかろうと猛然と走ってくる。@k私は体勢的にそれをかわせなかった。",
+            "TextENG": "One of the men had almost caught up with us.@k I didn't know what to do."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109115,
+            "TextJPN": "……それを沙都子も敏感に察する！",
+            "TextENG": "...But Satoko, upon seeing him, quickly reacted!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109116,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS12/04/280400127.",
+            "TextJPN": "「どおおりゃああああああああ！！！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Aaaaaaaaaah!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109117,
+            "NamesJPN": "鳳４",
+            "PreTextTags": "@vS12/00/oo428011.",
+            "TextJPN": "「うごあぁッ！！」",
+            "NamesENG": "Phoenix 4",
+            "TextENG": "``Uuugh!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109118,
+            "TextJPN": "弾丸のような速度で沙都子も飛び込み、渾身の跳び蹴りを食らわす！",
+            "TextENG": "Satoko ran toward him and kicked him with all her might."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109119,
+            "TextJPN": "それは私に、まさに取っ組みかかろうと姿勢を低く落としていた男の顔面に、写真に撮って残したいほど綺麗に決まった。",
+            "TextENG": "Her foot had landed right in his face. I wish I had a camera."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109120,
+            "TextJPN": "そうしている間にもう２人の男が駆けつけてしまう！",
+            "TextENG": "But there were two more of them right behind the first man."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109121,
+            "TextJPN": "こうして対峙して今やはっきりとわかる。@k彼らは造園屋の作業着だった。",
+            "TextENG": "I can see them clearly now.@k They're the gardeners from that landscape company..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109122,
+            "TextJPN": "…それは小此木が着ているものと同じだ。",
+            "TextENG": "...They're wearing the same uniforms Okonogi is always wearing."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109123,
+            "TextJPN": "つまり彼らは山狗なのだ！！",
+            "TextENG": "They must be the Mountain Dogs!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109124,
+            "TextJPN": "鷹野が黒幕だったならという仮定が、全ての疑問を埋めていく！！",
+            "TextENG": "Now I'm certain that Takano is the culprit."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109125,
+            "TextJPN": "鷹野が犯人だとわかっていれば、次の世界で何らかの手が打てるはずッ！！！",
+            "TextENG": "And now that I know that, I can do something about it in the next world!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109126,
+            "TextJPN": "でも、……殺されれば遡って記憶が破られてしまう！！",
+            "TextENG": "But... if I die now, will I lose my memory again?!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109127,
+            "TextJPN": "私は死ねない。@kこの記憶を引き継ぐために生き残らなければッ！！！",
+            "TextENG": "I can't die now.@k I need to survive so I can keep my memories!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109128,
+            "TextJPN": "沙都子がポケットから何かを握り、彼らに投げつける。",
+            "TextENG": "Satoko took something out of her pocket and threw it at them."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109129,
+            "TextJPN": "それは砂のような何かで彼らには目潰しとなったようだった。@kだが、一瞬怯ませる効果しかない！",
+            "TextENG": "It was something like sand, and it blinded them.@k However, even that could only buy us a few seconds."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109130,
+            "TextJPN": "その隙に再び逃げ出そうと目論む沙都子だったが、彼らが抜いた武器を見てぎょっとする。",
+            "TextENG": "Satoko tried to run, but she froze as soon as they aimed their weapons at us."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109131,
+            "TextJPN": "それは拳銃型スタンガンだった。",
+            "TextENG": "Their stun guns are only shaped like firearms."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109132,
+            "TextJPN": "もっとも沙都子はそんなもの知らないから、本物の拳銃に見えた。",
+            "TextENG": "Satoko, not knowing that, thought they were real guns."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109133,
+            "TextJPN": "背中を向ければその場で撃たれることを悟った沙都子は逃げるより撃退することに、電気的速度で判断を切り替える！！",
+            "TextENG": "Knowing that she'll be shot if she turned and ran, Satoko tried to attack them instead!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109134,
+            "TextJPN": "だが、それでも３人だ。@k常識的に考えて撃退は無理だが、沙都子はそこまで考えなかった。",
+            "TextENG": "Of course, there are three of them.@k Most would think it impossible to drive them off, but Satoko didn't think about that."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109135,
+            "TextJPN": "ここで背中を見せれば１００％殺される。@kなら１％に賭けるという、まさに部活で鍛え上げられた決断だった。",
+            "TextENG": "She had a 100% chance of dying if she tried to run.@k Then she might as well fight back, because she might have a 1% chance of defeating them."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109136,
+            "TextJPN": "私はそれを、自分が囮になって私だけを逃がそうとする沙都子の決死の覚悟と受け取った。",
+            "TextENG": "Satoko is determined to save me, even at her own expense."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109137,
+            "TextJPN": "でも、沙都子が殺されて、私だけが生き残った世界なんて、生きていけるものか…！！",
+            "TextENG": "But I can't stay in this world if it means losing Satoko...!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109138,
+            "TextJPN": "どうせ殺される世界なんだ、沙都子を殺されるくらいなら、沙都子を守って死んでやる！！",
+            "TextENG": "I'm dying anyway! I'd rather die for Satoko's sake than lose her!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109139,
+            "TextJPN": "だけれども！@k　心の中のもう一人の私が叫ぶ！@k　私は生き残らないとせっかく掴んだこの記憶が残らない！",
+            "TextENG": "But...!@k Another me was shouting in my mind!@k If I don't survive this, I'll lose this memory!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109140,
+            "TextJPN": "この記憶を残さなかったら無駄死になんだ！！@k　では沙都子を見捨ててこの場は逃げ出せというのか？！",
+            "TextENG": "If I die without keeping this memory, this life and everything I've learned will all be wasted!@k Should I escape and leave Satoko behind?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109141,
+            "TextJPN": "そうさ、次の世界で活かそうと思うこと自体が百の世界に生きる魔女の考え！",
+            "TextENG": "That's right. I should use this experience to my advantage in my next life!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109142,
+            "TextJPN": "ひとつの世界の友人なんか見捨ててしまえ！！",
+            "TextENG": "I should just let go of her in this world!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109143,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500349.",
+            "TextJPN": "「無理ね。@k@vS12/05/280500350.それができる魔女なんかになれるものかッ！！」",
+            "NamesENG": "Rika",
+            "TextENG": "``No way.@k@vS12/05/280500350. That really would make me a witch!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109144,
+            "TextJPN": "だが、心の中でわかってる！",
+            "TextENG": "But I know in my heart."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109145,
+            "TextJPN": "絶対に勝てない！",
+            "TextENG": "There's no way I can win against these guys."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109146,
+            "TextJPN": "もたもた取っ組み合っている間に他の応援が来るだろう。",
+            "TextENG": "I'm sure their backup will get here if we take our time to fight them."
+        },
+        {
+            "type": "LOGSET",
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/mina_hrika_0000.",
+            "TextJPN": "「義理を重んじて戦うか……。@vS12/05/mina_hrika_0010.本当の敵を刻み込むために敢えて逃げ出すかッ…！」",
+            "NamesENG": "",
+            "TextENG": "\\\"Should I fight them for her,@vS12/05/mina_hrika_0010. or should I leave so I can confront my true enemy...?\\\""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109147,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500351.",
+            "TextJPN": "「沙都子ッ！！！」",
+            "NamesENG": "Rika",
+            "TextENG": "``Satoko!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109148,
+            "TextJPN": "沙都子の勇敢な背中が私に百億の勇気を与える。",
+            "TextENG": "Satoko's bravery gives me courage."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109149,
+            "TextJPN": "ここで逃げたら仮に記憶を残せたって打ち勝てる力など得られない！",
+            "TextENG": "If I left her, I'd lose my motivation to defeat fate!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109150,
+            "TextJPN": "記憶を失ったって構わない。",
+            "TextENG": "I don't care if I lose my memories."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109151,
+            "TextJPN": "たった百年の努力で得られた程度の真相だ！",
+            "TextENG": "It only took a hundred years for me to get this information."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109152,
+            "TextJPN": "もう百年間、同じ６月を過ごしたって構うものか、今この場の沙都子を、仲間を見捨てることなど私にできるものかッ！！！",
+            "TextENG": "I don't care if I have to spend another hundred years in this same June, I can't leave Satoko!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109153,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500352.",
+            "TextJPN": "「沙都子、下がって！！@k@vS12/05/280500353.　２人で戦おう！！」",
+            "NamesENG": "Rika",
+            "TextENG": "``Satoko!!@k@vS12/05/280500353. I'm fighting too!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109154,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS12/04/280400128.",
+            "TextJPN": "「梨花ぁ？！@k@vS12/04/280400129.　逃げなさいって言いましたですのよ？！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Rika?!@k@vS12/04/280400129. I told you to go!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109155,
+            "TextJPN": "気付く。@k彼らは沙都子しか銃で狙わない。",
+            "TextENG": "I had noticed something.@k They're only aiming at Satoko."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109156,
+            "TextJPN": "私を撃てない事情があるのだ。",
+            "TextENG": "There must be a reason why they can't shoot me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109157,
+            "TextJPN": "だから私は沙都子を背中に庇う。@k…予想どおり、彼らは銃をしまい、素手で決着をつけようとする。",
+            "TextENG": "So I stood in front of Satoko to protect her.@k Just as I expected, they put their guns down and prepared to take us out without weapons."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109158,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500354.",
+            "TextJPN": "「………あんたらは山狗ね。@k@vS12/05/280500355.やっぱり黒幕は鷹野だったのね」",
+            "NamesENG": "Rika",
+            "TextENG": "``......You guys are the Mountain Dogs.@k@vS12/05/280500355. So Takano's behind this?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109159,
+            "NamesJPN": "小此木",
+            "PreTextTags": "@vS12/14/283400089.",
+            "TextJPN": "「………………………」",
+            "NamesENG": "Okonogi",
+            "TextENG": "``..........``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109160,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500356.",
+            "TextJPN": "「ふん。@k@vS12/05/280500357.私も馬鹿ね。@k@vS12/05/280500358.あんた達の正体を知りながら、逃げることを選ばないなんて」",
+            "NamesENG": "Rika",
+            "TextENG": "``Yeah.@k@vS12/05/280500357. I'm so stupid.@k@vS12/05/280500358. I know who you are but I chose not to run."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109161,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500359.",
+            "TextJPN": "「……でもね、私は逃げないの。@k@vS12/05/280500360.ここであんた達に殺されるのが運命だとしてもね。@k@vS12/05/280500361.運命なんてね、金魚すくいの網より薄いって。@k@vS12/05/280500362.教えてくれた人がいるから！」",
+            "NamesENG": "Rika",
+            "TextENG": "I'm not going to run.@k@vS12/05/280500360. Even if you're going to kill me now.@k@vS12/05/280500361. Someone once told me@k@vS12/05/280500362. that fate can be destroyed as easily as a piece of paper!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109162,
+            "TextJPN": "それが私の辞世の句だとでも思ってくれたのか、彼らは律儀に最後までそれを言わせてくれた。",
+            "TextENG": "They must think this is my final speech. They let me talk until I was finished."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109163,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500363.",
+            "TextJPN": "「馬鹿なやつらね。@k@vS12/05/280500364.……だから、あんたたちは金魚がすくえないんだッ！！！」",
+            "NamesENG": "Rika",
+            "TextENG": "``You people are pathetic.@k@vS12/05/280500364. ...That's why you will never kill me!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109164,
+            "TextJPN": "それと同時に、ものすごい勢いで男の一人が手前へ吹き飛ばされた！",
+            "TextENG": "The next moment, one of them dropped to the ground!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109165,
+            "TextJPN": "後から相当の助走をつけて飛び込んできた圭一が凄まじい跳び蹴りを食らわせたからだ。@k…完全な奇襲で綺麗に腰に入ったらしく、男は異常なくらいに悶絶しながら転げまわる。",
+            "TextENG": "Keiichi had run toward him and kicked him from behind.@k Keiichi had kicked him right in the small of his back, and the Dog was squirming on the ground."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109166,
+            "TextJPN": "背後からの奇襲に振り返ろうとする彼らは、それすらも間に合わせてもらえなかった。",
+            "TextENG": "The other two tried to retaliate, but they were too late."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109167,
+            "TextJPN": "後から銃を持った腕を掴むと、魅音は大きくそれを振り回すようにしながら地面に組み伏せてしまう。",
+            "TextENG": "Mion grabbed one of the guys' arms from behind, and flipped him down to the ground."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109168,
+            "TextJPN": "きっと護身術か何かに違いなかった。@k映画であんなアクションを見たことがある気がする。",
+            "TextENG": "It must be some kind of martial art.@k I've seen something like that in an action movie before."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109169,
+            "TextJPN": "もう１人はレナが思い切り体当りで吹き飛ばしたが、無論それだけではダウンしてくれない。",
+            "TextENG": "Rena tried to push the remaining Dog down with all her strength, but that wasn't enough to take him out."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109170,
+            "TextJPN": "すぐに男は持っていた銃でレナに反撃しようとする。",
+            "TextENG": "He tried to aim his gun at Rena..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109171,
+            "TextJPN": "でもそれで充分だった。",
+            "TextENG": "but she had already done what she was supposed to."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109172,
+            "TextJPN": "レナはその男の意識を自分に集中できればよかったのだ。",
+            "TextENG": "All she needed to do was get his attention."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109173,
+            "TextJPN": "完全に無防備な男の背後にはいつの間にか詩音の姿があり、首筋に当てたスタンガンのスイッチを入れた。",
+            "TextENG": "Shion had snuck up behind him and she fired her stun gun into his neck."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109174,
+            "TextJPN": "『バチン！』と破裂音がして、男はがくっと膝をついて倒れた。",
+            "TextENG": "The stun gun made a snapping noise, and the Dog fell down to the ground with the rest of his friends."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109175,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS12/06/280600048.",
+            "TextJPN": "「ひゅー。@k@vS12/06/280600049.葛西のヤツ、改造済みとは言ってたけど、こりゃー効きます」",
+            "NamesENG": "Shion",
+            "TextENG": "``Wow.@k@vS12/06/280600049. Kasai told me this was illegally modified. It works pretty well!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109176,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS12/03/280300093.",
+            "TextJPN": "「詩音、こっちの連中にもお願い！！」",
+            "NamesENG": "Mion",
+            "TextENG": "``Shion, hit this guy too!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109177,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS12/01/280100181.",
+            "TextJPN": "「大丈夫か、沙都子に梨花ちゃん！！@k@vS12/01/280100182.　まさに危機一髪だったな！@k@vS12/01/280100183.　お前らの足が速いんで追いつくのに苦労したぜ！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Are you guys okay?@k@vS12/01/280100182. That was close!@k@vS12/01/280100183. You ran so fast it took us a lot of time to catch up!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109178,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS12/02/280200094.",
+            "TextJPN": "「ずーーっと待っててよかったね！@k@vS12/02/280200095.　張り込んでた甲斐があったよ！」",
+            "NamesENG": "Rena",
+            "TextENG": "``I'm really glad we stuck around!@k@vS12/02/280200095. We were waiting out here in case anything happened!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109179,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS12/04/280400130.",
+            "TextJPN": "「張り込んでたって、あの後、お家へ帰らずずっと見張っていましたの皆さんは！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``You mean... you stayed out here without going back home?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109180,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS12/02/280200096.",
+            "TextJPN": "「うん。@k@vS12/02/280200097.帰り際にね、すっごく不審な人がずーっと草陰に潜んでて神社をうかがってるのを見つけたの」",
+            "NamesENG": "Rena",
+            "TextENG": "``Yup.@k@vS12/02/280200097. I saw someone who looked suspicious staring at the shrine when we were leaving.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109181,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS12/01/280100184.",
+            "TextJPN": "「いやぁ、よく見つけたよな、あの暗闇で！@k@vS12/01/280100185.　レナには嘘も迷彩も通用しないってことだな！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``I'm really surprised you saw him in this darkness!@k@vS12/01/280100185. Neither lies nor camouflage work on you, huh!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109182,
+            "TextJPN": "それで、彼らは声を掛ければどこかへ行ってしまうだけだと思い、こっそりずーっとその何者かを見張っていたというのだ。@kそして癇癪玉の音が聞こえたので、彼らが追う後をずっと追いかけていたのだという。",
+            "TextENG": "So, figuring he would leave if they spoke to him, they secretly staked out that suspicious man.@k They'd started following us as soon as they heard the sound of the firecrackers."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109183,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500365.",
+            "TextJPN": "「……まさか、ここでみんなに救われるとは思わなかったのです」",
+            "NamesENG": "Rika",
+            "TextENG": "``...I never expected I'd be saved like this.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109184,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS12/01/280100186.",
+            "TextJPN": "「とにかく、ここにいたらすぐに応援が来るぞ！@k@vS12/01/280100187.　どうするこれから！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``We can't stay here any longer!@k@vS12/01/280100187. What should we do now?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109185,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS12/04/280400131.",
+            "TextJPN": "「私たち、魅音さんの家に逃げ込むつもりでしたのよ。@k@vS12/04/280400132.地下で匿ってもらえるとかいう話で」",
+            "NamesENG": "Satoko",
+            "TextENG": "``We were trying to get to Mion-san's house.@k@vS12/04/280400132. You have a basement there, apparently...?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109186,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS12/06/280600050.",
+            "TextJPN": "「地下祭具殿ですか。@k@vS12/06/280600051.確かにあそこなら都合がいいです」",
+            "NamesENG": "Shion",
+            "TextENG": "``The underground storehouse.@k@vS12/06/280600051. That's a perfect spot."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109187,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS12/06/280600052.",
+            "TextJPN": "「しかもあそこ、武器も隠してませんでしたっけ？」",
+            "NamesENG": "Shion",
+            "TextENG": "We've also got some weapons inside there.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109188,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS12/03/280300094.",
+            "TextJPN": "「しー！@k@vS12/03/280300095.　そういうのは言わない！」",
+            "NamesENG": "Mion",
+            "TextENG": "``Shhhh!!@k@vS12/03/280300095. Don't say that out loud!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109189,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS12/03/280300096.",
+            "TextJPN": "「とにかく私もうちに逃げ込むのは賛成。@k@vS12/03/280300097.あそこには秘密の通路がいくつもあるから、連中の裏をかけるよ！」",
+            "NamesENG": "Mion",
+            "TextENG": "Anyway, I think that's a good idea.@k@vS12/03/280300097. There's several secret passages in there, so we can get the drop on them!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109190,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS12/01/280100188.",
+            "TextJPN": "「なら急ごう！@k@vS12/01/280100189.　追っ手が来てる！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Come on, let's go!@k@vS12/01/280100189. They're still after us!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109191,
+            "TextJPN": "白いワゴン車がタイヤを鳴かせながら猛然とやってくるのが見えた。",
+            "TextENG": "A white van was approaching us at high speed."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109192,
+            "TextJPN": "その乱暴な走り方から、敵の車だとすぐわかる！",
+            "TextENG": "It obviously belonged to the Mountain Dogs."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109193,
+            "TextJPN": "私たちのすぐ近くに急ブレーキで止まると、全ての扉がバンバンと開き、中からわらわらと大勢の作業服の男たちが降りてきた。@kその人数は６人！",
+            "TextENG": "The van stopped not far from us, and more people in uniform jumped out.@k There were at least six of them!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109194,
+            "TextJPN": "全員で走って逃げれば、足の遅い者は捕まるかもしれない。",
+            "TextENG": "If we all run, the slowest runner might get caught."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109195,
+            "TextJPN": "ならば、この場で打ちのめして逃走の機を生み出す！！",
+            "TextENG": "So we should take them down while we can!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109196,
+            "TextJPN": "その隙を突いて彼らのワゴン車を奪えば、全員で逃げ出すことができるかもしれない！",
+            "TextENG": "I don't know if they have a license, but Mion and Shion know how to drive a car. We can take their van and get away from here!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109197,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS12/03/280300098.",
+            "TextJPN": "「６人だ！@k@vS12/03/280300099.　ちょうどいいね！！@k@vS12/03/280300100.　全員の全力でぶちのめして車をいただこう！！」",
+            "NamesENG": "Mion",
+            "TextENG": "``There's six of them!@k@vS12/03/280300099. That's perfect!@k@vS12/03/280300100. Let's beat them unconscious and steal their van!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109198,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS12/04/280400133.",
+            "TextJPN": "「をっほっほっほ！@k@vS12/04/280400134.　それは名案ですわねぇ！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Oh ho ho ho!@k@vS12/04/280400134. That's a good idea!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109199,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS12/01/280100190.",
+            "TextJPN": "「そうと決まりゃあ速攻だぜッ！！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Let's go get them!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109200,
+            "TextJPN": "山狗たちは、自分たちは逃げる背中を追うものだと決め付けていた。",
+            "TextENG": "The Mountain Dogs were ready to chase us."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109201,
+            "TextJPN": "だから、全員が命知らずにも反撃に転じてくるなど想像もしなかった！",
+            "TextENG": "They had no idea that we would try and attack them instead."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109202,
+            "TextJPN": "こういう時、何気に最速で手を出すのはレナだった。",
+            "TextENG": "Rena is always the first one to make a move in this kind of situation."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109203,
+            "TextJPN": "レナは一度決まったことには容赦と@bちゅうちょ.@<躊躇@>がない！！",
+            "TextENG": "She gets so determined once a decision is made!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109204,
+            "TextJPN": "１人に的を絞り、鼻先を電光石火の速度で殴る！",
+            "TextENG": "She immediately singled out one Dog and punched him in the nose."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109205,
+            "TextJPN": "その背後に回ろうとした男には圭一がものすごい蹴りを脇腹に叩き込んだ。",
+            "TextENG": "Another one tried to grab her from behind, but Keiichi kicked him in the side as hard as he could."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109206,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS12/01/280100191.",
+            "TextJPN": "「おいおいレナ、やり合う時は背中を気にしろよ？！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Hey, Rena, watch your back!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109207,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS12/02/280200098_1.",
+            "TextJPN": "「圭一くんに任せるよ。@k@vS12/02/280200099.よろしくね！」",
+            "NamesENG": "Rena",
+            "TextENG": "``I'll leave that to you, Keiichi-kun.@k@vS12/02/280200099. Please look after me!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109208,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS12/06/280600053.",
+            "TextJPN": "「レナさんの雛見沢復帰前ってめちゃくちゃ興味あります」",
+            "NamesENG": "Shion",
+            "TextENG": "``I'm kinda curious about what you were like back in Ibaraki."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109209,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS12/06/280600054.",
+            "TextJPN": "「とゆーか、人殴るのに@bちゅうちょ.@<躊躇@>なさ過ぎ」",
+            "NamesENG": "Shion",
+            "TextENG": "You sure don't hesitate to punch people.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109210,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS12/03/280300101.",
+            "TextJPN": "「スタンガン使うのに@bちゅうちょ.@<躊躇@>ないあんたが言わない！」",
+            "NamesENG": "Mion",
+            "TextENG": "``And you don't hesitate to zap people with an illegal stun gun!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109211,
+            "TextJPN": "さすがに奇襲でない限り詩音のスタンガンをまともに食らってはくれない。",
+            "TextENG": "Given that Shion had that stun gun, the Mountain Dogs were reluctant to go after her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109212,
+            "TextJPN": "極めて危険な武器を持っていることに気付き慎重に間合いを取る。",
+            "TextENG": "They were scared of the very dangerous weapon she had in her hand."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109213,
+            "TextJPN": "だがそれによって、詩音は確実に１人を足止めしていた。",
+            "TextENG": "But thanks to that, Shion had stopped one of them for certain."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109214,
+            "TextJPN": "後続から現れた彼らは銃を持っていなかったのも大きな幸運だった。",
+            "TextENG": "It was fortunate for us that they didn't have any guns of their own."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109215,
+            "TextJPN": "詩音のスタンガンに対して有効な反撃策を持っていなかったのだ。",
+            "TextENG": "They had no way of countering Shion's stun gun."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109216,
+            "TextJPN": "その背後を沙都子が襲う。",
+            "TextENG": "Satoko attacked him from behind."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109217,
+            "TextJPN": "縄跳びのようなもので首を絞め上げた。",
+            "TextENG": "She encircled his neck with a jump rope and pulled."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109218,
+            "TextJPN": "その一瞬の隙で詩音が相手を仕留めた。",
+            "TextENG": "Shion followed up, quickly hitting him with her stun gun."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109219,
+            "TextJPN": "私は？@k　無様にちょこちょこと逃げ回ることで、彼らの意識を集めるのが精一杯だった。",
+            "TextENG": "What was I doing during all that?@k The only thing I can do is run around and try to get their attention."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109220,
+            "TextJPN": "連中の狙いは私なのだ。",
+            "TextENG": "They're pursuing me, after all."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109221,
+            "TextJPN": "視界に２人いて片方が私なら彼らは私を狙いたがる。",
+            "TextENG": "They want to catch me more than anything else."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109222,
+            "TextJPN": "そしてそれは彼らに大きな隙を生み出すことができた。",
+            "TextENG": "But that leaves them open to attacks from my friends."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109223,
+            "TextJPN": "圭一はすぐに私のその狙いに気付き、私に組みかかろうとする男の背後を襲ってくれた。",
+            "TextENG": "Keiichi had already hit the one trying to grab me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109224,
+            "TextJPN": "乱戦なら私らに分がある。",
+            "TextENG": "I think we have a chance here."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109225,
+            "TextJPN": "彼ら全員を打ち倒すのはさすがに難しいかもしれないが、一時的に圧倒し、逃げるチャンスを得ることは可能そうだった。",
+            "TextENG": "We may not be able to take all of them down, but we can try and find a chance to escape to their vehicle."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109226,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS12/01/280100192.",
+            "TextJPN": "「梨花ちゃんから話を聞いていた時、とんでもねぇヤツらだとビビっていたが、どうやら俺たちと同等程度みたいじゃねぇか！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``With what Rika-chan said, I thought these guys would be really strong, but they're not that bad!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109227,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS12/02/280200100.",
+            "TextJPN": "「魅ぃちゃんの部活メンバーは、つまりそのくらい強いってことなんだね！」",
+            "NamesENG": "Rena",
+            "TextENG": "``That's just how strong we club members are!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109228,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS12/06/280600055.",
+            "TextJPN": "「恐れない、というのが多分強さの秘密ですね。@k@vS12/06/280600056.お姉の部活は、遠慮ってヤツをなくす訓練みたいなもんですから」",
+            "NamesENG": "Shion",
+            "TextENG": "``Not being afraid is probably the secret to strength.@k@vS12/06/280600056. Sis's club activities are practically training to rid you of your hesitation.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109229,
+            "TextJPN": "全員が一丸となって戦った。@kだから６対６を制することができる！",
+            "TextENG": "If we all fight together...@k we can win this six-on-six battle!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109230,
+            "TextJPN": "誰か１人でも欠けていたらきっと無理だった。@kあっという間に殺されていた！",
+            "TextENG": "If any one of us wasn't here, they'd beat us easily.@k We'd end up dead."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109231,
+            "TextJPN": "私がこの場を逃げ出していたら私が１人欠けて、応援にやってきたみんなも含めて殺されていただろう！！",
+            "TextENG": "If my friends hadn't stayed behind, I would have been killed by now!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109232,
+            "TextJPN": "行ける、今回こそ、私たちは行ける！！",
+            "TextENG": "We can do it! We can make it!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109233,
+            "TextJPN": "スタンガンで倒したはずの男たちもよろよろと立ち上がる。",
+            "TextENG": "The Dogs Shion took down with her stun gun were starting to wake up."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109234,
+            "TextJPN": "向こうからはさっき倒したはずの男たちも駆けてくる。@kこれで一気にケリを付けなければ！！",
+            "TextENG": "The ones that we knocked out earlier were also up and chasing us again.@k We have to get out of here!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109235,
+            "TextJPN": "今度はどうやら私も逃げ回るだけでは駄目なようだった。",
+            "TextENG": "This isn't the time for me to just be running around."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109236,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500366.",
+            "TextJPN": "「…ちょうどいいわね。@k@vS12/05/280500367.やってやるわ」",
+            "NamesENG": "Rika",
+            "TextENG": "``...Fine.@k@vS12/05/280500367. Let's see what I can do.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109237,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS12/12/281100099.",
+            "TextJPN": "「……………梨花…」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``............Rika...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109238,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500368.",
+            "TextJPN": "「羽入、あなたは相変わらず諦めてるんでしょ？@k@vS12/05/280500369.　諦めない悪足掻きがどれだけの力を持つか、そこで見てなさい！@k@vS12/05/280500370.　私は打ち破る、私たちは打ち破る！@k@vS12/05/280500371.　今からね！！@k@vS12/05/280500372.　それをあなたの目の前で見せてあげる！！」",
+            "NamesENG": "Rika",
+            "TextENG": "``Hanyuu, I know you still can't believe in hope, just like always.@k@vS12/05/280500369. Stay there and see what my stubbornness can do!@k@vS12/05/280500370. I'm going to change this fate!@k@vS12/05/280500371. I'm going to do it right here!@k@vS12/05/280500372. Let me show you what I'm capable of!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109239,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS12/03/280300102.",
+            "TextJPN": "「よぅし、みんないいね！@k@vS12/03/280300103.　一撃で決めるよ、目の前の敵を１人打ち倒せッ！！@k@vS12/03/280300104.　それから車を奪って逃げる！！」",
+            "NamesENG": "Mion",
+            "TextENG": "``All right, everyone!@k@vS12/03/280300103. We're going to finish this right now! Take down whoever is in front of you!@k@vS12/03/280300104. Then we're going to grab their car and get out of here!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109240,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500373.",
+            "TextJPN": "「……はいです。@k@vS12/05/280500374.ボクもやりますですよ」",
+            "NamesENG": "Rika",
+            "TextENG": "``...Yes.@k@vS12/05/280500374. I'm going to do this.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109241,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS12/01/280100193.",
+            "TextJPN": "「気に入ったぜ梨花ちゃんッ！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``You go, Rika-chan!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109242,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS12/01/280100194.",
+            "TextJPN": "「よっしゃ、行くぞおおおぉッ！！！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "Alright, let's gooooooo!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109243,
+            "TextJPN": "圭一のその声が掛け声となり、全員が一度に山狗６人に向って飛び込んだ…！！",
+            "TextENG": "On Keiichi's signal, we attacked six of the Mountain Dogs in unison."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109244,
+            "TextJPN": "時間が徐々にゆっくりになり、……自分が運命を変えようとし、有り得ない時間の壁を越えようとしているのを実感していた。",
+            "TextENG": "Time gradually slowed down... I truly felt like I was trying to overcome that impossible wall of time and change my fate."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109245,
+            "TextJPN": "だが、時間はそのまま徐々にゆっくりになり………そして停止した。",
+            "TextENG": "However, time continued to slow even further... until it stopped."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109246,
+            "TextJPN": "………これは一体？",
+            "TextENG": "......What's going on?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109247,
+            "TextJPN": "まるで、映画のフィルムが途中で切れてしまったかのような錯覚。@k時間が止まったかのような錯覚。",
+            "TextENG": "It felt like the film reel of a movie had gotten hung up partway through.@k Like time itself has come to a standstill."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109248,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500375.",
+            "TextJPN": "「………………羽入…？@k@vS12/05/280500376.　どういうこと…？」",
+            "NamesENG": "Rika",
+            "TextENG": "``............Hanyuu...?@k@vS12/05/280500376. What's this all about...?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109249,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS12/12/281100100.",
+            "TextJPN": "「………その時が、来たのです」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``......The time has come.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109250,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500377.",
+            "TextJPN": "「どうして！@k@vS12/05/280500378.　……………え………ッ？！」",
+            "NamesENG": "Rika",
+            "TextENG": "``What?!@k@vS12/05/280500378. .........Why......?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109251,
+            "TextJPN": "羽入が悲しそうに圭一の方を指差す。",
+            "TextENG": "Wearing a sad expression, Hanyuu pointed at Keiichi."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109252,
+            "TextJPN": "私はようやく気付いた。",
+            "TextENG": "I finally noticed something."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109253,
+            "TextJPN": "何人かはすでに気付いているようだった。@k……圭一だけが、気付いていなかった。",
+            "TextENG": "All my friends had noticed already...@k except for Keiichi."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109254,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500379.",
+            "TextJPN": "「……け、………圭一。@k@vS12/05/280500380.……その、胸の前に浮いているのは、…何ですか」",
+            "NamesENG": "Rika",
+            "TextENG": "``...K...... Keiichi.@k@vS12/05/280500380. ...What's that floating... in front of your chest?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109255,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS12/01/280100195.",
+            "TextJPN": "「何って、何だよ。@k@vS12/01/280100196.…………………は？@k@vS12/01/280100197.　これ、……何だよ…」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``What do you mean?@k@vS12/01/280100196. ............Huh?@k@vS12/01/280100197. What... is this...?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109256,
+            "TextJPN": "まさに殴りかかろうという状態のまま、時間の凍りついた世界で、圭一は自分の胸の前に、不思議なものが浮かんでいるのに気が付いた。",
+            "TextENG": "Time had stopped just when Keiichi was about to hit his opponent. He then realized that something was floating in front of his heart."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109257,
+            "TextJPN": "それは、………………形容すれば、銀色の金属の円錐。@k…一番最初に思いついたたとえが、多分、それの正体だった。",
+            "TextENG": "It was............ a metallic silver cone.@k ...That was the first thing I could think of."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109258,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS12/03/280300105.",
+            "TextJPN": "「…………う、………嘘、圭ちゃん………」",
+            "NamesENG": "Mion",
+            "TextENG": "``.........N...... No, Kei-chan......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109259,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS12/01/280100198.",
+            "TextJPN": "「な、………何だよこれ…。@k@vS12/01/280100199.……まさか、………銃弾……？」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``What...... What the hell is this...?@k@vS12/01/280100199. ...Is this...... a bullet...?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109260,
+            "TextJPN": "それは、誰が見ても銃弾だった。",
+            "TextENG": "That's exactly what it was."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109261,
+            "TextJPN": "……まっすぐ圭一の胸の真ん中を目指し、胸から１５ｃｍくらい離れたところで、じっと時間が再び動き出すのを待っていた。",
+            "TextENG": "...The bullet had stopped about fifteen centimeters away from Keiichi's chest, just before it would enter his body."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109262,
+            "TextJPN": "そう。@k再び時間が動き出せば、瞬きの間も与えず圭一の胸を貫くだろう。",
+            "TextENG": "That's right.@k Once time starts moving again, it will slam into his chest."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109263,
+            "TextJPN": "つまり、…完全な王手。@k時間が解ければ、圭一は即座に死ぬのだ。",
+            "TextENG": "In other words... it's too late.@k Keiichi will immediately die when time starts up again."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109264,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS12/02/280200101.",
+            "TextJPN": "「だ、…誰が撃ったの？！@k@vS12/02/280200102.　だって、相手は６人、誰も銃なんか持ってないよ！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Wh... Who shot it...?@k@vS12/02/280200102. Those six guys didn't have any guns!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109265,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS12/04/280400135.",
+            "TextJPN": "「…………あ、……あそこ…！@k@vS12/04/280400136.　ワゴン車のところですわ！！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``.........L... Look...!@k@vS12/04/280400136. Over there, by the van!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109266,
+            "TextJPN": "沙都子が言ったが、指はさせない。@k時間が止まっているのだから。",
+            "TextENG": "Satoko couldn't point at the van.@k Time had completely stopped, after all."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109267,
+            "TextJPN": "ワゴン車には、もう１人の人影があった。",
+            "TextENG": "We could see another person standing near the van."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109268,
+            "TextJPN": "……車には６人じゃなく、７人いたのだ。",
+            "TextENG": "...There had actually been seven people inside, not six."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109269,
+            "TextJPN": "その人物が、発砲したのだ。",
+            "TextENG": "That seventh person was the one who fired the bullet."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109270,
+            "TextJPN": "完全にマークから外れていた。",
+            "TextENG": "We hadn't seen her at all."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109271,
+            "TextJPN": "しかも、その人影は、……みんなが知る人物。@k…そう、鷹野だった。",
+            "TextENG": "That person is someone we all know very well...@k Yes... it's Takano."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109272,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS12/02/280200103.",
+            "TextJPN": "「た、……鷹野さんだ…！！@k@vS12/02/280200104.　鷹野さんが撃ったの？！@k@vS12/02/280200105.　圭一くんを？！」",
+            "NamesENG": "Rena",
+            "TextENG": "``It... It's Takano-san...!@k@vS12/02/280200104. She shot the gun...?!@k@vS12/02/280200105. She shot Keiichi-kun?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109273,
+            "TextJPN": "時間の凍った世界でも、鷹野は不敵に笑い、圭一の胸元の弾丸を発した銃を構えていた……。",
+            "TextENG": "In the frozen world, Takano was smiling, still aiming her gun at Keiichi..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109274,
+            "TextJPN": "鷹野はワゴン車を降りずにずっと傍観していたのだ。",
+            "TextENG": "Takano had been watching us from the van this whole time."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109275,
+            "TextJPN": "そして、みんなが６人だと勘違いして鷹野のことを失念しているのに気付き、横槍を入れたのだ。",
+            "TextENG": "She came out and fired her gun, knowing that we hadn't seen her at all."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109276,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS12/01/280100200.",
+            "TextJPN": "「………へ、……へへへへ！@k@vS12/01/280100201.　そっか、…なるほどな。@k@vS12/01/280100202.やっぱり黒幕は鷹野さんだったんだな…」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``......Heh... heh heh heh heh!@k@vS12/01/280100201. I see... I get it now.@k@vS12/01/280100202. So Takano-san was the bad guy all along...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109277,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS12/06/280600057.",
+            "TextJPN": "「ど、どうしよう！@k@vS12/06/280600058.　圭ちゃん、何とか体を捻ってかわせないんですか？！」",
+            "NamesENG": "Shion",
+            "TextENG": "``What are we going to do!@k@vS12/06/280600058. Kei-chan! Can't you try and twist your body to avoid the bullet!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109278,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS12/01/280100203.",
+            "TextJPN": "「馬鹿、無理なこと言うなよ。@k@vS12/01/280100204.弾丸だって止まるくらいに全てが止まってるんだぞ。@k@vS12/01/280100205.俺だって動けるわけがねえだろ…！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Don't be stupid!@k@vS12/01/280100204. Time has totally stopped.@k@vS12/01/280100205. I can't move at all...!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109279,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS12/04/280400137.",
+            "TextJPN": "「な、なら、時間が動き出すのと一緒に上半身を反らすんですの！！@k@vS12/04/280400138.　そうすれば少しでも違うかもしれませんわよ！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Th, Then, try moving right as soon as time starts moving again!@k@vS12/04/280400138. That might make a difference!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109280,
+            "TextJPN": "……みんな滅茶苦茶を言った。@kでも、どう圭一に助言しても、この弾丸が１５ｃｍ前に迫ったこの世界から圭一を救う方法など思いつかなかった。",
+            "TextENG": "...Everyone was desperate to save Keiichi.@k However, no matter how hard we thought, we couldn't come up with any ideas to save him from the bullet."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109281,
+            "TextJPN": "あまりに滅茶苦茶な助言が多いので、とうとう圭一は笑い出してしまった。",
+            "TextENG": "We were so desperate that Keiichi started to laugh."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109282,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS12/01/280100206.",
+            "TextJPN": "「………何かよくわからないけどさ。@k@vS12/01/280100207.…とにかく、こうなっちまったものは仕方がない。@k@vS12/01/280100208.時間が動き出せば俺は死ぬだろ。@k@vS12/01/280100209.死ななくても、まぁ少なくとも戦力にはならなくなるな」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``......I really don't know what's going on.@k@vS12/01/280100207. ...But there's nothing that can be done.@k@vS12/01/280100208. I'm dead the minute time starts moving again.@k@vS12/01/280100209. Even if I don't die, I won't be of any help to you guys anymore."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109283,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS12/01/280100210.",
+            "TextJPN": "「だからみんな。@k@vS12/01/280100211.今の内に俺のことを諦めろ。@k@vS12/01/280100212.そして目の前の敵と鷹野さんをブチのめして車を奪うことを考えるんだ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "So, listen.@k@vS12/01/280100211. Just give up on me.@k@vS12/01/280100212. You only need to think about taking these guys down and getting inside of that van!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109284,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500381.",
+            "TextJPN": "「い、……嫌です。@k@vS12/05/280500382.圭一が死んでも駄目です。@k@vS12/05/280500383.そんな世界は嫌なのです…！！@k@vS12/05/280500384.　羽入、これが運命だと言うの？！@k@vS12/05/280500385.　避けられない運命だというの？！」",
+            "NamesENG": "Rika",
+            "TextENG": "``N... Never.@k@vS12/05/280500382. You can't die!@k@vS12/05/280500383. I don't want to lose you...!!@k@vS12/05/280500384. Hanyuu, are you telling me that this is my fate?!@k@vS12/05/280500385. Are you saying that there's no way to overcome this?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109285,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS12/12/281100101.",
+            "TextJPN": "「…………………大丈夫ですよ、梨花。@k@vS12/12/281100102.……忘れられます。@k@vS12/12/281100103.忘れられますから……」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``..........It's okay, Rika.@k@vS12/12/281100102. ...You won't remember this.@k@vS12/12/281100103. You won't......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109286,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS12/03/280300106.",
+            "TextJPN": "「嘘だよ、嘘だ！！@k@vS12/03/280300107.　圭ちゃんがこのまま死んじゃうなんて！！」",
+            "NamesENG": "Mion",
+            "TextENG": "``No, no!!@k@vS12/03/280300107. Kei-chan is not going to die!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109287,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS12/02/280200106.",
+            "TextJPN": "「やめなよ魅ぃちゃん！！@k@vS12/02/280200107.　とにかく、目の前の相手を倒すことに集中しよう！@k@vS12/02/280200108.　倒れる圭一くんに振り返る時間を、きっと圭一くんは望まない！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Stop it, Mii-chan!@k@vS12/02/280200107. Let's concentrate on taking them down!@k@vS12/02/280200108. I'm sure Keiichi wouldn't want us spending time turning back to him as he falls!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109288,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS12/01/280100213.",
+            "TextJPN": "「あぁそうだぜレナ。@k@vS12/01/280100214.頼むぞみんな、梨花ちゃんを。@k@vS12/01/280100215.まずはこの場を逃げ延びて監督に連絡を取れ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``That's exactly how I feel, Rena.@k@vS12/01/280100214. Guys, take care of Rika-chan.@k@vS12/01/280100215. Get out of here and contact Coach."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109289,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS12/01/280100216.",
+            "TextJPN": "「……多分、こいつらは大石さんをもう殺してる。@k@vS12/01/280100217.だからあれだけ待ってもこなかったんだ。@k@vS12/01/280100218.みんな、生き延びろよ、絶対だ！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "...They probably killed Ooishi-san...@k@vS12/01/280100217. That's why he never showed up.@k@vS12/01/280100218. Listen, promise you'll all survive. Promise me!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109290,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500386.",
+            "TextJPN": "「……圭一…！」",
+            "NamesENG": "Rika",
+            "TextENG": "``...Keiichi...!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109291,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS12/01/280100219.",
+            "TextJPN": "「…梨花ちゃん、最後の最後にごめんな。@k@vS12/01/280100220.………運命なんて覆せるって大見得切っておきながら、…最初にリタイアしちまう」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Rika-chan, I'm sorry.@k@vS12/01/280100220. ......I'm the one who told you that we could change destiny... but I'm going to have to retire now.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109292,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900263_1.",
+            "TextJPN": "「くっくっくっくっく、…くすくすくすくすくす…」",
+            "NamesENG": "Takano",
+            "TextENG": "``Heh heh heh heh heh... hee hee hee hee hee...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109293,
+            "TextJPN": "それは誰もが知る鷹野の笑い声だったが、…こんなにも薄気味悪く笑う声は初めて聞いた。",
+            "TextENG": "It sounded just like Takano's regular laughter... but it was the scariest noise I'd ever heard."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109294,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900264.",
+            "TextJPN": "「今生の名残は尽きた？」",
+            "NamesENG": "Takano",
+            "TextENG": "``Are you ready to let go of your life now?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109295,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS12/01/280100221.",
+            "TextJPN": "「………鷹野さん、これで俺たちが負けたと思うなよ…」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``.........Takano-san, we haven't lost just yet...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109296,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900265.",
+            "TextJPN": "「くすくすくす。@k@vS12/09/280900266.見終わったのね？　走馬灯」",
+            "NamesENG": "Takano",
+            "TextENG": "``Hee hee hee.@k@vS12/09/280900266. Done watching your life flash before your eyes?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109297,
+            "TextJPN": "静寂が砕け散り、ぶわッっと現世の雑音が押し寄せる…！！",
+            "TextENG": "The silence suddenly ended, and the clamor of reality returned...!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109298,
+            "TextJPN": "それの爆音にも似た音の塊が全身にぶつかる衝撃。",
+            "TextENG": "An explosive sound then hit Keiichi straight in the chest."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109299,
+            "TextJPN": "私は再び動き出した時間の中で、圭一がゆっくりと崩れていくのを見ていた。",
+            "TextENG": "I watched Keiichi collapse right in front of me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109300,
+            "TextJPN": "ぐるりと体を捻るようにしながら崩れ、血をばら撒きながら地面に仰向けに倒れる。@k…ぴくりとも動かなかった。",
+            "TextENG": "He fell down on his back while his blood splattered everywhere.@k ...And after that, he stopped moving."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109301,
+            "TextJPN": "みんなに精神的な動揺がなかったわけがない。",
+            "TextENG": "There's no way any of us weren't shocked by that."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109302,
+            "TextJPN": "目の前の敵を打ち倒すどころか手間取るうちに、@k新しい追っ手が駆けつけ、組み合う仲間たちに後から組み付き圧倒していった。",
+            "TextENG": "We tried to take down the foes in front of us,@k but more came from behind."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109303,
+            "TextJPN": "みんな必死に足掻くが、大の大人がこれだけ大勢やってきて組み付かれたら振り払えるはずもない。",
+            "TextENG": "We tried to struggle as best we could, but there was no way we could win against all those adults."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109304,
+            "TextJPN": "私も、懸命に抗ったが、髪を引っ張られ、後から軽々と担ぎ上げられるともう抵抗する余地などなかった。",
+            "TextENG": "I did my best to fight them off, but they pulled my hair and picked me up as if I weighed nothing."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109305,
+            "TextJPN": "みんなの必死の抵抗の叫び声が、とても悲しい。",
+            "TextENG": "I heard everyone's desperate screams of resistance."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109306,
+            "TextJPN": "圭一が撃たれる直前までの勇ましい結束感の心地よさなど、砕けてしまったガラス細工のよう。",
+            "TextENG": "The comforting and courageous unity we showed right before Keiichi was shot shattered like glass."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109307,
+            "TextJPN": "足元に散らばる輝く破片が一層に悲しさを煽る。",
+            "TextENG": "The debris of that glass lay sadly on the ground."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109308,
+            "TextJPN": "そんな中、耳障りな鷹野の笑い声だけが不協和音として響いていた。",
+            "TextENG": "Takano's annoying laughter was still echoing inside my ears."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109309,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900267.",
+            "TextJPN": "「鷹野より本部へ。@k@vS12/09/280900268.制圧したわ。@k@vS12/09/280900269.私の言ったものを準備させて。@k@vS12/09/280900270.それから、死体がたくさん出るから処分の手配を。@k@vS12/09/280900271.死体袋が５つと血を流すのに水がいるわね。@k@vS12/09/280900272.持ってこさせて」",
+            "NamesENG": "Takano",
+            "TextENG": "``Takano to HQ.@k@vS12/09/280900268. I've taken care of it.@k@vS12/09/280900269. I need what I told you before.@k@vS12/09/280900270. I also need someone to clean up the bodies.@k@vS12/09/280900271. Send me five bags, and some water to clean up the area.@k@vS12/09/280900272. Understand?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109310,
+            "TextJPN": "死体袋が５つという言葉が私の心を凍らせる。@kだが、今度は時間は凍ってくれなかった。",
+            "TextENG": "She needs five bags...?@k My body froze up, but time did not."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109311,
+            "TextJPN": "鷹野はけらけらと笑いながら、一番近くに押さえつけられていた魅音の後頭部に銃口を押し付けた。",
+            "TextENG": "Takano, laughing, pointed her gun at Mion's head."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109312,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS12/03/280300108.",
+            "TextJPN": "「………ちょ、……う、嘘でしょッ？！」",
+            "NamesENG": "Mion",
+            "TextENG": "``......H... Hey, are you kidding me?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109313,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900273.",
+            "TextJPN": "「あなたの背中の刺青、一度見てみたかったの。@k@vS12/09/280900274.あとで見せてもらうわね」",
+            "NamesENG": "Takano",
+            "TextENG": "``I've always wanted to see the tattoo on your back.@k@vS12/09/280900274. I'm going to take a peek at it later.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109314,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS12/03/280300109.",
+            "TextJPN": "「み、見たければ勝手に見ればいいでしょ？！@k@vS12/03/280300110.　見たってつまらないよ！！」",
+            "NamesENG": "Mion",
+            "TextENG": "``S-Sure, have a look, if you want!@k@vS12/03/280300110. It's nothing special!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109315,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900275.",
+            "TextJPN": "「そう？@k@vS12/09/280900276.　私は楽しいと思うわよ？」",
+            "NamesENG": "Takano",
+            "TextENG": "``Oh?@k@vS12/09/280900276. You don't think I'll find it interesting?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109316,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS12/02/280200109.",
+            "TextJPN": "「やめて！！　魅ぃちゃんを撃たないで！！！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Stop!! Don't shoot her!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109317,
+            "TextJPN": "レナが叫ぶが、鷹野は首を緩やかに横に振った。",
+            "TextENG": "Takano shook her head in response to Rena's scream."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109318,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900277.",
+            "TextJPN": "「だめよ。@k@vS12/09/280900278.魅音ちゃんが部長さんなんだから、一番じゃなきゃね？」",
+            "NamesENG": "Takano",
+            "TextENG": "``I have to kill her.@k@vS12/09/280900278. She's the leader of your club, so she has to go first.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109319,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS12/03/280300111.",
+            "TextJPN": "「う、嘘、……や、やめッ、」",
+            "NamesENG": "Mion",
+            "TextENG": "``N... No... ...S... Sto--``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109320,
+            "TextJPN": "下らない音がして、魅音の四肢がびくんと跳ねた。",
+            "TextENG": "There was a dull noise, followed by Mion's body twitching."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109321,
+            "TextJPN": "あまりに呆気なく射殺した様子を見て、残された仲間たちは一層激しく抵抗した。",
+            "TextENG": "We all tried to break free from the men restraining us as Takano calmly shot Mion."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109322,
+            "TextJPN": "だが屈強の男たちに押さえつけられて、芋虫のようにみすぼらしく体を揺するのが精一杯だった。",
+            "TextENG": "However, they were too strong, and all we could do was squirm like insects."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109323,
+            "TextJPN": "……そしてその様子が鷹野にはたまらなく楽しいようだった。",
+            "TextENG": "...Takano was enjoying watching us struggle..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109324,
+            "TextJPN": "次に鷹野は近くにいた沙都子のところへ行こうとした。",
+            "TextENG": "She then stepped towards Satoko..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109325,
+            "TextJPN": "だが、その鷹野の背に詩音が口汚く言葉をぶつける。",
+            "TextENG": "but Shion started screaming curses at her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109326,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900279.",
+            "TextJPN": "「あら。@k@vS12/09/280900280.…あなたが先に撃たれたいのかしら？@k@vS12/09/280900281.　大人しくしてればもう数秒は余計に生きられたのに」",
+            "NamesENG": "Takano",
+            "TextENG": "``My, my.@k@vS12/09/280900280. You want to be shot before her?@k@vS12/09/280900281. You could've stayed alive a few more seconds if you were nice and quiet.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109327,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS12/04/280400139.",
+            "TextJPN": "「…や、やめて詩音さん！！@k@vS12/04/280400140.　挑発なんかしても意味がありませんでしてよッ！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``...S-Stop it, Shion-san!!@k@vS12/04/280400140. Don't agitate her like that!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109328,
+            "TextJPN": "やっとわかる。@k………詩音は、たとえ数秒間でも、最期の際に沙都子を守りたかったのだ。",
+            "TextENG": "I know why she's doing that.@k ......Shion wants to protect Satoko for as long as she can."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109329,
+            "TextJPN": "…それが、沙都子を託された悟史へ応えることになると信じて。",
+            "TextENG": "...She's trying to do what Satoshi told her to."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109330,
+            "TextJPN": "もっとも鷹野はそんな詩音の気持ちなど知らない。@k圭一を跨ぎ、詩音のところへ行く。",
+            "TextENG": "Takano didn't care one whit for Shion's feelings.@k Stepping over Keiichi's body, she approached Shion."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109331,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS12/06/280600059.",
+            "TextJPN": "「私、やっとわかりましたよ…。@k@vS12/06/280600060.悟史くんを………あんたが殺したんですね……？@k@vS12/06/280600061.　そうなんでしょうッ？！」",
+            "NamesENG": "Shion",
+            "TextENG": "``I get it now...@k@vS12/06/280600060. You killed Satoshi-kun, didn't you...?@k@vS12/06/280600061. Isn't that the truth?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109332,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900282.",
+            "TextJPN": "「生憎ね、冥土の土産って嫌いなの。@k@vS12/09/280900283.だから教えてあげないわ。@k@vS12/09/280900284.…くすくすくすくす！」",
+            "NamesENG": "Takano",
+            "TextENG": "``Sorry, I don't like giving out secrets.@k@vS12/09/280900283. So I'm not telling.@k@vS12/09/280900284. ...Hee hee hee hee!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109333,
+            "TextJPN": "詩音の四肢がびくんと跳ねた。",
+            "TextENG": "Shion's body twitched."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109334,
+            "TextJPN": "相変わらずの間抜けな銃声だった。",
+            "TextENG": "That had followed the dull sound of another gunshot."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109335,
+            "TextJPN": "……あの賑やかな園崎姉妹を永遠に沈黙させる音が、こんなにも下らない音一発だなんて。@kなんて釣り合わないのか……。",
+            "TextENG": "...Just two dull sounds had stolen away the lively Sonozaki sisters.@k It didn't add up..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109336,
+            "TextJPN": "魅音と詩音の２人の人生が、鷹野は人差し指の引き金をちょっと引くだけの行為で無に返せてしまう、その恐ろしさに私は心の底から震えた。",
+            "TextENG": "I started shaking from fear when it hit me just how easily Takano can take away lives."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109337,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS12/02/280200110.",
+            "TextJPN": "「………む、無抵抗の人を撃って楽しいの？！@k@vS12/02/280200111.　この人でなし！！」",
+            "NamesENG": "Rena",
+            "TextENG": "``......I-Is it that amusing for you to take away innocent lives?!@k@vS12/02/280200111. You monster!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109338,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900285.",
+            "TextJPN": "「あら、次はあなたが撃たれたいの？@k@vS12/09/280900286.　黙ってれば最後の順番になったのに」",
+            "NamesENG": "Takano",
+            "TextENG": "``Oh, so you want to die next?@k@vS12/09/280900286. You were going to be the last one if you stayed quiet.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109339,
+            "TextJPN": "圭一が死に、魅音と詩音が死ねば、次の年長者はレナだった。",
+            "TextENG": "Keiichi, Mion and Shion died... the oldest one of us left was Rena."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109340,
+            "TextJPN": "……レナは多分、自分より先に年下の子が殺されることには耐えられなかったのだろう。",
+            "TextENG": "Rena didn't want to see Satoko and me die before she did."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109341,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS12/02/280200112.",
+            "TextJPN": "「……連続怪死事件は全部、鷹野さんの仕業だったんですね。@k@vS12/02/280200113.…オヤシロさまの祟りの代行者のつもりだったんですか」",
+            "NamesENG": "Rena",
+            "TextENG": "``......So you were the culprit behind the series of mysterious deaths in Hinamizawa...@k@vS12/02/280200113. ...Do you think you're Oyashiro-sama's proxy or something?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109342,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900287.",
+            "TextJPN": "「くすくすくす。@k@vS12/09/280900288.代行者じゃないわ。@k@vS12/09/280900289.私が祟りを下すのよ。@k@vS12/09/280900290.あなたには見せられないわね。@k@vS12/09/280900291.オヤシロさまの怒りがこれからこの村に下るのは。@k@vS12/09/280900292.それは私が起こす。@k@vS12/09/280900293.私の祟り」",
+            "NamesENG": "Takano",
+            "TextENG": "``Hee hee hee.@k@vS12/09/280900288. I'm not a proxy.@k@vS12/09/280900289. I'm handing out divine punishment.@k@vS12/09/280900290. It's too bad that you're not going to see it.@k@vS12/09/280900291. Soon enough, Oyashiro-sama's wrath is going to destroy the whole village.@k@vS12/09/280900292. But I'm the one who's going to make that happen.@k@vS12/09/280900293. It's my curse."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109343,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900294.",
+            "TextJPN": "「そう、私はまさにオヤシロさまそのものになるのよ。@k@vS12/09/280900295.その時、私は人としての域をようやく超えることができるの。@k@vS12/09/280900296.くすくす！」",
+            "NamesENG": "Takano",
+            "TextENG": "Yes, I'm going to become Oyashiro-sama.@k@vS12/09/280900295. I'm going to become something more than human.@k@vS12/09/280900296. Hee hee!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109344,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900297.",
+            "TextJPN": "「まぁあなたには私の気持ちはわからないでしょうね。@k@vS12/09/280900298.人を超えて神になろうとする心地よさなど誰にも理解できないわよ」",
+            "NamesENG": "Takano",
+            "TextENG": "You'll never understand how I feel.@k@vS12/09/280900298. You'll never understand how wonderful it is to become a god!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109345,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS12/02/280200114.",
+            "TextJPN": "「………あははは。@k@vS12/02/280200115.無理だと思うな。@k@vS12/02/280200116.鷹野さんがどれだけオヤシロさまのふりをしたって、オヤシロさまにはなれないよ。@k@vS12/02/280200117.所詮はごっこ遊び。@k@vS12/02/280200118.オヤシロさまになんかあなたはなれない」",
+            "NamesENG": "Rena",
+            "TextENG": "``.......Ahahaha.@k@vS12/02/280200115. I don't think that's possible.@k@vS12/02/280200116. No matter how much you try to become Oyashiro-sama, it won't work.@k@vS12/02/280200117. It's just a game for you.@k@vS12/02/280200118. You will never become Oyashiro-sama.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109346,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900299.",
+            "TextJPN": "「なれるわよ。@k@vS12/09/280900300.これからなるもの」",
+            "NamesENG": "Takano",
+            "TextENG": "``I will.@k@vS12/09/280900300. The process has already begun.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109347,
+            "TextJPN": "あははははははは。",
+            "TextENG": "Ahahahahahahahaha."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109348,
+            "TextJPN": "レナが嘲笑う。@k……その笑いが屈辱的だったのか、鷹野は珍しく顔を歪ませた。",
+            "TextENG": "Rena laughed at her.@k Takano seemed very upset to hear that laugh."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109349,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900301.",
+            "TextJPN": "「何がおかしいのかしら…」",
+            "NamesENG": "Takano",
+            "TextENG": "``What's so funny...?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109350,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS12/02/280200119.",
+            "TextJPN": "「無理だよ」",
+            "NamesENG": "Rena",
+            "TextENG": "``It's impossible."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109351,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS12/02/280200120.",
+            "TextJPN": "「だって、オヤシロさまは“居る”んだもの」",
+            "NamesENG": "Rena",
+            "TextENG": "Because... Oyashiro-sama is already here...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109352,
+            "TextJPN": "それがレナの最期の言葉だった。",
+            "TextENG": "Those were Rena's last words."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109353,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900302.",
+            "TextJPN": "「…さて。@k@vS12/09/280900303.最後は沙都子ちゃんね。@k@vS12/09/280900304.………あなたは殺しても殺さなくてもどうでもいいの。@k@vS12/09/280900305.でも、あなたは生きた研究資料だからね。@k@vS12/09/280900306.『東京』はあなたの生きたままの捕獲に懸賞金を付けてくれてるわ」",
+            "NamesENG": "Takano",
+            "TextENG": "``...Well.@k@vS12/09/280900303. It's your turn now, Satoko-chan.@k@vS12/09/280900304. ......I don't really care if you live or die.@k@vS12/09/280900305. But you're a living research sample.@k@vS12/09/280900306. Tokyo has a bounty on capturing you alive."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109354,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900307.",
+            "TextJPN": "「大した額じゃない。@k@vS12/09/280900308.私の取り分はせいぜい、ヨーロッパに旅行に行ったら消える程度よ」",
+            "NamesENG": "Takano",
+            "TextENG": "But it's not very much.@k@vS12/09/280900308. My share would run out with just a trip to Europe."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109355,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900309.",
+            "TextJPN": "「まぁ、生け捕りにしても、あなたは結局はろくな目に遭わないけどね。@k@vS12/09/280900310.生きたまま頭蓋を切開されるのが関の山よ」",
+            "NamesENG": "Takano",
+            "TextENG": "If I capture you alive, nothing good will happen to you anyway.@k@vS12/09/280900310. They'll probably open up your skull and probe through your brain while you're still alive."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109356,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900311.",
+            "TextJPN": "「それに私、あなたとはお友達だったしね。@k@vS12/09/280900312.この場で撃ち殺してあげるのもやさしさかと思ってる。@k@vS12/09/280900313.どっちがいい？」",
+            "NamesENG": "Takano",
+            "TextENG": "Besides, I was your friend.@k@vS12/09/280900312. I think it might be kinder to shoot you dead right here.@k@vS12/09/280900313. Which would you prefer?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109357,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS12/04/280400141.",
+            "TextJPN": "「そんなの決められるわけないでございますわよッ！！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``I can't decide that!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109358,
+            "TextJPN": "沙都子は両目に涙を浮かべながら、それでも強気を装い言い返していた。",
+            "TextENG": "Satoko shouted back at her. Her eyes were full of tears."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109359,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900314.",
+            "TextJPN": "「じゃあ、クイズ。@k@vS12/09/280900315.ブロッコリーとカリフラワー。@k@vS12/09/280900316.緑色はどっち？」",
+            "NamesENG": "Takano",
+            "TextENG": "``Let's do a quiz, then.@k@vS12/09/280900315. Broccoli or cauliflower,@k@vS12/09/280900316. which one is green?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109360,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS12/04/280400142.",
+            "TextJPN": "「…………カ、……いえ、…ブロッコリ」",
+            "NamesENG": "Satoko",
+            "TextENG": "``......It's cau-- ...no, it's broccoli.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109361,
+            "TextJPN": "パカン。",
+            "TextENG": "Pow."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109362,
+            "TextJPN": "退屈な破裂音が響き、沙都子は瞬きを忘れて動かなくなった。",
+            "TextENG": "As soon as I heard that same dull sound, Satoko stopped moving."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109363,
+            "TextJPN": "そして、沙都子が聞こえるわけもないのに鷹野は『正解』といってくすくすと笑う。",
+            "TextENG": "Takano smiled and said ``good girl`` to what used to be Satoko."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109364,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900317.",
+            "TextJPN": "「くっくっく、あっははははははははは！@k@vS12/09/280900318.　本当に今夜は月の綺麗な素敵な夜だこと。@k@vS12/09/280900319.ね、あなたもそう思わない？」",
+            "NamesENG": "Takano",
+            "TextENG": "``Heh heh heh... Ahhhahahahahahahahaha!!!@k@vS12/09/280900318. This really is such a lovely and beautiful night!@k@vS12/09/280900319. Don't you agree?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109365,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500387.",
+            "TextJPN": "「…………そして、…私を殺すのね」",
+            "NamesENG": "Rika",
+            "TextENG": "``.........So... you're going to kill me too?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109366,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900320.",
+            "TextJPN": "「えぇ。@k@vS12/09/280900321.殺すわ。@k@vS12/09/280900322.女王感染者の死体が作戦の鍵なの。@k@vS12/09/280900323.あなたはここから遠く離れた東京の地での醜い政治的勢力争いの具になるのよ。@k@vS12/09/280900324.そして、鬼ヶ淵村の伝説のピリオドとなる」",
+            "NamesENG": "Takano",
+            "TextENG": "``Yes.@k@vS12/09/280900321. I will kill you.@k@vS12/09/280900322. The corpse of the queen carrier is the key to this mission.@k@vS12/09/280900323. You're going to become an ugly political tool far away in Tokyo.@k@vS12/09/280900324. And then, the legend of Onigafuchi will finally come to an end.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109367,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500388.",
+            "TextJPN": "「………私をどういう殺し方にするか、…鷹野の考えそうなことがわかったわ」",
+            "NamesENG": "Rika",
+            "TextENG": "``......I know... how you're planning to kill me.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109368,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900325.",
+            "TextJPN": "「あら、わかるの…？@k@vS12/09/280900326.　言ってみて？」",
+            "NamesENG": "Takano",
+            "TextENG": "``Oh, you do...?@k@vS12/09/280900326. Let's hear it.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109369,
+            "TextJPN": "言うもんか。@kわかってる。",
+            "TextENG": "I'm not going to say it.@k But I know."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109370,
+            "TextJPN": "……綿流しだ。",
+            "TextENG": "It's Watanagashi..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109371,
+            "TextJPN": "彼女が心酔する鬼ヶ淵村の本当の綿流しがしたいのだ。",
+            "TextENG": "She wants to do the real Watanagashi, using my body."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109372,
+            "TextJPN": "私の腹を割いて殺すに違いない。",
+            "TextENG": "I'm sure she's planning to cut open my stomach and pull out my guts."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109373,
+            "TextJPN": "そして、その前段階として薬物のハンカチか何かで私を眠らせるのだろう。@k…そのハンカチだけおぼろげに覚えているのだ。",
+            "TextENG": "To do that, she'll make me inhale some chemical to put me to sleep.@k ...I vaguely remember that part."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109374,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900327.",
+            "TextJPN": "「想像がついてるようね。@k@vS12/09/280900328.くすくす。@k@vS12/09/280900329.………じゃあお休みなさい、梨花ちゃん」",
+            "NamesENG": "Takano",
+            "TextENG": "``I guess you already know.@k@vS12/09/280900328. Hee hee.@k@vS12/09/280900329. ......Good night, Rika-chan.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109375,
+            "TextJPN": "鷹野が顎で合図をすると山狗の１人がハンカチのようなものを持って近付いてくる。",
+            "TextENG": "One of the Dogs approached me with a handkerchief soaked in a chemical substance."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109376,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500389.",
+            "TextJPN": "「…………鷹野、待ちなさい」",
+            "NamesENG": "Rika",
+            "TextENG": "``.........Wait a minute, Takano.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109377,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900330.",
+            "TextJPN": "「みんな潔く死んだのに、あなたは命乞いなの？@k@vS12/09/280900331.　くっくっくっく！」",
+            "NamesENG": "Takano",
+            "TextENG": "``Everyone's dead, but you're begging for your life?@k@vS12/09/280900331. Heh heh heh heh!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109378,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500390.",
+            "TextJPN": "「……違うわ。@k@vS12/05/280500391.…私を殺すなら、眠らさずに殺しなさい」",
+            "NamesENG": "Rika",
+            "TextENG": "``......That's not it.@k@vS12/05/280500391. ...If you're going to kill me, do it without putting me to sleep.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109379,
+            "TextJPN": "それは意外な提案。",
+            "TextENG": "Takano hadn't expected to hear that."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109380,
+            "TextJPN": "…鷹野は思わぬ提案に一瞬驚いたが、いやらしい笑みを浮かべて小さく頷いた。",
+            "TextENG": "Still, even though she was surprised, she nodded with a slight smile."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109381,
+            "TextJPN": "その提案には羽入も驚く。@kそんな死に方が辛いだけなのは誰にだってわかる。",
+            "TextENG": "Hanyuu was also surprised to hear that.@k It would obviously be a terrible way to die."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109382,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900332.",
+            "TextJPN": "「どういうつもり？@k@vS12/09/280900333.　楽に死ぬ気がないの？@k@vS12/09/280900334.　辛いわよ？@k@vS12/09/280900335.　生きたまま腹を割かれるのは」",
+            "NamesENG": "Takano",
+            "TextENG": "``What are you thinking?@k@vS12/09/280900333. Wouldn't you prefer an easy and painless death?@k@vS12/09/280900334. You know it's going to be horrible, right?@k@vS12/09/280900335. I'm going to cut open your stomach while you're still alive.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109383,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500392.",
+            "TextJPN": "「…………忘れないためよ」",
+            "NamesENG": "Rika",
+            "TextENG": "``......I don't want to forget about it.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109384,
+            "TextJPN": "そう。@k…これは忘れないため。絶対に私は忘れない。",
+            "TextENG": "Yes.@k ...I'm doing this so I'll remember. I'm not going to forget about it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109385,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500393.",
+            "TextJPN": "「……あなたが私の腹を裂くのを、私は魂に刻み付ける。@k@vS12/05/280500394.……それを私は絶対に忘れない。@k@vS12/05/280500395.あなたに再び会った時、あなたが敵であることを思い出すために」",
+            "NamesENG": "Rika",
+            "TextENG": "``...The picture of you cutting open my stomach will be forever burned into my soul.@k@vS12/05/280500394. ...I'm never going to forget that.@k@vS12/05/280500395. Next time I see you, I'll remember that you did this to me.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109386,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900336.",
+            "TextJPN": "「くっくっくっく、あっはっはっはっはっはっはっは！@k@vS12/09/280900337.　………何を企んでるやら。@k@vS12/09/280900338.でも、あなたは他の子たちよりは少しは賢明みたいね」",
+            "NamesENG": "Takano",
+            "TextENG": "``Heh heh heh heh... Ah ha ha ha ha ha ha ha!!@k@vS12/09/280900337. ...What are you cooking up in your little head?@k@vS12/09/280900338. I guess you're smarter than the other kids."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109387,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS12/09/280900339.",
+            "TextJPN": "「１秒でも長生きすれば、悲鳴を上げるくらいのチャンスはあるかもしれないからね。@k@vS12/09/280900340.でも、そうはさせないわ」",
+            "NamesENG": "Takano",
+            "TextENG": "At least you'd get to have a chance to scream for your life.@k@vS12/09/280900340. I'm not going to let you do that, though.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109388,
+            "TextJPN": "先ほどのハンカチとは違うものを口に無理やり押し込まれる。",
+            "TextENG": "They forced something other than the handkerchief inside of my mouth."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109389,
+            "TextJPN": "猿ぐつわをするつもりのようだった。@k口が満足に閉じられず、よだれが口の中から溢れる。",
+            "TextENG": "It was a gag.@k With that in, I couldn't close my mouth, leading my saliva to start overflowing."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109390,
+            "TextJPN": "そこへもう１台のワゴン車が到着した。",
+            "TextENG": "Soon, another van arrived."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109391,
+            "TextJPN": "別の男たちがぞろぞろと現れる。",
+            "TextENG": "More Mountain Dogs came out of it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109392,
+            "TextJPN": "鷹野が依頼した死体の回収班だろう。",
+            "TextENG": "They had probably come to get rid of the bodies."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109393,
+            "TextJPN": "みんなの死体を大きなカバンのような死体袋に詰め込んでいく。",
+            "TextENG": "They grabbed the corpses of my friends and stuffed them into body bags."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109394,
+            "TextJPN": "そしてみんなが残した血痕という、生きていた証の痕跡をポリタンクの水で洗い流していく。",
+            "TextENG": "After that, they sprayed a bunch of water on the ground to clean up the blood."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109395,
+            "TextJPN": "鷹野に撃った弾数を聞き、その薬莢を拾う。",
+            "TextENG": "They asked Takano how many shots she fired, and started looking around for the bullets."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109396,
+            "TextJPN": "それでもう何も跡など残らない。@k夜が明ければ誰にもわからないだろう。",
+            "TextENG": "They were erasing all the evidence.@k By the time the night was over, there'd be no more proof left."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109397,
+            "TextJPN": "私は後手に手錠か何かで縛られ、@kさらに両足も縛られ、@kしかもその縛られた両方までも結んで縛られたので、@kまるで海老のような格好になってしまい、もはや歩くこともできなかった。",
+            "TextENG": "They pulled my hands behind my back and bound them with handcuffs.@k My ankles were tied up too.@k They also tied my ankles and wrists together.@k My body was bent like a shrimp, and I was no longer able to walk."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109398,
+            "TextJPN": "そして口も塞がれているので、喋ることもできない。",
+            "TextENG": "My mouth was covered so I couldn't even talk."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109399,
+            "TextJPN": "自ら動く、喋る。@k意思を示す。",
+            "TextENG": "I couldn't move, talk,@k or express myself in any other way."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109400,
+            "TextJPN": "それを奪われたというのは、私が人としての権利を奪われたのと同じだ。",
+            "TextENG": "They had taken away everything that made me human."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109401,
+            "TextJPN": "……今や私は古手梨花という名の人間ではない。",
+            "TextENG": "...Therefore, I wasn't human anymore."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109402,
+            "TextJPN": "古手梨花という名の、鷹野を楽しませるためだけの物扱いなのだ。",
+            "TextENG": "I was just a toy named Rika Furude, a toy to give Takano joy."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109403,
+            "TextJPN": "やがて、ワゴン車は出発する。@k来た道を戻っているようだが、もう私にはどうでもいいことだ。",
+            "TextENG": "The car started moving.@k It seemed like we were going back the way we came, but I didn't care anymore."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109404,
+            "TextJPN": "こうして、殺される瞬間をまさに迎えようとしていると、……今さらのように千切られた記憶が蘇ってくる。",
+            "TextENG": "As the time of my death approached, some of my forgotten memories came back to me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109405,
+            "TextJPN": "…そうだ。@k私はこうして何度も殺されたのだ。",
+            "TextENG": "...That's right.@k I was killed like this so many times."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109406,
+            "TextJPN": "繰り返した世界の数だけ、鷹野を喜ばせるためだけに惨殺されてきた。",
+            "TextENG": "Every time I repeated my life, Takano got pleasure out of killing me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109407,
+            "TextJPN": "誰かが私の頭を撫でた。",
+            "TextENG": "Somebody rubbed my head."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109408,
+            "TextJPN": "戯れのつもりだろうか。",
+            "TextENG": "Were they trying to comfort me?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109409,
+            "TextJPN": "私は首を振ってそれを拒否する。@kそれを見て何人かがげらげらと笑った…。",
+            "TextENG": "I shook my head to try and refuse.@k They laughed at me as I did so..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109410,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS12/12/281100104.",
+            "TextJPN": "「………………………梨花………、……梨花……………」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``...............Rika...... ...Rika............``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109411,
+            "TextJPN": "羽入が現れる。@k…ものすごい悲しみに涙を堪えきれない様子だった。",
+            "TextENG": "Hanyuu showed up.@k She couldn't hold back her devastated tears."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109412,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS12/12/281100105.",
+            "TextJPN": "「……また、……駄目でした……、…駄目でした……、……また、………また………！」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``...Again... ...It didn't work... ...It didn't work again... ...again... ......again......!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109413,
+            "TextJPN": "…その痛々しい羽入の涙を見て確信する。",
+            "TextENG": "...When I saw Hanyuu's painful tears, I was convinced."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109414,
+            "TextJPN": "羽入も傍観者なんかじゃない。",
+            "TextENG": "I was wrong. Hanyuu is not just a bystander."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109415,
+            "TextJPN": "……悲しさの痛みに耐えられなくなって、正面から向き合うことすら怖くなってしまっただけなのだ。",
+            "TextENG": "She's just too scared to face reality, because she can't stand the pain anymore..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109416,
+            "TextJPN": "羽入だって、楽しくて明るい未来を何度も夢見たはず。",
+            "TextENG": "Hanyuu wants a happy future too."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109417,
+            "TextJPN": "でも、何度も期待を裏切られて……、期待することに怯えるほどに傷ついて…。",
+            "TextENG": "But her hopes were betrayed countless times, and she was hurt far too much..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109418,
+            "TextJPN": "でも、…不思議なことに、羽入の悲しそうな顔を見ていると、逆に自分は落ち着きを取り戻せる気がした。",
+            "TextENG": "For some reason, seeing her sorrowful expression calmed me down..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109419,
+            "TextJPN": "……羽入が私の代わりに泣いてくれているからかもしれない。",
+            "TextENG": "......Perhaps Hanyuu was crying in my place."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109420,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500396.",
+            "TextJPN": "「………いいのよ羽入。@k@vS12/05/280500397.………私たち、あれだけ努力した。@k@vS12/05/280500398.精一杯がんばった」",
+            "NamesENG": "Rika",
+            "TextENG": "``.........It's okay, Hanyuu.@k@vS12/05/280500397. ......We did what we could.@k@vS12/05/280500398. We worked very hard."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109421,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500399.",
+            "TextJPN": "「…もう一息で運命を覆せそうな予感すらした。@k@vS12/05/280500400.……それでも届かなかったなら仕方がないし。@k@vS12/05/280500401.…それにね、何だか…あははは。@k@vS12/05/280500402.気持ちいいの」",
+            "NamesENG": "Rika",
+            "TextENG": "...We were getting so close to changing our fate for real.@k@vS12/05/280500400. ...It still didn't work out.@k@vS12/05/280500401. ...But for some reason... ahahaha.@k@vS12/05/280500402. I feel satisfied.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109422,
+            "TextJPN": "今まで、これだけ精一杯人生を戦ったことはなかった。",
+            "TextENG": "I've never fought this hard in my life."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109423,
+            "TextJPN": "そして、これだけ多くのことを学んだこともなかった。",
+            "TextENG": "I've never learned so many things."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109424,
+            "TextJPN": "無限の世界を生きられる身だからと、ひとつひとつの世界を軽んじてきた身では学べないことばかりだった。",
+            "TextENG": "Because I can repeat my life endlessly, I've been taking each one for granted."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109425,
+            "TextJPN": "…でも、それはひとつの世界しかない人たちは自然に学んでいること。",
+            "TextENG": "...But everyone else is taking their lives seriously."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109426,
+            "TextJPN": "……私ひとりが魔女気取りでそんな当り前を学ばなかった。",
+            "TextENG": "...I wasn't learning anything because I wasn't doing that."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109427,
+            "TextJPN": "でも、やっとそれを学べた。",
+            "TextENG": "But I finally understand."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109428,
+            "TextJPN": "この世界で私は全てを学び、全てを努力した。",
+            "TextENG": "I learned something from this life, and I put all my effort into it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109429,
+            "TextJPN": "だから、……あとちょっとで届かなかったのはとても悔しいけど、……でも何だか満足だった。@k不思議な満足。",
+            "TextENG": "So... I'm sad that I didn't make it... but I feel satisfied just the same.@k It's a strange kind of satisfaction."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109430,
+            "TextJPN": "これから殺されて、どこまで記憶が破かれるのだろう。",
+            "TextENG": "I wonder how many of these memories I can keep."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109431,
+            "TextJPN": "……今日の夕方くらいから記憶がもうなかった気がする。",
+            "TextENG": "...I get the sense that I'm going to lose my memory of this evening..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109432,
+            "TextJPN": "そんなに遡られたら鷹野の顔を見た記憶も残らないだろう。",
+            "TextENG": "If that's the case, I will lose my memory of seeing Takano's face."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109433,
+            "TextJPN": "……鷹野という黒幕の正体を掴んだのはこの世界だけの束の間。",
+            "TextENG": "...I've finally found out that Takano is the mastermind."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109434,
+            "TextJPN": "…すぐに忘れて、私は新しい世界で何も知らずに鷹野と付き合うだろう。",
+            "TextENG": "Am I going to repeat the same world again, not knowing the truth?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109435,
+            "TextJPN": "仲間たちを虫けらのように殺した。@kそれを絶対に忘れたくない！",
+            "TextENG": "She killed my friends as if she were merely killing some bugs.@k I don't want to forget that!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109436,
+            "TextJPN": "だから私はどんなに辛い死に様であっても、最後まで鷹野を脳裏に焼き付けていよう。",
+            "TextENG": "No matter how hard my death will be, I need to remember Takano's face."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109437,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500403.",
+            "TextJPN": "「………羽入。@k@vS12/05/280500404.私は挫けない。@k@vS12/05/280500405.この記憶がたとえ引き継げなくてもいい。@k@vS12/05/280500406.がむしゃらに生きていく」",
+            "NamesENG": "Rika",
+            "TextENG": "``......Hanyuu.@k@vS12/05/280500404. I'm not going to give up.@k@vS12/05/280500405. I don't care if I can't recall this memory.@k@vS12/05/280500406. I'll continue to live my life."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109438,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500407.",
+            "TextJPN": "「６月の狭い日々にしか生きられなくなり、最後には綿流しの日にしか生きていられない存在になってもいい。@k@vS12/05/280500408.それが私の生なら、精一杯生きてきっと自分の人生を切り開く」",
+            "NamesENG": "Rika",
+            "TextENG": "I don't care if I can only live in this June, and that eventually I will only be able to go back to the night of Watanagashi.@k@vS12/05/280500408. If that's my life, so be it!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109439,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS12/12/281100106.",
+            "TextJPN": "「…………僕も忘れません…。@k@vS12/12/281100107.きっと覚えてて、もし梨花が忘れていたらきっと僕が教えますから……！！」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``......I'm not going to forget either...@k@vS12/12/281100107. If you don't remember, I'll tell you the truth...!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109440,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500409.",
+            "TextJPN": "「…羽入。@k@vS12/05/280500410.………あなたはやっぱり、冷たい傍観者のふりをしていたのは、悲しさに怯えていたからなんだよね」",
+            "NamesENG": "Rika",
+            "TextENG": "``...Hanyuu.@k@vS12/05/280500410. ......I knew it. You acted like an unfeeling bystander, but that's because you were afraid of the pain.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109441,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS12/12/281100108.",
+            "TextJPN": "「…………僕も、……みんなと楽しく過ごす未来に行きたかったです……。@k@vS12/12/281100109.……ううぅぅうぅぅ…ッ！！」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``.........I... I also want to have a happy future with everyone...@k@vS12/12/281100109. ...Uuuuuuu...!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109442,
+            "TextJPN": "羽入がぼろぼろと涙を零す…。",
+            "TextENG": "Hanyuu started to cry like a baby..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109443,
+            "TextJPN": "本当に馬鹿だった。",
+            "TextENG": "She's so stupid."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109444,
+            "TextJPN": "……あんたはその悲しみから逃れるために今日まで傍観者を貫き、期待も夢も持たないと言ってきたんじゃない。@k…それを、この死の間際に翻したって傷つくだけじゃないか…。",
+            "TextENG": "...She decided to abandon hope because she didn't want to deal with the sadness that she always felt on this night.@k ...But she ended up hurt and devastated anyway..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109445,
+            "TextJPN": "羽入、あんたの望むとおりの期待しない世界になって幸せ？@k　という嫌味を、私は口にするのをやめたのだった…。",
+            "TextENG": "Hanyuu, are you happy that this world is ending just like you predicted?@k I decided not to ask her such an unpleasant question..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109446,
+            "TextJPN": "やがて車が停まり、私は二人掛りで担ぎ出される。@kそこは古手神社だった。",
+            "TextENG": "The car stopped, and two men pulled me out of the vehicle.@k We had returned to the Furude Shrine."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109447,
+            "TextJPN": "社の賽銭箱の前に、何人かの男たちが待っていた。",
+            "TextENG": "There were several men waiting in front of the offertory box."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109448,
+            "TextJPN": "そこには、鋭利な刃物がいくつも並べられていた。",
+            "TextENG": "Nearby, there were countless sharp knives laid out on the ground."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109449,
+            "TextJPN": "これだけの衆人環視の中、何もできずこの身を晒す屈辱も今は感じなかった。",
+            "TextENG": "They're going to cut open my stomach with those tools and pull out my intestines. They took off all of my clothes. They left the gag inside my mouth and the handcuffs around my wrists. I wasn't embarrassed to be naked in front of them."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109450,
+            "TextJPN": "……でも、たった１人、鷹野を喜ばせていることだけが許せなかった。",
+            "TextENG": "...Rather, I was just furious that Takano was getting joy out of doing this to me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109451,
+            "TextJPN": "この屈辱を忘れるな。",
+            "TextENG": "Don't forget this humiliation."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109452,
+            "TextJPN": "そしてこれから訪れる痛みを、死の一瞬まで魂に刻み付けろ。",
+            "TextENG": "The pain I'm about to experience should be carved into my soul forever."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109453,
+            "TextJPN": "私は絶対に忘れない。",
+            "TextENG": "I'm not going to forget this."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109454,
+            "TextJPN": "みんなが力を合わせて努力してくれて、ようやく掴んだ黒幕の記憶を絶対に失ったりしない。",
+            "TextENG": "Everyone worked together, and we finally revealed who was behind it all."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109455,
+            "TextJPN": "…忘れたら、みんなの死と努力を無駄にすることになるのだから。",
+            "TextENG": "If I forget this, my friends' efforts and deaths will have been in vain..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109456,
+            "TextJPN": "だから、１秒でも長く生き残って痛みを受け容れよう。",
+            "TextENG": "I need to stay alive as long as I can, so that I will remember the pain."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109457,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500411.",
+            "TextJPN": "「…………羽入。@k@vS12/05/280500412.目を背けないで。@k@vS12/05/280500413.あなたも見ていなさい。@k@vS12/05/280500414.そして心に刻んで」",
+            "NamesENG": "Rika",
+            "TextENG": "``.........Hanyuu.@k@vS12/05/280500412. Don't look away.@k@vS12/05/280500413. You have to watch.@k@vS12/05/280500414. Remember this forever.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109458,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS12/12/281100110.",
+            "TextJPN": "「………あぅあぅあぅ…。@k@vS12/12/281100111.………僕には、そのくらいの協力しかできないのでしょうか…。@k@vS12/12/281100112.触ることもしゃべることもできない僕には、そんなことしかできないのでしょうか…」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``......Au au au...@k@vS12/12/281100111. ...Is this really the only way I can help you...?@k@vS12/12/281100112. Is this all I can do because I can't touch or talk to anyone?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109459,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500415.",
+            "TextJPN": "「それで充分よ。@k@vS12/05/280500416.あなたが目を背けないでくれたなら、私も多分、痛みに耐えられると思うから」",
+            "NamesENG": "Rika",
+            "TextENG": "``That's good enough.@k@vS12/05/280500416. If you continue to stare at me, I can endure this pain.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109460,
+            "TextJPN": "羽入は涙を零したまま頷き、私のすぐ脇に正座して座る。",
+            "TextENG": "Hanyuu nodded and sat right next to me, while continuing to cry."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109461,
+            "TextJPN": "そして私たちは見上げた。",
+            "TextENG": "We then looked up at the night sky together."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109462,
+            "TextJPN": "真っ白で残酷なくらいに酷薄な夜空の月を。@kそしてその月を背負う殺人鬼の姿を。",
+            "TextENG": "The moon was shining brightly, as if it's taking pity upon me.@k We also looked at the faces of my murderers."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109463,
+            "TextJPN": "月は次第に飛沫を浴びて朱に染まっていく。",
+            "TextENG": "That beautiful moon was gradually stained red."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109464,
+            "TextJPN": "とても寒かった。",
+            "TextENG": "It's getting cold."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109465,
+            "TextJPN": "とても痛かった。",
+            "TextENG": "It's so painful."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109466,
+            "TextJPN": "自由にならない我が身を凶刃に委ねる恐怖に怯えた。",
+            "TextENG": "I'm consumed with the fear of not being able to do anything about this."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109467,
+            "TextJPN": "でも、羽入が私のすぐ近くに座ってくれていた。@kそれが支えになる。",
+            "TextENG": "But Hanyuu is right next to me.@k That gives me comfort."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109468,
+            "TextJPN": "羽入だけじゃない。@k……みんながいてくれた。",
+            "TextENG": "It's not just Hanyuu, either.@k ...Everyone is here with me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109469,
+            "TextJPN": "みんなは私が痛みを堪えられるように、心をひとつにして私の死に様を見守ってくれていた。",
+            "TextENG": "Everyone is there, watching me, so I can stand this torture."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109470,
+            "TextJPN": "だから、痛くなんかなかった。@k辛くなんかなかった。@k鷹野の狂った笑い声など耳に入らなかった。",
+            "TextENG": "That's why it wasn't painful.@k I didn't struggle.@k I didn't care about Takano's crazy laughter."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109471,
+            "TextJPN": "みんなで力を合わせて、本当に素晴らしい世界だった。",
+            "TextENG": "This was such a wonderful world."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109472,
+            "TextJPN": "運命には打ち勝てなかったけど、後悔しない世界だった。",
+            "TextENG": "We didn't overcome this fate, but I have no regrets."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109473,
+            "TextJPN": "もちろん悲しい。@k残念さは拭えない。",
+            "TextENG": "Of course, I'm still sad.@k I'm disappointed."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109474,
+            "TextJPN": "指先に未来がかすかに触れたのだ。",
+            "TextENG": "My future was right in front of my eyes."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109475,
+            "TextJPN": "もう一息でそこに手が届いたんだ。",
+            "TextENG": "My hand could almost reach it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109476,
+            "TextJPN": "……でも、精一杯だったんだから、今の自分を讃えなくちゃいけない。",
+            "TextENG": "...Even so, we did what we could. I have to be proud of myself."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109477,
+            "TextJPN": "圭一は言った。",
+            "TextENG": "Keiichi voiced his disagreement."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109478,
+            "TextJPN": "それでも無念だと。",
+            "TextENG": "He still felt that we could have done more."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109479,
+            "TextJPN": "未来を掴めた。",
+            "TextENG": "We were almost there."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109480,
+            "TextJPN": "もう少しで運命に打ち勝てた。",
+            "TextENG": "We almost defeated this fate."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109481,
+            "TextJPN": "それに届かなかったのは相手が強大だったからじゃない。",
+            "TextENG": "We didn't win, but not because our enemies were strong."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109482,
+            "TextJPN": "自分たちがそれを掴めなかったからだと。",
+            "TextENG": "We didn't win because we didn't try hard enough."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109483,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS12/12/281100113.",
+            "TextJPN": "「………でも、みんなは心をひとつにして頑張っていましたのです。@k@vS12/12/281100114.……僕は見ていました。@k@vS12/12/281100115.全部見ていましたのです」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``......But all of you worked so hard together.@k@vS12/12/281100114. ...I was watching.@k@vS12/12/281100115. I saw the whole thing.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109484,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS12/01/280100222.",
+            "TextJPN": "「いいや、足りてなかったんだ。@k@vS12/01/280100223.運命を打ち破ろうとする意志が全員で結束できていたなら必ず奇跡は起こせたんだ…！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``But it wasn't enough.@k@vS12/01/280100223. If we'd had a will strong enough to overcome this fate, we should have created a miracle...!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109485,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS12/02/280200121.",
+            "TextJPN": "「…そうなんだよ…。@k@vS12/02/280200122.全員が信じたなら必ず奇跡が起こせるんだよ…」",
+            "NamesENG": "Rena",
+            "TextENG": "``...That's right...@k@vS12/02/280200122. A miracle will happen if everyone believes in it...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109486,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS12/06/280600062.",
+            "TextJPN": "「……沙都子も梨花ちゃまも、みんなよく頑張りました…」",
+            "NamesENG": "Shion",
+            "TextENG": "``...Satoko, Rika-chama, and everyone else worked so hard...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109487,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS12/04/280400143.",
+            "TextJPN": "「ごめんなさいですわ、…梨花。@k@vS12/04/280400144.……あなたが打ち明ける勇気を見せてくれたのに、…私はあなたを救えなかったですわ………」",
+            "NamesENG": "Satoko",
+            "TextENG": "``I'm sorry... Rika.@k@vS12/04/280400144. ...You were brave enough to ask us for help... but I couldn't save you......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109488,
+            "TextJPN": "沙都子は私の肩を強く握りながらぽたぽたと無念の涙を落とす…。",
+            "TextENG": "Satoko held my shoulder and cried."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109489,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500417.",
+            "TextJPN": "「……そうよ。@k@vS12/05/280500418.みんなで力を合わせたわ。@k@vS12/05/280500419.それで駄目なら、……仕方のないこと…。@k@vS12/05/280500420.ありがとうみんな。@k@vS12/05/280500421.本当にありがとう」",
+            "NamesENG": "Rika",
+            "TextENG": "``......That's true.@k@vS12/05/280500418. Everyone worked so hard.@k@vS12/05/280500419. But it still didn't work out...@k@vS12/05/280500420. Thank you.@k@vS12/05/280500421. Thank you all so much."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109490,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500422.",
+            "TextJPN": "「……多分、数多の世界と同じ死を迎えるのに、……こんなにも諦めがつく死は初めて。@k@vS12/05/280500423.………この死を代償に、私は本当に大切なことを学んだ」",
+            "NamesENG": "Rika",
+            "TextENG": "...I'm going to die again... but I've never felt so good about it.@k@vS12/05/280500423. ......I've learned so many things in this world.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109491,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS12/02/280200123.",
+            "TextJPN": "「梨花ちゃん。@k@vS12/02/280200124.違うの。@k@vS12/02/280200125.……奇跡が起こらなかった理由、レナは知ってるよ」",
+            "NamesENG": "Rena",
+            "TextENG": "``Rika-chan...@k@vS12/02/280200124. I know.@k@vS12/02/280200125. ...I know why the miracle didn't happen in this world.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109492,
+            "TextJPN": "レナはやさしく言ったが、顔に笑みは浮かんではいなかった。",
+            "TextENG": "Rena spoke gently, but she wasn't smiling at all."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109493,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS12/02/280200126.",
+            "TextJPN": "「ねぇ。@k@vS12/02/280200127.…………本当にみんな、………奇跡を起こそうと、信じてた？@k@vS12/02/280200128.　未来を望む時、全員が信じてなかったら、…奇跡は起こらないんだよ」",
+            "NamesENG": "Rena",
+            "TextENG": "``Hey.@k@vS12/02/280200127. .........Did everyone...... really believe that we could create a miracle?@k@vS12/02/280200128. If you're hoping for a future, but not everyone believes in it... then a miracle won't happen.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109494,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS12/01/280100224.",
+            "TextJPN": "「何言ってんだよレナ！！@k@vS12/01/280100225.　俺たちは結束した、団結した！@k@vS12/01/280100226.　運命を打ち破れることを疑わなかったぞ！！@k@vS12/01/280100227.　なぁ魅音！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``What are you saying, Rena?@k@vS12/01/280100225. We were united!@k@vS12/01/280100226. No one had doubts that we could overcome this fate!@k@vS12/01/280100227. Right, Mion?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109495,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS12/03/280300112.",
+            "TextJPN": "「うん。@k@vS12/03/280300113.そうだよレナ。@k@vS12/03/280300114.誰も運命に勝てないなんて思わなかったよ。@k@vS12/03/280300115.梨花ちゃんのこの運命を覆したいと思う誰もが、絶対に運命を打ち破れると信じてたよ」",
+            "NamesENG": "Mion",
+            "TextENG": "``Yeah.@k@vS12/03/280300113. He's right, Rena.@k@vS12/03/280300114. Everyone thought we could overcome it.@k@vS12/03/280300115. Everyone believed that we could!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109496,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS12/04/280400145.",
+            "TextJPN": "「……そうですわ。@k@vS12/04/280400146.…梨花ですら、それを信じましたのよ。@k@vS12/04/280400147.最後の最後に、梨花は私たちを信じて、運命を打ち破れると信じましたのよ…」",
+            "NamesENG": "Satoko",
+            "TextENG": "``...That's quite true.@k@vS12/04/280400146. Even Rika believed in it.@k@vS12/04/280400147. She finally believed that with our help, she could change her destiny...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109497,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS12/02/280200129.",
+            "TextJPN": "「もちろんレナも信じたよ。@k@vS12/02/280200130.……でも、信じなかった人がいると思うの」",
+            "NamesENG": "Rena",
+            "TextENG": "``I believed in it, too.@k@vS12/02/280200130. ...But I think there was someone who didn't believe.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109498,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS12/04/280400148.",
+            "TextJPN": "「だ、誰がです」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Who is that?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109499,
+            "TextJPN": "………え？　…誰が………？",
+            "TextENG": "......What? ...Who can it be.........?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109500,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS12/02/280200131.",
+            "TextJPN": "「……ねぇ、……あなた」",
+            "NamesENG": "Rena",
+            "TextENG": "``...Hey... you.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109501,
+            "TextJPN": "レナがみんなの輪の外にいる羽入に振り返って言った。",
+            "TextENG": "Rena turned to Hanyuu and asked her a question."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109502,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS12/02/280200132.",
+            "TextJPN": "「あなた、………信じてた？@k@vS12/02/280200133.　運命に打ち勝てるって信じててくれた？」",
+            "NamesENG": "Rena",
+            "TextENG": "``Did...... you believe?@k@vS12/02/280200133. Did you believe that we could overcome this fate?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109503,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS12/12/281100116.",
+            "TextJPN": "「……あ、……………あぅあぅあぅ…」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``...A......... Au au au.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109504,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS12/02/280200134.",
+            "TextJPN": "「触れることができなくても、喋ることができなくても。@k@vS12/02/280200135.信じることはできるんだよ。@k@vS12/02/280200136.あなたも信じてくれたなら、きっと奇跡が起きた」",
+            "NamesENG": "Rena",
+            "TextENG": "``Even if you can't talk to us or touch us,@k@vS12/02/280200135. you can still believe.@k@vS12/02/280200136. If you'd believed in us, the miracle would've happened.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109505,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS12/12/281100117.",
+            "TextJPN": "「………僕が信じて、何が変ったのでしょうか…。@k@vS12/12/281100118.僕は何もできない非力な存在なのです」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``......Would something really have changed if I believed...?@k@vS12/12/281100118. I'm a powerless existence. I can't do anything..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109506,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS12/12/281100119.",
+            "TextJPN": "「…僕は見ていることしかできない、受け入れることしかできない。@k@vS12/12/281100120.そんな僕が、…信じるだけで奇跡が起こせたというのですか……」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "...All I can do is watch and accept.@k@vS12/12/281100120. You're saying... that I could've made a miracle happen, just by believing...?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109507,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS12/01/280100228.",
+            "TextJPN": "「あぁ。起こせたな」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Yeah. You could have.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109508,
+            "TextJPN": "圭一がはっきりと言った。",
+            "TextENG": "Keiichi stated it clearly."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109509,
+            "TextJPN": "それは責任の転嫁ではなく、……まるで事実を言っているかのようだった。",
+            "TextENG": "He wasn't trying to blame her... he was just stating the truth."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109510,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS12/02/280200137.",
+            "TextJPN": "「そうだね。@k@vS12/02/280200138.あの時、こっちは６人だった。@k@vS12/02/280200139.向こうは７人だった。@k@vS12/02/280200140.あなたが信じてくれてたら、それだけで心は７つだった」",
+            "NamesENG": "Rena",
+            "TextENG": "``That's right.@k@vS12/02/280200138. There were six of us,@k@vS12/02/280200139. and there were seven of them.@k@vS12/02/280200140. If you'd believed along us, we would have numbered seven souls."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109511,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS12/02/280200141.",
+            "TextJPN": "「だったならきっと奇跡が起きた。@k@vS12/02/280200142.奇跡はね、触れたり喋ったりで起こすんじゃないんだよ。@k@vS12/02/280200143.信じる気持ちが起こすんだよ…」",
+            "NamesENG": "Rena",
+            "TextENG": "The miracle could've happened.@k@vS12/02/280200142. You don't make miracles happen by touching something or saying something.@k@vS12/02/280200143. You make them happen by believing.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109512,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS12/12/281100121.",
+            "TextJPN": "「………ぁ、…………ぁぅぁぅぁぅ…」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``......A... ...au au au...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109513,
+            "TextJPN": "羽入は、この悲しい結末が運命だったのではなく、@k…信じなかったこと、@kつまり裏返せば、この結末を受け容れた自分の弱さが招いたことを悟り始める。",
+            "TextENG": "Hanyuu had realized that this ending wasn't caused by fate.@k ...It was because she didn't believe.@k In other words, this happened because she was so weak as to accept this fate."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109514,
+            "TextJPN": "それに気付き、涙を再び零した…。",
+            "TextENG": "She started crying again..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109515,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS12/02/280200144.",
+            "TextJPN": "「名前も知らないあなた。@k@vS12/02/280200145.…あなたにも悲しみや辛さと戦う勇気が必要だった。@k@vS12/02/280200146.あなたも運命と戦う勇気が必要だった」",
+            "NamesENG": "Rena",
+            "TextENG": "``We don't even know your name.@k@vS12/02/280200145. ...But you still needed to be brave enough to fight this fear and pain.@k@vS12/02/280200146. You needed to have the courage to defeat fate."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109516,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS12/02/280200147.",
+            "TextJPN": "「あなたが望んだなら、みんなが望む世界にきっと行けた。@k@vS12/02/280200148.それがあなただけが信じなかっただけで辿り着けなかったなら、それはあなたの責任なの」",
+            "NamesENG": "Rena",
+            "TextENG": "If you'd believed, we'd be moving on to a bright future.@k@vS12/02/280200148. If your refusal to believe in it is the sole reason we couldn't reach it, then the responsibility is yours.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109517,
+            "TextJPN": "普段のレナからは想像もつかないくらいに冷たい言葉だった。",
+            "TextENG": "It was hard to believe Rena could say something so harsh."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109518,
+            "TextJPN": "きっと羽入の心を鋭利にえぐっているだろう。@k…でも、それはきっと羽入にも、そして私にも必要な言葉なのだ。",
+            "TextENG": "Her words were piercing Hanyuu's heart.@k But those words were necessary for me and for her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109519,
+            "TextJPN": "信じる心が奇跡を生む。",
+            "TextENG": "Only faith can create a miracle."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109520,
+            "TextJPN": "そんな綺麗事、誰だってどこかで聞いたことがある。",
+            "TextENG": "That sounds like something you might hear in a fairy tale."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109521,
+            "TextJPN": "でも、それを実践するのは簡単じゃない。",
+            "TextENG": "It's not easy to put it into action."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109522,
+            "TextJPN": "人は疑う。@k信じない。",
+            "TextENG": "People suspect others.@k They don't trust others."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109523,
+            "TextJPN": "期待しない方が気楽なのだ。",
+            "TextENG": "It's easier to not have hope."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109524,
+            "TextJPN": "それでも信じるのは、それだけでも大変な苦労。@kだからこそ、奇跡を生むのだ。",
+            "TextENG": "It's so difficult to believe.@k That's why faith can make miracles happen."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109525,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS12/12/281100122.",
+            "TextJPN": "「……僕は、触れないのですよ？@k@vS12/12/281100123.　喋れないのですよ？！@k@vS12/12/281100124.　そんな僕でも、信じれば奇跡が起こったというのですか…、…ううぅッ！！」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``...Don't you realize that I can't even touch people?@k@vS12/12/281100123. Don't you realize that I can't even speak to them?!@k@vS12/12/281100124. You still think I can make a miracle happen... just by believing in something?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109526,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS12/02/280200149.",
+            "TextJPN": "「…だって今、…こうしてレナとあなたは話しているよ。@k@vS12/02/280200150.私はあなたと言葉を交わしたのはこれが初めてだけれど。@k@vS12/02/280200151.いつもあなたが居るのを知っていた」",
+            "NamesENG": "Rena",
+            "TextENG": "``...Listen... you're talking to me right now.@k@vS12/02/280200150. I've never talked to you before.@k@vS12/02/280200151. But I always knew you were there."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109527,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS12/02/280200152.",
+            "TextJPN": "「あなたに言葉をどうすれば掛けられるか考えていたよ。@k@vS12/02/280200153.私たちが楽しく遊んでいる時、あなただけが輪の外から眺めていたことを知っていたんだよ」",
+            "NamesENG": "Rena",
+            "TextENG": "I was always thinking about how I could communicate with you.@k@vS12/02/280200153. I always knew you were watching when we were all having fun hanging out together.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109528,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS12/12/281100125.",
+            "TextJPN": "「だ、……だってッ！！@k@vS12/12/281100126.　輪の中に入りたくても、…僕は誰にも見えないし、話しかけられないし…！！@k@vS12/12/281100127.　僕を見たらみんなバケモノだといいますです。@k@vS12/12/281100128.僕はもう二度とバケモノと言われたくないのです！！」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``B.... But!!@k@vS12/12/281100126. Even if I want to be involved, you guys can't see me, or hear my voice...!!@k@vS12/12/281100127. You'll think that I'm a monster or something.@k@vS12/12/281100128. I don't want people to think of me as a monster!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109529,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS12/01/280100229.",
+            "TextJPN": "「誰が言うよそんなこと。@k@vS12/01/280100230.俺たちと一緒にいたなら俺たちは仲間だ！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``We'd never think of you that way.@k@vS12/01/280100230. If you're with us, you're our friend!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109530,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS12/04/280400149.",
+            "TextJPN": "「そうですわよ、仲間のことをバケモノ呼ばわりなんて失礼しちゃいますわ！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Yeah, we wouldn't call our friend a monster!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109531,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS12/03/280300116.",
+            "TextJPN": "「バケモノかどうかは容姿じゃなくて心で決まるんだよ。@k@vS12/03/280300117.ねぇ詩音」",
+            "NamesENG": "Mion",
+            "TextENG": "``It's your heart that determines whether you're a monster or not.@k@vS12/03/280300117. Right, Shion?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109532,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS12/06/280600063.",
+            "TextJPN": "「そういうことです」",
+            "NamesENG": "Shion",
+            "TextENG": "``Indeed."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109533,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS12/06/280600064.",
+            "TextJPN": "「まーその見地から言えば私の方がよっぽどバケモノですよ」",
+            "NamesENG": "Shion",
+            "TextENG": "I guess I'm more like a monster in that sense.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109534,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS12/12/281100129.",
+            "TextJPN": "「…あ、頭に、角が生えていても僕はバケモノとは呼ばれないのでしょうか…」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``...You won't call me a monster even though I have horns on my head...?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109535,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS12/02/280200154.",
+            "TextJPN": "「身体的特徴でバケモノなんて誰も呼ばないよ。@k@vS12/02/280200155.むしろキュートなくらいだよ」",
+            "NamesENG": "Rena",
+            "TextENG": "``We won't call you that just because of the way you look.@k@vS12/02/280200155. They're actually cute, you know!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109536,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS12/01/280100231.",
+            "TextJPN": "「あはははは、レナに気をつけろ～。@k@vS12/01/280100232.変に気に入られるとお持ち帰りされるぞー！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Ahahahaha! Watch out for Rena!@k@vS12/01/280100232. She might try and take you home!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109537,
+            "TextJPN": "気付けば、いつの間にか私もみんなと一緒にいて、私の体を囲んでいた。",
+            "TextENG": "I realized then that I was standing with everyone, looking down at my own body."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109538,
+            "TextJPN": "……そうか。@k…私は、死んだのか。",
+            "TextENG": "...I see.@k ...I'm finally dead."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109539,
+            "TextJPN": "私の足元には血塗れの自分がいた。",
+            "TextENG": "I looked at my bloody body by my feet."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109540,
+            "TextJPN": "鷹野の玩具になっていることが相変わらず不快だったが、…今やそれは私の抜け殻でしかない。",
+            "TextENG": "It upset me that Takano was still enjoying the torture, but the body that remained was nothing but a shell..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109541,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS12/01/280100233.",
+            "TextJPN": "「大丈夫か、梨花ちゃん」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Are you okay, Rika-chan?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109542,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500424.",
+            "TextJPN": "「……みー。@k@vS12/05/280500425.死んだ人に大丈夫かとは変な話なのです」",
+            "NamesENG": "Rika",
+            "TextENG": "``......Meep.@k@vS12/05/280500425. Don't you think it's a bit strange to ask that question to a dead person?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109543,
+            "TextJPN": "みんなが苦笑いする。",
+            "TextENG": "Everyone smiled wryly."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109544,
+            "TextJPN": "……死にこんな慈しみを覚えたのは初めてだった。",
+            "TextENG": "...It's my first time feeling so much love in death."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109545,
+            "TextJPN": "みんながすでに死んでいた。",
+            "TextENG": "Everyone is already dead."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109546,
+            "TextJPN": "だから、私もその仲間に加われたのがとても嬉しく感じられた。",
+            "TextENG": "That's why I feel so happy to be dead. To join them."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109547,
+            "TextJPN": "すると、世界が次第に薄暗くなり、……私を切り刻む光景が足元のずーっと下に遠退いていった。",
+            "TextENG": "Suddenly, the world got darker... and my body started to sink downward..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109548,
+            "TextJPN": "自分が消えて、無になるのを理解する。",
+            "TextENG": "I could feel myself disappearing..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109549,
+            "TextJPN": "みんなとつなぐ手の感触だけが心の拠り所だった。",
+            "TextENG": "I still had the sensation of my friends' hands on mine."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109550,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS12/01/280100234.",
+            "TextJPN": "「行こうぜ。@k@vS12/01/280100235.みんな」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Let's go,@k@vS12/01/280100235. everyone.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109551,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS12/02/280200156.",
+            "TextJPN": "「そうだね、行こ行こ」",
+            "NamesENG": "Rena",
+            "TextENG": "``Yeah, let's go."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109552,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS12/02/280200157.",
+            "TextJPN": "「あなたもみんなという言葉に含まれてるんだよ。@k@vS12/02/280200158.…ほら、いつまでも泣いてないで、行こ」",
+            "NamesENG": "Rena",
+            "TextENG": "You're also one of us.@k@vS12/02/280200158. ...Come on, stop crying, and let's go.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109553,
+            "TextJPN": "もう視覚のない世界だったけれど、…なぜか目に浮かぶ。",
+            "TextENG": "My vision had gone dark, but somehow I could still see..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109554,
+            "TextJPN": "レナが羽入に手を差し伸べ、それにおずおずと手を伸ばす羽入が見えた気がした。",
+            "TextENG": "Rena offered her hand to Hanyuu, and Hanyuu slowly took it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109555,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500426.",
+            "TextJPN": "「……羽入。@k@vS12/05/280500427.あなたが私と出会う前にどんな悲しいことがあったか知らないけれど。@k@vS12/05/280500428.みんなは絶対にあなたを受け容れてくれるわ」",
+            "NamesENG": "Rika",
+            "TextENG": "``...Hanyuu.@k@vS12/05/280500427. I don't know what sad experiences you had before we met...@k@vS12/05/280500428. But I'm sure my friends will accept you.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109556,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS12/12/281100130.",
+            "TextJPN": "「…………あぅあぅあぅ…。@k@vS12/12/281100131.……僕がいても、楽しいでしょうか…。@k@vS12/12/281100132.僕はみんなに受け容れてもらえるのでしょうか……」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``.........Au au au...@k@vS12/12/281100131. ...Is it still going to be fun if I'm involved...?@k@vS12/12/281100132. Are you sure they'll accept me...?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109557,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS12/05/280500429.",
+            "TextJPN": "「うん。@k@vS12/05/280500430.だから、おいで」",
+            "NamesENG": "Rika",
+            "TextENG": "``Yes.@k@vS12/05/280500430. So come along with us.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109558,
+            "TextJPN": "レナと羽入の手が、重なる。",
+            "TextENG": "Rena touched Hanyuu's hand."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109559,
+            "TextJPN": "その手にみんなが手を重ねてくれている気がした。@k……重ねる手があればだけど。",
+            "TextENG": "It felt like everyone else laid their hands on top too.@k ...If only they had hands to do so."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109560,
+            "TextJPN": "行こう、羽入。",
+            "TextENG": "Let's go, Hanyuu."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109561,
+            "TextJPN": "悲しみを受け容れよう。",
+            "TextENG": "Let's accept this sorrow."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109562,
+            "TextJPN": "だから喜びも共にできる。",
+            "TextENG": "So we can embrace joy as well."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109563,
+            "TextJPN": "あなたも信じよう、私たちの行きたい未来を。",
+            "TextENG": "Believe in the bright future that's waiting for us."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109564,
+            "TextJPN": "だから奇跡が起こせる。@kそこに至れる。@k…ね？",
+            "TextENG": "The miracle will happen.@k We will obtain it.@k ...Okay?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 109565,
+            "TextJPN": "うん、と。@k羽入は確かに頷いてくれた…。",
+            "TextENG": "Yes.@k Hanyuu said, with a definite nod..."
+        }
+    ]
+}

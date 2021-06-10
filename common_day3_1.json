@@ -1,0 +1,2727 @@
+{
+    "Main": [
+        {
+            "type": "SAVEINFO",
+            "category": 0,
+            "JPN": "3日目",
+            "ENG": "Day 3"
+        },
+        {
+            "type": "SAVEINFO",
+            "category": 1,
+            "JPN": "#1 レナたちと散歩",
+            "ENG": "#1 / Stroll With Rena"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19036,
+            "TextJPN": "休日の朝をのんびり過ごしていたら、すっかり遅れてしまった。",
+            "TextENG": "I took it a little too easy on the morning of my day off. I was totally late."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19037,
+            "TextJPN": "今日はレナと魅音に雛見沢をいろいろと案内してもらう日だ。",
+            "TextENG": "Today was the day Rena and Mion were going to show me around Hinamizawa."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19038,
+            "TextJPN": "……なのに出掛け間際にお袋め、帰りにお使いなんか頼みやがって……。",
+            "TextENG": "...And to top it off, that pesky mom of mine pushing a return-journey errand on me just as I'm trying to leave the house..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19039,
+            "TextJPN": "待ち合わせ場所ではすでにレナと魅音が待っていた。",
+            "TextENG": "Rena and Mion were already waiting at the meeting place."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19040,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300077.",
+            "TextJPN": "「圭ちゃん、遅いぞー！」",
+            "NamesENG": "Mion",
+            "TextENG": "``Kei-chan, you're late!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19041,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01280.",
+            "TextJPN": "「わ、悪い悪い！　責めるのは昨夜の面白かった特番に言ってくれ！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``S-Sorry, sorry! The show I was watching last night was really interesting! Blame that!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19042,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300078.",
+            "TextJPN": "「ほー、女の子との待ち合わせに遅刻して、言い訳がそれってわけぇ？！」",
+            "NamesENG": "Mion",
+            "TextENG": "``Ooh～ So that's your excuse for being late and keeping two girls waiting!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19043,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200076.",
+            "TextJPN": "「……魅ぃちゃんだって今、来たばかりなんだよ」",
+            "NamesENG": "Rena",
+            "TextENG": "``...Mii-chan, you just got here yourself.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19044,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300079.",
+            "TextJPN": "「あっひゃっひゃっひゃ……☆@k@vS19/03/990300080.　昨夜の密着２４時間、面白かったし、ねぇ？」",
+            "NamesENG": "Mion",
+            "TextENG": "``Ahahahahaha～!...☆@k@vS19/03/990300080. Last night's episode of 'A Day in the Life Of' was interesting, wasn't it?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19045,
+            "TextJPN": "てめーも同罪だぞ。",
+            "TextENG": "She was just as guilty as me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19047,
+            "TextJPN": "とりあえず、魅音は昨日のことをすっかりと忘れているようだった。……いや、本当は忘れていないのかもしれないけど、表向きはいつも通りだ。",
+            "TextENG": "It seems like Mion completely forgot about yesterday, but maybe she's just being her normal self."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19048,
+            "TextJPN": "それでも、一応謝ったほうがいいかな？　……なんて考えあぐねていると、レナは俺の袖をそっと引きながら、苦笑交じりに首を振る。",
+            "TextENG": "Still, should I apologize now? While I'm pondering, Rena gently pulls my sleeve and shakes her head with bitter smile."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19049,
+            "TextJPN": "せっかくの楽しい一日、妙にぶり返してギクシャクするのも勿体ないしな……まぁ、いいか。",
+            "TextENG": "Maybe it wouldn't be worth ruining this nice day. Well, it will work somehow."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19050,
+            "TextJPN": "……それはともかくとして、次に目を引いたのはレナの持ってきた、やたらと重そうなボストンバッグだ。",
+            "TextENG": "Aside from that, what caught my eye was the bag that she brought."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19051,
+            "TextJPN": "レナの言うには、今日のピクニック（？）のお昼に食べる、お弁当とのことだったが……お弁当？！",
+            "TextENG": "Rena said she has lunchobxes for today's picnic (?)... Lunchboxes?!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19052,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01280_1.",
+            "TextJPN": "「……ま、まさかこのバッグいっぱいに弁当が詰まってるのか？」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``You're not saying that this bag is filled with lunchboxes, right?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19053,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200087.",
+            "TextJPN": "「あっははは～♪」",
+            "NamesENG": "Rena",
+            "TextENG": "``Hehe～♪``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19054,
+            "TextJPN": "俺の問いかけに笑顔で答えるレナと対照的に、魅音は呆れ顔でお手上げポーズ。",
+            "TextENG": "In contrast to Rena, who answers my question with a smile, Mion poses with a frightened face."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19055,
+            "TextJPN": "レナの料理好きと、何事も『徹底する』性格は決して嫌いじゃないが……マジかよ。",
+            "TextENG": "I don't hate Rena's enthustiastic approach to cooking, or her ``thorough`` personality, but ... seriously."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19056,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200077.",
+            "TextJPN": "「…そ、そんな、…大変じゃなかったから…気にしないでよ……ね☆」",
+            "NamesENG": "Rena",
+            "TextENG": "``...I-It was nothing... so don't worry about it... Okay?☆``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19057,
+            "TextJPN": "レナはやたらと重そうなボストンバックを持っていた。",
+            "TextENG": "Rena was carrying a pretty heavy-looking handbag."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19058,
+            "TextJPN": "一体…なんだ？",
+            "TextENG": "What... is that?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19059,
+            "TextJPN": "その疑問に魅音は目配せで答えてくれた。",
+            "TextENG": "Mion answered my unspoken question with a wink."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19060,
+            "TextJPN": "そう、レナは本当に弁当を作ってきてしまったのだ！",
+            "TextENG": "That's right. Rena really did make a picnic!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19061,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300081.",
+            "TextJPN": "「圭ちゃん、あのあとレナ、@k@vS19/03/990300082.大張り切りだったらしいよ？！」",
+            "NamesENG": "Mion",
+            "TextENG": "``Kei-chan, after you left...@k@vS19/03/990300082. Rena pulled out all the stops!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19062,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01290.",
+            "TextJPN": "「別に俺がけしかけたわけじゃないだろ…！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``It's not like I forced her to do it...!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19063,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200077.",
+            "TextJPN": "「…そ、そんな、…大変じゃなかったから…気にしないでよ……ね☆」",
+            "NamesENG": "Rena",
+            "TextENG": "``...I-It was nothing... so don't worry about it... Okay?☆``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19064,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300083.",
+            "TextJPN": "「昨夜から今朝まであのテンションらしいよ？！@k@vS19/03/990300084.　責任取れんの？！」",
+            "NamesENG": "Mion",
+            "TextENG": "``She's been like this since last night, you know!?@k@vS19/03/990300084. Can you take responsibility for this!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19065,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01300.",
+            "TextJPN": "「わ、わかった…。俺も男だ。責任は…取る！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``All right, all right... I am a man, after all. I'll take responsibility.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19066,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200078.",
+            "TextJPN": "「……え、……せ、せ…責任って…？！　何だろ！　何だろ！」",
+            "NamesENG": "Rena",
+            "TextENG": "``...Huh...? ...R-Re... responsibility...!?  For what!? For what!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19067,
+            "TextJPN": "俺と魅音はゆっくりとレナに振り返り、そしてやたらと重たそうなボストンバックに目線を落とした。",
+            "TextENG": "As we both turned around slowly to look at Rena, our gazes drifted downwards to the massive handbag she was carrying."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19068,
+            "TextJPN": "あの中身が弁当箱とは、常識なら考え難い。",
+            "TextENG": "It didn't seem logically feasible that it would be entirely filled with lunchboxes."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19069,
+            "TextJPN": "…だが相手はレナなのだ！",
+            "TextENG": "...Except this was Rena we were talking about here!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19070,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200079.",
+            "TextJPN": "「……２ｋｇくらい…かな？」",
+            "NamesENG": "Rena",
+            "TextENG": "``About two kilos... I guess?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19071,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300085.",
+            "TextJPN": "「レナね、荷物持つときよっこらしょ、って言ってた。@k@vS19/03/990300086.……５ｋｇ」",
+            "NamesENG": "Mion",
+            "TextENG": "``When Rena was picking it up, I could see she was struggling a bit...@k@vS19/03/990300086. I say five.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19072,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200080.",
+            "TextJPN": "「…そ、それはオーバー！@k@vS19/02/990200081.　圭一君、男の子だから！@k@vS19/02/990200082.　きっといっぱい食べるだろうと思って…たくさん…ね☆@k@vS19/02/990200083.　……あはは…もう行こ！　…よっこらしょっと！」",
+            "NamesENG": "Rena",
+            "TextENG": "``...You're exaggerating!@k@vS19/02/990200081. Keiichi-kun is a boy, after all!@k@vS19/02/990200082. I thought he could probably eat a lot, so... I made a lot... Okay?☆@k@vS19/02/990200083. ...Ahaha... Let's get going! ...Heave ho!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19073,
+            "TextJPN": "レナの持ち上げ方は、とてもその中身が弁当とは考えられないものだった。",
+            "TextENG": "Just from the way she was lifting it up, I couldn't believe the only things in there were lunch boxes."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19074,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01310.",
+            "TextJPN": "「…訂正。俺も５ｋｇ…」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...Correction. I say five kilos, too...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19075,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300087.",
+            "TextJPN": "「手伝いはするけど。…全部食べるんだからね！@k@vS19/03/990300088.　レナを悲しませたら許さないよ？！」",
+            "NamesENG": "Mion",
+            "TextENG": "``I'll help out. ...But all of it needs to be eaten!@k@vS19/03/990300088. I won't forgive you if you make Rena sad, got it!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19076,
+            "TextJPN": "俺に今できる努力は、少しでも運動してお腹を空かせることのようだった…。",
+            "TextENG": "The only thing I could do at that moment was exercise a bit to make myself hungrier..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19077,
+            "TextJPN": "適当に賑やかさを楽しんだ後、俺たちはのんびりとお散歩を開始した。",
+            "TextENG": "Having finished with the pleasantries, we began our leisurely stroll."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19078,
+            "TextJPN": "朝のやわらかな日差しの中、優雅にお散歩…。",
+            "TextENG": "A care-free walk, bathed in the gentle morning sunlight."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19079,
+            "TextJPN": "都会に住んでた頃には考えられないくらい健康的だ。",
+            "TextENG": "I couldn't have even imagined something so wholesome existed during my time in the city."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19080,
+            "TextJPN": "何しろど田舎だ。",
+            "TextENG": "These were the boonies, after all."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19081,
+            "TextJPN": "無粋な休日出勤のサラリーマンもいない。",
+            "TextENG": "No slovenly desk jockeys trudging to work on the weekends out here."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19082,
+            "TextJPN": "本当にのどかで静かな…いいところなのだ。",
+            "TextENG": "It really was a nice place... peaceful and quiet."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19083,
+            "TextJPN": "いくら寒村とは言え、歩いていれば人とも出会う。",
+            "TextENG": "As sparsely populated as the village was, you could still run into people just by walking around."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19084,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300089.",
+            "TextJPN": "「あ、こんにちはー」",
+            "NamesENG": "Mion",
+            "TextENG": "``Ah, good day.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19085,
+            "NamesJPN": "村人",
+            "PreTextTags": "@vS19/09/HR_TKA00000.",
+            "TextJPN": "「こんにちは。@k@vS19/09/HR_TKA00010.あら、そちらは……確か…前原くんだったかしら？」",
+            "NamesENG": "Villager",
+            "TextENG": "``Good day.@k@vS19/09/HR_TKA00010. Oh, you would be... Maebara-kun, I believe?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19086,
+            "TextJPN": "２人は人とすれ違う度にあいさつする。",
+            "TextENG": "My two companions exchanged greetings with everybody we ran across."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19087,
+            "TextJPN": "しかもすれ違う人はみんな俺の名前を知っているのだ。",
+            "TextENG": "All of these passersby even knew my name."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19088,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01320.",
+            "TextJPN": "「なんで俺ってこんなに有名人なんだ？！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``When did I become this famous!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19089,
+            "TextJPN": "３人にすれ違い、３人とも知っているとなると、さすがに怪訝に思わずにはいられない。",
+            "TextENG": "We passed three people and, when all three of them knew me, I started to feel a bit paranoid."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19090,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300090.",
+            "TextJPN": "「あはは、悲しいかなぁ。@k@vS19/03/990300091.雛見沢は人が少ないからね。みーんな顔見知りなんだよね」",
+            "NamesENG": "Mion",
+            "TextENG": "``Ahaha, it's a bit sad to say.@k@vS19/03/990300091. Everyone knows everyone since there are so few people here in Hinamizawa.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19091,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01330.",
+            "TextJPN": "「つまりなんだ。@k@vS19/01/HR_KEI01340.知らない顔が歩いてれば、それは自動的に新しく引っ越してきた前原さん、てことになるわけか」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``So that means...@k@vS19/01/HR_KEI01340. when an unfamiliar face walks by, they automatically assume it's that Maebara fella who just moved here?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19092,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300092.",
+            "TextJPN": "「うん。そういうことになるね」",
+            "NamesENG": "Mion",
+            "TextENG": "``Yeah. That's how it works out.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19093,
+            "TextJPN": "いくら寒村の消去法とは言え……侮り難し。",
+            "TextENG": "It was a process of elimination you could only pull off in a place like this... but it was quite effective."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19094,
+            "TextJPN": "今度からは一層、素行に気をつけねばなるまい。",
+            "TextENG": "From now on, I'd better make sure to maintain a good reputation."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19095,
+            "TextJPN": "うかつに書店でアイドルの写真集でも眺めてた日にゃ、次の日には村人全員に色ボケ男のレッテルを貼られているに違いない…！！",
+            "TextENG": "The day I'm discovered accidentally gawking at a dirty magazine in the bookstore... I can expect all the villagers labeling me as a letch by the next day...!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19096,
+            "TextJPN": "恐るべし雛見沢…！",
+            "TextENG": "Hinamizawa is not to be trifled with...!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19097,
+            "TextJPN": "しかも恐怖はまだ続く。",
+            "TextENG": "That's not the end of this nightmare."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19098,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200084.",
+            "TextJPN": "「もちろんわかるよ。@k@vS19/02/990200085.最初に会ったのが牧野輪店の竹蔵おじさん。@k@vS19/02/990200086.趣味は盆栽と尺八なんだよ」",
+            "NamesENG": "Rena",
+            "TextENG": "``Of course I know them.@k@vS19/02/990200085. The first person we met was old man Takezou from the Makino bike shop.@k@vS19/02/990200086. His hobbies are bonsai and playing the flute.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19099,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300093.",
+            "TextJPN": "「次が乾物屋の次男の大介くん。@k@vS19/03/990300094.趣味は狙撃で将来の夢は超Ａ級スナイパーだとか」",
+            "NamesENG": "Mion",
+            "TextENG": "``Next we met the grocer's second son, Daisuke-kun.@k@vS19/03/990300094. His hobby is sharpshooting, and he hopes to be an ace sniper in the future.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19100,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300095.",
+            "TextJPN": "「それで、今の人は入江診療所の看護師のみよさん。@k@vS19/03/990300096.趣味は野鳥の観察と撮影だって」",
+            "NamesENG": "Mion",
+            "TextENG": "``And the person we just met was Miyo-san, the nurse from the clinic.@k@vS19/03/990300096. Her hobbies are birdwatching and photography.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19101,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01350.",
+            "TextJPN": "「……すれ違った全員の名前までわかるのかよ…。@k@vS19/01/HR_KEI01360.プロフィールまで？！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...You know the names of everyone we passed by...@k@vS19/01/HR_KEI01360. and even their profiles!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19102,
+            "TextJPN": "俺が驚いて見せると、魅音とレナは顔を見合わせクスリと笑い合った。",
+            "TextENG": "Seeing my surprise, Mion and Rena exchanged looks and burst into laughter."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19103,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300097.",
+            "TextJPN": "「まぁねぇ。@k@vS19/03/990300098.ここいらは都会みたいにご近所付き合いが希薄じゃないからねぇ」",
+            "NamesENG": "Mion",
+            "TextENG": "``Well, yeah.@k@vS19/03/990300098. We're not like the city, where people hardly know their neighbors.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19104,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01370.",
+            "TextJPN": "「試しに聞いてみよう。@k@vS19/01/HR_KEI01380.今ここにいる俺は誰だ？」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Then let's try it out.@k@vS19/01/HR_KEI01380. You there, who am I?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19105,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200087.",
+            "TextJPN": "「あははは。@k@vS19/02/990200088.前原圭一く～ん。@k@vS19/02/990200089.いじわるなこと言うけど本当はやさしい照れ屋さん」",
+            "NamesENG": "Rena",
+            "TextENG": "``Ahahaha.@k@vS19/02/990200088. You're Keiichi Maebara.@k@vS19/02/990200089. You say some mean things but you're actually a kind, shy person.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19106,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300099.",
+            "TextJPN": "「転校してきてようやく３週間。@k@vS19/03/990300100.趣味は昼寝。@k@vS19/03/990300101.最近、トランクス派に転向。@k@vS19/03/990300102.…したよね？」",
+            "NamesENG": "Mion",
+            "TextENG": "``It's been three weeks since you transferred here.@k@vS19/03/990300100. Your hobby is taking afternoon naps.@k@vS19/03/990300101. Lately, you switched over to wearing boxers.@k@vS19/03/990300102. ...Didn't you?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19107,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01390.",
+            "TextJPN": "「もういいもういい！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``That's enough, that's enough!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19108,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200090.",
+            "TextJPN": "「……と、とらんくす……」",
+            "NamesENG": "Rena",
+            "TextENG": "``...B-Boxers...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19109,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01400.",
+            "TextJPN": "「それもいい！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Enough of that!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19110,
+            "TextJPN": "ここでは一切の隠し事はできないらしい。",
+            "TextENG": "Apparently there is absolutely nothing you can keep hidden here."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19111,
+            "TextJPN": "恐るべし…雛見沢！",
+            "TextENG": "Hinamizawa was not a place to be trifled with!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19112,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01410.",
+            "TextJPN": "「これじゃあさ、俺のための案内ってより、俺のお披露目みたいだな…」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``This feels more like you guys are showing me off rather than showing me around.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19113,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300103.",
+            "TextJPN": "「そうだね」",
+            "NamesENG": "Mion",
+            "TextENG": "``That's right.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19114,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300104.",
+            "TextJPN": "「うちらさ、これだけ賑やかに練り歩いてたからね。@k@vS19/03/990300105.みんな思うんじゃない？@k@vS19/03/990300106.　圭ちゃんも雛見沢に馴染んでくれたんだーって！」",
+            "NamesENG": "Mion",
+            "TextENG": "``We're parading around like this, after all.@k@vS19/03/990300105. It'll give everyone a chance to see for themselves.@k@vS19/03/990300106. That Kei-chan is fitting right in here in Hinamizawa!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19115,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200091.",
+            "TextJPN": "「雛見沢は過疎だから。@k@vS19/02/990200092.…村中みんなが新しい仲間を歓迎してくれてるの」",
+            "NamesENG": "Rena",
+            "TextENG": "``The population in Hinamizawa is shrinking.@k@vS19/02/990200092. ...So the villagers welcome anybody who's new here.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19116,
+            "TextJPN": "そんなバカな。と笑い飛ばそうとしたがやめておくことにした。",
+            "TextENG": "I thought about brushing it off with something to the effect of ``You're kidding me,`` but I held back."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19117,
+            "TextJPN": "自分がこれまで、ご町内に新しく引っ越してきた人に挨拶をしたことなどあっただろうか…？",
+            "TextENG": "Had I ever greeted someone who'd just moved into the city like this before...?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19118,
+            "TextJPN": "それを思えば２人の言うことは、決して冗談ではないのかもしれない。",
+            "TextENG": "Thinking about that made me believe what they said wasn't a joke at all."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19119,
+            "TextJPN": "再び誰かとすれ違った。",
+            "TextENG": "We passed another person."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19120,
+            "TextJPN": "そして、やはり同じように声をかけられる。",
+            "TextENG": "Of course, we were called out to again the same way."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19121,
+            "NamesJPN": "村人",
+            "PreTextTags": "@vS19/00/villB99001.",
+            "TextJPN": "「あぁらこんにちは。@k@vS19/00/villB99002.仲良しそうでいいわねぇ！」",
+            "NamesENG": "Villager",
+            "TextENG": "``Oh my, good day.@k@vS19/00/villB99002. It's wonderful seeing you getting along!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19122,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200093.",
+            "TextJPN": "「藤嶋さんちのおばさんだよ。@k@vS19/02/990200094.こんにちは～！」",
+            "NamesENG": "Rena",
+            "TextENG": "``This lady here is Fujishima-san.@k@vS19/02/990200094. Good day～!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19123,
+            "NamesJPN": "村人",
+            "PreTextTags": "@vS19/00/villB99003.",
+            "TextJPN": "「あぁら前原くん、両手に花でいいわねぇ！@k@vS19/00/villB99004.　どう？@k@vS19/00/villB99005.　生活はもう慣れた？」",
+            "NamesENG": "Villager",
+            "TextENG": "``Oh my, Maebara-kun! How wonderful for you, having a lovely girl on each arm!@k@vS19/00/villB99004. How are you?@k@vS19/00/villB99005. Getting used to life here?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19124,
+            "TextJPN": "俺は都会的な、社交儀礼的な言葉をぐっと飲みこみ、強く頷いて見せた。",
+            "TextENG": "Instead of regurgitating a prepared response like I would have in the city, I responded with an emphatic nod."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19125,
+            "TextJPN": "おばさんは元気がよくていいわね、と笑いかけてくれた。",
+            "TextENG": "The old woman chuckled, voicing her appreciation of how energetic I was."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19126,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300107.",
+            "TextJPN": "「グッド！」",
+            "NamesENG": "Mion",
+            "TextENG": "``Good!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19127,
+            "TextJPN": "振り返ると魅音とレナがウィンクをしてくれた。",
+            "TextENG": "As I looked back over to Rena and Mion, they gave me a wink."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19128,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200095.",
+            "TextJPN": "「…で、ね☆@k@vS19/02/990200096.　そろそろお昼にしないかな？　…かな？」",
+            "NamesENG": "Rena",
+            "TextENG": "``...So, now then.☆@k@vS19/02/990200096. About time to have lunch, maybe? ...Maybe?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19129,
+            "TextJPN": "レナが最高の笑顔と共に、魅音と二人して忘れようとしていた時間の訪れを告げた。",
+            "TextENG": "Rena's brilliant smile signaled the approach of an event that both Mion and I were trying to forget."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19130,
+            "TextJPN": "二人して顔を見合わせる。",
+            "TextENG": "We both looked at each other."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19131,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01420.",
+            "TextJPN": "「……俺も男だ。努力はする。@k@vS19/01/HR_KEI01430.…だが量が多過ぎる！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...I'm a man. I'll do what I can.@k@vS19/01/HR_KEI01430. ...But it's just too much!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19132,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300108.",
+            "TextJPN": "「…よし圭ちゃん、ここはおじさんに任せなさい」",
+            "NamesENG": "Mion",
+            "TextENG": "``...It's fine, Kei-chan. Leave it to this old man.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19133,
+            "TextJPN": "…魅音がこれほど頼もしく見えたことはない。",
+            "TextENG": "...Mion has never seemed as reliable as she does right now."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19134,
+            "TextJPN": "さすがはクラス委員長！",
+            "TextENG": "I'd expect no less from the Class Representative!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19135,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300109.",
+            "TextJPN": "「レナ、どうせ食べるならさ、見晴らしのいいところで食べない？」",
+            "NamesENG": "Mion",
+            "TextENG": "``Rena, if we're going to eat, we might as well go somewhere with a good view.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19136,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200097.",
+            "TextJPN": "「……わぁあ……うん！@k@vS19/02/990200098.　それいい。賛成～！」",
+            "NamesENG": "Rena",
+            "TextENG": "``...Uwaa... Yes!@k@vS19/02/990200098. Good idea. I agree～!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19137,
+            "TextJPN": "魅音の提案に、嬉しそうに頷くレナ。",
+            "TextENG": "Rena nodded her head happily in response to Mion's proposal."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19138,
+            "TextJPN": "石造りの階段を登りきると、そこは想像した通りの感じの神社だった。",
+            "TextENG": "Cresting the top of a stone stairway, a shrine drawn straight out of my imagination appeared before us."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19139,
+            "TextJPN": "年季が入った様子ながらも、小奇麗に落ち葉が清掃されていて清潔感があった。",
+            "TextENG": "It had worn down a bit through the years, but the fallen leaves had been swept up, giving it a tidy feeling."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19140,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200099.",
+            "TextJPN": "「ここはね@bふるで.@<古手@>神社って言うの。@k@vS19/02/990200100.多分、見晴らしが一番いいところかな！」",
+            "NamesENG": "Rena",
+            "TextENG": "``This here is the Furude Shrine.@k@vS19/02/990200100. It's probably the place with the best view around!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19141,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300110.",
+            "TextJPN": "「ここの場所、よく覚えといてね！@k@vS19/03/990300111.　もうすぐここでお祭りがあるんだから」",
+            "NamesENG": "Mion",
+            "TextENG": "``This place. Be sure to remember it!@k@vS19/03/990300111. On our next break, a festival will be held here.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19142,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01440.",
+            "TextJPN": "「へぇ。祭りにしちゃちょっと早いシーズンだよな？」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Ahh. Isn't it a bit too early in the season for a festival?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19143,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300112.",
+            "TextJPN": "「綿流しは夏祭りじゃなくてね、昔は冬の終わりを喜ぶお祭りだったらしいよ」",
+            "NamesENG": "Mion",
+            "TextENG": "``The Watanagashi isn't a summer festival. Long ago, it used to be a celebration of the end of winter.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19144,
+            "TextJPN": "お祭りは夏にやるものと決めてかかった自分の都会かぶれが恥ずかしい。",
+            "TextENG": "I was embarrassed for assuming that festivals had to be held in the summer."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19145,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200101.",
+            "TextJPN": "「さて、…弁当を広げて………と………」",
+            "NamesENG": "Rena",
+            "TextENG": "``Now then... spread out the lunch boxes... and there...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19146,
+            "TextJPN": "色とりどりの弁当箱がシートの上に次々と並べられて行く。",
+            "TextENG": "Various colored lunch boxes were placed one after the other on top of the plastic sheet."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19147,
+            "TextJPN": "美味そうな匂いは認める。@kレナの手作りだ。@k絶対美味いに決まってる。",
+            "TextENG": "It sure did smell delicious.@k  It was Rena's home cooking.@k It went without saying that it would be delicious."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19148,
+            "TextJPN": "…だが完食は本当に可能なのだろうか？！",
+            "TextENG": "...But is it even possible to finish all of this!?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19149,
+            "TextJPN": "なぁ魅音！　見晴らしがいいだけじゃあとても無理だぜ？！？！",
+            "TextENG": "Hey, Mion! It'll take more than just a good view to get this all down, you know!?!?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19150,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/990500015.",
+            "TextJPN": "「…こんにちはです」",
+            "NamesENG": "Rika",
+            "TextENG": "``...Good afternoon.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19151,
+            "TextJPN": "梨花ちゃんと沙都子だった。",
+            "TextENG": "It was Rika-chan and Satoko."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19152,
+            "TextJPN": "…どうしてここに？！",
+            "TextENG": "...Why are they here!?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19153,
+            "TextJPN": "魅音が俺ににやっと笑って見せる。",
+            "TextENG": "Mion grinned over at me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19154,
+            "TextJPN": "そ、そうか、魅音の秘策とはつまり、人海戦術のことだったのか…！",
+            "TextENG": "I-I see... this was her secret plan... to power in numbers...!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19155,
+            "TextJPN": "感謝するぜ魅音！",
+            "TextENG": "You have my thanks, Mion!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19156,
+            "TextJPN": "ここまでお膳立てしてくれればあとは俺の方が得意だ！",
+            "TextENG": "Following up when all the pieces are in place is my specialty!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19157,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/990400032.",
+            "TextJPN": "「騒がしいから来てみれば……これは何ですのーッ？！？！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``We just had to come since there was such a commotion...  What is the meaning of this!?!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19158,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01450.",
+            "TextJPN": "「見りゃわかるだろ。@k@vS19/01/HR_KEI01460.これからランチタイムだ。@k@vS19/01/HR_KEI01470.ビュッフェスタイルだ。@k@vS19/01/HR_KEI01480.レナの手作り弁当に@bしたつづみ.@<舌鼓@>だ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Take a look.@k@vS19/01/HR_KEI01460. It's time for lunch.@k@vS19/01/HR_KEI01470. Buffet style.@k@vS19/01/HR_KEI01480. A handmade gourmet meal by Rena.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19159,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/990400033.",
+            "TextJPN": "「そんなの見ればわかるでございますわぁ！！@k@vS19/04/990400034.　どうして人様の庭でゴザなんか広げてますのー？！？！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``I can see that much!!@k@vS19/04/990400034. Why have you laid out a tarp on our property!?!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19160,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01490.",
+            "TextJPN": "「神社は公共の場所だぞ。勝手に独占するな」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``The temple is public grounds. It's not yours.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19161,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/990500016.",
+            "TextJPN": "「…圭一の言う通りですよ。@k@vS19/05/990500017.みんなのお庭にしますです」",
+            "NamesENG": "Rika",
+            "TextENG": "``...Keiichi is right.@k@vS19/05/990500017. This is everyone's property.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19162,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01500.",
+            "TextJPN": "「くぅ～…やっぱり梨花ちゃんはいい子だなぁ…！！@k@vS19/01/HR_KEI01510.　座りなそこ！@k@vS19/01/HR_KEI01520.　一緒に食べよう！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Wow～...Rika-chan is such a good girl...!!@k@vS19/01/HR_KEI01510. Have a seat!@k@vS19/01/HR_KEI01520. Eat with us!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19163,
+            "TextJPN": "梨花ちゃんに場所を空けると、俺はさっさと沙都子に背を向ける。",
+            "TextENG": "After opening up a spot for Rika-chan, I promptly turned my back on Satoko."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19164,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/990400035.",
+            "TextJPN": "「ちょーっとお待ちなさいな！@k@vS19/04/990400036.　私はどこに座ればいいんですのー？！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Hold on one second!@k@vS19/04/990400036. Where is my spot!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19165,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01530.",
+            "TextJPN": "「お前に座る場所はないし、食べる分もない！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``No spot for you and nothing for you to eat!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19166,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200102.",
+            "TextJPN": "「…だ、大丈夫だよ、…沙都子ちゃんの分もちゃんとあるから…、」",
+            "NamesENG": "Rena",
+            "TextENG": "``...D-Don't worry... There's some for you, too...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19167,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01540.",
+            "TextJPN": "「ない！　沙都子の分も俺がいただく！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``None! I'll eat all of hers!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19168,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/990400037.",
+            "TextJPN": "「そんなことは許せませんのー！！！　梨花ぁ！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``I will not allow that!!! Rikaa!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19169,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/990500018.",
+            "TextJPN": "「…はいお箸です」",
+            "NamesENG": "Rika",
+            "TextENG": "``...Here, chopsticks.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19170,
+            "TextJPN": "沙都子と俺は争うように弁当箱に飛びかかった。",
+            "TextENG": "Both Satoko and I leapt at the boxes, having it out with each other."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19171,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300113.",
+            "TextJPN": "「いやはや…圭ちゃん、乗せるのうまいわホント。@k@vS19/03/990300114.…才能、あるのかもしれない」",
+            "NamesENG": "Mion",
+            "TextENG": "``Man, really... Kei-chan, you're really good at leading people on.@k@vS19/03/990300114. ...You might have a talent for this.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19172,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200103.",
+            "TextJPN": "「はいお皿。魅ぃちゃんも梨花ちゃんも」",
+            "NamesENG": "Rena",
+            "TextENG": "``Have a plate. One for Mii-chan and Rika-chan, too.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19173,
+            "TextJPN": "レナが紙皿とお箸をひょいひょいと差し出す。",
+            "TextENG": "Rena whipped out pairs of chopsticks and paper plates."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19174,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/990500019.",
+            "TextJPN": "「…ボクたちもがんばらないとなくなってしまうです」",
+            "NamesENG": "Rika",
+            "TextENG": "``...If we don't hurry, it'll all be eaten up.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19175,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300115.",
+            "TextJPN": "「そうだね。よし！@k@vS19/03/990300116.　参戦といくかな？！」",
+            "NamesENG": "Mion",
+            "TextENG": "``That's right. Okay!@k@vS19/03/990300116. Shall we commence this battle!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19176,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200104.",
+            "TextJPN": "「いっぱい食べてね！@k@vS19/02/990200105.　ちゃんとみんなの分、あるから☆」",
+            "NamesENG": "Rena",
+            "TextENG": "``Please eat a lot!@k@vS19/02/990200105. There's enough for everyone.☆``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19177,
+            "TextJPN": "レナはそう言いながら水筒の蓋を開ける。",
+            "TextENG": "Rena said, as she opened up a thermos."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19178,
+            "TextJPN": "今更ながら。俺はこの弁当が５人を想定して作られていることに気付く。",
+            "TextENG": "Just then, I realized that this lunch was made under the assumption that five people would be eating."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19179,
+            "TextJPN": "それでも多いことに変わりはないのだが、意味はまったく異なるのだった。",
+            "TextENG": "It didn't change how much there was, but the implication behind it was different."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19180,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/990400038.",
+            "TextJPN": "「そのハンバーグは渡しませんわぁぁあ！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``I will not allow you to have this hamburger!!``"
+        },
+        {
+            "type": "SELECT",
+            "metadata": "5s, 3s, @0x0000, 4095n,",
+            "count": 3,
+            "titleJPN": "おかず争奪",
+            "choice1JPN": "かわす",
+            "choice2JPN": "ブロック",
+            "choice3JPN": "先に食べる",
+            "titleENG": "Side dish competition",
+            "choice1ENG": "Dodge",
+            "choice2ENG": "Block",
+            "choice3ENG": "Eat first",
+            "Explanation": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19181,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01550.",
+            "TextJPN": "「げはッ！！　肘は反則だろ沙都子！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Hurk!! Using your elbow is against the rules, Satoko!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19182,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/990400039.",
+            "TextJPN": "「襟首を掴むのも反則でございますー！！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Grabbing the back of my collar is also against the rules!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19183,
+            "TextJPN": "激しい戦いは、豊富な運動量と肘によるブロックで序盤、沙都子が優位に立つかに見えたが、箸さばきの致命的な差が形勢を一気にひっくり返す！",
+            "TextENG": "It was a tough battle. Blocking with her full momentum and an elbow in the opening moves, Satoko appeared to have the upper hand. But the difference in our proficiency with chopsticks proved to be fatal and gave me the upper hand!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19184,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01560.",
+            "TextJPN": "「北条沙都子ッ敗れたりぃいいぃいいぃ！！！　がぶッ！！！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Satoko Houjou has been bested!!! NOM!!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19185,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400068.",
+            "TextJPN": "「うわぁ～～ん！！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Woah～!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19186,
+            "TextJPN": "俺は沙都子と仲良く同時に喉を詰めて窒息、ひっくり返ってもがく。",
+            "TextENG": "Satoko and I amiably began choking at the same time, falling backwards and spasming."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19187,
+            "TextJPN": "喉に詰まったにも拘らず、頭を撫でて介抱する梨花ちゃん。",
+            "TextENG": "Rika-chan patted me on the head to clear it, even though it was actually stuck in my throat."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19188,
+            "TextJPN": "レナはそれを見て、わたわたと興奮し赤面して光悦の表情を浮かべている。",
+            "TextENG": "Seeing that made Rena blush and breathe heavily in excitement. It was almost like flowers were floating all around her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19189,
+            "TextJPN": "そのレナの犯罪性の高い発言をいさめる魅音。",
+            "TextENG": "Mion advised Rena to refrain from saying anything that could get her locked up."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19190,
+            "TextJPN": "それはいつもと同じ食事の光景だ。",
+            "TextENG": "This is how our meals usually go."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19191,
+            "TextJPN": "これからもこれと同じ光景が続くなら。@k…俺はどんな努力もいとわないだろう。",
+            "TextENG": "...I'd do anything in my power.@k Just so things could stay like this."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19192,
+            "TextJPN": "勢いよく沙都子は腕を振り上げ、エルボーチョップの姿勢に入る。",
+            "TextENG": "The intense battle calmed, and finally everyone reached a point where they could begin talking."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19193,
+            "TextJPN": "俺はその気配を背後に感じて、振り向きざまにブロック！　――するつもりだったが、",
+            "TextENG": "I felt a presence behind me, so I turned around to block any incoming attack! ...I was going to do that, but..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19194,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/VTX_keiichi1001.",
+            "TextJPN": "「――うわっとっ？！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...Waaaah?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19195,
+            "TextJPN": "沙都子の突進があまりにも鋭かったので、とっさに俺は上体をそらしてひらり、とかわした。",
+            "TextENG": "Satoko's lunge was so sharp that I quickly turned my upper body to dodge it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19196,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/VTX_satoko1001.",
+            "TextJPN": "「なっ？！　……んきゃあぁぁあぁっっ？？！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Whaa?! Gyaaaaaaaahh??!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19197,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/VTX_rena1001.",
+            "TextJPN": "「きゃぁあぁっっ？！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Waaaaahh?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19198,
+            "TextJPN": "どんがらがっしゃんしゃ――――んっっ！！！",
+            "TextENG": "Bam, pow, woosh!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19199,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/VTX_keiichi1002.",
+            "TextJPN": "「…………おい」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...Ey...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19200,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/VTX_rena1002.",
+            "TextJPN": "「…………はぅ」",
+            "NamesENG": "Rena",
+            "TextENG": "``...Hau...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19201,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/VTX_mion1001.",
+            "TextJPN": "「…………えと」",
+            "NamesENG": "Mion",
+            "TextENG": "``...Uh...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19202,
+            "TextJPN": "予想外の大惨事の様子に、俺たち一同凍りついたように固まってしまう。",
+            "TextENG": "At the sight of the unexpected catastrophe, we all froze."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19203,
+            "TextJPN": "…被害は弁当箱の一つだけで済んだとはいえ、そのあおりを沙都子は文字通り顔一面に食らっていた。",
+            "TextENG": "...Even though the damage was only to one of the lunch boxes, it literally hit Satoko's face."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19204,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/VTX_rika1001.",
+            "TextJPN": "「…………みぃ。大丈夫なのですか？」",
+            "NamesENG": "Rika",
+            "TextENG": "``...Miip. Are you okay?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19205,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/VTX_satoko1002.",
+            "TextJPN": "「………………」",
+            "NamesENG": "Satoko",
+            "TextENG": "``......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19206,
+            "TextJPN": "沈黙の中、…おそるおそる硬直から抜け出した梨花ちゃんが、…弁当箱に顔を思いっきり突っ込んだ沙都子の肩をぽん、と叩く。",
+            "TextENG": "In the silence, Rika-chan came out of her rigidness with apprehension and patted Satoko on the shoulder, who had her face in the lunch box."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19207,
+            "TextJPN": "その肩は、…小刻みに震えていた。",
+            "TextENG": "Her shoulders were... quivering in small movements."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19208,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/VTX_satoko1003.",
+            "TextJPN": "「…………ふ、ふぁぁあぁあぁんっっ！！@k@vS19/04/VTX_satoko1004.　圭一さんの極悪非道者ぉぉ～～っっ！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``...Waaaaaaa!!@k@vS19/04/VTX_satoko1004. Keiichi's a villainous, outrageous person!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19209,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/VTX_keiichi1003.",
+            "TextJPN": "「――って、俺か？@k@vS19/01/VTX_keiichi1004.　今のは俺のせいなのかっ？！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``What, me?@k@vS19/01/VTX_keiichi1004. It's my fault?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19210,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/VTX_mion1002.",
+            "TextJPN": "「まー、そうかもね。@k@vS19/03/VTX_mion1003.客観的かつ合理的に考えて、１００％そうかもね」",
+            "NamesENG": "Mion",
+            "TextENG": "``Well, maybe.@k@vS19/03/VTX_mion1003. Thinking objectively and rationally, it may be 100% your fault.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19211,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/VTX_keiichi1005.",
+            "TextJPN": "「いや、それ主観入りまくりの判断だろうがっ！@k@vS19/01/VTX_keiichi1006.　――んがっ？！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``No, that's a subjective judgment!@k@vS19/01/VTX_keiichi1006. Wha~?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19212,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/VTX_rena1003.",
+            "TextJPN": "「はぅ～！@k@vS19/02/VTX_rena1004.　沙都子ちゃんを泣かすような悪人は、レナが月に代わって成敗なんだよ～！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Hau~!@k@vS19/02/VTX_rena1004. The evil person who makes Satoko cry is defeated by Rena on behalf of the moon~!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19213,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/VTX_keiichi1007.",
+            "TextJPN": "「な、なんでそこで月が出てくるんだ…？@k@vS19/01/VTX_keiichi1008.　がくっ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Why is the Moon coming out here...?@k@vS19/01/VTX_keiichi1008. Muh.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19214,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/VTX_rika1002.",
+            "TextJPN": "「濡れ衣を着せられてお仕置きされる圭一、とてもかわいそかわいそなのです。@k@vS19/05/VTX_rika1003.にぱ～♪」",
+            "NamesENG": "Rika",
+            "TextENG": "``Keiichi being falsely accused and punished is very cute and adorable!@k@vS19/05/VTX_rika1003. Nipah~♪``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19215,
+            "TextJPN": "いや、梨花ちゃん！　『濡れ衣』だってわかってるなら、俺の弁護をしてくれよ！　俺だけ超アウェーってのは納得いかんぞっ！！",
+            "TextENG": "No, Rika! If you know that it's a false accusation, then come to my defense! I don't understand why I'm being singled out again!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19216,
+            "TextJPN": "…そんなこんなで、神社の境内で開かれた昼食会は賑やかに盛り上がっていった。",
+            "TextENG": "And so the picnic held in the precincts of the shrine became a lively affair."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19217,
+            "TextJPN": "勢いよく沙都子は腕を振り上げ、エルボーチョップの姿勢に入る。",
+            "TextENG": "The intense battle calmed, and finally everyone reached a point where they could begin calmly talking."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19218,
+            "TextJPN": "俺はその気配を背後に感じて、振り向きざまにブロック！　――するつもりだったが、",
+            "TextENG": "I felt presence behind me, and turned around and blocked attack! ...I was going to do that, but..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19219,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/VTX_keiichi1011.",
+            "TextJPN": "「――なっ？@k@vS19/01/VTX_keiichi1012.　ぐふぁっ？！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...Wha?@k@vS19/01/VTX_keiichi1012. Buah?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19220,
+            "TextJPN": "沙都子の突進があまりにも鋭かったので、俺の交差した腕はあっさりと崩されてしまい、小さくとも尖った肘鉄が俺の眉間をごすッ！！　と打ち抜いた。",
+            "TextENG": "Satoko's thrust was so sharp that my crossed arms were easily broken, and a small but quick elbow strike went right between my eyes. I'm not sure what's going on."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19221,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/VTX_rena1011.",
+            "TextJPN": "「け、圭一くんっ？！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Keiichi-kun?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19222,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/VTX_mion1011.",
+            "TextJPN": "「あらら……、完全に白目向いちゃってる。@k@vS19/03/VTX_mion1012.急所に直撃って感じだね」",
+            "NamesENG": "Mion",
+            "TextENG": "``Oh my... He is now completely blind.@k@vS19/03/VTX_mion1012. It's like a direct hit to the vitals.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19223,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/VTX_rika1011.",
+            "TextJPN": "「……会心の一撃なのです」",
+            "NamesENG": "Rika",
+            "TextENG": "``...It's a coup de grace.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19224,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/VTX_satoko1011.",
+            "TextJPN": "「なっ？！@k@vS19/04/VTX_satoko1012.　だ、大丈夫でございますかっっ？！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``What?!@k@vS19/04/VTX_satoko1012. Will he be okay?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19225,
+            "TextJPN": "沙都子も、そこまでクリーンヒットが決まるとは思っていなかったのか、慌てふためいて俺の元へと駆け寄る。",
+            "TextENG": "Satoko didn't expect the hit to be that clean either, and rushed over to me in a panic."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19226,
+            "TextJPN": "そしてぺしぺし、と俺の頬を叩くが、完璧なまでに気を失ってしまった俺には、そんな呼びかけはまったく耳にも届かなかった。",
+            "TextENG": "She tapped me on the cheek, but I was so completely out of it that I didn't even hear her call."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19227,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/VTX_rena1012.",
+            "TextJPN": "「さ、沙都子ちゃん……。@k@vS19/02/VTX_rena1013.いくらなんでも、やりすぎだと思うけど……」",
+            "NamesENG": "Rena",
+            "TextENG": "``Sa-Satoko-chan...@k@vS19/02/VTX_rena1013. This was too much...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19228,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/VTX_satoko1013.",
+            "TextJPN": "「わ、私だって……。@k@vS19/04/VTX_satoko1014.まさか、こんなに見事に決まるとは思ってもみませんでしてよっ？」",
+            "NamesENG": "Satoko",
+            "TextENG": "``But I...@k@vS19/04/VTX_satoko1014. I didn't expect it to turn out so strong, you know?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19229,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/VTX_mion1013.",
+            "TextJPN": "「……振り向かなきゃ良かったの。@k@vS19/03/VTX_mion1014.ええカッコ見せようとするから、まったく……」",
+            "NamesENG": "Mion",
+            "TextENG": "``He shouldn't have turned around.@k@vS19/03/VTX_mion1014. He was just trying to look cool, that's all.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19230,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/VTX_rika1012.",
+            "TextJPN": "「とりあえず、どうしますですか？@k@vS19/05/VTX_rika1013.　ボクとしてはお弁当の割り当てが増えて、とてもほくほくなのですが」",
+            "NamesENG": "Rika",
+            "TextENG": "``What do we do for the time being?@k@vS19/05/VTX_rika1013. Personally, I'm very happy that we have more lunch boxes.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19231,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/VTX_mion1015.",
+            "TextJPN": "「いや、……せめて圭ちゃんが起きてくるまで、食べるペースは手加減してあげようよ。@k@|@y@vS19/03/VTX_mion1016.……こら梨花ちゃん、小枝で圭ちゃんをつつかないっ！」",
+            "NamesENG": "Mion",
+            "TextENG": "``No, let's adjust the pace of eating until Kei-chan gets up at least.@k@|@y@vS19/03/VTX_mion1016. Rika-chan, don't peck Kei-chan with a twig.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19232,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/VTX_rika1014.",
+            "TextJPN": "「にぱ～☆」",
+            "NamesENG": "Rika",
+            "TextENG": "``Nipah~☆``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19233,
+            "TextJPN": "………………。",
+            "TextENG": "............"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19234,
+            "TextJPN": "……俺が意識を取り戻したのは、それから１０数分後だった。おかげで、めぼしいおかずの大半が消えうせてしまっていた……。",
+            "TextENG": "......I regained consciousness a dozen minutes later. Most of the side dishes had disappeared......"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19235,
+            "TextJPN": "激しい戦いもようやく落ち着き、@kようやくみんなにも会話をするゆとりが生まれたようだった。",
+            "TextENG": "The intense battle calmed,@k and finally everyone reached a point where they could begin talking."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19236,
+            "TextJPN": "水筒からお茶をもらい、軽く一息をつく。",
+            "TextENG": "Receiving tea from the thermos, I let out a small sigh."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19237,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01570.",
+            "TextJPN": "「日本語ってヤツはさ、どうしてこう味に対する賛辞が少ないんだろうな！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``I do wonder why there are so few words in Japanese to praise how something tastes!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19238,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300117.",
+            "TextJPN": "「食事中の@bだんらん.@<団欒@>って考えがそもそも近代に入ってからだからじゃない？」",
+            "NamesENG": "Mion",
+            "TextENG": "``Isn't it because the idea of togetherness during a meal didn't begin until the modern era?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19239,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200106.",
+            "TextJPN": "「昔の人は無言で食事を済ませたそうだし。@k@vS19/02/990200107.…作る人もちょっぴり寂しかったろうね」",
+            "NamesENG": "Rena",
+            "TextENG": "``It seems that, long ago, people ate in silence.@k@vS19/02/990200107. ...It must have made the people preparing the food a bit sad, don't you think?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19240,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/990400041.",
+            "TextJPN": "「きっと昔の人は食べるのに忙しくて、味を褒める暇もなかったのですわ！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``It's probably because the people back then were so busy eating that they didn't have the time to compliment the flavor!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19241,
+            "TextJPN": "そりゃーお前だ。",
+            "TextENG": "That's just you."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19242,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200108.",
+            "TextJPN": "「でもね、おいしいの一言だけでもうれしいよ。@k@vS19/02/990200109.…苦労の甲斐があったかな、って」",
+            "NamesENG": "Rena",
+            "TextENG": "``But, you know, just hearing that it's good makes me happy.@k@vS19/02/990200109. ...That my effort was worth it, I mean.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19243,
+            "TextJPN": "そう言って、ぽ、と頬を紅潮させる。",
+            "TextENG": "She blushed a little as she said that."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19244,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/990500020.",
+            "TextJPN": "「……おいしいです」",
+            "NamesENG": "Rika",
+            "TextENG": "``...It was delicious.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19245,
+            "TextJPN": "実に絶妙なタイミングで、梨花ちゃんの『賛辞』がレナを直撃した。",
+            "TextENG": "With absolutely perfect timing, Rika-chan struck Rena directly with ``praise.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19246,
+            "TextJPN": "真っ直ぐな瞳。レナを悩殺する無垢な表情。",
+            "TextENG": "She looked straight at her with an expression of bewitching innocence."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19247,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200110.",
+            "TextJPN": "「………は、」",
+            "NamesENG": "Rena",
+            "TextENG": "``...Auh...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19248,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01580.",
+            "TextJPN": "「…は？」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...Auh?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19249,
+            "TextJPN": "意味不明な発声のあと、レナの頭から@|@y『ぽん！』と音がして煙の輪っかが上った。",
+            "TextENG": "After Rena uttered an unintelligible noise...@|@y A ring of smoke rose from her head with an audible ``poof!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19250,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200111.",
+            "TextJPN": "「はぅ～！！@k@vS19/02/990200112.　…り、…りり…梨花ちゃん、お、お持ち帰り…じゃなくて！@k@vS19/02/990200113.　ありがと～！！！！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Hau～!!@k@vS19/02/990200112. ...Ri... Ri-Ri... Rika-chan, I-I'm gonna take you home... No, I mean...!@k@vS19/02/990200113. Thank you!!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19251,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/990500021.",
+            "TextJPN": "「……本当においしかったですよ」",
+            "NamesENG": "Rika",
+            "TextENG": "``...It was really delicious.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19252,
+            "TextJPN": "レナは真っ赤になって興奮しながら、梨花ちゃんを抱きしめるとぎゅいぎゅいと音がするくらい頬擦りをしている。",
+            "TextENG": "Rena flushed red with excitement, embracing Rika-chan and rubbing her cheek against her so hard you could almost hear it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19253,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200114.",
+            "TextJPN": "「り、梨花ちゃんには褒めてもらったお礼に…じゃ～ん！@k@vS19/02/990200115.　これをサービスね！」",
+            "NamesENG": "Rena",
+            "TextENG": "``T-To reward Rika-chan for her praise... Ta-da!@k@vS19/02/990200115. These are special!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19254,
+            "TextJPN": "りんごのうさぎさんに『さく！』と楊枝を刺すと、『びし！』と梨花ちゃんに差し出した。",
+            "TextENG": "Two apple rabbits! After sticking toothpicks into them, she thrust them toward Rika-chan."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19255,
+            "TextJPN": "梨花ちゃんがそれを受け取ると急激に場のムードがおかしな方向に転がり始める。",
+            "TextENG": "After Rika-chan accepted them, the mood suddenly shifted in a bizzare way."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19256,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01590.",
+            "TextJPN": "「…なんだよ沙都子。@k@vS19/01/HR_KEI01600.その挑戦的な目は」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...What is it, Satoko?@k@vS19/01/HR_KEI01600. What's with that defiant look?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19257,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/990400042.",
+            "TextJPN": "「皆さんには、レナさんのりんごを獲得できるだけの賛辞が用意できまして？」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Has everyone prepared proper praise to receive apples from Rena-san?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19258,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300118.",
+            "TextJPN": "「強気じゃんよ。@k@vS19/03/990300119.ボキャ貧のあんたにどんな賛辞が思い付くってぇの？！」",
+            "NamesENG": "Mion",
+            "TextENG": "``Don't push yourself.@k@vS19/03/990300119. What kind of praise can you think up with your weak vocab!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19259,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/990400043.",
+            "TextJPN": "「ほほほ…では。@k@vS19/04/990400044.ごらんあそばせ」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Hohoho...Well then.@k@vS19/04/990400044. Allow me to show you.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19260,
+            "TextJPN": "沙都子は俺と魅音にもう一度挑戦的な眼差しを送ると、急に声色を変えた。",
+            "TextENG": "After Satoko flashed Mion and me a defiant look, she changed the tone of her voice suddenly."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19261,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/990400045.",
+            "TextJPN": "「あ、…あのね！@k@vS19/04/990400046.　………レナお姉ちゃんのお弁当、沙都子もおいしかったよ…」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Uh... Um, hey!@k@vS19/04/990400046. ...So, Rena-oneechan's lunch? Satoko thought it was yummy, too...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19262,
+            "TextJPN": "沙都子は上目遣いに舌っ足らずな口調ではにかんで見せた。",
+            "TextENG": "Satoko looked up at her poutily while talking cutesy."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19263,
+            "TextJPN": "な！　…何が賛辞だ！！@k　こんなの泣き落としならぬ萌え落としじゃないか？！",
+            "TextENG": "Wha! ...How was that praise!?@k That's not even persuasion by tears, that's persuasion by cuteness, isn't it!?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19264,
+            "TextJPN": "だがレナには特効作用だ。",
+            "TextENG": "This is a Rena-limited special skill."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19265,
+            "TextJPN": "赤面して頭部をぐるんぐるんと回している…！！",
+            "TextENG": "She blushed and her head spun, waving around in circles...!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19266,
+            "TextJPN": "だ、騙されるなレナぁあぁあ！！！！",
+            "TextENG": "D-Don't fall for it, Renaaa!!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19267,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200116.",
+            "TextJPN": "「…は、…はぅ～ッ！！」",
+            "NamesENG": "Rena",
+            "TextENG": "``...Aw... hau!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19268,
+            "TextJPN": "もちろん無理な話だ。レナは沙都子にがばっと抱き付くと頬擦りをしだす。",
+            "TextENG": "Of course, that was asking for the impossible. Rena glomped Satoko and began rubbing her cheek against her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19269,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200117.",
+            "TextJPN": "「かぁいいかぁいい！！@k@vS19/02/990200118.　……沙都子ちゃんもかぁいい…よぅ…☆　……お持ち帰り…はぅ！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Kyuuuteee!!@k@vS19/02/990200118. ...Satoko is so... kyute...☆ ...take you home...hau!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19270,
+            "TextJPN": "すちゃ、さく！　びし！　沙都子にもリンゴのうさぎさんが進呈される。",
+            "TextENG": "Swish, stab! Push! Satoko was also presented with apple rabbits."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19271,
+            "TextJPN": "そのうさぎさんを頬張ると、沙都子は俺と魅音に再び挑戦的な眼差しを向けた。",
+            "TextENG": "After stuffing them into her mouth, she looked over at Mion and me again with that defiant gaze."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19272,
+            "TextJPN": "レナ撃沈所要時間、わずか５秒。",
+            "TextENG": "It took only five seconds to take down Rena."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19273,
+            "TextJPN": "き…汚ぇ！　そんな手ありなのか…ッ！！",
+            "TextENG": "T... That's unfair! To think she had such a trick...!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19274,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/990400047.",
+            "TextJPN": "「悔しければレナさんにご褒美がもらえるような賛辞をお考えあそばせ～！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``If it upsets you so much, why not reward Rena-san with some praise～?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19275,
+            "TextJPN": "くっそぉおぉおおぉ！！@k　卑劣なワザを！！",
+            "TextENG": "Daaaamniiit!!@k That was a dirty trick!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19276,
+            "TextJPN": "第一それ、賛辞じゃねえし！！！",
+            "TextENG": "First of all, that wasn't even praise!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19277,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300120.",
+            "TextJPN": "「沙都子。@k@vS19/03/990300121.それで勝てたつもりとはね。@k@vS19/03/990300122.あんたらの底の浅いワザとはわけが違うものを見せてあげようじゃない？！」",
+            "NamesENG": "Mion",
+            "TextENG": "``Satoko.@k@vS19/03/990300121. You think you've won with that, don't you?@k@vS19/03/990300122. How about I show you guys something much better than your superficial gimmicks!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19278,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01610.",
+            "TextJPN": "「そ、それは頼もしいぜ魅音！@k@vS19/01/HR_KEI01620.　そりゃあどんなワザなんだ？！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Th-That sounds great, Mion!@k@vS19/01/HR_KEI01620. What kind of trick is it!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19279,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300123.",
+            "TextJPN": "「やるのは圭ちゃん」",
+            "NamesENG": "Mion",
+            "TextENG": "``Kei-chan is going to be the one who does it.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19280,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01630.",
+            "TextJPN": "「はあッ？！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Whaa!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19281,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/990400048.",
+            "TextJPN": "「をっほっほ！　見せてもらおうではございませんかぁ。@k@vS19/04/990400049.年増の足掻きをッ！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Ho ho ho! Why don't I have you show me, then?@k@vS19/04/990400049. The writhing of an old maid!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19282,
+            "TextJPN": "…魅音の提案する作戦は苛烈だった。",
+            "TextENG": "...The plan of attack she suggested was wicked."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19283,
+            "TextJPN": "だが沙都子に勝つにはこれしかない！！",
+            "TextENG": "But it was the only thing we had to beat Satoko!!"
+        },
+        {
+            "type": "SELECT",
+            "metadata": "8s, 4s, @0x0000, 4095n,",
+            "count": 2,
+            "titleJPN": "弁当対決！",
+            "choice1JPN": "ここは、レナの好みの少女マンガチックに…",
+            "choice2JPN": "誠意が一番、素直に「ありがとう」",
+            "titleENG": "Lunch Box Showdown!",
+            "choice1ENG": "Here I have something from Rena's favorite manga...",
+            "choice2ENG": "Sincerity is the best, say \\\"Thank you\\\" in honesty",
+            "Explanation": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19284,
+            "TextJPN": "俺はお茶をすすり終えると、とても自然に、和やかに切り出した。@k…完璧に。",
+            "TextENG": "After sipping my tea, I started talking, very naturally and calmly.@k ...Perfectly."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19285,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01640.",
+            "TextJPN": "「…本当においしいよな。@k@vS19/01/HR_KEI01650.…これってさ、全部手作りなのかい？」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...It really is good, isn't it?@k@vS19/01/HR_KEI01650. ...This is all freshly made, right?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19286,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200119.",
+            "TextJPN": "「あ、うぅん。@k@vS19/02/990200120.……実はね、これ…ほとんど冷凍ものなの…」",
+            "NamesENG": "Rena",
+            "TextENG": "``Ah, no.@k@vS19/02/990200120. ...Actually, most of it... almost all of it was frozen stuff...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19287,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01660.",
+            "TextJPN": "「じゃあレナの手作りのって、どれだい？」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Then which ones did you make fresh?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19288,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200121.",
+            "TextJPN": "「…ぇ…え？@k@vS19/02/990200122.　……ぇぇと………その………は、恥ずかしいな……教えなきゃだめ？　………どうしても？」",
+            "NamesENG": "Rena",
+            "TextENG": "``...Uh...@k@vS19/02/990200122.  Umm...  Well... I-It's embarrassing... Do I really have to say? ...Must I?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19289,
+            "TextJPN": "レナは男の人と手作り弁当という相乗効果に、陶酔した表情になっていく。",
+            "TextENG": "From the synergy of boy plus handmade lunchbox, her expression had melted into euphoria."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19290,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01670.",
+            "TextJPN": "「…………わかるよ。これ、でしょ？」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...I already know. This one... right?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19291,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200123.",
+            "TextJPN": "「ぇ？　………ぇえ…？！　………はぅぅ……！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Uh? ...Uh huh...!? ...Uuu...!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19292,
+            "TextJPN": "レナはこれ以上ないくらいに赤面しながら、信じられない…という表情を浮かべる。",
+            "TextENG": "Rena turned an even deeper shade of red, the words ``I can't believe it!`` practically written on her face."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19293,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200124.",
+            "TextJPN": "「な…なんでわかるかな…？！@k@vS19/02/990200125.　…かな？　…はぅ……レ、レナの手作り……、」",
+            "NamesENG": "Rena",
+            "TextENG": "``H... How can you tell...!?@k@vS19/02/990200125. ...How? ...Uu... Th-That I made it...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19294,
+            "TextJPN": "もちろん、事前に魅音から聞いてある。",
+            "TextENG": "Of course, Mion had told me beforehand."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19295,
+            "TextJPN": "…ここまでは完璧だ！！",
+            "TextENG": "...It's been perfect so far!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19296,
+            "TextJPN": "ここで俺はちょっとはにかんだフリをしてから一心拍を置く。@k…次で…トドメだ。",
+            "TextENG": "After acting like I was shy, I waited a beat.@k ...Next would be... the finisher."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19297,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01680.",
+            "TextJPN": "「レナの、…匂いがしたから」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``It had... your smell.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19298,
+            "TextJPN": "場がシン、とする。",
+            "TextENG": "Silence enveloped the area."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19299,
+            "TextJPN": "…レナは真っ赤になったまま、しばらくの間、身じろぎひとつできない。",
+            "TextENG": "...Rena, face still completely red, froze solid."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19300,
+            "TextJPN": "ひぃ…と短く悲鳴を上げ沙都子も赤面する。@kもちろん俺もだ…。",
+            "TextENG": "With a small yelp, Satoko also blushed.@k Of course I did, too..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19301,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01690.",
+            "TextJPN": "「…レナの手作りの…りんごのうさぎさんが食べたいな………なんて…、」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...I sure would like... to try one of Rena's handmade apple rabbits......... or something...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19302,
+            "TextJPN": "いくら沙都子への対抗意識とは言え……俺は越えてはならない一線を軽く１０ｍはオーバーしたように思う…。",
+            "TextENG": "Even if this was all because I was competing against Satoko... It felt like I had crossed the line by a good 9 yards, I think..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19303,
+            "TextJPN": "………と、その時、",
+            "TextENG": "...Then, at that moment..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19304,
+            "TextJPN": "ど、しゃぁあぁッ！！！",
+            "TextENG": "Bwoooosh!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19305,
+            "TextJPN": "それはタッパーいっぱいのうさぎさんだった。",
+            "TextENG": "It was a Tupperware container filled with rabbits."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19306,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200126.",
+            "TextJPN": "「た、たたた食べてね圭一くん？！？@k@vS19/02/990200127.　いいいい、いっぱいあるんだよいいい…ッ！！」",
+            "NamesENG": "Rena",
+            "TextENG": "``P-P-P-Please eat some, Keiichi-kun!?!@k@vS19/02/990200127. Th-Th-Th-There's plenty for you...!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19307,
+            "TextJPN": "ぐはぁッ？！　俺は瞬時に、口に十数個のりんごを詰め込まれ卒倒する。",
+            "TextENG": "Huwarkh!?  Instantly, dozens of the apples were shoved into my mouth, knocking me over."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19308,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200128.",
+            "TextJPN": "「はは、ははい、ぁ、あ～んしてぇえぇ…けけけ圭一くん……けけけけけ…☆」",
+            "NamesENG": "Rena",
+            "TextENG": "``O-O-Okay. S... Say ahhh... K-K-K-Keiichi-kun... ...Tehehehehe...☆``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19309,
+            "TextJPN": "強制膝枕の上、俺の口にはまだまだりんごが押し込まれていく。",
+            "TextENG": "My head was forcibly laid upon her lap and even more apples were shoved into my mouth."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19310,
+            "TextJPN": "奇声を発しながら次々とりんごを…俺の口に……次々………りん………ご………",
+            "TextENG": "While she was squealing, one apple after another... was forced into my mouth......more and more......ap......ples......"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19311,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01700.",
+            "TextJPN": "「@bど.@<ほ@>、@bどうだ沙都子.@<ほうははほほ@>…、@b俺たちの.@<ほへたひの@>…@b勝ちだ.@<はひは@>……」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``@bHow 'bout them apples, Satoko?.@<H-Howhahouhut hem ahholes, Hahoho@>... @bLooks like.@<Hooks haik>... @bwe win.@<hee hin>...@<Looks like we win.@>``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19312,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300124.",
+            "TextJPN": "「圭ちゃん、殉職見事なり！！@k@vS19/03/990300125.　どうよ沙都子！@k@vS19/03/990300126.　うちらの完全勝利だね？！？！」",
+            "NamesENG": "Mion",
+            "TextENG": "``Kei-chan, that was a beautiful sacrifice!!@k@vS19/03/990300125. How's that, Satoko!?@k@vS19/03/990300126. This is our complete victory, isn't it!?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19313,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/990400050.",
+            "TextJPN": "「こんな手…信じられないですのー！！！　く、悔しくないもんッ！！！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``I can't believe it... such trickery!!! I-It doesn't bother me at all!!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19314,
+            "TextJPN": "歯軋りをして悔しがる沙都子！@k　やった！！",
+            "TextENG": "Satoko ground her teeth, mortified!@k We did it!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19315,
+            "TextJPN": "俺は遠のく意識の中で自らの勝利を確認した。",
+            "TextENG": "I claimed victory as my consciousness drifted slowly away from me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19316,
+            "TextJPN": "…その時、ふっとレナが気付き、奇声をやめた。",
+            "TextENG": "...At that time, Rena stopped her squealing as she suddenly realized something."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19317,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200129.",
+            "TextJPN": "「……梨花ちゃん、食べないの？@k@vS19/02/990200130.　……塩水…強過ぎたかな…？　…かな？」",
+            "NamesENG": "Rena",
+            "TextENG": "``...Rika-chan, you're not eating it?@k@vS19/02/990200130. ...Did the... salt water make it too strong, maybe...? ...Maybe?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19318,
+            "TextJPN": "見ると、梨花ちゃんはりんごのうさぎさんから楊枝を抜き、両手で作ったお椀に乗せ、途方に暮れている様子だった。",
+            "TextENG": "Looking over, Rika-chan had pulled the toothpick out of the apple rabbit, placed it into her cupped hands, and seemed to be at a loss for what to do."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19319,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/990500022.",
+            "TextJPN": "「……うさぎさんが…かわいそうです。@k@vS19/05/990500023.……助けて、あげてほしいです」",
+            "NamesENG": "Rika",
+            "TextENG": "``...Poor Mr. Rabbit... I feel sorry for him...@k@vS19/05/990500023. I want...to save him.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19320,
+            "TextJPN": "ぷッ！",
+            "TextENG": "Pwee!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19321,
+            "TextJPN": "………それはレナが鼻血を噴き出す音だった。",
+            "TextENG": "...That was the sound of blood spurting from Rena's nose."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19322,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200131.",
+            "TextJPN": "「……か、…かか…かぁいいよぅ～……今夜こそ……絶対…お持ち帰りぃ………☆」",
+            "NamesENG": "Rena",
+            "TextENG": "``...Kyu... Kyky... Kyuute～ ...... Tonight... I will... take you home...☆``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19323,
+            "TextJPN": "ぶるぶると痙攣しながら頭をぶるんぶるんと回し出す。",
+            "TextENG": "She shook sporadically, her head wobbling back and forth."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19324,
+            "TextJPN": "そして我に返ると『しゅぱぱぱぱ！』と俺のまわりのりんごを回収し、お皿に盛り付けなおした。",
+            "TextENG": "Then, coming back to her senses, she took all of the apples around me, gathered them up with a fwip fwip fwip, and fixed them back up on a plate."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19325,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200132.",
+            "TextJPN": "「これでみんな寂しくないよね…！　これ、梨花ちゃんにあげる…ね…ね！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Now they're all just fine, 'kay...? Here, I'll give them to you, Rika-chan... 'kay? ...'kay!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19326,
+            "TextJPN": "うさぎさんのお皿を押しつけられた梨花ちゃんは唖然とする沙都子の手をレフェリーのように振り上げると、ぼそりと言った。",
+            "TextENG": "Rika-chan raised up Satoko's hand like a referee after having that plate of rabbits shoved to her. She whispered."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19327,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/990500024.",
+            "TextJPN": "「…ボクたちが勝ちましたです」",
+            "NamesENG": "Rika",
+            "TextENG": "``...This is our victory.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19328,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300127.",
+            "TextJPN": "「…え、……えぇえぇえぇぇぇえぇえッ？！？！@k@vS19/03/990300128.　逆転負けぇえぇッ？！？！」",
+            "NamesENG": "Mion",
+            "TextENG": "``...Wha... ...WhaaAaaAaaAat!?!?@k@vS19/03/990300128. A comeback!?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19329,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01710.",
+            "TextJPN": "「……@bもう.@<ほう@>…@bどっちでもいいよ.@<ほっひへもひぃひょ@>……」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``@bI.@<Hai@>... @bjust don't care anymore@<Hest Honhu hair hehiho@>...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19330,
+            "TextJPN": "……こうして…俺の死は……ただの無駄死にと決まったのだった…。",
+            "TextENG": "...Thus...my sacrifice... ended up being in vain..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19331,
+            "TextJPN": "俺はお茶をすすり終えると、レナの瞳をまっすぐに見据えた。",
+            "TextENG": "When I finished sipping the tea, I looked straight at Rena's eyes."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19332,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01720.",
+            "TextJPN": "「ありがとう、レナ。@k@vS19/01/HR_KEI01730.とってもおいしかったよ。@k@vS19/01/HR_KEI01740.こんなにおいしい弁当を食べたのは、率直に言うと生まれて初めてだ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Thank you, Rena.@k@vS19/01/HR_KEI01730. It was very good.@k@vS19/01/HR_KEI01740. Frankly speaking, this is the first time I've had such a delicious lunch box.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19333,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/660200016.",
+            "TextJPN": "「えっ……！？」",
+            "NamesENG": "Rena",
+            "TextENG": "``Huh...!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19334,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01750.",
+            "TextJPN": "「素材の旨みが、噛み締めるごとに口の中いっぱいに広がっていく。@k@vS19/01/HR_KEI01760.だがそれ以上に食べる者の胸を満たすのは、おかずの１つずつに込められたレナの愛情だ。@k@vS19/01/HR_KEI01770.レナが心をこめて作ったことが、とってもよくわかるよ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``The flavor of the ingredients filled my mouth as I bit into it.@k@vS19/01/HR_KEI01760. But more than that, what filled my heart is the love Rena put into each of the side dishes.@k@vS19/01/HR_KEI01770. I can tell that Rena put her heart and soul into this.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19335,
+            "TextJPN": "レナは顔を赤らめながら、口ごもる。",
+            "TextENG": "Rena blushed and clammed up."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19336,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/660200017.",
+            "TextJPN": "「あ、うぅん。@k@vS19/02/660200018_01.……実はね、これ…ほとんど冷凍ものなの…」",
+            "NamesENG": "Rena",
+            "TextENG": "``Ah, uh...@k@vS19/02/660200018_01. Actually, most of these were frozen.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19337,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01780.",
+            "TextJPN": "「これが冷凍……！？」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Were frozen...!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19338,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/660200018_02.",
+            "TextJPN": "「ごめん……ごめんね！@k@vS19/02/660200019.　レナ、いっぱい作ろうと思ってたんだけど、全部手作りしてる時間がなくて……」",
+            "NamesENG": "Rena",
+            "TextENG": "``Sorry... I'm really sorry!@k@vS19/02/660200019. Rena wanted to make a lot of dishes, but I didn't have time to make them all by hand......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19339,
+            "TextJPN": "……手作りじゃなかったのか！？　しまった……！",
+            "TextENG": "......I thought they were handmade!? Oops...!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19340,
+            "TextJPN": "だが、そんな事実を突きつけられて、あっさりひるむ俺ではない！",
+            "TextENG": "But I'm not one to flinch easily when confronted with such facts!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19341,
+            "TextJPN": "困惑しながら、レナは瞳を潤ませている。俺はそんなレナを包み込むように、力強く言葉を続けた。",
+            "TextENG": "Rena's eyes were moist with confusion. I wrapped her in my arms and continued to speak forcefully."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19342,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01790.",
+            "TextJPN": "「冷凍かどうかなんて、一切関係なし！@k@vS19/01/HR_KEI01800.　全く問題なし！@k@vS19/01/HR_KEI01810.　ノープロブレムだ！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Frozen or not, it doesn't matter at all.@k@vS19/01/HR_KEI01800. Not at all!@k@vS19/01/HR_KEI01810. No problem!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19343,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/660200020.",
+            "TextJPN": "「…………はぅ？」",
+            "NamesENG": "Rena",
+            "TextENG": "``............Huh?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19344,
+            "TextJPN": "レナは俺の言っている意味がわからないのか、かわいく小首をかしげて俺を見返す。まるでリスか何かの小動物が、つぶらな瞳をパチクリさせているような顔……。",
+            "TextENG": "I'm not sure if she understands what I'm saying, but she looks back at me with a cute little tilt of her head. She looks like a squirrel or some kind of small animal with its dull eyes fluttering."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19345,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01820.",
+            "TextJPN": "「レナ……。@k@vS19/01/HR_KEI01830.大事なのは、真心だ。@k@vS19/01/HR_KEI01840.料理の味は、心で決まる。@k@vS19/01/HR_KEI01850.真心がしっかりと込められていれば、冷凍だって何だって、どんな一流シェフにもかなわないくらいにおいしい料理ができるんだよ……」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Rena...@k@vS19/01/HR_KEI01830. The important thing is sincerity.@k@vS19/01/HR_KEI01840. The taste of food is determined by the heart.@k@vS19/01/HR_KEI01850. If you put your heart and soul into it, you can make anything, even frozen ingredients, taste as good as dishes from top chef.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19346,
+            "TextJPN": "沙都子と梨花ちゃん、そして魅音までもが、ポカ～ン、と俺の言葉を聞いている。",
+            "TextENG": "Satoko, Rika, and even Mion were listening to my words with a puzzled look."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19347,
+            "TextJPN": "なんだか……俺、ものすご～～く熱弁ふるってる？　でも、滑らかに言葉をつむぎだした俺の口は、もはや誰にも止められない！",
+            "TextENG": "I don't know if I'm making a very passionate speech, but no one can stop my mouth from talking smoothly!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19348,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01860.",
+            "TextJPN": "「どんなに高級な食材を使おうと、どんなにすごいテクニックがあろうと、この弁当にはかなわない。俺は断言できる！　誰もレナにはかなわないっ！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``No matter how expensive the ingredients are, no matter how amazing the technique is, it will never be as good as this bento. I can assure you! No one can compare to Rena!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19349,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01870.",
+            "TextJPN": "「なぜなら、この弁当以上に真心をこめることなど、他の誰にもできないからだっ！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Because no one else could have put more heart into this lunch!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19350,
+            "TextJPN": "魅音が神妙な顔でうなずく。沙都子や梨花ちゃんさえ、もはや洗脳されたかのように、ぼーっとした顔でこくこくと無意識に同意していた。",
+            "TextENG": "Mion nodded with a mysterious look on her face. Even Satoko and Rika unconsciously agreed with a dazed look on their faces, as if they had been brainwashed."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19351,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/660200021.",
+            "TextJPN": "「はぅ～。@k@vS19/02/660200022.圭一くん……」",
+            "NamesENG": "Rena",
+            "TextENG": "``Hau~@k@vS19/02/660200022. Keiichi-kun...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19352,
+            "TextJPN": "レナの顔はすっかり上気して、頭のてっぺんからは、ほわほわと輪っかが立ち昇っている。だが、まだまだっ！　ここからが前原圭一の真骨頂！　一気に押しまくり、このままクライマックスへとなだれ込む……！",
+            "TextENG": "Rena's face was all puffed up, and there was a ring of smoke rising from the top of her head. But that's not all! This is where Keiichi Maebara really comes into his own! He pushes and pushes and pushes, and it's going to be a climax!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19353,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01880.",
+            "TextJPN": "「もちろん味付けや盛り付けの完璧なまでのセンス、確かな味覚によって構成されたバラエティ豊かな品目のバランスが大事なのは言うまでもない」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Of course, it is important to have a perfect sense of taste in seasoning and presentation, not to mention the balance of a wide variety of items organized by a certain taste.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19354,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01890.",
+            "TextJPN": "「だが、そんなものはあって当たり前！　レナほどのレベルの者に、そんな問題を口にするなど野暮の中の野暮。己の恥をさらけだすようなもの！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``But of course there is one more thing! It's the wildest of wild things for someone of Rena's level to talk about such issues. It's like exposing your own shame!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19355,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01900.",
+            "TextJPN": "「では、そんじょそこいらの弁当との決定的な違いはなにか？！　作る人間の人柄だ。レナの人柄が、最高の料理を作るためになくてはならないスパイス！　エッセンス！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``So, what's the key difference between this and those other lunch boxes?! It's the personality of the person making it. Rena's personality is the spice that is essential to making the best food! Essence!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19356,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01910.",
+            "TextJPN": "「知らずににじみ出てしまう優しい人柄が、食べる者の胸を温かい気持ちで満たすのだ！　そんなすごい料理を作れるのは、レナをおいて他にない！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``The kindness that oozes out of her without even knowing fills the hearts of those who indulge her meals! There is no one else who can make such amazing food like Rena!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19357,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/660200023.",
+            "TextJPN": "「…ぇ…え？@k@vS19/02/660200024.　…ぇぇと……その…なんだかちょっと、は、恥ずかしいな………」",
+            "NamesENG": "Rena",
+            "TextENG": "``...H-Huh?@k@vS19/02/660200024. Um... Eh... This is... slightly... embarassing...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19358,
+            "TextJPN": "そう言いながらもレナは、俺の繰り出す言葉の魔術に恍惚とした表情になっている。ここで俺は、ちょっとはにかんだフリをしてから一心拍を置く。そして、おもむろに……。",
+            "TextENG": "Even as she says this, Rena looks ecstatic at the magic of my words. At this point, I pretend to be a little embarrassed, then pause for a heartbeat. And then, without a second thought..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19359,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01920.",
+            "TextJPN": "「だから、さ……」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``That's why...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19360,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/660200025.",
+            "TextJPN": "「だから……？」",
+            "NamesENG": "Rena",
+            "TextENG": "``Yes...?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19361,
+            "TextJPN": "……次が、トドメだっ！",
+            "TextENG": "...A finisher!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19362,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01930.",
+            "TextJPN": "「レナは絶対に、いいお嫁さんになるよ……！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Rena will definitely make a good wife...!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19363,
+            "TextJPN": "ずぎゃあぁぁぁあぁ――――んっっ！！",
+            "TextENG": "Taaaa-daaaam!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19364,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/660200026.",
+            "TextJPN": "「え？　お、お嫁さんって……@k@vS19/02/660200027.誰のだろ？　…だろ？@k@vS19/02/660200028.　は、ははははぅはぅはぅぅ～～！？」",
+            "NamesENG": "Rena",
+            "TextENG": "``Huh? W-Wife...@k@vS19/02/660200027. Who? ...Who?@k@vS19/02/660200028. H-Hau Haaauuu~~!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19365,
+            "TextJPN": "真っ赤になったレナの頭上からぽんっと音がして輪っかがあがり、レナは卒倒しそうな勢いで思いっきりのけぞる。そして、どっしゃあぁぁ～～っ！　とタッパーいっぱいのりんごを、今まさに俺に突き出そうとした。",
+            "TextENG": "I'm sure you'll be able to guess what I'm talking about. And then, with a bang, a tupperware full of apples were thrown at her. And then, she was about to thrust a tupperware full of apples at me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19366,
+            "TextJPN": "…………この勝負、もらったぁっ！",
+            "TextENG": "............I got this game!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19367,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/660400001.",
+            "TextJPN": "「――――、は、はっ！？@k@vS19/04/660400002.　り、梨花っ！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``...Huh!?@k@vS19/04/660400002. Rika!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19368,
+            "TextJPN": "沙都子がハッと我に返ると、慌てて梨花ちゃんに合図を送る。すかさず絶妙なタイミングで、梨花ちゃんは俺の機先を制して言葉をつないだ。",
+            "TextENG": "Satoko came to her senses and hurriedly signaled to Rika-chan. Immediately, with perfect timing, Rika took advantage of my initiative and connected her words."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19369,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/660500001.",
+            "TextJPN": "「ボ、ボクがもし男なら……@k@vS19/05/660500002.きっとレナをお嫁さんにするのは、ボクなのです」",
+            "NamesENG": "Rika",
+            "TextENG": "``If I was a man...@k@vS19/05/660500002. I'm sure I'll be the one to make Rena my bride.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19370,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01940.",
+            "TextJPN": "「――――げっ！？」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...Gyuh!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19371,
+            "TextJPN": "り、梨花ちゃんっ！？　俺のダメ押しの、とっておきの台詞をっ！！",
+            "TextENG": "Rika-chan!? You have stolen my line!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19372,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/660200029.",
+            "TextJPN": "「はっ？@k@vS19/02/660200030.　ははは、はぅはぅぅぅ～っ！！@k@vS19/02/660200031.　り、りりりりり梨花ちゃん、お、お持ち帰りぃ～～～！！！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Huh?@k@vS19/02/660200030. H-H-H-Haauu~!!@k@vS19/02/660200031. R-R-R-R-R-Rika chan! I'm taking you home~~~!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19373,
+            "TextJPN": "俺に差し出されるはずだったタッパーいっぱいのりんごが、そっくりそのまま、ごっそりと梨花ちゃんの目の前へ。",
+            "TextENG": "The tupperware full of apples that was supposed to be presented to me went straight into Rika's arms."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19374,
+            "TextJPN": "え……！？　マジで……！？　なんだ、この展開！？　ここまで恥ずかしい台詞連発しておきながら、ラストでおいしい所をごっそりかっさらわれちまったのか！？",
+            "TextENG": "Eh...!? Seriously...!? What is this development?! After so many embarrassing words, the last part of the story was stolen from me!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19375,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/660200032.",
+            "TextJPN": "「はうぅ～～、梨花ちゃん梨花ちゃん、@k@vS19/02/660200033.かぁいいかぁいいお婿さんだよ！　だよ～！！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Hau~~, Rika-chan, Rika-chan.@k@vS19/02/660200033. What a cute son-in-law! Son-in-law~!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19376,
+            "TextJPN": "レナは真っ赤になって興奮しながら、梨花ちゃんを抱きしめてぎゅいぎゅいと頬擦りをしている。それを見て、沙都子は勝ち誇った笑みを浮かべた。",
+            "TextENG": "Rena turned bright red and excitedly hugged Rika and squeezed her and rubbed her cheeks. Seeing this, Satoko smiled victoriously."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19377,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/660400003.",
+            "TextJPN": "「おほほほ！@k@vS19/04/660400004.　ざまぁないでございますわねぇ！@k@vS19/04/660400005.　残念ですがこの勝負は――」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Ahahaha!@k@vS19/04/660400004. You got what you deserves!@k@vS19/04/660400005. Sadly this competition won...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19378,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/660200034.",
+            "TextJPN": "「――――あ、でも」",
+            "NamesENG": "Rena",
+            "TextENG": "``...But...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19379,
+            "TextJPN": "レナは上目遣いに俺を見る。……なんだ？",
+            "TextENG": "Rena looks at me up and down. ......What is it?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19380,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/660200035.",
+            "TextJPN": "「一番うれしかったのは、圭一くんの褒め言葉かな。@k@vS19/02/660200036.だからこの勝負、圭一くんの勝ち！」",
+            "NamesENG": "Rena",
+            "TextENG": "``The thing that made me the happiest was Keiichi's compliment.@k@vS19/02/660200036. That's why Keiichi-kun won!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19381,
+            "TextJPN": "レナが頬を赤らめながら、慎ましやかにりんごのうさぎさんを一つ俺に差し出した。",
+            "TextENG": "With a blush on her cheeks, Rena modestly offered me one of her apple bunnies."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19382,
+            "TextJPN": "お……おおぉぉおおぉっっ！？　天は我に味方せりぃぃぃっっ！！",
+            "TextENG": "W-Woaaaaaah! Heavens are on my side!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19383,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/660400006.",
+            "TextJPN": "「な、な、な…なんですってー！？@k@vS19/04/660400007.　納得いきませんわー！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``W-W-W-What!?@k@vS19/04/660400007. I won't accept it!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19384,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/660500003.",
+            "TextJPN": "「みぃ……ボクと沙都子は、逆転負けなのです……」",
+            "NamesENG": "Rika",
+            "TextENG": "``Miiip... Me and Satoko are upset we lost.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19385,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/660400008.",
+            "TextJPN": "「い、今の台詞は却下です、@k@vS19/04/660400009.ええ、却下！@k@vS19/04/660400010.　大却下でございますっ！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``No, I'm rejecting that line.@k@vS19/04/660400009. Rejected!@k@vS19/04/660400010. A big rejection!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19386,
+            "TextJPN": "がっくりと肩を落す梨花ちゃん。吼える沙都子は大きく両腕でバッテンしながらなにやらわめいているが、当然無視。",
+            "TextENG": "Rika's shoulders slumped. The barking Satoko is battening her arms and ranting about something, but of course I ignored her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19387,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/660300019.",
+            "TextJPN": "「あはははは！@k@vS19/03/660300020.　さっすが圭ちゃん！@k@vS19/03/660300021.　いやぁ～、いい演説だったよ！！」",
+            "NamesENG": "Mion",
+            "TextENG": "``Ahahahaha!@k@vS19/03/660300020. That's our Kei-chan!@k@vS19/03/660300021. It was a good speech!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19388,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/660200037.",
+            "TextJPN": "「圭一くん……はぅ☆」",
+            "NamesENG": "Rena",
+            "TextENG": "``Keiichi-kun... Hau☆``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19389,
+            "TextJPN": "魅音がバシッと俺の肩を叩く。そんな俺をレナがもじもじとはにかみながら、赤い顔で盗み見ていた。",
+            "TextENG": "Mion clapped me on the shoulder with a bash. Rena squirms looks at me with her red face."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19390,
+            "TextJPN": "な……なんだよ？　俺……やりすぎた？　て、照れるじゃないか！？",
+            "TextENG": "What the hell? Did I go too far? I'm not sure what to say."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19391,
+            "TextJPN": "俺はお茶のカップをおもむろにつかむと、ガッと一気に飲み干した。",
+            "TextENG": "I grabbed the cup of tea and drank it down in one gulp."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 19392,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI01950.",
+            "TextJPN": "「熱ッちぃぃぃ～～！！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``So hooo~~t!``"
+        }
+    ]
+}

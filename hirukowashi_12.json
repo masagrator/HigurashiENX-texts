@@ -1,0 +1,787 @@
+{
+    "Main": [
+        {
+            "type": "SAVEINFO",
+            "category": 1,
+            "JPN": "#12 レナの告白？",
+            "ENG": "#12 レナの告白？"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74394,
+            "TextJPN": "梨花ちゃんの話によれば、フワラズの勾玉の効果は少し時間差で現れるらしい。",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74395,
+            "TextJPN": "入江さんにしがみつき続けるレナを引っぺがし、グラウンドの外に連れ出した頃には、きょとんと普段のレナに戻っていた。",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74396,
+            "TextJPN": "だがもたもたしていれば今度は俺にべたべたし出すだろうから、もたもたしてはいられない。",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74397,
+            "TextJPN": "俺たちは各自、自転車にまたがると古手神社へ急行した。",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74398,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS07/03/330300184.",
+            "TextJPN": "「はー、もうすっかりいい時間になっちゃったねぇ。@k@vS07/03/330300185.おじさん、昼食食べ損なったからお腹ぺこぺこだよ」",
+            "NamesENG": "Mion",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74399,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS07/06/330600112.",
+            "TextJPN": "「でも、無事に一件落着してよかったですね！@k@vS07/06/330600113.　レナさんには申し訳ないですけど、何だか退屈しない２日間でした！」",
+            "NamesENG": "Shion",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74400,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS07/03/330300186.",
+            "TextJPN": "「愉快というか何と言うか、レナの恐ろしさの一端を垣間見た２日間だったね！」",
+            "NamesENG": "Mion",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74401,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS07/03/330300187.",
+            "TextJPN": "「何となくオチが気に入らないけどー」",
+            "NamesENG": "Mion",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74402,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS07/06/330600114.",
+            "TextJPN": "「…おやおや？@k@vS07/06/330600115.　無事、円満に解決でいいじゃないですかぁ。@k@vS07/06/330600116.変なお姉ですねぇ～ぇ？」",
+            "NamesENG": "Shion",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74403,
+            "TextJPN": "魅音は、なぜか面白くなさそうに膨れっ面をしている。@k…それを詩音が笑いながら、まぁまぁフォローしているが、…いったい何があったんだろう？",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74404,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS07/05/330500186.",
+            "TextJPN": "「…ではレナと圭一。@k@vS07/05/330500187.手をお清めしましたら、二人でお祈りしますのです。@k@vS07/05/330500188.ボクがいいというまでそのままなのですよ」",
+            "NamesENG": "Rika",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74405,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS07/01/330100359.",
+            "TextJPN": "「おう、わかったぜ。@k@vS07/01/330100360.ほいレナ、ちゃちゃっと済まして解放されようぜ！@k@vS07/01/330100361.　もたもたしてると、また例の力が蘇っちまう！」",
+            "NamesENG": "Keiichi",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74406,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS07/02/330200317.",
+            "TextJPN": "「そ、…そうだね…。@k@vS07/02/330200318.……はぅ、…少しずつその、うん。@k@vS07/02/330200319.じんわり来たかも…」",
+            "NamesENG": "Rena",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74407,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS07/01/330100362.",
+            "TextJPN": "「おい梨花ちゃん、まずいぞ、急いでくれ！」",
+            "NamesENG": "Keiichi",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74408,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS07/05/330500189.",
+            "TextJPN": "「…ボクはちゃんと急いでますので、圭一もお祈りをして精神を集中するのです」",
+            "NamesENG": "Rika",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74409,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS07/01/330100363.",
+            "TextJPN": "「わ、わかったよ…。むむむむ……」",
+            "NamesENG": "Keiichi",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74410,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS07/02/330200320.",
+            "TextJPN": "「……ねぇ、圭一くん」",
+            "NamesENG": "Rena",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74411,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS07/01/330100364.",
+            "TextJPN": "「何だよ？」",
+            "NamesENG": "Keiichi",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74412,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS07/02/330200321.",
+            "TextJPN": "「さっきはその、…助けに来てくれて、ありがと」",
+            "NamesENG": "Rena",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74413,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS07/01/330100365.",
+            "TextJPN": "「仲間を見捨てるもんかよ。@k@vS07/01/330100366.礼を言われることじゃないぜ」",
+            "NamesENG": "Keiichi",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74414,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS07/02/330200322.",
+            "TextJPN": "「…うん。@k@vS07/02/330200323.…その時ね、圭一くんが言ってくれた言葉が、なんか嬉しかったかな、…かな」",
+            "NamesENG": "Rena",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74415,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS07/02/330200324.",
+            "TextJPN": "「…俺がお前を救ってやるぞって。@k@vS07/02/330200325.あの言葉だけね、…頭の中がふわふわだったのに、…ちゃんとぎゅぅって聞こえたんだよ。@k@vS07/02/330200326.…嬉しかったかな」",
+            "NamesENG": "Rena",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74416,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS07/01/330100367.",
+            "TextJPN": "「べ、別に特別な意味で言ったわけじゃねぇぞ…。@k@vS07/01/330100368.まぁその、あの場の雰囲気というかノリというか、あるだろそういうお約束ってヤツ！」",
+            "NamesENG": "Keiichi",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74417,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS07/02/330200327.",
+            "TextJPN": "「……圭一くんは、早くお腹の中から勾玉、なくなってほしいんだよね…？」",
+            "NamesENG": "Rena",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74418,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS07/01/330100369.",
+            "TextJPN": "「何バカなこと言ってんだよ。@k@vS07/01/330100370.こんな怪しいもの、いつまでも腹の中に入れてたくねぇだろ」",
+            "NamesENG": "Keiichi",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74419,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS07/02/330200328.",
+            "TextJPN": "「…う、…うん。@k@vS07/02/330200329.…レナなんかにしがみ付いて来られたら、その、…迷惑だもんね…」",
+            "NamesENG": "Rena",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74420,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS07/01/330100371.",
+            "TextJPN": "「お、おい。@k@vS07/01/330100372.そういう勘違いはするなよ…！@k@vS07/01/330100373.　別に俺は、レナが嫌いだから急いでるんじゃねぇんだぞ」",
+            "NamesENG": "Keiichi",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74421,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS07/01/330100374.",
+            "TextJPN": "「…その、また例の力が始まったら、その、レナが俺に、べたべたするだろ？@k@vS07/01/330100375.　まぁその、確かにそういうのは俺も男だし嫌いじゃないけどよ…」",
+            "NamesENG": "Keiichi",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74422,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS07/01/330100376.",
+            "TextJPN": "「レナの気持ちが弄ばれてるだけで、……フェアじゃねぇと思うんだよな」",
+            "NamesENG": "Keiichi",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74423,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS07/01/330100377.",
+            "TextJPN": "「…だってそうだろ、レナの本心じゃねぇんだぜ？@k@vS07/01/330100378.　あの恋するレナは、レナが本当に好きになった人に向けられるべきで、こんな不正な力で俺なんかに向けられちゃおかしいんだ」",
+            "NamesENG": "Keiichi",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74424,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS07/02/330200330.",
+            "TextJPN": "「…うん、そうだね。@k@vS07/02/330200331.……あ、でもね圭一くん。@k@vS07/02/330200332.さっきメイド対決やってる時に、魅ぃちゃんたちがレナのことを、相手に合わせられるのはすごいねって話してたの聞いてた？」",
+            "NamesENG": "Rena",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74425,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS07/01/330100379.",
+            "TextJPN": "「…まぁ、一応はな」",
+            "NamesENG": "Keiichi",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74426,
+            "TextJPN": "…そっか、あの時の俺たちの会話、レナにも聞こえていたんだ。",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74427,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS07/02/330200333.",
+            "TextJPN": "「謙遜じゃなくて、…誰だって、好きな人ができたら、その人に気に入られようと努力できるよ。@k@vS07/02/330200334.レナだけの特別な力じゃない」",
+            "NamesENG": "Rena",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74428,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS07/02/330200335.",
+            "TextJPN": "「…好きになった人が、手作りのクッキーが好きだって言ってくれたら、また頑張りたいと思うのはきっとレナだけじゃないと思うよ」",
+            "NamesENG": "Rena",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74429,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS07/02/330200336.",
+            "TextJPN": "「魅ぃちゃんだって詩ぃちゃんだって、沙都子ちゃんだって梨花ちゃんだって」",
+            "NamesENG": "Rena",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74430,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS07/02/330200337.",
+            "TextJPN": "「もちろん圭一くんにだってある力なんだから」",
+            "NamesENG": "Rena",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74431,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS07/01/330100380.",
+            "TextJPN": "「そういうもんかねぇ」",
+            "NamesENG": "Keiichi",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74432,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS07/01/330100381.",
+            "TextJPN": "「でも、レナの手作りクッキーが好きになるってのはわかるなぁ。昨日食って確かにうまいと思ったもんな！」",
+            "NamesENG": "Keiichi",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74433,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS07/02/330200338.",
+            "TextJPN": "「あ、ありがと」",
+            "NamesENG": "Rena",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74434,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS07/02/330200339.",
+            "TextJPN": "「……それに、レナだって自分を相手に合わせるばっかりじゃない。@k@vS07/02/330200340.相手を自分の世界に引き込もうと、相手の迷惑も考えずに引っ張っちゃうこともあるよ…？」",
+            "NamesENG": "Rena",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74435,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS07/01/330100382.",
+            "TextJPN": "「あはは、宝探しのことかよ。@k@vS07/01/330100383.まぁ、俺でも最初は面食らったからなぁ！@k@vS07/01/330100384.　レナみたいな普通っぽい女の子がこんな趣味を持ってるのかよって結構、驚いたのもいい思い出だぜ」",
+            "NamesENG": "Keiichi",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74436,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS07/02/330200341.",
+            "TextJPN": "「…やっぱ面食らっちゃうよね。@k@vS07/02/330200342.変だよね…。@k@vS07/02/330200343.そういうのに誘っちゃいけないよね…」",
+            "NamesENG": "Rena",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74437,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS07/01/330100385.",
+            "TextJPN": "「相手がそういうのを好きじゃなさそうだったら、無理に誘うのは遠慮した方がいいだろうよ。@k@vS07/01/330100386.最近は、潔癖っぽい軟弱な男も多いらしいからよ」",
+            "NamesENG": "Keiichi",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74438,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS07/02/330200344.",
+            "TextJPN": "「…そうだね。@k@vS07/02/330200345.…うん」",
+            "NamesENG": "Rena",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74439,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS07/01/330100387.",
+            "TextJPN": "「でもよ、俺は楽しいと思ってるからな？！@k@vS07/01/330100388.　誤解すんなよ？！@k@vS07/01/330100389.　明日の部活が早く終わったら、また一緒に宝探しをしようって、約束してるもんな」",
+            "NamesENG": "Keiichi",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74440,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS07/02/330200346.",
+            "TextJPN": "「う、うん。@k@vS07/02/330200347.してる。@k@vS07/02/330200348.うん…」",
+            "NamesENG": "Rena",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74441,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS07/01/330100390.",
+            "TextJPN": "「ま、レナが本当の意味で宝探しに連れて行きたい人が現れるまでは付き合ってやるからさ。@k@vS07/01/330100391.安心して力仕事は俺に任せろよな！@k@vS07/01/330100392.　でも、冷蔵庫をどかすのはさすがに俺ひとりじゃきついけどなー、あはははは」",
+            "NamesENG": "Keiichi",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74442,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS07/02/330200349.",
+            "TextJPN": "「はぅ、…だめ…。@k@vS07/02/330200350.圭一くん…。フワラズの勾玉の力、…また込み上げてきた…」",
+            "NamesENG": "Rena",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74443,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS07/01/330100393.",
+            "TextJPN": "「おいおいまずいな！@k@vS07/01/330100394.　とにかくお祈りに集中しろ！@k@vS07/01/330100395.　その気持ちはもう少しで消えるんだから、辛抱してろ！」",
+            "NamesENG": "Keiichi",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74444,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS07/02/330200351.",
+            "TextJPN": "「……そうだね。@k@vS07/02/330200352.もう少しで消えちゃうんだね」",
+            "NamesENG": "Rena",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74445,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS07/01/330100396.",
+            "TextJPN": "「ったく、こんな面倒な宝物を、よくも神さまは作ったもんだぜ！@k@vS07/01/330100397.　人の迷惑も考えろってんだ」",
+            "NamesENG": "Keiichi",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74446,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS07/02/330200353.",
+            "TextJPN": "「…そ、…そうかな。@k@vS07/02/330200354.…レナは、その、…素敵な宝物だったと思うよ…？」",
+            "NamesENG": "Rena",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74447,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS07/02/330200355.",
+            "TextJPN": "「本当に好きで好きで大好きなのに、…背中を一押ししてくれる何かがほしい。@k@vS07/02/330200356.…そういう人たちって、きっと大昔から大勢いたんだよ」",
+            "NamesENG": "Rena",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74448,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS07/02/330200357.",
+            "TextJPN": "「…そういう人たちに、たくさんの幸せをプレゼントしてきた、魔法の宝物だと思うよ」",
+            "NamesENG": "Rena",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74449,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS07/01/330100398.",
+            "TextJPN": "「ふぅん。@k@vS07/01/330100399.まぁ、今日最大の被害者のレナがそう言うんなら、そういうことにしてもいいか」",
+            "NamesENG": "Keiichi",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74450,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS07/02/330200358.",
+            "TextJPN": "「あ、…あの、……はぅぅ、…もう、…ダメ…」",
+            "NamesENG": "Rena",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74451,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS07/01/330100400.",
+            "TextJPN": "「おいおい梨花ちゃん、まだかよ、急いでくれよ！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74452,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS07/05/330500190.",
+            "TextJPN": "「…急いでますのです、急がせていますのですよ！」",
+            "NamesENG": "Rika",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74453,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS07/02/330200359.",
+            "TextJPN": "「…け、……圭一くん、…これ、…あの、…私の意思じゃないかもね…？@k@vS07/02/330200360.　勾玉の力なのかもね…？」",
+            "NamesENG": "Rena",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74454,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS07/02/330200361.",
+            "TextJPN": "「あ、あのね、竜宮レナは、……圭一くんのこと、…大好きだよ。@k@vS07/02/330200362.…もうすぐ消えちゃう力なら、…今、それだけ伝えたいから…」",
+            "NamesENG": "Rena",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74455,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS07/01/330100401.",
+            "TextJPN": "「……ば、…ばか。@k@vS07/01/330100402.…勾玉の力に屈するなよ…。@k@vS07/01/330100403.…本気にするだろ」",
+            "NamesENG": "Keiichi",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74456,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS07/02/330200363.",
+            "TextJPN": "「…そうだね。@k@vS07/02/330200364.勾玉の力、…早く解けちゃうといいね…」",
+            "NamesENG": "Rena",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74457,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@-@vS07/02/330200365.",
+            "TextJPN": "（だって解けないと、…どんな勇気ある言葉も、何も伝わらないもんね…）",
+            "NamesENG": "Rena",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74458,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS07/05/330500191.",
+            "TextJPN": "「…みぃ！@k@vS07/05/330500192.　聞きましたですか、沙都子…！@k@vS07/05/330500193.　レナが圭一に告白しちゃったのですよ、みぃぃ…っ！！」",
+            "NamesENG": "Rika",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74459,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS07/04/330400262.",
+            "TextJPN": "「…ええ、聞こえましたわ。@k@vS07/04/330400263.なんでしょう、圭一さんとレナさんが仲良しなのはとてもいいことなんですけど、なぜかムカムカして腹立たしいですわー」",
+            "NamesENG": "Satoko",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74460,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS07/04/330400264.",
+            "TextJPN": "「梨花ぁ、儀式の一部ってことにして、うさぎ跳びで境内の階段、往復させてあげるのはいかがかしら～？」",
+            "NamesENG": "Satoko",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74461,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS07/05/330500194.",
+            "TextJPN": "「魅ぃには聞こえなくて幸いだったのです。@k@vS07/05/330500195.…もし聞こえていたら明日から圭一は、部活百連敗の罰ゲーム地獄に落とされていたのですよ」",
+            "NamesENG": "Rika",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74462,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS07/04/330400265.",
+            "TextJPN": "「…いっそのこと、今のを魅音さんに教えてさしあげるのはいかがです？」",
+            "NamesENG": "Satoko",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74463,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS07/05/330500196.",
+            "TextJPN": "「それも面白いと思いますですが、こういうネタはもしもの時のために取っておいたほうがいいと思いますのです」",
+            "NamesENG": "Rika",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74464,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS07/05/330500197.",
+            "TextJPN": "「危なくなった時の緊急回避ツール、これこそ最凶のマジックアイテムなのですよ。@k@vS07/05/330500198.にぱ～♪」",
+            "NamesENG": "Rika",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74465,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS07/04/330400266.",
+            "TextJPN": "「…梨花、あなたも相当のワルですわね…？！」",
+            "NamesENG": "Satoko",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74466,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS07/05/330500199.",
+            "TextJPN": "「雛見沢村は、…ずっとずっとこの内側だけの狭い世界でしたから。@k@vS07/05/330500200.…たまには何か素敵なことも必要だったと思いますのですよ」",
+            "NamesENG": "Rika",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74467,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS07/05/330500201.",
+            "TextJPN": "「…だからボクのご先祖さまは、フワラズの勾玉を残し続けたと思いますのです」",
+            "NamesENG": "Rika",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74468,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS07/04/330400267.",
+            "TextJPN": "「って、綺麗にまとめようとしておりますけど。@k@vS07/04/330400268.そうして誕生したカップルの裏で、泣いている男の方が大量にいらっしゃることを考えると、あまり大手を振っては喜べませんわね」",
+            "NamesENG": "Satoko",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74469,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS07/04/330400269.",
+            "TextJPN": "「全員の希望を叶えられないのでしたら、縁結びの神様をかたるのは少々傲慢だと思いますけど？」",
+            "NamesENG": "Satoko",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74470,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS07/05/330500202.",
+            "TextJPN": "「みぃ、酷い言い方なのです。@k@vS07/05/330500203.神様でもできることとできないことがあるのです。@k@vS07/05/330500204.最初から神やものに頼ったりする人は、まず努力をすることが大切だと覚えるべきなのですよ、みぃ」",
+            "NamesENG": "Rika",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74471,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS07/04/330400270.",
+            "TextJPN": "「…なぁんか、思いっきり神様のサボりを正当化しているようにも聞こえますけど」",
+            "NamesENG": "Satoko",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74472,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS07/04/330400271.",
+            "TextJPN": "「あ、そうそう！　梨花の罰ゲームがまだでしたわねぇ？！」",
+            "NamesENG": "Satoko",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74473,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS07/04/330400272.",
+            "TextJPN": "「さっき詩音さん、園崎家の秘密部屋で準備万全っておっしゃっていましたわよぉぉ？！@k@vS07/04/330400273.　下で葛西さんがお車用意してお待ちしているとのことですから、この後のことをお楽しみにしておいて下さいませ！」",
+            "NamesENG": "Satoko",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74474,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS07/04/330400274.",
+            "TextJPN": "「ああ、もちろん私もご同行いたしますわよ～？！　をーっほっほっほっ！」",
+            "NamesENG": "Satoko",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74475,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS07/05/330500205.",
+            "TextJPN": "「きょ、今日は沙都子の治療がこの後ありますから、そっちが優先なのです！！！」",
+            "NamesENG": "Rika",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74476,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS07/05/330500206.",
+            "TextJPN": "「それに、先祖の罪は子孫の罪ではないのです！！@k@vS07/05/330500207.　過去の失敗を水に流してこそ、正常な国交は開かれるのですよ！！」",
+            "NamesENG": "Rika",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74477,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS07/01/330100404.",
+            "TextJPN": "「……お、おい沙都子に梨花ちゃん。@k@vS07/01/330100405.俺たち、いつまでこうしてりゃいいんだ？」",
+            "NamesENG": "Keiichi",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74478,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS07/04/330400275.",
+            "TextJPN": "「あ、ごめんなさいませ。@k@vS07/04/330400276.もう儀式は終わったとのことですから大丈夫みたいですわよ。@k@vS07/04/330400277.さて、この後は梨花のための体験会が控えていますから、こちょこちょマシーンの！！」",
+            "NamesENG": "Satoko",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74479,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS07/06/330600117.",
+            "TextJPN": "「くっくっくっ…！@k@vS07/06/330600118.　梨花ちゃま、覚悟しぃや…っっ？！」",
+            "NamesENG": "Shion",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74480,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS07/05/330500208.",
+            "TextJPN": "「み、みみみ、みいぃぃぃっっー！！！」",
+            "NamesENG": "Rika",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74481,
+            "TextJPN": "と、まぁ、何だかいい加減に終わり、とりあえず全ては丸く収まった。",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 74482,
+            "TextJPN": "…ように見えた。",
+            "TextENG": ""
+        }
+    ]
+}

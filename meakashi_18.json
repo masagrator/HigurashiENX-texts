@@ -1,0 +1,2413 @@
+{
+    "Main": [
+        {
+            "type": "SAVEINFO",
+            "category": 1,
+            "JPN": "#18 綿流し再び",
+            "ENG": "#18 / Continuation of Watanagashi"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69148,
+            "TextJPN": "綿流しの祭りが終わった後、園崎家の親戚たちは皆、本家に集まり、一部の親戚たちと簡単な酒盛りをした。",
+            "TextENG": "My relatives gathered at the Sonozaki house after the festival to have a little party."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69149,
+            "TextJPN": "私は親しい叔父さんたちと隅の方で勝手に盛り上がっていた。",
+            "TextENG": "I mingled with my uncles and had fun."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69150,
+            "TextJPN": "……祭具殿の中での、気味の悪い記憶を少しでも薄めるために。",
+            "TextENG": "...I was trying to get rid of my eerie memories of the ritual storehouse."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69151,
+            "TextJPN": "魅音は終始、次期頭首さまだったので、私は近寄らずにいた。",
+            "TextENG": "Mion was acting as the successor, so I tried to stay away from her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69152,
+            "TextJPN": "血を分けた姉妹に、他人行儀に喋られるほど、気持ちの悪いことはないのだから。",
+            "TextENG": "I'm sure she would feel weird if I talked to her in a formal way."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69153,
+            "TextJPN": "祖母に気を遣い、酒盛りは午後の１１時くらいでお開きになった。",
+            "TextENG": "In consideration of the hag's old age, we ended the party around 11 PM."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69154,
+            "TextJPN": "みんなで片付けをし、仕切るのが大好きな叔母さま連中は、台所を占領してガンガン食器類を洗っていた。",
+            "TextENG": "We all helped to clean up, with the women washing the dishes in the kitchen..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69155,
+            "TextJPN": "男性陣も、広間いっぱいに出された机をどんどん畳んで、奥の納戸に片付けている。",
+            "TextENG": "And the men folding the tables and putting them away in a storeroom."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69156,
+            "TextJPN": "３０分くらいで全部片付き、親戚たちはどんどんと散って行った。",
+            "TextENG": "It only took about thirty minutes. Then everyone left, one after another."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69157,
+            "TextJPN": "この頃になると、魅音も頭首モードは終わっていて、私のよく知る魅音に戻っていた。",
+            "TextENG": "By then Mion was no longer acting as the Sonozaki successor and was back to being her normal self."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69158,
+            "TextJPN": "私は少し騒ぎすぎて疲れたせいか、畳の上でぐったりとしていた。",
+            "TextENG": "Maybe I overexerted a little. I was lying on the tatami floor."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69159,
+            "TextJPN": "葛西が、車に乗れますか？@k　と聞いてきたので、もう動きたくないと言い返してやった。",
+            "TextENG": "Kasai asked me if I could get in the car,@k so I told him I'd rather not move any more."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69160,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601446_1.",
+            "TextJPN": "「…お姉、今日、泊まってってもいい？@k@vS06/06/150601446_2.　ここで寝ちゃいたいー…」",
+            "NamesENG": "Shion",
+            "TextENG": "``Sis, can I spend the night here?@k@vS06/06/150601446_2. I just want to sleep...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69161,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300321.",
+            "TextJPN": "「婆っちゃに見つかると怒られるよ…？」",
+            "NamesENG": "Mion",
+            "TextENG": "``Granny will get mad if she finds you..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69162,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300322.",
+            "TextJPN": "「って、それより詩音、明日は学校じゃないの？」",
+            "NamesENG": "Mion",
+            "TextENG": "By the way, don't you have school tomorrow, Shion?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69163,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601446.",
+            "TextJPN": "「…明日は開校記念日だからいいの…。@k@vS06/06/150601447.…んーー…」",
+            "NamesENG": "Shion",
+            "TextENG": "``No, tomorrow is our school's anniversary, so there's no class...@k@vS06/06/150601447. ...Mmm...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69164,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300323.",
+            "TextJPN": "「あんたの学校、開校記念日って年に何回あるわけ？」",
+            "NamesENG": "Mion",
+            "TextENG": "``How many times a year does your school have its anniversary?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69165,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300324.",
+            "TextJPN": "「…まぁ、いいっかぁ。@k@vS06/03/150300325.じゃ、葛西さん。@k@vS06/03/150300326.詩音は今夜はうちで預かります」",
+            "NamesENG": "Mion",
+            "TextENG": "Oh well...@k@vS06/03/150300325. Okay, Kasai-san.@k@vS06/03/150300326. She can stay here tonight.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69166,
+            "NamesJPN": "葛西",
+            "PreTextTags": "@vS06/15/151500210.",
+            "TextJPN": "「わかりました。@k@vS06/15/151500211.ではよろしくお願いいたします」",
+            "NamesENG": "Kasai",
+            "TextENG": "``Understood.@k@vS06/15/151500211. Good night.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69167,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300327.",
+            "TextJPN": "「ほら詩音、起きてー。ここで寝てると婆っちゃに怒られるって。@k@vS06/03/150300328.ほら、肩を貸すから奥に行こう。@k@vS06/03/150300329.私の布団、貸してあげるから」",
+            "NamesENG": "Mion",
+            "TextENG": "``Come on, Shion, wake up. Granny will get really mad if you fall asleep here.@k@vS06/03/150300328. Here, hold on to me.@k@vS06/03/150300329. You can sleep in my room.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69168,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601447_1.",
+            "TextJPN": "「ありり～～お姉～～…ぅ～～ん…」",
+            "NamesENG": "Shion",
+            "TextENG": "``Y'whaaa?... Sis... uhhnnn...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69169,
+            "TextJPN": "だいぶ寝惚けていたから、はっきりとは覚えていない。",
+            "TextENG": "I didn't remember much after that."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69170,
+            "TextJPN": "でも、確か私は魅音の部屋に連れてこられて、布団に潜り込んだんだ。",
+            "TextENG": "I was probably brought to Mion's room and immediately crawled into the futon."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69171,
+            "TextJPN": "それで、少し後片付けした後、魅音もその脇に布団を敷いて、部屋の灯りを消して横になったはず…。",
+            "TextENG": "After a while, Mion got her futon ready next to me, turned the lights off, and went to sleep... At least, that's what I'd thought..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69172,
+            "TextJPN": "私は起き上がって、灯りを点けた。",
+            "TextENG": "I got up and turned the lights on."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69173,
+            "TextJPN": "魅音の布団は空っぽだった。",
+            "TextENG": "Mion's futon was empty."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69174,
+            "TextJPN": "…布団に温かみはない。",
+            "TextENG": "The futon felt cold."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69175,
+            "TextJPN": "魅音が布団を抜け出したのはずいぶん前だ。",
+            "TextENG": "Mion must have left it a while ago."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69176,
+            "TextJPN": "……お手洗い…？",
+            "TextENG": "Did she go to the bathroom?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69177,
+            "TextJPN": "いや、一番近くのお手洗いは、廊下のすぐそこだ。",
+            "TextENG": "No, the closest bathroom was right there down the hallway."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69178,
+            "TextJPN": "…でも、そこに灯りはついていない。",
+            "TextENG": "The light in the bathroom was off."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69179,
+            "TextJPN": "どこへ行ったんだろう……？",
+            "TextENG": "Where did she go?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69180,
+            "TextJPN": "静寂の中、いやにうるさく聞こえる時計の針の音。",
+            "TextENG": "The ticking of the clock was loud and annoying in this silence."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69181,
+            "TextJPN": "見ればその針は…午前３時の少し前を指していた。",
+            "TextENG": "The hands pointed... to a little before 3 AM."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69182,
+            "TextJPN": "こんな深夜に、…突然、ひとり残されて。",
+            "TextENG": "I was left alone all of a sudden... in this late night."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69183,
+            "TextJPN": "せっかくドンちゃん騒ぎで忘れかけてた、あの祭具殿での薄気味悪さが…再び戻ってくるのを感じた。",
+            "TextENG": "I felt the eerieness of the ritual storehouse coming back to me... after almost managing to forget it in the ruckus earlier."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69184,
+            "TextJPN": "……気味の悪い気配も、…不審な物音も、…足音もない。",
+            "TextENG": "I tried to sense my surroundings; in this house, there shouldn't be an eerie atmosphere, strange noises, or footsteps."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69185,
+            "TextJPN": "私は魅音の姿を求めて、凍てつくように冷えた廊下に歩み出した…。",
+            "TextENG": "I stepped out into the freezing cold hallway to look for Mion..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69186,
+            "TextJPN": "灯りの漏れている部屋をすぐに見つけられた。",
+            "TextENG": "When I did, I immediately noticed light coming from one of the nearby rooms."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69187,
+            "TextJPN": "……そこは、祖母の寝室だった。",
+            "TextENG": "That room belonged to the hag."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69188,
+            "TextJPN": "祖母は割と早く寝る代わりに朝が早い。",
+            "TextENG": "The hag went to sleep early and woke up early."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69189,
+            "TextJPN": "しかも就寝時間に厳格だ。@k…だから、こんな時間に灯りがついていることは考えられなかった。",
+            "TextENG": "She was very strict about her bedtime.@k So it was strange to see her light on in the middle of the night."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69190,
+            "TextJPN": "その部屋から、灯りだけじゃなく、声も漏れてくる。@k…魅音と祖母の声。",
+            "TextENG": "I could hear voices too.@k Those voices belonged to the hag... and Mion."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69191,
+            "TextJPN": "私はぎりぎりのところまで部屋に近付いて、耳を澄ませて会話をうかがった。",
+            "TextENG": "I creeped up to the room and listened to their conversation."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69192,
+            "TextJPN": "…草木も眠る時間だけあり、二人の会話は少し離れていてもよく聞こえた。",
+            "TextENG": "Since it was the middle of the night, I could hear their words very clearly."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69193,
+            "NamesJPN": "お魎",
+            "PreTextTags": "@vS06/17/152300019.",
+            "TextJPN": "「しゃもねえやんなぁ。@k@vS06/17/152300020.あんの若いんのも、ちょい出張り過ぎゃったんやぁん」",
+            "NamesENG": "Oryou",
+            "TextENG": "``But you know...@k@vS06/17/152300020. those young ones went too far.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69194,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300331.",
+            "TextJPN": "「まぁね。@k@vS06/03/150300332.………オヤシロさまのお怒りに触れたんだから、仕方ないしね」",
+            "NamesENG": "Mion",
+            "TextENG": "``You're right.@k@vS06/03/150300332. They made Oyashiro-sama angry, so I guess they got what they deserved.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69195,
+            "TextJPN": "魅音の声が、あの地下の秘密部屋で聞いた時と同じ、ぞっとするような冷たさを伴っていることに気付き、私は一層、息を殺した…。",
+            "TextENG": "Mion's voice sounded as cold as the one I'd heard down in the torture room. I held my breath."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69196,
+            "NamesJPN": "お魎",
+            "PreTextTags": "@vS06/17/152300021.",
+            "TextJPN": "「警察は調べんとっちゅとろんが、すったらん、間違いなかんね」",
+            "NamesENG": "Oryou",
+            "TextENG": "``The police say they are investigating, but are you sure?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69197,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300333.",
+            "TextJPN": "「………多分ね」",
+            "NamesENG": "Mion",
+            "TextENG": "``...I guess.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69198,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300334.",
+            "TextJPN": "「鷹野さんだろうね」",
+            "NamesENG": "Mion",
+            "TextENG": "``It's probably Takano-san.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69199,
+            "TextJPN": "心臓が止まりそうになる。",
+            "TextENG": "My heart almost stopped."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69200,
+            "TextJPN": "オヤシロさまの祟りに触れた。",
+            "TextENG": "Oyashiro-sama got angry."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69201,
+            "TextJPN": "警察が調べてる。",
+            "TextENG": "The police are investigating."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69202,
+            "TextJPN": "多分、鷹野さん。@k…そして、今日という日の意味。",
+            "TextENG": "It's probably Takano-san.@k And what day was it today."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69203,
+            "TextJPN": "わずかこれだけの単語でも、…何が起こりつつあるかが分かる。",
+            "TextENG": "Those words told me that something was happening."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69204,
+            "TextJPN": "奥歯がガチガチ鳴りそうなのを必死に堪える。",
+            "TextENG": "My teeth started to chatter. I desperately tried to stop them."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69205,
+            "TextJPN": "…全身がぶわっと膨張したみたいに感じて、耳が遠くなったような錯覚が起こる。",
+            "TextENG": "I felt like my body was swelling up suddenly. I could no longer hear as well."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69206,
+            "TextJPN": "……落ち着け、深呼吸。@k…耳をもっと澄ますんだ……。",
+            "TextENG": "Calm down. Breathe.@k Listen more carefully..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69207,
+            "TextJPN": "魅音と祖母の会話から、確実に言えるのは、５年目の事件もやはり起こったということ。",
+            "TextENG": "According to Mion and the hag's conversation, another incident definitely took place."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69208,
+            "TextJPN": "そしてその犠牲者はおそらく…鷹野さんと富竹さん…。",
+            "TextENG": "The victims were... Takano-san and Tomitake-san..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69209,
+            "TextJPN": "しかも、…祖母たちは、この二人が犠牲になった理由について、納得している節があるのだ。",
+            "TextENG": "From what I could tell, both Mion and the hag thought it made sense that whatever it was happened to them."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69210,
+            "TextJPN": "いやいやいやいや…もっと落ち着いて考えるんだ…。",
+            "TextENG": "No, no, no, no... I needed to think more calmly..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69211,
+            "TextJPN": "オヤシロさまの怒りに触れたから仕方ないとか言った。",
+            "TextENG": "They did say they deserved it for making Oyashiro-sama angry."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69212,
+            "TextJPN": "…鷹野さんと富竹さんがオヤシロさまの怒りに触れたって？",
+            "TextENG": "Did they say Takano-san and Tomitake-san made Oyashiro-sama angry?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69213,
+            "TextJPN": "どうしてオヤシロさまの祟りに触れたんだ…？",
+            "TextENG": "How did they make Oyashiro-sama angry?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69214,
+            "TextJPN": "………ばれてるんだ。",
+            "TextENG": "............They knew."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69215,
+            "TextJPN": "全身の関節ががくがくと震え始める。",
+            "TextENG": "My body started to shake."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69216,
+            "TextJPN": "…祭具殿に忍び込んだことが、ばれてるんだ…。",
+            "TextENG": "They knew we snuck into the ritual storehouse..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69217,
+            "TextJPN": "なら、…一緒に忍び込んだ圭一と、………私もオヤシロさまの祟りの対象じゃないか…。",
+            "TextENG": "Then would that mean... Keiichi and I were also subject to Oyashiro-sama's curse?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69218,
+            "TextJPN": "その時、突然、電話のベルが鳴り響いた。",
+            "TextENG": "Suddenly a phone rang."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69219,
+            "TextJPN": "電話は、玄関の方にある。",
+            "TextENG": "The phone was by the front door."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69220,
+            "TextJPN": "玄関は祖母たちの部屋の反対側のずっと奥。",
+            "TextENG": "The front door was opposite the hag's room, farther down the hall."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69221,
+            "TextJPN": "長い廊下の途中で、たくさんの壁にぶつかって残響しながら響く電話の音は、この世からの電話とは思えない不気味さがあった…。",
+            "TextENG": "The ringing echoed throughout the long hallway. It sounded so eerie, almost like it was coming from Hell..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69222,
+            "TextJPN": "その時、………私の後ろに、…居た。",
+            "TextENG": "That was when...... I felt someone behind me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69223,
+            "TextJPN": "もちろん、振り返ったって誰の姿もない。@k…でも、居た。",
+            "TextENG": "Of course, there was nobody there when I turned around.@k But there was someone there a moment ago."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69224,
+            "TextJPN": "悟史くんかどうかはわからない。",
+            "TextENG": "I didn't know if it was Satoshi-kun."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69225,
+            "TextJPN": "…感情が感じられないから、…判断が付かない。",
+            "TextENG": "I didn't sense any emotions, so I couldn't tell."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69226,
+            "TextJPN": "いつからそこに居たのかわからない。",
+            "TextENG": "I also didn't know how long it had been there."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69227,
+            "TextJPN": "……まるで、盗み聞きする私を監視するような、…そんな気配と視線。",
+            "TextENG": "It was as if that somebody was watching me listen in on their conversation. That was the feeling I got."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69228,
+            "TextJPN": "…悟史くんのわけない。",
+            "TextENG": "It couldn't be Satoshi-kun."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69229,
+            "TextJPN": "…悟史くんがこんな威圧的な恐ろしさを滲ませるわけがない。",
+            "TextENG": "Satoshi-kun would never be that intimidating or scary."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69230,
+            "TextJPN": "頭の中が真っ赤な血の色でいっぱいに染まってしまう。",
+            "TextENG": "My mind turned all red, like it was suffused with blood."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69231,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS06/02/150200164.",
+            "TextJPN": "「魅ぃちゃんにはない？@k@vS06/02/150200165.　ひたひたと。@k@vS06/02/150200166.ずぅっと足音がついて来て。@k@vS06/02/150200167.…夜は枕元にまで立たれて、見下ろされる経験」",
+            "NamesENG": "Rena",
+            "TextENG": "``...Have you experienced anything like that?@k@vS06/02/150200165. Those footsteps always followed me......@k@vS06/02/150200166. They even came to my bedside@k@vS06/02/150200167. and looked down at me.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69232,
+            "TextJPN": "脳裏に蘇るのは、…あの雨の日に竜宮レナに言われたあの言葉。",
+            "TextENG": "I remembered what Rena Ryuugu had said on that rainy day."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69233,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS06/02/150200168.",
+            "TextJPN": "「そうならば魅ぃちゃんは大丈夫。@k@vS06/02/150200169.…オヤシロさまには怒られない」",
+            "NamesENG": "Rena",
+            "TextENG": "``You'll be okay, if that's true......@k@vS06/02/150200169. Oyashiro-sama won't get mad at you.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69234,
+            "TextJPN": "…オヤシロさまに怒られないなら、…誰かが私の後ろをひたひた付いてきたりすることなんて、ない。",
+            "TextENG": "If Oyashiro-sama wasn't angry, nobody would follow me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69235,
+            "TextJPN": "じゃあ…何。@k…祭具殿に忍び込んだ時から、…私の後ろをぺたぺたと付きまとってるのは、……何だって言うの…。",
+            "TextENG": "So what did this mean?@k Ever since we snuck into the shrine storage something has been following me? What is it?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69236,
+            "TextJPN": "落ち着け落ち着け…。",
+            "TextENG": "Calm down, calm down..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69237,
+            "TextJPN": "そう、レナの話した話は私の話じゃない。",
+            "TextENG": "That's right. Rena wasn't talking about me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69238,
+            "TextJPN": "そう、悟史くんの話！　悟史くんの身に起こった話…！",
+            "TextENG": "She was talking about Satoshi-kun! That's what happened to Satoshi-kun!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69239,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS06/02/150200170.",
+            "TextJPN": "「悟史くんが体験していることは全て、…オヤシロさまの祟りの前触れなの」",
+            "NamesENG": "Rena",
+            "TextENG": "``Everything he's going through... is a sign of Oyashiro-sama's curse.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69240,
+            "TextJPN": "そうだね、だから悟史くんはオヤシロさまの祟りに遭ってしまったんだね…。",
+            "TextENG": "That's right. That's why he encountered the curse of Oyashiro-sama..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69241,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS06/02/150200171.",
+            "TextJPN": "「……誰かが遠くからじっとうかがっている。@k@vS06/02/150200172.…誰かがずっとつけて来る」",
+            "NamesENG": "Rena",
+            "TextENG": "``......You feel someone is watching from a distance...@k@vS06/02/150200172. and it follows you...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69242,
+            "TextJPN": "ぞおっとしたものが…腰から湧き上がり、背中全体に広がっていく。",
+            "TextENG": "A creepy feeling crawled up and spread across my back."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69243,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS06/02/150200173.",
+            "TextJPN": "「…誰かがいつも、自分のすぐ後ろから見ている。@k@vS06/02/150200174.…やがて足音は常に、自分とずれてひとつ余計に聞こえるようになるの」",
+            "NamesENG": "Rena",
+            "TextENG": "``Then it watches from right behind you...@k@vS06/02/150200174. ...After that, you start hearing an extra footstep.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69244,
+            "TextJPN": "固唾を音がするくらいに呑み込む。",
+            "TextENG": "I swallowed loudly."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69245,
+            "TextJPN": "……まるで、あの時の竜宮レナが、…今の私を予言してるみたいじゃあないか…。",
+            "TextENG": "It's almost as though Rena Ryuugu was predicting what would happen to me..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69246,
+            "TextJPN": "レナはあの時、悟史くんの話をしたのか？@k　私のこれからの話をしたのか…？！",
+            "TextENG": "Had Rena been talking about Satoshi-kun back then?@k Or had she actually been talking about me...?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69247,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS06/02/150200175.",
+            "TextJPN": "「……やがて後ろのそれは自分の家の中にまで付いて来るようになる。@k@vS06/02/150200176.そして、…お布団に入って灯りを消しても、…ずっと枕元から見下ろしてるの。@k@vS06/02/150200177.……ただただ黙って。@k@vS06/02/150200178.じぃっと…」",
+            "NamesENG": "Rena",
+            "TextENG": "``But you start hearing it even inside your house after a while.@k@vS06/02/150200176. Then... Oyashiro-sama keeps watching you even when you're sleeping in the dark...@k@vS06/02/150200177. right by your side,@k@vS06/02/150200178. waiting silently...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69248,
+            "TextJPN": "もう間違いない、もう間違いない…。",
+            "TextENG": "I knew by now that there was no mistake..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69249,
+            "TextJPN": "どんなに都合よく楽天的に考えようとしても無理。@k……これは私。@k…私。@k…私のこと！",
+            "TextENG": "No matter how I looked at it,@k she had been talking about me.@k Yes, me.@k It had been about me!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69250,
+            "TextJPN": "オヤシロさまの祟りって…オヤシロさまの祟りって…！！",
+            "TextENG": "The curse of Oyashiro-sama... What is the curse of Oyashiro-sama?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69251,
+            "TextJPN": "その時、気配でも音でもなく本当に。",
+            "TextENG": "That was when I actually felt something for real."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69252,
+            "TextJPN": "私の襟首が掴まれた。",
+            "TextENG": "Someone grabbed my collar."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69253,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601448.",
+            "TextJPN": "「ぁ………ッッ！？！？」",
+            "NamesENG": "Shion",
+            "TextENG": "``Ah.........!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69254,
+            "TextJPN": "悲鳴なんか出ない。",
+            "TextENG": "No voice came out."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69255,
+            "TextJPN": "出したかったけど、喉の奥が詰まったようになって、口をぱくぱくさせるのがやっと…。",
+            "TextENG": "I wanted to scream, but all I could do was to open and close my mouth, as if something was stuck in my throat..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69256,
+            "TextJPN": "それは…魅音だった。",
+            "TextENG": "It was Mion..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69257,
+            "TextJPN": "地下の秘密部屋で見せたあの冷たい表情とだって、比べようがないくらいの…信じられないくらいに冷たい表情で。",
+            "TextENG": "She looked even colder than how she'd looked in the underground torture room."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69258,
+            "TextJPN": "…当然だ。@k電話が鳴ってるんだから、電話を取りに魅音が廊下へ出たのは当り前。",
+            "TextENG": "It only made sense@k that she'd come out into the hallway to answer the phone."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69259,
+            "TextJPN": "たまたま夜中に目が覚めちゃって…偶然、ばったり…なんて言う言い逃れを頭の中に用意する。",
+            "TextENG": "I tried to come up with an excuse..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69260,
+            "TextJPN": "……でも、魅音の瞳は信じられないくらいに冷え込んでいて。",
+            "TextENG": "However, the way Mion looked at me was so cold."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69261,
+            "TextJPN": "私が本当に偶然ばったりだったとしても、…何の反論も許さないような恐ろしい気配に満ちていた。",
+            "TextENG": "Even if I really had run into her by accident, I could tell by the look in her eyes that she wouldn't believe me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69262,
+            "TextJPN": "私は全身に脂汗を噴き出しながら…、指一本動かすことができない。",
+            "TextENG": "I felt cold sweat all over my body. I couldn't even move my fingers."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69263,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601449.",
+            "TextJPN": "「……ご、……ごめ、…、」",
+            "NamesENG": "Shion",
+            "TextENG": "``S... Sorry...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69264,
+            "TextJPN": "無意識の内に謝罪の言葉が口を突く。",
+            "TextENG": "I apologized."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69265,
+            "TextJPN": "言い逃れの余地があったかも知れないのに、真っ先に非を認める最低の言葉だ。",
+            "TextENG": "I could have said something to get myself out of the situation, but the apology came out first."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69266,
+            "TextJPN": "だがそんなのは魅音の耳には入らないようだった。",
+            "TextENG": "But Mion didn't appear to hear me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69267,
+            "TextJPN": "ただ黙って連行するかのように、私の襟首を掴んだまま、玄関へ向かった。",
+            "TextENG": "She walked to the front door, still holding my collar."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69268,
+            "TextJPN": "電話はまだ鳴り続けている。",
+            "TextENG": "The phone was still ringing."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69269,
+            "TextJPN": "…普通の人だったら、こんな深夜にこんなに電話を鳴らし続けたりなんかしない。@k…その時点でも、もう現実離れしていた。",
+            "TextENG": "A normal person doesn't usually let a phone ring so long at this time of night.@k The phone call itself didn't seem real to me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69270,
+            "TextJPN": "私の襟首を掴んだまま、魅音は受話器を取った。",
+            "TextENG": "Mion picked up the phone."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69271,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300335.",
+            "TextJPN": "「……魅音です。@k@vS06/03/150300336.……………………。@k@vS06/03/150300337.……そうですか。@k@vS06/03/150300338.わかりました」",
+            "NamesENG": "Mion",
+            "TextENG": "``This is Mion.@k@vS06/03/150300336. ............@k@vS06/03/150300337. ...I see.@k@vS06/03/150300338. I understand.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69272,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300339.",
+            "TextJPN": "「……そちらの対応はよろしくお願いします。@k@vS06/03/150300340.それから、一切の口封じをよろしくお願いします。@k@vS06/03/150300341.…………えぇ。@k@vS06/03/150300342.では」",
+            "NamesENG": "Mion",
+            "TextENG": "``Please take care of things at your end.@k@vS06/03/150300340. Also, please make sure that nobody talks about this.@k@vS06/03/150300341. ...Yes.@k@vS06/03/150300342. Goodbye.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69273,
+            "TextJPN": "短いやり取りだけすると、魅音は受話器を置いた。",
+            "TextENG": "Mion put down the phone after a short conversation."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69274,
+            "TextJPN": "口封じって何？！",
+            "TextENG": "What did she mean, make sure nobody talks about this?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69275,
+            "TextJPN": "今の電話の相手は…誰？！　…………ッ！！！",
+            "TextENG": "Who called any... way?! ............!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69276,
+            "TextJPN": "魅音は襟首を掴んだまま、私に額を寄せて…言った。",
+            "TextENG": "Mion put her forehead to mine and spoke to me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69277,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300343.",
+            "TextJPN": "「…………聞いてた…？」",
+            "NamesENG": "Mion",
+            "TextENG": "``Did you hear?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69278,
+            "TextJPN": "何に対して聞いてたと言ってるのか…！！",
+            "TextENG": "Which conversation was she asking me about?!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69279,
+            "TextJPN": "そんなのすぐ分かる、祖母との会話を聞いてしまったかどうかだ。",
+            "TextENG": "Well, she had to be talking about the one with the hag."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69280,
+            "TextJPN": "でも、聞いたと答えればどういうことになるか、想像もつかない。",
+            "TextENG": "If I said yes, what would happen to me?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69281,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601450.",
+            "TextJPN": "「………し、…知ら……、…あはは、…何のことか、わかんない…。@k@vS06/06/150601451.……ぁぅ…！」",
+            "NamesENG": "Shion",
+            "TextENG": "``...I... don't... ahaha... I don't know what you're talking about...@k@vS06/06/150601451. Ahhhh...!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69282,
+            "TextJPN": "魅音は襟首をぐっと引き絞ると、私に鼻をぶつけながら言った。",
+            "TextENG": "Mion pulled my collar, pressed her nose on mine, and continued to speak."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69283,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300344.",
+            "TextJPN": "「………聞こえた通りです。@k@vS06/03/150300345.…富竹さんと鷹野さんが、オヤシロさまの祟りに遭われました。@k@vS06/03/150300346.………本当にお気の毒なことです」",
+            "NamesENG": "Mion",
+            "TextENG": "``Just what you heard.@k@vS06/03/150300345. The curse of Oyashiro-sama fell upon Tomitake-san and Takano-san.@k@vS06/03/150300346. It's really very unfortunate...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69284,
+            "TextJPN": "それはまるで、鏡の中の私が囁きかけるよう。",
+            "TextENG": "It was like I was talking to myself in a mirror."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69285,
+            "TextJPN": "だが口にするそれは、凍てつく冬に触れる鏡のような、冷え切ったもの…。",
+            "TextENG": "But what I was saying in the mirror was ever so cold."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69286,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601452.",
+            "TextJPN": "「……お姉…、あはは、……オヤシロさまの祟りって、…何です…？」",
+            "NamesENG": "Shion",
+            "TextENG": "``...Sis... Ahaha... what is the curse of Oyashiro-sama?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69287,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300347.",
+            "TextJPN": "「富竹さんは、自らの手で喉を掻き毟ってお亡くなりになりました。@k@vS06/03/150300348.…鷹野さんは遠くの山奥で、ドラム缶に詰められて焼き殺されたそうで。@k@vS06/03/150300349.…実にお気の毒です」",
+            "NamesENG": "Mion",
+            "TextENG": "``Tomitake-san killed himself by clawing out his throat.@k@vS06/03/150300348. Takano-san was burned to death in an oil drum.@k@vS06/03/150300349. ...Terrible, isn't it.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69288,
+            "TextJPN": "…富竹さんが自分の手で喉を掻き毟って死んだって？！",
+            "TextENG": "Tomitake-san clawed at his own throat until he died?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69289,
+            "TextJPN": "何それ！",
+            "TextENG": "What?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69290,
+            "TextJPN": "鷹野さんがドラム缶に詰められて焼き殺されたって？！",
+            "TextENG": "Takano-san was burned to death in an oil drum?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69291,
+            "TextJPN": "何それ…何それ！！",
+            "TextENG": "What? What??"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69292,
+            "TextJPN": "背筋を毛むくじゃらの毛虫が這い上がってくるような悪寒。",
+            "TextENG": "I felt something furry crawl up my spine."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69293,
+            "TextJPN": "そして、胃がデングリ返って痙攣しそうになる圧迫感。",
+            "TextENG": "I also felt like my stomach was turning upside down."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69294,
+            "TextJPN": "腰から下がぼーっとして…魅音に襟首を放されたら、そのまま崩れ落ちてしまいそうだった。",
+            "TextENG": "I didn't feel any strength in my legs. If Mion let go of my collar, I'd probably collapse on the spot."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69295,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601453.",
+            "TextJPN": "「……な…なんで、…そんな死に方…、したのかなぁ…」",
+            "NamesENG": "Shion",
+            "TextENG": "``Wh, Why did they die that way?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69296,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300350.",
+            "TextJPN": "「わかりませんか、…詩音…？」",
+            "NamesENG": "Mion",
+            "TextENG": "``Don't you know, Shion?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69297,
+            "TextJPN": "…わからないから…聞いてるんだって…。",
+            "TextENG": "I'm asking you because I don't know..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69298,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601454.",
+            "TextJPN": "「わか、わかんないよ…あはははは……、」",
+            "NamesENG": "Shion",
+            "TextENG": "``I, I don't know... Ahahaha...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69299,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300351.",
+            "TextJPN": "「理由なんて、ひとつしかないじゃないですか」",
+            "NamesENG": "Mion",
+            "TextENG": "``Don't you see there can be only one reason?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69300,
+            "TextJPN": "その、まるで自分の胸に聞いてみろみたいな言い方は勘弁…。",
+            "TextENG": "Please don't talk as if I already know the answer..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69301,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601455.",
+            "TextJPN": "「…何の…り、理由かなぁ…」",
+            "NamesENG": "Shion",
+            "TextENG": "``What do you mean?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69302,
+            "TextJPN": "心臓がばくばくする。@k…血の混じった熱い排気が喉の奥から込み上げて窒息しそうになる…。",
+            "TextENG": "My heart was pounding.@k I felt that my next breath would be so bloody and hot that I'd choke on it..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69303,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300352.",
+            "TextJPN": "「そんなこともわかんないのですか？」",
+            "NamesENG": "Mion",
+            "TextENG": "``Don't you know?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69304,
+            "TextJPN": "『オヤシロさまのお怒りに、触れたから』",
+            "TextENG": "``It's because they made Oyashiro-sama angry.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69305,
+            "TextJPN": "１年目はダム工事の現場監督。",
+            "TextENG": "The first year, it was the manager of the dam construction site."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69306,
+            "TextJPN": "２年目は村の裏切り者。",
+            "TextENG": "The second year it was the traitors to the village."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69307,
+            "TextJPN": "３年目は村の日和見者。",
+            "TextENG": "The third year it was the pacifist."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69308,
+            "TextJPN": "４年目は村の裏切り者の縁者。",
+            "TextENG": "The fourth year it was the relatives of the traitors."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69309,
+            "TextJPN": "ダム戦争に縁がある人間だけが犠牲になると、心のどこかで決め付けていた。",
+            "TextENG": "I'd always thought the victims were people who had something to do with the dam conflict."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69310,
+            "TextJPN": "自分はダム戦争の時、何も嫌われることをしていないからセーフティー。@k勝手にそう決め付けていた。",
+            "TextENG": "Since I didn't do anything against the village during the dam conflict,@k I assumed I was safe."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69311,
+            "TextJPN": "自分だってわかってたじゃないか。",
+            "TextENG": "I should have known."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69312,
+            "TextJPN": "オヤシロさまの祟りってことになってるって。",
+            "TextENG": "I should have known everything would be the curse of Oyashiro-sama."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69313,
+            "TextJPN": "そう、オヤシロさまの祟りってのはオヤシロさまのお怒りってことも知ってた。",
+            "TextENG": "I knew Oyashiro-sama's anger was the curse of Oyashiro-sama."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69314,
+            "TextJPN": "そりゃ、祭具殿に勝手に侵入すれば…オヤシロさまに怒られるだろうなぁくらいには思ってた。",
+            "TextENG": "I knew Oyashiro-sama would get angry if I snuck into the ritual storehouse."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69315,
+            "TextJPN": "でも、それでも、自分はダム戦争の戦犯じゃないから、犠牲者になるなんてことは絶対にないと思ってた。",
+            "TextENG": "But since I wasn't held responsible in any way for the dam conflict, I never thought I would be a victim of the curse."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69316,
+            "TextJPN": "そもそも私は５年目も事件が起こるなんて思ってた…？",
+            "TextENG": "Did I ever think there would be an incident in the fifth year?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69317,
+            "TextJPN": "いや、そもそも、自分が５年目の犠牲者に選ばれるなんて、思ってた…？！",
+            "TextENG": "Did I ever think that I'd be the victim of that fifth-year incident?!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69318,
+            "TextJPN": "祭具殿に忍び込んだ富竹さんは自分で喉を引き裂いた？！",
+            "TextENG": "Tomitake-san snuck into the storehouse, and he clawed at his own throat until he died!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69319,
+            "TextJPN": "鷹野さんはドラム缶に詰められて焼き殺されたって？！@k　…嘘、馬鹿、信じらんない、いくら禁断の祭具殿ったって、単なる拷問道具の倉庫でしょ？！",
+            "TextENG": "Takano-san was burned to death in an oil drum!@k It must be a lie, it couldn't be true."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69320,
+            "TextJPN": "そこにちょいと空き巣の真似事をした位で…やる？！@k　殺る？！@k　ここまで酷い殺し方ができちゃうのッ？！",
+            "TextENG": "Even if it was forbidden, it was just a space for storing some old torture implements!@k How could they be killed for just sneaking in there?!@k Especially in such gruesome ways?!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69321,
+            "TextJPN": "…………できるだろうな、と。@k思った。",
+            "TextENG": "But I thought about it again and realized@k that those people were absolutely capable of doing things like that."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69322,
+            "TextJPN": "私に爪を剥がさせた、あの園崎本家なら、できるだろうな、と。",
+            "TextENG": "The main Sonozaki family was capable of it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69323,
+            "TextJPN": "毎年の連続怪死事件を裏で操る園崎本家なら、できるだろうな、と。",
+            "TextENG": "The Sonozaki family had been pulling the strings behind the series of mysterious deaths. They could do it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69324,
+            "TextJPN": "ダム戦争時にあれだけ暗躍し、大臣の孫すら誘拐してのけた園崎本家なら、できるだろうな、と。",
+            "TextENG": "The Sonozaki family even kidnapped the grandson of the Minister of Construction during the dam conflict. They could do it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69325,
+            "TextJPN": "…悟史くんを、いなかったことにしてしまえる園崎本家なら、できるだろうな、と。",
+            "TextENG": "The Sonozaki family made Satoshi-kun disappear completely. They could do it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69326,
+            "TextJPN": "魅音は私にしな垂れかかって、…そして、ずるずると滑り落ち、冷たい廊下にバタンと。",
+            "TextENG": "Mion leaned against me before falling onto the cold hallway floor."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69327,
+            "TextJPN": "…割と乱暴に倒れた。",
+            "TextENG": "She collapsed rather violently."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69328,
+            "TextJPN": "本来ならスタンガンなんて重くて邪魔なものを、身に付けたまま寝たりはしない。",
+            "TextENG": "I usually didn't go to sleep with my stun gun."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69329,
+            "TextJPN": "…だが、疲れてひたすら眠くって、寝る身支度なんてしないで布団に潜り込んだから。",
+            "TextENG": "But since I was too tired and sleepy to get ready for bed, I still had it on me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69330,
+            "TextJPN": "…私はスタンガンを持っていた。",
+            "TextENG": "I had my stun gun on me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69331,
+            "TextJPN": "私は今こそ、…理解する。",
+            "TextENG": "I finally understood."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69332,
+            "TextJPN": "手を直接に下したのが誰なのかはわからなくても。",
+            "TextENG": "I didn't know who killed them exactly."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69333,
+            "TextJPN": "誰が、何の思惑で誰に指示をしたにしても。",
+            "TextENG": "Whose idea it was or who ordered it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69334,
+            "TextJPN": "誰が誰に気を利かせたにしても。",
+            "TextENG": "I didn't even know who was actually involved."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69335,
+            "TextJPN": "…それを魅音や祖母は知っている。",
+            "TextENG": "But Mion and the hag knew everything."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69336,
+            "TextJPN": "悟史くん。@k……私、やっとわかったよ。",
+            "TextENG": "Satoshi-kun.@k Now I finally know."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69337,
+            "TextJPN": "私が、やらなくちゃならないことが、やっとわかった。",
+            "TextENG": "Now I know what I need to do."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69338,
+            "TextJPN": "悟史くん、君の無念はきっと私が晴らすから。",
+            "TextENG": "I will settle the score for you, Satoshi-kun."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69339,
+            "TextJPN": "…悟史くん、君の仇はきっと私が討つから。",
+            "TextENG": "I will avenge you, Satoshi-kun."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69340,
+            "TextJPN": "…悟史くん、私は君みたいに、…殺されないから。",
+            "TextENG": "I won't be killed like you, Satoshi-kun."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69341,
+            "TextJPN": "私が祖母の部屋に入った時。",
+            "TextENG": "I walked into the hag's room."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69342,
+            "TextJPN": "祖母は何かの薬を飲む為に布団から体を起こし、私に背を向けるようにしていた。",
+            "TextENG": "She was sitting up to take some medicine. Her back was turned to me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69343,
+            "TextJPN": "私たちは双子。",
+            "TextENG": "Mion and I are twins."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69344,
+            "TextJPN": "まったく同じように踏み入れば、気配も何も変わらない。",
+            "TextENG": "If I acted like her, the hag wouldn't notice the difference."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69345,
+            "TextJPN": "バァさんは多分、私のことを魅音だと最後まで信じきっていたと思う。",
+            "TextENG": "I didn't think she ever suspected me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69346,
+            "TextJPN": "首筋に禍々しい器具を押し付ける。@k躊躇なくスイッチを入れる。",
+            "TextENG": "I put my stun gun to her neck,@k and pulled the trigger."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69347,
+            "TextJPN": "…電気の爆ぜる、形容のしにくい音がして、まるでスタンガンのスイッチが、バァさん自身のスイッチでもあったみたいに。",
+            "TextENG": "I heard an indescribable electrical sound, and the hag's lights went out."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69348,
+            "TextJPN": "…ストンと、ねじれた格好でバァさんは倒れた。",
+            "TextENG": "She fell in a twisted position."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69349,
+            "TextJPN": "スタンガンで気絶させた相手がどのくらいで自由を取り戻すか、よくわからない。",
+            "TextENG": "I didn't know how long it would take a person to regain their freedom of movement after getting knocked out with a stun gun."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69350,
+            "TextJPN": "二人が意識を取り戻す前に自由を奪わなくては。",
+            "TextENG": "So I had to restrain them before they woke back up."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69351,
+            "TextJPN": "私は信じられないくらい冷静だった。",
+            "TextENG": "I was unbelievably calm."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69352,
+            "TextJPN": "地下の秘密部屋の鍵束は、@k…以前、魅音が教えてくれた“頭首しか触れてはならない隠し引き出し”にしまわれていることを知っていた。",
+            "TextENG": "The key to the underground torture room@k was in the forbidden drawer that only the head of the family can access. Mion had told me about this once."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69353,
+            "TextJPN": "初めて探す引き出しだが、かつて魅音が教えてくれたイメージ通りの場所にあった。",
+            "TextENG": "I'd never looked for the drawer before, but I found it exactly where I thought it would be."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69354,
+            "TextJPN": "鍵束には、殊勝にも全ての鍵に、使う場所が記されたプレートが付けられていた。",
+            "TextENG": "The key was on a keychain with several of its sisters. Each key had a little plaque on it that said what it was used for."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69355,
+            "TextJPN": "魅音の字だった。",
+            "TextENG": "They were all in Mion's handwriting."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69356,
+            "TextJPN": "…あの馬鹿の律儀さが役に立つ。",
+            "TextENG": "She was an idiot for being so conscientious, but it sure helped me out."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69357,
+            "TextJPN": "私はそれをポケットにしまうと、外の納戸へ向かい、一輪の台車を探し出した。",
+            "TextENG": "I put the keychain in my pocket and headed to the outdoor storeroom to find a cart."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69358,
+            "TextJPN": "大型の懐中電灯もあった。",
+            "TextENG": "I found a large flashlight there as well."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69359,
+            "TextJPN": "それには紐がついていたので肩に掛けてぶら下げる。",
+            "TextENG": "There was a strap on the flashlight so I could put it on my shoulder."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69360,
+            "TextJPN": "…魅音と祖母の二人を運ぶためには、両手が自由になっているのは都合がよかった。",
+            "TextENG": "That way, I'd have both hands free to carry Mion and the hag."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69361,
+            "TextJPN": "それから魅音、祖母の順に台車で地下の秘密部屋前へ運び込む。",
+            "TextENG": "I loaded Mion and then our grandmother onto the cart and carried them to the underground torture room."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69362,
+            "TextJPN": "途中で目を覚ましそうになったら、もう一度スタンガンを食らわせてやろうと思ったが、@k…その威力は想像してたより遥かに強力で、バァさんはまるで目を覚ます様子がなかった。",
+            "TextENG": "I was prepared to use the stun gun again if they woke up while I was working...@k but it was more powerful than I imagined, and the hag showed no signs of waking."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69363,
+            "TextJPN": "ずいぶん前に、葛西になるべく強力なやつを用意してほしいと言って取り寄せさせたものだった。",
+            "TextENG": "This was the stun gun Kasai specially ordered for me when I told him I wanted a powerful one."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69364,
+            "TextJPN": "改造品で、護身の域を超えた出力が出せるから、悪戯には決して使わないように釘を刺されたっけ。",
+            "TextENG": "I remembered him telling me that it was an illegally modified stun gun and that I should never use it just for fun."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69365,
+            "TextJPN": "懐中電灯で照らしながら、灯りのスイッチを探す。",
+            "TextENG": "I used my flashlight to find the light switch."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69366,
+            "TextJPN": "…簡単に見つかった。",
+            "TextENG": "I found it easily and turned it on."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69367,
+            "TextJPN": "地下の全ての灯りが灯ったようだった。",
+            "TextENG": "All the lights went on in the basement."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69368,
+            "TextJPN": "…もっとも足元が分かる程度のぼんやりした灯りにしかならなかったが。",
+            "TextENG": "Although there was now illumination, it was very dim."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69369,
+            "TextJPN": "私は、二人が目を醒ますより早く終わらせようと、躊躇なく無駄なく、二人の体をてきぱきと運び込んだ。",
+            "TextENG": "I moved quickly so as to finish what I needed to do before they woke up."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69370,
+            "TextJPN": "まず魅音を、秘密部屋の奥にある牢屋に閉じ込めることにする。",
+            "TextENG": "I decided to put Mion in a cell beyond the torture room."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69371,
+            "TextJPN": "秘密部屋だけは灯りがふんだんで、真昼のように明るくなっていた。",
+            "TextENG": "The lights in the torture room were so bright that it was like daylight."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69372,
+            "TextJPN": "その奥に扉があり、…確か、その向こうには牢屋があると言っていたっけ。",
+            "TextENG": "There was a door there. I was fairly certain the cells were on the other side of that door."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69373,
+            "TextJPN": "扉の鍵は……これか。",
+            "TextENG": "The proper key was... here."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69374,
+            "TextJPN": "鍵を開けるがちゃがちゃという音が、残響する。",
+            "TextENG": "The keys made a tinkling sound."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69375,
+            "TextJPN": "…扉の隙間から冷え切った空気が漏れてくるのもわかった。",
+            "TextENG": "I felt cold air coming in through the gap in the door."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69376,
+            "TextJPN": "扉の向こうは、相当広い空間であることがうかがえた。",
+            "TextENG": "There must be a huge opening on the other side."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69377,
+            "TextJPN": "扉を開けると、…何も見えない漆黒が広がっていた。",
+            "TextENG": "I opened the door and I saw nothing but darkness."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69378,
+            "TextJPN": "灯りのスイッチがすぐ脇にないかと手探りで探すと、案の定、それらしきものに触れた。",
+            "TextENG": "I felt along the wall to find a light switch."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69379,
+            "TextJPN": "スイッチを入れると…いくつかの裸電球に明かりが灯り、むき出しの岩肌の大空洞が広がった。",
+            "TextENG": "I turned the switch on... and the light bulbs lit up, revealing a huge rocky cave."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69380,
+            "TextJPN": "自然の洞窟というよりは、まるで防空壕の跡か何かのように見えた。",
+            "TextENG": "It didn't look like a natural cave. It looked more like an air-raid shelter."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69381,
+            "TextJPN": "それらのあちこちに鉄格子のはめられた岩窟がある。@k…岩牢だった。",
+            "TextENG": "There were several hollow openings with bars across them.@k Those were the cells."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69382,
+            "TextJPN": "一番近い岩牢に近付き、監禁に足るかを調べる。",
+            "TextENG": "I walked up to the closest cell, and checked to see if it was strong enough to confine her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69383,
+            "TextJPN": "鉄格子を押したり、引いたり。",
+            "TextENG": "I pushed and pulled on the bars."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69384,
+            "TextJPN": "最後には体当たりもしてみるが、華奢な感じはまったくない。",
+            "TextENG": "I rammed against them with all my weight, and decided they were perfectly sturdy."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69385,
+            "TextJPN": "牢の名に恥じぬ冷酷な頑丈さがあった。",
+            "TextENG": "This was secure enough to be called a cell."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69386,
+            "TextJPN": "私は鍵を開け、魅音を運び込んだ。",
+            "TextENG": "I opened the lock and carried Mion in."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69387,
+            "TextJPN": "…私の筋力はごくごく平均的。",
+            "TextENG": "I wasn't particularly strong. Just average."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69388,
+            "TextJPN": "人の体を軽々と持ち運べるような力があるとは思わなかった。",
+            "TextENG": "I'd never thought I was strong enough to carry a whole person."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69389,
+            "TextJPN": "…だが、非力なふりをする必要がないことを知った今の私は、何の苦もなく彼女らの体を担ぎ上げたり、引き摺ったりすることができた。",
+            "TextENG": "But now I didn't need to pretend to be weak. I could easily lift and drag their bodies."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69390,
+            "TextJPN": "魅音を岩牢の奥へ放り込む。",
+            "TextENG": "I put Mion in the cell."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69391,
+            "TextJPN": "……魅音が少し呻いた気がした。",
+            "TextENG": "She seemed to moan a little."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69392,
+            "TextJPN": "注意深く観察するまでもない、スタンガンの効果が切れ始めているのがわかった。",
+            "TextENG": "I didn't need to check to make sure. The effect of my stun gun was wearing off."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69393,
+            "TextJPN": "私は鉄格子を閉め鍵をすると、同じく目を醒ましかけているに違いないバァさんのもとへ走った。",
+            "TextENG": "I closed the bars and turned the key in the lock. Then I ran to the hag, who must've been starting to wake up too."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69394,
+            "TextJPN": "だが幸いなことに、バァさんの方はまだぐったりしていて身動きひとつできなかった。",
+            "TextENG": "Fortunately, there was no sign of her regaining consciousness."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69395,
+            "TextJPN": "…やはり若さなどで個体差があるらしい。",
+            "TextENG": "Maybe the difference in age had something to do with it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69396,
+            "TextJPN": "私はバァさんの体を縛り付けるための拘束台を探した。",
+            "TextENG": "I looked for a table to restrain her on."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69397,
+            "TextJPN": "…両手両足を拘束する車椅子を見つけ、それにバァさんを座らせる。",
+            "TextENG": "I found a wheelchair with restraints for the hands and feet. I put the hag in it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69398,
+            "TextJPN": "何の抵抗もしないけれど、重くてだらんとしたバァさんの体は、まるで大きなフランス人形みたいなものだった。",
+            "TextENG": "Of course she didn't resist, but her dead weight made it seem like she was a huge French doll, but one made of flesh."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69399,
+            "TextJPN": "肘掛の部分に両手を置き、手首の部分に鉄環を締めて蝶番で固定した。",
+            "TextENG": "I put her hands on the armrests, and restrained them at the wrists with the metal rings and hinges."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69400,
+            "TextJPN": "足も同じで、足首の部分で鉄環を締めて蝶番で固定する。",
+            "TextENG": "I did the same with her feet."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69401,
+            "TextJPN": "そもそも、車椅子を改造した拘束道具らしく、こうしてしまえば、あとは普通の車椅子と特別な違いはなかった。",
+            "TextENG": "This must've been a wheelchair specially remodeled to restrain a person. Other than the restraints, it was a regular wheelchair."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69402,
+            "TextJPN": "私はバァさんが目を醒ますのを待った。",
+            "TextENG": "I waited for the hag to wake up."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69403,
+            "TextJPN": "バァさんが目を醒ましたら聞きたいことは山ほどある。",
+            "TextENG": "I had so many things I wanted to ask her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69404,
+            "TextJPN": "素直に答えてくれるとは思わないが、ここにはそれを引き出すためのあらゆる道具があるのだ。@k…私は焦るつもりはなかった。",
+            "TextENG": "I didn't think she'd answer honestly, but I had plenty of tools to make her talk.@k I was in no rush."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69405,
+            "TextJPN": "バァさんが憂慮すると、親族の誰かが気を利かせる。",
+            "TextENG": "When the hag had a concern, relatives took care of the problem."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69406,
+            "TextJPN": "それが園崎本家の指示の仕方だ。",
+            "TextENG": "That was how it worked in the Sonozaki family."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69407,
+            "TextJPN": "とは言え、全ての情報は本家の頭首に集まる。",
+            "TextENG": "She was the leader of the family, so all the information they gathered would make its way to her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69408,
+            "TextJPN": "…この雛見沢で起こることで、バァさんが知らぬことなどあろうはずがない。",
+            "TextENG": "She must know everything that happened in Hinamizawa."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69409,
+            "TextJPN": "たとえそれがオヤシロさまの祟りでもだ。",
+            "TextENG": "Including the curse of Oyashiro-sama."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69410,
+            "TextJPN": "牢屋の方から、鉄格子を鳴らす音が聞こえてくる。",
+            "TextENG": "I heard a noise from the cell."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69411,
+            "TextJPN": "…バァさんが目を醒ますより早く、魅音が目を醒ましたようだった。",
+            "TextENG": "Mion must have woken up before the hag did."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69412,
+            "TextJPN": "バァさんはまだ当分、目を醒ましそうにないが、たとえ醒ましても椅子に拘束された今、何も恐れることはない。",
+            "TextENG": "Speaking of the hag, she didn't seem like she was about to wake up anytime soon, but she was restrained even if she did, so I had no need to fear."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69413,
+            "TextJPN": "私はバァさんをそのままにすると、目を醒ました双子のもとへ向かった。",
+            "TextENG": "I left the hag there and headed for the cell."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69414,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300353.",
+            "TextJPN": "「………詩音…、…これは…何の真似ですか…？」",
+            "NamesENG": "Mion",
+            "TextENG": "``...Shion, what do you think you're doing?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69415,
+            "TextJPN": "魅音は次期頭首のような喋り方だったが、その声色には怯えが混じり、自分の置かれた状況について、すでに理解しているようだった。",
+            "TextENG": "She talked like the successor, but she also sounded frightened. She obviously understood the situation she was in right now."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69416,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601456.",
+            "TextJPN": "「おはよ、魅音。@k@vS06/06/150601457.まさか自分が閉じ込められることになるとは思わなかった？@k@vS06/06/150601458.　あははは」",
+            "NamesENG": "Shion",
+            "TextENG": "``Good morning, Mion.@k@vS06/06/150601457. You never thought you'd be in there, huh?@k@vS06/06/150601458. Ahahaha.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69417,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300354.",
+            "TextJPN": "「……園崎家頭首代行として命じます。@k@vS06/03/150300355.…ここを…開けなさい…」",
+            "NamesENG": "Mion",
+            "TextENG": "``As the acting head, I order you.@k@vS06/03/150300355. Open this up.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69418,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601459.",
+            "TextJPN": "「あははははは、声色にひとつ凄みが欠けますね。頭首さまはもっと傲慢な言い方をしなきゃあね。@k@vS06/06/150601460.もっとも、そういう言い方ができたとしても、今のあんたは滑稽なだけなんだけどさ。@k@vS06/06/150601461.あははははははは！」",
+            "NamesENG": "Shion",
+            "TextENG": "``Ahahahaha, you don't sound so scary in there. You need to talk more like a leader, don't you think?@k@vS06/06/150601460. Though, talking that way will only make you look like a fool.@k@vS06/06/150601461. Ahahahahaha!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69419,
+            "TextJPN": "別に可笑しいことはなかったが、魅音を威圧する意味で無理に笑った。",
+            "TextENG": "There was nothing funny about it, but I wanted to intimidate Mion."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69420,
+            "TextJPN": "その声が大空洞にこだまして私の耳にも入る。",
+            "TextENG": "My laughter echoed throughout the cave."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69421,
+            "TextJPN": "…無理な作った無機質な笑い声。",
+            "TextENG": "It was artificial and meaningless laughter."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69422,
+            "TextJPN": "それらが反響して、幾重にもなって聞こえる。",
+            "TextENG": "I heard it over and over as it echoed."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69423,
+            "TextJPN": "まるで、私だけが笑ってるんじゃないみたいに。",
+            "TextENG": "It sounded as if I wasn't the only one laughing."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69424,
+            "TextJPN": "自分の笑い声に自分でも嫌になり、私は無機質な笑いをやめる。",
+            "TextENG": "I couldn't stand it, so I stopped."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69425,
+            "TextJPN": "すぐに静寂が押し寄せた。@kそれが耳に痛かったので、私は静寂を破るため、何かを口にする。",
+            "TextENG": "Silence filled the air.@k That silence almost hurt my ears, so I started to speak."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69426,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601462.",
+            "TextJPN": "「富竹さんと鷹野さんが今年の犠牲になるとはね…。@k@vS06/06/150601463.…思わなかった」",
+            "NamesENG": "Shion",
+            "TextENG": "``Tomitake-san and Takano-san becoming the victims this year.@k@vS06/06/150601463. I didn't expect that...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69427,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300356.",
+            "TextJPN": "「……………」",
+            "NamesENG": "Mion",
+            "TextENG": "``......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69428,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601464.",
+            "TextJPN": "「鷹野さんのドラム缶に詰めて焼き殺したってのもなかなかやるね。@k@vS06/06/150601465.まぁ、あの人はそういう死に方を自分で希望してたっぽいからね。@k@vS06/06/150601466.結構満足してるかもよ？@k@vS06/06/150601467.　くすくすくす」",
+            "NamesENG": "Shion",
+            "TextENG": "``What an idea to burn Takano-san to death.@k@vS06/06/150601465. But actually, she would be the kind of person who'd prefer to die that way.@k@vS06/06/150601466. Maybe she's satisfied, huh?@k@vS06/06/150601467. Hee hee hee.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69429,
+            "TextJPN": "魅音は余計な口を挟まず、私の出方をうかがうような眼差しで見ていた。",
+            "TextENG": "Mion didn't say anything. She just stared at me to see how I'd proceed."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69430,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601468.",
+            "TextJPN": "「富竹さんの、自分で自分の喉を引き裂いたってのは何？@k@vS06/06/150601469.　意識をおかしくさせるような怪しいお薬でも注射したの？@k@vS06/06/150601470.　それとも、そういう死に方に見せるような道具でもあるわけ？」",
+            "NamesENG": "Shion",
+            "TextENG": "``What about the way Tomitake-san died? He clawed out his own throat, right?@k@vS06/06/150601469. Did you give him a shot of some kind?@k@vS06/06/150601470. Or is there a torture device that did that to him?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69431,
+            "TextJPN": "魅音は答えなかった。",
+            "TextENG": "Mion didn't reply."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69432,
+            "TextJPN": "…私は余裕ぶって不敵な笑みを浮かべていたが、すぐに痺れを切らし、いらついて鉄格子を蹴飛ばした。",
+            "TextENG": "I was smiling boldly, but I became impatient and finally kicked the bars."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69433,
+            "TextJPN": "その乱暴な音が、残響して何度も何度もこだまする。",
+            "TextENG": "It made a violent noise."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69434,
+            "TextJPN": "魅音はまるで自分が蹴られたみたいに、びくっと体を震わせた。",
+            "TextENG": "Mion jumped as if she was kicked directly."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69435,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601471.",
+            "TextJPN": "「…返事がないと退屈です。私を怒らせるとどんな得が？」",
+            "NamesENG": "Shion",
+            "TextENG": "``It's boring not to get any answers. Do you have any idea what will happen if I get angry?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69436,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300357.",
+            "TextJPN": "「…わ……私が…知るわけないでしょ…」",
+            "NamesENG": "Mion",
+            "TextENG": "``H-How... How would I know...?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69437,
+            "TextJPN": "魅音はやっとそれだけを言い返した。",
+            "TextENG": "Mion finally replied."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69438,
+            "TextJPN": "憎々しげではあったが、やはりどこか頼りなく、哀れな声色だった。",
+            "TextENG": "She was odious, but at the same time, sounded pitiful."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69439,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601472.",
+            "TextJPN": "「ねぇ、魅音。@k@vS06/06/150601473.次期頭首さま。@k@vS06/06/150601474.ここまで来ちゃったんだから教えて下さいな。@k@vS06/06/150601475.………えっと、……」",
+            "NamesENG": "Shion",
+            "TextENG": "``Hey, Mion.@k@vS06/06/150601473. As the successor,@k@vS06/06/150601474. why don't you tell me?@k@vS06/06/150601475. ...Let's see...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69440,
+            "TextJPN": "今の私にとって、聞きたい問いはあまりに多すぎた。",
+            "TextENG": "I had just too many things I wanted to ask her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69441,
+            "TextJPN": "自分のこと、@k事件のこと、@k祟りのこと、@k悟史くんのこと。",
+            "TextENG": "I wanted to ask her about me,@k about the incident,@k about the curse,@k about Satoshi-kun."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69442,
+            "TextJPN": "…どれから聞けばいいか、順位なんて付けられなかった。",
+            "TextENG": "I didn't even know where to start."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69443,
+            "TextJPN": "それらを聞く前に、まず聞く。",
+            "TextENG": "Before I asked her about those, I asked her one other thing."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69444,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601476.",
+            "TextJPN": "「……私に対して、反抗的な態度を取っても何の得にもならないこと、理解してますよね？」",
+            "NamesENG": "Shion",
+            "TextENG": "``You know there's no point in trying to resist, don't you?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69445,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300358.",
+            "TextJPN": "「…………………」",
+            "NamesENG": "Mion",
+            "TextENG": "``............``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69446,
+            "TextJPN": "魅音は無言で睨み返してくる。",
+            "TextENG": "Mion glared at me silently."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69447,
+            "TextJPN": "…だが、双子だからこそ、それが空威張りの虚勢に過ぎないことがわかっていた。",
+            "TextENG": "Because we were twins, I knew that was just a bluff."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69448,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601477.",
+            "TextJPN": "「……もうここまでやっちゃった以上、私も引っ込みがつかないんで。@k@vS06/06/150601478.…お姉も、私に容赦とか躊躇とか、そういうものをあまり期待しない方がいいかもです」",
+            "NamesENG": "Shion",
+            "TextENG": "``We've come this far, so there's no point in me hesitating anymore.@k@vS06/06/150601478. You shouldn't expect hesitation or even mercy from me, Sis.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69449,
+            "TextJPN": "魅音の頬を、きっと冷たい汗が伝っているに違いなかった。",
+            "TextENG": "Mion must've been feeling the cold sweat on her face."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69450,
+            "TextJPN": "表情が凍り付いているのがこの暗がりでもよくわかる。",
+            "TextENG": "Although the light was dim, I could tell she was frightened."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69451,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601479.",
+            "TextJPN": "「じゃ、聞くよ。@k@vS06/06/150601480.………雛見沢村連続怪死事件。@k@vS06/06/150601481.通称オヤシロさまの祟り。@k@vS06/06/150601482.…これってどういう意味があるの？@k@vS06/06/150601483.　…やっぱりダム戦争のけじめってやつ？」",
+            "NamesENG": "Shion",
+            "TextENG": "``Okay, here I go.@k@vS06/06/150601480. First, about the series of the mysterious deaths in Hinamizawa@k@vS06/06/150601481. also known as the curse of Oyashiro-sama.@k@vS06/06/150601482. What's the meaning of it?@k@vS06/06/150601483. Is it to signify the end of the dam conflict?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69452,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300359.",
+            "TextJPN": "「…………、…私は、……ん、…多分そうだと思ってる」",
+            "NamesENG": "Mion",
+            "TextENG": "``......I... hmmm... I think so......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69453,
+            "TextJPN": "魅音は私の問いかけに、少し戸惑いはあったけど、拒まずに答えた。",
+            "TextENG": "Mion sounded a little confused, but she answered."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69454,
+            "TextJPN": "私はコミュニケーションが成立していることに笑みを浮かべ、先を続けた。",
+            "TextENG": "I felt satisfaction now that we were communicating. I continued with a smile."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69455,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601484.",
+            "TextJPN": "「思ってるって言い方が少し頼りないね。@k@vS06/06/150601485.…そのあたりの事情は詳しくないの？」",
+            "NamesENG": "Shion",
+            "TextENG": "``You think, huh?@k@vS06/06/150601485. Don't you know the details?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69456,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300360.",
+            "TextJPN": "「……詩音だって分かってるでしょ？@k@vS06/03/150300361.　次期頭首なんて、婆っちゃの取り次ぎに過ぎないよ…」",
+            "NamesENG": "Mion",
+            "TextENG": "``You know yourself@k@vS06/03/150300361. that the successor is simply a messenger for Granny...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69457,
+            "TextJPN": "…もっともらしいことを言う。",
+            "TextENG": "Yeah, right."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69458,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601486.",
+            "TextJPN": "「その頭首さまと意思を疎通させて、以心伝心なのが次期頭首さまの役目でしょ？@k@vS06/06/150601487.　取り次ぎに過ぎないなんて信じると思う？」",
+            "NamesENG": "Shion",
+            "TextENG": "``But the successor must know everything the current head is thinking, right?@k@vS06/06/150601487. Do you really think I believe you're just a messenger?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69459,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300362.",
+            "TextJPN": "「………いつも身近にいる私だって、…たまに婆っちゃが何を考えてるのか分からない時があるもん。@k@vS06/03/150300363.…何でもかんでも私が理解してるわけじゃない」",
+            "NamesENG": "Mion",
+            "TextENG": "``......Although I'm always around Granny, I don't always know what she's thinking.@k@vS06/03/150300363. It's not like I can understand her all the time.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69460,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601488.",
+            "TextJPN": "「じゃあ、オヤシロさまの祟りってのは、アイツが全部、独断で決めてるわけなんだ？@k@vS06/06/150601489.　次期頭首さまと相談して決めてるのかと思ったよ」",
+            "NamesENG": "Shion",
+            "TextENG": "``Okay, so you're saying that everything about the curse of Oyashiro-sama is decided by the hag herself, right?@k@vS06/06/150601489. I assumed she'd talk to the successor about it.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69461,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300364.",
+            "TextJPN": "「……ヤバい話は全部婆っちゃが独りで決めてる。@k@vS06/03/150300365.私なんか与り知る余地もない」",
+            "NamesENG": "Mion",
+            "TextENG": "``When it's something dangerous, Granny decides it on her own.@k@vS06/03/150300365. I don't have anything to do with it.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69462,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601490.",
+            "TextJPN": "「でも、バァさんの独断だとしたって。@k@vS06/06/150601491.アイツはあんたを介してやり取りしてるわけでしょ？@k@vS06/06/150601492.　そのあんたが何も知らないなんてあるはず、」",
+            "NamesENG": "Shion",
+            "TextENG": "``But even if she decides by herself,@k@vS06/06/150601491. grandma uses you to take care of various things, doesn't she?@k@vS06/06/150601492. And you're telling me you don't know anything?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69463,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300366.",
+            "TextJPN": "「違うよ…！@k@vS06/03/150300367.　……私なんかを介していない。@k@vS06/03/150300368.………私にだってよくわからないんだけど…、@k@vS06/03/150300369.私が『陽』の部分を取り次いでるとしたら、……『陰』の部分を取り次いでいる誰かがいると思う」",
+            "NamesENG": "Mion",
+            "TextENG": "``No...!@k@vS06/03/150300367. ...She doesn't use me for that.@k@vS06/03/150300368. ......I really don't understand it myself,@k@vS06/03/150300369. but it's like I take care of problems on the surface and someone else takes care of problems on the underside.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69464,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601493.",
+            "TextJPN": "「…誰。@k@vS06/06/150601494.その『陰』の部分の取り次ぎって」",
+            "NamesENG": "Shion",
+            "TextENG": "``...Who?@k@vS06/06/150601494. Who is the one that takes care of these 'underside problems'?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69465,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300370.",
+            "TextJPN": "「知らない…」",
+            "NamesENG": "Mion",
+            "TextENG": "``I don't know...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69466,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601495.",
+            "TextJPN": "「誰かを招いて話してるとことか、電話をしているとことか見たことない？@k@vS06/06/150601496.　…強いて言えば、毎年、オヤシロさまの祟りの時期になると連絡量がどっと増える相手ね」",
+            "NamesENG": "Shion",
+            "TextENG": "``Haven't you seen anyone? Haven't you overheard a phone conversation?@k@vS06/06/150601496. It must be someone who gets in touch with the hag at the same time every year, around the time the curse happens.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69467,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300371.",
+            "TextJPN": "「……わかんない。@k@vS06/03/150300372.…心当たりなんかないよ…」",
+            "NamesENG": "Mion",
+            "TextENG": "``I don't know.@k@vS06/03/150300372. I really don't...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69468,
+            "TextJPN": "魅音はこれ以上を聞かれても、何も答えようがないと、小さく首を振った。",
+            "TextENG": "Mion shook her head."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69469,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601497.",
+            "TextJPN": "「ま、いいや。@k@vS06/06/150601498.…じゃ、質問を変えるね。@k@vS06/06/150601499.今年の祟りの、富竹さんと鷹野さんはダム戦争に直接関係してないのに、なぜ犠牲に選ばれたの？@k@vS06/06/150601500.　…やっぱり、祭具殿に忍び込んだから？」",
+            "NamesENG": "Shion",
+            "TextENG": "``Okay,@k@vS06/06/150601498. let me change the question.@k@vS06/06/150601499. Why were Tomitake-san and Takano-san chosen as victims, even though they had nothing to do with the dam conflict?@k@vS06/06/150601500. Was it because they snuck into the ritual storehouse?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69470,
+            "TextJPN": "祭具殿という言葉を耳にした途端、魅音の顔色が変わった。",
+            "TextENG": "As soon as Mion heard the words ``ritual storehouse,`` her expression shifted."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69471,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300373.",
+            "TextJPN": "「祭具殿に？！@k@vS06/03/150300374.　古手神社の祭具殿を侵したの…ッ？！」",
+            "NamesENG": "Mion",
+            "TextENG": "``The ritual storehouse?@k@vS06/03/150300374. Did they intrude on the storehouse at the Furude Shrine?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69472,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601501.",
+            "TextJPN": "「……ありゃ。@k@vS06/06/150601502.知ってるとばかり」",
+            "NamesENG": "Shion",
+            "TextENG": "``Didn't you know?@k@vS06/06/150601502. I thought you already knew.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69473,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300375.",
+            "TextJPN": "「………そんなことをしたら……、…馬鹿…当然だよ………！」",
+            "NamesENG": "Mion",
+            "TextENG": "``If they really did that then it was truly stupid of them... Of course something would happen to them!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69474,
+            "TextJPN": "魅音は苦々しく言いながら俯き、首を何度も振る…。",
+            "TextENG": "Mion muttered bitterly while shaking her head repeatedly."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69475,
+            "TextJPN": "…私はその魅音の反応を見て、今さらながら祭具殿の禁を破ることの意味を感じていた。",
+            "TextENG": "Mion's reaction made me realize the true meaning of the forbidden storehouse for ritual implements."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69476,
+            "TextJPN": "祭具殿は神聖な建物だから入ってはいけない、入ると祟りがある。",
+            "TextENG": "The ritual storehouse is a sacred building, so nobody can go inside. The curse will fall upon any who disobey."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69477,
+            "TextJPN": "…そんなのは雛見沢に縁のある子どもなら誰でも知っている常識だ。",
+            "TextENG": "Any child would know that rule."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69478,
+            "TextJPN": "でも、知ってるからと言って、信じているとは限らない。",
+            "TextENG": "However, just because they knew about it didn't mean that they all believed in it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69479,
+            "TextJPN": "祟りがあると脅されてはいても、子どものほとんどはそこそこに面白怖がりながらも、まさか本当に祟りがあるなんて信じちゃいない。@k…その程度だ。",
+            "TextENG": "Although they were told they would be cursed, most of the kids actually enjoyed hearing the stories.@k They simply didn't believe it was true."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69480,
+            "TextJPN": "だが、魅音の反応はそんな甘えた認識とはかけ離れていた。",
+            "TextENG": "However, Mion's reaction told me it absolutely was."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69481,
+            "TextJPN": "そんなことしたら当然だよ。",
+            "TextENG": "If they actually did that... of course something would happen to them."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69482,
+            "TextJPN": "祭具殿に忍び込んだら、…殺されても当然だよ。@k…そう言っているのだ。",
+            "TextENG": "She was saying that if someone snuck into the ritual storehouse,@k that person should be killed."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69483,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601503.",
+            "TextJPN": "「私がこっちに帰って来て以降、たまに魅音とは認識が食い違いますね」",
+            "NamesENG": "Shion",
+            "TextENG": "``What you know and what I know aren't matching up anymore."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69484,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601504.",
+            "TextJPN": "「…そりゃ私だって、祭具殿が迂闊に入っちゃヤバいとこだってのは知ってますけど、@k@vS06/06/150601505.…あんな死に方しても当然だ、ってほどヤバいとは思わないんだけど…？」",
+            "NamesENG": "Shion",
+            "TextENG": "Of course I'm aware I shouldn't just waltz into the storehouse.@k@vS06/06/150601505. But to be killed in such a gruesome way for doing it?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69485,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601506.",
+            "TextJPN": "「私たちだって、その程度の認識じゃなかったでしたっけ？」",
+            "NamesENG": "Shion",
+            "TextENG": "``I never knew that. Did you?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69486,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300376.",
+            "TextJPN": "「…それは、詩音がよく知らないだけだよ」",
+            "NamesENG": "Mion",
+            "TextENG": "``That's just because you're ignorant about it, Shion.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69487,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601507.",
+            "TextJPN": "「すみませんね、…よく知らなくて。@k@vS06/06/150601508.説明をいただいてもよろしいですか？」",
+            "NamesENG": "Shion",
+            "TextENG": "``Well, sorry for being ignorant...@k@vS06/06/150601508. Could you please explain it to me?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69488,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300377.",
+            "TextJPN": "「そりゃ詩音の言うとおり、子供の世界では…ヤバいとか祟りがあるとか言ったって、@k@vS06/03/150300378.どうせ迷信に過ぎないだろう、でも大人にバレたらかなり怒られるんだろうな…って程度の認識だと思う」",
+            "NamesENG": "Mion",
+            "TextENG": "``Just like you said, the kids don't really believe in the curse.@k@vS06/03/150300378. They assume it's just superstition. But they also know that if an adult found out, they'd be in big trouble."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69489,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300379.",
+            "TextJPN": "「……でもね、…雛見沢の古老たちにとってはそんな甘いものじゃないの…！」",
+            "NamesENG": "Mion",
+            "TextENG": "But... to the elderly people of Hinamizawa, it's something more serious...!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69490,
+            "TextJPN": "魅音は、村の老人たちがいかにオヤシロさまを妄信し、祭り事をどれだけ神聖視しているかを話した。",
+            "TextENG": "Mion explained to me how the elderly people blindly believe in Oyashiro-sama, and how sacred the festivals are to them."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69491,
+            "TextJPN": "私たち若い世代にはわからない、根強く偏執的なくらいのオヤシロさま崇拝。",
+            "TextENG": "It's probably something the younger generations would never understand, but they're possessed by a very strong, deeply rooted devotion toward Oyashiro-sama."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69492,
+            "TextJPN": "…その中において、祭具殿の禁を犯すことがどれほどの禁忌なのか、を。",
+            "TextENG": "Mion then went on to tell me about how sinful it was to violate the rule of the ritual storehouse."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69493,
+            "TextJPN": "…私は、そんな馬鹿な、とか、昭和の世の中に馬鹿馬鹿しい、とか。",
+            "TextENG": "I just couldn't believe things like that were still going on even in the modern day."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69494,
+            "TextJPN": "…そんな相槌を打つのが精一杯だった。",
+            "TextENG": "I couldn't even reply appropriately."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69495,
+            "TextJPN": "でも。@k…この信じ難い内容も、もうひとりの私の口から紡がれる以上、聞き捨てるのは容易ではない…。",
+            "TextENG": "But...@k even if it was unbelievable, I couldn't ignore what I was hearing from my twin sister..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69496,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601509.",
+            "TextJPN": "「……なるほどね…。@k@vS06/06/150601510.でもさ魅音」",
+            "NamesENG": "Shion",
+            "TextENG": "``I see...@k@vS06/06/150601510. But Mion..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69497,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601511.",
+            "TextJPN": "「祟りで１人が死んだら、それを相殺する意味で１人を生贄にするのがルールじゃなかったっけ？@k@vS06/06/150601512.　生贄の死体は出ない。@k@vS06/06/150601513.…なのに今回は二人とも死体が出ちゃってるんだけど。@k@vS06/06/150601514.そのあたりはどう見る…？」",
+            "NamesENG": "Shion",
+            "TextENG": "Doesn't the rule say that one victim gets killed by the curse and another has to become a sacrifice?@k@vS06/06/150601512. The body of the sacrifice is never to be found.@k@vS06/06/150601513. But there are two dead bodies this time.@k@vS06/06/150601514. What do you think of that?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69498,
+            "TextJPN": "魅音は鷹野さん、富竹さん、そして私と圭一が祭具殿に忍び込んだことを知らない。@k…だから敢えてカマをかける。",
+            "TextENG": "Mion doesn't know that besides Takano-san and Tomitake-san, Keiichi and I also snuck into the ritual storehouse.@k So I tried to lead her a little."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69499,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300380.",
+            "TextJPN": "「………確かに、…おかしいね」",
+            "NamesENG": "Mion",
+            "TextENG": "``I know... that doesn't make sense.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69500,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601515.",
+            "TextJPN": "「鷹野さんの焼死体は、見つかっちゃいけなかったってことなのかな。@k@vS06/06/150601516.…本当は鷹野さんは失踪ってことになるのがパーフェクトだったのかなぁ？」",
+            "NamesENG": "Shion",
+            "TextENG": "``Maybe Takano-san's burned body wasn't supposed to be found.@k@vS06/06/150601516. Maybe the intention was for her to vanish.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69501,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300381.",
+            "TextJPN": "「…あるいは………、@k@vS06/03/150300382.……ん、…自信はないけど…」",
+            "NamesENG": "Mion",
+            "TextENG": "``...Or...@k@vS06/03/150300382. ...hmmm, I'm not too sure, but...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69502,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601517.",
+            "TextJPN": "「何？@k@vS06/06/150601518.　根拠なんかいらないから言ってみてよ。怒らないから」",
+            "NamesENG": "Shion",
+            "TextENG": "``What?@k@vS06/06/150601518. Just say what you're thinking. I won't get mad.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69503,
+            "TextJPN": "魅音は口ごもっては飲み込みを二度ほど繰り返してから、おずおずとそれを口にした。",
+            "TextENG": "Mion hesitated a little first and then started to speak."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69504,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300383.",
+            "TextJPN": "「…祭具殿に忍び込んだのは実は４人、…とか」",
+            "NamesENG": "Mion",
+            "TextENG": "``Actually, four people snuck into the shrine storage... so maybe...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69505,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS06/06/150601519.",
+            "TextJPN": "「………ふぅん？@k@vS06/06/150601520.　それで？」",
+            "NamesENG": "Shion",
+            "TextENG": "``Hmm......?@k@vS06/06/150601520. Maybe what?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 69506,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS06/03/150300384.",
+            "TextJPN": "「……で、…もう２人は生贄ってことで『鬼隠し』になってるんじゃないかな…」",
+            "NamesENG": "Mion",
+            "TextENG": "``Maybe the other two will become the sacrifices and get demoned away...``"
+        }
+    ]
+}

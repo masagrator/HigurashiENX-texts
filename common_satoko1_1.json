@@ -1,0 +1,1861 @@
+{
+    "Main": [
+        {
+            "type": "SAVEINFO",
+            "category": 0,
+            "JPN": "route 沙都子1",
+            "ENG": "Satoko Route 1"
+        },
+        {
+            "type": "SAVEINFO",
+            "category": 1,
+            "JPN": "#1 弁当の話題",
+            "ENG": "#1 / The Topic of Lunchboxes"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28131,
+            "TextJPN": "学校で一番ほっとできる時間と言ったら、やはりお昼だろう。",
+            "TextENG": "The most relaxing time during the school day? Lunch, for sure."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28132,
+            "TextJPN": "いつものようにみんなの机を寄せ合い、みんなのお弁当を並べる。",
+            "TextENG": "Everyone brought their desks side-by-side like always, and we all ate together."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28133,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400117.",
+            "TextJPN": "「あらぁ！@k@vS19/04/500400118.　魅音さんのお弁当が、今日はなかなか見事でございましてよー！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Oh, my!@k@vS19/04/500400118. Mion-san, if I may say, your lunch looks quite appetizing today!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28134,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500074.",
+            "TextJPN": "「……品数がいっぱいで豪華豪華なのです」",
+            "NamesENG": "Rika",
+            "TextENG": "``...There are so many different things—it's wonderful.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28135,
+            "TextJPN": "沙都子と梨花ちゃんが魅音の弁当を見て歓声をあげている。@k……どれどれ。@kお！",
+            "TextENG": "Satoko and Rika-chan looked at Mion's lunch, shouting gladly.@k ...Let's have a look.@k Whoa!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28136,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/500300224.",
+            "TextJPN": "「昨夜の残りをちょっと詰めてきただけだよ。@k@vS19/03/500300225.うちで昨日、村長たちが酒盛りしててさ。@k@vS19/03/500300226.それで残り物をちょいと取っておいたってわけ」",
+            "NamesENG": "Mion",
+            "TextENG": "``I just packed in some leftovers from last night.@k@vS19/03/500300225. All the elders were having a drinking party at my house yesterday.@k@vS19/03/500300226. I managed to nab some of what they didn't eat.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28137,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200349.",
+            "TextJPN": "「あはははは、それでお酒のおつまみみたいなおかずが多いんだね」",
+            "NamesENG": "Rena",
+            "TextENG": "``Ahahahaha! So that's why they all look like snacks you could have with sake.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28138,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI22900.",
+            "TextJPN": "「…ふーん。@k@vS19/01/HR_KEI22910.…残り物、つまりは残飯とは言え、これだけ綺麗に弁当箱に収められてるとなかなかの迫力があるな！@k@vS19/01/HR_KEI22920.　高級料亭の懐石弁当みたいだ！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...Hmm.@k@vS19/01/HR_KEI22910. ...They're but leftovers—mere scraps of food—but when arranged in a bento box so cleanly, they look impressive!@k@vS19/01/HR_KEI22920. It looks like part of a full-course meal at a high-class restaurant!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28139,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/500300227.",
+            "TextJPN": "「人の印象のほとんどがファーストインプレッションで決まるようにさ。@k@vS19/03/500300228.やっぱりお弁当の味も、蓋を開けた時のキレイさに比例するんじゃないかな、って！」",
+            "NamesENG": "Mion",
+            "TextENG": "``People seem to decide if they like things mainly based on their first impression.@k@vS19/03/500300228. So I thought maybe the taste of a bento would be proportional to how pretty it was when you opened it!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28140,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400119.",
+            "TextJPN": "「魅音さんってガサツそうな性格に見えて、結構こういう盛り付けのセンスがいいんですのよね」",
+            "NamesENG": "Satoko",
+            "TextENG": "``You may seem unrefined, Mion-san, but you are positively splendid at arranging food like this.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28141,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200350.",
+            "TextJPN": "「お部屋もいつもキレイに片付いてるし。@k@vS19/02/500200351.魅ぃちゃんはみんなが思ってるより、ずっと几帳面で丁寧な人なんだよ！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Her room is nice and tidy, too.@k@vS19/02/500200351. Mii-chan is a lot more organized and polite than everyone thinks!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28142,
+            "TextJPN": "…胃袋に入ればみんな同じ！",
+            "TextENG": "...It's all the same once it's in your stomach!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28143,
+            "TextJPN": "なんて言い出しそうな魅音にこんなセンスがあるとは。",
+            "TextENG": "I'd have thought Mion would say something like that—but to think she had this kind of taste!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28144,
+            "TextJPN": "……うぅむ。@k人は見かけによらないものだ。",
+            "TextENG": "...Hmm.@k You can't judge a book by its cover."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28145,
+            "TextJPN": "魅音って、何をやってもソツがない。",
+            "TextENG": "Mion was careful in everything she did."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28146,
+            "TextJPN": "…油断もなければ隙もソツも一切ない。@kなるほど、我が部の部長なだけはあるよな！",
+            "TextENG": "...She never misstepped, faltered, or messed up.@k I see—she is our club president, after all!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28147,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500075.",
+            "TextJPN": "「……レナのお弁当も見劣らないのです。@k@vS19/05/500500076.カニかまぼこのお花がとてもキレイなのですよ」",
+            "NamesENG": "Rika",
+            "TextENG": "``...Yours is nothing to scoff at either, Rena.@k@vS19/05/500500076. Your crab kamaboko flower is very pretty.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28148,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI22930.",
+            "TextJPN": "「レナの弁当って、何て言うか、いつも芸が凝ってるよな。@k@vS19/01/HR_KEI22940.リンゴのうさぎさんとか、ニンジンの花びらとかさ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``You know, Rena, your lunch always has, like, an art to it.@k@vS19/01/HR_KEI22940. Like it has rabbit-shaped apple slices and carrot flowers and stuff.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28149,
+            "TextJPN": "レナの弁当には味だけじゃない、@k…その、何ていうのかな。@k心みたいなものが入ってるんだよな。@kおいしいだけじゃなく、こう、胸が温かくなるというか。",
+            "TextENG": "Rena's bento wasn't all about taste...@k It was like, hmm.@k Like she always puts her heart into it, or something.@k It wasn't just good—it made your insides all nice and warm."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28150,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200352.",
+            "TextJPN": "「あははは！@k@vS19/02/500200353.　ありがと。@k@vS19/02/500200354.魅ぃちゃんにはちょっと及ばないけど、はぅ、かぁいいかなって！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Ahahaha!@k@vS19/02/500200353. Thanks.@k@vS19/02/500200354. It's not quite as good as Mii-chan's, but I wanted to make it really kyute, hau~!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28151,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/500300229.",
+            "TextJPN": "「料理は技術じゃなくて愛情でしょ。@k@vS19/03/500300230.その意味でだったら、私なんか足元にも及ばないって！」",
+            "NamesENG": "Mion",
+            "TextENG": "``Cooking isn't about skill—it's about love.@k@vS19/03/500300230. In that sense, I don't even come up to your feet!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28152,
+            "TextJPN": "愛情か。@k…うん。@k確かに、見ているだけで、作ってくれたレナの一生懸命が伝わってくる。@kそんなお弁当だ！",
+            "TextENG": "Love, huh?@k ...Yeah.@k Just from looking at her bento, I could definitely feel that Rena put her heart and soul into making it.@k That's what her bento was like!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28153,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400120.",
+            "TextJPN": "「お弁当ってのは味だけでなく、見た目も大事ってことですわね。@k@vS19/04/500400121.私たちも見習わないといけませんわね」",
+            "NamesENG": "Satoko",
+            "TextENG": "``The taste isn't all that counts for a bento—how it looks also matters.@k@vS19/04/500400121. I suppose we must learn from this too!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28154,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI22950.",
+            "TextJPN": "「ほー。@k@vS19/01/HR_KEI22960.で、その見習わなくちゃならない沙都子たちの弁当はどうだ！@k@vS19/01/HR_KEI22970.　お…？！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Huh.@k@vS19/01/HR_KEI22960. So, let's see Satoko and Rika-chan's up-and-coming bento!@k@vS19/01/HR_KEI22970. Whoa...?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28155,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500077.",
+            "TextJPN": "「……じゃーん」",
+            "NamesENG": "Rika",
+            "TextENG": "``...Ta-da.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28156,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400122.",
+            "TextJPN": "「をっほっほっほ！@k@vS19/04/500400123.　昨日、ご近所さんにお裾分けのお肉をもらったので、今日は焼肉弁当なんでしてよー？」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Wo-ho-ho-ho!@k@vS19/04/500400123. Yesterday our neighbors shared some meat with us, so we ended up grilling it for our bento!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28157,
+            "TextJPN": "これはまた…すごい迫力だな！！",
+            "TextENG": "These ones, too... They had such an impact!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28158,
+            "TextJPN": "ボリュームたっぷりの焼肉がぎっしり！",
+            "TextENG": "They were bursting at the seams with grilled meat!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28159,
+            "TextJPN": "一見すると女の子のお弁当にしては迫力あり過ぎだが、仲間みんなで食べることを思えば、食卓の彩りとしては充分過ぎる！！",
+            "TextENG": "At a glance, it was too impactful for a girl's bento, but when you thought about eating with all your friends, it brought more than enough color to the table!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28160,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/500300231.",
+            "TextJPN": "「へー。@k@vS19/03/500300232.…粗雑な体育会系弁当と見せかけて、おかずの品数も結構あるみたいじゃない。@k@vS19/03/500300233.ほうれん草のおひたしとか、ひじきの煮物とか」",
+            "NamesENG": "Mion",
+            "TextENG": "``Wow.@k@vS19/03/500300232. ...At first, it looks like the kind of crude bento that a jock would eat, but there are so many different things in here.@k@vS19/03/500300233. Like boiled spinach in soy sauce, and stewed hijiki.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28161,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200355.",
+            "TextJPN": "「梨花ちゃんは、こういう気取らない家庭料理がとても上手なんだよね。@k@vS19/02/500200356.…うん、梨花ちゃんは将来、立派なお嫁さんになれると思うよ！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Rika-chan, you're really good at this kind of unaffected cooking, huh?@k@vS19/02/500200356. ...Yep, I think Rika-chan will make a great wife when she grows up!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28162,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500078.",
+            "TextJPN": "「……未来の旦那さまを鷲掴みなのです」",
+            "NamesENG": "Rika",
+            "TextENG": "``...I have a tight hold on my future husband.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28163,
+            "TextJPN": "…梨花ちゃんの旦那さんか。",
+            "TextENG": "...A husband for Rika-chan, huh?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28164,
+            "TextJPN": "………一見、すごく魅力的な響きがあるが……。@kうん、一筋縄では行かない夫婦生活になるような気がするぞ…。",
+            "TextENG": "......At first, that sounded appealing...@k It did—but I felt like a married life with her would be anything but normal."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28165,
+            "TextJPN": "しかし、みんなすごいよな。",
+            "TextENG": "But really, everyone was amazing."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28166,
+            "TextJPN": "まだ全然若いのに、しっかり自炊できている。",
+            "TextENG": "They were all so young, and yet they're all capable of cooking for themselves."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28167,
+            "TextJPN": "俺も家族でデイキャンプに行くたびに、そこそこの料理の真似事はしてるけど…日々のおかずを作るなんてレベルには到底及ばない。",
+            "TextENG": "I would sort of cook whenever I went camping with my family... but making lunch every day was a level I definitely couldn't reach."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28168,
+            "TextJPN": "所詮はレジャーとしてのお料理程度だ。",
+            "TextENG": "I could only really cook in my spare time."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28169,
+            "TextJPN": "そうやって思うと、みんな大したもんだ。",
+            "TextENG": "When I thought about it like that, it really made everyone stand out more."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28170,
+            "TextJPN": "率直に尊敬するぞ。",
+            "TextENG": "Frankly, I respected them."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28171,
+            "TextJPN": "………ん？",
+            "TextENG": "......Hm?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28172,
+            "TextJPN": "…あれ？",
+            "TextENG": "...Huh?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28173,
+            "TextJPN": "…何だか他人事ではない気がしてきたぞ…？",
+            "TextENG": "...I feel like maybe this doesn't only apply to other people...?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28174,
+            "TextJPN": "…そう言えば、今朝、寝ぼけながら朝食を食べている時、…お袋が何だかとんでもない話をしていたような………。",
+            "TextENG": "...Come to think of it, this morning, when I was eating breakfast half-asleep... I think my mom was saying something really impor...tant...... ...Uh."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28175,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI22980.",
+            "TextJPN": "「あ、……あああぁーーーッ！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Uh... Aahhhhhhh!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28176,
+            "TextJPN": "俺が素っ頓狂な声をあげて、突然立ち上がったので、みんなが一斉に驚く。",
+            "TextENG": "With a hysteric groan, I suddenly stood up, startling everyone at once."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28177,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200357.",
+            "TextJPN": "「…どど、どうしたのかな？　かな？！」",
+            "NamesENG": "Rena",
+            "TextENG": "``...W-W-What's wrong? Wrong?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28178,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400124.",
+            "TextJPN": "「げほげほッ！！@k@vS19/04/500400125.　急に大声を出すからむせてしまいましたですわー！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``*cough* *cough*!!@k@vS19/04/500400125. You'll make us choke if you shout like that so suddenly, you know!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28179,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500079.",
+            "TextJPN": "「……沙都子のお鼻からご飯粒が出てますです」",
+            "NamesENG": "Rika",
+            "TextENG": "``...There's rice coming out of your nose, Satoko.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28180,
+            "TextJPN": "…忘れてた。",
+            "TextENG": "...I'd forgotten."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28181,
+            "TextJPN": "…自炊って話は…他人事じゃなかったんだ…！",
+            "TextENG": "...All this stuff about cooking for yourself... It applied to me, too...!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28182,
+            "NamesJPN": "圭一の母",
+            "PreTextTags": "@vS19/00/502700003.",
+            "TextJPN": "「圭一。@k@vS19/00/502700004.お父さんとお母さんね、またお仕事で東京に行って来なくちゃならないの」",
+            "NamesENG": "Keiichi's mom",
+            "TextENG": "``Keiichi?@k@vS19/00/502700004. Your mom and dad need to go to Tokyo again for business.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28183,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI22990.",
+            "TextJPN": "「…ふ～ん。@k@vS19/01/HR_KEI23000.…そー…。@k@vS19/01/HR_KEI23010.ふぁあぁ～……、眠……」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...Hmmm.@k@vS19/01/HR_KEI23000. ...Yeah...?@k@vS19/01/HR_KEI23010. *yaaaawn*~... Sleepy...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28184,
+            "NamesJPN": "圭一の母",
+            "PreTextTags": "@vS19/00/502700005.",
+            "TextJPN": "「お父さんの先生にあたる人がね、イベントの直前で倒れちゃったの。@k@vS19/00/502700006.とても大切なイベントなんでね、どうしても穴があけられないのよ」",
+            "NamesENG": "Keiichi's mom",
+            "TextENG": "``Your dad's mentor fell ill right before an event he was taking part in.@k@vS19/00/502700006. It's a very important event, and they need someone to fill in.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28185,
+            "TextJPN": "…親父の仕事なら仕方ないよな。@k…むにゃむにゃ…。",
+            "TextENG": "...Well, Dad does what he has to do for his job.@k ...*chew* *chew*..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28186,
+            "NamesJPN": "圭一の母",
+            "PreTextTags": "@vS19/00/502700007.",
+            "TextJPN": "「それでお父さんとお母さん、@k@vS19/00/502700008.そのイベントのお手伝いのために大至急、東京に行かなくちゃならなくなったの。@k@vS19/00/502700009.場合によっては何日か泊り込みになっちゃうかも」",
+            "NamesENG": "Keiichi's mom",
+            "TextENG": "``So your dad and I, you see,@k@vS19/00/502700008. we need to go to Tokyo as fast as we can to help with the event.@k@vS19/00/502700009. We might have to stay there for a few days depending on what happens.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28187,
+            "TextJPN": "…それは大変…。@kふぁ～あ…。",
+            "TextENG": "...That sounds annoying...@k *yaaawn*..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28188,
+            "NamesJPN": "圭一の母",
+            "PreTextTags": "@vS19/00/502700010.",
+            "TextJPN": "「その間、お母さんたち、いないからご飯とかみんな圭一が自炊しなくちゃならないんだけど、@k@vS19/00/502700011.…圭一は大丈夫？」",
+            "NamesENG": "Keiichi's mom",
+            "TextENG": "``While we're gone, we won't be here, so you'll need to make your own meals yourself...@k@vS19/00/502700011. Are you okay with that, Keiichi?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28189,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23020.",
+            "TextJPN": "「……大丈夫大丈夫。@k@vS19/01/HR_KEI23030.…人間、追い詰められたら何でもできるんだから…」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...I'll be fine.@k@vS19/01/HR_KEI23030. ...Humans can do anything when they're desperate...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28190,
+            "NamesJPN": "圭一の母",
+            "PreTextTags": "@vS19/00/502700012.",
+            "TextJPN": "「そう？@k@vS19/00/502700013.　なら安心ね。@k@vS19/00/502700014.ご飯くらいは炊けるでしょ？@k@vS19/00/502700015.　お味噌汁も作れるわよね。@k@vS19/00/502700016.あとは適当にお惣菜を買ってくればご飯らしくなるから」",
+            "NamesENG": "Keiichi's mom",
+            "TextENG": "``Is that so?@k@vS19/00/502700013. That's a relief.@k@vS19/00/502700014. You can at least cook rice, right?@k@vS19/00/502700015. And you can make miso soup as well.@k@vS19/00/502700016. Then you just buy some side dishes and you'll have a meal.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28191,
+            "TextJPN": "ご飯？",
+            "TextENG": "A meal?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28192,
+            "TextJPN": "…うん。@k飯ごうでならご飯は炊けるよ。@k…炊飯器は使ったことないなぁ…。@kむにゃむにゃ…。",
+            "TextENG": "...Yeah.@k I can cook rice with my camping kit.@k ...Never used a rice cooker before...@k *chew* *chew*..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28193,
+            "TextJPN": "……味噌汁は、ポットのお湯で作れるインスタントしか作ったことないし…。@kでもまぁ何とかなるよ、何とか…。@kむにゃむにゃむにゃ……。",
+            "TextENG": "...I've only ever made instant miso soup that you make in a pot of boiling water, too...@k Well, I'll think of something...@k *chew* *chew* *chew*..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28194,
+            "NamesJPN": "圭一の母",
+            "PreTextTags": "@vS19/00/502700017.",
+            "TextJPN": "「自炊できるなら、置いていくお金は少しでいいわよね？@k@vS19/00/502700018.　外食は高いからしちゃダメよ？@k@vS19/00/502700019.　圭一もそろそろ自炊と経済観念を学んでもいい頃だからね」",
+            "NamesENG": "Keiichi's mom",
+            "TextENG": "``If you can cook for yourself, then you don't need much money, do you?@k@vS19/00/502700018. No eating out—it's too expensive.@k@vS19/00/502700019. You're at the age where you should learn about cooking and personal finances now, after all.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28195,
+            "TextJPN": "…うんうん…。@k何とかなる、何とかなる……。",
+            "TextENG": "...Yep, yep...@k I'll get by, I'll get by..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28196,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23040.",
+            "TextJPN": "「何とかなるかああぁあぁぁッ！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``No I wooooon't!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28197,
+            "TextJPN": "俺ってヤツは…寝ぼけてなんてとんでもないことを安請け合いしてしまったんだぁ！！",
+            "TextENG": "What was I thinking... I was half-asleep and I made such crazy empty promises!?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28198,
+            "TextJPN": "こういう時、マンガの主人公たちが決まってそうするように俺もまた、仰け反りながら、頭をバリバリと掻き毟る！　バリバリ！！",
+            "TextENG": "Just like manga characters always do at times like these, I bent over backwards and scratched furiously at my head! Scritch scratch!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28199,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200358.",
+            "TextJPN": "「ふぅん。@k@vS19/02/500200359.圭一くんのご両親って大変なんだね」",
+            "NamesENG": "Rena",
+            "TextENG": "``Huh.@k@vS19/02/500200359. Keiichi-kun, your parents sure have it rough.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28200,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200360.",
+            "TextJPN": "「圭一くん、しっかりお留守番をしてなきゃね！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Anyway, you need to keep things in order while they're gone!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28201,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23050.",
+            "TextJPN": "「そ、そんなことよりメシだメシ！！@k@vS19/01/HR_KEI23060.　親がいないんだぞ、全部自分で作らなきゃならないんだぞ？！@k@vS19/01/HR_KEI23070.　これは超緊急事態だぁああぁ！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``A-Anyway, food! Food!!@k@vS19/01/HR_KEI23060. My parents aren't here! I have to make it all myself, you know!!@k@vS19/01/HR_KEI23070. This is a huge emergencyyyy!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28202,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400126.",
+            "TextJPN": "「それなら覚悟を決めて、自炊なさればいいではありませんの。@k@vS19/04/500400127.圭一さん、以前のカレーパーティーで見事なカレーを作って見せたではありません？」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Should you not simply give up and cook for yourself?@k@vS19/04/500400127. Keiichi-san, did you not make a fabulous curry dish for the curry party previously?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28203,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23080.",
+            "TextJPN": "「あ、…あのなぁ。@k@vS19/01/HR_KEI23090.俺に作れるのはデイキャンプでお袋に教えてもらったカレーがせいぜいなんだよ…！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Uh... Listen here.@k@vS19/01/HR_KEI23090. My mom taught me how to cook that curry when we camped, and it's the best I can do...!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28204,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23100.",
+            "TextJPN": "「三食カレーなんか食えるかよ！！@k@vS19/01/HR_KEI23110.　カレーなんて所詮はジャンクフード！！@k@vS19/01/HR_KEI23120.　栄養バランスなんてカケラもない、実にいい加減な…、…むぐ！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``I can't eat curry three meals a day!!@k@vS19/01/HR_KEI23110. I mean, it's just junk food in the first place!!@k@vS19/01/HR_KEI23120. There's no nutritional balance whatsoever, and it's just completely— mgh!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28205,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/500300234.",
+            "TextJPN": "「ば、ばか、シーーーーッ！！」",
+            "NamesENG": "Mion",
+            "TextENG": "``S-Stupid, ssssshhhhhh!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28206,
+            "TextJPN": "魅音と沙都子が俺の口を手で塞ぐ！",
+            "TextENG": "Mion and Satoko put their hands over my mouth!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28207,
+            "TextJPN": "その瞬間、ガラガラと教室の戸が開き…熱中カレーマニアで名高い知恵先生がにゅっと顔を出した。",
+            "TextENG": "A moment later, the door rattled open... and Chie-sensei, a known curry maniac, suddenly poked her head in."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28208,
+            "NamesJPN": "知恵",
+            "PreTextTags": "@vS19/22/501400057.",
+            "TextJPN": "「……今、誰かカレーの悪口を言っていませんでしたか？」",
+            "NamesENG": "Chie",
+            "TextENG": "``...Did I just hear somebody badmouthing curry?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28209,
+            "NamesJPN": "部活メンバー",
+            "PreTextTags": "@o60.@vS19/02/500200361|S19/03/500300235|S19/04/500400128|S19/05/500500080.",
+            "TextJPN": "「「いいい、言ってません、言ってません！」」",
+            "NamesENG": "Club Members",
+            "TextENG": "``````N-N-N-No, we didn't say anything!``````"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28210,
+            "TextJPN": "全員で真っ青になりながら、ぶんぶんと顔を振って否定する。",
+            "TextENG": "Everyone's faces went totally white and they all shook their heads in denial."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28211,
+            "TextJPN": "ぎょろりと教室を嘗め回すように睨みつける先生の眼差しはもはや尋常ではない…！",
+            "TextENG": "Her eyes rolled over the classroom—her glare wasn't just a teacher's ordinary stare...!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28212,
+            "NamesJPN": "知恵",
+            "PreTextTags": "@vS19/22/501400058.",
+            "TextJPN": "「…………そうですか？@k@vS19/22/501400059.　…空耳でしたか…」",
+            "NamesENG": "Chie",
+            "TextENG": "``......Is that so?@k@vS19/22/501400059. ...Must have been the wind...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28213,
+            "TextJPN": "先生はもう一度、教室をぎょろりと見渡してから、",
+            "TextENG": "Chie-sensei gave one more look around the classroom,"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28214,
+            "TextJPN": "戸を閉め、再び職員室に戻っていった…。",
+            "TextENG": "then closed the door and went back to the teacher's lounge..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28215,
+            "TextJPN": "…いくら俺が叫んだとは言え、廊下向こうの職員室からそれを聞きつけるのだから…、先生、恐るべし…。",
+            "TextENG": "...I may have been shouting, but for her to hear it from all the way across the hall in the teacher's lounge... That teacher is terrifying..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28216,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/500300236.",
+            "TextJPN": "「…圭ちゃん。@k@vS19/03/500300237.他の食べ物はいくらこき下ろしてもいいけど…カレーだけはやめた方がいいよ。@k@vS19/03/500300238.雛見沢に住んでいる内は！」",
+            "NamesENG": "Mion",
+            "TextENG": "``...Kei-chan.@k@vS19/03/500300237. You can disparage other foods all you want... but you might want to stay away from curry.@k@vS19/03/500300238. At least, as long as you live in Hinamizawa!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28217,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23130.",
+            "TextJPN": "「……ぅぅぅ、すまん。@k@vS19/01/HR_KEI23140.反省します……」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...Mgh, okay.@k@vS19/01/HR_KEI23140. I'm sorry...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28218,
+            "TextJPN": "とは言ったものの…。@kやっぱり…三食カレーってわけにはいかない。",
+            "TextENG": "That's what I said...@k but still... I can't have curry for every meal."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28219,
+            "TextJPN": "カップラーメンなんかはたまに食べるからおいしいのであって、三食食べたら、絶対に飽きるに決まってる。",
+            "TextENG": "And cup ramen is good because you only eat it once in a while—if you ate it for every meal, you'd get bored of it pretty quickly."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28220,
+            "TextJPN": "やっぱり…、ご飯に味噌汁に、おいしいおかずがあってこそ、日本人の食卓だ。",
+            "TextENG": "Rice and miso soup, and a good side dish... Yeah, that's what a Japanese table should look like."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28221,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200362.",
+            "TextJPN": "「圭一くんもがんばって自炊してみればいいのに。@k@vS19/02/500200363.自分で作ったご飯ってとってもおいしいんだよ」",
+            "NamesENG": "Rena",
+            "TextENG": "``Why can't you just try to cook for yourself?@k@vS19/02/500200363. Rice you make yourself is really good.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28222,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/500300239.",
+            "TextJPN": "「おじさんはおいしいってより、面倒くさいけどなー」",
+            "NamesENG": "Mion",
+            "TextENG": "``This old man thinks it's more a pain than good.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28223,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/500300240.",
+            "TextJPN": "「でも、たまにはそういう経験もいいかもね！」",
+            "NamesENG": "Mion",
+            "TextENG": "``But experiencing it every once in a while might be nice!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28224,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400129.",
+            "TextJPN": "「そうそう！　人生、何事も経験でございましてよ？」",
+            "NamesENG": "Satoko",
+            "TextENG": "``That's right! Life is all about experiences, right?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28225,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500081.",
+            "TextJPN": "「……お指を切ったり、火傷をしたりでかわいそかわいそなのです」",
+            "NamesENG": "Rika",
+            "TextENG": "``...But when you cut your fingers or burn yourself, it's so sad, so very sad.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28226,
+            "TextJPN": "…みんなに励まされている内に、俺もやればできるかもしれないという気になってきた。",
+            "TextENG": "...With everyone encouraging me like this, I started to feel like maybe I could do it if I tried, too."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28227,
+            "TextJPN": "（若干一名、励ましてなかった気がするが…）",
+            "TextENG": "(Though approximately one person didn't sound like she was encouraging me...)"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28228,
+            "TextJPN": "一人暮らしの夢を持つ俺としても、自炊はいつかは身に付けなくてはならない技術だ。",
+            "TextENG": "Cooking is a skill I'll have to learn at some point, since I want to live on my own one day."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28229,
+            "TextJPN": "……これを機会に勉強してみるのも悪くない…？",
+            "TextENG": "...Maybe learning now wouldn't be so bad...?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28230,
+            "TextJPN": "……かなり不安ではあるが…。",
+            "TextENG": "...I'm pretty uneasy about it, but..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28231,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23150.",
+            "TextJPN": "「そうだな…。@k@vS19/01/HR_KEI23160.この辺で多少の料理くらい会得しておかないと、今度部活で料理勝負になったときが辛い」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``You're right...@k@vS19/01/HR_KEI23160. If I don't understand how to cook a few things around here, then I won't be in good shape the next time our club does a cooking showdown.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28232,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400130.",
+            "TextJPN": "「をっほっほっほ！@k@vS19/04/500400131.　そうですわねぇ！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Ohh-ho-ho-ho!@k@vS19/04/500400131. You are correct!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28233,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400132.",
+            "TextJPN": "「いつぞやのカレー勝負のような奇策は何度も通用しませんでございますしねぇ！」",
+            "NamesENG": "Satoko",
+            "TextENG": "That clever trick of yours in the last curry contest won't work every time, after all!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28234,
+            "TextJPN": "沙都子が小馬鹿にするように、かつての起死回生の大勝負だったあのカレー勝負を嘲笑った。",
+            "TextENG": "As if scorning me, Satoko ridicules my comeback from a hopeless situation in a certain do-or-die curry showdown."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28235,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23170.",
+            "TextJPN": "「何を余裕ぶってやがるー！@k@vS19/01/HR_KEI23180.　あの時だって、沙都子は梨花ちゃんに任せっきりだったじゃないかー！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``And what are you so relaxed for?!@k@vS19/01/HR_KEI23180. You relied entirely on Rika-chan back then, didn't you?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28236,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23190.",
+            "TextJPN": "「あの時、沙都子がした料理は何だ？！@k@vS19/01/HR_KEI23200.　レナのカレーに塩を一袋入れて、@k@vS19/01/HR_KEI23210.魅音のご飯に塩を一袋入れて、@k@vS19/01/HR_KEI23220.…俺の鍋をひっくり返しやがってー！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``What did you cook at the time, exactly?!@k@vS19/01/HR_KEI23200. You put a bag of salt in Rena's curry,@k@vS19/01/HR_KEI23210. a bag of salt in Mion's rice,@k@vS19/01/HR_KEI23220. ...and you flipped over my pot!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28237,
+            "TextJPN": "以前のカレー勝負の時の因縁が再発！！",
+            "TextENG": "I relapsed into my grudge over the last curry showdown!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28238,
+            "TextJPN": "とりあえず、納まりのつかない怒りを、沙都子の耳をつねり上げて鎮める。",
+            "TextENG": "For now, I calmed my unquellable anger by pinching Satoko's ears."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28239,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400133.",
+            "TextJPN": "「いだだだだだだ！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Owwwwwww!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28240,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400134.",
+            "TextJPN": "「あれは部活だからの攻撃なんでございましてよー！！@k@vS19/04/500400135.　私だってこう見えても、ちょっとはお料理とか出来ましてよー！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``My attack was because that's what they were doing for club!!@k@vS19/04/500400135. I may not look like it, but I can do a little bit of cooking!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28241,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23230.",
+            "TextJPN": "「ほー！！@k@vS19/01/HR_KEI23240.　あのカレー勝負の時、梨花ちゃんに任せっきりで、ニンジンの皮ひとつ剥かなかったお前がかー！@k@vS19/01/HR_KEI23250.　片腹痛いわー！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Can you, now?!@k@vS19/01/HR_KEI23240. Even when you couldn't peel one carrot during the showdown and had to get Rika to do it?!@k@vS19/01/HR_KEI23250. Don't be so daft!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28242,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400136.",
+            "TextJPN": "「人間は日々進歩してますのよ？！@k@vS19/04/500400137.　私がいつまでもお料理が下手っぴだと思ってると大間違いなんでしてよー！！@k@vS19/04/500400138.　ねぇ、梨花！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``People get better every day, you know!!@k@vS19/04/500400137. If you think I'll always be crummy at cooking, then you're quite mistaken!!@k@vS19/04/500400138. Right, Rika?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28243,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500082.",
+            "TextJPN": "「……ボクが見てないと、お鍋とか火元とか不安なのです。@k@vS19/05/500500083.たまにガスの元栓も閉め忘れてるのです」",
+            "NamesENG": "Rika",
+            "TextENG": "``...I have to watch or else I get worried about the pot and the flame.@k@vS19/05/500500083. Sometimes you forget to turn the gas off, too.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28244,
+            "TextJPN": "わっはっはっは！！　みんなで大笑いする。",
+            "TextENG": "Wah-ha-ha-ha!! Everyone burst into laughter."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28245,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23260.",
+            "TextJPN": "「火元は料理以前の問題だ！！@k@vS19/01/HR_KEI23270.　いくら俺でもそれだけはない！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``That shouldn't be an issue with cooking!!@k@vS19/01/HR_KEI23270. Even I would never do that!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28246,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400139.",
+            "TextJPN": "「カップラーメンばかり食べてる人に言われたくありませんわー！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``I don't want to hear that from someone who eats nothing but cup ramen!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28247,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200364.",
+            "TextJPN": "「でもでも…、沙都子ちゃんも、そこそこにはお料理とか出来るんだよ？」",
+            "NamesENG": "Rena",
+            "TextENG": "``But, but... Satoko can cook pretty well for herself, you know?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28248,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23280.",
+            "TextJPN": "「いいぞレナ、こんなヤツのためにわざわざフォローなんかしてやることはないんだぞ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Rena, it's fine, you don't need to force yourself to cover up for her like that.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28249,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200365.",
+            "TextJPN": "「いや、別にフォローってわけじゃないよ。@k@vS19/02/500200366.梨花ちゃんがずば抜けて料理がうまいから目立たないだけでさ。@k@vS19/02/500200367.沙都子ちゃんだって、まぁ基本くらいはマスターしてるよ。ね？」",
+            "NamesENG": "Rena",
+            "TextENG": "``No, I'm not trying to cover for her or anything.@k@vS19/02/500200366. It's just that Rika-chan's cooking is by far the best of all of us, so hers doesn't stand out.@k@vS19/02/500200367. Satoko has mastered the basics too, right?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28250,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400140.",
+            "TextJPN": "「……少なくとも、ご飯とお味噌汁くらいは作れますわ」",
+            "NamesENG": "Satoko",
+            "TextENG": "``...At the very least, I can cook rice and miso soup.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28251,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200368.",
+            "TextJPN": "「うーん、カリフラワーとブロッコリーの見分けはつかないけど、ね☆」",
+            "NamesENG": "Rena",
+            "TextENG": "``Weeell, she can't quite tell the difference between cauliflower and broccoli, though☆.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28252,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400141.",
+            "TextJPN": "「ど、どっちも茹でれば食べられるのは同じですわーー！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``T-They're both the same anyway once you boil them!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28253,
+            "TextJPN": "沙都子が憤慨して、両手にゲンコツを作って振り上げる。@kあとはみんなで大笑いだった。",
+            "TextENG": "Satoko erupted into anger, making two fists and swinging them above her head.@k Everyone laughed a lot after that."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28254,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23290.",
+            "TextJPN": "「わっはっはっは！！@k@vS19/01/HR_KEI23300.　がーっはっはっはっは！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Wah-ha-ha-ha!!@k@vS19/01/HR_KEI23300. Gaaahhh-ha-ha-ha-ha!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28255,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400142.",
+            "TextJPN": "「むがーー！！@k@vS19/04/500400143.　他の人にならともかく！@k@vS19/04/500400144.　圭一さんに笑われるのだけは我慢がなりませんですわー！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Mgaahhh!!@k@vS19/04/500400143. The others don't matter!@k@vS19/04/500400144. I cannot stand being laughed at by you, Keiichi-san!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28256,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23310.",
+            "TextJPN": "「がっはっはっは！@k@vS19/01/HR_KEI23320.　確かに俺は他のみんなよりも料理技術は劣るかもしれない。@k@vS19/01/HR_KEI23330.だけどな、少なくとも沙都子にだけは負けない自信はあるぞ！@k@vS19/01/HR_KEI23340.　少なくとも沙都子にだけは！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Gah-ha-ha-ha!@k@vS19/01/HR_KEI23320. Yes, perhaps I do lag behind everyone else in terms of cooking skill.@k@vS19/01/HR_KEI23330. But at least I'm confident I'd never lose to you, Satoko!@k@vS19/01/HR_KEI23340. Not to you, at least!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28257,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400145.",
+            "TextJPN": "「な、なんですってぇええぇえ！！@k@vS19/04/500400146.　言うに事欠いて自信があるとは…片腹痛くて笑っちゃいますわー！！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Wh-What was that?!@k@vS19/04/500400146. You have the gall to say you're confident... That's what's daft here!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28258,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400147.",
+            "TextJPN": "「こう見えても、私、梨花と交替でご飯をちゃんと作ってますのよ？！@k@vS19/04/500400148.　ちゃーんと自炊ぐらいできるんでございますからねー！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``I might not seem like a good cook, but I take turns with Rika, you know!!@k@vS19/04/500400148. I can cook just fine for myself, thank you!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28259,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23350.",
+            "TextJPN": "「そうかそうか。@k@vS19/01/HR_KEI23360.自炊が出来てえらいな～。@k@vS19/01/HR_KEI23370.あとでご褒美にアメ玉買ってやるからな～」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``I see, I see.@k@vS19/01/HR_KEI23360. Good for you for being able to cook~.@k@vS19/01/HR_KEI23370. I'll buy some candy for you as a present later~.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28260,
+            "TextJPN": "小馬鹿にして、沙都子の頭をわしわしと撫でてやる。",
+            "TextENG": "I patted Satoko on the head while I made fun of her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28261,
+            "TextJPN": "…沙都子も馬鹿にされてるのがわかるらしく、見る見る内に顔が真っ赤になって、やかんのように湯気が出始める。",
+            "TextENG": "...Satoko seemed to know I was making fun of her, too, since her face went bright red very quickly, and steam started to pour out like she was a kettle."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28262,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400149.",
+            "TextJPN": "「むがーー！！@k@vS19/04/500400150.　全然信じてませんのねー？！@k@vS19/04/500400151.　とにかくとにかく！@k@vS19/04/500400152.　圭一さんより私の方が全然、お料理が上手なんでございますのよー！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Mgaaahhh!!@k@vS19/04/500400150. You don't believe me, do you?!@k@vS19/04/500400151. Anyway, aaannnyyywwwaaayyy!@k@vS19/04/500400152. I can cook far better than you can, Keiichi-san!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28263,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23380.",
+            "TextJPN": "「ほー。@k@vS19/01/HR_KEI23390.じゃーカリフラワーとブロッコリーの違いを言えたら、俺も信じてやるぞ。@k@vS19/01/HR_KEI23400.ほれ、言ってみろ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``I see!@k@vS19/01/HR_KEI23390. Then if you can tell me the difference between cauliflower and broccoli, I'll believe you.@k@vS19/01/HR_KEI23400. Come on, let's hear it.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28264,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400153.",
+            "TextJPN": "「……ぅぅぅぅ、…えっと、……。@k@vS19/04/500400154.緑の方がブロッコリ…。@k@vS19/04/500400155.……えっと、じゃなくて……黄色い方……。@k@vS19/04/500400156.カリフラワが…、青…、赤…、……緑……。@k@vS19/04/500400157.…ぅぅぅぅ…！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``...Mmgh... umm...@k@vS19/04/500400154. the green one is broccoli...@k@vS19/04/500400155. ...or, no... the yellow one...@k@vS19/04/500400156. Cauliflower is.... ...green...@k@vS19/04/500400157. ...mgghhh...!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28265,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23410.",
+            "TextJPN": "「ほれほれ。@k@vS19/01/HR_KEI23420.ブロッコリーは何色だ。@k@vS19/01/HR_KEI23430.青赤緑って、テレビのブラウン管じゃあるまいしー！@k@vS19/01/HR_KEI23440.　ほれほれ、言ってみろ言ってみろ！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Come on, now.@k@vS19/01/HR_KEI23420. What color is broccoli?@k@vS19/01/HR_KEI23430. Blue, red, green? It's not a television!@k@vS19/01/HR_KEI23440. Come on, say it, say it!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28266,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400158.",
+            "TextJPN": "「…………ぅぅぅぅぅぅー…！！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``......Mgggghhhh...!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28267,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23450.",
+            "TextJPN": "「別にブロッコリーが何色かわかんなくても沙都子ちゃんはお料理ができるんでちゅよね～。@k@vS19/01/HR_KEI23460.えらいえらいでちゅよ～～！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Satoko can cook just fine without knowing what color bwoccoli is, wight~?@k@vS19/01/HR_KEI23460. Good for you, good for you~~!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28268,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400159.",
+            "TextJPN": "「…わぁああぁあぁあああぁんッ！！@k@vS19/04/500400160.　圭一さんのばかぁー！！@k@vS19/04/500400161.　わああぁああぁあん！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``...Waaaahhhhhhhhhhhh!!@k@vS19/04/500400160. Stupid Keiichi!!@k@vS19/04/500400161. Waaahhhhhh!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28269,
+            "TextJPN": "そんな、全力で泣くこともないだろうに。",
+            "TextENG": "Oh, it was nothing to cry hysterically about."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28270,
+            "TextJPN": "…いちいち可愛いヤツめ。",
+            "TextENG": "...She's so god damn cute."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28271,
+            "TextJPN": "思いっきり頭を撫でてやる。@kわしわしわし…！",
+            "TextENG": "I stroked her head as hard as I could.@k Ruffle ruffle ruffle!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28272,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/500300241.",
+            "TextJPN": "「ほ～ぅ。@k@vS19/03/500300242.圭ちゃんもそこまで言うからには、沙都子よりはまともなものを作って見せられるんだろうねぇ…！」",
+            "NamesENG": "Mion",
+            "TextENG": "``Hmm!@k@vS19/03/500300242. If you're going to act so smug, then you can surely show us something better than Satoko...!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28273,
+            "TextJPN": "魅音がちょっぴり嫌味な顔で笑いながら俺に問いかけた。",
+            "TextENG": "remarked Mion, giving me just a slightly mean smile."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28274,
+            "TextJPN": "実際は、まぁその…、自炊の自信なんか全然ないのだが。@k何となく流れで大見得を切っておくことにする。",
+            "TextENG": "Actually, well... I had no confidence at all in my cooking.@k But the situation carried me along, and I decided to deliver an impressive declaration."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28275,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23470.",
+            "TextJPN": "「まぁ見ていろ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Just you wait.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28276,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23480.",
+            "TextJPN": "「今夜、俺はばっちりがっちり見事な晩飯を作ってみせる！@k@vS19/01/HR_KEI23490.　少し余計に作って明日の弁当にしてくるからそれを見て腰を抜かすがいい！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Tonight, I will make the best darn meal you've ever seen!@k@vS19/01/HR_KEI23490. I'll even make a little too much and pack it for lunch tomorrow—you'll be so surprised you'll fall over!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28277,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500084.",
+            "TextJPN": "「……それは楽しみなのです。@k@vS19/05/500500085.明日のお弁当が待ち遠しいのですよ」",
+            "NamesENG": "Rika",
+            "TextENG": "``...That sounds like fun.@k@vS19/05/500500085. I can't wait for lunchtime tomorrow.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28278,
+            "TextJPN": "梨花ちゃんが俺の頭をなでなでする。",
+            "TextENG": "Rika-chan petted me on the head."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28279,
+            "TextJPN": "…ぅぅ、待ち遠しいという言葉が実に白々しく聞こえるぞ…。",
+            "TextENG": "...mgh, her words of ``can't wait`` sounded so transparent..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28280,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200369.",
+            "TextJPN": "「あはははは。@k@vS19/02/500200370.レナも楽しみにしてるね！@k@vS19/02/500200371.　どんなのを作ってきても、レナは笑わないからね！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Ahahaha.@k@vS19/02/500200370. Rena is excited too!@k@vS19/02/500200371. I promise I won't laugh no matter what you make!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28281,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/500300243.",
+            "TextJPN": "「となると…、明日の弁当は私も本気で作らなきゃならないようだね」",
+            "NamesENG": "Mion",
+            "TextENG": "``All right, so... Maybe I'll go all-out on my bento tomorrow too.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28282,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/500300244.",
+            "TextJPN": "「…じゃあこうしようか！」",
+            "NamesENG": "Mion",
+            "TextENG": "``...Then let's do this!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28283,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/500300245.",
+            "TextJPN": "「明日のお弁当で勝負ってのはどう？！」",
+            "NamesENG": "Mion",
+            "TextENG": "``Let's have a bento showdown tomorrow!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28284,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/500300246.",
+            "TextJPN": "「もっちろん部活扱いだからね！@k@vS19/03/500300247.　罰ゲームも付いちゃうよー？！」",
+            "NamesENG": "Mion",
+            "TextENG": "``As a club activity, of course!@k@vS19/03/500300247. And we'll throw in a punishment game, too!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28285,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400162.",
+            "TextJPN": "「あらぁ、それは妙案でございますわねぇ！！@k@vS19/04/500400163.　どうです圭一さん？@k@vS19/04/500400164.　退くなら今のうちでしてよ？」",
+            "NamesENG": "Satoko",
+            "TextENG": "``My, what an ingenious idea that is!!@k@vS19/04/500400163. How is that, Keiichi-san?@k@vS19/04/500400164. I'll give you one chance to back down!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28286,
+            "TextJPN": "沙都子が涙を拭き、逆転のチャンスとばかりに牙を剥く…！！",
+            "TextENG": "Satoko wiped her tears and snarled at me, as if this was her chance to turn things around...!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28287,
+            "TextJPN": "……う、…………ちょっと…ヤバイかも…？",
+            "TextENG": "...Uh... ...maybe... this is bad...?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28288,
+            "TextJPN": "何だか話が…いつの間にか大盛り上がりしてきているぞ…。",
+            "TextENG": "I feel like... maybe the conversation is getting pretty out of hand..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28289,
+            "TextJPN": "あ、謝るなら…今のうち…？",
+            "TextENG": "Oh, if I apologize... now's my chance...?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28290,
+            "TextJPN": "だが、男、前原圭一の口から出たのは、本人である俺自身でもビビってしまうような、あまりに無鉄砲な一言だった。",
+            "TextENG": "But what came out of my, Keiichi Maebara's, mouth was a statement so reckless it even frightened me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28291,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23500.",
+            "TextJPN": "「あぁ！！　上等だぜッ！！@k@vS19/01/HR_KEI23510.　明日の弁当を見て腰を抜かすなよッ！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Yeah!! You're on!!@k@vS19/01/HR_KEI23510. My bento tomorrow will knock you right out of your shoes!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28292,
+            "NamesJPN": "部活メンバー",
+            "PreTextTags": "@o60.@vS19/02/500200372|S19/03/500300248|S19/05/500500086|S19/04/500400165.",
+            "TextJPN": "「「おおおぉぉ…！！！」」",
+            "NamesENG": "Club Members",
+            "TextENG": "``````Whoaaaa...!!!``````"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28293,
+            "TextJPN": "俺の自信たっぷりな返答に、みんなが驚きの声をあげる…！",
+            "TextENG": "Everyone raised their voices in surprise at my bold, confident reply...!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28294,
+            "TextJPN": "……あぁぁ…言っちまったぁぁぁ！　俺ってヤツは…何て無責任なことをぉぉ…！！",
+            "TextENG": "...Aaagh... Now I've done it! What have I done... I'm so irresponsible...!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28295,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400166.",
+            "TextJPN": "「さて魅音さん？@k@vS19/04/500400167.　ビリになったらどんな素敵な罰ゲームになってしまうんですの？」",
+            "NamesENG": "Satoko",
+            "TextENG": "``So, Mion-san?@k@vS19/04/500400167. What sort of fantastic punishment game will we have to play if we lose?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28296,
+            "TextJPN": "沙都子が不敵そうにニヤリと笑う。",
+            "TextENG": "Satoko grinned fearlessly."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28297,
+            "TextJPN": "…その素敵な罰ゲームは、すでに俺に内定しているとでも言わんばかりだ。",
+            "TextENG": "...As if to say that it was already decided I'd be playing said fantastic punishment game."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28298,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/500300249.",
+            "TextJPN": "「…くっくっく…。@k@vS19/03/500300250.そうだねぇ」",
+            "NamesENG": "Mion",
+            "TextENG": "``...Ku-ku-ku...@k@vS19/03/500300250. Let's see.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28299,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/500300251.",
+            "TextJPN": "「…じゃあこんなのはどうかな？」",
+            "NamesENG": "Mion",
+            "TextENG": "``...Okay, how about this?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28300,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/500300252.",
+            "TextJPN": "「…明日のお弁当勝負に負けた人は、@k@vS19/03/500300253.……明日のお昼休み、@k@vS19/03/500300254.職員室で食事中の知恵先生の前で、@k@vS19/03/500300255.…カレーの悪口を言うってのはッ！！」",
+            "NamesENG": "Mion",
+            "TextENG": "``...Whoever loses tomorrow's bento showdown...@k@vS19/03/500300253. during lunch break tomorrow,@k@vS19/03/500300254. has to go up to Chie-sensei as she's eating in the teacher's lounge...@k@vS19/03/500300255. and say bad things about curry!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28301,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200373.",
+            "TextJPN": "「み、魅ぃちゃん！！@k@vS19/02/500200374.　そ、それは……！！！」",
+            "NamesENG": "Rena",
+            "TextENG": "``M-Mii-chan!!@k@vS19/02/500200374. T-That's...!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28302,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400168.",
+            "TextJPN": "「…なんて、……お、恐ろしい…ッ！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``...How... How terrifying...!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28303,
+            "TextJPN": "あまりの恐ろしい罰ゲームに…、全員が青ざめ、口をぱくぱくさせる…。",
+            "TextENG": "Everyone went pale and gasped... at how truly terrifying the punishment game was..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28304,
+            "TextJPN": "…知恵先生って、人生をカレーに賭けてるような別名カレー大魔王…じゃないカレー女王…。",
+            "TextENG": "...Chie-sensei is such a maniac about curry that she'd risk her life for it..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28305,
+            "TextJPN": "その人に対して…カレーの悪口を言う…だって？！",
+            "TextENG": "And to go up to her... and start saying bad things about curry...?!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28306,
+            "TextJPN": "どんな末路を辿るのか…。",
+            "TextENG": "What kind of fate would await us...?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28307,
+            "TextJPN": "想像することすらコワイ。",
+            "TextENG": "Just trying to imagine it was scary."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28308,
+            "TextJPN": "あまりに恐ろしい罰ゲームに、…みんなが呆然とする中、梨花ちゃんがボソリと言った。",
+            "TextENG": "And as everyone looked blankly amazed at the terrifying punishment game... Rika-chan spoke."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28309,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500087.",
+            "TextJPN": "「……明日のお弁当は腕によりをかけますです」",
+            "NamesENG": "Rika",
+            "TextENG": "``...Tomorrow's contest will be decided by skill.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28310,
+            "TextJPN": "レナも魅音も沙都子も。みんな深々とうんうんと頷く。",
+            "TextENG": "Rena, and Mion, and Satoko. Everyone nodded deeply in agreement."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28311,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400169.",
+            "TextJPN": "「もっとも、圭一さんには、明日のお弁当以前に、今夜のお夕食の方が問題でしょうけどねぇ…」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Although Keiichi-san's problem might be his own dinner tonight, rather than tomorrow's bento...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28312,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400170.",
+            "TextJPN": "「をっほっほっほ！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Ohh-ho-ho-ho!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28313,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23520.",
+            "TextJPN": "「はん！@k@vS19/01/HR_KEI23530.　俺が今夜、どんな素晴らしいディナーになるか、見ることができなくて残念だな！！@k@vS19/01/HR_KEI23540.　明日の弁当でその片鱗をほんの少しだけ見せてやるから楽しみにしていろよ！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Hah!@k@vS19/01/HR_KEI23530. How disappointing that you can't witness what an amazing dinner I'm going to make tonight!!@k@vS19/01/HR_KEI23540. I'll let you have a glimpse of it in my bento tomorrow, so look forward to it!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28314,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400171.",
+            "TextJPN": "「あれだけの大見得をきったんですのよ。@k@vS19/04/500400172.…これでとんでもないのを作っちゃったら、どうなるかわかってるんでございましょうねぇ？！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``That is quite a lot of grandstanding.@k@vS19/04/500400172. ...You do know what will happen if you come to us with something terrible, right?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28315,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23550.",
+            "TextJPN": "「くっくっくっく！！@k@vS19/01/HR_KEI23560.　沙都子こそ、明日、知恵先生にどんな恐ろしい目に遭わされるか…今から楽しみで仕方ないだろう！！@k@vS19/01/HR_KEI23570.　くっくっくっく！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Ku-ku-ku-ku!!@k@vS19/01/HR_KEI23560. I just can't wait... how much trouble you'll be in with Chie-sensei tomorrow, Satoko!!@k@vS19/01/HR_KEI23570. Ku-ku-ku-ku!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28316,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400173.",
+            "TextJPN": "「えぇ、楽しみでしてよー！！@k@vS19/04/500400174.　明日、圭一さんはきっと土下座して、それだけはどうかご勘弁を～！！@k@vS19/04/500400175.　って泣きながら言うんでしてよ！！@k@vS19/04/500400176.　あぁ、目に浮かぶようですわー！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Yes, I can't wait, either!!@k@vS19/04/500400174. To see you, Keiichi-san, groveling before her and begging for forgiveness~!!@k@vS19/04/500400175. Saying it all with tears streaming down your face!!@k@vS19/04/500400176. Yes, I can just see it now!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28317,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23580.",
+            "TextJPN": "「にゃ、にゃにをーー！！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Wh-What was that?!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28318,
+            "TextJPN": "ぐに！",
+            "TextENG": "Yank!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28319,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400177.",
+            "TextJPN": "「むがーーーー！！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Mgaahhhhhh!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28320,
+            "TextJPN": "ぐにぃ！",
+            "TextENG": "Stretch!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28321,
+            "TextJPN": "互いに半涙をこぼしながら、相手のほっぺをつねりあう…！！",
+            "TextENG": "Both of us, on the verge of tears, pull on each other's cheeks...!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28322,
+            "TextJPN": "ぐにぃ！",
+            "TextENG": "Stretch!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28323,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/500300256.",
+            "TextJPN": "「あっはっはっは！@k@vS19/03/500300257.　自らを窮地に追い込むことで死力を振り絞ろうとは…。@k@vS19/03/500300258.圭ちゃん、男だねぇ！！」",
+            "NamesENG": "Mion",
+            "TextENG": "``Ah-ha-ha-ha!@k@vS19/03/500300257. Trying to muster all your desperation by placing yourself in a predicament...@k@vS19/03/500300258. Kei-chan, that's so manly!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28324,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400178.",
+            "TextJPN": "「こんなの男なんて言いませんのよ！@k@vS19/04/500400179.　ただの無鉄砲って言いますのよー？@k@vS19/04/500400180.　自分もお料理なんかろくろく出来ないクセにぃー！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``That isn't manly or anything of the sort!@k@vS19/04/500400179. It is called being reckless!@k@vS19/04/500400180. He can't even cook well!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28325,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/500400181.",
+            "TextJPN": "「ぐにぃー！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Stretch!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28326,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200375.",
+            "TextJPN": "「あはははは。@k@vS19/02/500200376.レナは信じてるからね！@k@vS19/02/500200377.　素敵なお弁当、楽しみにしてるよ！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Ahahahaha.@k@vS19/02/500200376. Rena believes in you!@k@vS19/02/500200377. I'm looking forward to your wonderful bento!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28327,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/500500088.",
+            "TextJPN": "「……ボクも、明日の圭一がとても楽しみなのですよ」",
+            "NamesENG": "Rika",
+            "TextENG": "``...I'm looking forward very much to seeing Keiichi tomorrow as well.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28328,
+            "TextJPN": "…みんなの期待の眼差しが痛い…。",
+            "TextENG": "...Their expectant gazes were painful..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28329,
+            "TextJPN": "……ちょっと沙都子をからかうだけのつもりが……どうしてこんなことに…？！？！",
+            "TextENG": "...I was just trying to tease Satoko a little... How did it come to this...?!?!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28330,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23590.",
+            "TextJPN": "「お、…おぉ…。@k@vS19/01/HR_KEI23600.楽しみにしててくれよ…！@k@vS19/01/HR_KEI23610.　あっはっはっはっは！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Y-Yeah...@k@vS19/01/HR_KEI23600. You'd better look forward to it...!@k@vS19/01/HR_KEI23610. Ah-ha-ha-ha-ha-ha!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28331,
+            "TextJPN": "ああぁー…！@k　俺ってヤツは…、どうしてこうも無責任なことを言っちまうんだぁぁぁ！",
+            "TextENG": "Aaagh...!@k How... How am I able to say such reckless things?!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28332,
+            "TextJPN": "こんな無茶なこと言っちゃって…、一体、俺の夕飯はどうなってしまうんだ？！",
+            "TextENG": "I'm being so unreasonable... What the heck is going to happen to my dinner?!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28333,
+            "TextJPN": "そして明日の弁当勝負は？！",
+            "TextENG": "And the bento showdown tomorrow?!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28334,
+            "TextJPN": "いや、それより…先生の前でカレーの悪口なんか言わされたら…どういうことになってしまうんだぁあぁぁああぁ…ッ！！！",
+            "TextENG": "No, more importantly... If they make me say bad things about curry to Chie-sensei's face... what'll happen to me...?!?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28335,
+            "TextJPN": "空威張りする表の俺と、泣き叫ぶ内側の俺との対比があまりに両極端な、蒸し暑い６月のお昼だった…。",
+            "TextENG": "The extreme contrast between my outward bravado and my internal screaming continued as the hot and humid June afternoon dragged on..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28336,
+            "TextJPN": "その日は一日。",
+            "TextENG": "That entire day."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28337,
+            "TextJPN": "…放課後になるまで、ずーーっと。@k…今晩のおかずのことと明日の弁当のことばかり考えていた。",
+            "TextENG": "...Up until school was over, the whoooole time.@k ...My meal tonight and my bento tomorrow were the only things on my mind."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28338,
+            "TextJPN": "…こうして思うと、",
+            "TextENG": "...And now that I thought about it..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28339,
+            "TextJPN": "…一年中、三食の献立を考えてるお袋は偉大だ。",
+            "TextENG": "It made Mom seem amazing for planning three meals every day of the year."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28340,
+            "TextJPN": "…たまに同じメニューが続くだけで文句を言う自分が、いかに失礼かよくわかるぞ…。",
+            "TextENG": "...I've complained before about having the same meal in a row once in a while, but now I know how rude that was..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28341,
+            "TextJPN": "あぁあぁ…、そんなことより…、明日の罰ゲームはどうなっちゃうんだよーぅ…。@kそれよりも今夜、俺は何を食えばいいんだぁ…？",
+            "TextENG": "Aaagghh... More importantly... What am I gonna do about the punishment game tomorrow...@k And besides that, what am I gonna eat tonight...?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28342,
+            "TextJPN": "とほほほ……。",
+            "TextENG": "Boo hoo..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28343,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200378.",
+            "TextJPN": "「圭一くん？@k@vS19/02/500200379.　圭一くん…？」",
+            "NamesENG": "Rena",
+            "TextENG": "``Keiichi-kun?@k@vS19/02/500200379. Keiichi-kun...?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28344,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23620.",
+            "TextJPN": "「…え？@k@vS19/01/HR_KEI23630.　あ、ごめん…。@k@vS19/01/HR_KEI23640.ちょ、ちょっと考え事を…」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...Huh?@k@vS19/01/HR_KEI23630. Oh, sorry...@k@vS19/01/HR_KEI23640. I-I was just thinking about stuff...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28345,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200380.",
+            "TextJPN": "「今夜の献立のこと？@k@vS19/02/500200381.　それとも明日のお弁当勝負のことかな？」",
+            "NamesENG": "Rena",
+            "TextENG": "``About what to make tonight?@k@vS19/02/500200390. Or about the bento showdown tomorrow?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28346,
+            "TextJPN": "…う。@k……図星を突かれ、言葉に詰まる。",
+            "TextENG": "...Urk.@k ...She hit the mark, and I couldn't find anything to say."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28347,
+            "TextJPN": "そして、図星を突かれたことが一目でわかるような表情を浮かべてしまう。",
+            "TextENG": "And my facial expression made obvious the fact that she hit the mark."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28348,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200382.",
+            "TextJPN": "「明日の勝負は、きっと、圭一くんががんばってお弁当を作ってこれたら、それで大丈夫だと思うよ。@k@vS19/02/500200383.がんばって作った手作りのお弁当に優劣なんかないもの」",
+            "NamesENG": "Rena",
+            "TextENG": "``For tomorrow's showdown, I think that if you do your best to make a bento, you'll be fine.@k@vS19/02/500200383. There's nothing superior to a bento you tried really hard to make all by yourself.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28349,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23650.",
+            "TextJPN": "「……明日の勝負以前に、今夜の晩飯だよ…。@k@vS19/01/HR_KEI23660.食中毒でばったりいくかもしれない…」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...Tomorrow's showdown is one thing, but what about dinner tonight...@k@vS19/01/HR_KEI23660. I might suddenly get food poisoning...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28350,
+            "TextJPN": "もう強がりなんて言ってられない…。",
+            "TextENG": "I couldn't make any more bluffs..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28351,
+            "TextJPN": "大仰に肩を落とし、腹の底からため息を吐き出して見せた。",
+            "TextENG": "I exaggeratedly drooped my shoulders, and heaved a sigh from the bottom of my gut."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28352,
+            "TextJPN": "そんな仕草を見て、レナがけらけらと笑った。",
+            "TextENG": "Rena laughed in a shrill way when she saw me do that."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28353,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200384.",
+            "TextJPN": "「やっぱり圭一くん、お料理、全然自信なんかなかったんだね。@k@vS19/02/500200385.あははははは」",
+            "NamesENG": "Rena",
+            "TextENG": "``Keiichi-kun, you don't have any confidence in your cooking at all, do you?@k@vS19/02/500200385. Ahahahaha.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28354,
+            "TextJPN": "やはりバレてたか……。ぅぅぅ…。",
+            "TextENG": "So I've been found out... ugh..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28355,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200386.",
+            "TextJPN": "「もしも圭一くんがどんなにがんばっても無理そうだったら、レナに電話してもいいからね」",
+            "NamesENG": "Rena",
+            "TextENG": "``If it looks like you can't do it no matter how hard you try, you can always give Rena a call!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28356,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23670.",
+            "TextJPN": "「え…、ほ、本当か…？！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Eh... R-Really...?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28357,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200387.",
+            "TextJPN": "「圭一くんがちゃんとがんばったら、だよ？@k@vS19/02/500200388.　何も苦労しないで人に頼ろうとしちゃダメなんだから」",
+            "NamesENG": "Rena",
+            "TextENG": "``But only if you try really hard first, okay?@k@vS19/02/500200388. You can't rely on others without first struggling yourself.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28358,
+            "TextJPN": "レナって甘そうに見えて、時々教育的だよな。@k無条件に甘やかしてくれるわけじゃない。@kそんな時のレナは少し大人びて見える。",
+            "TextENG": "Rena seemed naive, but sometimes she was instructive.@k She didn't just spoil people unconditionally.@k Rena always seemed like an adult at these moments."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28359,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23680.",
+            "TextJPN": "「…どうしてもダメだったら電話するよ。@k@vS19/01/HR_KEI23690.…その確率は極めて高いが」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...If I absolutely can't do it, I'll call you.@k@vS19/01/HR_KEI23690. ...Though the chances are extremely high.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28360,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200389.",
+            "TextJPN": "「ファイト、おーだよ！@k@vS19/02/500200390.　沙都子ちゃんにあれだけ大見得を切ったんだから、がんばらなきゃ、ね！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Go for it, yay!@k@vS19/02/500200390. You were grandstanding so much to Satoko-chan that you have to try your best!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28361,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23700.",
+            "TextJPN": "「なぁ、沙都子って、…どの程度の料理ができるんだ…？」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Hey, about Satoko... How good is she at cooking...?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28362,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200391.",
+            "TextJPN": "「あははは。@k@vS19/02/500200392.少なくとも圭一くんよりはできるよ」",
+            "NamesENG": "Rena",
+            "TextENG": "``Ahahaha.@k@vS19/02/500200392. She's at least better than you.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28363,
+            "TextJPN": "あまりに直接的。@k…かなりグサっとくる。",
+            "TextENG": "That was so direct.@k ...It hit me pretty hard."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28364,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200393.",
+            "TextJPN": "「沙都子ちゃんをあれだけいじめたんだから。@k@vS19/02/500200394.…圭一くんはちょーっぴり苦労をしてもいいかも、ね！　くすくす！」",
+            "NamesENG": "Rena",
+            "TextENG": "``You were making fun of her a lot, too.@k@vS19/02/500200394. ...Maybe you should have to struggle just a little, huh? *giggle*``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28365,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23710.",
+            "TextJPN": "「……うぐぐぐぐ…。@k@vS19/01/HR_KEI23720.レナって…結構、意地悪なのな…」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...Urghhhh...@k@vS19/01/HR_KEI23720. Rena... You're pretty mean...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28366,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200395.",
+            "TextJPN": "「レナはかわいいだけじゃないんだよ？　だよ？@k@vS19/02/500200396.　あっはははははは！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Rena isn't all cute, all cute!@k@vS19/02/500200396. Ah-hahahahahaha!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28367,
+            "TextJPN": "あぁぁぁ…、沙都子をあれだけ挑発した以上、粗末な弁当なんか作れない…。",
+            "TextENG": "Ahhh... Now that I'd provoked Satoko that much, I couldn't just make some crummy bento..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28368,
+            "TextJPN": "あぁあぁ…俺は…何て軽口をぉ…！",
+            "TextENG": "Aahhhh... I can't believe... how loose-lipped I am...!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28369,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/500200397.",
+            "TextJPN": "「じゃあね。@k@vS19/02/500200398.がんばってね。@k@vS19/02/500200399.お料理！@k@vS19/02/500200400.　圭一くんがやれば出来るってこと、みんなに見せてあげようね！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Okay, bye.@k@vS19/02/500200398. Good luck.@k@vS19/02/500200399. On the cooking!@k@vS19/02/500200400. Show everyone that you can do it if you really try!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28370,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI23730.",
+            "TextJPN": "「お、…おぅ…」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Y-Yeah...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28371,
+            "TextJPN": "頼りなげに手をひらひらと振って応えてやる。",
+            "TextENG": "I waved my hand absently in response."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 28372,
+            "TextJPN": "…レナは励ましの言葉と、料理の超初歩のアドバイスをいくつか残しながら、木立の向こうに消えて行った…。",
+            "TextENG": "...Leaving me with words of encouragement and a few pieces of super-beginner advice, Rena disappeared past the trees..."
+        }
+    ]
+}

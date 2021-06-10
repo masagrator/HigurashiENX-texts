@@ -1,0 +1,634 @@
+{
+    "Main": [
+        {
+            "type": "SAVEINFO",
+            "category": 1,
+            "JPN": "#4",
+            "ENG": "#4"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154575,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS25/03/NMIO_1100.",
+            "TextJPN": "「………見たところ、園崎組の事務所は、冷静を保ててるように見えるねぇ……」",
+            "NamesENG": "Mion",
+            "TextENG": "``.........Judging from the look of things, the Sonozaki family office has seemed to keep calm......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154576,
+            "TextJPN": "建物伝いに移動した魅音たちは、途中でオペラグラスを手に入れ、それを双眼鏡代わりにしていた。",
+            "TextENG": "Mion moves along the building, and puts away the opera glasses on the move, substituting them for binoculars."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154577,
+            "TextJPN": "しばらくの偵察で、建物伝いで可能な行動範囲と、その周囲の暴徒たちの動きを把握することが出来た。",
+            "TextENG": "After a short moment of reconnaissance, a range of activities were possible as we moved along the buildings, allowing us to grasp the movements of the surrounding mobs."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154578,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS25/02/NREN_0930.",
+            "TextJPN": "「やっぱり、雛見沢の自警団と同じ動きだね」",
+            "NamesENG": "Rena",
+            "TextENG": "``After all, their movements are the same as the vigilance committee of Hinamizawa.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154579,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS25/01/NKEI_1020.",
+            "TextJPN": "「普段は怯えるようにバリケード前に陣取り、何か物音が聞こえたと騒いではドタドタと駆けつけて大暴れしての繰り返しだ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``They're probably terrified of someone playing prisoner's base with their barricades, as they made a racket when some noise was heard, nosily rushing towards it in a cycle of rampage.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154580,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS25/04/NSAT_0340.",
+            "TextJPN": "「自分たちは冷静なつもりでいるのが滑稽ですわね……」",
+            "NamesENG": "Satoko",
+            "TextENG": "``It's funny we are the only ones with a calm intention......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154581,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS25/03/NMIO_1110.",
+            "TextJPN": "「でも、行動パターンは読めたよ。私たちが出くわした時が、一番ホットだったってこともね」",
+            "NamesENG": "Mion",
+            "TextENG": "``But, our behavior pattern was readable. When we came across them, we sure did panic.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154582,
+            "NamesJPN": "采",
+            "PreTextTags": "@vS25/50/NUNE_0100.",
+            "TextJPN": "「いつもドタドタしている、……わけでもない」",
+            "NamesENG": "Une",
+            "TextENG": "``You made alot of noise...... That was it.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154583,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS25/03/NMIO_1120.",
+            "TextJPN": "「だねぇ。それがわかっただけでも大きな情報だよ」",
+            "NamesENG": "Mion",
+            "TextENG": "``You're right. I only understood the big information.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154584,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS25/04/NSAT_0350.",
+            "TextJPN": "「何れにせよ、この大河を渡らないことには、どうにもなりませんでしてよ」",
+            "NamesENG": "Satoko",
+            "TextENG": "``In any case, I don't think we'll be able to cross that large river, unless we come up with something.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154585,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS25/02/NREN_0940.",
+            "TextJPN": "「この幹線道路を横断しないことには、……これ以上は進めないからね」",
+            "NamesENG": "Rena",
+            "TextENG": "``But without crossing the main road...... we can't move any further.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154586,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS25/01/NKEI_1030.",
+            "TextJPN": "「静かに行くか、賑やかに行くか。そのどちらかしかないだろうな」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``We should either go quietly, or very noisily. Those are our only options.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154587,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS25/03/NMIO_1130.",
+            "TextJPN": "「夜陰に乗じて隠密に行こう」",
+            "NamesENG": "Mion",
+            "TextENG": "``Let's covertly move under the cover of night.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154588,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS25/01/NKEI_1040.",
+            "TextJPN": "「魅音の怪我が悪化しない内に行動したいんだけどな。……まだ大丈夫そうか？」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``I'd like to act before Mion's injuries worsen. Are you okay?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154589,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS25/03/NMIO_1140.",
+            "TextJPN": "「へへっ、おじさんを舐めるんじゃないよ。これくらいの傷、どうって事は……@k@|@y@vS25/03/NMIO_1141.あいたたた！？」",
+            "NamesENG": "Mion",
+            "TextENG": "``Hey, don't underestimate this old man. A scratch like this is nothing to worry about......@k@|@y@vS25/03/NMIO_1141. Oww!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154590,
+            "TextJPN": "気を使わせまいと腕を持ち上げる魅音だが、銃による傷痕が一日二日で塞がるわけもない。",
+            "TextENG": "She lifted her arm to keep her attention, but the scar from the gun would not heal in a day or two."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154591,
+            "TextJPN": "これまで動けていたのは、魅音自身の体力、そして精神力の強さがあってこそだ。",
+            "TextENG": "The fact that she had been able to move so far was due to her own physical and mental strength."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154592,
+            "TextJPN": "素人治療によって出血こそ治まっているが、医者に診せるべき傷である事に変わりはない。",
+            "TextENG": "The bleeding had stopped after some amateur treatment, but it was still a wound that needed to be treated by a doctor."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154593,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS25/02/NREN_0950.",
+            "TextJPN": "「もう、あんまり無理しちゃダメだよ？」",
+            "NamesENG": "Rena",
+            "TextENG": "``Don't push yourself too hard anymore, okay?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154594,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS25/03/NMIO_1150.",
+            "TextJPN": "「だ、大丈夫大丈夫。この程度の怪我じゃ、園崎の血は止められないっての」",
+            "NamesENG": "Mion",
+            "TextENG": "``Don't worry, don't worry. This level of injury won't stop Sonozaki's blood.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154595,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS25/04/NSAT_0360.",
+            "TextJPN": "「本当に血が止まらなくなったら大事ですわよ」",
+            "NamesENG": "Satoko",
+            "TextENG": "``If you really can't stop the bleeding, you're in trouble.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154596,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS25/03/NMIO_1160.",
+            "TextJPN": "「ま、事務所につけばもう少しマシな治療もきっと出来るって。だからもう一踏ん張りしないとね」",
+            "NamesENG": "Mion",
+            "TextENG": "``Well, I'm sure they can treat me a little better once we're in the office. We just have to hang on a little longer.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154597,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS25/01/NKEI_1050.",
+            "TextJPN": "「今は時間をかけてでも、確実に事務所に辿り着くって事だな」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Now, even if it takes time, I'm sure we will reach the office.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154598,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS25/02/NREN_0960.",
+            "TextJPN": "「采ちゃんはどうしよう……？」",
+            "NamesENG": "Rena",
+            "TextENG": "``What will you do, Une-chan......?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154599,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS25/03/NMIO_1170.",
+            "TextJPN": "「あんたも来る？　いつ来るかもわからない助けを待つには、ここはちょっと心細いと思うよ」",
+            "NamesENG": "Mion",
+            "TextENG": "``Are you coming with us? I don't know when help will come if you wait here, and it'll also be a little lonely.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154600,
+            "NamesJPN": "采",
+            "PreTextTags": "@vS25/50/NUNE_0110.",
+            "TextJPN": "「……………………」",
+            "NamesENG": "Une",
+            "TextENG": "``........................``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154601,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS25/04/NSAT_0370.",
+            "TextJPN": "「……みんな、そう言ってここを出て行ってやられてしまったんですものね。……気持ちもわかりますですわ」",
+            "NamesENG": "Satoko",
+            "TextENG": "``......Everyone, it's okay if she doesn't want to leave. ......We should understand her feelings.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154602,
+            "NamesJPN": "采",
+            "PreTextTags": "@vS25/50/NUNE_0120.",
+            "TextJPN": "「怖いからここを出たくない……、というわけではないのです」",
+            "NamesENG": "Une",
+            "TextENG": "``I don't want to leave here, it's scary...... It's not if I stay.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154603,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS25/02/NREN_0970.",
+            "TextJPN": "「……私たちを、信じてくれる？」",
+            "NamesENG": "Rena",
+            "TextENG": "``......Don't you trust us?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154604,
+            "NamesJPN": "采",
+            "PreTextTags": "@vS25/50/NUNE_0130.",
+            "TextJPN": "「いいえ、……などと言うわけがないのです。皆さんと一緒にいた方が危ない、……という気持ちは、見ている内になくなりましたです」",
+            "NamesENG": "Une",
+            "TextENG": "``No...... I don't have a reason not to. But I'd rather you stay and not risk it...... Feeling that, I don't want you to disappear.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154605,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS25/01/NKEI_1060.",
+            "TextJPN": "「俺たち部活メンバーは、個として最強、揃えば無敵だぜ！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``We club members are strongest as a unit, our power is unrivaled when we're together!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154606,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS25/02/NREN_0980.",
+            "TextJPN": "「私たちを信頼してくれるなら、絶対に采ちゃんを守るから」",
+            "NamesENG": "Rena",
+            "TextENG": "``If you are willing to trust us, we will absolutely protect you, Une-chan.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154607,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS25/04/NSAT_0380.",
+            "TextJPN": "「園崎組の事務所が、ここより安全であるという保証があればでございますけれどもね」",
+            "NamesENG": "Satoko",
+            "TextENG": "``And at the Sonozaki family office, I can guarantee you'll be safer there than here.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154608,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS25/03/NMIO_1180.",
+            "TextJPN": "「それは問題ないよ。万一の際は籠城できるように、あそこにはあらゆる備蓄があるからねぇ」",
+            "NamesENG": "Mion",
+            "TextENG": "``There won't be any problems. Even during an event like this, they'll be able to hold out against a siege, since they have an emergency stockpile over there.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154609,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS25/01/NKEI_1070.",
+            "TextJPN": "「魅音の一族は、つくづく備えるのが得意だなぁ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Mion's family is really well prepared.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154610,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS25/03/NMIO_1190.",
+            "TextJPN": "「くっくっく。戦いは始まる前にすでに終わっているのが、おじさんの一族のポリシーさね」",
+            "NamesENG": "Mion",
+            "TextENG": "``Hee hee hee. The battle was already over before it even began, as is the policy of this Old Man's family.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154611,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS25/04/NSAT_0390.",
+            "TextJPN": "「采さんは私たちを助けてくれた命の恩人ですわ。だから、私たちはその恩をお返ししましてよ」",
+            "NamesENG": "Satoko",
+            "TextENG": "``You're the savior that helped us, Une-san. Therefore, we have to return the favor.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154612,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS25/02/NREN_0990.",
+            "TextJPN": "「必ず、安全なところへ連れて行ってあげるから」",
+            "NamesENG": "Rena",
+            "TextENG": "``So by all means, we'll take you to a safe place.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154613,
+            "NamesJPN": "采",
+            "PreTextTags": "@vS25/50/NUNE_0140.",
+            "TextJPN": "「……嬉しくない、……わけはないのです」",
+            "NamesENG": "Une",
+            "TextENG": "``......I'm not happy...... There isn't a reason.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154614,
+            "TextJPN": "少女がたったひとりで、このような前代未聞の大惨事に巻き込まれたのだ。心細くなかったわけもない。",
+            "TextENG": "This girl was all alone, dragged into such an unprecedented catastrophe. She must be feeling lonely."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154615,
+            "TextJPN": "最初、無口で無表情だと思っていた彼女も、少しずつ元気いっぱいの部活メンバーに心を許し始めるようになっていた。",
+            "TextENG": "First, I thought she was an expressionless taciturn, but she came to trust our energetic club members little by little."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154616,
+            "TextJPN": "元々から無口な少女のわけもない。",
+            "TextENG": "So she can't be the taciturn girl I originally though of."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154617,
+            "TextJPN": "このような大惨事の衝撃から心を守る為に、少しだけ心を閉ざしてしまっていただけなのだ。",
+            "TextENG": "But in order to protect her heart from the impact of such a catastrophe, she had to close her heart a little."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154618,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS25/02/NREN_1000.",
+            "TextJPN": "「采ちゃんのお家はどこなの？」",
+            "NamesENG": "Rena",
+            "TextENG": "``Where is your home, Une-chan?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154619,
+            "NamesJPN": "采",
+            "PreTextTags": "@vS25/50/NUNE_0150.",
+            "TextJPN": "「……この街に住んでいる、……のではないです」",
+            "NamesENG": "Une",
+            "TextENG": "``......I live in this town...... but I don't know where.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154620,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS25/04/NSAT_0400.",
+            "TextJPN": "「え？　じゃあお家はどこなんですの？！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Eh? Then where is your house?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154621,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS25/01/NKEI_1080.",
+            "TextJPN": "「まさか、……興宮に遊びに来てる時に巻き込まれたとか……」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Perhaps...... she came to Okinomiya to play and got caught up in this mess......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154622,
+            "NamesJPN": "采",
+            "PreTextTags": "@vS25/50/NUNE_0160.",
+            "TextJPN": "「……………………」",
+            "NamesENG": "Une",
+            "TextENG": "``........................``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154623,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS25/03/NMIO_1200.",
+            "TextJPN": "「それは……、……さぞや心細かったろうに……」",
+            "NamesENG": "Mion",
+            "TextENG": "``That may be so...... ......I'm sure you must have felt terrible.......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154624,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS25/02/NREN_1010.",
+            "TextJPN": "「遠いの？」",
+            "NamesENG": "Rena",
+            "TextENG": "``Is it far?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154625,
+            "NamesJPN": "采",
+            "PreTextTags": "@vS25/50/NUNE_0170.",
+            "TextJPN": "「………近く、……ではないのです。……でも、橋がみんな壊れてて、帰れない……」",
+            "NamesENG": "Une",
+            "TextENG": "``.........It's nearby...... so it's not that far. ......But, all the bridges are destroyed, so we won't be able to come back......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154626,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS25/01/NKEI_1090.",
+            "TextJPN": "「そうだったのか……」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``I see......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154627,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS25/04/NSAT_0410.",
+            "TextJPN": "「可哀想に……」",
+            "NamesENG": "Satoko",
+            "TextENG": "``That's too bad......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154628,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS25/02/NREN_1020.",
+            "TextJPN": "「でも、ひとつだけ幸運だったこともあるよ」",
+            "NamesENG": "Rena",
+            "TextENG": "``But, that's fortunate for some of us.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154629,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS25/01/NKEI_1100.",
+            "TextJPN": "「……そうか、それもそうだな」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Yeah, you're right.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154630,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS25/02/NREN_1030.",
+            "TextJPN": "「采ちゃんのお家や家族は、この騒ぎの外側だもん。だからお家は無事。そうでしょ？」",
+            "NamesENG": "Rena",
+            "TextENG": "``Une-chan's family and home must be somewhere outside this uproar. Therefore her house will be safe. Don't you think so?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154631,
+            "NamesJPN": "采",
+            "PreTextTags": "@vS25/50/NUNE_0180.",
+            "TextJPN": "「…………………。……そう、なのです」",
+            "NamesENG": "Une",
+            "TextENG": "``......Yes, you're right.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154632,
+            "TextJPN": "レナの言う通り、これは唯一の不幸中の幸いだ。",
+            "TextENG": "As Rena says, this is a blessing in disguise."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154633,
+            "TextJPN": "彼女には、帰るべき家と家族が、無事に違いないのだ。",
+            "TextENG": "So she can return to her home and family safely."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154634,
+            "TextJPN": "政府は鹿骨市に繋がる橋やトンネルの全てを破壊し、物理的な封鎖を行なっている。",
+            "TextENG": "The government destroyed all bridges and tunnels leading to Shishibone City, performing a physical blockade."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154635,
+            "TextJPN": "それは、この事態への対処に少なからぬ時間が掛かることを認めたも同然だ。",
+            "TextENG": "So, they rightfully admitted coping with this situation will take a considerable amount of time."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154636,
+            "TextJPN": "しかしその一方で、そこまでをしたお陰で、被害を市内に食い止められたという側面もある。",
+            "TextENG": "However, thanks to that they stemmed damage of the city."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154637,
+            "TextJPN": "市内の人々は、自分たちが政府に見捨てられたと落胆し、あるいは憤っているようだが、大局的に見れば正しい判断だ。",
+            "TextENG": "Although the people of the city became discouraged and thought the government had abandoned them, making everyone very upset, but looking at it from their perspective it was the right decision to make."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154638,
+            "TextJPN": "そしてそのお陰で、采の帰るべき場所は守られたのだ。",
+            "TextENG": "And thanks to that, we should be able to protect Une until she gets home."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154639,
+            "TextJPN": "……彼女には、まだ希望がある。",
+            "TextENG": "......So she still has hope."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154640,
+            "TextJPN": "だからこそ、心細くて潰れそうになりながらも、……気丈に今日までを頑張り抜くことが出来たのだろう。",
+            "TextENG": "That is why, even though all may seem lost...... We have been able to be stout-hearted and do our best until this very day."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154641,
+            "TextJPN": "彼女の境遇を理解すると、一同は俯き、そして湧き上がる使命感に拳を握り締めた。",
+            "TextENG": "So we all consider her circumstances, look down, and grasp our fists as a sense of duty overwhelms us."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154642,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS25/03/NMIO_1210.",
+            "TextJPN": "「采ちゃんが助けてくれなかったら、おじさんたちはどうなってたかわからない」",
+            "NamesENG": "Mion",
+            "TextENG": "``If you never helped us, Une-chan, I don't know what would've happened to this Old Man.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154643,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS25/02/NREN_1040.",
+            "TextJPN": "「痛ましい犠牲が出ていた可能性は高いね」",
+            "NamesENG": "Rena",
+            "TextENG": "``It's quite possible that there would have been a tragic loss of life.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154644,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS25/04/NSAT_0420.",
+            "TextJPN": "「命を助けて下さった御恩、……安くは付きませんでしてよ！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``We owe you a favor for saving our lives...... so we can't be cheap!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154645,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS25/01/NKEI_1110.",
+            "TextJPN": "「あぁ、そういうことだな。采ちゃん。……俺たち部活メンバーが、全戦力を挙げて、必ず君を家に帰してやるからなッ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Well, for doing such a thing, Une-chan...... We club members will lend you all our strength to get you home by all means.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154646,
+            "NamesJPN": "采",
+            "PreTextTags": "@vS25/50/NUNE_0190.",
+            "TextJPN": "「あ、……ありがとう……、…………です…………」",
+            "NamesENG": "Une",
+            "TextENG": "``Oh...... thank...... ............you............``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154647,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS25/03/NMIO_1220.",
+            "TextJPN": "「渡河作戦の決行は、未明の午前４時とする！　夜陰に乗じて一気に幹線道路を越え、事務所へ至るよ！　万一に備え、私が先頭で斥候する！　考えたくはないけど、事務所のみんなもおかしくなってる可能性も否定できないからねぇ」",
+            "NamesENG": "Mion",
+            "TextENG": "``River crossing will be our decisive action and strategy. Operation will begin at 4:00 am early in the morning! We'll make our move all at once and cross the main road under cover of night, leading us to the office! But as a precaution, I'll scout before it begins! I don't want to consider it, but there's a possibility that everyone in the office has already become strange.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154648,
+            "TextJPN": "そうは脅すが、魅音はそれはないと確信しているようだ。",
+            "TextENG": "They could pose a threat, but Mion's convinced they won't."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154649,
+            "TextJPN": "恐らく、事務所をオペラグラスで偵察した時、冷静が保てていると確信できるものを確認できたのだろう。",
+            "TextENG": "Perhaps, when she spied upon the office with the opera glasses, she was able to confirm that they have kept their calm."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154650,
+            "TextJPN": "一同は早めに休みを取り、万全の準備を整える。",
+            "TextENG": "All the members take an early break, and prepare themselves thoroughly."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154651,
+            "TextJPN": "沙都子が仕掛けた、侵入者検知用トラップの空き缶の転がる音が聞こえやしないか、怯えながら眠るのが、少しだけ堪えた。",
+            "TextENG": "Satoko planted some traps, so we'll be able to hear the sound of the empty cans trap if an intruder is detected rolling in, and now I can sleep in spite of being scared, I was only a little though."
+        }
+    ]
+}

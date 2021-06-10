@@ -1,0 +1,505 @@
+{
+    "Main": [
+        {
+            "type": "SAVEINFO",
+            "category": 1,
+            "JPN": "雛見沢へ",
+            "ENG": "To Hinamizawa"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17573,
+            "NamesJPN": "三島",
+            "PreTextTags": "@vS20/00/VTT_mishima3001.",
+            "TextJPN": "「あ、いたいた。@k@vS20/00/VTT_mishima3002.おーい、荒川ちゃん」",
+            "NamesENG": "Mishima",
+            "TextENG": "``Ah, there he is.@k@vS20/00/VTT_mishima3002. Heeey, Arakawa-chan.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17574,
+            "NamesJPN": "荒川",
+            "PreTextTags": "@vS20/62/VTT_arakawa3001.",
+            "TextJPN": "「……はい？」",
+            "NamesENG": "Arakawa",
+            "TextENG": "``...Yes?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17575,
+            "TextJPN": "さっきコンビニで買ってきた夕刊のタブロイド誌から顔を上げて、俺は振り返る。声の主はスポーツ部で仲のいい三島記者だった。",
+            "TextENG": "I looked up from the evening tabloid I had picked up from the convenience store and turned back. The voice came from a colleague of mine, Mishima in the sports department."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17576,
+            "NamesJPN": "荒川",
+            "PreTextTags": "@vS20/62/VTT_arakawa3002.",
+            "TextJPN": "「あぁ三島さん、お疲れっす。@k@|@y@vS20/62/VTT_arakawa3003.…あれ？@k@vS20/62/VTT_arakawa3004.　確か今週いっぱいはシアトルって予定じゃ？」",
+            "NamesENG": "Arakawa",
+            "TextENG": "``Hey, Mishima-san, glad you could make it.@k@|@y@vS20/62/VTT_arakawa3003. ...Huh?@k@vS20/62/VTT_arakawa3004. Weren't you supposed to be in Seattle all week?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17577,
+            "NamesJPN": "三島",
+            "PreTextTags": "@vS20/00/VTT_mishima3003.",
+            "TextJPN": "「うーん、そのつもりだったんだけどさ。@k@vS20/00/VTT_mishima3004.実はパスポートをうっかり更新していなくて…たははっ。@k@vS20/00/VTT_mishima3005.で、代わりに吉村に行ってもらうことになった」",
+            "NamesENG": "Mishima",
+            "TextENG": "``Yeah, that was the plan.@k@vS20/00/VTT_mishima3004. But I actually forgot to update my passport... Tahaha.@k@vS20/00/VTT_mishima3005. So, they ended up sending Yoshimura instead.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17578,
+            "NamesJPN": "荒川",
+            "PreTextTags": "@vS20/62/VTT_arakawa3005.",
+            "TextJPN": "「えー、吉村っすかぁ？@k@vS20/62/VTT_arakawa3006.　あいつの英語、結構怪しいのに…大丈夫ですか？」",
+            "NamesENG": "Arakawa",
+            "TextENG": "``Huh? Yoshimura?@k@vS20/62/VTT_arakawa3006. His English is not that great... Will he be all right?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17579,
+            "NamesJPN": "三島",
+            "PreTextTags": "@vS20/00/VTT_mishima3006.",
+            "TextJPN": "「なぁに、心配ないって。@k@vS20/00/VTT_mishima3007.取材の時にインタビュー内容も録音しておけって言っておいたからさ。@k@vS20/00/VTT_mishima3008.原稿と一緒に、こっちで確認するつもりだよ」",
+            "NamesENG": "Mishima",
+            "TextENG": "``Well, nothing to worry about.@k@vS20/00/VTT_mishima3007. I told him to record all of his interviews.@k@vS20/00/VTT_mishima3008. And then we can go over the transcripts together here.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17580,
+            "NamesJPN": "荒川",
+            "PreTextTags": "@vS20/62/VTT_arakawa3007.",
+            "TextJPN": "「いいのかなぁ…」",
+            "NamesENG": "Arakawa",
+            "TextENG": "``I wonder if that'll be ok...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17581,
+            "TextJPN": "むしろ、吉村が不安なのは語学力よりも、取材度胸のほうだ。",
+            "TextENG": "I was actually more concerned about Yoshimura's interviewing ability than his language skills."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17582,
+            "TextJPN": "おそらく上っ面の質問ばかり並べ立てて、面白みの無い話しか聞き出せないだろう。",
+            "TextENG": "If he just goes through the list of questions top to bottom, we won't get to hear any interesting material."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17583,
+            "TextJPN": "…とはいえ、スポーツ記事は大選手の名前と写真だけ並べておけば、それなりの集客と話題性を望める。",
+            "TextENG": "...Although, with sports articles you can get a decent amount of traction just from dropping the names and photos of famous players."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17584,
+            "TextJPN": "そこまで躍起になって、企画性を求めるものではないのかもしれない。…羨ましい話だ。",
+            "TextENG": "I haven't yet become desperate enough to request a position like that. ...But I am envious."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17585,
+            "NamesJPN": "三島",
+            "PreTextTags": "@vS20/00/VTT_mishima3009.",
+            "TextJPN": "「とりあえず俺は、明日から大阪だな。@k@vS20/00/VTT_mishima3010.亀田の２００勝達成も秒読みだし、そのあたりについてもじっくり聞いてくるよ」",
+            "NamesENG": "Mishima",
+            "TextENG": "``By the way, I'll be in Osaka tomorrow.@k@vS20/00/VTT_mishima3010. Kameda is getting close to his 200th win, and I'd like to ask about it.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17586,
+            "NamesJPN": "荒川",
+            "PreTextTags": "@vS20/62/VTT_arakawa3008.",
+            "TextJPN": "「亀田…ねぇ。@k@vS20/62/VTT_arakawa3009.『悲劇の剛速球投手』も、今じゃすっかり技巧派ですからね。@k@vS20/62/VTT_arakawa3010.ちょっとコントロールが悪くなると一気に崩れるから、見ているこっちが冷や冷やものですよ」",
+            "NamesENG": "Arakawa",
+            "TextENG": "``Kameda... huh?@k@vS20/62/VTT_arakawa3009. The ``blazing fastball pitcher of tragedy`` is still perfecting his art.@k@vS20/62/VTT_arakawa3010. He tends to fall apart if his control gives out, so it gives me the chills just watching him.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17587,
+            "NamesJPN": "三島",
+            "PreTextTags": "@vS20/00/VTT_mishima3011.",
+            "TextJPN": "「それより、見たよ今月の『幽霊村大特集号』！@k@vS20/00/VTT_mishima3012.　ずいぶん懐かしい話題持ってきたじゃない、雛見沢村なんてさぁ～！」",
+            "NamesENG": "Mishima",
+            "TextENG": "``Anyway, I saw this month's ``Ghostly Village Special Edition!``@k@vS20/00/VTT_mishima3012. It was packed with all kinds of long lost topics, like that Hinamizawa village~!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17588,
+            "NamesJPN": "荒川",
+            "PreTextTags": "@vS20/62/VTT_arakawa3011.",
+            "TextJPN": "「はは、懐かしいっていうか…俺のライフワークみたいなネタですからね」",
+            "NamesENG": "Arakawa",
+            "TextENG": "``Haha, long lost topics? ...That was practically my life's work.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17589,
+            "TextJPN": "なにしろ、数あるオカルト関連の話題の中でも一番資料を集めて面白おかしく煮詰めてきた、とっておきのやつだ。",
+            "TextENG": "Anyway, this guy was the one who went through my numerous occult materials and boiled them down to the most interesting topics."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17590,
+            "TextJPN": "その上、ネットでは時々思い出したように新説が立ち上がって話題になり、俺自身もまだ外部に出していない類を山ほど持っている。",
+            "TextENG": "Plus, he contributed some topics he found on the net from time to time -- even some material I didn't know myself."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17591,
+            "TextJPN": "ゆえに一定期間を置けば『今さら』的な使い古し感もない、便利なネタだった。",
+            "TextENG": "So, there's no point feeling worn out by good news <i>now</i>."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17592,
+            "NamesJPN": "三島",
+            "PreTextTags": "@vS20/00/VTT_mishima3013.",
+            "TextJPN": "「俺が学生の頃だから、２０年くらい前か。@k@vS20/00/VTT_mishima3014.あの時は大騒ぎになったよなぁ」",
+            "NamesENG": "Mishima",
+            "TextENG": "``It was back when I was in school, probably 20 years ago?@k@vS20/00/VTT_mishima3014. It was a major uproar at the time.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17593,
+            "NamesJPN": "荒川",
+            "PreTextTags": "@vS20/62/VTT_arakawa3012.",
+            "TextJPN": "「雛見沢大災害、ですよね。@k@vS20/62/VTT_arakawa3013.俺もテレビで見ましたよ」",
+            "NamesENG": "Arakawa",
+            "TextENG": "``The Great Hinamizawa Disaster.@k@vS20/62/VTT_arakawa3013. I saw it on TV, too.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17594,
+            "TextJPN": "…昭和５８年。",
+            "TextENG": "...In 1983."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17595,
+            "TextJPN": "沼から湧き出した火山性の猛毒ガスによって、中部地方にあった寒村、雛見沢村に住まう村人２千人あまりが一晩にして全滅した自然災害…通称、『雛見沢大災害』。",
+            "TextENG": "Poisonous volcanic gas emerged from a swamp near a remote village in the Chubu district, killing over 2,000 villagers overnight... and it came to be known as the ``Great Hinamizawa Disaster.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17596,
+            "TextJPN": "それだけでも世間を揺るがした一大ニュースだったが、その後、雛見沢村の住民の親戚筋に当たる人々が次々と怪死や、奇行に走るという事件が続発した。",
+            "TextENG": "Not only was that an incredible shock, but one after another, former residents of Hinamizawa began dying in strange incidents."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17597,
+            "TextJPN": "ある者は、家族を巻き込んで無理心中。",
+            "TextENG": "People committing murder-suicides against their entire families."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17598,
+            "TextJPN": "ある者は、知人や周囲の人々を巻き込んで自殺。",
+            "TextENG": "People committing murder-suicides against strangers and acquaintances."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17599,
+            "TextJPN": "そのいずれもが、凶行を起こすとはとても思えないほど平凡で、平穏な暮らしを送ってきた普通の人々であったために、その異常な奇怪さは目立っていた。",
+            "TextENG": "In all cases, the people committing these heinous acts were otherwise normal people living peaceful lives."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17600,
+            "TextJPN": "ゆえに、一時は雛見沢出身者への差別、そして風評被害が深刻な社会問題にも発展して、国会にも取り上げられたほどだ。",
+            "TextENG": "And so, discrimination against people from Hinamizawa developed into a serious social conflict, significant enough that the national government had to step in."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17601,
+            "TextJPN": "そして、それらの事件を起こした人々は、皆一様に口を揃えて言った。",
+            "TextENG": "And, all the people involved in those incidents said the exact same thing."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17602,
+            "TextJPN": "『あれは自然災害ではない。@kオヤシロさまの祟りだ』――と。",
+            "TextENG": "``This wasn't a natural disaster.@k It was the curse of Oyashiro-sama...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17603,
+            "TextJPN": "そして、それは赤の他人から人づてに聞いた、無責任で根拠のない噂ばかりではない。",
+            "TextENG": "And they weren't all just reckless, baseless rumors spread by total strangers."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17604,
+            "TextJPN": "現に俺の父親も、それを…。",
+            "TextENG": "In fact, my father also..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17605,
+            "NamesJPN": "三島",
+            "PreTextTags": "@vS20/00/VTT_mishima3015.",
+            "TextJPN": "「不気味というか…奇妙な話だったよなぁ。@k@vS20/00/VTT_mishima3016.もっとも、俺はお前と違って幽霊は信じないクチだけど」",
+            "NamesENG": "Mishima",
+            "TextENG": "``Eerie, huh? ...Such an odd story.@k@vS20/00/VTT_mishima3016. But unlike you, I don't believe in ghosts.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17606,
+            "NamesJPN": "荒川",
+            "PreTextTags": "@vS20/62/VTT_arakawa3014.",
+            "TextJPN": "「はっは、オカルトライターに向かってはっきり言ってくれますねぇ。@k@vS20/62/VTT_arakawa3015.…でも、近年になって祟り以外の説がネット上で騒がれるようになったんですよ」",
+            "NamesENG": "Arakawa",
+            "TextENG": "``Haha, big words to be telling an occult writer.@k@vS20/62/VTT_arakawa3015. ...But in recent years, people on the net have been posting a lot of theories that have nothing to do with curses.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17607,
+            "TextJPN": "曰く、『ガス災害は国家陰謀によるものだ』とか。",
+            "TextENG": "For example: ``The gas disaster was a government conspiracy.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17608,
+            "TextJPN": "また曰く、『村の封鎖は宇宙人の襲来を隠すため』とか…。",
+            "TextENG": "And: ``The village was blockaded to conceal an alien invasion.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17609,
+            "TextJPN": "どれもこれも、確固たる証拠はない。あるわけがない。それでも、それらの風評は雛見沢の一件を単なるオカルト的なものに止めない、不思議な興味をかきたてていた。",
+            "TextENG": "Not one of them had any concrete evidence. Baseless speculation. But even so, that didn't stop the occult rumors regarding Hinamizawa from piling up."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17610,
+            "NamesJPN": "荒川",
+            "PreTextTags": "@vS20/62/VTT_arakawa3016.",
+            "TextJPN": "「中には『そりゃねぇだろ』的なものもありましたが、なかなかに信憑性がありましてね。@k@vS20/62/VTT_arakawa3017.オカルト説を支持する俺としては、ぜひともその真偽を確かめてみるべきかと思ってます」",
+            "NamesENG": "Arakawa",
+            "TextENG": "``Some of them made you immediately shout, ``No way,`` but others sounded believable.@k@vS20/62/VTT_arakawa3017. As a supporter of occult explanations, I feel I ought to try to verify it.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17611,
+            "NamesJPN": "三島",
+            "PreTextTags": "@vS20/00/VTT_mishima3017.",
+            "TextJPN": "「へぇ…。@k@vS20/00/VTT_mishima3018.って、確かめるって…まさか、お前？」",
+            "NamesENG": "Mishima",
+            "TextENG": "``Wow...@k@vS20/00/VTT_mishima3018. Verify it? ...No way, you?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17612,
+            "TextJPN": "そこで、ようやく。",
+            "TextENG": "There it was, at last."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17613,
+            "TextJPN": "三島さんは俺の机の足元にナップザックが置かれているのに気付いて、不安げに俺を見た。",
+            "TextENG": "Then Mishima-san noticed the knapsack lying at the base of my desk, and gave me an uneasy look."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17614,
+            "NamesJPN": "荒川",
+            "PreTextTags": "@vS20/62/VTT_arakawa3018.",
+            "TextJPN": "「ええ、ご推察どおりですよ。@k@vS20/62/VTT_arakawa3019.とにかく行ってみりゃ、何かわかるかなって。@k@vS20/62/VTT_arakawa3020.そんなわけで、ちょっくら明日から雛見沢まで行ってきますわ」",
+            "NamesENG": "Arakawa",
+            "TextENG": "``Yes, it's exactly what you think it is.@k@vS20/62/VTT_arakawa3019. Anyway, I figured I'd go to see if I can find anything out.@k@vS20/62/VTT_arakawa3020. So, I'm heading to Hinamizawa tomorrow.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17615,
+            "NamesJPN": "三島",
+            "PreTextTags": "@vS20/00/VTT_mishima3019.",
+            "TextJPN": "「ええぇっ？！@k@vS20/00/VTT_mishima3020.　あ、明日ぁぁあぁっっ？！」",
+            "NamesENG": "Mishima",
+            "TextENG": "``Whaaat?!@k@vS20/00/VTT_mishima3020. T-tomorroooow?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17616,
+            "TextJPN": "三島さんが仰天したのも無理はない。",
+            "TextENG": "I understood why Mishima-san was so surprised."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17617,
+            "TextJPN": "なにしろ急な思い立ちの上、『災害が起こった６月に行くのは危険だ』と自分でも記事にしておきながら、その６月に行こうと言い出したのだから…。",
+            "TextENG": "I was planning to head there in June to work on my article, so he must've immediately thought, ``That's dangerous. The disaster happened in June...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17618,
+            "NamesJPN": "三島",
+            "PreTextTags": "@vS20/00/VTT_mishima3021.",
+            "TextJPN": "「お、おいおいっ！@k@vS20/00/VTT_mishima3022.　今が何月かわかって、行くって言ってるのか？！@k@vS20/00/VTT_mishima3023.　こんな時期に行って、何かあっても知らねーぞ！！」",
+            "NamesENG": "Mishima",
+            "TextENG": "``W-wait a minute!@k@vS20/00/VTT_mishima3022. You're really telling me you're going? Don't you know what month it is?!@k@vS20/00/VTT_mishima3023. Don't blame me if something happens to you!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17619,
+            "NamesJPN": "荒川",
+            "PreTextTags": "@vS20/62/VTT_arakawa3021.",
+            "TextJPN": "「なーに言ってんですか。@k@vS20/62/VTT_arakawa3022.幽霊を信じないってたった今言った、三島さんらしくもない」",
+            "NamesENG": "Arakawa",
+            "TextENG": "``What are you talking about?@k@vS20/62/VTT_arakawa3022. You just said you don't believe in ghosts, Mishima-san. This is unlike you.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17620,
+            "NamesJPN": "荒川",
+            "PreTextTags": "@vS20/62/VTT_arakawa3023.",
+            "TextJPN": "「それに、オカルトのネタを求めるライターとしては、一番何かありそうな時に行くのが正しいジャーナリズムのあり方だと思いますがね？」",
+            "NamesENG": "Arakawa",
+            "TextENG": "``Besides, as an occult writer seeking new stories, doesn't it make sense to go where something is likely to happen?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17621,
+            "NamesJPN": "三島",
+            "PreTextTags": "@vS20/00/VTT_mishima3024.",
+            "TextJPN": "「ま、まぁそうだけどさ…」",
+            "NamesENG": "Mishima",
+            "TextENG": "``W-well, I suppose that's true...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17622,
+            "NamesJPN": "荒川",
+            "PreTextTags": "@vS20/62/VTT_arakawa3024.",
+            "TextJPN": "「とりあえず、ちゃんとデスク経由で編集長の了解済みで、経費も出るそうですから」",
+            "NamesENG": "Arakawa",
+            "TextENG": "``Anyway, I've gotten the editor-in-chief's approval, and my expenses will be covered.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17623,
+            "NamesJPN": "荒川",
+            "PreTextTags": "@vS20/62/VTT_arakawa3025.",
+            "TextJPN": "「それでもまぁ、万が一俺が帰ってこなかったら『鬼隠し』にでも遭ったと思ってネタにしてくださいって言っておきましたし…なんつって」",
+            "NamesENG": "Arakawa",
+            "TextENG": "``Still, in the unlikely event that I ended up getting ``demoned away`` and never returned, I told him he should make a story out of it...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17624,
+            "NamesJPN": "三島",
+            "PreTextTags": "@vS20/00/VTT_mishima3025.",
+            "TextJPN": "「笑えねぇよ…」",
+            "NamesENG": "Mishima",
+            "TextENG": "``Not funny...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17625,
+            "NamesJPN": "荒川",
+            "PreTextTags": "@vS20/62/VTT_arakawa3026.",
+            "TextJPN": "「…おっと、もうこんな時間か。@k@|@y@vS20/62/VTT_arakawa3027.それじゃ俺、明日の準備がありますんで、お先です」",
+            "NamesENG": "Arakawa",
+            "TextENG": "``...Whoops, guess it's already time.@k@|@y@vS20/62/VTT_arakawa3027. I've got a lot of preparations to do for tomorrow, so I'm heading out for the day.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17626,
+            "NamesJPN": "三島",
+            "PreTextTags": "@vS20/00/VTT_mishima3026.",
+            "TextJPN": "「あ、荒川ちゃんっ…！」",
+            "NamesENG": "Mishima",
+            "TextENG": "``A-Arakawa-chan...!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17627,
+            "TextJPN": "ひらひらと手を振って、心配げに見送る三島さんを尻目に俺は編集部を出て行った。",
+            "TextENG": "Mishima-san waved his arms in a panic as he watched me head out of the editorial department."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17628,
+            "TextJPN": "…………。",
+            "TextENG": "......"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17629,
+            "TextJPN": "村民２千人あまりが死亡したほどの大規模なガス災害だったとはいえ、２０年以上も立ち入り禁止になっていた廃村、雛見沢村…。",
+            "TextENG": "Although the gas disaster killed over 2,000 villagers, it was the over 20-year blockade of Hinamizawa village that turned it into a ghost town..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17630,
+            "TextJPN": "三島さんの言う通り、本当に幽霊が出てくるかどうかは正直、半信半疑だ。",
+            "TextENG": "It was just as Mishima-san said. I honestly had my doubts that any ghosts would actually appear."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17631,
+            "TextJPN": "ただ、単なる幽霊村と片付けるには、足りない何かがあるかもしれない。",
+            "TextENG": "But there may still be things worth investigating about this ghost town."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17632,
+            "TextJPN": "そして、俺が集めた資料だけではつかみきれなかった、超常的なオカルト話もひょっとしたら転がっているかもしれない…。",
+            "TextENG": "And there might even be some paranormal phenomenon at play that I simply couldn't grasp using the data I've gathered thus far..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17633,
+            "NamesJPN": "荒川",
+            "PreTextTags": "@vS20/62/VTT_arakawa3028.",
+            "TextJPN": "「…さて、鬼が出るか蛇が出るか。@k@vS20/62/VTT_arakawa3029.まさに、神のみぞ知るってやつだな」",
+            "NamesENG": "Arakawa",
+            "TextENG": "``...Well, there's no way to know what may happen.@k@vS20/62/VTT_arakawa3029. After all, only the gods may know that.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17634,
+            "TextJPN": "…そういえば、雛見沢は昔、鬼の住む村って言われていたんだっけ。",
+            "TextENG": "...Come to think of it, I did hear that demons lived in Hinamizawa in ancient times."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17635,
+            "TextJPN": "そういう意味では、何が出てきてもおかしくないってやつだな。",
+            "TextENG": "With that in mind, nothing else would surprise me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17636,
+            "NamesJPN": "荒川",
+            "PreTextTags": "@vS20/62/VTT_arakawa3030.",
+            "TextJPN": "「……ん？」",
+            "NamesENG": "Arakawa",
+            "TextENG": "``...Hmm?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17637,
+            "TextJPN": "その時、ジーパンの後ろポケットに入れた携帯電話がブルって、着信を告げる。開いて画面を見ると、相手は今日外出していた週刊セブンの編集長だった。",
+            "TextENG": "The next moment, the cell phone in the back pocket of my jeans started to ring. When I looked at the screen, I found the call was from the editor-in-chief of the Weekly Seven, who was out all day today."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17638,
+            "TextJPN": "珍しいな…編集長から直々に連絡なんて。",
+            "TextENG": "That's unusual... the editor-in-chief doesn't normally contact me directly."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 17639,
+            "NamesJPN": "荒川",
+            "PreTextTags": "@vS20/62/VTT_arakawa3031.",
+            "TextJPN": "「はい、もしもし。@k@vS20/62/VTT_arakawa3032.…え、同行者ですか？@k@vS20/62/VTT_arakawa3033.　ええまぁ、いいですけど…」",
+            "NamesENG": "Arakawa",
+            "TextENG": "``Yes, hello?@k@vS20/62/VTT_arakawa3032. ...Huh? A travel companion?@k@vS20/62/VTT_arakawa3033. Umm, well, I guess that's all right...``"
+        }
+    ]
+}

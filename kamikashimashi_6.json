@@ -1,0 +1,2761 @@
+{
+    "Main": [
+        {
+            "type": "SAVEINFO",
+            "category": 1,
+            "JPN": "#6",
+            "ENG": "#6"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154914,
+            "TextJPN": "園崎組の事務所内も、近隣住民のシェルターとなっていた。",
+            "TextENG": "The office of the Sonozaki family also became a shelter for the neighborhoods residents."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154915,
+            "TextJPN": "あちこちに毛布に包まり、横になる市民の姿があった。",
+            "TextENG": "They are wrapped in blankets in many places, some of them even lying down."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154916,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS25/06/NSHI_0050.",
+            "TextJPN": "「地域あっての園崎組ですので。母さんの指示で、混乱の初期から、行く宛のない人々を保護しています」",
+            "NamesENG": "Shion",
+            "TextENG": "``The Sonozaki family told everyone in the area to gather here. And under my moms instruction, since the initial confusion, we began to take in and protect people who didn't have anywhere else to go.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154917,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS25/01/NKEI_1380.",
+            "TextJPN": "「行く宛のない人々ってのは？」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``People who didn't have anywhere else to go?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154918,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS25/03/NMIO_1410.",
+            "TextJPN": "「采ちゃんと同じような人たちってことだよ。仕事で来てたり、遊びに来てたり。興宮の外からここに来て、騒ぎに巻き込まれた人も大勢いると思うよ」",
+            "NamesENG": "Mion",
+            "TextENG": "``People in the same situation as Une-chan I guess. Either they came to work, or they came to play. They may have even came here from outside Okinomiya, I think there's alot of people like that who got caught up in this uproar.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154919,
+            "NamesJPN": "葛西",
+            "PreTextTags": "@vS25/15/NKAS_0010.",
+            "TextJPN": "「そういう行く宛のない皆さんを、自警団連中は真っ先に襲おうとしました。戦うことも出来たのですが、茜さんのご指示でそれは避けることとなりました」",
+            "NamesENG": "Kasai",
+            "TextENG": "``Everyone had nowhere to go, and the people of the vigilance committee even tried to attack us in the beginning. We were going to fight, but that became something we had to avoid under instructions from Akane-san.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154920,
+            "TextJPN": "そこで、行く宛のない人々を可能な限り保護し、それ以上のトラブルを避ける為、自警団気取りの連中との接点を隔絶する為、バリケードで周囲を固めたのだという。",
+            "TextENG": "Therefore, they had to protect people without anywhere to go as much as possible, but in order to avoid any further trouble, they had to isolate themselves from contact with people from the vigilance committee, and that's why they strengthened their surroundings with barricades."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154921,
+            "TextJPN": "自警団にとっては、余所者は全て感染者だ。大勢の余所者を匿っていることが知られたら、大変なことになってしまう。",
+            "TextENG": "For the vigilance committee, all outsiders are infected people. So if they know that a large number of outsiders are sheltered here, things will get bad."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154922,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS25/02/NREN_1240.",
+            "TextJPN": "「……ここは安全なの？」",
+            "NamesENG": "Rena",
+            "TextENG": "``......Are we safe here?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154923,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS25/06/NSHI_0060.",
+            "TextJPN": "「興宮で一番安全な場所だと保証できます。興宮コミュニティホールが一番のシェルターでしたが、あそこは崩壊したようなので、ここが興宮で最大のシェルターでしょうね」",
+            "NamesENG": "Shion",
+            "TextENG": "``I can guarantee this is the safest place in Okinomiya. Okinomiya community hall was the first shelter, but that collapsed, so here is the best shelter in all of Okinomiya.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154924,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS25/02/NREN_1250.",
+            "TextJPN": "「崩壊って？」",
+            "NamesENG": "Rena",
+            "TextENG": "``Collapsed?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154925,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS25/06/NSHI_0070.",
+            "TextJPN": "「船頭多くして何とやら。リーダーシップを巡ってのトラブルから、殺し合いの騒ぎに発展したそうで。……恐ろしいことです」",
+            "NamesENG": "Shion",
+            "TextENG": "``There were too many boatmen. Then trouble rose over leadership, which developed into an uproar of killing one another. ......It must have been frightening.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154926,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS25/01/NKEI_1390.",
+            "TextJPN": "「なるほどな。……詩音のところは、リーダーシップがしっかりしてたから、規律が取れ、鬼に心を明け渡すような連中が現れなかったというわけだ……」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``I see. ......But because leadership was kept strong in your place, Shion, You created order and discipline, so people who surrendered their hearts to the demon did not appear......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154927,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS25/04/NSAT_0600.",
+            "TextJPN": "「さすがですわ。じゃあ、警察とかも機能していますの？」",
+            "NamesENG": "Satoko",
+            "TextENG": "``That was expected. Well, are the police still functioning?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154928,
+            "NamesJPN": "葛西",
+            "PreTextTags": "@vS25/15/NKAS_0020.",
+            "TextJPN": "「市内各地の暴動の対応で散らばり、……感染者を匿おうとしているとデマが流れ……」",
+            "NamesENG": "Kasai",
+            "TextENG": "``They're scattered, trying to maintain the various riots around the city...... So, when we tried to shelter infected people, a false rumor was spread......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154929,
+            "NamesJPN": "富竹",
+            "PreTextTags": "@vS25/08/NTOM_0420.",
+            "TextJPN": "「警察が想定してる事態を超えてるよ。対応できるはずもないね」",
+            "NamesENG": "Tomitake",
+            "TextENG": "``I'll make an assumption that this situation has surpassed the police. I doubt they can cope.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154930,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS25/03/NMIO_1420.",
+            "TextJPN": "「それにしても富竹のおじさまは勇ましかったねぇ！　そのステキな銃は一体どこから？」",
+            "NamesENG": "Mion",
+            "TextENG": "``Still, they never had the courage Kasai and Tomitake have! Now, where on earth can I get a beautiful gun around here?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154931,
+            "NamesJPN": "富竹",
+            "PreTextTags": "@vS25/08/NTOM_0430.",
+            "TextJPN": "「いやぁ、たまたま拾ってね？　はっはっはっは…！！」",
+            "NamesENG": "Tomitake",
+            "TextENG": "``No, I picked this up by chance, okay? Ha ha ha ha ha...!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154932,
+            "NamesJPN": "葛西",
+            "PreTextTags": "@vS25/15/NKAS_0030.",
+            "TextJPN": "「素人衆に扱えるものではないでしょうに。……謎の多いお方です」",
+            "NamesENG": "Kasai",
+            "TextENG": "``Taking care of a crowd like that wasn't something an amateur could have handled. ......This man is a very mysterious gentlemen.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154933,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS25/04/NSAT_0610.",
+            "TextJPN": "「……梨花？　……梨花？」",
+            "NamesENG": "Satoko",
+            "TextENG": "``......Rika? ......Rika?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154934,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS25/01/NKEI_1400.",
+            "TextJPN": "「どうしたんだ？　あれ？　梨花ちゃんがいないぞ？　采ちゃんもいない」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``What's wrong? Huh? Where's Rika-chan? Une-chan isn't here either.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154935,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS25/02/NREN_1260.",
+            "TextJPN": "「さっき２人で向こうで話してるのを見たけど」",
+            "NamesENG": "Rena",
+            "TextENG": "``I saw the both of them talking over there a while ago.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154936,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_0720.",
+            "TextJPN": "「何だってのよ、羽入。この子がどうしたって言うの？」",
+            "NamesENG": "Rika",
+            "TextENG": "``What is it, Hanyuu? What is it this child has done?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154937,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0460.",
+            "TextJPN": "「…………静かに。今、語り掛けているところです」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``............Be quiet. Now, I am speaking to her now.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154938,
+            "NamesJPN": "采",
+            "PreTextTags": "@vS25/50/NUNE_0380.",
+            "TextJPN": "「………………………」",
+            "NamesENG": "Une",
+            "TextENG": "``...........................``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154939,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_0730.",
+            "TextJPN": "「どういうこと？　……この采って子が、一体何だってのよ？」",
+            "NamesENG": "Rika",
+            "TextENG": "``What do you mean? ......What on earth has Une done?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154940,
+            "TextJPN": "音叉のような音が、梨花の頭の中に響き出す。",
+            "TextENG": "A sound similar to a tuning fork begins to resonate through Rika's head."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154941,
+            "TextJPN": "それはまるでチューニングしているかのように、音程を次々に変える。",
+            "TextENG": "It intensely increases its tune, changing its pitch in sequence."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154942,
+            "TextJPN": "……梨花は悟る。これは、人ならざる者の会話だ。",
+            "TextENG": "......Rika realises something. This is a conversation of non-humans."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154943,
+            "TextJPN": "例えるなら無線。",
+            "TextENG": "It's similar to a radio."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154944,
+            "TextJPN": "互いの会話できる波長を探り合っているのだ。",
+            "TextENG": "So, I will probe each other's wavelengths as they talk."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154945,
+            "TextJPN": "では、……この采という少女は、まさか………。",
+            "TextENG": "Then...... this girl called Une, no way........."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154946,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0470.",
+            "TextJPN": "「………我こそは、角の民の長、羽入なり。……汝は何者か………」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``.........I am leader of the nation of Horns, Hanyuu. ......Who are you.........?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154947,
+            "NamesJPN": "采",
+            "PreTextTags": "@vS25/50/NUNE_0390.",
+            "TextJPN": "「……………………………」",
+            "NamesENG": "Une",
+            "TextENG": "``.................................``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154948,
+            "TextJPN": "その時、２つの音叉の音が共鳴する。",
+            "TextENG": "At that time, the sound of two tuning forks resonate."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154949,
+            "TextJPN": "眩い光が、全てを飲み込む……。",
+            "TextENG": "Then, a dazzling light swallows all......"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154950,
+            "TextJPN": "その光が晴れた時、梨花と羽入と采は、人ならざる者たちの世界に浮かんでいた。",
+            "TextENG": "The light clears, and Rika, Hanyuu and Une are floating in the world of the non-humans."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154951,
+            "TextJPN": "采と名乗った少女の瞳に、……羽入が時折浮かべるのと同じ光が宿っている。",
+            "TextENG": "From the eyes of the girl who calls herself Une...... Hanyuu dwells in the same light, occasionally floating."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154952,
+            "TextJPN": "確信する。この少女は……、自分や羽入側の存在。……人ならざる何者かなのだ。",
+            "TextENG": "I'm convinced. This girl...... her existence, is the same as Hanyuu. ......She must be a non-human."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154953,
+            "TextJPN": "羽入はじっと采の瞳を見詰め、答えが返るのを待つ……。",
+            "TextENG": "Hanyuu stares into the eyes of Une, waiting for an answer to be returned......"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154954,
+            "NamesJPN": "采",
+            "PreTextTags": "@vS25/50/NUNE_0400.",
+            "TextJPN": "「我、……ウネ。……怖い、……です……」",
+            "NamesENG": "Une",
+            "TextENG": "``I'm...... Une. ......I'm scared............``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154955,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0480.",
+            "TextJPN": "「怯えることはない。我は何者とも争う気はない。そなたはどこの民か」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``You shouldn't be afraid. I'm not here to compete against you. You are one of my people.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154956,
+            "NamesJPN": "采",
+            "PreTextTags": "@vS25/50/NUNE_0410.",
+            "TextJPN": "「…………………………」",
+            "NamesENG": "Une",
+            "TextENG": "``..............................``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154957,
+            "TextJPN": "そこからは、言葉ではなく、テレパシーのようなもので行われる。",
+            "TextENG": "From then onwards, rather than words, they communicate using some form of telepathy."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154958,
+            "TextJPN": "梨花の頭の中にも、様々なイメージが、まるで強制的に白昼夢を見せられているかのように次々に流れ込んでくる。",
+            "TextENG": "In Rika's head various images flow in sequence as if a daydream is forced onto her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154959,
+            "TextJPN": "宇宙の星の海。……その向こうに輝く、青い地球。",
+            "TextENG": "A sea of stars and space. ......And shining into the beyond, our blue earth."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154960,
+            "TextJPN": "ウネはつい最近、地球に辿り着いたばかりの存在らしかった。",
+            "TextENG": "Une just recently seemed to have arrived at the earth."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154961,
+            "TextJPN": "かつての羽入の一族のように、長い旅路の果てに、ようやく大地に辿り着いたのだ。",
+            "TextENG": "Like many former clans of Hanyuu, their journey ended after a long route, finally arriving at earth."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154962,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0490.",
+            "TextJPN": "「……そうであったか……。長き旅路の果てに、ようやく……」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``......You must be the same...... Finally arriving after a long journey......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154963,
+            "NamesJPN": "采",
+            "PreTextTags": "@vS25/50/NUNE_0420.",
+            "TextJPN": "「我、……漆黒の海にて凍え、……ようやく辿り着いた、……です……。……なのに………」",
+            "NamesENG": "Une",
+            "TextENG": "``I...... was frozen in the sea of jet black...... but eventually, I finally arrived...... ......and yet.........``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154964,
+            "TextJPN": "梨花はようやく気付く。……彼女は怯えているのだ。",
+            "TextENG": "Rika finally notices. ......She is frightened."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154965,
+            "TextJPN": "ようやく辿り着けたこの大地で、自分が無事に生きていけるか、不安がっているのだ。",
+            "TextENG": "Where on this earth did she finally arrive at, and can she even live safely, she must feel uneasy."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154966,
+            "TextJPN": "無理もあるまい。人ならざる者の彼女から見ても、今の興宮の騒ぎがあまりに物騒だ。",
+            "TextENG": "This is unreasonable, even if she is one of the non-humans, it's too dangerous for her to be present in Okinomiya with the current uproar."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154967,
+            "TextJPN": "η１７３により凶暴化した人々による殺し合いの地獄絵図。",
+            "TextENG": "Everywhere has turned into a picture of hell, since the people became ferocious by η-173."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154968,
+            "TextJPN": "凍えるような宇宙を長いこと旅して、やっと辿り着いた大地なのに、……その歓迎は余りに悲惨なものだった。",
+            "TextENG": "Her freezing trip throughout the universe must have been a long time, and even though she has finally arrived at the earth...... the welcome was something too tragic."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154969,
+            "TextJPN": "続いて、羽入もまた、自分の知ることをイメージにしてウネに送る。",
+            "TextENG": "Hanyuu then also sends an image of what she knows to Une."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154970,
+            "TextJPN": "しばらくの間、梨花の頭の中には、双方のイメージが、まるでチャンネルがガチャガチャと変え続けるテレビ画面が流れ続ける……。",
+            "TextENG": "For a while, in Rika's head, both images continue to flow as if they are television screens who keep changing the channel......"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154971,
+            "TextJPN": "そして、互いの生い立ちや事情、現状を理解し合う。",
+            "TextENG": "And, through this, they understand each other's personal history, situation, and present condition."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154972,
+            "TextJPN": "梨花も、人の子の言葉に概念を変え、おぼろげながら理解できるようになる。",
+            "TextENG": "As for Rika, she notices them change their words to child of man, she has a vague understanding of what they mean."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154973,
+            "TextJPN": "まず、ウネもまた、羽入や田村と同じ、人ならざる者であることがわかる。",
+            "TextENG": "First, that Une, is the same as Hanyuu and Tamura, understanding that she is also a non-human."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154974,
+            "TextJPN": "人間が地球に住まうように、人間に住まう、宇宙よりの人ならざる民だ。",
+            "TextENG": "And that since humans live on the earth, they live as humans, the people from space, the non-humans."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154975,
+            "TextJPN": "訪れたのはつい先日。……もっとも、人ならざる者たちの時間感覚の話なので、年単位での話だろうが。",
+            "TextENG": "It was just the other day when she visited. But since we're talking about the sense of time of non-humans, I guess we're talking about years."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154976,
+            "TextJPN": "ようやく地上に体が馴染み、自我を取り戻したばかりだという。",
+            "TextENG": "Also, she said her body has finally become familiar with the ground, and that she has regained her ego."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154977,
+            "TextJPN": "……彼女らは、種のような状態で宇宙を漂い、地上に降りて根付き、芽を出して自我を取り戻すらしい。",
+            "TextENG": "......They must be a species, who drifts through space in such a state like a seed, falling down to the ground and taking root, regaining their ego after sprouting."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154978,
+            "TextJPN": "そして、ウネたちの特性もわかってくる。",
+            "TextENG": "And, I understand Une and the other's characteristics, too."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154979,
+            "TextJPN": "羽入の角の民の特性は、……不安定になった時、疑心暗鬼に駆り立て、その鬼に心を乗っ取らせてしまうというもの。",
+            "TextENG": "The characteristics of Hanyuu and the nation of horns...... is when they become unstable, they are driven to acts of paranoia, allowing the demon to occupy someone's heart."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154980,
+            "TextJPN": "……これは、人類と共存するという意味においてはマイナスで、羽入もそして田村も、自他共に認める角の民の問題点だ。その問題点に興味を示したのが鷹野ということになる。",
+            "TextENG": "......This is negating the sense they want to coexist with humanity, both Hanyuu and Tamura, so it seems the nation of horns problems are generally accepted and recognized. Although, it seems Takano has taken an interest in their problems."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154981,
+            "TextJPN": "ウネには、何とその意味でのマイナス面がないというのだ。",
+            "TextENG": "Except Une seems to have no negative aspects in that sense."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154982,
+            "TextJPN": "この地球で人類と共存する意味においては、羽入たち以上に適しているという。",
+            "TextENG": "So if they are to coexist with humans on this earth, she is probably more suitable than Hanyuu."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154983,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_0740.",
+            "TextJPN": "「つまり、あんたと違って、あの田村ってヤツには歓迎されるタイプなわけね」",
+            "NamesENG": "Rika",
+            "TextENG": "``In other words, unlike you, she is a type which would be welcomed by Tamura.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154984,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0500.",
+            "TextJPN": "「……田村媛命が、新たな来訪者を歓迎するわけもないのです。……そして、彼女にとってはウネもまた、我らと同じ恐るべき侵略者……」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``......Tamurahime no Mikoto would never welcome a new visitor. ......Myself and Une, we are both considered deplorable invaders......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154985,
+            "TextJPN": "ウネは、羽入とほぼ互角の“強さ”があるのだ。",
+            "TextENG": "Une is also almost evenly matched in ``strength`` with Hanyuu."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154986,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_0750.",
+            "TextJPN": "「強さって？　……頭の中に流れ込んでくるイメージでは、根の強さという感じだわ」",
+            "NamesENG": "Rika",
+            "TextENG": "``Strength? ......As for this image flowing through my head, it feels like the strength of your roots.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154987,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0510.",
+            "TextJPN": "「花壇に咲き誇る美しくもか弱い花は、強い根を持つ野草に呑み込まれてしまうこともあるでしょう。……そういう強さのことです」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``A weak flower may bloom beautifully in a flower bed, but without strong roots, it will be swallowed by the wild grass. ......That is such strength.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154988,
+            "TextJPN": "羽入たちの世界では、自分たちのことを、動物より植物の概念で捉えているようだった。",
+            "TextENG": "In Hanyuu's world, it seems, they perceive things from the concept of a plant, rather than an animal."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154989,
+            "TextJPN": "……そう。植物の世界にだって、弱肉強食はあるのだ。",
+            "TextENG": "......Yes. Even in the world of plants, there is the survival of the fittest."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154990,
+            "TextJPN": "羽入やウネは、この力がとても強い。根が強く、たくましい種族なのだ。",
+            "TextENG": "So Hanyuu and Une's power must be very strong. Strong roots, of a strong race."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154991,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_0760.",
+            "TextJPN": "「それを目の敵にするってことは、……あの田村ってヤツの一族は？」",
+            "NamesENG": "Rika",
+            "TextENG": "``You must hate the very sight of each other then...... even though Tamura is part of your clan, right?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154992,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0520.",
+            "TextJPN": "「私たちと比べると、あまりにか弱い一族です。……しかし、それは誰かの責任でもなければ、運命でもない。ただ、……私たちが生まれ持った特性に過ぎないのです」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``Comparing us to her, we are a weak clan. ......However, we are not without responsibility, nor destiny. But, these are the only characteristics we were born with.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154993,
+            "TextJPN": "人ならざる者たちにとって、地球は大きな花壇。",
+            "TextENG": "For the non-humans, earth is one big flower bed."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154994,
+            "TextJPN": "そこに種を蒔き、自分の種族を繁栄させようとしている。",
+            "TextENG": "And there, they sow seeds, trying to allow their race to prosper."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154995,
+            "TextJPN": "かつて、この地という巨大な花壇には、田村の一族の花しか咲いていなかった。",
+            "TextENG": "In the past, there was a huge flower bed that was this land, a land where only Tamura's clan of flowers could bloom."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154996,
+            "TextJPN": "そこに羽入たちという種が現れ、強い繁殖力で、みるみる内に田村の一族の花を枯らして、羽入たちの花を増やしていったのだ。",
+            "TextENG": "Then, the seeds of Hanyuu began to appear, and in strong fertility, they killed Tamura's clan of flowers within an instant, increasing the number of Hanyuu's flowers."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154997,
+            "TextJPN": "……当然、田村媛命からすれば、侵略者だ。",
+            "TextENG": "......Naturally, from Tamurahime no Mikoto's point of view, she was an invader."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154998,
+            "TextJPN": "その上、羽入の一族は、不安定になれば、花壇を壊してしまう危険性まである。",
+            "TextENG": "Furthermore, Hanyuu's clan is accustomed to instability, creating a danger in where the flower bed could be broken."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 154999,
+            "TextJPN": "花壇を失っては、何も残らない。",
+            "TextENG": "Therefore, to lose the flower bed, would mean the end of everything."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155000,
+            "TextJPN": "そこで羽入たちの一族は、自分たちが花壇と共生できる力を身に付けるまで、もっとも自分たちに適した花壇、雛見沢に引き籠ることとしたのだ。",
+            "TextENG": "Therefore, Hanyuu's clan, until it acquire the power to coexist with the flower bed, the flower bed is only suitable for itself, thus Hanyuu was confined to Hinamizawa."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155001,
+            "TextJPN": "そして、ウネという、同じくらいの強さの種が、再び花壇にやってきた。",
+            "TextENG": "Then, the one called Une appeared, with the same amount of strength and seeds, arriving to take over the flower bed once again."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155002,
+            "TextJPN": "幸いにもウネの一族は花壇に害は為さない。",
+            "TextENG": "Although fortunately, it seems Une's clan hasn't done any harm to the flower bed."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155003,
+            "TextJPN": "しかし、田村の一族を易々と駆逐する強さがある……。",
+            "TextENG": "However, she has the strength to destroy Tamura's family easily......"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155004,
+            "NamesJPN": "采",
+            "PreTextTags": "@vS25/50/NUNE_0430.",
+            "TextJPN": "「……我、……そんなつもり、ないです……。ほんの少し……、我の為に大地がもらえれば………」",
+            "NamesENG": "Une",
+            "TextENG": "``......I...... have no such intention...... Just a little...... I want to be on the earth.........``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155005,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0530.",
+            "TextJPN": "「その気持ち、わかります。……私もあなたを応援しましょう。星の海を渡った、同じ仲間として」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``That feeling, I understand it. ......I will support you. You crossed the sea of stars, you are the same as me, friend.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155006,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_0770.",
+            "TextJPN": "「……だとしたら、最高にツイてないタイミングでやって来たわね。羽入の民が大暴れしている今の状況では、田村が異民族を歓迎するとはとても思えないわ」",
+            "NamesENG": "Rika",
+            "TextENG": "``......Well, there you have it. You really came in the best timing. In our current situation, the people of Hanyuu have gone on a rampage, and I don't think Tamura will welcome another different ethnic group.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155007,
+            "NamesJPN": "采",
+            "PreTextTags": "@vS25/50/NUNE_0440.",
+            "TextJPN": "「………怖い、……です……。……我、……ただ静かに、……咲きたい……のに………」",
+            "NamesENG": "Une",
+            "TextENG": "``.........I'm scared...... ......I...... just want to be quiet...... I want to bloom.........``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155008,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_0780.",
+            "TextJPN": "「田村の力の及ばない土地はないの？」",
+            "NamesENG": "Rika",
+            "TextENG": "``Is there any land beyond the power of Tamura?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155009,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0540.",
+            "TextJPN": "「日本の全土はほぼ全て、田村の民の土地です。……仮に日本を出たとしても、そこにはその土地の民がいます」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``Throughtout almost all of Japan, the people and its land are Tamura's. ......But even if you left Japan, there would be people from her land there.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155010,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_0790.",
+            "TextJPN": "「地球は、空室なしの満員マンションってわけね……」",
+            "NamesENG": "Rika",
+            "TextENG": "``The Earth is just a crowded apartment without any vacancies......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155011,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0550.",
+            "TextJPN": "「……でも、僕は田村媛命の民は、少し陣取り過ぎだと思っていますのです。先住民は敬わなければなりませんが、土地は分け合うべきなのです。それを独り占めする田村は意地悪なのですよ、あぅ」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``......But, I don't think the people of Tamurahime no Mikoto will like us playing prisoner's base. The indigenous people must be respected, we should share this land. But Tamura is maliciously monopolizing it, au.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155012,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_0800.",
+            "TextJPN": "「もう、戦国時代にして、徹底的に奪い合っちゃえば？　弱肉強食は自然の摂理でしょう？」",
+            "NamesENG": "Rika",
+            "TextENG": "``Why don't we make it a warring states period and fight each other to the bitter end? It's the natural order of things, isn't it?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155013,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0560.",
+            "TextJPN": "「それでは大変なことになってしまうのです。花壇もこの星もおしまいなのですよ、あぅあぅ！」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``Because of that, it will become a serious matter. The flowerbed is our star, we can't let it end, au au!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155014,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_0810.",
+            "TextJPN": "「……そういえば、あんたとウネって、同じくらいの強さなのよね？　戦ったらどうなるの？」",
+            "NamesENG": "Rika",
+            "TextENG": "``......That reminds me, both you and Une have the same amount of strength, right? What would happen if you fought?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155015,
+            "NamesJPN": "ウネ",
+            "PreTextTags": "@vS25/50/NUNE_0450.",
+            "TextJPN": "「わ、我……、た、戦いたくないのです……」",
+            "NamesENG": "Une",
+            "TextENG": "``I-I...... I d-don't want to fight......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155016,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0570.",
+            "TextJPN": "「僕も戦いたくないし、戦うのも無意味なのです。僕と彼女の力は互角故に」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``I don't want to fight either, it would be a meaningless battle. As my and her powers are evenly balanced.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155017,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_0820.",
+            "TextJPN": "「つまりはどういうこと？」",
+            "NamesENG": "Rika",
+            "TextENG": "``I meant, what would happen?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155018,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0580.",
+            "TextJPN": "「僕たちの場合は、花壇は早い者勝ちになりますです、あぅ」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``In our case, the flower bed would be first come, first served, au.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155019,
+            "NamesJPN": "ウネ",
+            "PreTextTags": "@vS25/50/NUNE_0460.",
+            "TextJPN": "「我、……戦いたく、ないのです……」",
+            "NamesENG": "Une",
+            "TextENG": "``I...... I don't want to fight......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155020,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_0830.",
+            "TextJPN": "「つまり、雛見沢の人間には、ウネは感染できないってことね？」",
+            "NamesENG": "Rika",
+            "TextENG": "``In other words, to the humans of Hinamizawa, Une cannot infect them, right?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155021,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0590.",
+            "TextJPN": "「そうなりますのです」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``That may be so.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155022,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_0840.",
+            "TextJPN": "「そして、ウネが寄生した人間は、雛見沢症候群にかからない」",
+            "NamesENG": "Rika",
+            "TextENG": "``And, if the humans of Hinamizawa get Une's parasite, the Hinamizawa Syndrome wouldn't take effect.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155023,
+            "NamesJPN": "ウネ",
+            "PreTextTags": "@vS25/50/NUNE_0470.",
+            "TextJPN": "「そうなります、……のです」",
+            "NamesENG": "Une",
+            "TextENG": "``That may be so......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155024,
+            "TextJPN": "私、なんか宇宙人の見破り方って覚えたかも。",
+            "TextENG": "I need to try harder to see through this space aliens thoughts."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155025,
+            "TextJPN": "とにかく、何か引っかかるわ……。つまり………。",
+            "TextENG": "Anyway, she may catch on...... In other words........."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155026,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_0850.",
+            "TextJPN": "「羽入。……私たちって、何をしてるんだっけ？」",
+            "NamesENG": "Rika",
+            "TextENG": "``Hanyuu. ......What are we going to do?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155027,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0600.",
+            "TextJPN": "「あぅ？　豆腐の角に頭でもぶつけたのですか？」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``Au? Did you hit me on the head with a piece of tofu?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155028,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_0860.",
+            "TextJPN": "「鷹野の暴走を許さない為でしょう？　鷹野はη１７３を世界中にばら撒こうとしてる。それを阻止するのが目的でしょう？」",
+            "NamesENG": "Rika",
+            "TextENG": "``Do you think it was because you're considering letting Takano go on a rampage? Remember, Takano is planning to spread η-173 throughout the world. So, don't you think it should be our objective to stop her?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155029,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0610.",
+            "TextJPN": "「はいなのです……。それがどうしたというのですか？」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``Yes...... Do you know what would happen if we didn't?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155030,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_0870.",
+            "TextJPN": "「あんた馬鹿ねっ、大馬鹿だわ！　何てこと！　一石二鳥じゃない！」",
+            "NamesENG": "Rika",
+            "TextENG": "``You're a fool, a big idiot! Such a thing! You shouldn't be allowed to kill two birds with one stone!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155031,
+            "NamesJPN": "ウネ",
+            "PreTextTags": "@vS25/50/NUNE_0480.",
+            "TextJPN": "「……我、よくわからない、です……」",
+            "NamesENG": "Une",
+            "TextENG": "``......I-I don't know really understand......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155032,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_0880.",
+            "TextJPN": "「この子に、田村なんか気にしないで自由にこの星に住んでもらえばいいのよ！　だって、田村の民が取り付いてる人間は、ウネには取り付けるんでしょう？　そしてウネが取り付いた人間には、羽入の民は取り付けない！」",
+            "NamesENG": "Rika",
+            "TextENG": "``This child, Tamura should let her live freely on this star without any problem! I mean, Tamura has clung to many humans, so what's wrong with attaching Une? Une can cling to humans, and it's not like your people aren't mounting, Hanyuu!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155033,
+            "TextJPN": "羽入とウネの馬鹿宇宙人コンビは小首を傾げる。",
+            "TextENG": "Hanyuu and Une, the stupid space alien duo lean their necks to one side."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155034,
+            "TextJPN": "なるほど、これで全てのピースが合わさった！",
+            "TextENG": "Indeed, all the pieces have been put together!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155035,
+            "TextJPN": "鷹野の言う、悪魔の正体もわかった！　つまりはこうすればいいのだ！",
+            "TextENG": "Takano spoke of a devil, this must be her identity! In other words, she is our only hope!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155036,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_0890.",
+            "TextJPN": "「鷹野より先に、ウネが日本中の人々に取り付けばいいわけ！　そうすれば、鷹野がη１７３をばら撒こうとも、誰にも感染しない！」",
+            "NamesENG": "Rika",
+            "TextENG": "``Before Takano does, we should get Une to attach herself to the people of Japan! By doing so, if Takano spreads η-173, nobody would become infected!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155037,
+            "TextJPN": "まぁ、さすがに田村の民を一掃してしまったら気の毒だろうから、とりあえず、鷹野の行動範囲を封じるように、県全域くらいではどうか。",
+            "TextENG": "Well, it is expected, but I feel sorry for Tamura as her people will be wiped out, but for the time being, we should blockade Takano's field of activities, that is, every single prefecture."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155038,
+            "TextJPN": "４７都道府県もあるのだから、田村媛命も１つくらいくれてもいいだろう。",
+            "TextENG": "There are 47 prefectures though, so maybe we should leave Tamurahime no Mikoto with one."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155039,
+            "TextJPN": "鷹野をウネで取り囲めば、鷹野が感染を広げることは不可能になる。",
+            "TextENG": "So if we surround Takano and use Une, it would become impossible for Takano to spread the infection."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155040,
+            "TextJPN": "η１７３の拡大も封じ込められ、これ以上の被害を抑えることが可能になる！",
+            "TextENG": "Thus containing the expansion of η-173, and making it possible to supress any further damage!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155041,
+            "TextJPN": "なるほど、この状況は鷹野側から見れば致命的だ。これが、鷹野が富竹に言うところの“悪魔”の正体に違いあるまい。",
+            "TextENG": "Indeed, seeing this from Takano's perspective, the situation is fatal. So this must be the real nature of this ``devil`` Takano spoke of to Tomitake."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155042,
+            "TextJPN": "つまり、ウネこそが鷹野の悪魔。",
+            "TextENG": "In other words, Une is Takano's devil."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155043,
+            "TextJPN": "η１７３とウネは互角。つまり、勝てない。",
+            "TextENG": "η-173 and Une are equally matched. In other words, she cannot win."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155044,
+            "TextJPN": "ウネによる感染がη１７３より先んじることがあったら、鷹野の野望は水泡に帰してしまうというわけだ！",
+            "TextENG": "So, if we infect everyone with Une before η-173, Takano's ambition will end in vain!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155045,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_0900.",
+            "TextJPN": "「と、言うわけっ」",
+            "NamesENG": "Rika",
+            "TextENG": "``What I said.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155046,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0620.",
+            "TextJPN": "「お、…おぉ！　それはすごいアイデアなのですよ、梨花！！」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``O-Oh! That's a great idea, Rika!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155047,
+            "NamesJPN": "ウネ",
+            "PreTextTags": "@vS25/50/NUNE_0490.",
+            "TextJPN": "「……わ、我、……よくわかった……、ような、わからないような……」",
+            "NamesENG": "Une",
+            "TextENG": "``......I-I...... understand well enough...... but, I don't know......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155048,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0630.",
+            "TextJPN": "「これはすごいグッドアイデアなのです！　ウネもこの星に住めて、さらにこれ以上の惨劇も防げて！　さらに田村もこの県から追っ払えて、一石三鳥なのですよ！！」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``This is a great great idea! Une will be able to live on this planet, furthermore, preventing this tragedy any further, too! And also, sending Tamura away from this prefecture, we're hitting three birds with one stone!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155049,
+            "TextJPN": "ウネが県全域を陣取れば、田村の民は県から駆逐される。",
+            "TextENG": "Une herself will then become the whole prefecture, as the people of Tamura are expelled from the prefecture."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155050,
+            "TextJPN": "となれば、県を出ない限り、もう二度と、田村媛命に会わなくて済むし、嫌味を言われることもなくなる。",
+            "TextENG": "I'm happy with anything, as long as I don't have to leave the prefecture, but never again I don't want to encounter Tamurahime no Mikoto, she needs to cease her gaudiness."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155051,
+            "TextJPN": "日本全土を我が物にして、そこに一歩でも踏み出そうとすると口やかましかった田村に、千年ぶりに一泡吹かせてやることが出来る！",
+            "TextENG": "The whole land of Japan is in her possession, and even when I tried to step forward even one foot into it, Tamura gave a good nagging, not even after an interval of one thousands years has she changed!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155052,
+            "TextJPN": "羽入は小躍りして喜ぶ。田村とは、徹底的に不仲のようだ。",
+            "TextENG": "I'm pleased Hanyuu is dancing with joy. As when Tamura was here, she was very much discord with her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155053,
+            "TextJPN": "……まぁ、あれだけ横柄な態度で上から目線で威張られたら、初対面の梨花であっても一泡吹かせてやりたくなるというものだ。",
+            "TextENG": "......Well, I will give her a top score for glancing in an insolent manner, and even though this is my first time meeting with Rika, I'll give her a top score, too."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155054,
+            "NamesJPN": "ウネ",
+            "PreTextTags": "@vS25/50/NUNE_0500.",
+            "TextJPN": "「……我、……どうすれば……？」",
+            "NamesENG": "Une",
+            "TextENG": "``......Me ......how......?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155055,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_0910.",
+            "TextJPN": "「興宮じゃどうしようもないわね。何しろ、この街はすでにη１７３に感染してる。ここの人々にはあんたは感染できないんでしょ？」",
+            "NamesENG": "Rika",
+            "TextENG": "``It's hopeless for Okinomiya. After all, this town has already become infected with η-173. So remember, the people you infect won't be able to get it, right?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155056,
+            "NamesJPN": "ウネ",
+            "PreTextTags": "@vS25/50/NUNE_0510.",
+            "TextJPN": "「………はい、……です」",
+            "NamesENG": "Une",
+            "TextENG": "``.........Yes. ......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155057,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0640.",
+            "TextJPN": "「では、どうすればいいのでしょう……」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``So what should we do......?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155058,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_0920.",
+            "TextJPN": "「……そう……ね……」",
+            "NamesENG": "Rika",
+            "TextENG": "``......Well..... Let's see......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155059,
+            "TextJPN": "富竹の話によると、感染拡大を防ぐ為に、市外への交通手段は全て遮断されているらしい。",
+            "TextENG": "According to Tomitake's story, to prevent spread of the infection, all means of transportation has been cut off."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155060,
+            "TextJPN": "つまり、このままではウネは、η１７３の感染地域を出られない。",
+            "TextENG": "In other words, Une in this situation cannot escape from the area infected with η-173."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155061,
+            "TextJPN": "鷹野より先に市外へ脱出して、ウネの民を広げなくてはならない。",
+            "TextENG": "So we should get her to the suburbs before Takano does, and spread Une to the people."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155062,
+            "TextJPN": "富竹に話して助力を得るべきだろう。",
+            "TextENG": "But first, we should talk to Tomitake and get some help."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155063,
+            "TextJPN": "脳内寄生ウィルスの存在を理解する富竹なら、事情を理解してくれるはずだ。",
+            "TextENG": "Tomitake knows about the brain virus parasites affection on the brain, so he should be able to understand the situation."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155064,
+            "TextJPN": "仮に、ウネの拡大が却下されるとしても、そこから新たな治療薬や予防薬を発見する切っ掛けになるかもしれない。",
+            "TextENG": "But assuming that he rejects the spreading of Une, we may still be able to discover a new therapeutic drug and prophylactic medicine using her as a starting point."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155065,
+            "TextJPN": "梨花は富竹を呼び、事情を説明する。",
+            "TextENG": "Rika calls Tomitake over, and explains the situation."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155066,
+            "TextJPN": "もちろん、理解を得る為には、夜が白み始めるほどの時間を必要としなければならなかったが。",
+            "TextENG": "Of course, to gain some understanding, he needed some time before the night began."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155067,
+            "TextJPN": "しかしそれでも、最後には状況を理解してくれた。",
+            "TextENG": "However, he finally understood the situation."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155068,
+            "NamesJPN": "富竹",
+            "PreTextTags": "@vS25/08/NTOM_0440.",
+            "TextJPN": "「なるほどね、わかったよ。……判断を東京に委ねなければならないけど、彼女の存在は大きい。采ちゃんが協力してくれるなら、僕たちも快適な待遇を用意できるさ」",
+            "NamesENG": "Tomitake",
+            "TextENG": "``I see, I understand. ......Although I have to leave this decision with Tokyo, their presence is big. But if Une-chan is willing to co-operate, we will provide a comfortable service.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155069,
+            "NamesJPN": "采",
+            "PreTextTags": "@vS25/50/NUNE_0520.",
+            "TextJPN": "「わ、私も快適なのは嫌い……、……じゃないのです……」",
+            "NamesENG": "Une",
+            "TextENG": "``I-I hate to be comfortable...... there isn't a reason............``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155070,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_0930.",
+            "TextJPN": "「富竹は話せる男なのですよ。きっと采に良くしてくれますのです」",
+            "NamesENG": "Rika",
+            "TextENG": "``Tomitake isn't just a man of talk. Surely he will take good care of you, Une.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155071,
+            "NamesJPN": "采",
+            "PreTextTags": "@vS25/50/NUNE_0530.",
+            "TextJPN": "「……うれしい……、のです……」",
+            "NamesENG": "Une",
+            "TextENG": "``......I'm glad......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155072,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0650.",
+            "TextJPN": "「ようやく、この惨劇にも終わりが見えてきたようです……」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``Finally, it seems the end of this tragedy can now be seen......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155073,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_0940.",
+            "TextJPN": "「ウネが市外に脱出するまでは何とも言えないけれど、……一応は一件落着なのかしら？」",
+            "NamesENG": "Rika",
+            "TextENG": "``We have to get Une to the escape zone outside the city area first...... don't you think that should be our number one priority?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155074,
+            "TextJPN": "興宮で最も安全な園崎組事務所にて厳重に守られている。",
+            "TextENG": "This is the most secure and severely protected Sonozaki family office in Okinomiya after all."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155075,
+            "TextJPN": "ここには食料も資材も武器も、何でもある。富竹は状況を理解し協力的。キーパーソンであるウネも協力的。",
+            "TextENG": "Here, there is food, raw materials and weapons, anything you could want. Even Tomitake's cooperative and understands the situation. He is also the key person in protecting Une."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155076,
+            "TextJPN": "状況をチェスに見立てるなら、あと数手でチェックメイトという状態。相手が投了しても十分な段階だ。",
+            "TextENG": "So this situation is like chess, we can call checkmate after several more moves in our present state. Then our opponent will have no choice other than to resign."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155077,
+            "TextJPN": "……鷹野というジョーカーさえ、何か騒ぎを起こさない限り。",
+            "TextENG": "......Unless this joker called Takano causes another uproar."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155078,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_0950.",
+            "TextJPN": "「あと、……あのいけ好かない、田村媛の何とやらもね」",
+            "NamesENG": "Rika",
+            "TextENG": "``Anyway...... what Tamurahime no Mikoto's doing is disgusting.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155079,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0660.",
+            "TextJPN": "「……あいつが、……僕たちがこれからしようとすることを、歓迎するとは思えませんのです」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``......She...... even after we do this, I still don't think she will welcome us.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155080,
+            "TextJPN": "その時、音叉の鳴り響くようなあの音が聞こえ出し、梨花と羽入の二人は眩い白い光に包まれていく。",
+            "TextENG": "At that moment, two sounds resonating like tuning forks are heard, then Rika and Hanyuu become wrapped in a dazzling white light."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155081,
+            "TextJPN": "……来た。田村媛命だ。",
+            "TextENG": "......She has come. Tamurahime no Mikoto."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155082,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_0960.",
+            "TextJPN": "「噂をすれば何とやらね」",
+            "NamesENG": "Rika",
+            "TextENG": "``I wonder if you heard our gossip.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155083,
+            "NamesJPN": "田村",
+            "PreTextTags": "@vS25/51/NTAM_0080.",
+            "TextJPN": "「………おのれ、角の民の長。やはりは、汚らわしくもその土足で我らが大地を穢すつもりだった也や」",
+            "NamesENG": "Tamura",
+            "TextENG": "``.........You, leader of the nation of horns, are as I thought, still trying to defile this earth with your filthy shoes.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155084,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0670.",
+            "TextJPN": "「新たな友人であるウネを受け入れるのです。何もあなたの土地の全てを奪うわけではありません」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``I have accepted Une as a new friend. Nothing else, so nobody is trying to take your entire land.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155085,
+            "NamesJPN": "田村",
+            "PreTextTags": "@vS25/51/NTAM_0090.",
+            "TextJPN": "「黙り給え、不浄の民め。結託して大地を汚そうとするその試み、我輩が許すわけもなきと知り奉れっ」",
+            "NamesENG": "Tamura",
+            "TextENG": "``Silence, your people are impurities. And you are conspiring an attempt to pollute this earth, I know of it, and it is something I cannot permit.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155086,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_0970.",
+            "TextJPN": "「あのねぇ、鷹野って悪党がいて、そいつはあんたの言うところの角の民を日本中、いえ、世界中にばら撒こうと目論んでるのよ。そうしたら、あんたたちは全滅しちゃうのよ？」",
+            "NamesENG": "Rika",
+            "TextENG": "``Can't you see, Takano is the villain, she's the one spreading the nation of horns across Japan... No, she schemes to spread it throughout the world. And if she does, you will be exterminated, don't you know that?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155087,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_0980.",
+            "TextJPN": "「そしてそれは、あんたが逆立ちしたって防げやしない。ウネに少し土地を分けてやれば、ウネは地球に住めて、あんたもこれ以上の土地を失わず、羽入は二度とあんたの顔を見ずに済んで、三方が丸く収まるってもんでしょうが」",
+            "NamesENG": "Rika",
+            "TextENG": "``So, you cannot prevent this handstand. All you have to do is separate some land for Une, then Une will be able to live on this earth, and you won't lose any more land. Even Hanyuu, who doesn't even want to look at your face, knows this solution fits all three sides.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155088,
+            "NamesJPN": "田村",
+            "PreTextTags": "@vS25/51/NTAM_0100.",
+            "TextJPN": "「黙り給え、人の子め。不浄なる言葉を喚き立てること許されざること也と知り奉れ」",
+            "NamesENG": "Tamura",
+            "TextENG": "``Silence, human child. Do not yell and name the impure, you cannot force me to permit anything.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155089,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_0990.",
+            "TextJPN": "「痛たたたた……、その頭痛の神通力、止めなさいよね……」",
+            "NamesENG": "Rika",
+            "TextENG": "``It hurts...... you're giving me a headache with those supernatural powers, please stop......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155090,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0680.",
+            "TextJPN": "「元からわからず屋の聞かん坊です。何を話したって通じるわけはないのです」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``It is because she is a naughty and obstinate child. She won't listen, no matter what you say.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155091,
+            "NamesJPN": "田村",
+            "PreTextTags": "@vS25/51/NTAM_0110.",
+            "TextJPN": "「そなたこそ聞かん坊の分際也や！　不浄の民、角の民！　千年経ってもまだ怒りが収まらぬ也！！」",
+            "NamesENG": "Tamura",
+            "TextENG": "``It is thou who are the naughty child! You and your filthy people, the nation of horns! Even after a thousand years, you still haven't managed to maintain that rage!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155092,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0690.",
+            "TextJPN": "「それを言ったら、こちらこそっ。あなたの嫌がらせの数々、僕であっても千年の怒りが収まらないのですっ」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``Even so, you are still that. Because you harass us many times, even my rage hasn't settled after a thousand years.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155093,
+            "TextJPN": "二人にどんな因縁があるのかはわからないが、千年経っても恨みが忘れられないとは、……対立の根は深い様子だ。",
+            "TextENG": "I don't know what fates these two people share, but even so, it is unforgivable to hold a grudge after a thousand years...... as that conflict is the root of today's situation."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155094,
+            "TextJPN": "なるほど、百年も生きぬ人の子風情には、とても仲介できる因縁ではないらしい。",
+            "TextENG": "I see, even my childish appearance hasn't changed after living one hundred years, it seems my fate need some intermediation."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155095,
+            "TextJPN": "まぁ、神様なんてそんなものだ。人間が勝手に敬っているだけで、当の本人たちは人間以上に人間臭い。神様同士がいがみ合って喧嘩など、どこの国の神話にもいくらでもある。",
+            "TextENG": "Well, God may be such a thing. But, we humans worship them without question, as we human beings reek of it. And among God's fighting one another, there are plenty in myths."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155096,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_1000.",
+            "TextJPN": "「あんたたちの喧嘩はどうでもいいわ。田村の何とやらが話を聞かなくても別に結構よ。でもね、人の世の惨劇を食い止めるにはこれしか方法がないの！」",
+            "NamesENG": "Rika",
+            "TextENG": "``Your quarrel doesn't matter. You should consider what we have to say, Tamura. Because as you know, there is no other way to stem this tragedy on the human world!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155097,
+            "NamesJPN": "田村",
+            "PreTextTags": "@vS25/51/NTAM_0120.",
+            "TextJPN": "「愚かなる角の民の巫女には言ってもわかりはせぬ也や。無論、吾輩も不浄なる巫女と言葉を交わすつもりなど毛頭なしと知り給え」",
+            "NamesENG": "Tamura",
+            "TextENG": "``Shrine maiden of the nation of horns, you are as foolish as they say. Naturally, know that I had no intention to exchange words with such a filthy shrine maiden in the first place.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155098,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_1010.",
+            "TextJPN": "「いちいちカチンと来る神サマだわ。県１個なんて自重しないで、中部をもらっちゃえば？」",
+            "NamesENG": "Rika",
+            "TextENG": "``One by one, you Gods come and ka-ching. So don't be so prudent about one prefecture, why don't you give up Toyama or Gifu?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155099,
+            "NamesJPN": "田村",
+            "PreTextTags": "@vS25/51/NTAM_0130.",
+            "TextJPN": "「させぬ也や！　再び我が民の土地を穢させはせぬものと知り給え！！」",
+            "NamesENG": "Tamura",
+            "TextENG": "``I cannot do that! I could never allow such an impurity to plague my people and their land again!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155100,
+            "TextJPN": "ガラスが割れる音が聞こえた、と同時に怒号の喧騒が轟くのが聞こえた。",
+            "TextENG": "A glass cracking sound is heard, and at the same time, the roar of a tumult is also heard."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155101,
+            "TextJPN": "何が起こった？！　タイミング的に考えて、田村が何かをしたのは明白だった。",
+            "TextENG": "What happened?! In terms of timing, and when I think about it, it's obvious that Tamura did something."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155102,
+            "TextJPN": "しかし、羽入と同様に、田村媛命もまた人ならざる者。",
+            "TextENG": "However, like Hanyuu, Tamurahime no Mikoto is also a non-human."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155103,
+            "TextJPN": "人の世に直接の干渉をすることは出来ないはず……。",
+            "TextENG": "So she shouldn't be able to directly interfere in the human world......"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155104,
+            "NamesJPN": "富竹",
+            "PreTextTags": "@vS25/08/NTOM_0450.",
+            "TextJPN": "「た、鷹野さん？！」",
+            "NamesENG": "Tomitake",
+            "TextENG": "``Ta-Takano-san?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155105,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS25/09/NTAK_0190.",
+            "TextJPN": "「ハイ、ジロウさん。やっぱりあなたとは再会できると信じてたわ。くすくす」",
+            "NamesENG": "Takano",
+            "TextENG": "``Hi, Jirou-san. After all, I believed we would meet again. Heh heh.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155106,
+            "TextJPN": "鷹野は窓を破り、事務所の中に飛び込んできたのだ。",
+            "TextENG": "Takano must have broke through a window, and jumped into the office."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155107,
+            "TextJPN": "まるで、映画の中のワンシーンのような派手さを目の当たりにし、男たちは仰天している……。",
+            "TextENG": "Just like witnessing such a flashy scene from a movie, all the men are astonished......"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155108,
+            "TextJPN": "もちろん、富竹も仰天せずにはいられない。",
+            "TextENG": "Naturally, Tomitake cannot help but feel astonished, too."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155109,
+            "TextJPN": "確かに彼女には破天荒なところもあるが、それは性格においてだけだ。こんなことが出来るような身体能力はないはず……。",
+            "TextENG": "It's true that she has her fair share of mavericks, but that's just in her personality. She shouldn't have the physical ability to do something like this."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155110,
+            "TextJPN": "園崎組の男たちも、彼女の浮かべる好戦的な笑みに、敵対的であることは理解する。",
+            "TextENG": "As for men of the Sonozaki family, they wear a warlike smile, understanding she is hostile."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155111,
+            "TextJPN": "しかし、暴徒とも様子が違い、どう対応すればいいか、戸惑っていた。",
+            "TextENG": "However, this situation is different than with the mob, so how will they correspond, they must be puzzled."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155112,
+            "TextJPN": "一方の鷹野は違う。ここで、自分が何をすればいいか、はっきりと理解している。",
+            "TextENG": "But there's only one Takano. Although here, on what she will do, I understand that clearly."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155113,
+            "TextJPN": "そして富竹も理解する。……彼女の狙いは、采だ。",
+            "TextENG": "Tomitake also understands. ......Her aim is Une."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155114,
+            "TextJPN": "ウネの感染が先に日本を覆えば、η１７３は無用の長物となる。もう鷹野に出来ることは何もなくなるのだ。",
+            "TextENG": "We should use Une's infection and cover all of Japan before Takano does, making η-173 useless. If we do that, there will be nothing Takano can do."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155115,
+            "TextJPN": "それを最初から知っているから、采を狙ってくる。",
+            "TextENG": "Because we knew from the beginning that her aim is Une."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155116,
+            "TextJPN": "興宮のどこかに潜む彼女を探すのは効率が悪い。園崎組が人々を匿い出した時、鷹野は思ったのだ。",
+            "TextENG": "It must have been inefficient for her to search around Okinomiya to find where she was hidden. So, when the Sonozaki family began to shelter people, Takano had an idea where she was."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155117,
+            "TextJPN": "ここで待っていれば、必ず采がやってくると！",
+            "TextENG": "So, Takano wanted to wait here, and see if Une would come!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155118,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS25/09/NTAK_0200.",
+            "TextJPN": "「ウネという女の子に用があるだけなの。……連れてきては下さらないかしら？」",
+            "NamesENG": "Takano",
+            "TextENG": "``I only have business with a girl called Une. ......Could you please bring her to me?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155119,
+            "NamesJPN": "富竹",
+            "PreTextTags": "@vS25/08/NTOM_0460.",
+            "TextJPN": "「何の話だかわからないね」",
+            "NamesENG": "Tomitake",
+            "TextENG": "``I don't know who you're talking about.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155120,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS25/09/NTAK_0210.",
+            "TextJPN": "「惚けなくてもいいのよ。だって、ずっと見ていたんだから。くすくすくす……」",
+            "NamesENG": "Takano",
+            "TextENG": "``Don't be silly. I mean, I have already seen her here. Hee hee hee hee hee hee......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155121,
+            "NamesJPN": "富竹",
+            "PreTextTags": "@vS25/08/NTOM_0470.",
+            "TextJPN": "「…………させないよ。彼女は東京で保護させてもらう」",
+            "NamesENG": "Tomitake",
+            "TextENG": "``............I won't let you. She's to be protected by Tokyo.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155122,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS25/06/NSHI_0080.",
+            "TextJPN": "「お取り込み中、失礼します！　園崎組事務所へようこそ、三四さん！」",
+            "NamesENG": "Shion",
+            "TextENG": "``Thank you for sharing your busy time with us! Welcome to the Sonozaki family office, Miyo-san!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155123,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS25/09/NTAK_0220.",
+            "TextJPN": "「あらあら、ぞろぞろと」",
+            "NamesENG": "Takano",
+            "TextENG": "``Well, well. They're all here.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155124,
+            "TextJPN": "詩音が強面を連れてぞろりと現れる。",
+            "TextENG": "Shion appears with a very fierce look on her face."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155125,
+            "TextJPN": "鷹野が招かれざる客であることは、もう説明の必要もないのだから。",
+            "TextENG": "Takano must have been invited by a non-human, I don't think we need any other explanation."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155126,
+            "NamesJPN": "葛西",
+            "PreTextTags": "@vS25/15/NKAS_0040.",
+            "TextJPN": "「勇ましい方ですが、さすがに無茶が過ぎるのでは？」",
+            "NamesENG": "Kasai",
+            "TextENG": "``You're a brave person, but don't you think this is absurd?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155127,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS25/09/NTAK_0230.",
+            "TextJPN": "「勇ましいかどうかは、今からわかると思うわよ」",
+            "NamesENG": "Takano",
+            "TextENG": "``Whether or not I'm brave, I think I understand now.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155128,
+            "NamesJPN": "組員",
+            "PreTextTags": "@vS25/00/NKUA_0000.",
+            "TextJPN": "「ぐえっ？！」",
+            "NamesENG": "Gangster",
+            "TextENG": "``Guh?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155129,
+            "NamesJPN": "組員",
+            "PreTextTags": "@vS25/00/NKUB_0000.",
+            "TextJPN": "「むぐッ！」",
+            "NamesENG": "Gangster",
+            "TextENG": "``Mhhhh!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155130,
+            "TextJPN": "鷹野の右腕がひとり、左腕がもうひとりの頭を掴み上げて、それぞれ逆の壁に投げつける。",
+            "TextENG": "Takano's right arm doesn't move, she instead raises her left arm and grabs one of the men's head, and hurls it against the nearest wall."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155131,
+            "TextJPN": "そんな怪力が、あんな細身の体のどこから？！　いいや、どんな大男だって、あんな怪力は出せない。",
+            "TextENG": "Such superhuman strength, how can she do that with such a slender body?! No, even a great man, of superhuman strength couldn't do something like that."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155132,
+            "TextJPN": "それを言ったら、そもそも力学的におかしい。仮にあの細身に怪力が宿っていたとしても、あんな姿勢で軽々と大の男を掴み上げ、放り投げられるわけがない。",
+            "TextENG": "When I think about it, she appeared very mechanically and strange in the first place. And even if such superhuman strength dwelled in that slender body, to effortlessly raise and throw a large man like that shouldn't be possible."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155133,
+            "TextJPN": "詩音も葛西も男たちも、絶句して目を見開き、この世のものと思えぬ鷹野の暴力を凝視することしか出来ないのだ。",
+            "TextENG": "Shion, Kasai and all the men are speechless and widely open their eyes. They can only stare at the unexpected violence Takano has brought to this world."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155134,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS25/09/NTAK_0240.",
+            "TextJPN": "「詩音ちゃん、ぼんやりしてると……、その頭の中身が、ぶちまけられちゃうわよ～？」",
+            "NamesENG": "Takano",
+            "TextENG": "``Shion-chan, you sure are absentminded...... Have the contents of your head become thrown out?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155135,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS25/06/NSHI_0090.",
+            "TextJPN": "「ひぇッ？！」",
+            "NamesENG": "Shion",
+            "TextENG": "``Ah?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155136,
+            "TextJPN": "茫然としていた詩音は、鷹野と目が合い、らしくもなく竦み上がる。",
+            "TextENG": "Shion is stunned, her eyes match Takano's, she steps back in fear."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155137,
+            "TextJPN": "無理もない。人は理解不能な光景を目の当たりにした時、それが解釈できるまで、一切の行動が出来ないのだから。",
+            "TextENG": "It is understandable. Anyone would have done the same after witnessing such an incomprehensible sight, but until she can interrupt her, she cannot take any action."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155138,
+            "TextJPN": "鷹野の腕が、まるで熊手のように巨大に見え、……あっと思った次の瞬間には、詩音の眼前に、猛然と振るわれた鷹野の腕が……。",
+            "TextENG": "Takano's arms looks as huge as a bamboo rake...... Then, in the next moment, before the eyes of Shion, Takano wields her arm fiercely......"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155139,
+            "NamesJPN": "葛西",
+            "PreTextTags": "@vS25/15/NKAS_0050.",
+            "TextJPN": "「危ないッ！！！」",
+            "NamesENG": "Kasai",
+            "TextENG": "``Look out!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155140,
+            "TextJPN": "葛西が詩音を弾き飛ばしながら、振るわれた鷹野の腕を、その力を活かしながら後ろ手に極め、体を床に押し潰す。",
+            "TextENG": "Kasai pushes Shion out of the way, and takes the full brunt of Takano's arm, but utilizing all his strength, he crushes her body onto the floor."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155141,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS25/09/NTAK_0250.",
+            "TextJPN": "「あらあら……」",
+            "NamesENG": "Takano",
+            "TextENG": "``Oh my......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155142,
+            "NamesJPN": "葛西",
+            "PreTextTags": "@vS25/15/NKAS_0060.",
+            "TextJPN": "「恐ろしい御仁です……。一体、どこからそのような力が……」",
+            "NamesENG": "Kasai",
+            "TextENG": "``What a frightening personage...... Where on earth did she get such power......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155143,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS25/06/NSHI_0100.",
+            "TextJPN": "「葛西ッ、さすがですっ」",
+            "NamesENG": "Shion",
+            "TextENG": "``Kasai, as expected.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155144,
+            "TextJPN": "見事に関節を決め、地面に押し潰している。いくら怪力であっても、こうなっては足掻きようもあるまい。",
+            "TextENG": "That joint attack was beautiful, he crushed Takano onto the ground. So even if she does have superhuman strength, she will no doubt struggle against him."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155145,
+            "TextJPN": "鷹野は逃れようともがいてみるが、ひっくり返った昆虫のような無様を見せるだけだった。",
+            "TextENG": "Takano struggles to escape, but she can only be seen crawling away like an overturned insect."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155146,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS25/06/NSHI_0110.",
+            "TextJPN": "「無駄な抵抗は止めた方がいいです。葛西はコワーイ人だから、あんまり暴れると、腕、折っちゃうかもですよ？」",
+            "NamesENG": "Shion",
+            "TextENG": "``You should stop this useless resistance. Because when Kasai gets violent, he could break your arm, right?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155147,
+            "NamesJPN": "葛西",
+            "PreTextTags": "@vS25/15/NKAS_0070.",
+            "TextJPN": "「その必要がない限りはしませんが、……紳士でもありませんので、万一の際は悪しからずです」",
+            "NamesENG": "Kasai",
+            "TextENG": "``Only if it's necessary...... I'm not a gentleman, so during an event like this, I beg you to understand my position.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155148,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS25/09/NTAK_0260.",
+            "TextJPN": "「あら嫌だ、本当に動けないわ。くすくす……」",
+            "NamesENG": "Takano",
+            "TextENG": "``Oh, how unpleasant, I really wouldn't want that to happen. Heh heh......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155149,
+            "TextJPN": "ああもがっちりと関節を決められたら、顔を歪めずにはいられないくらいに痛いはずだ。",
+            "TextENG": "I think we can all agree that bending a firm joint like that would seriously hurt."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155150,
+            "TextJPN": "しかし、鷹野は涼しそうな表情で、身動きできないことを面白がっているように見える。",
+            "TextENG": "However, Takano's expression is cool, she seems to be amused instead of paralyzed."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155151,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS25/09/NTAK_0270.",
+            "TextJPN": "「この程度なのかしら？　私に与えられた力というのは……？　……違うわよねぇ？　くす……、くすくすくすくす……！」",
+            "NamesENG": "Takano",
+            "TextENG": "``Is this what I'm supposed to do? Is this the extent of the power I've been given? It's not, is it?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155152,
+            "NamesJPN": "葛西",
+            "PreTextTags": "@vS25/15/NKAS_0080.",
+            "TextJPN": "「んぬ、………むおッ…！」",
+            "NamesENG": "Kasai",
+            "TextENG": "``Hah... Gha...!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155153,
+            "TextJPN": "鷹野のもう片方の腕が、……たった一本で、自分と組み伏せている葛西の、二人分の体をゆっくりと持ち上げだす。",
+            "TextENG": "With just one arm, Takano begins to slowly lift the bodies of both himself and Kasai from the ground."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155154,
+            "TextJPN": "まるで、雑技団か何かの演技を見ているような錯覚。",
+            "TextENG": "It's like watching some kind of optical illusion performance from an acrobatic troupe."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155155,
+            "TextJPN": "違う。鷹野の逸脱した怪力が、たった一本の腕で、葛西ごと自分の体を浮かせてしまったのだ。",
+            "TextENG": "No, this is different. Takano has such superhuman strength, but even then she only needs one arm to suspend Kasai's body in mid-air."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155156,
+            "TextJPN": "さすがの葛西も仰天せずにはいられない。",
+            "TextENG": "Even Kasai cannot help but feel astonished, too."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155157,
+            "TextJPN": "その次の瞬間、戒めは解かれ、つむじ風のように葛西を振り回し、壁に投げ付ける。",
+            "TextENG": "The next moment, the commandment is released, and like a whirlwind, Kasai is swung around and thrown against the wall."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155158,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS25/06/NSHI_0120.",
+            "TextJPN": "「あんた、はしゃぎ過ぎですッ！！」",
+            "NamesENG": "Shion",
+            "TextENG": "``You're getting carried away!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155159,
+            "TextJPN": "詩音が鷹野に背後より迫った瞬間、青白い火花が飛び散る。切り札のスタンガンを鷹野に食らわせたのだ。",
+            "TextENG": "At that moment, Shion approaches Takano from behind, and bluish-white sparks scatter. She uses her trump card, a stun gun and sticks it to Takano."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155160,
+            "TextJPN": "電撃は、怪力だろうと非力だろうと食らえば堪えられるものではない。",
+            "TextENG": "The electric shock is not something that can be endured by anyone, monstrous or not."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155161,
+            "TextJPN": "しかし、鷹野は悠然と振り返るのだ……。",
+            "TextENG": "However, Takano looks back in a grand manner......"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155162,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS25/09/NTAK_0280.",
+            "TextJPN": "「あらあら。……それはなぁに？」",
+            "NamesENG": "Takano",
+            "TextENG": "``Oh my. ......Did something go wrong?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155163,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS25/06/NSHI_0130.",
+            "TextJPN": "「そ、そんなはずは……ッ！！」",
+            "NamesENG": "Shion",
+            "TextENG": "``That's not possible......!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155164,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS25/09/NTAK_0290.",
+            "TextJPN": "「人の子の分際で、神の御使いの私にそんなことをするなんて……。悪い子ねぇ……」",
+            "NamesENG": "Takano",
+            "TextENG": "``How dare you do such a thing to me, a messenger of God, when you are just a human child? Bad girl...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155165,
+            "TextJPN": "鷹野の手が、片腕で詩音の顔面を掴み上げる。",
+            "TextENG": "Takano grasps Shion's face with only one of her hands."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155166,
+            "TextJPN": "頭蓋骨が軋むような苦痛に詩音は呻きながら抗うが、鷹野の万力のような力に対しては、まるで赤子が抵抗するようなものだ。",
+            "TextENG": "Shion groans in pain, as her skull is being crushed, but against such force of Takano's vice, she is seemly a baby attempting to resist."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155167,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS25/09/NTAK_0300.",
+            "TextJPN": "「くす。これはお仕置きだからね？」",
+            "NamesENG": "Takano",
+            "TextENG": "``Hee hee. That's your punishment, got it?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155168,
+            "TextJPN": "次の瞬間、詩音の体は、大の字に壁に叩きつけられていた。",
+            "TextENG": "The next moment Shion's body is slammed against the wall with her legs spread wide."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155169,
+            "TextJPN": "詩音にとって、打ち付けられた壁は大地も同然。２階から突き落とされ、コンクリートの大地に打ち付けられたも同然だった。",
+            "TextENG": "Shion is slammed against the wall and then the ground. She is thrown from the second floor, and falls against the concrete, slamming the ground."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155170,
+            "TextJPN": "そして、ずるりと床に崩れ落ち、呻く。",
+            "TextENG": "Then, she collapses onto the floor and groans."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155171,
+            "TextJPN": "しかし鷹野は、さらなる何かを求め、詩音になおも歩み寄ろうとする……。",
+            "TextENG": "However, Takano demands something further, and slowly approaches Shion......"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155172,
+            "NamesJPN": "富竹",
+            "PreTextTags": "@vS25/08/NTOM_0480.",
+            "TextJPN": "「もう、よすんだ、鷹野さんッ！　君を撃ちたくない！」",
+            "NamesENG": "Tomitake",
+            "TextENG": "``Stop it already, Takano-san! I don't want to shoot you!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155173,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS25/09/NTAK_0310.",
+            "TextJPN": "「あら、ジロウさん。……くす、それはとても興味深いわね。人の子の武器が、私に傷を付けられるかどうか、とても興味深いわ。くすくすくす……」",
+            "NamesENG": "Takano",
+            "TextENG": "``Oh, Jirou-san. ......Hee hee, very interesting. A child of man holding a weapon, I wonder if it will hurt me. Very interesting. Heh heh heh......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155174,
+            "TextJPN": "富竹が向けるサブマシンガンを、鷹野は面白そうに眺めている。",
+            "TextENG": "Takano looks at the submachine gun that Tomitake points at him with amusement."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155175,
+            "TextJPN": "日本人特有の、どうせモデルガンだろうという嘲りではない。",
+            "TextENG": "This is not the typical Japanese mockery of a model gun anyway."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155176,
+            "TextJPN": "心の底から、……それを撃ち掛けられたら、どうなるのか見てみたいという好奇心から笑みを浮かべているのだ。",
+            "TextENG": "From the bottom of her heart...... she knows he will shoot, but she smiles out of curiosity to see what will happen."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155177,
+            "TextJPN": "富竹も理解せざるを得ない。……今の鷹野には、何か超常の力が備わっている。",
+            "TextENG": "Tomitake knows he cannot avoid it. ......As the Takano of now possesses some form of paranormal power."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155178,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0700.",
+            "TextJPN": "「鷹野を巫女にしたのですか、田村媛命…ッ！！　何と愚かなことをッ」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``Did you make Takano your shrine maiden?! Tamurahime no Mikoto...!! What a foolish thing.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155179,
+            "NamesJPN": "田村",
+            "PreTextTags": "@vS25/51/NTAM_0140.",
+            "TextJPN": "「黙り給え、吾輩はそなたの指図など受けぬと知り奉れッ。神聖なる大地を穢そうとする新たなる輩を成敗する也ッ。邪魔は無用と知り給え！！　そこに直れ、ウネッ！！」",
+            "NamesENG": "Tamura",
+            "TextENG": "``Shut up, and know that I will not take orders from you. I will defeat the newcomers who seek to defile the sacred earth. Know that you are not to be disturbed! Stay where you are, Une!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155180,
+            "NamesJPN": "ウネ",
+            "PreTextTags": "@vS25/50/NUNE_0540.",
+            "TextJPN": "「……我、な、何もしてないのです……」",
+            "NamesENG": "Une",
+            "TextENG": "``......Me, I-I haven't done anything......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155181,
+            "NamesJPN": "田村",
+            "PreTextTags": "@vS25/51/NTAM_0150.",
+            "TextJPN": "「白々しい！　貴様の汚らわしさなど、吾輩の眼力の前には全てお見通しであると知り給え！」",
+            "NamesENG": "Tamura",
+            "TextENG": "``Barefaced! Your intention is repulsive and different, I know of it using the insight of my people!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155182,
+            "NamesJPN": "ウネ",
+            "PreTextTags": "@vS25/50/NUNE_0550.",
+            "TextJPN": "「……我、そんなつもり……ないのに………」",
+            "NamesENG": "Une",
+            "TextENG": "``......I-I have no such intention...... I don't.........``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155183,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0710.",
+            "TextJPN": "「僕が来た時にもそう言って酷くいじめたのです。あいつは意地悪なヤツなのですっ」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``When I first came here, she said the same thing and severely bullied me. She is malicious.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155184,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_1020.",
+            "TextJPN": "「田村の何とか。あんたに恨みはないけれど、あんたの巫女は個人的に気に入らないの。悪いけど、あんたが右って言うなら、私たちは左にさせてもらうわ！」",
+            "NamesENG": "Rika",
+            "TextENG": "``Tamura's something. I have nothing against you, but I personally don't like your maiden. I'm sorry, but if you're going to be on the one side, we're going to be on the another side!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155185,
+            "NamesJPN": "田村",
+            "PreTextTags": "@vS25/51/NTAM_0160.",
+            "TextJPN": "「我が巫女よ、……悪魔ウネはここ也や！　今こそ誅する時ッ！！」",
+            "NamesENG": "Tamura",
+            "TextENG": "``My shrine maiden...... the devil Une is here! Kill her now!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155186,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS25/09/NTAK_0320.",
+            "TextJPN": "「……そこにいるのね、ウネちゃん」",
+            "NamesENG": "Takano",
+            "TextENG": "``......So that's where you where, Une-chan.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155187,
+            "TextJPN": "鷹野は壁を見る。彼女には、その向こうにいるウネの姿が見えているのだ。",
+            "TextENG": "Takano sees through the wall. She can see the visible appearance of Une on the other side."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155188,
+            "TextJPN": "采もまた、自分が凝視されていることに気付き、震え上がる。",
+            "TextENG": "Une notices she is staring, and trembles violently."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155189,
+            "NamesJPN": "富竹",
+            "PreTextTags": "@vS25/08/NTOM_0490.",
+            "TextJPN": "「に、逃げろ…！！　僕たちには止められない！！」",
+            "NamesENG": "Tomitake",
+            "TextENG": "``E-Escape...!! We won't be able to stop her!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155190,
+            "TextJPN": "鷹野は右手の握り拳を確かめると、それをゆっくりと壁に押し当てる。",
+            "TextENG": "Takano checks her right hand clenched in a fist, and slowly presses it against the wall."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155191,
+            "TextJPN": "すると、……ゆっくりとそこから放射状にひび割れが広がっていく……。",
+            "TextENG": "Then...... cracks begin to spread slowly and radially......"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155192,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS25/03/NMIO_1430.",
+            "TextJPN": "「な、何が起こってんの…！！」",
+            "NamesENG": "Mion",
+            "TextENG": "``Wh-What's happening...!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155193,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS25/01/NKEI_1410.",
+            "TextJPN": "「富竹さんは逃げろって言ってる！　逃げるんだ！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Tomitake said to escape! So let's escape!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155194,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS25/02/NREN_1270.",
+            "TextJPN": "「采ちゃんッ、早くこっちに！！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Une-chan, over here, quickly!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155195,
+            "NamesJPN": "采",
+            "PreTextTags": "@vS25/50/NUNE_0560.",
+            "TextJPN": "「……に、……逃げ……、ひい………、」",
+            "NamesENG": "Une",
+            "TextENG": "``......E-Escape...... Hii.........``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155196,
+            "TextJPN": "目の前の壁のひび割れはどんどん深く広がっていき、地鳴りのようなものまで聞こえ出す。",
+            "TextENG": "The cracks in the wall right before our eyes deepen rapidly, until something like a rumbling sound can be heard."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155197,
+            "TextJPN": "もはや疑う余地はない。鷹野は壁を砕いてやって来るつもりだ…！",
+            "TextENG": "There's no doubt about it. Takano's trying to crush the wall and bust through...!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155198,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_1030.",
+            "TextJPN": "「何で田村の巫女にはあんなすごい力が宿るのに、あんたの巫女には何もないのよ！」",
+            "NamesENG": "Rika",
+            "TextENG": "``What kind of great power dwells inside a shrine maiden of Tamura, and why can't I as your shrine maiden do that!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155199,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0720.",
+            "TextJPN": "「梨花ぁ、それを言っちゃあ！　それを言っちゃあおしまいなのですよ、あうあうあう！！」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``Rika, don't say that! The end of it, I don't want to talk about it, au au au!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155200,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS25/03/NMIO_1440.",
+            "TextJPN": "「梨花ちゃん、何やってんの！！　逃げるよ！！　うわあッ！！」",
+            "NamesENG": "Mion",
+            "TextENG": "``Rika-chan, what are you doing!! Run away!! Uwaa!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155201,
+            "TextJPN": "この程度の壁など、今の鷹野を、いや、田村媛命の巫女を阻むことなど出来るわけもない。",
+            "TextENG": "There was no way that a wall of this magnitude now would be able to stop Takano, the priestess of Tamurahime no Mikoto."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155202,
+            "TextJPN": "砂場で作った城を崩すより易々と、壁は打ち壊され、巨大な口を開ける。",
+            "TextENG": "She destroys it easily as if it were a castle made in a sandbox, and smashes through the wall. We open our mouths wide in shock."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155203,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS25/09/NTAK_0330.",
+            "TextJPN": "「見つけたわよ、ウネちゃ～ん、くすくすくすくす！！」",
+            "NamesENG": "Takano",
+            "TextENG": "``Found you, Une-chan, heh heh heh heh!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155204,
+            "NamesJPN": "采",
+            "PreTextTags": "@vS25/50/NUNE_0570.",
+            "TextJPN": "「ひ、……ひいっ、……ひいっ……！　あッ！」",
+            "NamesENG": "Une",
+            "TextENG": "``H-Hiii...... Hiiii......! Ah!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155205,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS25/02/NREN_1280.",
+            "TextJPN": "「采ちゃん！！！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Une-chan!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155206,
+            "TextJPN": "采が滑って転び、逃げ損ねる。",
+            "TextENG": "Une slips and falls, failing to escape."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155207,
+            "TextJPN": "それを見逃すほど鷹野が間抜けなわけもない。ずかずかと歩み寄り、采の襟首を掴み上げる。",
+            "TextENG": "Takano cannot be so foolish to miss this chance. She walks slowly towards her making a rude entrance, and grabs Une by the nape of her neck."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155208,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS25/09/NTAK_0340.",
+            "TextJPN": "「さぁ、捕まえた…！！」",
+            "NamesENG": "Takano",
+            "TextENG": "``Now, I've caught you...!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155209,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS25/04/NSAT_0620.",
+            "TextJPN": "「残念！　薄幸の美少女、沙都子ちゃんでしてよ！　采さんだと思いまして？」",
+            "NamesENG": "Satoko",
+            "TextENG": "``You must be disappointed! To find such an unfortunate beautiful girl, called Satoko-chan! What, did you think I was Une-san?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155210,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS25/04/NSAT_0630.",
+            "TextJPN": "「残念ですわねぇ、おーっほっほっほっほ！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``How unfortunate, right, oh ho ho ho ho!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155211,
+            "TextJPN": "銃を向けられても涼しげだった鷹野も、一瞬、頭が真っ白になる。",
+            "TextENG": "Takano, who looked cool even when a gun was pointed at her, for a moment, her head becomes pure white."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155212,
+            "TextJPN": "梨花に采の秘密を打ち明けられた彼らは、采を守る為に最大の罠を直ちに用意したのだ。",
+            "TextENG": "Satoko was told by Rika to pretend she was Une, and immediately she prepared the greatest trap in order to protect Une."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155213,
+            "TextJPN": "背格好の近い沙都子と采の服を着替えさせ、入れ替えたのだ。もちろん、滑って転び、鷹野の目を引きつけるのも計算の上だ。",
+            "TextENG": "They made sure Satoko was the same height as Une, and then beside one other they changed clothes. Naturally, even the slip and fall, was calculated in order to attract Takano's eyes."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155214,
+            "TextJPN": "壁を打ち破ってくるというこの世ならざる衝撃も、まさにトラップに今、引っ掛けてやろうという高揚感には及ばなかったのだ。",
+            "TextENG": "And now, her world has begun to break down, even though she just defeated a wall with the power of a non-human, and with this trap, her uplifted feeling has been brought down, too."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155215,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS25/09/NTAK_0350.",
+            "TextJPN": "「さ、沙都子ぉおおおぉおおおぉッ！！」",
+            "NamesENG": "Takano",
+            "TextENG": "``Hhh... Satokoooooooooo!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155216,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS25/04/NSAT_0640.",
+            "TextJPN": "「をっほほほほほ！　おマヌケさんにはプレゼントですわ！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Oh ho ho ho ho ho! My present to an idiot like you!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155217,
+            "TextJPN": "鷹野の虚を突き、沙都子は何かをがばっと鷹野に被せる。",
+            "TextENG": "Thrusted into the imagination of Takano, Satoko suddenly appears dazzled in light before her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155218,
+            "TextJPN": "それは、……白くてフワフワの、@k@|@yウサ耳？！",
+            "TextENG": "With something...... white and fluffy,@k@|@y ...Bunny ears?!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155219,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_1040.",
+            "TextJPN": "「今よ、羽入…！！」",
+            "NamesENG": "Rika",
+            "TextENG": "``Now, Hanyuu...!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155220,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0730.",
+            "TextJPN": "「行きますですよ、ピカーッ！！」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``Let's go. Beaaaam!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155221,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS25/09/NTAK_0360.",
+            "TextJPN": "「は？　何よこれ……？！　ウ、ウサギの耳…？！」",
+            "NamesENG": "Takano",
+            "TextENG": "``Huh? What is this......?! B-Bunny ears...?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155222,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS25/09/NTAK_0370.",
+            "TextJPN": "「えッ、」",
+            "NamesENG": "Takano",
+            "TextENG": "``Eh?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155223,
+            "TextJPN": "羽入は人ならざる者の力で、一瞬だけ田村の力に干渉し、鷹野への巫女としての加護に隙を作る。",
+            "TextENG": "Hanyuu used the powers of a non-human, and interfered with Tamura's power for an instant, dropping Takano's divine protection as a shrine maiden, creating an opening."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155224,
+            "TextJPN": "もちろん、広大な土地を統べる強力な田村の力を破るなど、一瞬だけしか出来ない。",
+            "TextENG": "Naturally, she can only break Tamura's powerful strength for only an instant, since she controls such a vast land."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155225,
+            "TextJPN": "しかし……、その一瞬で充分……！",
+            "TextENG": "However...... an instant is enough......!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155226,
+            "TextJPN": "レナの猛打が鷹野の顔面に集中し、そして圭一が鷹野の足をその逆方向に掬う。",
+            "TextENG": "Rena deals a heavy concentrated blow on Takano's face, while Keiichi scoops her foot from the opposite direction."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155227,
+            "TextJPN": "鷹野の体は、ぐるんと空中で一回転してから、自らが積み上げた瓦礫の山にうつ伏せに叩き付けられる。",
+            "TextENG": "Takano's body, performs a full rotation in the air, and is slammed against the heap of debris she herself created."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155228,
+            "TextJPN": "田村媛命の加護があったなら、レナの攻撃など猫がじゃれ付く程度にもならなかったろう。",
+            "TextENG": "But, if she had the divine protection of Tamurahime-no-Mikoto, Rena might as well have been a playfully attacking cat."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155229,
+            "TextJPN": "しかし、今の一瞬だけは、生身の鷹野に戻っていた。……ということはつまり、致命傷というわけだ。",
+            "TextENG": "However, only for this moment, Takano was back to a flesh-and-blood human. ......In other words that means, she can be fatally wounded."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155230,
+            "TextJPN": "鷹野は脳震盪を起こし、失神してしまう。",
+            "TextENG": "Takano is given a brain concussion, which leads to her fainting."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155231,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS25/06/NSHI_0140.",
+            "TextJPN": "「ど、どういうわけですか……。レナさんって、……本当に人間？」",
+            "NamesENG": "Shion",
+            "TextENG": "``H-How did you do that...... Rena-san...... are you really human?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155232,
+            "NamesJPN": "富竹",
+            "PreTextTags": "@vS25/08/NTOM_0500.",
+            "TextJPN": "「……お、……驚いたね、……ははははは」",
+            "NamesENG": "Tomitake",
+            "TextENG": "``......I-I'm surprised...... ha ha ha ha ha.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155233,
+            "TextJPN": "ほんの直前まで、鷹野の異常な力を目の当たりにしていた詩音たちは、仰天を越え、苦笑いを浮かべる他はない。",
+            "TextENG": "Just before, Shion witnessed the abnormal powers of Takano, so she is beyond amazement, and cannot help but wear a bitter smile."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155234,
+            "TextJPN": "当然だ。人外の強さの鷹野を、部活メンバーは秒殺して見せたのだから……。",
+            "TextENG": "Naturally. The inhuman strength of Takano would have killed any club member within a second......"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155235,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS25/03/NMIO_1450.",
+            "TextJPN": "「あー、おじさんだけ何もしてないとか言わないよーにねぇ？　状況とメンバー全員の特性を考えての、おじさんの作戦勝ちなんだからね～？」",
+            "NamesENG": "Mion",
+            "TextENG": "``Oh, do you need this Old Man to do anything? Because considering the characteristic's of all the members and our situation, don't you think Old Man should be part of the winning strategy?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155236,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS25/06/NSHI_0150.",
+            "TextJPN": "「……おや、お姉。いたんですか、気付きませんでした」",
+            "NamesENG": "Shion",
+            "TextENG": "``......Oh, Sis. I didn't notice you there.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155237,
+            "NamesJPN": "富竹",
+            "PreTextTags": "@vS25/08/NTOM_0510.",
+            "TextJPN": "「まさか、あの怪物のような鷹野さんを、……こんなにもあっさりと、ね……」",
+            "NamesENG": "Tomitake",
+            "TextENG": "``No way, Takano-san was like a monster...... But she was so quick......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155238,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS25/04/NSAT_0650.",
+            "TextJPN": "「采さん、もう怖くありませんですわよ、出ていらっしゃいですわ！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Une-san, you don't need to be scared anymore, you can go out!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155239,
+            "NamesJPN": "采",
+            "PreTextTags": "@vS25/50/NUNE_0580.",
+            "TextJPN": "「………怖くない……、のですか………」",
+            "NamesENG": "Une",
+            "TextENG": "``.........I'm not scared......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155240,
+            "TextJPN": "物陰に隠れていた、沙都子の服を着た采がおずおずと姿を見せる。",
+            "TextENG": "Coming out of the shadows, Une appears timidly wearing Satoko's clothes."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155241,
+            "TextJPN": "……本来なら、服を変えた程度で、田村媛命の目を誤魔化せるはずもない。",
+            "TextENG": "......However, even to the extent of changing her clothes, she could not deceive the eyes of Tamurahime no Mikoto."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155242,
+            "TextJPN": "彼女の神通力により、確かに鷹野は、壁越しではあっても、ウネを見ることが出来たのだ。",
+            "TextENG": "Thanks to her divine power, Takano was indeed able to see Une, even if it was through a wall."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155243,
+            "TextJPN": "しかし、壁を打ち砕いて、鷹野の生身の目でそれを確認した時、人としての感覚が優先してしまい、采の服を着た沙都子を誤認してしまった。だから、部活メンバーの罠に引っ掛かってしまったのだ。",
+            "TextENG": "However, after she smashed the wall, we could confirm it was a flesh-and-blood Takano with our own eyes, so making her feel like a human became our top priority, and thus we placed Satoko in Une's clothes so she would mistake her for Une. Therefore, she was caught in the club members trap."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155244,
+            "NamesJPN": "田村",
+            "PreTextTags": "@vS25/51/NTAM_0170.",
+            "TextJPN": "「吾輩の巫女が……、何ということ也やっ」",
+            "NamesENG": "Tamura",
+            "TextENG": "``My shrine maiden...... What a mess.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155245,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0740.",
+            "TextJPN": "「鷹野は失神してしまったのですよ！　もう力は貸せないのです！」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``Takano has fainted! You can't lend her anymore power!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155246,
+            "TextJPN": "気を失うことを失神とも言うが、神を失うと書くとは面白い。",
+            "TextENG": "Fainting is also said to be one losing their mind, but it's amusing to write that God lost."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155247,
+            "TextJPN": "巫女に強力な力を与える田村も、鷹野が失神していては何の力も与えられない。",
+            "TextENG": "Tamura gave Takano a powerful force as her shrine maiden, but Takano cannot be given that power since she has fainted."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155248,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_1050.",
+            "TextJPN": "「お生憎だったわね。こちとら、鷹野の相手は一度や二度じゃないのよ」",
+            "NamesENG": "Rika",
+            "TextENG": "``How unfortunate. We took down your partner Takano more than twice.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155249,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0750.",
+            "TextJPN": "「僕の巫女たちの力を侮るからなのですよ！　さぁ、田村媛命！　お前はしばらく静かにしているのですッ」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``And that is because you underestimated the power of my shrine maiden! Well, Tamurahime no Mikoto! You've been quiet for some time now."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155250,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0760.",
+            "TextJPN": "「羽入フラーッシュ！！」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "...Hanyuu flash!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155251,
+            "NamesJPN": "田村",
+            "PreTextTags": "@vS25/51/NTAM_0180.",
+            "TextJPN": "「んむわぁあああああぁああぁ……ッ！！！」",
+            "NamesENG": "Tamura",
+            "TextENG": "``Muwaaaaaaaaaaa......!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155252,
+            "TextJPN": "羽入が両手でチョキを作り額に当てると、眩い光が迸り、田村媛命の姿を掻き消す。",
+            "TextENG": "Hanyuu, makes a pair of scissors with both hands and puts it to her forehead, causing a dazzling light to gush out, erasing the appearance of Tamurahime no Mikoto."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155253,
+            "TextJPN": "田村の像を消し去っただけで、田村本人を倒したわけではないそうだ。しかし、しばらくの間でも、あのムカつく顔を見ずに済むのはありがたい。",
+            "TextENG": "But erasing only the image of Tamura did not seem to defeat her. However, if even for a short while, we should be thankful she can't stare at us with her face."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155254,
+            "TextJPN": "田村は、ぎゃわーッと、戦隊物の悪役のやられポーズをしながら掻き消える。",
+            "TextENG": "Tamura disappeared like a villian from a Power Rangers, so all we need to do is strike a pose."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155255,
+            "NamesJPN": "葛西",
+            "PreTextTags": "@vS25/15/NKAS_0090.",
+            "TextJPN": "「さぁ、今の内に鷹野さんをふん縛ってしまいましょう」",
+            "NamesENG": "Kasai",
+            "TextENG": "``Now, let's tie up Takano-san before it's too late.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155256,
+            "NamesJPN": "詩音",
+            "PreTextTags": "@vS25/06/NSHI_0160.",
+            "TextJPN": "「とんでもない馬鹿力でしたからね！　鎖でも巻いておかなきゃです」",
+            "NamesENG": "Shion",
+            "TextENG": "``She used such outrageous great physical power! We should keep her wrapped in chains.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155257,
+            "TextJPN": "気の毒に。もはや鷹野はか弱い女なのに、とんでもなく厳重に縛られている。",
+            "TextENG": "Regrettably. We shouldn't tie her up severely, Takano is a weak woman."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155258,
+            "TextJPN": "これで、一件落着だった。",
+            "TextENG": "And that is, case closed."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155259,
+            "NamesJPN": "ウネ",
+            "PreTextTags": "@vS25/50/NUNE_0590.",
+            "TextJPN": "「……我……、一件落着……、なのですか……」",
+            "NamesENG": "Une",
+            "TextENG": "``......Ca-Case closed...... is it really......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155260,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0770.",
+            "TextJPN": "「そうなのですよ！　これでもう、意地悪な邪魔者の田村はいないのです！」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``Yes! Already, that malicious nuisance Tamura has disappeared!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155261,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_1060.",
+            "TextJPN": "「あとは富竹が何とかしてくれるわ。そうよね？」",
+            "NamesENG": "Rika",
+            "TextENG": "``Tomitake will take care of the rest. Isn't that right?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155262,
+            "NamesJPN": "富竹",
+            "PreTextTags": "@vS25/08/NTOM_0520.",
+            "TextJPN": "「そりゃ本当かい、魅音ちゃん！　すごいね、ここには何でもあるね！」",
+            "NamesENG": "Tomitake",
+            "TextENG": "``It's the real thing, Mion-chan! This is amazing, you have everything here!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155263,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS25/03/NMIO_1460.",
+            "TextJPN": "「まぁ、園崎家に用意できないものはありませんからねぇ」",
+            "NamesENG": "Mion",
+            "TextENG": "``Well, there isn't anything that can't be provided by the Sonozaki family.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155264,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_1070.",
+            "TextJPN": "「どうしたの？」",
+            "NamesENG": "Rika",
+            "TextENG": "``What's wrong?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155265,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS25/01/NKEI_1420.",
+            "TextJPN": "「ここに、強力な無線機があるらしい！　どうも、富竹さんが使えば外部と連絡が取れるみたいだ！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``There seems a to be powerful radio here! Please, use it and try to contact the outside, Tomitake-san!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155266,
+            "TextJPN": "園崎家自慢の改造無線機だ。",
+            "TextENG": "It's an illegally remodelled radio, something the Sonozaki family is proud of."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155267,
+            "TextJPN": "富竹によると、無線妨害の影響を受けずに外部に発信することが可能らしい。",
+            "TextENG": "According to Tomitake, it seems it's able to send a signal to the outside without being affect by the radio interference."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155268,
+            "NamesJPN": "富竹",
+            "PreTextTags": "@vS25/08/NTOM_0530.",
+            "TextJPN": "「東京にコンタクトが取れるかどうか、試してみるよ。采ちゃんが、ひょっとしたら救世主になるかもしれないんだからね！」",
+            "NamesENG": "Tomitake",
+            "TextENG": "``I'll try and see if I can get in contact with Tokyo. Une-chan, you may possibly become our savior!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155269,
+            "TextJPN": "脳内寄生虫を兵器として使う為には、それに対する免疫が不可欠となる。",
+            "TextENG": "In order to use the brain parasite as a weapon, it is necessary to first create an immunity."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155270,
+            "TextJPN": "ウネの根の強さは、η１７３も含め、並大抵の同類の感染に強力な免疫となり得るのだ。",
+            "TextENG": "So, using the strengthened roots of Une, and η-173, creating the likes of a powerful immunity will be an easy matter."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155271,
+            "TextJPN": "東京は絶対に関心を示すだろう。",
+            "TextENG": "Tokyo will certainly show interest."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155272,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS25/04/NSAT_0660.",
+            "TextJPN": "「富竹さんってすごいんですのね。何でも出来ちゃいますのね」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Tomitake-san, you're amazing. You can do anything.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155273,
+            "NamesJPN": "富竹",
+            "PreTextTags": "@vS25/08/NTOM_0540.",
+            "TextJPN": "「いやぁ、はっはっは…、ちょ、ちょっと趣味でかじったことがあってねぇ……！」",
+            "NamesENG": "Tomitake",
+            "TextENG": "``No, ha ha ha... it's just a little hobby of mine......!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155274,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS25/02/NREN_1300.",
+            "TextJPN": "「これで、私たちの大冒険はおしまい、……かな？」",
+            "NamesENG": "Rena",
+            "TextENG": "``Now, has our great adventure come to an end...... I wonder?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155275,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS25/01/NKEI_1430.",
+            "TextJPN": "「だといいな。俺、もう疲れてヘトヘトだぜ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``I hope so. I'm already exhausted and tired out.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155276,
+            "NamesJPN": "采",
+            "PreTextTags": "@vS25/50/NUNE_0600.",
+            "TextJPN": "「……もう、……出られる……？　この街を……？」",
+            "NamesENG": "Une",
+            "TextENG": "``......Already...... I can escape......? From this town......?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155277,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS25/05/NRIK_1080.",
+            "TextJPN": "「えぇ。出られるわ。まぁ、しばらくは虜にされるだろうけれどね。あんたの協力がないと連中は何も出来ないんだから、待遇はマシなものになるとは思うわよ」",
+            "NamesENG": "Rika",
+            "TextENG": "``Yeah. Soon enough. Well, then you'll just have to be a captive for a short while. But remember, you have to cooperate with those people so don't talk back, I think you'll be treated a little better that way.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155278,
+            "NamesJPN": "羽入",
+            "PreTextTags": "@vS25/12/NHAN_0780.",
+            "TextJPN": "「ウネ。地球へようこそなのです。この地で、一緒に仲良く花を咲かせましょうです。……もちろん、田村媛命とも仲良く」",
+            "NamesENG": "Hanyuu",
+            "TextENG": "``Une. Welcome to Earth. In this land, we can become good friends and bloom together. ......Naturally, peacefully alongside Tamurahime no Mikoto, too.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 155279,
+            "NamesJPN": "ウネ",
+            "PreTextTags": "@vS25/50/NUNE_0610.",
+            "TextJPN": "「……我、……嬉しいです……。感謝……、羽入……」",
+            "NamesENG": "Une",
+            "TextENG": "``......I'm...... I'm glad...... Thanks...... Hanyuu......``"
+        }
+    ]
+}

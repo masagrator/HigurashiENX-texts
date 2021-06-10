@@ -1,0 +1,1030 @@
+{
+    "Main": [
+        {
+            "type": "SAVEINFO",
+            "category": 1,
+            "JPN": "END (とある小さな町で)",
+            "ENG": "END (In A Small Town)"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81272,
+            "NamesJPN": "赤坂",
+            "PreTextTags": "@vS08/13/321000992.",
+            "TextJPN": "「えーっと…。@k@vS08/13/321000993.この道を進んで、それから…」",
+            "NamesENG": "Akasaka",
+            "TextENG": "``Ummm...@k@vS08/13/321000993. We're supposed to follow this road, then...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81273,
+            "NamesJPN": "美雪",
+            "PreTextTags": "@vS08/34/321500064.",
+            "TextJPN": "「あ、パパ。@k@vS08/34/321500065.あそこに地図があるよ？」",
+            "NamesENG": "Miyuki",
+            "TextENG": "``Oh, Papa.@k@vS08/34/321500065. Isn't that a map over there?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81274,
+            "TextJPN": "そう言って美雪が指差した先に、町の案内板がある。",
+            "TextENG": "Miyuki pointed to a local directory as she said that."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81275,
+            "TextJPN": "そこに書かれた地図と招待状を見比べると、あと少し歩けば到着できそうだ。",
+            "TextENG": "I compared the map with the directions written in the invitation, and determined that we would make it there if we just walked a little farther."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81276,
+            "NamesJPN": "美雪",
+            "PreTextTags": "@vS08/34/321500066.",
+            "TextJPN": "「わーい、雪雪ぃ～♪」",
+            "NamesENG": "Miyuki",
+            "TextENG": "``Yaaay, snow, snooow~.♪``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81277,
+            "TextJPN": "美雪は積もるほどの雪が珍しいのか、駅を出た時からずっとはしゃぎまわっている。",
+            "TextENG": "I guess Miyuki hasn't seen snowfall this thick very often. She's been playing in it since we left the station."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81278,
+            "TextJPN": "この町は人の往来も少ないのか、道端の雪はそれほど汚れていない。だから歩くたびにさくさくと足跡がついてゆくのは、確かになんとなく心地が良かった。",
+            "TextENG": "This town didn't have many people coming and going, so the snow along the roadside was still fairly clean. It was a comfortable walk, and I left a neat trail of footprints behind me as I went."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81279,
+            "NamesJPN": "赤坂",
+            "PreTextTags": "@vS08/13/321000994.",
+            "TextJPN": "「こらこら、美雪。@k@vS08/13/321000995.あんまり走り回ると危ないぞ？」",
+            "NamesENG": "Akasaka",
+            "TextENG": "``Come on, Miyuki.@k@vS08/13/321000995. It's dangerous to run around too much, you know?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81280,
+            "NamesJPN": "美雪",
+            "PreTextTags": "@vS08/34/321500067.",
+            "TextJPN": "「平気だもーん♪@k@vS08/34/321500068.　…わぷっ？」",
+            "NamesENG": "Miyuki",
+            "TextENG": "``I'll be okaaaay.♪@k@vS08/34/321500068. ...Wah?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81281,
+            "TextJPN": "そう元気良く答えた矢先に、美雪は足を取られて大の字に転ぶ。",
+            "TextENG": "Miyuki answered vigorously, but she lost her footing shortly after and tumbled to the ground."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81282,
+            "TextJPN": "…雨合羽を着させておいてよかった。地面は雪だから怪我の心配はないだろうが、これから向かう先のことを考えると、あまりひどい身なりだとさすがに体裁が悪い。",
+            "TextENG": "...Thankfully, she was wearing her raincoat. And since the ground was covered in soft snow, I didn't have to worry about her getting seriously hurt. But considering where we were headed, it didn't seem like proper behavior."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81283,
+            "NamesJPN": "美雪",
+            "PreTextTags": "@vS08/34/321500069.",
+            "TextJPN": "「えっへへ～、冷たーい♪@k@vS08/34/321500070.　雪って面白いね、パパ？」",
+            "NamesENG": "Miyuki",
+            "TextENG": "``Eehehee~, so coooold.♪@k@vS08/34/321500070. Isn't snow interesting, Papa?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81284,
+            "NamesJPN": "赤坂",
+            "PreTextTags": "@vS08/13/321000996.",
+            "TextJPN": "「…面白い？@k@vS08/13/321000997.　ははは、そうだなぁ」",
+            "NamesENG": "Akasaka",
+            "TextENG": "``...Interesting?@k@vS08/13/321000997. Hahaha, I guess so.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81285,
+            "TextJPN": "むしろ、面白くさせているのは美雪じゃないか。…などと内心呟いて、思わず吹き出す。",
+            "TextENG": "``Really, you're the one that makes the snow interesting, Miyuki.`` ...I suddenly muttered in my head."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81286,
+            "TextJPN": "本当に、…この子の笑顔にはいつも、心が癒された。",
+            "TextENG": "Honestly... just looking at her smiling face warmed my heart."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81287,
+            "TextJPN": "もし、これまで過ごしてきた日々に美雪がいなかったとしたら、私はどんな荒んだ生活を送っていただろうか。",
+            "TextENG": "If I didn't have Miyuki in my life, how much worse would my life be?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81288,
+            "NamesJPN": "赤坂",
+            "PreTextTags": "@vS08/13/321000998.",
+            "TextJPN": "「今度休暇ができたら、スキーにでも行こうか。@k@vS08/13/321000999.そうだ、北海道はどうだい？@k@vS08/13/321001000.　大石さんも、美雪が行けばきっと喜んでくれるよ」",
+            "NamesENG": "Akasaka",
+            "TextENG": "``How about we go skiing next time we're on vacation?@k@vS08/13/321000999. Yeah, how about we go to Hokkaido?@k@vS08/13/321001000. I'm sure Ooishi-san will be pleased to see you.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81289,
+            "NamesJPN": "美雪",
+            "PreTextTags": "@vS08/34/321500071.",
+            "TextJPN": "「大石のおじーちゃん？@k@vS08/34/321500072.　うんっ、美雪も会いたい！@k@vS08/34/321500073.　楽しみにしてるね、パパ！」",
+            "NamesENG": "Miyuki",
+            "TextENG": "``Old man Ooishi?@k@vS08/34/321500072. Yeah, I wanna see him too!@k@vS08/34/321500073. I'm looking forward to it, Papa!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81290,
+            "TextJPN": "私の普段の激務から考えても、約束が果たされるのはいつになるかわからない。…それでも、私はできる限りの努力で自分が言ったことに責任を持って、美雪に応えていた。",
+            "TextENG": "But considering my tireless work schedule, I had no idea when I'd be able to fulfill that promise. ...Still, I made a promise to Miyuki, so I'd have to do my best to follow through."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81291,
+            "TextJPN": "そしてこの子は、最近この手の話をしても『いつ？』とは決して聞かなくなった。",
+            "TextENG": "She was never the type to keep asking ``when?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81292,
+            "TextJPN": "義父母の話だと、『それを聞いたら、私に迷惑をかけるから』と言っていたらしい。",
+            "TextENG": "Apparently, my in-laws told her, ``It's annoying when you ask that.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81293,
+            "TextJPN": "本当に賢くて、優しくて、…私には過ぎた娘だった。",
+            "TextENG": "She's a really smart, really kind girl... and I'm disappointed that I have to spend so much time away from her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81294,
+            "TextJPN": "…………。",
+            "TextENG": "......"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81295,
+            "TextJPN": "しばらく歩くと少し大きな道になり、視界が開ける。そして行く先に、小さな教会が見えてきた。",
+            "TextENG": "After walking for a while, we reached a larger road and were able to see a wider area around us. Then, I spotted a small church off in the direction we were headed."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81296,
+            "NamesJPN": "赤坂",
+            "PreTextTags": "@vS08/13/321001001.",
+            "TextJPN": "「……ほぉ」",
+            "NamesENG": "Akasaka",
+            "TextENG": "``...Wow.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81297,
+            "TextJPN": "白い雪に彩られたその建物は荘厳な雰囲気をかもし出して、敬虔とした気分にさせられる。",
+            "TextENG": "Seeing the building covered in white snow gave it a majestic atmosphere, and gave me a pious feeling."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81298,
+            "TextJPN": "…雪は、全ての俗世のけがれを天へと昇華させる、神の息吹だと誰かが言っていた。",
+            "TextENG": "...Someone once told me that snow was the breath of God, gathering all the world's sorrows into Heaven, then falling from the sky."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81299,
+            "TextJPN": "ならばこの天候は、神が彼女の罪を赦した証なのだと、…私はそう、信じたかった。",
+            "TextENG": "So, this weather was proof that God had forgiven her sin... I wanted to believe that."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81300,
+            "NamesJPN": "千紗登",
+            "PreTextTags": "@vS08/37/320300496.",
+            "TextJPN": "「…あ、赤坂さん！@k@vS08/37/320300497.　こっちです、こっち！」",
+            "NamesENG": "Chisato",
+            "TextENG": "``...Oh, Akasaka-san!@k@vS08/37/320300497. Over here, over here!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81301,
+            "NamesJPN": "赤坂",
+            "PreTextTags": "@vS08/13/321001002.",
+            "TextJPN": "「……？」",
+            "NamesENG": "Akasaka",
+            "TextENG": "``...?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81302,
+            "TextJPN": "その呼びかけに顔を向けると、門の手前に立っていた女性二人が、大きく手を振っているのが見える。",
+            "TextENG": "I turned toward the source of that voice and noticed two women standing in front of the gate, waving vigorously in my direction."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81303,
+            "TextJPN": "一瞬、誰かわからなかったが、…近づくにつれて面影が脳裏に蘇り、思わず笑みがこぼれた。",
+            "TextENG": "For a moment, I wasn't sure who they were... but as I got closer, it all came back to me, and I couldn't help but smile."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81304,
+            "NamesJPN": "千紗登",
+            "PreTextTags": "@vS08/37/320300498.",
+            "TextJPN": "「お久しぶりです、赤坂さん！@k@vS08/37/320300499.　来てくれてありがとうございます」",
+            "NamesENG": "Chisato",
+            "TextENG": "``Long time no see, Akasaka-san!@k@vS08/37/320300499. Thank you for coming.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81305,
+            "NamesJPN": "赤坂",
+            "PreTextTags": "@vS08/13/321001003.",
+            "TextJPN": "「ご無沙汰してます、佐伯さん。@k@vS08/13/321001004.…あ、まだ『佐伯』で良かったんでしょうか？」",
+            "NamesENG": "Akasaka",
+            "TextENG": "``It's been a while, Saeki-san.@k@vS08/13/321001004. ...Oh, would it be alright if I called you ``Saeki`` now?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81306,
+            "NamesJPN": "千紗登",
+            "PreTextTags": "@vS08/37/320300500.",
+            "TextJPN": "「ええ、どっちでも。@k@vS08/37/320300501.なんでしたらエリザベスでも、アントワネットでも私的にはＯＫですよ？」",
+            "NamesENG": "Chisato",
+            "TextENG": "``Sure, whichever.@k@vS08/37/320300501. I'd even be ok if you called me Elizabeth or Antoinette in private, alright?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81307,
+            "NamesJPN": "珠子",
+            "PreTextTags": "@vS08/38/320400155.",
+            "TextJPN": "「…それは名前だ、苗字じゃないっての」",
+            "NamesENG": "Tamako",
+            "TextENG": "``...You're aware that those are first names, not last names, right?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81308,
+            "NamesJPN": "赤坂",
+            "PreTextTags": "@vS08/13/321001005.",
+            "TextJPN": "「あはははは」",
+            "NamesENG": "Akasaka",
+            "TextENG": "``Ahahahaha.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81309,
+            "NamesJPN": "珠子",
+            "PreTextTags": "@vS08/38/320400156.",
+            "TextJPN": "「今日は遠路はるばる、本当にありがとうございます。@k@vS08/38/320400157.雪で電車とかが止まらないかって、ちょっと心配してました」",
+            "NamesENG": "Tamako",
+            "TextENG": "``You've come a long way to be here today, thank you very much.@k@vS08/38/320400157. I was a little worried that the trains would stop running due to the snow.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81310,
+            "NamesJPN": "赤坂",
+            "PreTextTags": "@vS08/13/321001006.",
+            "TextJPN": "「ええ、早めに出て正解でしたよ。@k@vS08/13/321001007.…あ、遅くなりましたが今日はご招待いただきまして、ありがとうございます」",
+            "NamesENG": "Akasaka",
+            "TextENG": "``Yeah, I left early so I didn't have any problems.@k@vS08/13/321001007. ...Oh, even though I'm a little late in saying this, thank you for the invitation.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81311,
+            "NamesJPN": "美雪",
+            "PreTextTags": "@vS08/34/321500074.",
+            "TextJPN": "「ありがとうございます～♪」",
+            "NamesENG": "Miyuki",
+            "TextENG": "``Thank you very much~.♪``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81312,
+            "TextJPN": "私に倣って美雪も、そう言って頭を下げる。それを見て二人は『かわい～☆』と黄色い声を上げながら、しゃがみこんで娘と談笑を始めた。",
+            "TextENG": "Miyuki followed my lead and bowed her head as she said that. When the two of them saw that, they shouted ``cuuute~☆`` in a shrill voice and crouched down to start talking to my daughter."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81313,
+            "NamesJPN": "赤坂",
+            "PreTextTags": "@vS08/13/321001008.",
+            "TextJPN": "「…あ、お二人とは、会えますか？」",
+            "NamesENG": "Akasaka",
+            "TextENG": "``...Oh, would it be alright to see our two guests of honor?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81314,
+            "NamesJPN": "千紗登",
+            "PreTextTags": "@vS08/37/320300502.",
+            "TextJPN": "「ええ、まだ平気です。@k@vS08/37/320300503.今は新郎のほうが走り回って大変みたいだから、先に新婦に会ってあげてください」",
+            "NamesENG": "Chisato",
+            "TextENG": "``Yeah, that should be fine.@k@vS08/37/320300503. The groom is busy running errands at the moment, so you should go see the bride first.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81315,
+            "NamesJPN": "赤坂",
+            "PreTextTags": "@vS08/13/321001009.",
+            "TextJPN": "「わかりました。えっと…」",
+            "NamesENG": "Akasaka",
+            "TextENG": "``Understood. Uh...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81316,
+            "NamesJPN": "珠子",
+            "PreTextTags": "@vS08/38/320400158.",
+            "TextJPN": "「ああ、娘さんなら私たちが。@k@vS08/38/320400159.…えっと、お名前なんて言うの？」",
+            "NamesENG": "Tamako",
+            "TextENG": "``Aah, we can watch your little girl for you.@k@vS08/38/320400159. ...Uh, can you tell me your name?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81317,
+            "NamesJPN": "美雪",
+            "PreTextTags": "@vS08/34/321500075.",
+            "TextJPN": "「えっと、…赤坂、美雪、です」",
+            "NamesENG": "Miyuki",
+            "TextENG": "``Umm... I'm Miyuki Akasaka.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81318,
+            "NamesJPN": "珠子",
+            "PreTextTags": "@vS08/38/320400160.",
+            "TextJPN": "「あははは、偉いえらい♪@k@vS08/38/320400161.　じゃあ美雪ちゃん、お姉ちゃんたちとあっちで、雪だるま作ろっか？」",
+            "NamesENG": "Tamako",
+            "TextENG": "``Ahahaha, nicely done.♪@k@vS08/38/320400161. Well Miyuki-chan, do you want to go make a snowman with us?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81319,
+            "NamesJPN": "美雪",
+            "PreTextTags": "@vS08/34/321500076.",
+            "TextJPN": "「わーいっ♪」",
+            "NamesENG": "Miyuki",
+            "TextENG": "``Yaaay.♪``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81320,
+            "TextJPN": "そう言って二人は、美雪とともに庭のほうへと歩いていく。",
+            "TextENG": "After that exchange, the two of them walked to the garden with Miyuki."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81321,
+            "TextJPN": "…二人の気遣いに感謝して、私は教会の中へと入っていった。",
+            "TextENG": "...I thanked the two of them for taking care of her, then made my way to the church."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81322,
+            "NamesJPN": "夏美",
+            "PreTextTags": "@vS08/36/320100638.",
+            "TextJPN": "「…どうぞ」",
+            "NamesENG": "Natsumi",
+            "TextENG": "``...Come in.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81323,
+            "TextJPN": "室内から小さな鈴を転がすような声が聞こえて、私はドアを開ける。",
+            "TextENG": "I heard a gentle voice and a bell from inside the room beckoning me, so I opened the door."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81324,
+            "TextJPN": "…彼女は一人ぽつんと窓際の席に座っていたが、私の顔を見るなりぱっ、と明るい笑顔を浮かべて立ち上がった。",
+            "TextENG": "...She was sitting alone by the windowsill, but as soon as she saw my face she stood up with a bright smile."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81325,
+            "NamesJPN": "夏美",
+            "PreTextTags": "@vS08/36/320100639.",
+            "TextJPN": "「…あ、赤坂さん！@k@vS08/36/320100640.　来てくださったんですか？」",
+            "NamesENG": "Natsumi",
+            "TextENG": "``...Oh, Akasaka-san!@k@vS08/36/320100640. So you were able to come after all?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81326,
+            "NamesJPN": "赤坂",
+            "PreTextTags": "@vS08/13/321001010.",
+            "TextJPN": "「ええ、ご無沙汰して申し訳ありません。@k@vS08/13/321001011.今日はご招待いただきありがとうございます。@k@vS08/13/321001012.…いや、おめでとうございます、かな？」",
+            "NamesENG": "Akasaka",
+            "TextENG": "``Yes, sorry for not keeping in touch.@k@vS08/13/321001011. Thank you for inviting me here today.@k@vS08/13/321001012. ...No, I guess I should be saying congratulations?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81327,
+            "NamesJPN": "夏美",
+            "PreTextTags": "@vS08/36/320100641.",
+            "TextJPN": "「…あは、ありがとうございます」",
+            "NamesENG": "Natsumi",
+            "TextENG": "``...Ahah, thank you very much.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81328,
+            "TextJPN": "そして彼女は、『どうぞ』と言って空いた椅子のひとつに私を促す。",
+            "TextENG": "Then, she pointed to one of the empty chairs and said, ``Please have a seat.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81329,
+            "NamesJPN": "夏美",
+            "PreTextTags": "@vS08/36/320100642.",
+            "TextJPN": "「暁くんも、もうすぐ戻ってくると思います。@k@vS08/36/320100643.彼も、赤坂さんには会いたがっていましたから」",
+            "NamesENG": "Natsumi",
+            "TextENG": "``I think Akira-kun will be back soon.@k@vS08/36/320100643. He wanted to see you too, Akasaka-san.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81330,
+            "NamesJPN": "赤坂",
+            "PreTextTags": "@vS08/13/321001013.",
+            "TextJPN": "「それは嬉しいですね。@k@vS08/13/321001014.…あいにく大石さんは、ちょっと体調を崩されたらしくて。@k@vS08/13/321001015.とても残念がっていました。@k@vS08/13/321001016.あなたたちにはくれぐれもよろしく、と言伝を預かっています」",
+            "NamesENG": "Akasaka",
+            "TextENG": "``I'm glad to hear that.@k@vS08/13/321001014. ...Unfortunately, Ooishi-san is feeling a little under the weather.@k@vS08/13/321001015. He's really sorry about that.@k@vS08/13/321001016. But he asked me to give you all his best regards.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81331,
+            "NamesJPN": "夏美",
+            "PreTextTags": "@vS08/36/320100644.",
+            "TextJPN": "「そうですか。@k@vS08/36/320100645.…残念ですが、仕方ないですよね。@k@vS08/36/320100646.あとでお手紙を送ります」",
+            "NamesENG": "Natsumi",
+            "TextENG": "``I see.@k@vS08/36/320100645. ...That's unfortunate, but I suppose it can't be helped.@k@vS08/36/320100646. I'll send him a letter later.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81332,
+            "NamesJPN": "赤坂",
+            "PreTextTags": "@vS08/13/321001017.",
+            "TextJPN": "「……」",
+            "NamesENG": "Akasaka",
+            "TextENG": "``......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81333,
+            "NamesJPN": "夏美",
+            "PreTextTags": "@vS08/36/320100647.",
+            "TextJPN": "「……」",
+            "NamesENG": "Natsumi",
+            "TextENG": "``......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81334,
+            "TextJPN": "ふと、私と新婦…夏美さんは同時に窓の外に目を向けて、雪景色を見る。",
+            "TextENG": "Suddenly... Natsumi-san and I turned our eyes out the window at the same time and enjoyed the snowy scenery."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81335,
+            "TextJPN": "そこから見える庭には、佐伯さんと珠子さんと一緒に遊ぶ美雪の姿があった。",
+            "TextENG": "From here, we could see Saeki-san and Tamako-san playing with Miyuki in the garden."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81336,
+            "NamesJPN": "夏美",
+            "PreTextTags": "@vS08/36/320100648.",
+            "TextJPN": "「…お子さんですか？」",
+            "NamesENG": "Natsumi",
+            "TextENG": "``...Is that your daughter?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81337,
+            "NamesJPN": "赤坂",
+            "PreTextTags": "@vS08/13/321001018.",
+            "TextJPN": "「ええ。@k@vS08/13/321001019.すみません、予定にはなかったのですが…どうしても一緒に行きたいと聞かなかったもので」",
+            "NamesENG": "Akasaka",
+            "TextENG": "``Yes.@k@vS08/13/321001019. I'm sorry, I know she wasn't on the invitation... but I couldn't leave her behind.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81338,
+            "NamesJPN": "夏美",
+            "PreTextTags": "@vS08/36/320100649.",
+            "TextJPN": "「あはは、全然気にしないで下さい。@k@vS08/36/320100650.…気にする人なんて、いませんから」",
+            "NamesENG": "Natsumi",
+            "TextENG": "``Ahahaha, don't worry, I don't mind at all.@k@vS08/36/320100650. ...There aren't a lot of people here that would.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81339,
+            "NamesJPN": "赤坂",
+            "PreTextTags": "@vS08/13/321001020.",
+            "TextJPN": "「…私の他には、誰が？」",
+            "NamesENG": "Akasaka",
+            "TextENG": "``...So, who else is here besides me?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81340,
+            "NamesJPN": "夏美",
+            "PreTextTags": "@vS08/36/320100651.",
+            "TextJPN": "「式の参列者は、千紗登ちゃんと珠子ちゃんだけです。@k@vS08/36/320100652.あとは、…いません。@k@vS08/36/320100653.暁くんのご両親も、彼が気を遣って…」",
+            "NamesENG": "Natsumi",
+            "TextENG": "``Chisato-chan and Tamako-chan are attending.@k@vS08/36/320100652. Aside from that... nobody.@k@vS08/36/320100653. Akira-kun's parents said they were too worried to attend...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81341,
+            "NamesJPN": "赤坂",
+            "PreTextTags": "@vS08/13/321001021.",
+            "TextJPN": "「…そうですか」",
+            "NamesENG": "Akasaka",
+            "TextENG": "``...I see.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81342,
+            "TextJPN": "それ以上の詳細は、聞かなくてもわかる。",
+            "TextENG": "I was able to understand what she was implying without asking any other details."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81343,
+            "TextJPN": "新郎が親族を呼べば、当然新婦も、となる。…しかし、彼女にはもう誰もいない。本人たちはもう既知のことだとしても、新婦の肩身の狭さを慮ってのことだろう。",
+            "TextENG": "Normally, the groom calls on the relatives to unite the family. ...However, there was nobody left in the bride's immediate family. And the groom's relatives were probably already familiar with the bride's poor public reputation."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81344,
+            "TextJPN": "まして、新婦が親族を呼ぶことは難しい。なぜなら来た人間は皆、…雛見沢の出身者ということになるからだ。",
+            "TextENG": "And of course, it would be difficult for the bride to call on her distant relatives. Because anyone who came... would be from Hinamizawa."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81345,
+            "NamesJPN": "夏美",
+            "PreTextTags": "@vS08/36/320100654.",
+            "TextJPN": "「暁くんたちは絶対に言いませんけど、…私、知ってるんです。@k@vS08/36/320100655.今日の式のことで、私がご両親にご挨拶にうかがう前、…暁くん、ご両親と絶縁寸前まで大喧嘩したんです」",
+            "NamesENG": "Natsumi",
+            "TextENG": "``Akira-kun and his family will never say it... but I know.@k@vS08/36/320100655. Akira-kun called his parents before the ceremony today... and they argued the entire time.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81346,
+            "NamesJPN": "夏美",
+            "PreTextTags": "@vS08/36/320100656.",
+            "TextJPN": "「ずいぶん時間をかけて、説得してくれたんですよ。@k@vS08/36/320100657.それも暁くんだけじゃなく、千紗登ちゃんも、珠子ちゃんも必死になって駆けずり回って、協力してくれて…」",
+            "NamesENG": "Natsumi",
+            "TextENG": "``It took a long time to make this happen.@k@vS08/36/320100657. And not just Akira-kun. Chisato-chan and Tamako-chan have been desperately running around and helping out...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81347,
+            "NamesJPN": "赤坂",
+            "PreTextTags": "@vS08/13/321001022.",
+            "TextJPN": "「…そうですか」",
+            "NamesENG": "Akasaka",
+            "TextENG": "``...I see.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81348,
+            "TextJPN": "…あの事件が起こってから、およそ５年の歳月が流れていた。",
+            "TextENG": "...About five years have passed since the incident."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81349,
+            "TextJPN": "公由夏美は、友人たちに伴われて垣内署に出頭し、逮捕。",
+            "TextENG": "Natsumi Kimiyoshi voluntarily came to Kakiuchi Station with her friends and turned herself in."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81350,
+            "TextJPN": "その後に開かれた裁判では精神鑑定の結果、…彼女には責任能力に著しい欠損が見られるとの報告が医師より提出された。",
+            "TextENG": "In the subsequent trial, the results of her psychiatric examination came out... A doctor submitted a report stating that her judgment was impaired by her mental illness."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81351,
+            "TextJPN": "あらかじめ、南井警部が薬剤について調査をかけていたことが、裁判官や検事たちに精神面での情状酌量に大きな貢献を果たしてくれた。",
+            "TextENG": "Thankfully, they were able to make great use of all the work Chief Inspector Minai put into researching her medication, so they were able to convince the prosecutors of her mental condition."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81352,
+            "TextJPN": "また、友人たちの懸命な弁護もあり、公由夏美には『無罪』の判決が下された――。",
+            "TextENG": "Plus, her friends offered testimony in her defense. As a result, Natsumi Kimiyoshi was declared ``not guilty`` in the eyes of the court..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81353,
+            "TextJPN": "…………。",
+            "TextENG": "....."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81354,
+            "TextJPN": "それでも、すべてが元通りというわけにはいかなかった。",
+            "TextENG": "Even so, not everything could be restored."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81355,
+            "TextJPN": "殺人という犯罪の経歴はどう隠して取り繕うとも公由夏美に付きまとい、元の町では住めなくなった彼女は遠い、人里離れた町へと移り住むこととなった。",
+            "TextENG": "The fact that she committed murder and tried to hide it was permanently attached to Natsumi Kimiyoshi's reputation. It became impossible to live in her old town, so she moved to a distant, secluded town."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81356,
+            "TextJPN": "ただ、…幸運なことに彼女は『一人』ではなかった――。",
+            "TextENG": "And... fortunately, she didn't move there <i>alone</i>..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81357,
+            "TextJPN": "それから公由夏美は精神科への入院と、それこそ血のにじむような治療…カウンセリングに、投薬、リハビリ訓練を数年にわたって続けた。",
+            "TextENG": "After that, Natsumi Kimiyoshi was admitted to a psychiatric hospital and given treatment so intense it was like being bled... The counseling, medication, and rehabilitation continued for several years."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81358,
+            "TextJPN": "そこに今の新郎…藤堂暁と、二人の友人たちの尽力があったことは言うまでもない。",
+            "TextENG": "It goes without saying... she received a lot of support from her two friends, and the groom Akira Toudou."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81359,
+            "TextJPN": "おそらく、順風満帆な日々ではなかっただろう。…言葉で語る年月以上の苦労があったと容易に推察できる。",
+            "TextENG": "I'm sure it wasn't smooth sailing. ...It can't be easy to talk about all the hardship she suffered over the years."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81360,
+            "TextJPN": "しかし、それでも彼女は頑張った。",
+            "TextENG": "But even so, she did her best."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81361,
+            "TextJPN": "そして、今日のよき日をついに、迎えることができたのだ…。",
+            "TextENG": "And finally, she was able to meet him like this today..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81362,
+            "NamesJPN": "夏美",
+            "PreTextTags": "@vS08/36/320100658.",
+            "TextJPN": "「少し前まで、…私、ずっと死ぬことばかり考えていました」",
+            "NamesENG": "Natsumi",
+            "TextENG": "``A long time ago... all I ever thought about was dying.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81363,
+            "NamesJPN": "赤坂",
+            "PreTextTags": "@vS08/13/321001023.",
+            "TextJPN": "「……」",
+            "NamesENG": "Akasaka",
+            "TextENG": "``......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81364,
+            "NamesJPN": "夏美",
+            "PreTextTags": "@vS08/36/320100659.",
+            "TextJPN": "「自分の家族を、殺して…自分の友達や恋人の人生、めちゃくちゃにして…。@k@vS08/36/320100660.私に、生きてる資格はあるのかな、って。@k@vS08/36/320100661.まして、幸せになるなんてこと、…私には…」",
+            "NamesENG": "Natsumi",
+            "TextENG": "``Killing my family... trying to take the lives of my friends and the man I loved...@k@vS08/36/320100660. I questioned if I truly deserved to be alive.@k@vS08/36/320100661. But more than that... I wanted to be happy...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81365,
+            "NamesJPN": "赤坂",
+            "PreTextTags": "@vS08/13/321001024.",
+            "TextJPN": "「…公由さん。@k@vS08/13/321001025.あ、いや…」",
+            "NamesENG": "Akasaka",
+            "TextENG": "``...Kimiyoshi-san.@k@vS08/13/321001025. Ah, no...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81366,
+            "TextJPN": "思わず口にした呼び間違いに気付き、私は迷って言いよどむ。と、",
+            "TextENG": "I quickly noticed my error and suddenly stopped myself. Then,"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81367,
+            "NamesJPN": "夏美",
+            "PreTextTags": "@vS08/36/320100662.",
+            "TextJPN": "「…藤堂、夏美。@k@vS08/36/320100663.この名前、…たぶん一生、慣れないと思います。@k@vS08/36/320100664.だけど…」",
+            "NamesENG": "Natsumi",
+            "TextENG": "``...Natsumi Toudou.@k@vS08/36/320100663. That name... might take a lifetime to get used to.@k@vS08/36/320100664. However...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81368,
+            "TextJPN": "そして公由――藤堂夏美は、顔を上げて私を見る。",
+            "TextENG": "Then, Natsumi Kimiyo... Toudou raised her head to look up at me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81369,
+            "TextJPN": "その表情にはまだ、多くの憂いと迷いがあったが、…それでも彼女は、笑った。",
+            "TextENG": "I could still see the grief in her expression... but even so, she smiled."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81370,
+            "TextJPN": "少なくとも、笑おうとしていた…。",
+            "TextENG": "At least, she tried to smile..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81371,
+            "NamesJPN": "夏美",
+            "PreTextTags": "@vS08/36/320100665.",
+            "TextJPN": "「…死ねませんよね」",
+            "NamesENG": "Natsumi",
+            "TextENG": "``...I can't die.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81372,
+            "NamesJPN": "赤坂",
+            "PreTextTags": "@vS08/13/321001026.",
+            "TextJPN": "「……？」",
+            "NamesENG": "Akasaka",
+            "TextENG": "``...?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81373,
+            "NamesJPN": "夏美",
+            "PreTextTags": "@vS08/36/320100666.",
+            "TextJPN": "「こんなにも、私のことを大切に想ってくれる人がいて…。@k@vS08/36/320100667.それなのに、自分だけ楽な道を選ぶなんてこと、…絶対に、できない。@k@vS08/36/320100668.しちゃいけないと思います」",
+            "NamesENG": "Natsumi",
+            "TextENG": "``Because there are people out there who care so much about me...@k@vS08/36/320100667. So, I can't choose to take the easy path... absolutely not.@k@vS08/36/320100668. I don't think that's an option.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81374,
+            "NamesJPN": "赤坂",
+            "PreTextTags": "@vS08/13/321001027.",
+            "TextJPN": "「……」",
+            "NamesENG": "Akasaka",
+            "TextENG": "``......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81375,
+            "NamesJPN": "夏美",
+            "PreTextTags": "@vS08/36/320100669.",
+            "TextJPN": "「だから、私…これ以上幸せにはなれなくてもいい。@k@vS08/36/320100670.だって、もう今が幸せなんだから」",
+            "NamesENG": "Natsumi",
+            "TextENG": "``So... I don't think I'll ever be any happier than this.@k@vS08/36/320100670. But that's ok, because I'm happy right now.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81376,
+            "NamesJPN": "夏美",
+            "PreTextTags": "@vS08/36/320100671.",
+            "TextJPN": "「その分、誰かの…私のことを想ってくれる人のために、幸せのお手伝いをしたい。@k@vS08/36/320100672.今はそう、…思っています」",
+            "NamesENG": "Natsumi",
+            "TextENG": "``And for the people who care about me... I'd like to do what I can to make them happy.@k@vS08/36/320100672. Right now... that's what I'm thinking about.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81377,
+            "NamesJPN": "赤坂",
+            "PreTextTags": "@vS08/13/321001028.",
+            "TextJPN": "「……。@k@vS08/13/321001029.ええ、それでいいと思います。@k@vS08/13/321001030.あなたは、…まだ、生きるべきなんです」",
+            "NamesENG": "Akasaka",
+            "TextENG": "``......@k@vS08/13/321001029. Yes, I think that sounds good.@k@vS08/13/321001030. You... should continue to live your life.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81378,
+            "NamesJPN": "夏美",
+            "PreTextTags": "@vS08/36/320100673.",
+            "TextJPN": "「…ありがとうございます」",
+            "NamesENG": "Natsumi",
+            "TextENG": "``...Thank you.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81379,
+            "TextJPN": "私の言葉を聞いて、夏美は目に浮かんだ涙を拭った。そして、",
+            "TextENG": "As she listened to my words, Natsumi wiped the tears from her eyes. Then,"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81380,
+            "NamesJPN": "夏美",
+            "PreTextTags": "@vS08/36/320100674.",
+            "TextJPN": "「…伝えたかったな」",
+            "NamesENG": "Natsumi",
+            "TextENG": "``...I wanted to tell her.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81381,
+            "NamesJPN": "赤坂",
+            "PreTextTags": "@vS08/13/321001031.",
+            "TextJPN": "「え…？」",
+            "NamesENG": "Akasaka",
+            "TextENG": "``Huh...?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81382,
+            "NamesJPN": "夏美",
+            "PreTextTags": "@vS08/36/320100675.",
+            "TextJPN": "「私を強く励ましてくれた、あの刑事さんに、…今の気持ちを。@k@vS08/36/320100676.それだけが、…私の心残りです」",
+            "NamesENG": "Natsumi",
+            "TextENG": "``I wanted the detective who encouraged me so strongly... to understand how I feel right now.@k@vS08/36/320100676. That... is my greatest regret.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81383,
+            "TextJPN": "やがて、ささやかな式が教会の礼拝堂でとり行われた。",
+            "TextENG": "Later, a small ceremony was conducted in the chapel."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81384,
+            "TextJPN": "神父は聖書を手に、祝いの言葉を厳かに告げてゆく。",
+            "TextENG": "The priest held the Bible in his hand as he delivered his speech."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81385,
+            "TextJPN": "それを見守る参列者は、友人二人と、私たち親子のみ。",
+            "TextENG": "The only people watching were her two friends, my daughter, and I."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81386,
+            "TextJPN": "傍目から見れば、きっと寂しい光景だろう。…それでも、この場に居合わせる幸運に預かった私には、これ以上ない幸せな空気を肌に感じ取っていた。",
+            "TextENG": "Thinking about it that way, it seemed like a lonely affair. ...Even so, I felt fortunate to be in attendance, as I could feel the happiness in the air clinging to my entire body."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81387,
+            "NamesJPN": "神父",
+            "PreTextTags": "@vS08/00/VT2B_shinp1001.",
+            "TextJPN": "「…では、誓いの指輪の交換を」",
+            "NamesENG": "Priest",
+            "TextENG": "``...Now, please exchange the rings and say your vows.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81388,
+            "TextJPN": "神父の宣言を受けて、新郎は緊張した面持ちで指輪を手に取る。そしてそれを、生涯の伴侶と誓った女の子の左手の、薬指へと導いていく。",
+            "TextENG": "After the priest's declaration, the groom looked nervous as he pulled out the ring. Then, he slid it onto her ring finger as he swore to spend the rest of his life with her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81389,
+            "NamesJPN": "夏美",
+            "PreTextTags": "@vS08/36/320100677.",
+            "TextJPN": "「……」",
+            "NamesENG": "Natsumi",
+            "TextENG": "``......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81390,
+            "TextJPN": "そんな彼の様子を、夏美はじっと見つめている。",
+            "TextENG": "Natsumi gazed into him in that moment."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81391,
+            "TextJPN": "怖いような。",
+            "TextENG": "Was she afraid?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81392,
+            "TextJPN": "悲しいような。",
+            "TextENG": "Was she sad?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81393,
+            "TextJPN": "戸惑いと、罪悪感、そして不安の入り混じった震えを、かすかに口元に浮かべながら。",
+            "TextENG": "She trembled in embarrassment, guilt and excitement as she faintly began moving her mouth to speak."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81394,
+            "NamesJPN": "夏美",
+            "PreTextTags": "@vS08/36/320100678.",
+            "TextJPN": "「……暁くん…」",
+            "NamesENG": "Natsumi",
+            "TextENG": "``...Akira-kun...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81395,
+            "TextJPN": "それでも、…夏美は懸命に、笑った。",
+            "TextENG": "Still... Natsumi pushed herself to smile."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81396,
+            "TextJPN": "優しく自分を包み込んでくれる、恋人のために。",
+            "TextENG": "They gently embraced each other as lovers."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81397,
+            "TextJPN": "手を引いて、背中を押し続けてくれた、友人たちのために。",
+            "TextENG": "Then, still holding hands, she pulled back to face her friends."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81398,
+            "TextJPN": "自分を励まし、祝福してくれる人たちのために、…彼女は、精一杯の笑顔を見せていた。",
+            "TextENG": "For the people who encouraged and supported her... she quickly flashed them a genuine smile."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81399,
+            "NamesJPN": "赤坂",
+            "PreTextTags": "@vS08/13/321001032.",
+            "TextJPN": "「変わってしまった彼女の世界は、とても残酷なものだけど…」",
+            "NamesENG": "Akasaka",
+            "TextENG": "``Her world has changed... It's still very cruel, but...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81400,
+            "NamesJPN": "美雪",
+            "PreTextTags": "@vS08/34/321500077.",
+            "TextJPN": "「え？」",
+            "NamesENG": "Miyuki",
+            "TextENG": "``Huh?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81401,
+            "NamesJPN": "赤坂",
+            "PreTextTags": "@vS08/13/321001033.",
+            "TextJPN": "「――希望は、ある。絶対に…」",
+            "NamesENG": "Akasaka",
+            "TextENG": "``...There is still hope. I'm certain of that...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81402,
+            "NamesJPN": "美雪",
+            "PreTextTags": "@vS08/34/321500078.",
+            "TextJPN": "「……？」",
+            "NamesENG": "Miyuki",
+            "TextENG": "``...?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81403,
+            "TextJPN": "そんな私の顔を、美雪はきょとん、とした表情で見上げている。",
+            "TextENG": "Miyuki was staring at me with a vacant expression, so I turned to face her with a look of determination."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81404,
+            "TextJPN": "…いつか私も、この子をこうして見送る日を迎えるのだろう。",
+            "TextENG": "...I guess a day will come when I have to see this girl off, too."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81405,
+            "TextJPN": "その時はきっと、…笑顔で送り出してやりたい。",
+            "TextENG": "When that day comes... I hope I can send her off with a smile."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81406,
+            "TextJPN": "そして、その来るべき日に娘が、心からの笑顔を浮かべることができるように精一杯幸せな日々と思い出をはぐくんでやりたい。",
+            "TextENG": "And when that day comes, I hope my daughter will have enough memories of happy days to be able to smile like this from the bottom of her heart."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 81407,
+            "TextJPN": "そう、私は心に決めながら、目の前で想いを通じ合うふたりをあたたかな思いで見守っていた…。",
+            "TextENG": "Yes, that's what I decided, as the warm sentiment of the two people in front of me carried through to me..."
+        }
+    ]
+}

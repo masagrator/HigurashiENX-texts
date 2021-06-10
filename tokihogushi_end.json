@@ -1,0 +1,1642 @@
+{
+    "Main": [
+        {
+            "type": "SAVEINFO",
+            "category": 1,
+            "JPN": "END (再戦)",
+            "ENG": "END (Rematch)"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114010,
+            "NamesJPN": "藤田",
+            "PreTextTags": "@vS11/31/421200091.",
+            "TextJPN": "「…結局、合同捜査本部には何の進展もなし、か」",
+            "NamesENG": "Fujita",
+            "TextENG": "``...In the end, no progress was made on the joint investigation with HQ, huh?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114011,
+            "NamesJPN": "花田",
+            "PreTextTags": "@vS11/32/VT3B_hanada2001.",
+            "TextJPN": "「岡部の野郎はカリカリきてるみたいだぜ。@k@vS11/32/VT3B_hanada2002.これで２本、自分のところで県警本部の世話役を抱え込んでるからな。@k@vS11/32/VT3B_hanada2003.他のヤマが全然回りきれてなくて、この間秦副署長からお叱りをいただいたってさ」",
+            "NamesENG": "Hanada",
+            "TextENG": "``That bastard Okabe seems pretty on edge.@k@vS11/32/VT3B_hanada2002. Because now he's saddled with two mediators from prefectural HQ here.@k@vS11/32/VT3B_hanada2003. The others couldn't stop running in circles, so he had to receive a chat from Deputy Chief Hata.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114012,
+            "NamesJPN": "藤田",
+            "PreTextTags": "@vS11/31/421200092.",
+            "TextJPN": "「はっ、いい気味だよ。@k@vS11/31/421200093.身の程を知れってんだ」",
+            "NamesENG": "Fujita",
+            "TextENG": "``Hah, serves 'em right.@k@vS11/31/421200093. They should know their place.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114013,
+            "TextJPN": "何しろ、裏を取ろうにも手がかりになりそうなものは現場からも発見できず、犯人像すら浮かんでこない。",
+            "TextENG": "After all that, they couldn't find anything resembling a clue at the crime scene, and they didn't even have a profile on the culprit."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114014,
+            "TextJPN": "変質者や同級生のラインを探っても、全くのなしのつぶてだ。",
+            "TextENG": "Even searching through lists of classmates and known degenerates, they couldn't find anything at all."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114015,
+            "TextJPN": "おそらく迷宮入りは間違いないだろうと、現場の士気も下がる一方とのことだった。",
+            "TextENG": "There was almost no doubt that the case would go unsolved, so the morale in the field was on the decline."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114016,
+            "TextJPN": "…………。",
+            "TextENG": "......"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114017,
+            "NamesJPN": "藤田",
+            "PreTextTags": "@vS11/31/421200094.",
+            "TextJPN": "「そういや、あれからあの人……。今頃どうしてるかな」",
+            "NamesENG": "Fujita",
+            "TextENG": "``Oh yeah, about you-know-who... How do you think she's doing now?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114018,
+            "NamesJPN": "花田",
+            "PreTextTags": "@vS11/32/VT3B_hanada2004.",
+            "TextJPN": "「なんだ、藤田。@k@vS11/32/VT3B_hanada2005.お前、惚れたのか？」",
+            "NamesENG": "Hanada",
+            "TextENG": "``What's that, Fujita?@k@vS11/32/VT3B_hanada2005. Do you have a crush on her?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114019,
+            "NamesJPN": "藤田",
+            "PreTextTags": "@vS11/31/421200095.",
+            "TextJPN": "「バカ、違うよ。@k@vS11/31/421200096.広報室なんかに飛ばされて、腐って辞めちまってるんじゃないかって、@k@vS11/31/421200097.…それが心配でさ」",
+            "NamesENG": "Fujita",
+            "TextENG": "``You moron, that's not it.@k@vS11/31/421200096. She was sent off to the public relations office. I wonder if things went rotten and she had to quit?@k@vS11/31/421200097. ...That's what I'm worried about.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114020,
+            "TextJPN": "実際、あれだけ優秀な刑事は警察庁や警視庁にもなかなかいないだろう、と藤田は思っている。",
+            "TextENG": "In fact, Fujita couldn't believe that another detective that capable would ever come out of the National Police Agency or the Metropolitan police department."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114021,
+            "TextJPN": "年齢や性別を抜きにして、彼女の並外れた行動力と分析力は彼が今まで一緒に仕事をした中でも、トップクラスの上司だった。",
+            "TextENG": "Her extraordinary work ethic and analytical capability were far above anyone he'd ever worked with, regardless of age or gender."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114022,
+            "TextJPN": "それに、もし彼女が例の捜査本部に参加していたら持ち前の行動力と分析力をフルに活かして、犯人像の絞り出しにひとつの方向性を出していたかもしれない。",
+            "TextENG": "And if she had taken part in this joint investigation, maybe she would've been able to make full use of her abilities to squeeze out a profile on the criminal."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114023,
+            "TextJPN": "少なくとも、藤田たちがそう信じられるだけのものが、巴にはあったのだ。",
+            "TextENG": "At the very least, Fujita and the others believed that Tomoe was capable of it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114024,
+            "NamesJPN": "藤田",
+            "PreTextTags": "@vS11/31/421200098.",
+            "TextJPN": "「なんかあれ以来、一課って気が抜けたような感じじゃないか。@k@vS11/31/421200099.山村さんが悪いわけじゃないけど、やっぱ違ってたよなぁ」",
+            "NamesENG": "Fujita",
+            "TextENG": "``The First Division seems like it's been on a decline since then, hasn't it?@k@vS11/31/421200099. Not to say that Yamamura-san is doing a bad job, but it's definitely not the same.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114025,
+            "NamesJPN": "花田",
+            "PreTextTags": "@vS11/32/VT3B_hanada2006.",
+            "TextJPN": "「…そうだな」",
+            "NamesENG": "Hanada",
+            "TextENG": "``...That's true.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114026,
+            "TextJPN": "藤田の感想に、隣で座っていた同期の花田史郎も同意する。",
+            "TextENG": "Shirou Hanada agreed with Fujita's assessment, while sitting next to him."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114027,
+            "TextJPN": "なにしろ、捜査方針が非常に明快でわかりやすかったので、確証もなく直感で走り回っていた頃とは手応えが段違いだった。",
+            "TextENG": "After all, her investigation policies were clear and easy to understand, as opposed to running around based on intuition without any tangible confirmation."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114028,
+            "TextJPN": "もちろん、たまたま巴の分析に合致するような事件と結果に恵まれていた、という幸運も否定はできない。",
+            "TextENG": "Of course, they couldn't deny that it was fortunate the incidents they investigated were consistent with Tomoe's analytical methodology."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114029,
+            "TextJPN": "それでも、その運を引き寄せる力を持った人間は、確かに存在する。それもまた、実力のひとつだった。",
+            "TextENG": "Still, there are people out there with the power to make their own luck. That too was one of her strengths."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114030,
+            "NamesJPN": "藤田",
+            "PreTextTags": "@vS11/31/421200100.",
+            "TextJPN": "「ま、警察みたいなセクショナリズムの社会に、ああいう破天荒な女性は合わなかったってことだろうさ。@k@vS11/31/421200101.…勿体無い話だけどさ」",
+            "NamesENG": "Fujita",
+            "TextENG": "``Well, I suppose such a groundbreaking woman wasn't a good fit for an organization as factionalized as the police force.@k@vS11/31/421200101. ...What a waste.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114031,
+            "NamesJPN": "？？？",
+            "PreTextTags": "@vS11/28/420101377.",
+            "TextJPN": "「…誰が、破天荒だって？」",
+            "NamesENG": "???",
+            "TextENG": "``...And who is this groundbreaking woman?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114032,
+            "NamesJPN": "藤田＆花田",
+            "PreTextTags": "@o75.@vS11/31/421200102|S11/32/VT3B_hanada2006_1.",
+            "TextJPN": "「「えっっ…？！」」",
+            "NamesENG": "Fujita & Hanada",
+            "TextENG": "````Huh...?!````"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114033,
+            "TextJPN": "突然、背後から声をかけられて、藤田と花田は同時に飛び上がって驚く。",
+            "TextENG": "Fujita and Hanada jumped in surprise when they suddenly heard a voice calling from behind."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114034,
+            "TextJPN": "そして、振り返った先に立っていたのは――。",
+            "TextENG": "And when they looked back, the person standing before them was..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114035,
+            "NamesJPN": "藤田",
+            "PreTextTags": "@vS11/31/421200103.",
+            "TextJPN": "「み、…南井さんっ？」",
+            "NamesENG": "Fujita",
+            "TextENG": "``M... Minai-san?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114036,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101378.",
+            "TextJPN": "「なによ、幽霊でも見たような顔をして。@k@vS11/28/420101379.足はちゃんとあるわよ」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``What's the deal? You look like you've seen a ghost.@k@vS11/28/420101379. Look, I have legs.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114037,
+            "NamesJPN": "藤田",
+            "PreTextTags": "@vS11/31/421200104.",
+            "TextJPN": "「い、いやそうじゃなくって！@k@vS11/31/421200105.　なんで、ここに？！」",
+            "NamesENG": "Fujita",
+            "TextENG": "``N-no, that's not it!@k@vS11/31/421200105. What are you doing here?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114038,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101380.",
+            "TextJPN": "「別に、警察官がここを訪れるのは変じゃないでしょ？@k@vS11/28/420101381.　なんかおかしい？」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``Is it really so unusual for a police officer to be visiting here?@k@vS11/28/420101381. What's odd about that?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114039,
+            "TextJPN": "確かに、広報室勤務とはいえ警察官の巴が垣内署に来てもおかしいわけではない。",
+            "TextENG": "Indeed, even though Tomoe worked for the public relations office, she was still a police officer so it wasn't that unusual for her to come to Kakiuchi Station."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114040,
+            "TextJPN": "しかし、…この人の性格から考えて『遊びに来ました～』なんてことは絶対にないだろう。",
+            "TextENG": "Although... knowing her character, she wasn't the type to say, ``I just came to say hi~.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114041,
+            "TextJPN": "とすると、つまり…？",
+            "TextENG": "So, what was the meaning of this...?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114042,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101382.",
+            "TextJPN": "「藤田くん、花田くん。@k@vS11/28/420101383.さっそくだけど、二人にもまた、アシやってもらうわよ？」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``Fujita-kun, Hanada-kun.@k@vS11/28/420101383. I know this is sudden, but would the two of you lend me your aid once again?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114043,
+            "NamesJPN": "藤田",
+            "PreTextTags": "@vS11/31/421200106.",
+            "TextJPN": "「え…？」",
+            "NamesENG": "Fujita",
+            "TextENG": "``Huh...?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114044,
+            "NamesJPN": "花田",
+            "PreTextTags": "@vS11/32/VT3B_hanada2007.",
+            "TextJPN": "「じゃ、じゃあ…？」",
+            "NamesENG": "Hanada",
+            "TextENG": "``T-then you mean...?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114045,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101384.",
+            "TextJPN": "「…と、その前に山村課長ね。@k@vS11/28/420101385.ああ、もっと前にあんにゃろうのところにも行かなきゃ。@k@vS11/28/420101386.あとは…」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``...Oh, before that I'll have to talk to Section Chief Yamamura.@k@vS11/28/420101385. Right, I should have gone to him earlier.@k@vS11/28/420101386. Also...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114046,
+            "TextJPN": "…………。",
+            "TextENG": "......"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114047,
+            "TextJPN": "そして、もはや命令される立場でもないはずなのに、藤田と花田は巴の『お願い』を受けるや『は、はいっ！』と応えて、そそくさと駆け出してゆく。",
+            "TextENG": "And even though Tomoe was no longer in a position to order them around anymore, Fujita and Hanada immediately responded to her request by saying, ``U-understood!`` and quickly rushing out."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114048,
+            "TextJPN": "…下僕意識が染みついているといわんばかりの忠犬ぶりだ。",
+            "TextENG": "...Their sense of servitude was so deeply ingrained they were like loyal dogs."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114049,
+            "TextJPN": "…………。",
+            "TextENG": "......"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114050,
+            "TextJPN": "しかし、藤田は廊下を走りながら、いつの間にか自分の頬が緩んでいることを感じていた…。",
+            "TextENG": "But as Fujita ran down the corridor, before long his cheeks split into a huge grin..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114051,
+            "NamesJPN": "まどか",
+            "PreTextTags": "@vS11/29/420400236.",
+            "TextJPN": "「山沖署長、こちらにサインを」",
+            "NamesENG": "Madoka",
+            "TextENG": "``Chief Yamaoki, sign here.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114052,
+            "NamesJPN": "山沖",
+            "PreTextTags": "@vS11/30/420200263.",
+            "TextJPN": "「うむ。@k@vS11/30/420200264.…あ、あー、まどかくん」",
+            "NamesENG": "Yamaoki",
+            "TextENG": "``Sure.@k@vS11/30/420200264. ...Oh, right, Madoka-kun.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114053,
+            "NamesJPN": "まどか",
+            "PreTextTags": "@vS11/29/420400237.",
+            "TextJPN": "「南井巡査です。@k@vS11/29/420400238.お間違えのないように」",
+            "NamesENG": "Madoka",
+            "TextENG": "``It's Officer Minai.@k@vS11/29/420400238. Make sure you get it right.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114054,
+            "NamesJPN": "山沖",
+            "PreTextTags": "@vS11/30/420200265.",
+            "TextJPN": "「う、うむ…」",
+            "NamesENG": "Yamaoki",
+            "TextENG": "``R-right...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114055,
+            "TextJPN": "ぴしゃり、と鋭く冷たい口調で訂正させられて、山沖はなんとも情けない顔をした。",
+            "TextENG": "Yamaoki looked embarrassed after being corrected in such a sharp, cold tone."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114056,
+            "NamesJPN": "山沖",
+            "PreTextTags": "@vS11/30/420200266.",
+            "TextJPN": "「では、その…南井巡査」",
+            "NamesENG": "Yamaoki",
+            "TextENG": "``Then, well... Officer Minai.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114057,
+            "NamesJPN": "まどか",
+            "PreTextTags": "@vS11/29/420400239.",
+            "TextJPN": "「はい、山沖署長。@k@vS11/29/420400240.私に何か？」",
+            "NamesENG": "Madoka",
+            "TextENG": "``Yes, Chief Yamaoki.@k@vS11/29/420400240. Do you need something from me?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114058,
+            "NamesJPN": "山沖",
+            "PreTextTags": "@vS11/30/420200267.",
+            "TextJPN": "「実はこの前知人から演劇のチケットを二枚もらってな。@k@vS11/30/420200268.よかったら、今度」",
+            "NamesENG": "Yamaoki",
+            "TextENG": "``Actually, I happened to receive two theater tickets from an old acquaintance of mine earlier.@k@vS11/30/420200268. Would you care to go this time?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114059,
+            "NamesJPN": "まどか",
+            "PreTextTags": "@vS11/29/420400241.",
+            "TextJPN": "「申し訳ありませんが、私の休日の予定は３ヵ月後まで埋まっております。@k@vS11/29/420400242.そのあとでもよろしければ、ぜひ誘ってくださいませ」",
+            "NamesENG": "Madoka",
+            "TextENG": "``My apologies, but my holiday schedule is completely booked for the next three months.@k@vS11/29/420400242. But if it's some time after that, feel free to invite me.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114060,
+            "NamesJPN": "山沖",
+            "PreTextTags": "@vS11/30/420200269.",
+            "TextJPN": "「……」",
+            "NamesENG": "Yamaoki",
+            "TextENG": "``......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114061,
+            "TextJPN": "けんもほろろで、取り付くしまもない。…こんな状態が、なんと半年間にもわたって続いていた。",
+            "TextENG": "She'd been so blunt that she wouldn't even give him the time of day. ...She'd been like this toward him for the last half a year."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114062,
+            "TextJPN": "巴を広報室勤務に異動させる、とまどかに話した時などは、…それはもう酷いものだった。",
+            "TextENG": "When he told her that Tomoe was being transferred to the public relations office... she was deeply upset."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114063,
+            "TextJPN": "泣かれ、怒鳴られ、なじられ、挙句には物を投げられて…。",
+            "TextENG": "Crying, yelling, telling him off, and in the end even throwing things around..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114064,
+            "TextJPN": "マホガニー製の机には、その時まどかが振り下ろしたゴルフクラブのあとがくっきりと残っていた。",
+            "TextENG": "There were still marks on his desk from when Madoka struck it with a golf club back then."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114065,
+            "TextJPN": "なんというか…こういうところは本当に姉妹そっくりだと、山沖はため息をついてしまう。",
+            "TextENG": "In that way... she was really so much like her sister. And so, Yamaoki let out a sigh."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114066,
+            "NamesJPN": "山沖",
+            "PreTextTags": "@vS11/30/420200270.",
+            "TextJPN": "「まどかくん。@k@vS11/30/420200271.だから何度も話したように、これには深い理由が…」",
+            "NamesENG": "Yamaoki",
+            "TextENG": "``Madoka-kun.@k@vS11/30/420200271. Like I've told you many times before, there was a very good reason for this...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114067,
+            "NamesJPN": "まどか",
+            "PreTextTags": "@vS11/29/420400243.",
+            "TextJPN": "「ええ、あったんでしょうね。@k@vS11/29/420400244.ですから、私の関知するところではございません」",
+            "NamesENG": "Madoka",
+            "TextENG": "``Yes, I suppose there was.@k@vS11/29/420400244. So that's not what concerns me.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114068,
+            "NamesJPN": "まどか",
+            "PreTextTags": "@vS11/29/420400245.",
+            "TextJPN": "「…私がこうやって怒っているのも、大局を見ることのできない矮小な一巡査がきわめて個人的に不満を抱いているだけですので。@k@vS11/29/420400245_1.どうぞお気になさらないでくださいまし」",
+            "NamesENG": "Madoka",
+            "TextENG": "``...I'm just angry because I'm one extremely disgruntled tiny police officer who can't see the big picture.@k@vS11/29/420400245_1. So please don't mind me.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114069,
+            "NamesJPN": "山沖",
+            "PreTextTags": "@vS11/30/420200272.",
+            "TextJPN": "「……むぅ」",
+            "NamesENG": "Yamaoki",
+            "TextENG": "``...Mmm.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114070,
+            "TextJPN": "頭を抱える。とりあえず、話ができるようになっただけ進展したともいえるが、…いえないか、こんな状況では。",
+            "TextENG": "He was at his wits' end. With things as they were, no progress would be made unless they talked about it... but he couldn't say anything in the current situation."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114071,
+            "TextJPN": "現在、ようやくまどかは山沖邸に戻ってきてくれたが、つい先月まで巴が入っていた独身寮に入って、別居状態だった。",
+            "TextENG": "Madoka had finally returned to living in Yamaoki's house, but she had been living in Tomoe's old single-occupancy apartment until last month."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114072,
+            "TextJPN": "それを思えばまだ関係は快方に向かっているとも言えそうだが、何かのきっかけで婚約破棄までに至る可能性も否定できない…。",
+            "TextENG": "With that in mind, you could say their relationship was still getting better, but it was hard to deny the possibility that just one more little thing could spell the end of their engagement..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114073,
+            "TextJPN": "もっとも、直前になって破局のパターンは、歳の差の関係なくよくあること。彼女の気持ちに任せるしかない。",
+            "TextENG": "Though, that catastrophic pattern was typical in relationships, regardless of age difference. He just had to let her sort out her feelings."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114074,
+            "TextJPN": "と、まどかが垣内署始まって以来の大騒動を引き起こし、停職１ヶ月を命じた当初はそう思っていた。",
+            "TextENG": "Also, Madoka caused a great deal of turmoil since she first started at Kakiuchi Station, enough so that she was expecting a one-month suspension."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114075,
+            "TextJPN": "しかし、…長年独身生活を続けてきた山沖にとって、その後出て行った彼女のいなくなった自宅ほど、広々と感じられる寂しい空間はなく…。",
+            "TextENG": "However... Yamaoki had lived alone for so many years that when she moved out, the space felt especially small and lonely..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114076,
+            "TextJPN": "彼を知る面々には信じがたい話だが、すでに通算２０回以上、平身低頭で謝り続けている。…それでも許してもらえず、このような冷戦状態が現在も続いていた。",
+            "TextENG": "It was hard for anyone who knew him to believe, but he had already deeply bowed his head and apologized to her over 20 times. ...But she still hadn't forgiven him, and that cold war continued even now."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114077,
+            "TextJPN": "ならば、いつものように強面で一喝すれば…などということも考えないではなかったが、その行為の結果は容易に想像がつくだけに、できない。できるわけがない。",
+            "TextENG": "And so, all it took was a single fierce glare... and he couldn't think of anything else. He easily recognized the outcome of any action he took, so he never did anything. There was nothing he could do."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114078,
+            "TextJPN": "そのために、このような情けない問答を繰り返しているのは、…どうやら、惚れた弱みというやつか。",
+            "TextENG": "Because of that, he ended up repeating the same sad questions and answers... and in some ways, maybe even being taken advantage of by his feelings for her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114079,
+            "TextJPN": "その時、来客なのか扉をノックする音が聞こえる。",
+            "TextENG": "Just then, he heard a knock on the door."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114080,
+            "TextJPN": "本来なら誰かを確かめてから入室させるのだが、重苦しい空気を振り払うつもりで威厳を持たせた声で『入りたまえ』と促した。",
+            "TextENG": "Normally, he would've asked the person to announce who they were before entering the room, but in this case he wanted to shake off the dreary atmosphere, so he responded, ``Come in,`` in a dignified voice."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114081,
+            "TextJPN": "そして――。",
+            "TextENG": "And then..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114082,
+            "NamesJPN": "まどか",
+            "PreTextTags": "@vS11/29/420400246.",
+            "TextJPN": "「お、お姉ちゃんっ？！」",
+            "NamesENG": "Madoka",
+            "TextENG": "``S-Sis?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114083,
+            "NamesJPN": "山沖",
+            "PreTextTags": "@vS11/30/420200274.",
+            "TextJPN": "「…っ？！」",
+            "NamesENG": "Yamaoki",
+            "TextENG": "``...?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114084,
+            "TextJPN": "扉を開け、『失礼します』と入ってきた相手が巴とわかって、まどかはもちろん、山沖も目を見開いて驚く。",
+            "TextENG": "The door swung open and she came in saying, ``Excuse me.`` Madoka and Yamaoki's eyes opened wide in shock as soon as they recognized Tomoe."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114085,
+            "TextJPN": "当然、彼女がここに来ることは事前に聞かされていない。…その反応を見て、巴はにやり、と悪戯が成功したような笑みを浮かべながら敬礼の姿勢をとった。",
+            "TextENG": "Naturally, they didn't know in advance that she was coming. ...When Tomoe noticed their reactions, she had a mischievous smile on her face as she donned a salute."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114086,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101387.",
+            "TextJPN": "「…南井巴、警察庁長官官房の総務課長の代理でご挨拶に伺いました。@k@vS11/28/420101388.少々、お時間よろしいでしょうか？」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``...This is Tomoe Minai, greeting you on behalf of the Director of General Affairs and the Secretariat to the Commissioner of the National Police Agency.@k@vS11/28/420101388. May I ask a moment of your time?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114087,
+            "NamesJPN": "山沖",
+            "PreTextTags": "@vS11/30/420200275.",
+            "TextJPN": "「あ、ああ…」",
+            "NamesENG": "Yamaoki",
+            "TextENG": "``O-of course...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114088,
+            "NamesJPN": "まどか",
+            "PreTextTags": "@vS11/29/420400247.",
+            "TextJPN": "「っ、じゃあ、私は…」",
+            "NamesENG": "Madoka",
+            "TextENG": "``Th-then, I'll...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114089,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101389.",
+            "TextJPN": "「別に、いてもいいわよ。@k@vS11/28/420101390.いずれ遅かれ早かれ、みんなの耳に入ることなんだし」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``It's all right, you can stay.@k@vS11/28/420101390. This is something everyone will hear sooner or later.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114090,
+            "NamesJPN": "まどか",
+            "PreTextTags": "@vS11/29/420400248.",
+            "TextJPN": "「え…？」",
+            "NamesENG": "Madoka",
+            "TextENG": "``Huh...?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114091,
+            "TextJPN": "戸惑うまどかを尻目に、巴は手に持ったファイルを広げて山沖の前に差し出す。",
+            "TextENG": "Madoka stared on in disbelief as Tomoe spread the file in her hands out in front of Yamaoki."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114092,
+            "TextJPN": "そこには、クリップで留められた書類の束が収められてあった。",
+            "TextENG": "Inside were a bunch of documents clipped together."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114093,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101391.",
+            "TextJPN": "「警察庁長官官房から、愛知県警と垣内署への協力要請です。@k@vS11/28/420101392.了解をいただき次第、後日正式な通達書を送付させていただきます」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``This is a request for cooperation between Aichi prefectural police and Kakiuchi Station, on behalf of the Secretariat of the Commissioner of the National Police Agency.@k@vS11/28/420101392. A formal letter of notice will be sent at a later date, after receiving your consent.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114094,
+            "TextJPN": "その表紙に記載されていた見出しには、こう書かれてあった。",
+            "TextENG": "The heading inscribed on the cover said this:"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114095,
+            "TextJPN": "『未解決事件におけるプロファイリング捜査の手法確立と運用試験について』",
+            "TextENG": "``Establishing an operational test regarding the use of profiling techniques to investigate unsolved cases.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114096,
+            "NamesJPN": "山沖",
+            "PreTextTags": "@vS11/30/420200276.",
+            "TextJPN": "「…これは？」",
+            "NamesENG": "Yamaoki",
+            "TextENG": "``...What is this?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114097,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101393.",
+            "TextJPN": "「実は先日、前野広報室長のご紹介で総務課長、長官官房長とお会いする機会がございまして。@k@vS11/28/420101394.そこで少々、ご歓談のお時間をいただくことができました」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``Actually, Public Relations Director Maeno introduced me to the director of general affairs the other day, and I even had the opportunity to meet up with the secretariat of the commissioner.@k@vS11/28/420101394. I was able to chat with them for a little while.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114098,
+            "TextJPN": "それは全くの偶然と、信じられないほどの幸運。…そして、強い想いによって得られた千載一遇の機会だった。",
+            "TextENG": "It was totally coincidental, but incredibly fortuitous. ...And it was a rare one-in-a-million opportunity that she had earned through her strong convictions."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114099,
+            "TextJPN": "巴が広報室勤務になって数日後、同じ鹿嶋大出身であることを聞きつけた長官官房長が、激励のひとつでもかけてやるつもりで彼女を自室に呼び寄せたのである。",
+            "TextENG": "A few days after Tomoe started at the public relations office, the secretariat heard that she was a fellow alumnus of Kashima University, so he called her into his office just to give her encouragement."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114100,
+            "TextJPN": "その雑談の中、ふいに官房長が話題に上げた『プロファイリング捜査』に巴は食いついた。",
+            "TextENG": "During their chat, Tomoe offhandedly mentioned her ``profiling`` investigation technique to the secretariat."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114101,
+            "TextJPN": "そして垣内で自分が実際に導入して、それなりの成果を上げたことをアピールしたのだ。",
+            "TextENG": "And she mentioned that it had already been tested in Kakiuchi, with wonderful results."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114102,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101395.",
+            "TextJPN": "「さすがに僭越な行為と承知しておりましたが、…今までにまとめた資料を『たまたま』持参しておりましたので、これ幸いと思って目を通していただきました」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``Of course, I knew it was presumptuous of me to bring it up... but I did ``casually`` bring the file with me summarizing the results so far. And fortunately, he took the time to look through it.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114103,
+            "TextJPN": "その資料を一読した官房長と総務課長は、ともに軽い驚きで目をむいた。",
+            "TextENG": "Both the secretariat and the director of general affairs were a bit surprised when they saw it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114104,
+            "TextJPN": "なにしろ、プロファイリング捜査についての資料は英文の上膨大な量に及ぶため、本腰を入れて調べなければその詳細を判読することは難しかったのである。",
+            "TextENG": "After all, these profiling techniques were published in lengthy documents written in English, so it was difficult to decipher the details without putting significant effort into it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114105,
+            "TextJPN": "それを『たまたま』翻訳して簡略にまとめ、しかも実際の事件に試験導入して、成果を挙げたという報告書をこの若手エリートが作成していた…。",
+            "TextENG": "And this young elite trainee ``casually`` translated and summarized it, achieved amicable results while testing it on real cases, and assembled a report detailing all her findings..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114106,
+            "TextJPN": "その事実に、元々新しいもの好きだった官房長たちは強い興味を示した。",
+            "TextENG": "The secretariat was always interested in pursuing new techniques, and thanks to all the work she put into it, he was particularly interested."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114107,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101396.",
+            "TextJPN": "「それを受けて、官房長のお力で報告書の内容を科警研にも紹介してくれることになりました」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``Thanks to that, the secretariat pulled some strings to get the contents of that report submitted to the National Research Institute of Police Science.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114108,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101397.",
+            "TextJPN": "「そこで、『偶然にも』その実行例の詳細を全て管理しておりましたので、科警研の総務部長にそれらをレポートとして提出したのです」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``And by some <i>fluke</i>, the details of that report escalated all the way to the general manager of NRIPS.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114109,
+            "TextJPN": "…その反応は、驚くほどのものだった。",
+            "TextENG": "...The reaction was stunning."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114110,
+            "TextJPN": "元々、科警研…科学警察研究所も欧米式のプロファイリングの手法については注目していた。",
+            "TextENG": "Originally... the National Research Institute of Police Science was conducting their own research on Western profiling techniques."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114111,
+            "TextJPN": "だが、基本の内容は理解できていてもそれを運用し、分析するためのデータがなかった。",
+            "TextENG": "But even though they understood the basic premises, they had no operational data to analyze."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114112,
+            "TextJPN": "そして、そのための収集を行おうにもセクショナリズムの壁と、手柄を奪われるのでは、と危惧する現場の刑事たちに抵抗されていたため、遅々として進んでいなかったのだ。",
+            "TextENG": "And even when they tried to pursue that endeavor, progress was extremely slow because of the sectionalized nature of the police force. Detectives in the field were also anxious that new techniques would jeopardize their positions."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114113,
+            "TextJPN": "そんな中、巴が茨城県警時代にまとめたデータ、そして垣内の２ヶ月間で実証した資料を『無償で』提供されたものだから、彼らはもろ手を挙げて歓迎した。",
+            "TextENG": "Meanwhile, Tomoe showed up with all the data compiled from her time at the Ibaraki prefectural police department and her two months at Kakiuchi and offered it up for <i>free</i>, so they welcomed it with open arms."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114114,
+            "TextJPN": "それを受けて、科警研の総務部長は所長をも呼び出して彼女を招聘し、ヒアリングを行った。",
+            "TextENG": "In response to that, the general manager of NRIPS invited the director to a hearing with her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114115,
+            "TextJPN": "もちろん、そこには巴が女性だから、という好奇めいた興味が若干含まれていたことも確かだろう。",
+            "TextENG": "Of course, the fact that Tomoe was a woman certainly did pique some curiosity."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114116,
+            "TextJPN": "それでも、彼女は逆にそれを最大限に利用した。そして、その話から手応えをつかんだ所長は、実際の捜査に当たらせてみよう、ということを鶴の一声で決定。",
+            "TextENG": "But even so, she opted to use that to her advantage. And after talking it over, the director gave an official proclamation that the process should be tested on an actual investigation."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114117,
+            "TextJPN": "その結果、プロファイリング捜査手法の本格導入とノウハウの共有を目的とした、科警研主導の研究スタッフが結成されることとなったのである。",
+            "TextENG": "As a result, NRIPS assembled a research team and launched a full scale investigation into profiling methodology."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114118,
+            "NamesJPN": "山沖",
+            "PreTextTags": "@vS11/30/420200277.",
+            "TextJPN": "「し、しかし君は、広報室で…」",
+            "NamesENG": "Yamaoki",
+            "TextENG": "``B-but you're with the public relations office...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114119,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101398.",
+            "TextJPN": "「ええ、ですから私は関与いたしません。@k@vS11/28/420101399.その代わり広報室係長として、この件についての報道対応を任されることになりました」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``That's right, so I'm not directly involved.@k@vS11/28/420101399. Instead, as subsection chief at the public relations office, I've been charged with reporting on this matter.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114120,
+            "NamesJPN": "山沖",
+            "PreTextTags": "@vS11/30/420200278.",
+            "TextJPN": "「報道…？@k@vS11/30/420200279.　これを、マスコミに公開するのか？」",
+            "NamesENG": "Yamaoki",
+            "TextENG": "``Reporting...?@k@vS11/30/420200279. This is being released to the mass media?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114121,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101400.",
+            "TextJPN": "「はい。@k@vS11/28/420101401.実は、ＴＶ局に企画書を持ち込みました。@k@vS11/28/420101402.欧米における、最新の捜査手法の特集をやらないか、と」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``That's right.@k@vS11/28/420101401. In fact, I brought the proposal to the TV station.@k@vS11/28/420101402. Don't you think the latest investigation methods from the West would make a nice feature?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114122,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101403.",
+            "TextJPN": "「３ヶ月以内に迷宮入りの難事件を解決してみせる、って大見得切って、密着取材にも許可を出したら喜んで飛びついてきましたよ」",
+            "NamesENG": "Tomoe",
+            "TextENG": "````Mysterious Unsolved Case Cracked in Three Months.`` They'll be proud to declare that, and I happily jumped at the chance to be the person covering it.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114123,
+            "NamesJPN": "まどか",
+            "PreTextTags": "@vS11/29/420400249.",
+            "TextJPN": "「えっ…な、ええっ？！」",
+            "NamesENG": "Madoka",
+            "TextENG": "``Huh...? Wh-whaaat?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114124,
+            "TextJPN": "まどかは大声を上げて仰天する。",
+            "TextENG": "Madoka shouted in astonishment."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114125,
+            "TextJPN": "あの、マスコミ嫌いの巴が…いったいどんな心境の変化だ？！",
+            "TextENG": "Tomoe had always hated working with the media... so what on earth brought about this change of heart?!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114126,
+            "NamesJPN": "まどか",
+            "PreTextTags": "@vS11/29/420400250.",
+            "TextJPN": "「で、でも捜査内容の開示はよくないって、お姉ちゃん言ってなかった？」",
+            "NamesENG": "Madoka",
+            "TextENG": "``B-but Sis, weren't you the one who said it wasn't good to disclose the details of active investigations?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114127,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101404.",
+            "TextJPN": "「もちろん、彼らに見せるのはほんの一部、上っ面の部分だけよ。@k@vS11/28/420101405.それに、それとは別に女性向けインタビューを２本独占で受けることになってるから、実際の彼らの優先順位はそっちのほうが上」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``Of course, we'll only show them part of the information. Just the surface details.@k@vS11/28/420101405. Plus, the station requested two exclusive interviews with a woman, so in reality their priorities are elsewhere.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114128,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101406.",
+            "TextJPN": "「そういうわけで女性の権利拡大の弁士として思いっきり威勢のいいことを語ってあげるって言ったら、もう大喜びで協力してくれる、ってさ♪」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``They just wanted to have a strong speaker about the expansion of women's rights, so they were more than happy to cooperate♪.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114129,
+            "NamesJPN": "まどか",
+            "PreTextTags": "@vS11/29/420400251.",
+            "TextJPN": "「あ、悪人…」",
+            "NamesENG": "Madoka",
+            "TextENG": "``Y-you're terrible...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114130,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101406_1.",
+            "TextJPN": "「ありがと、最高の褒め言葉よ」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``Thank you. That's the best praise I can receive.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114131,
+            "TextJPN": "しれっと流して、巴は嘯く。",
+            "TextENG": "Tomoe nonchalantly shot that back."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114132,
+            "TextJPN": "名を捨てて実を取るのは相変わらずだが、各方面の協力、そして妥協策…明らかに、以前の巴とは余裕とか、考え方とかがまるで違っていた。",
+            "TextENG": "Disregarding her name to obtain results was normal for her... but compromising and cooperating with all manner of people was totally different from Tomoe's old way of thinking."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114133,
+            "NamesJPN": "まどか",
+            "PreTextTags": "@vS11/29/420400253.",
+            "TextJPN": "「……」",
+            "NamesENG": "Madoka",
+            "TextENG": "``......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114134,
+            "TextJPN": "だからまどかは今、自分の見ているものが夢ではないかと思って、頬を思い切りつねる。",
+            "TextENG": "So, Madoka, feeling like she was dreaming right now, pinched her own cheek hard."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114135,
+            "TextJPN": "…ものすごく痛かった。",
+            "TextENG": "...It was incredibly painful."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114136,
+            "TextJPN": "そこへ、ノックとともに藤田が署長室に入ってきた。",
+            "TextENG": "Just then, Fujita knocked on the door and then entered the chief's office."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114137,
+            "NamesJPN": "藤田",
+            "PreTextTags": "@vS11/31/421200107.",
+            "TextJPN": "「み、南井さーん。@k@vS11/31/421200108.刑事一課に大きな段ボールの荷物が届いてるんですが、あれってなんですか？」",
+            "NamesENG": "Fujita",
+            "TextENG": "``M-Minai-saaan.@k@vS11/31/421200108. The First Investigation Division just received a large package. What's this about?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114138,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101407.",
+            "TextJPN": "「あぁ藤田くん、それは私の荷物なの。@k@vS11/28/420101408.中身はパソコンだから、扱いは丁寧にお願いね」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``Aah, Fujita-kun, that's my luggage.@k@vS11/28/420101408. There's a personal computer in there, so handle it with care.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114139,
+            "NamesJPN": "藤田",
+            "PreTextTags": "@vS11/31/421200109.",
+            "TextJPN": "「ぱ、パソコンですか？@k@vS11/31/421200110.　いったい何に使うんですか？」",
+            "NamesENG": "Fujita",
+            "TextENG": "``C-computer?@k@vS11/31/421200110. What on earth are you doing with one of those?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114140,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101409.",
+            "TextJPN": "「遅れてるわねぇ、藤田くん。@k@vS11/28/420101410.これからはパソコンの時代よ？」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``Don't fall behind, Fujita-kun.@k@vS11/28/420101410. The age of computers is just starting, you know?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114141,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101411.",
+            "TextJPN": "「…あ、山沖署長。垣内署の合同捜査本部内に専用線の配置を行いたいので、ご許可をいただけますでしょうか？」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``...Oh, Chief Yamaoki. I'd like to set up a dedicated line between Kakiuchi Station and the joint investigation headquarters. Would you be willing to sign off on that?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114142,
+            "NamesJPN": "山沖",
+            "PreTextTags": "@vS11/30/420200280.",
+            "TextJPN": "「あ、ああ…」",
+            "NamesENG": "Yamaoki",
+            "TextENG": "``Ah, sure...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114143,
+            "TextJPN": "戸惑い気分を拭いきれないまま、山沖はとりあえず頷く。",
+            "TextENG": "Still unable to dismiss his feelings of confusion, Yamaoki simply nodded."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114144,
+            "TextJPN": "パソコン…興味ないとかいってなかったか？",
+            "TextENG": "...Didn't she say she wasn't interested in computers before?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114145,
+            "TextJPN": "まさに、イカレたとしか思えない変貌ぶりだ。…本当にこれは、南井巴なのか？",
+            "TextENG": "It was a completely unthinkable change. ...Was this really Tomoe Minai?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114146,
+            "TextJPN": "実は姿形が同じの、異星人という可能性はないのか？",
+            "TextENG": "Was there any chance she was actually replaced by an alien taking her form?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114147,
+            "TextJPN": "その時。",
+            "TextENG": "The next moment."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114148,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101412.",
+            "TextJPN": "「…山沖署長」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``...Chief Yamaoki.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114149,
+            "TextJPN": "巴は真剣な面持ちで向き直ると、…深く、頭を下げる。",
+            "TextENG": "Tomoe turned to him with a serious expression... and deeply bowed her head."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114150,
+            "TextJPN": "そして、",
+            "TextENG": "And then,"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114151,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101413.",
+            "TextJPN": "「ありがとうございました、署長。@k@vS11/28/420101414.私はもう少しで、正義というものを見失うところでした」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``Thank you, chief.@k@vS11/28/420101414. I was on the verge of losing sight of justice.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114152,
+            "TextJPN": "そう言って笑みを浮かべる彼女の表情には、憑き物の取れた晴れやかさがあった。",
+            "TextENG": "The look on her face as she said that had a pleasant atmosphere, suggesting she had dispelled her earlier demons."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114153,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101415.",
+            "TextJPN": "「感情的な復讐心や自己満足の行いは、自分の失敗を認めたくないという見苦しさの産物です」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``Emotion-fueled revenge and the pursuit of self-interest are the detestable products of one who refuses to acknowledge their own failures.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114154,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101416.",
+            "TextJPN": "「自分は正しい、と一人で思い込んで誰にも頼らず、誰の言葉にも耳を貸さない、独りよがりの未熟な、紛いものの正義です」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``I had a foolish, immature, and misguided view of justice. I thought myself the only one correct, and refused to listen to or rely on anyone else.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114155,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101417.",
+            "TextJPN": "「…でも、それでは本当の悪には、勝てない。@k@vS11/28/420101418.いえ、戦えない」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``...But that way of thinking can't defeat true evil.@k@vS11/28/420101418. No, it can't even fight it.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114156,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101419.",
+            "TextJPN": "「こちらが犯罪を取り締まるためあらゆる手段と知識を蓄えているように、相手も同様の準備をしてこちらを叩き潰そうと、その武器を磨いている」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``Though we have the knowledge and means to crack down on crime, our adversaries are polishing their weapons and making preparations of their own.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114157,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101420.",
+            "TextJPN": "「そんな奴らに、一人でできることなんてたかが知れています」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``I realize now that those sorts of people can't be overcome on my own.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114158,
+            "TextJPN": "だから巴は、感情的だった自らの恨みと憎しみを、…捨てた。",
+            "TextENG": "So, Tomoe gathered all her hatred and resentment... and cast them aside."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114159,
+            "TextJPN": "そして独りよがりだった自分の信念と思考を、他の人々の理解が得られる汎用なものへと切り替えていった。",
+            "TextENG": "And she replaced her selfish thoughts and convictions with a general desire to gain the understanding of the people around her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114160,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101421.",
+            "TextJPN": "「自分の正義と、警察の正義。@k@vS11/28/420101422.…相反する時は自ら屈して妥協して、警察の正義にあわせるのもひとつのやり方です。@k@vS11/28/420101423.しかし、…その逆も、確かにあります」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``My justice, and the police department's justice...@k@vS11/28/420101422. When these two are in conflict with one another, you have to compromise a little to match the police version of justice.@k@vS11/28/420101423. However... the opposite is also certainly true.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114161,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101424.",
+            "TextJPN": "「様々な権力と発言力を握る各方面の人々全てを説得し、理解してもらい、その上で仲間になってもらう方法です」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``You can persuade the people around you in various positions of power, try to get them to understand, and more importantly, earn their cooperation.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114162,
+            "TextJPN": "もちろん、それには膨大な時間と、手間と、…誠意が要る。そして必ずしも成功するという保証はどこにも無い。",
+            "TextENG": "Of course, that takes a great deal of time and effort... and sincerity. And there's still no guarantee of success."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114163,
+            "TextJPN": "それでも、可能性はゼロじゃない。不可能では決して、ないのだ。",
+            "TextENG": "But even so, the possibility is greater than zero. It's definitely not impossible."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114164,
+            "TextJPN": "だから巴は、小さなひとつの幸運を最大限に、そして全力で活かして、働きかけた。",
+            "TextENG": "So, Tomoe identified her small pieces of luck and used them to their maximum effect."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114165,
+            "TextJPN": "警察庁の各機関。",
+            "TextENG": "Her contacts at the National Police Agency."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114166,
+            "TextJPN": "科学警察研究所のスタッフ。",
+            "TextENG": "The staff of the National Research Institution of Police Science."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114167,
+            "TextJPN": "そしてプロファイリング捜査の手法を授けてくれた茨城県警の本条と、その仲間たち…。",
+            "TextENG": "And the profiling investigation methodology she learned with Honjou and her comrades at the Ibaraki prefectural police department..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114168,
+            "TextJPN": "決して暇ではない彼らとの折衝を、彼女自身も日々の通常業務をこなしつつ根気よく行い、…相談を持ちかけ、データの提供を求めたり、了承を取り付ける。",
+            "TextENG": "She never spared a moment of free time either. She was always negotiating with them during her usual daily work... consulting with them, requesting they share data, and seeking their approval on matters."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114169,
+            "TextJPN": "それは、単純に半年間と口で言うほど容易い、楽な道のりではなかった。",
+            "TextENG": "And even if it seems an easy thing to say, accomplishing that in just half a year was no simple task."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114170,
+            "TextJPN": "それでも、彼女は諦めなかった。",
+            "TextENG": "But even so, she never gave up."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114171,
+            "TextJPN": "多くの人々の助けと協力を得ながら、何度も相手先に出向いて、説得して、…同意にこぎつけていった。",
+            "TextENG": "She earned the help and cooperation of so many people by approaching other parties over and over, and persuading them... trying to win their agreement."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114172,
+            "TextJPN": "その結果、今日のこの時を迎えることができたのだ…！",
+            "TextENG": "And as a result, she was able to greet everyone here today...!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114173,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101425.",
+            "TextJPN": "「今回の一件が成功すれば、その成果は科警研のものです。@k@vS11/28/420101426.私自身が関わることは、ほとんどありません。@k@vS11/28/420101427.…ですが、正義はあります。@k@vS11/28/420101428.それこそが、私が警察官として今、ここにいる理由です」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``If the results on this case are successful, the findings will go straight to NRIPS.@k@vS11/28/420101426. I, myself, will have pretty much no direct involvement.@k@vS11/28/420101427. ...Still, this is about justice.@k@vS11/28/420101428. That's the reason I'm here, as a police officer.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114174,
+            "TextJPN": "…多くの警察関係者からみれば、とんだお人よしだと思われていることだろう。女性の身でどこまで、と面白がって見られていることも意識している。",
+            "TextENG": "...From the perspective of many police officials, she looked like a soft-souled person. She was also aware of how people perceived her as a woman."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114175,
+            "TextJPN": "だが、それこそ望むところだ。力を貸してくれれば、…いや、少なくとも邪魔をしようとさえしてくれなければ、巴にとっては好都合だった。",
+            "TextENG": "But that was what she wanted. If they were willing to lend Tomoe their strength... or, as long as they weren't trying to get in her way, it was ultimately beneficial for her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114176,
+            "TextJPN": "巴は、出世のために手柄を重ねようと考えているのではない。",
+            "TextENG": "Tomoe wasn't simply performing well to achieve career advancement."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114177,
+            "TextJPN": "そして、自分の恨みや憎しみを晴らすために、犯罪を捜査するわけでもない。",
+            "TextENG": "And she wasn't investigating crimes to clear up her own hatred or personal grudges."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114178,
+            "TextJPN": "さらに言えば、被害者やその家族のためでもない。…警察は、復讐でもって捜査を行ってはならないのだ。",
+            "TextENG": "To go even further, she wasn't doing that for the victims or their families either. ...The police shouldn't carry out investigations seeking revenge."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114179,
+            "TextJPN": "世の中には確かに正義というものが存在して、悪を裁いて罪を戒めてくれる。",
+            "TextENG": "There absolutely is justice in this world to judge wrongdoers and admonish their sins."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114180,
+            "TextJPN": "そして悪を心に抱く者は、正義の強固な力と壁の前に屈し、自らを律する。…山沖が昔、巴に言っていたことだ。",
+            "TextENG": "And those who stand before the wall of justice with evil in their hearts will surrender to its power and discipline themselves. ...It was Yamaoki who taught Tomoe that."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114181,
+            "TextJPN": "…そう信じられる社会を作り出すために、警察は法を背にして犯罪を取り締まるのだ。",
+            "TextENG": "...In order to create a society that can believe in that, the police need to fight crime with the full backing of the law."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114182,
+            "TextJPN": "そのためには、犯罪者の心理さえも理解して、…時には同調することも必要。",
+            "TextENG": "To that end, it's necessary to understand the psychology of the criminal... and sometimes even be in sync with them."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114183,
+            "TextJPN": "実に青臭い考え、…上等だ！",
+            "TextENG": "It was a truly naive way of thinking... but it was first-class!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114184,
+            "TextJPN": "努力や想いが報われるとは限らない、…それがどうした！",
+            "TextENG": "Even if my effort and feelings aren't always rewarded... so what?!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114185,
+            "TextJPN": "@bこずる.@<小狡@>く自分の意思を捻じ曲げるよりも、たった一度きりの人生をまっすぐ生きることに、私はすべてを賭けたんだ！",
+            "TextENG": "Rather than twisting the world to my own intentions, I'll bet everything on living my life honestly!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114186,
+            "TextJPN": "傷ついたっていい。そして倒れても、倒されても、…何度でも立ち上がって、どこまでもしぶとく、図太く自分の信念を貫き続けてやる！",
+            "TextENG": "It's fine to get hurt. And even if you fall, even if you're pushed down... you have to get up again and again, no matter how hard it is, doing your best to maintain your convictions!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114187,
+            "TextJPN": "そのために私は、警察の道を選んだのだから…！！",
+            "TextENG": "That's why I choose to follow the path of the police force...!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114188,
+            "NamesJPN": "山沖",
+            "PreTextTags": "@vS11/30/420200281.",
+            "TextJPN": "「巴くん、君は…」",
+            "NamesENG": "Yamaoki",
+            "TextENG": "``Tomoe-kun, you...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114189,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101429.",
+            "TextJPN": "「それに、そもそも悪が手段を選ばない以上、正義だってそうあるべきですよね？」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``Besides, evil will never stop at anything, so why should justice be any different?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114190,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101430.",
+            "TextJPN": "「１人の悪役に５人総出でタコ殴りにしても、巨大ロボットで踏みつけたとしても、正義である限りは卑怯なんて考えてはいけないんです」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``Even if five evildoers combine into one villain that octo-punches you, even if you get stomped by a giant robot, as long as justice still lives it's cowardice to think anything otherwise.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114191,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101431.",
+            "TextJPN": "「だって、正義は必ず、勝たなきゃいけないんですから！」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``Because justice must always prevail!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114192,
+            "NamesJPN": "まどか",
+            "PreTextTags": "@vS11/29/420400254.",
+            "TextJPN": "「…お、お姉ちゃん」",
+            "NamesENG": "Madoka",
+            "TextENG": "``...S-Sis.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114193,
+            "NamesJPN": "藤田",
+            "PreTextTags": "@vS11/31/421200111.",
+            "TextJPN": "「南井さん…」",
+            "NamesENG": "Fujita",
+            "TextENG": "``Minai-san...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114194,
+            "TextJPN": "そう言って勇ましく胸を張る巴を、まどかと藤田は毒気を抜かれたような表情で見つめる。",
+            "TextENG": "Madoka and Fujita could only stare on looking overwhelmed as Tomoe so proudly declared that."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114195,
+            "TextJPN": "…しかし、山沖は違った。",
+            "TextENG": "...But, Yamaoki wasn't like that."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114196,
+            "TextJPN": "その答えの、滑稽なまでのひたむきさ。",
+            "TextENG": "Her answer was so earnest that it was comical."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114197,
+            "TextJPN": "そして呆れるほどの逞しさに、こみ上げるおかしさをこらえ切れなかった。",
+            "TextENG": "And he couldn't bear the absurdity of how exasperatingly resolute she was."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114198,
+            "NamesJPN": "山沖",
+            "PreTextTags": "@vS11/30/420200282.",
+            "TextJPN": "「ふふ、ふふふふふ。@k@vS11/30/420200283.ふはははははははははっっ！！！」",
+            "NamesENG": "Yamaoki",
+            "TextENG": "``Hehe, hehehehehe.@k@vS11/30/420200283. Hehahahahahahahahahah!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114199,
+            "TextJPN": "なぁ、雄介よ…！",
+            "TextENG": "Hey, Yuusuke...!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114200,
+            "TextJPN": "このへこたれなさと、呆れるほど大胆な行動力…。",
+            "TextENG": "This incredibly bold willingness to take action, to never give in..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114201,
+            "TextJPN": "お前の娘は、何から何までお前にそっくりだよっ！",
+            "TextENG": "Your daughter is exactly like you, from head to toe!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114202,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101432.",
+            "TextJPN": "「そんなわけですから、しばらくまたお世話になります。@k@vS11/28/420101433.…どうか、お手柔らかに」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``And so, I'll need to ask for a little more of your help going forward.@k@vS11/28/420101433. ...Please don't be too hard on me.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114203,
+            "NamesJPN": "山沖",
+            "PreTextTags": "@vS11/30/420200284.",
+            "TextJPN": "「ああ…好きにやりたまえ」",
+            "NamesENG": "Yamaoki",
+            "TextENG": "``Of course... do as you please.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114204,
+            "TextJPN": "いいだろう…この子の行く末を、最後まで見届けてやろうじゃないか。",
+            "TextENG": "Very well... let's see this girl's future all the way through to the end."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114205,
+            "TextJPN": "山沖はそう内心で呟きながら、闊歩して部屋を出て行くその背中を微笑ましく見送った…。",
+            "TextENG": "Yamaoki said that to himself and watched her back as she turned and stepped out of the room..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114206,
+            "NamesJPN": "相馬",
+            "PreTextTags": "@vS11/00/VT3B_souma2001.",
+            "TextJPN": "「…本日より、大牧女子学生殺人事件の合同捜査本部に、科警研による特別チームが参加することとなりました」",
+            "NamesENG": "Souma",
+            "TextENG": "``...Starting today, a special team at NRIPS will be joining the joint investigation for the Oumaki schoolgirl murder case.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114207,
+            "NamesJPN": "相馬",
+            "PreTextTags": "@vS11/00/VT3B_souma2002.",
+            "TextJPN": "「プロファイリング捜査の運用マニュアルを作成するための重要なテストケースとなりますので、皆様にはご協力とご理解を、よろしくお願いします」",
+            "NamesENG": "Souma",
+            "TextENG": "``This will be an important case for creating operational guidelines on profiling investigation techniques. Thank you very much for your cooperation and understanding.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114208,
+            "TextJPN": "そう言って恭しく、…しかし威厳のある物腰で、科警研より派遣された主任研究官が捜査陣の一同に向かって挨拶を述べる。",
+            "TextENG": "The senior researcher dispatched from NRIPS spoke respectfully... but with a dignified demeanor, as he addressed the entire investigation team."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114209,
+            "TextJPN": "中央には捜査本部の運営責任者である山口管理官と、県警捜査一課の堂島課長。",
+            "TextENG": "In the center was the person responsible for this investigation headquarters, Director Yamaguchi, and Section Chief Doujima of the First Investigation Division at prefectural HQ."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114210,
+            "TextJPN": "そして巴は、壇上に設けられた幹部席の左隅に座っていた。",
+            "TextENG": "And Tomoe was sitting on the left corner of the executive seating area of the platform."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114211,
+            "NamesJPN": "堂島",
+            "PreTextTags": "@vS11/00/VT3B_doujima2001.",
+            "TextJPN": "「で、ありますから」",
+            "NamesENG": "Doujima",
+            "TextENG": "``And so, with that out of the way.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114212,
+            "NamesJPN": "堂島",
+            "PreTextTags": "@vS11/00/VT3B_doujima2002.",
+            "TextJPN": "「今回の事件にあたっては、被害者が当時交際しておりました澤村公平が入院中の病院から転落死した事件」",
+            "NamesENG": "Doujima",
+            "TextENG": "``The victim of this case was dating Kouhei Sawamura at the time of his fatal falling incident at his hospital.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114213,
+            "NamesJPN": "堂島",
+            "PreTextTags": "@vS11/00/VT3B_doujima2003.",
+            "TextJPN": "「そしてその死亡に関わったとされる看護師の平沼陽子の自殺事件との関連性を調査した上で、犯人像の割り出し分析を行う予定です」",
+            "NamesENG": "Doujima",
+            "TextENG": "``And by investigating the relationship with the Youko Hiranuma suicide incident, who was considered related to this death, we are planning to conduct analysis and develop an image of the criminal.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114214,
+            "NamesJPN": "堂島",
+            "PreTextTags": "@vS11/00/VT3B_doujima2004.",
+            "TextJPN": "「なお、現地の捜査に当たっては所轄署の協力が不可欠であり…」",
+            "NamesENG": "Doujima",
+            "TextENG": "``Additionally, the cooperation of local authorities will be essential in this operation...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114215,
+            "TextJPN": "議事進行役の堂島課長の説明を聞きながら、…巴は感無量の思いでそっと、手持ちのハンドバッグから写真を一枚、取り出す。",
+            "TextENG": "While listening to the explanation from the meeting facilitator, Section Chief Doujima... Tomoe pulled a photo out of her handbag."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114216,
+            "TextJPN": "それは、事件現場から発見された尾崎渚の遺品、…ピンク色の財布にしまわれた、渚と礼奈の写真の複製だった。",
+            "TextENG": "It was one of Nagisa Ozaki's belongings found at the crime scene... a copy of the photo of Nagisa and Reina found in her pink wallet."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114217,
+            "NamesJPN": "巴",
+            "PreTextTags": "@-@vS11/28/420101434.",
+            "TextJPN": "（尾崎さん、…やっと、ここまできたよ）",
+            "NamesENG": "Tomoe",
+            "TextENG": "(Ozaki-san... I've finally made it here.)"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114218,
+            "TextJPN": "心の中で呟きながら、写真の中で微笑む彼女をそっ、となでる。",
+            "TextENG": "She whispered that to herself while gently smiling at the photo."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114219,
+            "TextJPN": "…その財布の中には、写真とともに改札を済ませた興宮行きの切符と、事件当日の日付が入った売店のレシートが入ってあった。",
+            "TextENG": "...In addition to the photo, the contents of the wallet included a train ticket bound for Okinomiya and a receipt for a store she visited on the date of the incident."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114220,
+            "TextJPN": "つまり、渚は竜宮礼奈に会いに行って、…会って話ができたのかどうかはわからないが、そこから帰ってきた後、事件に巻きこまれたということだ。",
+            "TextENG": "In other words, Nagisa went to see Reina Ryuugu... Although it wasn't clear if they were able to meet and talk, but it meant she was caught up in the incident after coming back from there."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114221,
+            "TextJPN": "そして、巴は彼女に二度も、襲われている…。",
+            "TextENG": "And there were two separate times Tomoe was attacked by that girl..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114222,
+            "TextJPN": "それを鑑みると、たとえ犯人でないとしても竜宮礼奈が何らかの関与をしていた可能性は非常に高い。",
+            "TextENG": "With that in mind, it was highly likely that Reina Ryuugu was involved in some way, even if she wasn't the actual culprit."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114223,
+            "TextJPN": "いや、彼女は何かを知っているはずだ…！！",
+            "TextENG": "No, she has to know something...!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114224,
+            "NamesJPN": "巴",
+            "PreTextTags": "@-@vS11/28/420101435.",
+            "TextJPN": "（待っていなさい、…竜宮礼奈）",
+            "NamesENG": "Tomoe",
+            "TextENG": "(Just you wait... Reina Ryuugu.)"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114225,
+            "TextJPN": "…そうだ、すべてはこれからだ。",
+            "TextENG": "...That's right. Everything starts now."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114226,
+            "TextJPN": "終わらせたりしない…絶対に。",
+            "TextENG": "I won't let it end... Not a chance."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114227,
+            "TextJPN": "敵がどんなに超常で、狡猾であったとしても…この悲劇の連鎖は、私が食い止めてみせる。",
+            "TextENG": "No matter how cunning, or even supernatural my foe may be... I'll bring this chain of tragedies to a close."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114228,
+            "TextJPN": "そのためなら、私は利用できるものを全部、利用しつくして戦い続けてやる…！",
+            "TextENG": "And for that reason, I'll use everything at my disposal and keep on fighting...!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114229,
+            "NamesJPN": "堂島",
+            "PreTextTags": "@vS11/00/VT3B_doujima2005.",
+            "TextJPN": "「…それから、今回はマスコミ関係者向けの報道・取材対応を警察庁広報室に担当していただきます。@k@vS11/00/VT3B_doujima2006.…南井係長、どうぞ」",
+            "NamesENG": "Doujima",
+            "TextENG": "``...And from here on, the National Police Agency's public relations office will be in charge of disseminating information to the mass media.@k@vS11/00/VT3B_doujima2006. ...Please welcome Subsection Chief Minai.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114230,
+            "TextJPN": "堂島課長に促されて、巴は頷くと起立して頭を下げる。",
+            "TextENG": "At Section Chief Doujima's urging, Tomoe stood up and took a bow."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114231,
+            "TextJPN": "…反対側の壁際で、給仕役のまどかがにこやかに笑って励ましてくれるのが見えた。",
+            "TextENG": "...She could see Madoka standing near the opposite wall, offering an encouraging smile."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114232,
+            "NamesJPN": "巴",
+            "PreTextTags": "@vS11/28/420101436.",
+            "TextJPN": "「広報室、特務係長の南井です。@k@vS11/28/420101437.報道・取材対応を担当いたします。@k@vS11/28/420101438.よろしくお願いします」",
+            "NamesENG": "Tomoe",
+            "TextENG": "``My name is Minai, the specially appointed subsection chief of the public relations office.@k@vS11/28/420101437. I will be in charge of all media correspondence.@k@vS11/28/420101438. I look forward to working with you.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114233,
+            "TextJPN": "…私は諦めない。絶対に。",
+            "TextENG": "...I won't give up. Ever."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114234,
+            "TextJPN": "奇跡を、必然へと変えて。",
+            "TextENG": "I'll make that miracle a reality."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 114235,
+            "TextJPN": "運命は、この手できっと、――切り開いてみせる！！",
+            "TextENG": "I'll carve a path to destiny... with my own two hands!!"
+        }
+    ]
+}

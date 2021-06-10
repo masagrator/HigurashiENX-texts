@@ -1,0 +1,847 @@
+{
+    "Main": [
+        {
+            "type": "SAVEINFO",
+            "category": 1,
+            "JPN": "#2B 気晴らしに散歩",
+            "ENG": "#2B / Wandering"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20063,
+            "TextJPN": "レナは部活が終わると同時にすっ飛んで帰って行った。",
+            "TextENG": "As soon as the club activities were finished, Rena flew off."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20064,
+            "TextJPN": "なんでも、いつも『宝探し』をしている場所でかぁいいものを見つけたらしい。",
+            "TextENG": "I heard that she found something really nice at the place where she always does her ``treasure hunting``."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20065,
+            "TextJPN": "だから今日は珍しく、魅音と二人での下校となった。",
+            "TextENG": "So today it was just Mion and me walking home together, a rather rare occurrence."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20066,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/660300056.",
+            "TextJPN": "「で、その宝探しの場所がさ。@k@vS19/03/660300057.…向こうの林を越えたゴミ山なんだよね～」",
+            "NamesENG": "Mion",
+            "TextENG": "``So about that treasure hunt.@k@vS19/03/660300057. It's a trash heap across the woods over there~``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20067,
+            "TextJPN": "魅音はそう言って、呆れたようにやれやれと肩をすくめる。まぁ確かに、年頃の娘が目を輝かせる場所ではないわな……。",
+            "TextENG": "I'm sure you're not the only one. Well, it's certainly not a place for a girl of your age to explore by herself......"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20068,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI03710.",
+            "TextJPN": "「しかし、不法投棄のゴミ山に、宝なんてあるのかよ。@k@vS19/01/HR_KEI03720.怪我しなきゃいいけどな」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``But what treasure is under a pile of illegally dumped garbage?@k@vS19/01/HR_KEI03720. Hopefully she won't get hurt.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20069,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/660300058.",
+            "TextJPN": "「あっははは！@k@vS19/03/660300059.　大丈夫大丈夫、レナも初めてじゃないし。@k@vS19/03/660300060.それに、そこは以前ダムの工事現場だった場所だから、色々あって賑やかなんだよ」",
+            "NamesENG": "Mion",
+            "TextENG": "``Hehehe!@k@vS19/03/660300059. Relax, she will be fine. This is not her first time.@k@vS19/03/660300060. Besides, it used to be a dam construction site, so there's a lot going on there.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20070,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI03730.",
+            "TextJPN": "「賑やか……ねぇ……」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``A lot... huh...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20071,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/660300061.",
+            "TextJPN": "「色々あったんだよ、戦いとかね！@k@vS19/03/660300062.　座りこみやったりデモをやったり！」",
+            "NamesENG": "Mion",
+            "TextENG": "``A lot of fighting for example!@k@vS19/03/660300062. Sit-ins, demonstrations, etc.!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20072,
+            "TextJPN": "戦いとは穏やかじゃない話だが、聞いておこうと思った。",
+            "TextENG": "A fight is not a peaceful thing to talk about, but I thought I'd ask."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20073,
+            "TextJPN": "魅音は当時の経緯を、身振り手振りを交えて話し出す。",
+            "TextENG": "Fascinated, she began to tell the story of how it happened, using gestures."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20074,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI03740.",
+            "TextJPN": "「この雛見沢を、湖に沈める……か。確かに、とんでもない話だよな」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Submerging this Hinamizawa in a lake...... That's a hell of a story, isn't it?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20075,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300207.",
+            "TextJPN": "「役人どもは本当に一方的だった。@k@vS19/03/990300208.偉そうで威張ってた！@k@vS19/03/990300209.　金で解決できないと悟るとあらゆる嫌がらせをしてきたんだよ？！@k@vS19/03/990300210.　嫌らしいヤツらだった！」",
+            "NamesENG": "Mion",
+            "TextENG": "``The government guys were really adamant about it.@k@vS19/03/990300208. Acting all big and full of themselves!@k@vS19/03/990300209. Since they figured out that they couldn't settle it with money, they did a bunch of nasty stuff!@k@vS19/03/990300210. They were nasty guys!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20076,
+            "TextJPN": "魅音はまるで目の前で繰り広げているかのように、声を荒げながら喋る。",
+            "TextENG": "Mion spoke excitedly, as if the whole thing was happening right in front of her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20077,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI03750.",
+            "TextJPN": "「よく勝てたな…。相手は国だろ？」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``I'm amazed you guys won... You were facing the federal government, right?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20078,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300211.",
+            "TextJPN": "「村長や村の有力者たちがね、方々に陳情した。@k@vS19/03/990300212.東京にも行ったし、いろんな政治家に根回しもした。@k@vS19/03/990300213.……そうしてる内に計画は撤回されたんだよ」",
+            "NamesENG": "Mion",
+            "TextENG": "``The mayor and prominent figures in the village all signed petitions.@k@vS19/03/990300212. They went to Tokyo and struck deals with legislators...@k@vS19/03/990300213. And as a result, the development plan was retracted.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20079,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/660300070.",
+            "TextJPN": "「私たちの完全勝利だった！@k@vS19/03/660300071.　あっはははは！」",
+            "NamesENG": "Mion",
+            "TextENG": "``It was our complete victory!@k@vS19/03/660300071. Ahahahahaha!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20080,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI03760.",
+            "TextJPN": "「暴力沙汰とかには…ならなかったのか？@k@vS19/01/HR_KEI03770.　傷害事件とか…殺人、」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``There wasn't any... violence, was there?@k@vS19/01/HR_KEI03770. Like assaults... or murders?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20081,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300216.",
+            "TextJPN": "「なかった」",
+            "NamesENG": "Mion",
+            "TextENG": "``None.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20082,
+            "TextJPN": "ぴしゃりと言いきられた。",
+            "TextENG": "She promptly cut me off."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20083,
+            "TextJPN": "奇妙な違和感。",
+            "TextENG": "That's odd."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20084,
+            "TextJPN": "言葉にはピリオドがこめられていた。",
+            "TextENG": "Her words signaled the end of discussion."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20085,
+            "TextJPN": "それ以上は、立ち入ってほしくないのか。それともあるいは……。",
+            "TextENG": "Do you not want me to pry any further? Or......."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20086,
+            "TextJPN": "ひょっとしたら、思いつくままに根掘り葉掘り聞くような内容ではなかったのかもしれない。",
+            "TextENG": "Perhaps it wasn't the kind of thing you can just come up with and ask about."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20087,
+            "TextJPN": "収まりのつかない俺の好奇心は、胸の中で所在なくうなだれていた。",
+            "TextENG": "My curiosity unsated, I sighed dejectedly inside."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20088,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/990300217.",
+            "TextJPN": "「じゃね、また明日ねぇ！@k@vS19/03/990300218.　圭ちゃんそれ、家に帰るまで消しちゃダメだからね！」",
+            "NamesENG": "Mion",
+            "TextENG": "``Later. See you tomorrow!@k@vS19/03/990300218. Kei-chan! You can't wash that off until you get home, got it!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20089,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI03780.",
+            "TextJPN": "「わかってるよ消さねぇよ！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``I got it. I won't!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20090,
+            "TextJPN": "魅音は俺の顔をちらちらと見ては笑いを堪えている。",
+            "TextENG": "Mion held back her laughter while stealing glances at my face."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20091,
+            "TextJPN": "……いったい、どんなえげつないラクガキをしたのだろうか…。",
+            "TextENG": "...I wonder what kind of nasty doodles they drew..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20092,
+            "TextJPN": "覚えてろ魅音め…！",
+            "TextENG": "Damn you, Mion! You shall rue this day...!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20093,
+            "TextJPN": "もし逆の立場になったら、貴様の顔面にねっちりと！@k　タワシじゃ落ちないくらいラクガキしてやるからなぁ…！！！",
+            "TextENG": "If our roles are ever reversed... I'm going to go all out!@k All over your face so you won't be able to take it off, even with a scouring pad...!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20094,
+            "TextJPN": "自宅に着き、見事にお袋と鉢合わせして、俺は改めて恥をかくことになったのだった…。",
+            "TextENG": "Upon arriving home, I ran straight into my mom, embarrassing myself yet again..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20095,
+            "TextJPN": "…左のカードは絶対にジョーカーでない、と推理できるなら、右のカードがジョーカーだと断言できるはずだ。",
+            "TextENG": "...The left card definitely wasn't the joker. If I could trust that theory, then I should've been able to declare that the card to the right was the joker."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20096,
+            "TextJPN": "魅音に挑発されるまでもなく、…右が一番あやしい。",
+            "TextENG": "Even without Mion's taunting... The one on the right was the most suspicious."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20097,
+            "TextJPN": "だが、沙都子の反応だけで決め付けるのは早計過ぎないだろうか？！@k　もっと…慎重に……あ！",
+            "TextENG": "But wasn't it a bit too rash to decide based solely on Satoko's reaction!?@k More... carefully... Ah!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20098,
+            "TextJPN": "…思い出した…！！@k　あの傷は…左のカードは……間違いない！@k　クローバーの７！！！",
+            "TextENG": "...I remember now...!! That mark... The left card... No doubt about it!@k The Seven of Clubs!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20099,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/660200062.",
+            "TextJPN": "「うん…。@k@vS19/02/660200063.きっとクローバーの７だね…」",
+            "NamesENG": "Rena",
+            "TextENG": "``Hmm... @k@vS19/02/660200063. It's the Seven of Clubs, I see...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20100,
+            "TextJPN": "勝った！@k　左のカードはクローバーの７！",
+            "TextENG": "I've won!@k The card on the left was the Seven of Clubs!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20101,
+            "TextJPN": "ということは残る右のカードが…ジョーカーだッ！！！！",
+            "TextENG": "So that meant the card on the right was... the joker!!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20102,
+            "TextJPN": "そして、右のカードにまさに触れんとした瞬間、俺はぴた、と手を止めた。",
+            "TextENG": "And then, just before my hand touched the right card, I froze."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20103,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI03790.",
+            "TextJPN": "「……ふっふっふ……くっくっく…。@k@vS19/01/HR_KEI03800.さすが魅音だよ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...Huhuhuh... heheheh...@k@vS19/01/HR_KEI03800. I would expect no less from you.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20104,
+            "TextJPN": "場の誰もが右のカードがジョーカーだと確信した矢先の俺の『止め』に皆がざわつく。",
+            "TextENG": "There was a wave of murmurs amongst the onlookers at my sudden halt, right before I confirmed the right card was the joker."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20105,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/660400011.",
+            "TextJPN": "「？？　え？@k@vS19/04/990400073.　圭一さんは何を言ってるのでございましょう？？@k@vS19/04/660400013.　だって左…、」",
+            "NamesENG": "Satoko",
+            "TextENG": "``?? Huh?@k@vS19/04/990400073. What could Keiichi-san possibly be saying??@k@vS19/04/660400013. I mean, the left one is...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20106,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/990500037.",
+            "TextJPN": "「…シーです」",
+            "NamesENG": "Rika",
+            "TextENG": "``...Shh.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20107,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/660300022.",
+            "TextJPN": "「へー…。@k@vS19/03/660300023.圭ちゃんはどうして右が『ジョーカーじゃない』って確信できるの？」",
+            "NamesENG": "Mion",
+            "TextENG": "``Ooh...@k@vS19/03/660300023. What makes you so certain that the right one isn't the joker, Kei-chan?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20108,
+            "TextJPN": "魅音からの思わぬ発言。@k俺を除く全員が困惑する。",
+            "TextENG": "Mion let loose an unexpected question.@k Everyone else was baffled."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20109,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI03810.",
+            "TextJPN": "「右のカードが何かは俺にもわからないさ。@k@vS19/01/HR_KEI03820.だが左のカードがクローバーの７だってことだけはわかる」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``I don't know what the card on the right could be.@k@vS19/01/HR_KEI03820. But I know that the one on the left is the Seven of Clubs.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20110,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/990400075.",
+            "TextJPN": "「じゃあ！@k@vS19/04/990400076.　残る右のカードがジョーカーなのじゃありませんこと？！@k@vS19/04/990400077.　必ず左右どっちかがジョーカーという約束でしょう？！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Then!@k@vS19/04/990400076. Doesn't that leave the right one as the joker!?@k@vS19/04/990400077. One of them has to be the joker, right!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20111,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI03830.",
+            "TextJPN": "「あぁ。@k@vS19/01/HR_KEI03840.…左右のどっちかにジョーカーがあるのは本当だろうな」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Yeah.@k@vS19/01/HR_KEI03840. ...One of those is the joker, right?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20112,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/990500038.",
+            "TextJPN": "「……圭一は勘がいいです」",
+            "NamesENG": "Rika",
+            "TextENG": "``...Keiichi has good intuition.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20113,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200189.",
+            "TextJPN": "「え？@k@vS19/02/990200190.　梨花ちゃんそれってどういう…、」",
+            "NamesENG": "Rena",
+            "TextENG": "``Huh?@k@vS19/02/990200190. Rika-chan, what do you mean by...?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20114,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI03850.",
+            "TextJPN": "「つまりさ。@k@vS19/01/HR_KEI03860.…クローバーの７は。@k@vS19/01/HR_KEI03870.…さっき俺が沙都子のスペードの７と合わせて捨てたカードなんだよ…ッ！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``So basically...@k@vS19/01/HR_KEI03860. the Seven of Clubs...@k@vS19/01/HR_KEI03870. I discarded that by matching it with Satoko's Seven of Spades earlier...!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20115,
+            "TextJPN": "みんなが一斉に場に捨てられたカードを凝視する！",
+            "TextENG": "Everyone's attention snapped to the discard pile at the same time!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20116,
+            "TextJPN": "ぐちゃぐちゃに捨てられたこの状況では真偽はわからない…！",
+            "TextENG": "The truth of the matter couldn't be discerned from that sloppy pile...!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20117,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI03880.",
+            "TextJPN": "「つまり、@k@vS19/01/HR_KEI03890.……魅音は捨て札を１枚拾って…左のカードに重ねている…つまりッ！！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``So that means...@k@vS19/01/HR_KEI03890. Mion pocketed one of discarded cards... then aligned it over the left card... and that means―!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20118,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/990200191.",
+            "TextJPN": "「…そうか、わかった！@k@vS19/02/990200192.　左のカードを…クローバーの７に見せかけているんだね？！」",
+            "NamesENG": "Rena",
+            "TextENG": "``...I see, I get it!@k@vS19/02/990200192. This left card... is being disguised as the Seven of Clubs, right!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20119,
+            "TextJPN": "このゲームが始まって初めて、魅音の顔に影がさしたのを俺は見逃さない。",
+            "TextENG": "It was the first time since the start of the match that a shadow ran across Mion's expression, and I didn't let that slip by."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20120,
+            "TextJPN": "そして……俺は３回転半のひねりを入れてからビシリと指定したッ！！",
+            "TextENG": "Then... with a grand flourish, I declared it loudly!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20121,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI03900.",
+            "TextJPN": "「ジョーカーは……『左手』だぁあぁああああぁああッッ！！！！！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``The joker is... ...the left ooooooooooone!!!!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20122,
+            "TextJPN": "あまりに熱過ぎる一瞬…！@k　その１秒間がその場の全員には何時間にも感じられた。",
+            "TextENG": "It was an intense moment...!@k That one second felt like an eternity for everyone there."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20123,
+            "TextJPN": "その沈黙の中、『ふっ……』と魅音は不敵な笑みを浮かべる――。",
+            "TextENG": "In the silence, Mion smiles fearlessly"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20124,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/660300024.",
+            "TextJPN": "「さすがだね、圭ちゃ――」",
+            "NamesENG": "Mion",
+            "TextENG": "``As expected, Kei-cha...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20125,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI03910.",
+            "TextJPN": "「――と見せかけて、実は右手なんだな。@k@vS19/01/HR_KEI03920.ほら」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...It's actually your right hand, pretending to be.@k@vS19/01/HR_KEI03920. Look!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20126,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/660300025.",
+            "TextJPN": "「な゛ッッ？！」",
+            "NamesENG": "Mion",
+            "TextENG": "``Wha...?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20127,
+            "TextJPN": "唖然とする魅音を尻目に、俺はひょいッと右のカードを引き抜いた。",
+            "TextENG": "With the stunned Mion, I suddenly pulled out the card on the right."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20128,
+            "TextJPN": "『ギョッ！？』という異音が、魅音を除いた三人の口から吐き出された。",
+            "TextENG": "*gyo*!? The strange noise escaped from everyone's mouths except Mion's."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20129,
+            "TextJPN": "そのカードは、――はたしてジョーカーだった。",
+            "TextENG": "The card... was a joker."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20130,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/660300026.",
+            "TextJPN": "「なっ……け、圭ちゃんっ……？！」",
+            "NamesENG": "Mion",
+            "TextENG": "``N-Now... Ke-Kei-chan...?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20131,
+            "TextJPN": "血の気の引いた魅音の顔。俺はその顔を見るだけで、実に至福の境地！",
+            "TextENG": "Mion's face was red. Just by looking at that face, I'm really blissful!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20132,
+            "TextJPN": "……だが、待てよ。他の皆も血の気が引いてるように見えるんだが……なんでだ？",
+            "TextENG": "...But wait. Everyone else seems to be red... Why?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20133,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI03930.",
+            "TextJPN": "「……はっ？@k@vS19/01/HR_KEI03940.　お前ら…まさか……？！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Huh...?@k@vS19/01/HR_KEI03940. You guys... No way...?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20134,
+            "TextJPN": "レナがペロっと舌を出す。沙都子が『う～む』と腕を組む。そして梨花ちゃんが両手の指先だけで、ピチピチっと拍手ならぬ、拍指を俺に送っている。",
+            "TextENG": "Rena sticks out her tongue. Satoko crosses her arms with ``Umu`` sound. And Rika-chan is sending me applause, using full palms of her hands."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20135,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI03950.",
+            "TextJPN": "「し…知ってたのか？！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``D-Did you know?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20136,
+            "TextJPN": "三人が一斉に、ふッ……と笑った。",
+            "TextENG": "All three laughed... at once."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20137,
+            "TextJPN": "き…貴様ら……鬼か！！！　魅音のカラクリと知っていて…俺が地獄でのたうち回る様を見物しようという魂胆だったとは…お、恐るべし…雛見沢の住人たちよ……。",
+            "TextENG": "Y-You guys... are demons!!! I knew the trick of Mion... I cannot wait to see how you will be fluttering in hell... Oh, they are scary... these Hinamizawa residents..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20138,
+            "TextJPN": "俺の背筋に、ゾッと冷たいものが走ったことを伝えておこう。",
+            "TextENG": "I felt a chill ran through my spine."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20139,
+            "TextJPN": "だが見ると、魅音が眉間に皺を寄せ、カードを見続けていた。そして、おもむろに顔を上げた。",
+            "TextENG": "However, when I saw it, Mion wrinkled between her eyebrows and kept looking at the card. When she looked up, she was eager."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20140,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/660300027.",
+            "TextJPN": "「圭ちゃん、なんでわかったの……？」",
+            "NamesENG": "Mion",
+            "TextENG": "``Kei-chan, how did you know...?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20141,
+            "TextJPN": "全員が、一斉に俺を見る。みんなの胸の内にある問いを、魅音の言葉が代表しているのは明らかだった。",
+            "TextENG": "Everyone looked at me all at once. It was clear that Mion's words represented the questions in everyone's hearts."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20142,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI03960.",
+            "TextJPN": "「簡単さ。@k@vS19/01/HR_KEI03970.俺にカードの傷を覚えられているリスクを背負いながらも、明らかに特徴的な他のカードを左手にみせる……」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Simple.@k@vS19/01/HR_KEI03970. Show other distinctive cards in your left hand, at the risk of remembering the scratches on the card...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20143,
+            "TextJPN": "そういいながら、俺はチラリと沙都子を見る。",
+            "TextENG": "While saying so, I glance at Satoko."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20144,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/660400017.",
+            "TextJPN": "「え…私が何かしまして？」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Eh... What have I done?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20145,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI03980.",
+            "TextJPN": "「実に見え見えな……そう！@k@vS19/01/HR_KEI03990.　沙都子は失言をしたんだよ…！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``You really don't know about it... I see!@k@vS19/01/HR_KEI03990. Satoko made a mistake...!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20146,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/660400018.",
+            "TextJPN": "「わ、私がですの……？@k@vS19/04/660400019.　私が一体、どんな失言をしたっていうんですの？！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Me...?@k@vS19/04/660400019. What kind of mistake did I make!?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20147,
+            "TextJPN": "俺はすかさず、沙都子の口真似をして言った。",
+            "TextENG": "I immediately imitated Satoko's speech and said."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20148,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI04000.",
+            "TextJPN": "「残る右のカードがジョーカーなのじゃありませんこと？！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Isn't the remaining right card a joker?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20149,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI04010.",
+            "TextJPN": "「策に溺れたな、沙都子。@k@vS19/01/HR_KEI04020.お前がそんなことを俺に教えてくれるはずがないッ！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Drowning in a plan, Satoko.@k@vS19/01/HR_KEI04020. Of course you won't tell me that!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20150,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/660400020.",
+            "TextJPN": "「なっ――？！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Wha...?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20151,
+            "TextJPN": "沙都子の顔が、さっと青ざめてわなわなと奮えだす。",
+            "TextENG": "Satoko's face quickly turns pale and she begins to fell into my trap."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20152,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI04030.",
+            "TextJPN": "「そして、魅音……！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``And Mion...!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20153,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/660300028.",
+            "TextJPN": "「わ…私？！」",
+            "NamesENG": "Mion",
+            "TextENG": "``M-Me?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20154,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI04040.",
+            "TextJPN": "「魅音らしからぬ正直すぎる反応……。@k@vS19/01/HR_KEI04050.これらの二つのミスリードの相乗効果で、俺がさらに深読みするよう仕向けるのがすべての狙いだ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``A reaction that is too honest and not like Mion...@k@vS19/01/HR_KEI04050. The synergistic effect of these two misleads is all about encouraging me to read deeper.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20155,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/660200068.",
+            "TextJPN": "「で、でもさっき話したみたいに二枚重ねすれば……」",
+            "NamesENG": "Rena",
+            "TextENG": "``But if you stack two cards like we talked about earlier...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20156,
+            "TextJPN": "ちっちっちっと人差し指を立てる俺。",
+            "TextENG": "I raise my index finger."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20157,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI04060.",
+            "TextJPN": "「二枚重ねをすれば、たとえ騙せても、『イカサマだ』と言い逃れされる危険もある。だから、その策は取らなかった。――違うか、魅音っ？！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``If you stack two cards, even if you can deceive them, there is a danger that you will be evaded by saying ``It's crazy.`` So I didn't take that measure... Am I wrong, Mion?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20158,
+            "TextJPN": "その指摘を受けて、黙って耳を傾けていた魅音が不意にくっくっく、と笑い出す。そしてその含み笑いは、『あっはははは～～っ！』と豪快な笑いへと変わっていった。",
+            "TextENG": "In response to that point, Mion, who was listening silently, suddenly began to laugh. And the laughter was, ``Ahahahaha~~!`` And changed to a lively laugh."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20159,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/660300029.",
+            "TextJPN": "「まいったね……！@k@vS19/03/660300030.　単純に慌てて取ったのならがっかりだったけど、そこまで読んでの判断なら…おじさん完全降伏だよ～！」",
+            "NamesENG": "Mion",
+            "TextENG": "``Oh no...!@k@vS19/03/660300030. I would be disappointed if you simply took it in a hurry, but if you read it that far... It's this old man complete surrender!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20160,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/660300031.",
+            "TextJPN": "「……初代部長として私も様々なプレイングを見てきたけど。@k@vS19/03/660300032.……圭ちゃん。@k@vS19/03/660300033.…あんたは…ベストだよ。@k@vS19/03/660300034.…ベストオブザベストオブザベストオブキングッ！」",
+            "NamesENG": "Mion",
+            "TextENG": "``...As the club president, I've seen a lot of playing.@k@vS19/03/660300032. ...Kei-chan.@k@vS19/03/660300033. You are... the best.@k@vS19/03/660300034. ...Best of the Best of the Best of King!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20161,
+            "TextJPN": "おそらくは魅音の最高の賛辞だろう。@k魅音は観念し…両の手のカードをこぼした。",
+            "TextENG": "Probably the best compliment of Mion.@k Mion thought... I spilled the cards in both hands."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20162,
+            "TextJPN": "……俺の……逆転勝利だッッ！！！！！！！",
+            "TextENG": "...It's my... a come-from-behind victory!!!!!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20163,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS19/02/660200069.",
+            "TextJPN": "「すごいすごい！@k@vS19/02/660200070.　圭一くん、すごいよ～～？」",
+            "NamesENG": "Rena",
+            "TextENG": "``Wow! Wow!@k@vS19/02/660200070. Keiichi-kun is amazing~~.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20164,
+            "NamesJPN": "沙都子",
+            "PreTextTags": "@vS19/04/660400021.",
+            "TextJPN": "「ま、まぁ……少しは、楽しませてもらえそうですわね！@k@vS19/04/660400022.　今後が楽しみでしてよ！！」",
+            "NamesENG": "Satoko",
+            "TextENG": "``Easy, easy... It looks like you'll be entertaining us a little!@k@vS19/04/660400022. I'm looking forward to it!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20165,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/660300035.",
+            "TextJPN": "「いや～、私の見る目に間違いはなかったね！@k@vS19/03/660300036.　よきかなよきかな！！」",
+            "NamesENG": "Mion",
+            "TextENG": "``No, there was no mistake in my eyes!@k@vS19/03/660300036. This is good! This is good!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20166,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/660500066.",
+            "TextJPN": "「では……@k@vS19/05/660500067.罰ゲームは魅ぃで決定ですね」",
+            "NamesENG": "Rika",
+            "TextENG": "``Then...@k@vS19/05/660500067. The penalty game is decided.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20167,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS19/03/660300037.",
+            "TextJPN": "「――――おぶしっ？！」",
+            "NamesENG": "Mion",
+            "TextENG": "``...Oh no...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20168,
+            "TextJPN": "氷のような梨花ちゃんの一言で、魅音が凍りつく。",
+            "TextENG": "Mion freezes with Rika-chan's worlds, like ice."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20169,
+            "TextJPN": "しかし、さすがに顔に油性ペンで落書きは、女の子には過酷すぎるよな……。",
+            "TextENG": "However, graffiti on the face with an oil-based pen is too harsh for girls..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20170,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI04070.",
+            "TextJPN": "「いいよ、荷物もちで。@k@vS19/01/HR_KEI04080.勝ったって事実で……俺は満足さ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Okay, forget about it.@k@vS19/01/HR_KEI04080. The fact that I won... I'm satisfied.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20171,
+            "TextJPN": "『わぁぁッ～！！』っと歓声が上がる。それは、俺の株が上がった瞬間だった。",
+            "TextENG": "``Wow!!`` Cheers go up. That was the moment my ego went up."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20172,
+            "NamesJPN": "梨花",
+            "PreTextTags": "@vS19/05/660500068.",
+            "TextJPN": "「……そう。@k@vS19/05/660500069.そして圭一のこの甘さが、この先の命取りとなったのです」",
+            "NamesENG": "Rika",
+            "TextENG": "``...So...@k@vS19/05/660500069. This sweetness of Keiichi became the death toll in the future.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 20173,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS19/01/HR_KEI04090.",
+            "TextJPN": "「妙なナレーションはやめんかい！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``I'm sorry for the strange narration!``"
+        }
+    ]
+}

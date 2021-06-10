@@ -1,0 +1,310 @@
+{
+    "Main": [
+        {
+            "type": "SAVEINFO",
+            "category": 1,
+            "JPN": "後夜祭",
+            "ENG": "After the Festival"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13520,
+            "TextJPN": "緊張感の張り詰めた深夜の署内。",
+            "TextENG": "Late that night, tensions in the police station were strained."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13521,
+            "TextJPN": "シンとした中、幾人もの署員たちが時計と電話を交互に見比べながら、息の詰まるような時間を過ごしている。",
+            "TextENG": "In the silence, many of the staff members' eyes shifted back and forth between the clock and their telephones, counting the seconds in that stifled atmosphere."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13522,
+            "TextJPN": "熊谷くんが若いのを連れて飛び込んできた。",
+            "TextENG": "Kumagaya-kun burst in with a young guy trailing behind him."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13523,
+            "NamesJPN": "熊谷",
+            "PreTextTags": "@vS20/19/443100015.",
+            "TextJPN": "「大石さん、こっちは検死入りました！　じい様もさっき到着です！！@k@vS20/19/443100016.　俺もスタンバイＯＫしました！！@k@vS20/19/443100017.　このまま焼死の現場へ直行します！！」",
+            "NamesENG": "Kumagai",
+            "TextENG": "``Ooishi-san, I've got the autopsy results! The court physician just got here!!@k@vS20/19/443100016. I'm ready to go, sir!!@k@vS20/19/443100017. I'll head straight for the burned body's location!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13524,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/440700121.",
+            "TextJPN": "「熊ちゃん、ちょっと話がややこしくなりました。向こうは身元の判別が非常に困難な状態だそうです」",
+            "NamesENG": "Ooishi",
+            "TextENG": "``Kuma-chan, things have gotten a bit complicated. They appear to be having a very difficult time determining who the victim is.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13525,
+            "NamesJPN": "熊谷",
+            "PreTextTags": "@vS20/19/443100018.",
+            "TextJPN": "「まさか、４年前のアレっすか…？！」",
+            "NamesENG": "Kumagai",
+            "TextENG": "``You don't mean... like 4 years ago...?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13526,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/440700122.",
+            "TextJPN": "「いぃえぇ」",
+            "NamesENG": "Ooishi",
+            "TextENG": "``Nope."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13527,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/440700123.",
+            "TextJPN": "「こんがりといい感じだそうで」",
+            "NamesENG": "Ooishi",
+            "TextENG": "Cooked to a nice, light brown.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13528,
+            "TextJPN": "ふざけた口調だが、意味するところは重い。",
+            "TextENG": "He spoke in sportive tones, but the meaning behind his words was heavy."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13529,
+            "TextJPN": "…署員たちのため息がもれる。",
+            "TextENG": "...The staff gave a collective sigh."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13530,
+            "NamesJPN": "熊谷",
+            "PreTextTags": "@vS20/19/443100019.",
+            "TextJPN": "「頭のてっぺんからまるまる…？」",
+            "NamesENG": "Kumagai",
+            "TextENG": "``All the way? Head to toe...?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13531,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/440700124.",
+            "TextJPN": "「ばっちり黒焦げだそうで。あっちの現場、可哀想だなぁ」",
+            "NamesENG": "Ooishi",
+            "TextENG": "``Completely blackened, it seems. I feel sorry for the guys on the scene.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13532,
+            "TextJPN": "所持品ゼロでこんがり。@kしかも県外に捨てるとは…。",
+            "TextENG": "Cooked, with no possessions.@k Then, discarded outside the prefecture..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13533,
+            "TextJPN": "下手をしていたら１週間は身元確認が遅れていたかもしれない。",
+            "TextENG": "At worst, it would have taken a week for the body to be identified."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13534,
+            "TextJPN": "…それを今晩の内に嗅ぎ付けれたのは大きい。",
+            "TextENG": "...The fact that they'd sniffed it out tonight was huge."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13535,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/440700125.",
+            "TextJPN": "「今、小宮山くんたちが興宮の歯科医を根こそぎ夜襲してます。カルテで歯型照合するしかないでしょ。@k@vS20/11/440700126.…ごめん！@k@vS20/11/440700127.　誰かキツメのタバコ、２箱くらい買ってきてくれません？」",
+            "NamesENG": "Ooishi",
+            "TextENG": "``Komiyama-kun and a few others are performing a thorough night raid on the dentist in Okinomiya. All we can do is hope a tooth matches some medical records.@k@vS20/11/440700126. ...Sorry!@k@vS20/11/440700127. Could someone go buy me two or so boxes of strong cigarettes?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13536,
+            "TextJPN": "若手が返事をし廊下へ飛び出して行った。",
+            "TextENG": "The young guy answered in affirmation and darted out into the hallway."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13537,
+            "NamesJPN": "熊谷",
+            "PreTextTags": "@vS20/19/443100020.",
+            "TextJPN": "「……今年は見事、見つけましたね。…ひょっとすると、過去の失踪者もこんな感じで県外で殺されてたんすかね」",
+            "NamesENG": "Kumagai",
+            "TextENG": "``...We did an excellent job finding it this year. ...It could be that the people who disappeared in past years were scattered outside the prefecture like this too.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13538,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/440700128.",
+            "TextJPN": "「なら埋めればいいじゃないですか。重り付けて日本海でも琵琶湖でもいいですねぇ」",
+            "NamesENG": "Ooishi",
+            "TextENG": "``Then why not bury them, or sink them into the Sea of Japan, or Lake Biwa, or somewhere like that?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13539,
+            "NamesJPN": "熊谷",
+            "PreTextTags": "@vS20/19/443100021.",
+            "TextJPN": "「…でもどうして。…１人死んで１人消えるのがこれまでのパターンじゃないすか」",
+            "NamesENG": "Kumagai",
+            "TextENG": "``...Why, though? ...Hasn't the pattern so far been one person dies, and another disappears?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13540,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/440700129.",
+            "TextJPN": "「熊ちゃん。仏は拘束なしでドラム缶の中でこんがりでしょ。多分、シメられた後にわざわざ焼いたんじゃないかと思うんですよ。@k@vS20/11/440700130.見つかることを覚悟の上でです」",
+            "NamesENG": "Ooishi",
+            "TextENG": "``Kuma-chan, the corpse was inside an oil drum, unrestrained, and cooked. They probably burned them after strangling them.@k@vS20/11/440700130. They knew it would be found.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13541,
+            "NamesJPN": "熊谷",
+            "PreTextTags": "@vS20/19/443100022.",
+            "TextJPN": "「じゃあつまり…、今年は消す気は初めからなかったってことすか？」",
+            "NamesENG": "Kumagai",
+            "TextENG": "``So what you mean is... from the beginning, they didn't want a person to disappear this year?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13542,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/440700131.",
+            "TextJPN": "「消す気がないってよりは、これはそれとはまったく別のものでしょうねぇ。消すどころか、主張しているようにすら感じられますよ」",
+            "NamesENG": "Ooishi",
+            "TextENG": "``Not so much that as they just aren't related. The person didn't disappear—in fact, whoever did it seems to have wanted to make a show of it.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13543,
+            "NamesJPN": "熊谷",
+            "PreTextTags": "@vS20/19/443100023.",
+            "TextJPN": "「つまり…見せしめの意味があるってことすか？」",
+            "NamesENG": "Kumagai",
+            "TextENG": "``You mean... it could be a warning?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13544,
+            "TextJPN": "腕を組み、…そこで溜めに溜めていた大きなため息を、ぶは～～～…っと吐く。",
+            "TextENG": "He folded his arms... and then heaved a long and heavy sigh."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13545,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/440700132.",
+            "TextJPN": "「それを市内でやってくれりゃあ、その線もあるんですがねぇ」",
+            "NamesENG": "Ooishi",
+            "TextENG": "``That might have been the case had it happened in town."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13546,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/440700133.",
+            "TextJPN": "「…こんな遠くまで運んで焼いちゃったら、下手したらわかんないでしょ。見せしめにするなら雛見沢の近くでやるべきなんですよ」",
+            "NamesENG": "Ooishi",
+            "TextENG": "...If they'd messed up, taking the victim far away and burning them alive wouldn't have been noticed. If they meant it as a warning, they should have done it closer to Hinamizawa."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13547,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/440700134.",
+            "TextJPN": "「……殺したことを主張したいのに、場所は演出効果の確実じゃない遠方。主張したいのか隠したいのか。@k@vS20/11/440700135.………今年はなぁに考えてるのかなぁ、オヤシロさまは～」",
+            "NamesENG": "Ooishi",
+            "TextENG": "...They wanted to emphasize the fact that they killed the victim, but instead of doing it somewhere for dramatic effect, they did it outside the prefecture. Did they want to emphasize it or hide it?@k@vS20/11/440700135. ......Boy, I do wonder what Oyashiro-sama is up to this year~``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13548,
+            "TextJPN": "重い沈黙を裂く電話音。@k近くの署員が受話器をひったくる。",
+            "TextENG": "A telephone ring cut through the heavy silence.@k A staff member nearby snatched up the receiver."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13549,
+            "NamesJPN": "刑事",
+            "PreTextTags": "@vS20/00/KeijiA44001.",
+            "TextJPN": "「大石さん！　小宮山さんです！！@k@vS20/00/KeijiA44002.　出ました！@k@vS20/00/KeijiA44003.　興宮のデンタルクリニックで３年前に親知らずの治療をしてます！！」",
+            "NamesENG": "Detective",
+            "TextENG": "``Ooishi-san! It's Komiyama!!@k@vS20/00/KeijiA44002. They have it!@k@vS20/00/KeijiA44003. The dental clinic in Okinomiya fixed the wisdom tooth three years ago!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13550,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/440700136.",
+            "TextJPN": "「カルテは？！」",
+            "NamesENG": "Ooishi",
+            "TextENG": "``What about the records?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13551,
+            "NamesJPN": "刑事",
+            "PreTextTags": "@vS20/00/KeijiA44004.",
+            "TextJPN": "「レントゲン付きでばっちりと！」",
+            "NamesENG": "Detective",
+            "TextENG": "``Complete with X-rays!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13552,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/440700137.",
+            "TextJPN": "「いやぁ…、こんな明け方前に歯医者さんには申し訳ないなぁ。熊ちゃん、小宮山くんからカルテ受け取ったらすぐに出発して下さい」",
+            "NamesENG": "Ooishi",
+            "TextENG": "``Well... I feel bad for waking up the dentist before dawn. Kuma-chan, get out there as soon as you get the records from Komiyama-kun.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13553,
+            "NamesJPN": "熊谷",
+            "PreTextTags": "@vS20/19/443100024.",
+            "TextJPN": "「了解っすッ！！」",
+            "NamesENG": "Kumagai",
+            "TextENG": "``Will do!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13554,
+            "NamesJPN": "刑事",
+            "PreTextTags": "@vS20/00/KeijiA44005.",
+            "TextJPN": "「あ、課長です！！　夜分、お疲れさまです！」",
+            "NamesENG": "Detective",
+            "TextENG": "``Oh, it's the Chief!! Thank you for coming out at this hour!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13555,
+            "NamesJPN": "高杉",
+            "PreTextTags": "@vS20/00/442700019.",
+            "TextJPN": "「大石さん、遅くなって申し訳ない。状況は？！」",
+            "NamesENG": "Takasugi",
+            "TextENG": "``Ooishi-san, my apologies for my lateness. What's the situation?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 13556,
+            "NamesJPN": "大石",
+            "PreTextTags": "@vS20/11/440700138.",
+            "TextJPN": "「う～ん、…やっと面白くなって来たってとこですかねぇ。燃えてきたぞぅ！@k@vS20/11/440700139.　わぁ～お♪！！」",
+            "NamesENG": "Ooishi",
+            "TextENG": "``Hmm... Well, it's just getting good, you see. We're all getting fired up!@k@vS20/11/440700139. Waa~o♪!!``"
+        }
+    ]
+}

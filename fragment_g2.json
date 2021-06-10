@@ -1,0 +1,580 @@
+{
+    "Main": [
+        {
+            "type": "SAVEINFO",
+            "category": 1,
+            "JPN": "G2 新しい風",
+            "ENG": "G2 New Wind"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7184,
+            "NamesJPN": "不動産屋",
+            "PreTextTags": "@vS20/00/VTK2_hudou2005.",
+            "TextJPN": "「それじゃ、俺はそろそろお暇しますわ。@k@vS20/00/VTK2_hudou2006.どうもご馳走様でした」",
+            "NamesENG": "Real Estate Agent",
+            "TextENG": "``Okay, I'll get going.@k@vS20/00/VTK2_hudou2006. Thank you!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7185,
+            "NamesJPN": "お魎",
+            "PreTextTags": "@vS20/17/VTK2_oryou2001.",
+            "TextJPN": "「えぇんねえぇんね。@k@vS20/17/VTK2_oryou2002.また来たってぇな」",
+            "NamesENG": "Oryou",
+            "TextENG": "``Don't mention it.@k@vS20/17/VTK2_oryou2002. Come back anytime, okay?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7186,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS20/03/VTK2_mion2001.",
+            "TextJPN": "「ただいまー！@k@vS20/03/VTK2_mion2002.　って、あれ、弘叔父さん。@k@vS20/03/VTK2_mion2003.お久し振りですー！」",
+            "NamesENG": "Mion",
+            "TextENG": "``Hi, I'm home!@k@vS20/03/VTK2_mion2002 Hey, Uncle Hiroshi.@k@vS20/03/VTK2_mion2003. Long time no see!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7187,
+            "NamesJPN": "不動産屋",
+            "PreTextTags": "@vS20/00/VTK2_hudou2007.",
+            "TextJPN": "「おう、魅音ちゃん。@k@vS20/00/VTK2_hudou2008.今、帰りかい。@k@vS20/00/VTK2_hudou2009.叔父さんは今から送迎だよ」",
+            "NamesENG": "Real Estate Agent",
+            "TextENG": "``Hey, Mion-chan.@k@vS20/00/VTK2_hudou2008. Are you going home?@k@vS20/00/VTK2_hudou2009. I have to give my clients a ride.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7188,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS20/03/VTK2_mion2004.",
+            "TextJPN": "「送迎？@k@vS20/03/VTK2_mion2005.　あぁ、不動産屋さんのお仕事？」",
+            "NamesENG": "Mion",
+            "TextENG": "``A ride?@k@vS20/03/VTK2_mion2005. Ah, you're talking about your realtor business, huh?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7189,
+            "TextJPN": "園崎家は雛見沢屈指の大地主だ。",
+            "TextENG": "The Sonozaki family is one of the largest landowners here in the Hinamizawa area."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7190,
+            "TextJPN": "もっともこんな田舎の余った土地だから、荒れるに任せているだけで有効利用しているわけじゃない。",
+            "TextENG": "However, since all the land is out here in the countryside, it just ends up sitting there."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7191,
+            "TextJPN": "そんな村内の園崎家地所を、最近は分譲地として売りに出していた。",
+            "TextENG": "Recently, the land owned by the Sonozaki family was put on sale in lots."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7192,
+            "TextJPN": "ご先祖様から受け継いだ土地を余所者に切り売りしていいのかという批判も、一応、親族会議では出たが、婆っちゃが、しゃあらしいわぁ！@k　と一喝してそれにて決着。",
+            "TextENG": "At the family meeting, some of our relatives opposed the idea by saying we shouldn't sell off land that was handed down from our ancestors.@k But Granny snapped and shut them right up."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7193,
+            "TextJPN": "休耕地のいくつかが更地にされて、分譲地として解放されることになったのだ。",
+            "TextENG": "Some of the unused fields were made into vacant lots and released for public sale."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7194,
+            "TextJPN": "…これに関しては、私も疑問があった。",
+            "TextENG": "Actually, I had some questions about it too."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7195,
+            "TextJPN": "だって、園崎家は大金持ちだ。",
+            "TextENG": "The Sonozaki family is very wealthy."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7196,
+            "TextJPN": "土地も余ってるがお金だって余ってる。",
+            "TextENG": "We have plenty of land, as well as money."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7197,
+            "TextJPN": "わざわざ土地を切り売りしなければならない理由がない。",
+            "TextENG": "So why did we have to sell it off?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7198,
+            "TextJPN": "いや、それどころか、先祖の土地を余所者に売るなんて話、婆っちゃが言い出すなんて。",
+            "TextENG": "What's more surprising to me is that Granny was the one who came up with the idea."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7199,
+            "TextJPN": "それどころかむしろ、血管を浮かせるほどに怒鳴って反対しそうなのに。",
+            "TextENG": "I would have thought she'd get furious if someone even mentioned something like that."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7200,
+            "NamesJPN": "不動産屋",
+            "PreTextTags": "@vS20/00/VTK2_hudou2010.",
+            "TextJPN": "「じゃあね、駅前に寄った時はぜひ遊びにおいでよ。@k@vS20/00/VTK2_hudou2011.麦茶くらいご馳走するから」",
+            "NamesENG": "Real Estate Agent",
+            "TextENG": "``Okay, if you're ever near the station, be sure to stop by.@k@vS20/00/VTK2_hudou2011. I'll treat you to a cup of barley tea!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7201,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS20/03/VTK2_mion2006.",
+            "TextJPN": "「はい、ありがとうございます。@k@vS20/03/VTK2_mion2007.お仕事はどんな感じですか？」",
+            "NamesENG": "Mion",
+            "TextENG": "``Sure, thank you very much!@k@vS20/03/VTK2_mion2007. So how is your business going?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7202,
+            "NamesJPN": "不動産屋",
+            "PreTextTags": "@vS20/00/VTK2_hudou2012.",
+            "TextJPN": "「都会の人が案外、興味を持ってくれたからびっくりだわ！@k@vS20/00/VTK2_hudou2013.　便利な都会に住みながら、わざわざこんな田舎に別荘が持ちたい小金持ちばっかりだね」",
+            "NamesENG": "Real Estate Agent",
+            "TextENG": "``I'm surprised there are actually city folks who are interested!@k@vS20/00/VTK2_hudou2013. They must be those nouveau riche types who live in the big city, yet also want a house in the countryside.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7203,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS20/03/VTK2_mion2008.",
+            "TextJPN": "「やれやれ、物好きなことで！」",
+            "NamesENG": "Mion",
+            "TextENG": "``Well, I guess some people are curious!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7204,
+            "NamesJPN": "不動産屋",
+            "PreTextTags": "@vS20/00/VTK2_hudou2014.",
+            "TextJPN": "「一軒、別荘じゃなくて、引越しで検討されてるお宅があったね。@k@vS20/00/VTK2_hudou2015.アトリエが持ちたいとか言ってたから、画家さんとかかねぇ？」",
+            "NamesENG": "Real Estate Agent",
+            "TextENG": "``There's one family seeking to move here, not purchase a villa.@k@vS20/00/VTK2_hudou2015. He said he wants to build a studio, so he must be an artist of some sort.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7205,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS20/03/VTK2_mion2009.",
+            "TextJPN": "「へー！@k@vS20/03/VTK2_mion2010.　そりゃすごいや！」",
+            "NamesENG": "Mion",
+            "TextENG": "``Ho!@k@vS20/03/VTK2_mion2010. That's great!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7206,
+            "NamesJPN": "不動産屋",
+            "PreTextTags": "@vS20/00/VTK2_hudou2016.",
+            "TextJPN": "「おっと、いけねぇわ！@k@vS20/00/VTK2_hudou2017.　じゃ、叔父さんはバスに戻るわ！」",
+            "NamesENG": "Real Estate Agent",
+            "TextENG": "``Oh, gosh!@k@vS20/00/VTK2_hudou2017. I better go now!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7207,
+            "TextJPN": "分譲地の見学ツアーを企画したらしく、それの送迎バスの運転をしてきた、ということらしい。",
+            "TextENG": "Supposedly, he planned a tour to show them the lots, and he's the one driving the bus."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7208,
+            "TextJPN": "そろそろ見学や説明が終わる頃合なのだろう。",
+            "TextENG": "It should be about time for the tour and explanations to end."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7209,
+            "TextJPN": "叔父さんは松の枝をくぐって、ぱたぱたと駆けて行った。",
+            "TextENG": "He left in a hurry."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7210,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS20/03/VTK2_mion2011.",
+            "TextJPN": "「…ねぇ、聞いていい？@k@vS20/03/VTK2_mion2012.　余所者嫌いの婆っちゃがさ、どうしてわざわざ分譲地なんかにしたの？」",
+            "NamesENG": "Mion",
+            "TextENG": "``Hey, can I ask you something?@k@vS20/03/VTK2_mion2012. Why did you want to sell our land? You don't like newcomers...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7211,
+            "NamesJPN": "お魎",
+            "PreTextTags": "@vS20/17/VTK2_oryou2003.",
+            "TextJPN": "「私ゃあ余所者なんか嫌いだし都会者も大嫌いだ。@k@vS20/17/VTK2_oryou2004.…だが、村にゃ必要なんよ。@k@vS20/17/VTK2_oryou2005.空気の入れ替えみたいなもんさな」",
+            "NamesENG": "Oryou",
+            "TextENG": "``I don't like newcomers and I don't like big city people either.@k@vS20/17/VTK2_oryou2004. ...But the village needs them.@k@vS20/17/VTK2_oryou2005. It's like ventilating a room.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7212,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS20/03/VTK2_mion2013.",
+            "TextJPN": "「外の人が来ることで、…何か村にいい影響があるっていうこと？」",
+            "NamesENG": "Mion",
+            "TextENG": "``Is it good for the village to have new people move in?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7213,
+            "NamesJPN": "お魎",
+            "PreTextTags": "@vS20/17/VTK2_oryou2006.",
+            "TextJPN": "「ここはいい村だぁね。@k@vS20/17/VTK2_oryou2007.…今は忙しい世の中だから、一日たりともそったぁしといとくらんがな。@k@vS20/17/VTK2_oryou2008.昔だったら、十年二十年住んでてもなぁんにも変わらん、変化のない静かな村だったんよ」",
+            "NamesENG": "Oryou",
+            "TextENG": "``This is a wonderful village.@k@vS20/17/VTK2_oryou2007. But the world is changing quickly.@k@vS20/17/VTK2_oryou2008. In the past, a very small change took ten or even twenty years to happen. It was such a quiet and unchanging village.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7214,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS20/03/VTK2_mion2014.",
+            "TextJPN": "「まぁ、それが田舎ってもんだしねぇ。@k@vS20/03/VTK2_mion2015.この村じゃ、昨日と今日と明日に、何の違いもない。@k@vS20/03/VTK2_mion2016.…私ゃ退屈だけどねぇ！」",
+            "NamesENG": "Mion",
+            "TextENG": "``Well, that's rural life.@k@vS20/03/VTK2_mion2015. In this village, nothing is different from yesterday and today.@k@vS20/03/VTK2_mion2016. ...It's too boring for me, though!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7215,
+            "NamesJPN": "お魎",
+            "PreTextTags": "@vS20/17/VTK2_oryou2009.",
+            "TextJPN": "「でも、友達ができたろ。@k@vS20/17/VTK2_oryou2010.外から竜宮のレナちゃんが引っ越してきて友達ぃなってくれたんだろが。@k@vS20/17/VTK2_oryou2011.近い歳の友達ができて嬉しい、言うとったがな」",
+            "NamesENG": "Oryou",
+            "TextENG": "``But you made a friend, didn't you?@k@vS20/17/VTK2_oryou2010. Rena Ryuugu-chan moved here and you got along great.@k@vS20/17/VTK2_oryou2011. You told me you were happy that you had a friend your age.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7216,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS20/03/VTK2_mion2017.",
+            "TextJPN": "「うん。@k@vS20/03/VTK2_mion2018.予期せぬ友達が突然できるのは楽しいね」",
+            "NamesENG": "Mion",
+            "TextENG": "``Yeah.@k@vS20/03/VTK2_mion2018. Making friends unexpectedly is fun.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7217,
+            "NamesJPN": "お魎",
+            "PreTextTags": "@vS20/17/VTK2_oryou2012.",
+            "TextJPN": "「レナちゃんが来んとな、魅音、学校が退屈だぁ退屈だぁ言うとったんね。@k@vS20/17/VTK2_oryou2013.よぅお、覚えとる。@k@vS20/17/VTK2_oryou2014.くっくっくっく！」",
+            "NamesENG": "Oryou",
+            "TextENG": "``I remember you saying that school is boring when Rena-chan is absent.@k@vS20/17/VTK2_oryou2013. Do you remember that?@k@vS20/17/VTK2_oryou2014. Heh heh heh heh!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7218,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS20/03/VTK2_mion2019.",
+            "TextJPN": "「それが、外から引っ越してくることによる効果だって言いたいわけ？」",
+            "NamesENG": "Mion",
+            "TextENG": "``Are you saying that's the good thing about letting new people move here?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7219,
+            "NamesJPN": "お魎",
+            "PreTextTags": "@vS20/17/VTK2_oryou2015.",
+            "TextJPN": "「…どんな寒い冬場にかて、たまには換気をせんとな、囲炉裏の悪い空気が溜まって窒息しちまうん。@k@vS20/17/VTK2_oryou2016.寒くてしんどいのは承知で、窓をがらりと開けることもあるんよ」",
+            "NamesENG": "Oryou",
+            "TextENG": "``...No matter how cold it gets, you still have to ventilate your living space. Otherwise, it gets filled with bad air and you'll suffocate to death.@k@vS20/17/VTK2_oryou2016. You open the window, even knowing the freezing cold air will come in.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7220,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS20/03/VTK2_mion2020.",
+            "TextJPN": "「…外から人を迎えることが、村の換気になる？」",
+            "NamesENG": "Mion",
+            "TextENG": "``...Letting outsiders move here is like ventilating the village?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7221,
+            "NamesJPN": "お魎",
+            "PreTextTags": "@vS20/17/VTK2_oryou2017.",
+            "TextJPN": "「あぁ、なるん。@k@vS20/17/VTK2_oryou2018.そして綺麗な空気を入れて、私らみたいな悪い空気はとっとと追い出されるべきなんよ」",
+            "NamesENG": "Oryou",
+            "TextENG": "``Sure.@k@vS20/17/VTK2_oryou2018. It lets fresh air in and gets rid of bad air like us.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7222,
+            "TextJPN": "北条家のことを一言でも出せば、婆っちゃは烈火のように怒り出してしまうから言えないが。",
+            "TextENG": "If I bring up the Houjou family, I know Granny will explode, so I won't."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7223,
+            "TextJPN": "……多分、婆っちゃは北条家に対する、いつまでも消えない嫌悪の気風とか、そういうのを全部総括して言ってると思う。",
+            "TextENG": "But... I think what Granny is trying to say includes things like their ongoing isolation."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7224,
+            "TextJPN": "北条家と大喧嘩をした説明会の時のことを思い出すと、今でも腸が煮えくりかえるが、@k…それでも、そろそろ鞘に収めた方がいいと思っているのだろう。",
+            "TextENG": "Even now, when she remembers about what happened at that explanatory meeting, she gets really upset.@k But I guess even she feels that needs to come to an end."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7225,
+            "TextJPN": "もっとも、安易に許すとは言えない難しいお年頃だ。",
+            "TextENG": "But, of course, she can't just say she'll forgive them, not when she's at this stubborn age."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7226,
+            "TextJPN": "対外的にはもう勘弁してやるとは言えない。",
+            "TextENG": "She can't lose face by openly saying they need to be forgiven."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7227,
+            "TextJPN": "……本当は嫌いじゃないくせに、面と向うと邪険にしてしまう、小学生女子なみの感情表現のような気がする。",
+            "TextENG": "......Honestly, I think she's behaving like a little schoolgirl who actually likes a person but treats them rudely when they're around."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7228,
+            "TextJPN": "…人って、歳を取ると、どうやら一周回ってきて、子供に戻るんじゃないだろうか。",
+            "TextENG": "...Maybe people really do go back to being children when they get old enough."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7229,
+            "TextJPN": "それは婆っちゃだけじゃない。",
+            "TextENG": "I'm not just talking about Granny."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7230,
+            "TextJPN": "村のお年寄りたち全体。",
+            "TextENG": "The same can be said about all of the old people in the village."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7231,
+            "TextJPN": "…いや、村に染み付いた悪弊と言うべきか。",
+            "TextENG": "...No, maybe I should say the evil around here."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7232,
+            "TextJPN": "それは多分、婆っちゃのたとえた、澱んだ悪い空気とそっくりなものだ。",
+            "TextENG": "That must be what she meant by bad air."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7233,
+            "TextJPN": "締め切った室内でいくらばたばたと扇いだって、何の意味もない。",
+            "TextENG": "There's no use circulating the air in a closed room."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7234,
+            "TextJPN": "窓を開けて、新鮮な空気をたっぷり入れなきゃ、室内の空気は澄まないのだから。",
+            "TextENG": "Unless you open the windows and let fresh air in, the air in the room won't be purified."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7235,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS20/03/VTK2_mion2021.",
+            "TextJPN": "「実際に引っ越してくる人があるかはわからないけど。@k@vS20/03/VTK2_mion2022.その人にそこまでを期待しちゃうのは気の毒じゃない？@k@vS20/03/VTK2_mion2023.　くっくっく！」",
+            "NamesENG": "Mion",
+            "TextENG": "``We don't know if there's actually going to be people moving here,@k@vS20/03/VTK2_mion2022. but don't you think you're expecting too much from whoever does?@k@vS20/03/VTK2_mion2023. Heh heh heh!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7236,
+            "NamesJPN": "お魎",
+            "PreTextTags": "@vS20/17/VTK2_oryou2019.",
+            "TextJPN": "「レナちゃんが１人転校してきても魅音は変わるんね。@k@vS20/17/VTK2_oryou2020.誰が引っ越してきても、きっと村は変わる」",
+            "NamesENG": "Oryou",
+            "TextENG": "``Just Rena-chan moving here changed you, Mion.@k@vS20/17/VTK2_oryou2020. Whoever moves here will change this village."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7237,
+            "NamesJPN": "お魎",
+            "PreTextTags": "@vS20/17/VTK2_oryou2021.",
+            "TextJPN": "「…願わくば、それが元気な若者で、わしら年寄り連中が安心して村を任せられるくらい、大暴れしてくれよると嬉しいんだが」",
+            "NamesENG": "Oryou",
+            "TextENG": "If possible, I hope some young and energetic people who have the charisma to lead will appear."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7238,
+            "NamesJPN": "お魎",
+            "PreTextTags": "@vS20/17/VTK2_oryou2022.",
+            "TextJPN": "「それこそ年寄り連中が、『もうやっとれんね、あの世に退散するわー』言うくらいにな」",
+            "NamesENG": "Oryou",
+            "TextENG": "They need to be the ones to put us old people away into Heaven.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7239,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS20/03/VTK2_mion2024.",
+            "TextJPN": "「くっくっく…、何それ。@k@vS20/03/VTK2_mion2025.死んだおじいちゃんの話？」",
+            "NamesENG": "Mion",
+            "TextENG": "``Heh heh heh,@k@vS20/03/VTK2_mion2025. are you thinking about Gramps?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7240,
+            "NamesJPN": "お魎",
+            "PreTextTags": "@vS20/17/VTK2_oryou2023.",
+            "TextJPN": "「あほんたれ、誰が爺さまの話をしたんよ…！！@k@vS20/17/VTK2_oryou2024.　ほれ、お手伝いさん言って、縁側のお茶を片付けさせてくれな」",
+            "NamesENG": "Oryou",
+            "TextENG": "``Damn you, nobody's thinking about him!@k@vS20/17/VTK2_oryou2024. Here, have the housekeeper put away the tea set on the veranda.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7241,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS20/03/VTK2_mion2026.",
+            "TextJPN": "「へいへい。@k@vS20/03/VTK2_mion2027.了解了解」",
+            "NamesENG": "Mion",
+            "TextENG": "``Okay, okay.@k@vS20/03/VTK2_mion2027. I will!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7242,
+            "NamesJPN": "お魎",
+            "PreTextTags": "@vS20/17/VTK2_oryou2025.",
+            "TextJPN": "「………魅音」",
+            "NamesENG": "Oryou",
+            "TextENG": "``......Mion.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7243,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS20/03/VTK2_mion2028.",
+            "TextJPN": "「ん？」",
+            "NamesENG": "Mion",
+            "TextENG": "``Hmm?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7244,
+            "NamesJPN": "お魎",
+            "PreTextTags": "@vS20/17/VTK2_oryou2026.",
+            "TextJPN": "「……北条悟史が消えた日。@k@vS20/17/VTK2_oryou2027.…お前、私に詰め寄ったろが」",
+            "NamesENG": "Oryou",
+            "TextENG": "``...The day Satoshi Houjou disappeared,@k@vS20/17/VTK2_oryou2027. you came to me, huh?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7245,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS20/03/VTK2_mion2029.",
+            "TextJPN": "「…あぁ、そんなこともしたね。@k@vS20/03/VTK2_mion2030.…あはは」",
+            "NamesENG": "Mion",
+            "TextENG": "``Ah, yeah, I guess I did...@k@vS20/03/VTK2_mion2030. Aha ha ha.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7246,
+            "NamesJPN": "お魎",
+            "PreTextTags": "@vS20/17/VTK2_oryou2028.",
+            "TextJPN": "「私ゃな。@k@vS20/17/VTK2_oryou2029.…あれで目が覚めたんよ。@k@vS20/17/VTK2_oryou2030.…北条家がどうのこうの言う問題は、年寄り連中が死ねば時間が解決してくれるなんてんじゃあかんね。@k@vS20/17/VTK2_oryou2031.…そんなの待たず、早ぅ解決せんとなあかん」",
+            "NamesENG": "Oryou",
+            "TextENG": "``That is...@k@vS20/17/VTK2_oryou2029. what woke me up.@k@vS20/17/VTK2_oryou2030. This problem with the Houjou family, we can't just let time take care of it.@k@vS20/17/VTK2_oryou2031. We have to take care of it ourselves as soon as possible.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7247,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS20/03/VTK2_mion2031.",
+            "TextJPN": "「でも、自分にはそれができないから。@k@vS20/03/VTK2_mion2032.…余所者にそれを託す？」",
+            "NamesENG": "Mion",
+            "TextENG": "``But you can't do it yourself,@k@vS20/03/VTK2_mion2032. so you're going to have an outsider take care of it?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7248,
+            "NamesJPN": "お魎",
+            "PreTextTags": "@vS20/17/VTK2_oryou2032.",
+            "TextJPN": "「……それが、私にできる精一杯だんね」",
+            "NamesENG": "Oryou",
+            "TextENG": "``...That's the best I can do.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7249,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS20/03/VTK2_mion2032a.",
+            "TextJPN": "「どんな悪い手札だって、次のドローで良い札が入れば、流れが変わるきっかけになることもある。@k@vS20/03/VTK2_mion2032b.……それに期待して山から札を引くのも、ありかもしれない」",
+            "NamesENG": "Mion",
+            "TextENG": "``No matter how bad your hand is, the next card can change the flow of the game.@k@vS20/03/VTK2_mion2032b. So maybe it's a good idea to draw cards from the stack.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7250,
+            "NamesJPN": "お魎",
+            "PreTextTags": "@vS20/17/VTK2_oryou2035.",
+            "TextJPN": "「新しい風は、魅音、お前らの世代になる。…外の風を迎え入れたれな。@k@vS20/17/VTK2_oryou2036.…そして、お前は内からの風となって、交じり合いながら村の澱みを吹き飛ばしてくれ」",
+            "NamesENG": "Oryou",
+            "TextENG": "``Your generation will be a new wind. Let that new wind come from the outside.@k@vS20/17/VTK2_oryou2036. And you'll be the wind from the inside. When both winds create a gale, the gust will blow away the stale air from the village.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7251,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS20/03/VTK2_mion2033.",
+            "TextJPN": "「他力本願の極みだね。@k@vS20/03/VTK2_mion2034.自分が火種を作ったくせに、孫にその尻拭いをさせるとは」",
+            "NamesENG": "Mion",
+            "TextENG": "``That's the epitome of leaving your problems to others.@k@vS20/03/VTK2_mion2034. You're the one who started the fire, and you're trying to have your grandchild take care of it?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7252,
+            "NamesJPN": "お魎",
+            "PreTextTags": "@vS20/17/VTK2_oryou2037.",
+            "TextJPN": "「…そう言うなや。@k@vS20/17/VTK2_oryou2038.新しい風を、…新しい園崎家の頭首として、村に招き入れたれ」",
+            "NamesENG": "Oryou",
+            "TextENG": "``...Oh, don't say that.@k@vS20/17/VTK2_oryou2038. As the new leader of the Sonozaki family, bring the new wind into the village.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7253,
+            "NamesJPN": "魅音",
+            "PreTextTags": "@vS20/03/VTK2_mion2035.",
+            "TextJPN": "「…それが、次期頭首の仕事だってんなら」",
+            "NamesENG": "Mion",
+            "TextENG": "``...If you're saying that's my job as your successor...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7254,
+            "NamesJPN": "お魎",
+            "PreTextTags": "@vS20/17/VTK2_oryou2039.",
+            "TextJPN": "「……頼むわ。@k@vS20/17/VTK2_oryou2040.魅音。@k@vS20/17/VTK2_oryou2041.私ゃあ老いたんね。@k@vS20/17/VTK2_oryou2042.もう憎まれ役しかでけん」",
+            "NamesENG": "Oryou",
+            "TextENG": "``Please,@k@vS20/17/VTK2_oryou2040. Mion.@k@vS20/17/VTK2_oryou2041. I'm too old.@k@vS20/17/VTK2_oryou2042. The only thing I can do now is to be despised by people.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7255,
+            "TextJPN": "風鈴がチリンと、弱々しく鳴った。",
+            "TextENG": "The wind chime sounded quietly."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 7256,
+            "TextJPN": "それは涼風がこれから吹くことを知らせる先触れだったに違いない…。",
+            "TextENG": "Maybe that's a sign to let us know a cool breeze is on the way..."
+        }
+    ]
+}

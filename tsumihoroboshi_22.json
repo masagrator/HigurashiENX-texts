@@ -1,0 +1,2549 @@
+{
+    "Main": [
+        {
+            "type": "SAVEINFO",
+            "category": 1,
+            "JPN": "#22 振り払われた手",
+            "ENG": "#22 / Shaken Off Hand"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 87981,
+            "TextJPN": "この辺りは街灯がまったくないから、ただ闇の中を走るだけでも怖かった。",
+            "TextENG": "This area has no streetlights, so I was scared to run fast when I could barely see."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 87982,
+            "TextJPN": "月は空を照らせども俺の足元はちっとも照らしてはくれない。",
+            "TextENG": "The moon lit up the sky, but not my steps."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 87983,
+            "TextJPN": "俺の足元を明るくしてくれるのは、懐中電灯の細く頼りない灯りだけだった。",
+            "TextENG": "The only light I had to see by was my flashlight."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 87984,
+            "TextJPN": "懐中電灯はそこが平らな砂利道であることを教えてくれるが、@k灯りで照らされていない全ては信じられないくらいに真っ暗。",
+            "TextENG": "The light was very weak. All I could see was the flat gravel road before me.@k Anything the flashlight couldn't reach was in total darkness."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 87985,
+            "TextJPN": "…コールタールをぶちまけたようなという小説的表現は決して過大評価ではないと思った。",
+            "TextENG": "...The expression often used in novels, ``pitch black,`` wouldn't be inappropriate."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 87986,
+            "TextJPN": "ひょっとすると、突然、空き缶や石ころにつまづくかもしれない。",
+            "TextENG": "I might trip over an empty can or a rock anytime."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 87987,
+            "TextJPN": "それが怖くて細い灯りを必死に振って足元の安全を確かめたが、それでも安心することはできず、いつの間にか走る速度はずっと落ちて、早歩きくらいになっていた。",
+            "TextENG": "Not wanting to fall, I used the flashlight to its maximum extent to watch my step, but I was still a bit nervous. I started running slower and slower until I was just walking briskly."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 87988,
+            "TextJPN": "暗くて足元が見えないから、転びそうで怖くて、走れない？",
+            "TextENG": "Did I just stop running because I'm afraid of tripping in the dark?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 87989,
+            "TextJPN": "でも、たとえ日中だからといって、足元を見ながら走ってるわけじゃない。",
+            "TextENG": "But I usually run around without watching my step during the day."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 87990,
+            "TextJPN": "レナや魅音とはしゃぎながら走り回ってる。",
+            "TextENG": "I run around with Rena and Mion all the time."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 87991,
+            "TextJPN": "明るくたって足元なんか結局見てない。",
+            "TextENG": "Even if I can see what's underfoot, I don't pay any attention."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 87992,
+            "TextJPN": "でも、転ぶかもしれないなんて露ほども思わず、俺は同じような道を駆け回っていた。",
+            "TextENG": "I don't think I might trip. I just keep running around without a care."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 87993,
+            "TextJPN": "今のレナは、きっとこんな状況なのかもしれない。",
+            "TextENG": "Rena might be feeling the same way I am right now."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 87994,
+            "TextJPN": "レナにとって、……疑心暗鬼の闇を照らす灯りがあまりにも細いのだ。",
+            "TextENG": "For Rena... the light with which she illuminates the darkness of suspicion is too weak."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 87995,
+            "TextJPN": "そして、信じ込んでしまった妄想の暗闇がますますに暗くなり、いつもの道を歩くにも、這って進まなければならないくらいに恐れてしまっているのだ。",
+            "TextENG": "And the darkness of the delusion she deeply believes in is getting darker and darker. That's why she's scared to even walk on the same roads she always used to take."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 87996,
+            "TextJPN": "……あんな馬鹿馬鹿しいスクラップ帳に心を奪われるなんて。@k笑う人間は笑うかもしれない。",
+            "TextENG": "She fell for the contents of those ridiculous scrapbooks.@k People might laugh at her for that."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 87997,
+            "TextJPN": "だが、あのスクラップ帳は……普通じゃない。",
+            "TextENG": "But those scrapbooks aren't... normal."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 87998,
+            "TextJPN": "読む人間の心を巧みに@bたぶら.@<誑@>かし、心の隙間に付け入ろうとする悪意がある。",
+            "TextENG": "They manipulate their readers' hearts and, with evil intent, take advantage of their vulnerabilities."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 87999,
+            "TextJPN": "その悪意は、たとえ一晩であろうとも俺の心を奪った。",
+            "TextENG": "That evil intent captured my heart for one night."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88000,
+            "TextJPN": "…だからこそ、その悪質さが俺にはわかるんだ。",
+            "TextENG": "...That's why I know how evil they are."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88001,
+            "TextJPN": "ほら、……ノストラダムスの大予言とか、ムラサキカガミとか、定番の都市伝説ってあるじゃないか。",
+            "TextENG": "They're just urban legends, like the prophecies of Nostradamus or the purple mirror."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88002,
+            "TextJPN": "あれらだって、もっともらしい嘘を徹底的に並べ立て、側で聞いていればなんて下らない話をと感じるが、@k………一度のめり込んでしまうと、どういう訳か心から拭えなくなるんだ。",
+            "TextENG": "They're a bunch of feasible lies, and when you hear about them at first, you think they're too stupid to believe.@k ...But once you fall for them, it's hard to get them out of your mind for some reason."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88003,
+            "TextJPN": "もう１０年～２０年もすると１９９９年じゃないか。@kその年の７月だかに世界が滅びるって大予言は誰もが知ってて、民放もそれらしく無責任に煽るものだから、たまに真に受けるやつも生まれるんだ。",
+            "TextENG": "It'll be the year 1999 in less than 20 years.@k Everybody knows about the prophecy that the world will come to an end in July of 1999. There are even some TV shows about it, too, which irresponsibly fan people's fears. So, some people take it seriously."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88004,
+            "TextJPN": "……ほら、ノストラダムスの大予言は核戦争の勃発を意味するもので、私費で庭に核シェルターを作ったり、",
+            "TextENG": "...Those people think that the prophecy means the outbreak of nuclear war, so some of them are making shelters in their backyards. "
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88005,
+            "TextJPN": "その年までに自身を冷凍保存して放射能がなくなる未来まで眠ろうとか、本気でやってる連中がいるじゃないか。",
+            "TextENG": "Some of them are thinking about freezing themselves by 1999 so that they won't be exposed to radiation, only waking up after it's gone."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88006,
+            "TextJPN": "やってる連中はマジも大マジなんだろう。",
+            "TextENG": "Those people are completely serious about it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88007,
+            "TextJPN": "だが、冷静に考えて１９９９年に戦争など起こるわけがない。",
+            "TextENG": "But when you think about it rationally, it's impossible that there'll be an outbreak of nuclear war in 1999."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88008,
+            "TextJPN": "東西は冷戦構造で確かに最終戦争をいつも想像させるが、実際は核を突きつけあった均衡状態で、互いに核戦争を仕掛けるメリットは何もない。",
+            "TextENG": "It's true that the cold war makes us think that the final war will break out anytime, but both powers are actually pointing their nuclear missiles at each other, and they know there's nothing to gain for either of them to start a nuclear war."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88009,
+            "TextJPN": "…あの国ならやりかねない、世界を滅ぼしてでも自分たちの主義主張を……、@kという『あの国ならやりかねない』という妄想は、鷹野さんのスクラップ中の園崎家という単語と綺麗に置き換えができる。",
+            "TextENG": "...``The Soviets might still do it!`` ``The Soviets would destroy the world if it meant eradicating liberalism...!``@k But that delusion that ``the Soviets`` might do it could be neatly swapped for the way Takano-san uses ``the Sonozaki family`` in her scrapbooks."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88010,
+            "TextJPN": "そう、こういう大規模な妄想には必ず、どこぞの国とか政党とかあるいは宇宙人であるとか、@k正体不明で理解のできない仮想敵が用意され、やつらならやりかねないという、何の根拠もない言葉で信憑性が煽られる。",
+            "TextENG": "When people create a large-scale delusion like the prophecies above, they always use an incomprehensibly unknown enemy such as the Soviet Union, Nazi Germany, or aliens.@k And they say something like, ``you never know! They might do things like that!`` to try and increase the credibility of their delusions without any evidence whatsoever."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88011,
+            "TextJPN": "鷹野さんが園崎家の何を知っていた？",
+            "TextENG": "What did Takano-san know about the Sonozaki family?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88012,
+            "TextJPN": "何も知るわけがない！",
+            "TextENG": "Nothing!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88013,
+            "TextJPN": "鬼ヶ淵村の頃の歴史から引っ張って、今日でも園崎家が暗躍していて、恐ろしい陰謀を…なんていい加減なことを吹聴しているだけだ。",
+            "TextENG": "All she did was use the history of Onigafuchi and say that the Sonozaki family is still working behind the scenes, plotting a horrifying conspiracy."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88014,
+            "TextJPN": "こんなの、どこぞの大予言でもよく聞くぞ。",
+            "TextENG": "It's just like one of those large-scale prophecies."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88015,
+            "TextJPN": "どこぞの国の大統領は地球占領を企んでいて、かつての独裁者は実はまだ生きていて、彼ら残党は今も南極の地下基地でその陰謀を……なんて与太話とまったく同じじゃないか！！",
+            "TextENG": "It's nothing but just a stupid story like that one about Nazi Germany, which says that Hitler is still alive and lives in an underground complex somewhere on the South Pole, continuing his plot to conquer the world...!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88016,
+            "TextJPN": "…普段のレナなら、こんな馬鹿な話、からからと笑って気にもしない。",
+            "TextENG": "...Rena usually doesn't believe in stupid stories like that."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88017,
+            "TextJPN": "だが、……たまたまタイミングが悪かったんだ。",
+            "TextENG": "But... it was just bad timing, I suppose."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88018,
+            "TextJPN": "間宮リナや北条鉄平を殺して、…しかもその死体を俺たちに見つけられた直後という、ナーバスな時期だったんだ。",
+            "TextENG": "It was right after she killed Rina Mamiya and Teppei Houjou... and was caught by us. She was in a state of panic when she heard the story."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88019,
+            "TextJPN": "俺たちはその心のショックから少しずつ立ち直るのを見守っていた。",
+            "TextENG": "We were waiting for her to recover from the shock."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88020,
+            "TextJPN": "………だが、立ち直って、心に免疫力ができる前に、とんでもない毒がレナに入り込み、全身に回ってしまったのだ。",
+            "TextENG": "...But before she did and regained her strength of heart, a poison got into her, and spread all throughout her body."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88021,
+            "TextJPN": "それは病気で体の抵抗力が弱っているところに、さらに別の病気が発症してしまったこととまったく同じ。",
+            "TextENG": "When you're sick and have a weakened immune system, it's easy to get another disease. It's just like that."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88022,
+            "TextJPN": "……そうさ、今のあいつはちょっとした病気なんだ。",
+            "TextENG": "...That's it. Rena is just sick right now."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88023,
+            "TextJPN": "高熱を出してウンウン唸れば、たまには死んでしまうかもしれないなんて、悲壮感でいっぱいになってしまうこともある。",
+            "TextENG": "When you're very sick, in bed with a high fever, you sometimes feel like you might die from it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88024,
+            "TextJPN": "でも、そんなの医者から見れば大袈裟もいいところだ。",
+            "TextENG": "But most of the time, you're just overreacting."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88025,
+            "TextJPN": "薬を飲んで栄養をつけて、大人しく寝てれば治るんだよ！",
+            "TextENG": "You get better soon after you take a medicine, eat healthy food, and sleep a lot!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88026,
+            "TextJPN": "今のあいつはまさにそれなんだ。",
+            "TextENG": "That's how she is right now."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88027,
+            "TextJPN": "……本当にちょっとした心の風邪をひいてるだけなんだ。",
+            "TextENG": "...She caught a mental cold. That's all."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88028,
+            "TextJPN": "それより、ぼやぼやしてると警察に捕まっちまうかもしれないんだぞ！",
+            "TextENG": "She needs to get better soon, or she might get caught by the police!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88029,
+            "TextJPN": "途中、何度かパトカーとすれ違う。",
+            "TextENG": "I passed several patrol cars on my way."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88030,
+            "TextJPN": "職質を食らったら厄介だと思って、その度に隠れてやり過ごした。",
+            "TextENG": "I hid every time I saw one, since I didn't want to be questioned."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88031,
+            "TextJPN": "２度くらいはすれ違ったかもしれない。",
+            "TextENG": "I was probably passed by them twice."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88032,
+            "TextJPN": "途中、レナの家の近くを通ったが、普段見たこともない車が停まっていて、レナの帰りを待ち構えていることは明白だった。",
+            "TextENG": "When I came close to Rena's house, I saw a car parked near the gate. It was obviously watching her house, trying to capture her when she'd arrive home."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88033,
+            "TextJPN": "魅音がレナを匿うよう、園崎家に号令を掛けてくれてるらしいが、……正直、微妙だ。",
+            "TextENG": "Mion ordered the Sonozaki family to find Rena to protect her from the police... But honestly, I'm not sure if they can."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88034,
+            "TextJPN": "だってレナは、園崎家に命を狙われてると信じてるのだから。",
+            "TextENG": "After all, Rena believes that the Sonozaki family is after her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88035,
+            "TextJPN": "だが、匿わなかったらその内、警察に捕まる。",
+            "TextENG": "But if they don't find her, the police will eventually."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88036,
+            "TextJPN": "そうなったら、…最終的には死体を埋めるのを手伝った仲間全体も巻き込むことになる！",
+            "TextENG": "If that happens... all of us who helped her bury the corpses will be caught by the police in the end!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88037,
+            "TextJPN": "……警察がどうしてレナに目星をつけたのかはわからない。",
+            "TextENG": "...I don't know how or why the police came to suspect her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88038,
+            "TextJPN": "おそらくは状況証拠だけで確信がないに違いない。",
+            "TextENG": "I think they only have some circumstantial evidence. I don't think they know she did it for sure."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88039,
+            "TextJPN": "……でも、これだけ大々的に動いているのだから、限りなくクロに近い何かを掴んでいるのは間違いない……。",
+            "TextENG": "...But since they're looking everywhere for her now, they must have some kind of reliable evidence..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88040,
+            "TextJPN": "レナの馬鹿…！！",
+            "TextENG": "Rena, come on...!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88041,
+            "TextJPN": "鷹野さんのスクラップ帳なんかで遊んでる場合じゃないんだぞ！@k　お前自身が警察に狙われてるんだぞ…！！",
+            "TextENG": "You don't have time to play around with Takano-san's scrapbooks right now!@k The police are after you...!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88042,
+            "TextJPN": "真っ暗でここか自信がない。",
+            "TextENG": "It was so dark that I couldn't be sure if she was down there."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88043,
+            "TextJPN": "俺は覚悟を決めると、慎重に足元を照らしながらスクラップの斜面を降りていった。",
+            "TextENG": "But I made up my mind and headed down the slope, carefully shining my flashlight to light my way."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88044,
+            "TextJPN": "レナの名を叫びたかったが、周りにレナを探す警察がいないとも限らない。",
+            "TextENG": "I wanted to loudly call out Rena's name, but there might be some policemen nearby looking for her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88045,
+            "TextJPN": "ゴミの山を迂回すると、明かりが見えた。@k…………いた！",
+            "TextENG": "I walked around a trash pile, and then, I saw a light.@k ...It was Rena."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88046,
+            "TextJPN": "俺はがしゃがしゃとガラクタを蹴りながら駆け寄った。",
+            "TextENG": "I ran towards her hideout, kicking aside the trash in my way."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88047,
+            "TextJPN": "レナは隠れ家の廃車のドアの前にいて、物騒な@bなた.@<鉈@>を構えて身構えていた。",
+            "TextENG": "Rena was standing right in front of her hideout, holding a hatchet."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88048,
+            "TextJPN": "そりゃそうだ。@k騒々しく降りてくる俺の気配なんてバレバレだったろうからな。",
+            "TextENG": "I couldn't blame her.@k She must have noticed all the noise I had made coming down the slope."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88049,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100819.",
+            "TextJPN": "「はぁ……はぁ！@k@vS09/01/170100820.　レ、………レナ、……お、俺だ………」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Haah... Haah!@k@vS09/01/170100820. Re-Rena...... It's me...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88050,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201152.",
+            "TextJPN": "「……今度は圭一くん？@k@vS09/02/170201153.　あはははは、今夜はいろんな人が来る夜だね」",
+            "NamesENG": "Rena",
+            "TextENG": "``...Keiichi-kun?@k@vS09/02/170201153. Ahahahaha, I sure have a lot of visitors tonight.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88051,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100821.",
+            "TextJPN": "「俺以外にも誰かいるのか？」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Who else is here?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88052,
+            "TextJPN": "辺りを照らしてみるが、レナ以外に誰かがいるようには見えなかった。",
+            "TextENG": "I shone my flashlight around, but I didn't see anybody else."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88053,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201154.",
+            "TextJPN": "「この場所はもう安全じゃないんで、今から場所を替えるところなの。@k@vS09/02/170201155.……圭一くんにも知られたくないから、付いて来ないで」",
+            "NamesENG": "Rena",
+            "TextENG": "``I'm leaving, because it's not safe here anymore.@k@vS09/02/170201155. ...I don't want you to know where I'm going, so please don't follow me.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88054,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100822.",
+            "TextJPN": "「レ、…レナ？！@k@vS09/01/170100823.　お前、どうしたんだよその怪我！@k@vS09/01/170100824.　血だらけじゃないか！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``R-Rena...?!@k@vS09/01/170100823. What happened to your neck?!@k@vS09/01/170100824. You're bleeding!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88055,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201156.",
+            "TextJPN": "「……もう落ち着いたから大丈夫だよ。@k@vS09/02/170201157.もっとも、いつぶり返すかわからないけどね」",
+            "NamesENG": "Rena",
+            "TextENG": "``...I'm okay.@k@vS09/02/170201157. They might come back again, though.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88056,
+            "TextJPN": "レナは首のところが真っ赤になっていて、まるで皮膚病の人が痒みに任せて掻き毟ってしまったような、そんな感じの傷をつけていた。",
+            "TextENG": "Rena's neck was all red. It looked like she had some kind of skin disease on her neck. She probably couldn't bear the itchiness and scratched at it really hard."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88057,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100825.",
+            "TextJPN": "「タオルで拭いただけじゃ駄目だろ…。@k@vS09/01/170100826.とりあえず家へ来いよ！@k@vS09/01/170100827.　ちゃんと消毒した方がいいぞ…！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``You need to do more than just wipe it with a towel...@k@vS09/01/170100826. Come to my house!@k@vS09/01/170100827. You need to clean it up...!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88058,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201158.",
+            "TextJPN": "「………傷口は大したことないよ。@k@vS09/02/170201159.それにこれは傷によるものじゃない。@k@vS09/02/170201160.…もう、手遅れだし」",
+            "NamesENG": "Rena",
+            "TextENG": "``...Don't worry about it.@k@vS09/02/170201159. It isn't an injury.@k@vS09/02/170201160. ...And it's too late anyway.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88059,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100828.",
+            "TextJPN": "「手遅れ？@k@vS09/01/170100829.　…どういうことだよ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Too late?@k@vS09/01/170100829. ...What do you mean?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88060,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201161.",
+            "TextJPN": "「富竹さんを死に導いた何かを、私もいつの間にか服毒させられてるみたいなの。@k@vS09/02/170201162.…注射なんて物騒な方法じゃない。@k@vS09/02/170201163.……多分、それは弁当のおかずに混ぜられてたの」",
+            "NamesENG": "Rena",
+            "TextENG": "``They must have put the drug in my food without me realizing. It's the drug that killed Tomitake-san.@k@vS09/02/170201162. ...They probably used a syringe to inject him with the drug, but they changed their methods this time.@k@vS09/02/170201163. ...I think they put it in someone's lunch."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88061,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201164.",
+            "TextJPN": "「覚えてる？@k@vS09/02/170201165.　先日、魅ぃちゃんが卵焼きを１人１個ずつ分けてくれたよね？@k@vS09/02/170201166.　あの時にやられたんだと思う。@k@vS09/02/170201167.……遅効性なところがうまいよね…。@k@vS09/02/170201168.くそ…！！」",
+            "NamesENG": "Rena",
+            "TextENG": "Don't you remember?@k@vS09/02/170201165. Mii-chan gave out a piece of her omelet to everyone the other day at lunch.@k@vS09/02/170201166. She must have put it in the omelet.@k@vS09/02/170201167. ...She's smart. She used a slow-acting drug this time...@k@vS09/02/170201168. Damn it...!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88062,
+            "TextJPN": "レナは魅音の卵焼きを思い出し、憎らしげに砂利を蹴飛ばした。",
+            "TextENG": "Rena kicked the dirt with hatred."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88063,
+            "TextJPN": "……それは文字通り、魅音の好意を蹴飛ばしたのと同じだ。",
+            "TextENG": "...She was almost literally kicking Mion's goodwill to the curb."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88064,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100830.",
+            "TextJPN": "「おいレナ。@k@vS09/01/170100831.………お前、…本気で魅音がそんなことすると思ってるのか？」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Hey, Rena.@k@vS09/01/170100831. ...Are you seriously saying that Mion would do such a thing?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88065,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201169.",
+            "TextJPN": "「………？」",
+            "NamesENG": "Rena",
+            "TextENG": "``.........?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88066,
+            "TextJPN": "レナがきょとんとした目を向ける。@k…それからその目に少しの悪意が混じり出す。",
+            "TextENG": "Rena looked stunned, and she stared straight at me.@k ...I noticed a slight accusation in her eyes."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88067,
+            "TextJPN": "園崎家が悪の根源であることはもう話してあるのに、何を言い出すの？@k　そう瞳が言っている。",
+            "TextENG": "I can tell by looking into her eyes that she wants to say,@k ``what are you talking about? I already told you that the Sonozaki family is the mastermind behind the conspiracy``."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88068,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100832.",
+            "TextJPN": "「第一よ…。@k@vS09/01/170100833.あの日の卵焼き、……魅音は１人に１つずつなんか分けてないだろ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``First of all...@k@vS09/01/170100833. Mion didn't give out her omelet to everybody that day.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88069,
+            "TextJPN": "魅音は５等分された卵焼きをみんなに、お好きなのをどうぞと差し出した。",
+            "TextENG": "Mion cut her omelet into 5 pieces, and she told us to take one if we wanted."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88070,
+            "TextJPN": "……そうしたら、レナが真っ先に、端っこの１つを選んで、この渦巻きがかわいい～はぅーって言って口にしたんじゃないか。",
+            "TextENG": "...Rena took the end piece of the omelet before anybody else took one. She said it looked ``kyute`` and ate it right there."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88071,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201170.",
+            "TextJPN": "「違うよ。@k@vS09/02/170201171.魅ぃちゃんは、毒が入ってた卵焼きを私にわざと食べさせようとしたんだよ」",
+            "NamesENG": "Rena",
+            "TextENG": "``No, that's not what happened.@k@vS09/02/170201171. Mii-chan tried to make me eat the omelet because she put a drug in it.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88072,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100834.",
+            "TextJPN": "「……レナ。@k@vS09/01/170100835.……都合よく記憶を書き換えるなよ…。@k@vS09/01/170100836.タッパーの蓋の上に、こうちょんちょんと５つ並べたんじゃないか」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...Rena.@k@vS09/01/170100835. ...Stop interpreting everything so conveniently...@k@vS09/01/170100836. Mion just put the five pieces of the omelet on the lid of her lunch box.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88073,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201172.",
+            "TextJPN": "「並べてないよ…！@k@vS09/02/170201173.　１人に１つずつ配った！」",
+            "NamesENG": "Rena",
+            "TextENG": "``No, she didn't...!@k@vS09/02/170201173. She gave out each piece to every one of us!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88074,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100837.",
+            "TextJPN": "「………そんなこと、…今までにあったか？@k@vS09/01/170100838.　俺たちは互いの弁当箱を好きに突っつくバイキング形式だぜ…？@k@vS09/01/170100839.　これは誰の分なんて、お上品に分けっこしたことなんて、…一度もねぇじゃねぇか…」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...Rena, think about it. Have we ever done something like that before?@k@vS09/01/170100838. We usually take whatever we like from everybody else's lunch...@k@vS09/01/170100839. Nobody has ever said something like, 'this is your piece, so take this' or 'this is her piece so don't take that'... you know?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88075,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201174.",
+            "TextJPN": "「…………………」",
+            "NamesENG": "Rena",
+            "TextENG": "``...............``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88076,
+            "TextJPN": "レナの目が見る見る憎悪に染まっていくのがわかる。@k………今のレナにとっては、俺の方が妄言なのだ。",
+            "TextENG": "She looked at me with that accusation in her eyes.@k ...To Rena, everything that comes out of my mouth must sound like a lie."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88077,
+            "TextJPN": "彼女にとって、自分が毒を盛られたのはもはや事実で、それはあの卵焼きによって盛られたと『決めてしまった』。",
+            "TextENG": "To her, it's a fact that she was poisoned. She ``knows`` for sure that the drug was in the omelet."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88078,
+            "TextJPN": "…だから、それと食い違う話をする俺を拒絶しようとするのだ。",
+            "TextENG": "...That's why she's contradicting me, because I'm saying something different."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88079,
+            "TextJPN": "……俺はレナを怒らせに来たわけじゃない。",
+            "TextENG": "...I didn't come here to make her mad."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88080,
+            "TextJPN": "…それ以上は水掛け論になることを悟り、言い返すのをやめた。",
+            "TextENG": "...I realized that disagreeing would only escalate her anger, so I decided not to."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88081,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100840.",
+            "TextJPN": "「それよりさ。@k@vS09/01/170100841.……ここはもう安全な場所じゃないって、…どこへ行くつもりだよ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Anyway...@k@vS09/01/170100841. you said this place isn't safe anymore... Where are you going to go, then?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88082,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201175.",
+            "TextJPN": "「…………さぁね。@k@vS09/02/170201176.適当に探すよ」",
+            "NamesENG": "Rena",
+            "TextENG": "``...Well,@k@vS09/02/170201176. I'll find somewhere.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88083,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100842.",
+            "TextJPN": "「寝るところなんてそうそう見つからねぇだろ…！@k@vS09/01/170100843.　俺の家に来いよ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``It's not that easy to find a place to sleep...!@k@vS09/01/170100843. Why don't you come to my house?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88084,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201177.",
+            "TextJPN": "「……ありがたいけど辞退するね。@k@vS09/02/170201178.園崎家の手先が村中を探し回ってる。@k@vS09/02/170201179.…圭一くんが裏切って私を売るとは、…思いたくないけど、匿いきれるとも思えない」",
+            "NamesENG": "Rena",
+            "TextENG": "``I appreciate your offer, but I can't do that.@k@vS09/02/170201178. The Sonozaki family is looking for me everywhere in the village.@k@vS09/02/170201179. ...I don't think you'd betray me, but... I don't think you can hide me from them, either.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88085,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100844.",
+            "TextJPN": "「園崎家の手先が探し回ってるってのは、……逆だぞ。@k@vS09/01/170100845.警察がレナを探し回ってるんだ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``It's... not the Sonozaki family who are looking for you...@k@vS09/01/170100845. It's the police.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88086,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201180.",
+            "TextJPN": "「…………？@k@vS09/02/170201181.　なんで？@k@vS09/02/170201182.　大石さんは味方だし、…私のことは放っておくように言ってある。@k@vS09/02/170201183.私を探すなんて、ありえないよ」",
+            "NamesENG": "Rena",
+            "TextENG": "``.........?@k@vS09/02/170201181. Why?@k@vS09/02/170201182. Ooishi-san is on my side... And I told him to leave me alone.@k@vS09/02/170201183. I don't think he's looking for me.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88087,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100846.",
+            "TextJPN": "「多分、……………リナと鉄平を殺したことが、どこかで漏れたんじゃないかと思う」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``I think... they know that you killed Rina and Teppei.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88088,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201183_1.",
+            "TextJPN": "「…………………あぁ、……そういうことか」",
+            "NamesENG": "Rena",
+            "TextENG": "``............Oh... I see.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88089,
+            "TextJPN": "俺は、やっと互いの会話が噛み合ったことに安堵したが、……レナの自虐的な笑い方が少しおかしかったので、すぐに噛み合ってないことに気付く。",
+            "TextENG": "I was relieved that we were finally on the same page... but I realized I was wrong right away when she laughed in self-derision."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88090,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201184.",
+            "TextJPN": "「…どうして警察が、あの殺しのことを勘付いたかわかる？」",
+            "NamesENG": "Rena",
+            "TextENG": "``...Do you know how the police found out that I killed them?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88091,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100848.",
+            "TextJPN": "「………いや、…………わかるわけないだろ…」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``......No...... I have no idea...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88092,
+            "TextJPN": "少なくとも殺害現場は誰にも見られていない。",
+            "TextENG": "Nobody saw her killing them."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88093,
+            "TextJPN": "死体を山奥に隠しに行った時だって、大丈夫だったし、埋めた場所だって完璧だ。",
+            "TextENG": "Nobody saw us burying the corpses. We buried them deep in the mountains, and we camouflaged the spot perfectly."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88094,
+            "TextJPN": "それに、最後に魅音が秘密の場所に埋めなおしてくれたらしい。",
+            "TextENG": "Plus, Mion moved them to a secret place afterwards."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88095,
+            "TextJPN": "だからあの死体が見つかるなんてことは永久にありえるわけがない。",
+            "TextENG": "So, it's impossible that the corpses would be found."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88096,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201185.",
+            "TextJPN": "「今日の夕方ね。@k@vS09/02/170201186.………私、あの２人の死体を埋めた場所に戻ったの。@k@vS09/02/170201187.そしたら、………どうだったと思う？」",
+            "NamesENG": "Rena",
+            "TextENG": "``I went there this evening.@k@vS09/02/170201186. ...I went there to check the spot where we buried them.@k@vS09/02/170201187. Guess what I found...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88097,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100849.",
+            "TextJPN": "「………ぁ、」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``......Ah.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88098,
+            "TextJPN": "まずいと思った。",
+            "TextENG": "That didn't sound good."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88099,
+            "TextJPN": "………そうだ。",
+            "TextENG": ".........Of course."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88100,
+            "TextJPN": "レナはあの死体を魅音が処分してくれたことを知らない。",
+            "TextENG": "...Rena has no idea that Mion took care of the corpses."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88101,
+            "TextJPN": "だから、あそこに埋まってるものと思い込んでたはずだ…！",
+            "TextENG": "She'd think the corpses were still buried there...!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88102,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201188.",
+            "TextJPN": "「なかったの。@k@vS09/02/170201189.死体が。@k@vS09/02/170201190.誰かが掘り返して死体を持ち去った」",
+            "NamesENG": "Rena",
+            "TextENG": "``They weren't there.@k@vS09/02/170201189. The corpses.@k@vS09/02/170201190. Somebody dug them out and carried them somewhere else.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88103,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100850.",
+            "TextJPN": "「い、…いや、レナ！@k@vS09/01/170100851.　…それは……えぇと…！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Ah... Rena!@k@vS09/01/170100851. ...That's because... ummm...!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88104,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201191.",
+            "TextJPN": "「あんな場所、誰かが偶然掘り返すわけもない。@k@vS09/02/170201192.……それにあの場所は私が決めた。@k@vS09/02/170201193_1.だからあの場所に埋まっていることは、あの場に居合わせた人間しか知らない」",
+            "NamesENG": "Rena",
+            "TextENG": "``It's impossible that someone happened to dig them up.@k@vS09/02/170201192. ...I chose the place.@k@vS09/02/170201193_1. So, the only people who know about the place are me and my friends who were there.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88105,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100852.",
+            "TextJPN": "「そ…そうだ、その通りだよ…。@k@vS09/01/170100853.えっと、だからそれは……、」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Th-That's right...@k@vS09/01/170100853. Well... the thing is...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88106,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201194.",
+            "TextJPN": "「誰がやったかはわかってる。@k@vS09/02/170201195.魅ぃちゃんだよ。@k@vS09/02/170201196.……私が警察と結託することがないよう、保険がほしかったに違いない」",
+            "NamesENG": "Rena",
+            "TextENG": "``I know who did it.@k@vS09/02/170201195. It's Mii-chan.@k@vS09/02/170201196. ...They didn't want me to work with the police. They needed to have some insurance."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88107,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201197.",
+            "TextJPN": "「……園崎家に探させるだけじゃなく、警察にも捜させるとはね。@k@vS09/02/170201198.……連中も形振り構ってられないってことか」",
+            "NamesENG": "Rena",
+            "TextENG": "...But I didn't think they'd use the police to find me.@k@vS09/02/170201198. ...I guess they don't care how it looks anymore as long as I'm captured.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88108,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100854.",
+            "TextJPN": "「み、魅音がそんなことするわけねぇだろ！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Come on! Do you really think Mion would do such a thing?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88109,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201199.",
+            "TextJPN": "「したんだよ！！@k@vS09/02/170201200.　魅ぃちゃんが私を売った！」",
+            "NamesENG": "Rena",
+            "TextENG": "``She did!!@k@vS09/02/170201200. Mii-chan sold me out!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88110,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100855.",
+            "TextJPN": "「……いいや、しねぇな。@k@vS09/01/170100856.魅音も俺たちもみんな仲間だぞ。@k@vS09/01/170100857.たとえ世界が全部敵になったとしたって、仲間は最後まで味方なんだ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...No, she didn't.@k@vS09/01/170100856. Mion is your friend.@k@vS09/01/170100857. We're all on your side no matter what happens. Even if the whole world turned against you, we'd still be on your side."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88111,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100858.",
+            "TextJPN": "「だから魅音がレナを売ることなんて、海水が全部蒸発するような天変地異があったって、絶対にありえない…！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "Even if the whole ocean evaporated, Mion would never sell you out...!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88112,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201201.",
+            "TextJPN": "「…………………魅ぃちゃんの肩をどうして持つの？」",
+            "NamesENG": "Rena",
+            "TextENG": "``.........I don't understand why you're defending her.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88113,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100859.",
+            "TextJPN": "「逆だろ！@k@vS09/01/170100860.　何で魅音をそこまで疑うんだよ！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``It's just the opposite!@k@vS09/01/170100860. I don't understand why you're doubting her!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88114,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201202.",
+            "TextJPN": "「そんなのは決まってるでしょ。@k@vS09/02/170201203.三四さんの暴いた致命的な事実は信者たちの偉大な計画の実現、」",
+            "NamesENG": "Rena",
+            "TextENG": "``That's simple.@k@vS09/02/170201203. Miyo-san revealed the existence of the conspiracy to me, and the fanatics are...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88115,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100860_1.",
+            "TextJPN": "「黙れ黙れッ！！@k@vS09/01/170100861.　………あ、…ちょっと言葉がきつかったな。@k@vS09/01/170100862.謝るからちょっと俺の話を聞いてくれ。@k@vS09/01/170100863.…いいか、あの死体がなくなっていたのは、確かに魅音が掘り返したからだ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Shut up! Shut up!!@k@vS09/01/170100861. ...Ah... I'm sorry I didn't mean to yell at you like that.@k@vS09/01/170100862. I apologize. So, please listen to me.@k@vS09/01/170100863. ...The corpses are gone because Mion dug them out.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88116,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201204.",
+            "TextJPN": "「やっぱりそうじゃないッ！！！」",
+            "NamesENG": "Rena",
+            "TextENG": "``See?!! I told you!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88117,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100864.",
+            "TextJPN": "「終わりまで聞けよ！！@k@vS09/01/170100865.　……いいか、魅音が死体を掘り返したのは、あの埋めた場所が安全じゃないことがわかったからなんだ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Listen to me until I finish!!@k@vS09/01/170100865. ...Okay? Mion dug them out because she found out that the place isn't going to be safe for much longer."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88118,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100866.",
+            "TextJPN": "「営林署がこの夏、あの辺り一体を伐採するって計画を立ててたことが後にわかったんだよ。@k@vS09/01/170100867.だから魅音は！@k@vS09/01/170100868.　レナを守るために死体を掘り返してくれたんだよ！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "There's a logging project scheduled to begin on that mountain this summer.@k@vS09/01/170100867. That was why!@k@vS09/01/170100868. That's why she dug them out, to save you from being caught!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88119,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201205.",
+            "TextJPN": "「ぷ、………はははははは、あっはっはっはっは！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Pff... hahahahahaha. Ah ha ha ha ha!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88120,
+            "TextJPN": "レナの笑いは見下すかのようだった。",
+            "TextENG": "Rena laughed at me like I was stupid or something."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88121,
+            "TextJPN": "俺の言葉がまったく心に届いていないことがわかる…。",
+            "TextENG": "I could tell she didn't understand anything I was saying..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88122,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201206.",
+            "TextJPN": "「そんなの魅ぃちゃんの口から出任せに決まってるでしょ？！@k@vS09/02/170201207.　圭一くんの前ではいい子ぶりたいあの子の汚いやり方だって！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Don't you get it? Mii-chan made that up!@k@vS09/02/170201207. She just wants to look good when you're around. She's a dirty bitch!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88123,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100869.",
+            "TextJPN": "「あのなぁ…！！@k@vS09/01/170100870.　じゃあどうすりゃよかったんだよ！@k@vS09/01/170100871.　今年の夏に営林署が見つけちまうかもしれないと知ってて、放置しとくのかよ？！@k@vS09/01/170100872.　そんなことできるわけねぇだろ！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Hey...!!@k@vS09/01/170100870. Then what was she supposed to do?!@k@vS09/01/170100871. Are you saying that she should've left the corpses there, knowing that the forestry service would find them this summer?!@k@vS09/01/170100872. She couldn't do that because she's your friend!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88124,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201208.",
+            "TextJPN": "「その営林署の伐採計画というのが、そもそも魅ぃちゃんの作り話だって、どうしてわからないのかなぁ！！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Why can't you understand that Mii-chan made everything up, including the logging project?!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88125,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100873.",
+            "TextJPN": "「わからねぇのはレナの方だろッ！！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``You're the one who doesn't understand anything!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88126,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201209.",
+            "TextJPN": "「………………………」",
+            "NamesENG": "Rena",
+            "TextENG": "``............``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88127,
+            "TextJPN": "俺が怒鳴りつけると、レナはすーーっと冷めるような目つきになった。",
+            "TextENG": "After I yelled at her, she gave me an icy look."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88128,
+            "TextJPN": "…そして俺を凝視し、この男は何をしにやって来たんだ？@k　と値踏みし始める…。",
+            "TextENG": "...She stared into my eyes...@k As if trying to find out what I came here for..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88129,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100874.",
+            "TextJPN": "「………俺は、レナの目を覚ましに来たんだ。@k@vS09/01/170100875.お前は鷹野さんのスクラップ帳のせいで、とんでもないおかしな夢に取り憑かれてる」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...I came here to wake you up.@k@vS09/01/170100875. You're possessed by an impossible delusion because of Takano-san's scrapbooks."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88130,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100876.",
+            "TextJPN": "「……最初の内は面白ぇ話だと思ってたが、そろそろ洒落にならないと思い始めた。@k@vS09/01/170100877.…………お前は今、ちょっとした病気なんだよ！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "...At first, I thought it was interesting. But this is getting way out of hand...@k@vS09/01/170100877. You know why? It's because they're making you sick!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88131,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201210.",
+            "TextJPN": "「……あぁ、梨花もどきにも病気だって言われたっけね。@k@vS09/02/170201211.確かに、うじ湧き病はもう始まってるし」",
+            "NamesENG": "Rena",
+            "TextENG": "``...Oh, the girl who looked just like Rika-chan told me the same thing.@k@vS09/02/170201211. You're actually right about that. I mean, I do have the maggot disease, so...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88132,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100878.",
+            "TextJPN": "「あぁ、もう違うんだ違うんだ！@k@vS09/01/170100879.　とにかく俺の話を聞け！@k@vS09/01/170100880.　…しばらくの間、横になってじっくりと休まねぇか？@k@vS09/01/170100881.　本当は魅音の家に匿ってもらったほうが安全なんだ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``No, you don't understand!@k@vS09/01/170100879. Listen to me very carefully!@k@vS09/01/170100880. ...You need to lie down and rest for a while. Okay?@k@vS09/01/170100881. It'd be a lot safer to stay at Mion's house."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88133,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100882.",
+            "TextJPN": "「警察からも匿えるしな。@k@vS09/01/170100883.……でも、それでも魅音が信用できないってんなら、俺の家でもいい。@k@vS09/01/170100884.とにかく、こんな休めない場所で縮こまってたって、心にいいわけがないんだ！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "She can protect you from the police.@k@vS09/01/170100883. ...But if you don't trust her, you can stay at my place.@k@vS09/01/170100884. Either way, it's not good for you to stay somewhere uncomfortable like this!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88134,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100885.",
+            "TextJPN": "「まずは俺の家に行こう。@k@vS09/01/170100886.そして冷たい飲み物でも飲みながら、ちょいと熱を冷ましてみないか…？@k@vS09/01/170100887.　そうすりゃレナもすぐに気付くさ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "Let's just go to my house for now.@k@vS09/01/170100886. We'll have some cold tea together. It'll cool your fever down...@k@vS09/01/170100887. Then, you'll realize how crazy all this was.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88135,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201212.",
+            "TextJPN": "「何を言ってるの圭一くん。@k@vS09/02/170201213.………私がおかしくなってるって言いたいの？」",
+            "NamesENG": "Rena",
+            "TextENG": "``What are you talking about, Keiichi-kun?@k@vS09/02/170201213. ...Are you saying that I'm crazy?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88136,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100888.",
+            "TextJPN": "「………………………」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``..................``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88137,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201214.",
+            "TextJPN": "「おかしいのはお前たちの方なんだ！！@k@vS09/02/170201215.　お前たちは寄生虫に乗っ取られて、知らず知らずのうちにやつらに操られているだけ。@k@vS09/02/170201216.圭一くんも傍観者のつもりでいるけど、実は被害者の１人なんだよ！！」",
+            "NamesENG": "Rena",
+            "TextENG": "``I'm not crazy, you are!!@k@vS09/02/170201215. You don't know it, but you're just being controlled by the parasite.@k@vS09/02/170201216. Keiichi-kun, you think you have nothing to do with it, but you're one of the victims!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88138,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201217.",
+            "TextJPN": "「それに気付けないのが彼らの狡猾なところ。@k@vS09/02/170201218.それを私は責めない。@k@vS09/02/170201219.……私がきっと圭一くんたちを救ってあげるから、今は私を信じていて！」",
+            "NamesENG": "Rena",
+            "TextENG": "You just don't realize it.@k@vS09/02/170201218. I'm not blaming you for that.@k@vS09/02/170201219. ...I can save you. I can save everybody. So please trust me for now!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88139,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100889.",
+            "TextJPN": "「おかしいのはお前たちの方、って……。@k@vS09/01/170100890.…じゃあレナは、…村が丸ごとおかしくて、自分だけが正しいって言うのかよ…？！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``You think we're all crazy...@k@vS09/01/170100890. You think... everybody in this village is crazy, and you're not... Is that what you're saying?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88140,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201220.",
+            "TextJPN": "「雛見沢だけじゃないかもしれないね。@k@vS09/02/170201221.…もはややつらの魔手は鹿骨市全域、…あるいは県内全域にまで及んでいるかもしれない！」",
+            "NamesENG": "Rena",
+            "TextENG": "``It might even be spreading outside of Hinamizawa.@k@vS09/02/170201221. ...They might've already spread it as far as Shishibone City... or to the entire prefecture!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88141,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201222.",
+            "TextJPN": "「でも、私だけは正しいの！@k@vS09/02/170201223.　三四さんのスクラップのお陰でそれに気付けた！@k@vS09/02/170201224.　圭一くんだって、気付けたんじゃなかったっけ？！」",
+            "NamesENG": "Rena",
+            "TextENG": "I really am the only one who isn't crazy!@k@vS09/02/170201223. I know that, thanks to Miyo-san's scrapbooks!@k@vS09/02/170201224. I thought you understood that, too!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88142,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100891.",
+            "TextJPN": "「待てよレナ、なぁ待てよレナ…！！@k@vS09/01/170100892.　自分以外、世界中が全ておかしいって、……それってつまりさ、……認めてるってことじゃねぇかよ！@k@vS09/01/170100893.　おかしいのは……自分だけなんだよ！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Wait a second, Rena!!@k@vS09/01/170100892. You're saying everybody in the world is crazy except you...@k@vS09/01/170100893. That's the same thing as saying you're the only one who's crazy...!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88143,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100894.",
+            "TextJPN": "「世界は最初から何も変ってねえし、おかしくも何ともない。@k@vS09/01/170100895.ましてやレナの敵でもなんでもない。@k@vS09/01/170100896.自分だけが正しくて世界が全部敵なんてことはありえないんだよ！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "The world hasn't changed. Nobody is crazy.@k@vS09/01/170100895. Nobody is your enemy.@k@vS09/01/170100896. If you ask me, it's crazy to believe that you're the only one in this world who isn't crazy and that everybody in this world is your enemy!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88144,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100897.",
+            "TextJPN": "「それはつまり、…………自分だけが敵ってことなんだよ！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "In short... your only enemy is yourself!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88145,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201225.",
+            "TextJPN": "「可哀想な圭一くん。@k@vS09/02/170201226.……でも仕方がないよ。@k@vS09/02/170201227.三四さんの真実は、誰もが受け容れられるものではない。@k@vS09/02/170201228.……三四さん自身、この内容が本当に真実か、まだ測りかねていた節があったしね」",
+            "NamesENG": "Rena",
+            "TextENG": "``I feel sorry for you, Keiichi-kun.@k@vS09/02/170201226. ...But it's okay.@k@vS09/02/170201227. It's not that easy to accept the facts Miyo-san discovered.@k@vS09/02/170201228. ...Even she wasn't sure about them."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88146,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201229.",
+            "TextJPN": "「だから圭一くんが受け容れられないことを、私は理解できる。@k@vS09/02/170201230.……だから、そんな圭一くんを救うために、私はがんばるよ。@k@vS09/02/170201231.がんばって戦って、…必ず、圭一くんたちを支配しているやつらをやっつけてやるから」",
+            "NamesENG": "Rena",
+            "TextENG": "So I understand if you can't accept the truth.@k@vS09/02/170201230. ...That's why I'm going to fight. I'm going to fight to save everybody.@k@vS09/02/170201231. I'll beat them down and make them stop controlling you.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88147,
+            "TextJPN": "ば……馬鹿野郎……馬鹿野郎……！！",
+            "TextENG": "Rena, that's stupid... That's just idiotic!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88148,
+            "TextJPN": "可哀想な圭一くん？@k　ばかばか、大馬鹿！！",
+            "TextENG": "You feel sorry for me?@k You're stupid!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88149,
+            "TextJPN": "どうして気付けないんだよ、どうしてあんな支離滅裂な滅茶苦茶な話をまだ信じられるんだよ！！",
+            "TextENG": "Why don't you understand? Why do you still believe a crazy stupid story like this?!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88150,
+            "TextJPN": "そしてどうして、何かある度に、その妄想に都合がいいように曲解するんだよ！",
+            "TextENG": "You're just interpreting everything to suit your convenience!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88151,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201232.",
+            "TextJPN": "「……三四さんも梨花ちゃんも、そして今や私も、…もうスペアが用意されてるの。@k@vS09/02/170201233.そして、私が消されるのと同時に入れ替わることになっている」",
+            "NamesENG": "Rena",
+            "TextENG": "``...They have replacements for Miyo-san, Rika-chan, and me.@k@vS09/02/170201233. They're going to replace me after I'm killed.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88152,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100898.",
+            "TextJPN": "「はぁッ？！@k@vS09/01/170100899.　スペアぁ？！@k@vS09/01/170100900.　お前、本気で何を言ってるんだ？！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``What?!@k@vS09/01/170100899. Replacements?!@k@vS09/01/170100900. Are you seriously saying that?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88153,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201234.",
+            "TextJPN": "「もういいや。@k@vS09/02/170201235.圭一くんには真実を教えてあげよう。@k@vS09/02/170201236.私が圭一くんに話してない、本当の真実。@k@vS09/02/170201237.実はね、寄生虫の正体は、…宇宙人なの」",
+            "NamesENG": "Rena",
+            "TextENG": "``You know what?@k@vS09/02/170201235. I'm going to tell you the truth.@k@vS09/02/170201236. I haven't told you about this yet.@k@vS09/02/170201237. The true identity of the parasite is... aliens.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88154,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100901.",
+            "TextJPN": "「う、……宇宙人んん……？！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``A-Aliens...?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88155,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201238.",
+            "TextJPN": "「うん。@k@vS09/02/170201239.オヤシロさまの正体ももちろん宇宙人。@k@vS09/02/170201240.天から降臨する際の描写は、世界各地に散らばる宇宙人説と合致するの」",
+            "NamesENG": "Rena",
+            "TextENG": "``Yes.@k@vS09/02/170201239. Oyashiro-sama is also an alien.@k@vS09/02/170201240. The description of his descending from the sky matches with alien theories from all over the world."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88156,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201241.",
+            "TextJPN": "「偉大な文明が興る時、偉人は必ず宇宙から現れる！@k@vS09/02/170201242.　彼らは宇宙から優れた叡智を持って地球を訪れ、いつまでも未熟な地球人類の進化を促そうと、」",
+            "NamesENG": "Rena",
+            "TextENG": "Whenever a great civilization flourished, it was always the aliens who accomplished it!@k@vS09/02/170201242. They have advanced knowledge. They came to Earth to help immature humans evolve...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88157,
+            "TextJPN": "………おいおいおいおい………、……う、……嘘だろ、レナ。",
+            "TextENG": "......Hey, wait just a minute... You... must be kidding, right, Rena?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88158,
+            "TextJPN": "まださ、……寄生虫説の方が聞いてて面白かったぞ……。",
+            "TextENG": "The parasite theory was interesting..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88159,
+            "TextJPN": "そりゃいくらなんでも……滅茶苦茶だぞ………。",
+            "TextENG": "But aliens...? Come on. That's just nonsense..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88160,
+            "TextJPN": "でも、レナは信じられないくらいに大真面目で、……それを受け容れられない俺を、哀れんでいるのだ。",
+            "TextENG": "But Rena believes this theory so seriously... And she feels sorry for me because I can't accept it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88161,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201243.",
+            "TextJPN": "「やつらは人体寄生を通じてコミュニティを支配してきた。@k@vS09/02/170201244.だが時折、勘のいい人間が生まれ、その支配の実態を暴こうとした。@k@vS09/02/170201245.彼らはそれを取り除き、コミュニティを維持するために、様々な拉致を行なったの」",
+            "NamesENG": "Rena",
+            "TextENG": "``They've been controlling the community by living as parasites in human bodies.@k@vS09/02/170201244. But sometimes, someone with sharp intuition comes along, and tries to reveal the truth.@k@vS09/02/170201245. But they get rid of them in order to maintain their control of the community."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88162,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201246.",
+            "TextJPN": "「そして、時には金属片を埋め込みそのコントロールを得たり、あるいは外見だけを共有した別の存在と入れ替えることによって支配を続け…！！」",
+            "NamesENG": "Rena",
+            "TextENG": "They sometimes kidnap those people with sharp intuition and put a piece of metal in their bodies to gain control over them. When that doesn't work, they replace those people with their copies...!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88163,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201247.",
+            "TextJPN": "「そいつらは三四さんのコピーを生み、私のコピーを生んだ。@k@vS09/02/170201248.梨花ちゃんのコピーもさっき来たんだよ！@k@vS09/02/170201249.　そいつと話をしてみた。@k@vS09/02/170201250.そいつは宇宙から来た存在であることを認めたよ！！」",
+            "NamesENG": "Rena",
+            "TextENG": "They made a copy of Miyo-san. They made a copy of me, too.@k@vS09/02/170201248. Rika-chan's copy just came by a few minutes ago!@k@vS09/02/170201249. I talked to <i>it</i>.@k@vS09/02/170201250. <i>It</i> admitted that <i>it</i> came from space!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88164,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201251.",
+            "TextJPN": "「そして破滅の日が近いことを告白し、私に足掻けるものなら足掻けと嘲笑った！！@k@vS09/02/170201252.　私は戦うよ、人類をやつらの家畜になどしてたまるか！！@k@vS09/02/170201253.　私は絶対に絶対に、」",
+            "NamesENG": "Rena",
+            "TextENG": "<i>It</i> told me that the end of the world is coming soon, and <i>it</i> laughed at me, saying I should struggle as much as I want!!@k@vS09/02/170201252. I'm going to fight. I'm not going to let them domesticate our species!!@k@vS09/02/170201253. I'll never ever...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88165,
+            "TextJPN": "この、………馬鹿野郎……！！！！",
+            "TextENG": "You're... so stupid...!!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88166,
+            "TextJPN": "俺はレナにずかずかと近寄り、その頭を引っぱたいた。",
+            "TextENG": "I stepped towards Rena, and slapped her in the face. ...I was hoping it would return her to sanity."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88167,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100902.",
+            "TextJPN": "「………目を覚ませ！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``......Wake up!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88168,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201254.",
+            "TextJPN": "「……………」",
+            "NamesENG": "Rena",
+            "TextENG": "``............``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88169,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100903.",
+            "TextJPN": "「レナ。@k@vS09/01/170100904.……もう忘れたか？@k@vS09/01/170100905.　まさにこの場所だ。@k@vS09/01/170100906.それもほんの数日前だ。@k@vS09/01/170100907.俺たち仲間たちは、この場所で、全員で手を取り合ったよな…？@k@vS09/01/170100908.　そして、仲間は家族同然だって認め合ったよな…？」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Rena...@k@vS09/01/170100904. did you forget?@k@vS09/01/170100905. It happened here.@k@vS09/01/170100906. Just a few days ago.@k@vS09/01/170100907. We all took each other's hands here... didn't we?@k@vS09/01/170100908. And we promised we'd be a family made of friends forever...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88170,
+            "TextJPN": "レナは、手首をいじるような仕草をした。@kだが口を挟んでこなかったので続ける。",
+            "TextENG": "Rena played with her wrist.@k She didn't interrupt, so I continued."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88171,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100909.",
+            "TextJPN": "「お前の言う、宇宙人が地球を侵略してるって話を、お前が本気で言ってるなら、@k@vS09/01/170100910.……たとえ世界中が信じなくても、俺は信じてやる。@k@vS09/01/170100911.…俺はお前の仲間で、一番最初の味方だからだ！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``If you're seriously saying that aliens are controlling the Earth...@k@vS09/01/170100910. I'll believe you. Even if everybody in this world didn't, I would.@k@vS09/01/170100911. ...That's because I'm your friend and I'm on your side no matter what!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88172,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100912.",
+            "TextJPN": "「でもな、…ならお前も聞いてくれ。@k@vS09/01/170100913.仲間で味方の俺の言葉を聞いてくれ。@k@vS09/01/170100914.……あの鷹野さんのスクラップ帳はでっち上げのインチキなんだよ！！@k@vS09/01/170100915.　本当さ、鷹野さんはオカルトマニアなんだ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "But... I want you to listen to me, too.@k@vS09/01/170100913. I want you to listen to me because I'm your friend.@k@vS09/01/170100914. ...Takano-san made up all the stories in the scrapbooks!!@k@vS09/01/170100915. It's true. Takano-san was an occult maniac."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88173,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100916.",
+            "TextJPN": "「雛見沢の古い歴史をいろいろに解釈して遊んで、珍説を書き上げては人に読ませて回ってるだけなんだ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "She enjoyed interpreting the old history of Hinamizawa any way she wanted. She made up ridiculous stories out of it, and she read them to people for fun."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88174,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100917.",
+            "TextJPN": "「だから、寄生虫がどうのこうのという説以外にも、ＵＦＯがどうこうとか、地底人がどうこうなんていうとんでもないのまでたくさんあるんだ！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "So, the parasite story isn't the only one she made up. There are stories about UFOs, some kind of creatures from the underworld, and many other things!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88175,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100918.",
+            "TextJPN": "「だから、レナが読んだスクラップ帳は、鷹野さん自慢の最新作でしかないんだよ！@k@vS09/01/170100919.　ほら、あの人って人をからかうみたいなところがあるだろ？」",
+            "NamesENG": "Keiichi",
+            "TextENG": "So, the one you read in the scrapbooks was just a new story she made up recently!@k@vS09/01/170100919. Don't you remember that she liked to make fun of people?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88176,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100920.",
+            "TextJPN": "「レナが真面目に話を聞いてくれるもんだから、面白がってとんでもない話を吹き込んだだけなんだよ！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "She was just making fun of you because you took her story so seriously!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88177,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201255.",
+            "TextJPN": "「………単なる創作なら、三四さんはどうして殺されたの？@k@vS09/02/170201256.　しかも、検死結果では死後２４時間のはずなのに、どうして祭りの夜に歩いていたの？」",
+            "NamesENG": "Rena",
+            "TextENG": "``...If it was just a story she made up, why was she killed?@k@vS09/02/170201256. Her autopsy report said she had been dead for 24 hours when she was found. But she was there at the festival. Why?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88178,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201257.",
+            "TextJPN": "「富竹さんの死因は？@k@vS09/02/170201258.　園崎家は？@k@vS09/02/170201259.　雛見沢の伝説は？@k@vS09/02/170201260.　オヤシロさまは、梨花ちゃんは？@k@vS09/02/170201261.　全部、創作？@k@vS09/02/170201262.　世界中が私たちを騙すために嘘をついているって、そう言うの？」",
+            "NamesENG": "Rena",
+            "TextENG": "How are you going to explain the cause of Tomitake-san's death?@k@vS09/02/170201258. What about the Sonozaki family?@k@vS09/02/170201259. What about the legend of Hinamizawa?@k@vS09/02/170201260. What about Oyashiro-sama and Rika-chan?@k@vS09/02/170201261. Are you saying everything is made up?@k@vS09/02/170201262. Are you saying that the whole world is lying to us?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88179,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100921.",
+            "TextJPN": "「何でもかんでも無理につなげて解釈するな！！@k@vS09/01/170100922.　誇大妄想の典型的な症例じゃねぇかよ！！@k@vS09/01/170100923.　とにかく難しく考えるな！！@k@vS09/01/170100924.　レナはちょっと疲れてるだけなんだ」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Stop making connections between everything!!@k@vS09/01/170100922. That's a typical symptom of paranoia!!@k@vS09/01/170100923. Don't think so hard!!@k@vS09/01/170100924. You're just tired."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88180,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100925.",
+            "TextJPN": "「だから、少し休もう。@k@vS09/01/170100926.俺はレナにくつろげる部屋と布団、食事を提供するだけだ。@k@vS09/01/170100927.…食事が信用できないなら、自前で好きにしてくれたっていい」",
+            "NamesENG": "Keiichi",
+            "TextENG": "That's why you need to rest.@k@vS09/01/170100926. All I'm going to do is to offer you a place to relax, a bed, and food.@k@vS09/01/170100927. ...If you can't trust my food, you don't have to eat it. Eat whatever you have."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88181,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100928.",
+            "TextJPN": "「とにかくとにかく！！@k@vS09/01/170100929.　俺の言うことを今だけでいいから信じてほしいんだ！！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "Anyway!!@k@vS09/01/170100929. Please just trust me for now!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88182,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201263.",
+            "TextJPN": "「私の言っている話の方が筋も通っているし、証拠も根拠もたくさんある。@k@vS09/02/170201264.なのに圭一くんは自分を信じてくれの一点張り。@k@vS09/02/170201265.……どっちが正しいかなんて、明白でしょ？」",
+            "NamesENG": "Rena",
+            "TextENG": "``My story makes more sense than yours. I have evidence to prove it.@k@vS09/02/170201264. But all you're saying is that I should trust you.@k@vS09/02/170201265. ...Isn't it obvious who is right?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88183,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100930.",
+            "TextJPN": "「あぁ、明白だな。@k@vS09/01/170100931.俺だッ！！！@k@vS09/01/170100932.　俺が正しい！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Yes, it is obvious.@k@vS09/01/170100931. Me!!!@k@vS09/01/170100932. I'm right!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88184,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201266.",
+            "TextJPN": "「よ、……よくそんなことを言い切れるね？」",
+            "NamesENG": "Rena",
+            "TextENG": "``How... How can you be so sure?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88185,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100933.",
+            "TextJPN": "「あぁ、そんなのは簡単さ。@k@vS09/01/170100934.俺がレナの仲間だからだ。@k@vS09/01/170100935.仲間は絶対に裏切らない。@k@vS09/01/170100936.仲間を絶対に助ける。@k@vS09/01/170100937.だから、世界中が俺を正しくないと言っても、今だけは俺を信じろ。@k@vS09/01/170100938.俺が、お前の仲間だからなんだ！！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``It's easy.@k@vS09/01/170100934. It's because I'm your friend.@k@vS09/01/170100935. Friends never betray one another.@k@vS09/01/170100936. Friends always help each other.@k@vS09/01/170100937. So, you have to believe that I'm right even when the world says I'm wrong.@k@vS09/01/170100938. Because I'm your friend!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88186,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201267.",
+            "TextJPN": "「………………………」",
+            "NamesENG": "Rena",
+            "TextENG": "``..................``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88187,
+            "TextJPN": "どさりと音がした。@k…レナが@bなた.@<鉈@>を落とした音だ。",
+            "TextENG": "I heard a thud.@k ...Rena dropped the hatchet."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88188,
+            "TextJPN": "レナは両手で頭を抱えると、少しふらついた。",
+            "TextENG": "She staggered, holding her head in her hands."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88189,
+            "TextJPN": "……聞き取れない何かをぶつぶつと呟き、自問自答しているかのように見えた。",
+            "TextENG": "...She was muttering something, and it looked like she was asking herself questions."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88190,
+            "PreNameTags": "@c900.",
+            "TextJPN": "………何の証拠も根拠も示せないくせに、自分を信じろだと？！",
+            "TextENG": "...He wants me to trust him, but he has no evidence to prove he's right!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88191,
+            "PreNameTags": "@c900.",
+            "TextJPN": "何て滅茶苦茶なことを言うんだ、この前原圭一という男は…！！",
+            "TextENG": "He's being absurd...!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88192,
+            "PreNameTags": "@c900.",
+            "TextJPN": "でも、………あるいは本当に圭一くんの言うように、…私の勘違い……？",
+            "TextENG": "Or... maybe he's right, and I'm wrong... Am I really just misunderstanding everything...?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88193,
+            "PreNameTags": "@c900.",
+            "TextJPN": "あぁ、それはとても素敵な提案、何度も夢見た提案。",
+            "TextENG": "It would be wonderful if that was true. I wished I was wrong so many times."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88194,
+            "PreNameTags": "@c900.",
+            "TextJPN": "実は三四さんのスクラップ帳は単なる妄想ノートで、寄生虫なんてものは存在しない。",
+            "TextENG": "I wished Miyo-san's scrapbooks are nothing but a bunch of stories, and the parasite doesn't exist."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88195,
+            "PreNameTags": "@c900.",
+            "TextJPN": "……たまたまの偶然を私が繋ぎ合わせて悪く解釈しているだけ…。",
+            "TextENG": "Some coincidences happened to connect together, and I interpreted them in the wrong way..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88196,
+            "PreNameTags": "@c900.",
+            "TextJPN": "そうだったらどんなによかったことかどんなによかったことか…！！",
+            "TextENG": "I really wish that was the case...!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88197,
+            "PreNameTags": "@c900.",
+            "TextJPN": "挫けるな竜宮レナ、クールになれ竜宮レナ…！！",
+            "TextENG": "Don't give up, Rena Ryuugu. Be cool, Rena Ryuugu...!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88198,
+            "PreNameTags": "@c900.",
+            "TextJPN": "この男の言葉には毒がある、安息を求める私の心の弱さにつけこもうとする毒がある！",
+            "TextENG": "This guy has poison in his words. He's trying to take advantage of my weakness!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88199,
+            "PreNameTags": "@c900.",
+            "TextJPN": "全ては明らかなのだ、宇宙からの侵略者が、鬼ヶ淵村と呼ばれた太古から、この村を地球侵略の基地にしてきたことは明白なんだ…。",
+            "TextENG": "Everything is too obvious not to believe. It's obvious that the aliens have been trying to invade the Earth, using this village as their base ever since it was called Onigafuchi..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88200,
+            "PreNameTags": "@c900.",
+            "TextJPN": "圭一くんはやつらに寄生されて支配されてしまっているただの犠牲者なんだ、犠牲者なんだ…！",
+            "TextENG": "Keiichi-kun is a victim who's being controlled by them. He's just a victim...!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88201,
+            "PreNameTags": "@c900.",
+            "TextJPN": "でも、……圭一くんのあの日、手首を掴んでくれたあの力強さには何の邪心もない！！",
+            "TextENG": "But... when he grabbed my wrist really hard on that day, I could tell his intentions were true!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88202,
+            "PreNameTags": "@c900.",
+            "TextJPN": "私という仲間を救い出そうとしてくれたあの力強さを、私は今でも忘れられないじゃないか！！",
+            "TextENG": "I still remember the strength of his grip on my wrist. He tried to save me, his friend!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88203,
+            "PreNameTags": "@c900.",
+            "TextJPN": "この惑乱と妄想の迷路の中で、私は出口を見つけられずへたり込んで。",
+            "TextENG": "I got lost in this crazy delusional maze many times."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88204,
+            "PreNameTags": "@c900.",
+            "TextJPN": "……誰かに助けてもらいたいと何度祈ったんだっけ？！",
+            "TextENG": "...I prayed over and over that somebody would help me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88205,
+            "PreNameTags": "@c900.",
+            "TextJPN": "そして、私の願いがかなって、圭一くんが、再びこうして同じ場所で手を差し伸べてくれている！！",
+            "TextENG": "And now, my prayers are answered, and Keiichi-kun is reaching for my hand again!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88206,
+            "PreNameTags": "@c900.",
+            "TextJPN": "忘れたか竜宮レナ、この男は仲間だなんて言ってるけど、自分のことを全て打ち明けてはいないんだぞ？",
+            "TextENG": "But don't forget, Rena Ryuugu. This guy says he's your friend, but he hasn't told you everything about himself."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88207,
+            "PreNameTags": "@c900.",
+            "TextJPN": "ほら、忘れたか、大石さんに聞いたじゃないか……。",
+            "TextENG": "Don't you remember? Ooishi-san told you about it..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88208,
+            "PreNameTags": "@c900.",
+            "TextJPN": "警察が調べてくれた。",
+            "TextENG": "He told me about what he found out."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88209,
+            "PreNameTags": "@c900.",
+            "TextJPN": "私が仲間を疑ったから、圭一くんも含めて大石が全員を調べてくれた。",
+            "TextENG": "I couldn't trust my friends, so Ooishi checked on everybody, including Keiichi-kun."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88210,
+            "PreNameTags": "@c900.",
+            "TextJPN": "そうしたら、……圭一くんが引っ越してくる前のことを、……知ってしまったんじゃないか！！",
+            "TextENG": "That's why I know... about what he did before he moved here!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88211,
+            "PreNameTags": "@c900.",
+            "TextJPN": "こいつは上辺だけだ、中身は異常者なんだ、信じちゃいけない信じちゃいけない！！",
+            "TextENG": "He looks like he's a good guy on the outside, but he's crazy on the inside. I can't trust him! I shouldn't trust him!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88212,
+            "PreNameTags": "@c900.",
+            "TextJPN": "だから何？！",
+            "TextENG": "So what?!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88213,
+            "PreNameTags": "@c900.",
+            "TextJPN": "引っ越して来る前の圭一くんなんて知らない！！",
+            "TextENG": "I don't care who he was before he moved here!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88214,
+            "PreNameTags": "@c900.",
+            "TextJPN": "私だって引っ越してくる前の茨城で、いっぱい悪いことしたよ？",
+            "TextENG": "I did many bad things in Ibaraki, too."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88215,
+            "PreNameTags": "@c900.",
+            "TextJPN": "笑えないことをした、許されないことをした。",
+            "TextENG": "I did many unforgivable things."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88216,
+            "PreNameTags": "@c900.",
+            "TextJPN": "人に大怪我をさせたし、学校中のガラスを割ったし、謹慎まで食らった大不良じゃない！！",
+            "TextENG": "I hurt my friends really badly, broke the windows at the school, and was suspended!! I was a very bad girl!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88217,
+            "PreNameTags": "@c900.",
+            "TextJPN": "だからって今の私を彼らが差別した？",
+            "TextENG": "Did he treat me differently because of that?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88218,
+            "PreNameTags": "@c900.",
+            "TextJPN": "しないよ？！",
+            "TextENG": "No, he didn't!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88219,
+            "PreNameTags": "@c900.",
+            "TextJPN": "竜宮レナは竜宮レナで、…茨城にいた竜宮礼奈が…悪いことをしてたって、……それは許してくれるんだよ？！",
+            "TextENG": "Rena Ryuugu is Rena Ryuugu. He'll forgive me because it was Reina Ryuugu who did all those bad things in Ibaraki!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88220,
+            "PreNameTags": "@c900.",
+            "TextJPN": "あっはっはっは、あっはっはっはっは！！！",
+            "TextENG": "Ah ha ha ha. Ah ha ha ha ha!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88221,
+            "PreNameTags": "@c900.",
+            "TextJPN": "許さないよ許すわけないよ、@k当り前じゃないか、@k前原圭一が自分をお淑やかな女の子だと信じてくれるのは、礼奈を知らないからだよ。@k知ったらどうなることか！！",
+            "TextENG": "He won't forgive me.@k I should know better.@k Keiichi Maebara believes that I'm a kind and modest girl, because he doesn't know Reina.@k If he found out about Reina, what would he do?!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88222,
+            "PreNameTags": "@c900.",
+            "TextJPN": "知っても大丈夫だよ、私のことを怖がるわけないよ…！",
+            "TextENG": "He wouldn't do anything. He wouldn't be scared of me...!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88223,
+            "PreNameTags": "@c900.",
+            "TextJPN": "レナはレナなんだよ、礼奈なんて、引っ越す前の町の話じゃない！！",
+            "TextENG": "Rena is Rena. Reina is a different girl!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88224,
+            "PreNameTags": "@c900.",
+            "TextJPN": "圭一くんだって同じだよ、引っ越す前の話なんてどうでもいい、そんなのはお相子なんだよ！！",
+            "TextENG": "The same goes with Keiichi-kun. I don't care who he was before he moved here. We're even!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88225,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100939_1.",
+            "TextJPN": "「…だ、……大丈夫か、レナ…」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...Are... you okay, Rena...?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88226,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201269.",
+            "TextJPN": "「……………触るな、汚らわしい」",
+            "NamesENG": "Rena",
+            "TextENG": "``......Don't touch me.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88227,
+            "TextJPN": "俺が差し伸べていた手を、レナは払いのけた。",
+            "TextENG": "Rena knocked my hand aside when I reached for her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88228,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201270.",
+            "TextJPN": "「さっきから……、聞いていれば仲間仲間とやかましい…。@k@vS09/02/170201271.仲間だから信じろ？@k@vS09/02/170201272.　仲間だから世界中全てより正しいだと…？@k@vS09/02/170201273.　それこそ妄言じゃないか…！」",
+            "NamesENG": "Rena",
+            "TextENG": "``You keep saying you're my friend.@k@vS09/02/170201271. You want me to trust you because of that.@k@vS09/02/170201272. You want me to believe that you're right even if the world says you're wrong...@k@vS09/02/170201273. Are you out of your mind? That is more delusional than anything else...!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88229,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100939.",
+            "TextJPN": "「何と言われたって。@k@vS09/01/170100940.俺はお前の仲間だ。@k@vS09/01/170100941.だから、絶対にお前のためになることを言っている！！！@k@vS09/01/170100942.　疑うな！！@k@vS09/01/170100943.　絶対に俺が正しい！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``I don't care what you say.@k@vS09/01/170100940. I'm your friend.@k@vS09/01/170100941. Everything I say, I say for your sake!!!@k@vS09/01/170100942. Don't doubt me!!@k@vS09/01/170100943. I know I'm right!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88230,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201274.",
+            "TextJPN": "「……ぷ、……くっくっくっく！！」",
+            "NamesENG": "Rena",
+            "TextENG": "``...Pff... Heh heh heh!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88231,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201275.",
+            "TextJPN": "「へぇ…？@k@vS09/02/170201276.　じゃあ、聞いてもいい？」",
+            "NamesENG": "Rena",
+            "TextENG": "Really...?@k@vS09/02/170201276. Then, can I ask you something?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88232,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100944.",
+            "TextJPN": "「あぁ、何でも聞け」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Yes. Anything.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88233,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201277.",
+            "TextJPN": "「仲間ってのは、……隠し事なんてないんだよね？」",
+            "NamesENG": "Rena",
+            "TextENG": "``Friends... don't keep secrets from another, right?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88234,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100945.",
+            "TextJPN": "「当然だ。@k@vS09/01/170100946.隠し事なんかしない」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``Of course.@k@vS09/01/170100946. I'm not hiding anything from you.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88235,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201278.",
+            "TextJPN": "「嘘だよ」",
+            "NamesENG": "Rena",
+            "TextENG": "``You're lying.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88236,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100947.",
+            "TextJPN": "「……嘘なんかつかない！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...I'm not!``"
+        },
+        {
+            "type": "LOGSET",
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201279.",
+            "TextJPN": "「嘘だッ！！！」",
+            "NamesENG": "",
+            "TextENG": ""
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88237,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201280.",
+            "TextJPN": "「あーーーっはっはっはっはっはっは！！@k@vS09/02/170201281.　はーっはっはっはっは！！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Ah ha ha ha ha ha!!@k@vS09/02/170201281. Ha ha ha ha ha!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88238,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100948.",
+            "TextJPN": "「な、何がおかしいよ！！」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``What's so funny?!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88239,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201282.",
+            "TextJPN": "「あっはっはっは…、圭一くん、隠し通せてるつもりなんだぁ？@k@vS09/02/170201283.　くっくっく！」",
+            "NamesENG": "Rena",
+            "TextENG": "``Aha ha ha... Keiichi-kun, you think you can keep it secret from me, don't you?@k@vS09/02/170201283. Heh heh heh!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88240,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201284.",
+            "TextJPN": "「私、知ってるんだよ」",
+            "NamesENG": "Rena",
+            "TextENG": "I know everything."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88241,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201285.",
+            "TextJPN": "「圭一くんが引っ越してくる直前に、どういうことしてたか、知ってるんだよ…？」",
+            "NamesENG": "Rena",
+            "TextENG": "I know what you did before you moved here, I know...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88242,
+            "TextJPN": "……全身から霜柱が吹き出すような錯覚がした。",
+            "TextENG": "...I felt as if my entire body was covered in frosty needles."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88243,
+            "TextJPN": "全身が凍りつき、思考すらも凍り付いていく。",
+            "TextENG": "My body and mind froze all of a sudden."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88244,
+            "TextJPN": "…そんな馬鹿なそんな馬鹿な、…………どうして、……知ッテルンダヨ………！！",
+            "TextENG": "...I don't believe this. I don't believe this. ...How come <i>she</i> knows... about that...?!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88245,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201286.",
+            "TextJPN": "「大石さんに調べてもらったんだよ。@k@vS09/02/170201287.みんなのこと。@k@vS09/02/170201288.……そしたら圭一くん、引越しの前は、とんでもない人だったんだよねぇ？　@k@vS09/02/170201289.くっくっく！」",
+            "NamesENG": "Rena",
+            "TextENG": "``I asked Ooishi-san to check on everybody.@k@vS09/02/170201287. Everybody.@k@vS09/02/170201288. ...That's why I know what you did before you came here.@k@vS09/02/170201289. Heh heh heh!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88246,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100949.",
+            "TextJPN": "「や、………やめろ、……あれは…………、違うんだ…………」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``S... Stop it. ...You got it all... wrong...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88247,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201290.",
+            "TextJPN": "「ずいぶん悪いことしてたみたいだねぇ？@k@vS09/02/170201291.　沙都子ちゃんと梨花ちゃんにも話しておかないとね。@k@vS09/02/170201292.こんな危ない人が身近にいたなんて、信じられないよ」",
+            "NamesENG": "Rena",
+            "TextENG": "``You only targeted little girls.@k@vS09/02/170201291. I have to tell Satoko-chan and Rika-chan about it.@k@vS09/02/170201292. I can't believe a dangerous person like you was near us the whole time.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88248,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100950.",
+            "TextJPN": "「違う、……違う違う……、それは、たまたまなんだ……」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``No... No... It wasn't like that... It just turned out that way...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88249,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201293.",
+            "TextJPN": "「モデルガンで通行人を連続して襲撃。@k@vS09/02/170201294.すごいすごい、雛見沢村連続怪死事件に負けないくらいインパクトあるよ？@k@vS09/02/170201295.　あははは、あっはっはっは！！」",
+            "NamesENG": "Rena",
+            "TextENG": "``A series of attacks on school kids.@k@vS09/02/170201294. Bravo! It has as strong an impact as the series of mysterious deaths of Hinamizawa.@k@vS09/02/170201295. Ahahaha, ah ha ha ha!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88250,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100951.",
+            "TextJPN": "「違うんだよ、………あれは………本当に…………、」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``No... It wasn't like that...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88251,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201296.",
+            "TextJPN": "「何がどう違うの？@k@vS09/02/170201297.　数週間の間に、見ず知らずの通行人を狙って、通り掛かりにモデルガンで撃ち付ける恐ろしい事件だった」",
+            "NamesENG": "Rena",
+            "TextENG": "``It wasn't like what?@k@vS09/02/170201297. You shot little kids with a BB gun when they were walking alone on deserted streets. What a horrifying incident."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88252,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201299.",
+            "TextJPN": "「目に当たって大怪我した人もいたんでしょ？@k@vS09/02/170201300.　幸い、後遺症にはならなかったそうだけど。@k@vS09/02/170201301.あははははは！」",
+            "NamesENG": "Rena",
+            "TextENG": "You shot one of the girls in her eyes, and she was badly injured.@k@vS09/02/170201300. Fortunately the damage wasn't permanent.@k@vS09/02/170201301. Ahahahahaha!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88253,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201302.",
+            "TextJPN": "「モデルガンなんて武器を持って、だれかれ構い無しに面白半分でつけ狙う、嫌らしさ。@k@vS09/02/170201303.そんなことして何が楽しかったの？」",
+            "NamesENG": "Rena",
+            "TextENG": "You had a BB gun, and you only shot little kids. How disgusting.@k@vS09/02/170201303. What made you enjoy it so much?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88254,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201304.",
+            "TextJPN": "「でも楽しかったからずーっと続けてたんだよね？@k@vS09/02/170201305.　そのくせ、途中で良心の@bかしゃく.@<呵責@>に耐えられなくなってご両親と一緒に自首。@k@vS09/02/170201306.責任取るのもご両親と一緒じゃないと駄目なわけ？」",
+            "NamesENG": "Rena",
+            "TextENG": "You must have really enjoyed it because you continued to do it for a long time.@k@vS09/02/170201305. But then, you turned yourself in to the police, accompanied by your parents, in a crisis of conscience.@k@vS09/02/170201306. You couldn't even take responsibility for your actions on your own."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88255,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201307.",
+            "TextJPN": "「少年法って親切よね。@k@vS09/02/170201308.被害者にも犯人の名前は公開されないし。@k@vS09/02/170201309.お父さんが大金持ちだったから、示談金をたくさん積んでくれたんだよね？@k@vS09/02/170201310_1.　それで大事にしない約束を取り付けて、まったりとしばらくは保護観察」",
+            "NamesENG": "Rena",
+            "TextENG": "Juvenile law was kind to you, wasn't it?@k@vS09/02/170201308. It prevented your name from being disclosed to the public or the victims.@k@vS09/02/170201309. I bet your father spent a lot of money to protect you.@k@vS09/02/170201310_1. He paid a lot of compensation to settle the case out of court, and he had you placed on probation."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88256,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201311.",
+            "TextJPN": "「それでほとぼりが冷めた頃合に、お金に任せて遠方へ引越しして全部チャラ。@k@vS09/02/170201312.いいね、お金持ちは。@k@vS09/02/170201313.あははははははは！」",
+            "NamesENG": "Rena",
+            "TextENG": "After the case cooled down, he used the power of money once again to move far away from the city. Everything is solved. Right?@k@vS09/02/170201312. You're lucky that your father's so rich.@k@vS09/02/170201313. Ahahahahahahaha!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88257,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100952.",
+            "TextJPN": "「……………違うんだ、…………違うんだ…………ああぁぁ………」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``...No... It wasn't like that... Ahhh...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88258,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201314.",
+            "TextJPN": "「そんなこと、どうして今まで黙ってたの？@k@vS09/02/170201315.　前の学校ではずっと勉強漬けだった？@k@vS09/02/170201316.　どうしてそんな嘘をつくの？」",
+            "NamesENG": "Rena",
+            "TextENG": "``Why didn't you tell us about it?@k@vS09/02/170201315. You told me that you did nothing but study at your previous school.@k@vS09/02/170201316. Why did you lie like that?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88259,
+            "NamesJPN": "圭一",
+            "PreTextTags": "@vS09/01/170100953.",
+            "TextJPN": "「ご、ごめん…。@k@vS09/01/170100954.嘘ってわけじゃ…、」",
+            "NamesENG": "Keiichi",
+            "TextENG": "``I-I'm sorry...@k@vS09/01/170100954. I didn't mean to lie...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88260,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201317.",
+            "TextJPN": "「仲間ってのは隠し事なんかなしでしょ？@k@vS09/02/170201318.　そうでしょ？！」",
+            "NamesENG": "Rena",
+            "TextENG": "``I thought friends didn't keep secrets from one another.@k@vS09/02/170201318. Right?!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88261,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201319.",
+            "TextJPN": "「じゃあお前は仲間じゃない！！」",
+            "NamesENG": "Rena",
+            "TextENG": "So that makes you not my friend!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88262,
+            "TextJPN": "………後頭部に叩きつけられる言葉の刃に、……俺は目から血をこぼす。@k…それは透明で、……塩辛かった。",
+            "TextENG": "...The blades of her words hit hard... and they made my eyes bleed.@k ...The blood was clear, and it tasted salty."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88263,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201320.",
+            "TextJPN": "「私も過去の事件からお前が怪しいと思ってる。@k@vS09/02/170201321.それを隠しきれてると思わないで！！」",
+            "NamesENG": "Rena",
+            "TextENG": "``I can't trust you, because of what you did in the past.@k@vS09/02/170201321. Don't you ever think you can hide it from me!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88264,
+            "TextJPN": "あの時の悔悟の念がこみ上げてくる。",
+            "TextENG": "I remember how deeply I regretted it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88265,
+            "TextJPN": "後悔してもし足りない、忘れたくても忘れられない、……あの馬鹿な過ち。",
+            "TextENG": "I couldn't regret enough. I wanted to forget it, but I couldn't... I made a stupid mistake."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88266,
+            "TextJPN": "……どうして、……どうして、そんな事件が、……今ここで出てくるんだよ…。",
+            "TextENG": "...Why... Why does she have to bring it up right now...?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88267,
+            "TextJPN": "俺は謝罪して、全てを受け容れて、……それで引っ越して全部終わりにできたんじゃないのかよ…。",
+            "TextENG": "I apologized and accepted everything. And I moved here to put it behind me..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88268,
+            "TextJPN": "だから、雛見沢での新生活は、今度こそと意気込んで、清い再出発を誓ったんじゃなかったのかよ………。",
+            "TextENG": "I wanted to have a fresh start in Hinamizawa. I swore to myself to live a clean life from then on..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88269,
+            "TextJPN": "全部、………台無しだった。",
+            "TextENG": "Everything is... ruined now."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88270,
+            "TextJPN": "……俺は……どこまで行っても、………犯罪者なんだ。",
+            "TextENG": "...I'll be... a criminal... no matter where I go."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88271,
+            "TextJPN": "……受験勉強のストレス、むしゃくしゃしてた、誰でもよかった、……ああぁああぁぁぁ、あんな馬鹿なことに何の意味が？",
+            "TextENG": "...I was stressed out with my exam studies. I was frustrated. I randomly shot people. I didn't care if it was girls or kids. ...Ahhhh, why did I do something so stupid?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88272,
+            "TextJPN": "意味なんかない、何にもなかった。",
+            "TextENG": "There was no reason. I had no reason to do that."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88273,
+            "TextJPN": "ただ、甘えたかっただけなんだ。",
+            "TextENG": "I just wanted to get someone's attention."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88274,
+            "TextJPN": "……受験勉強が嫌だって面と向かって親に言う勇気がなくて、……誰かに叱ってほしくて、あんな幼稚な手段に訴えて……。",
+            "TextENG": "...I didn't have the courage to tell my parents that I didn't want to study... I just wanted somebody to scold me, so I used a childish way to get attention..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88275,
+            "TextJPN": "……後悔してる、一生、あんな馬鹿な真似はしないと誓える！",
+            "TextENG": "...I regret what I did. I swear I'll never do something that stupid again!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88276,
+            "TextJPN": "次にやったら死刑だって構わないさ！！",
+            "TextENG": "If I do it again, they can send me to the chair!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88277,
+            "TextJPN": "ここまでやったら許されるというなら、絶対にそれを全うして見せる！！",
+            "TextENG": "If there was something I could do to be completely forgiven, I'd do it, no matter what it was!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88278,
+            "TextJPN": "でも、………どこまで後悔して、どこまで償っても、…………許されないんだ…。",
+            "TextENG": "But... no matter how deeply I regret it, and no matter how long I atone for my sin... I'll never be forgiven..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88279,
+            "TextJPN": "だから、……せめて新生活で、………なかったことにして再出発したかった。",
+            "TextENG": "That's why I wanted to sweep the whole thing under the carpet... and have a fresh start."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88280,
+            "TextJPN": "罪を忘れることは、……卑怯なことなんだって言われたら……言い返せないさ。",
+            "TextENG": "I have nothing to say if somebody tells me that forgetting my sin is an act of cowardice..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88281,
+            "TextJPN": "…罪は罪なんだ。",
+            "TextENG": "...Sins are sins."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88282,
+            "TextJPN": "滅ぼせない。",
+            "TextENG": "You can't just get rid of them."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88283,
+            "TextJPN": "一生背負うしかない。",
+            "TextENG": "You have to carry them for the rest of your life."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88284,
+            "TextJPN": "それが罪人の宿命なのはわかってる。",
+            "TextENG": "I know that's the fate of a sinner."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88285,
+            "TextJPN": "……それが嫌なら罪を犯すなって論法だって理解できるさ。",
+            "TextENG": "...If you don't want to live like that, don't be a sinner. I understand that logic, too."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88286,
+            "TextJPN": "……じゃあさ、…罪を犯した人間は…どうやって生きていけばいいんだよ…………。",
+            "TextENG": "...But then... how are sinners supposed to live...?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88287,
+            "NamesJPN": "レナ",
+            "PreTextTags": "@vS09/02/170201322.",
+            "TextJPN": "「とにかく。@k@vS09/02/170201323.お前は仲間じゃない。@k@vS09/02/170201324.…仲間じゃないヤツの指図は受けるいわれはない。@k@vS09/02/170201325.…私のことは当分放っておいてもらう。@k@vS09/02/170201326.…いいね」",
+            "NamesENG": "Rena",
+            "TextENG": "``Anyway,@k@vS09/02/170201323. you're not my friend.@k@vS09/02/170201324. ...I'm not going to take any orders from someone who isn't my friend.@k@vS09/02/170201325. ...I need you to leave me alone for a while.@k@vS09/02/170201326. ...Okay?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88288,
+            "TextJPN": "気付けば俺は、…がっくりと膝をつき、うな垂れていた。",
+            "TextENG": "I didn't notice until she spoke that I was on my knees, hanging my head."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88289,
+            "TextJPN": "レナが足元に落とした@bなた.@<鉈@>を拾っているのが見えた。@k……いっそ、それで俺の頭を砕いてほしかった。",
+            "TextENG": "Rena picked up the hatchet she dropped earlier.@k ...I wanted her to hit my head with it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88290,
+            "TextJPN": "そうさ。",
+            "TextENG": "Yeah, that's right."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88291,
+            "TextJPN": "どうせ引き裂かれるなら、身を引き裂かれる方がはるかにマシだと思った。",
+            "TextENG": "If anything's going to be torn apart, I'd rather it be my body."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88292,
+            "TextJPN": "心を引き裂かれる痛みに比べたら、……頭を叩き割られた方がはるかにマシだと思った。",
+            "TextENG": "Compared to the pain of my heart being torn to shreds... I'd rather she cut my head off."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88293,
+            "TextJPN": "信じてた。",
+            "TextENG": "I believed it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88294,
+            "TextJPN": "……いや、信じてる。@k今この瞬間だって、信じてる。",
+            "TextENG": "...I still believe it.@k I still believe it right at this moment."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88295,
+            "TextJPN": "俺は、…みんなと仲間なんだと、…信じてる。",
+            "TextENG": "I believe that ...I'm their friend."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88296,
+            "TextJPN": "でも、……薄々は気付いてる。",
+            "TextENG": "But in fact... I'm starting to become aware of it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88297,
+            "TextJPN": "信じたいのは、認めたくないだけだからだ。",
+            "TextENG": "I want to believe I am their friend, because I don't want to accept my past."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88298,
+            "TextJPN": "自分に言い聞かせるような、そんな涙声が…もうたまらなく馬鹿馬鹿しくて……。",
+            "TextENG": "I'm trying to tell myself that, but I feel stupid, crying like this..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88299,
+            "TextJPN": "さらなる涙が…顔をもっとぐしゃぐしゃにする…。",
+            "TextENG": "My face is all messy with tears..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88300,
+            "TextJPN": "俺は、………みんなの仲間じゃ、なかったんだ。",
+            "TextENG": "I... was never their friend."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88301,
+            "TextJPN": "俺は汚らわしい罪人で、……その汚い過去を隠してた。",
+            "TextENG": "I'm a sinner and... I hid my past from them."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88302,
+            "TextJPN": "知られるのが怖くて、隠してた。",
+            "TextENG": "I hid it because I was scared."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88303,
+            "TextJPN": "自分で、隠し事なんかしないのが仲間だろうと詰め寄っておきながら、……俺が隠してた。@k俺だって隠してた。",
+            "TextENG": "I told her that friends don't hide anything from another... and I hid my past from them.@k I hid my sin from them."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88304,
+            "TextJPN": "過去の事件なんか…………、ここで日々を生活する今と関係なんかあるのかよ……。",
+            "TextENG": "My past...... has nothing to do with how I live my life here..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88305,
+            "TextJPN": "この村でも俺が、腹いせで通りがかりの人を襲うようなことがあったなら、遠慮なく八つ裂きにしてくれればいい！",
+            "TextENG": "If I ever attacked a kid in this village just because I was frustrated, I wouldn't mind it if they killed me and cut me into pieces!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88306,
+            "TextJPN": "でも、………俺はもうそんなことはしないんだ！",
+            "TextENG": "But... I'll never do anything like that again!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88307,
+            "TextJPN": "しないから、普通に生活したいんだ…！！",
+            "TextENG": "I just want to live normally...!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88308,
+            "TextJPN": "引っ越す前に、………何かあったって、…それが『今』にどう関係があるってんだよ……！！",
+            "TextENG": "What I did before I moved here... has nothing to do with my life ``now``...!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88309,
+            "TextJPN": "たとえば、…レナだって引っ越してきたんだろ？",
+            "TextENG": "For instance... Rena moved here, too."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88310,
+            "TextJPN": "レナの引っ越す前に何かあったことを知ったって、@k……俺はレナを見る目を変えたりなんかしないだろ……？",
+            "TextENG": "I wouldn't change the way I see her@k even if I found out she did something bad before she moved here..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88311,
+            "TextJPN": "しないだろ？@k　しないよな……？",
+            "TextENG": "Right?!@k I wouldn't, would I...?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88312,
+            "TextJPN": "レナがたとえば、………生徒を何人か殴ったり、…校内のガラスを叩き割って回ったりしたって、………そんなの茨城での話じゃねぇか。",
+            "TextENG": "Even if Rena... beat some of her friends, or broke all the windows of her school... I wouldn't care, because it happened in Ibaraki."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88313,
+            "TextJPN": "この雛見沢ではそんなことしていないし、……レナはレナで、最高の俺たちの仲間じゃねぇかよ…。",
+            "TextENG": "She didn't do that in Hinamizawa. Rena is Rena. She's my best friend..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88314,
+            "TextJPN": "だから、……たとえ俺がレナの過去を知ったって、………レナを汚らわしいようなものを見る目で、……見るわけないじゃないかよ………！",
+            "TextENG": "That's why I wouldn't see her differently even if I found out about her past...!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88315,
+            "TextJPN": "………嘘だ。@k……嘘だ、嘘だ、嘘だ…！！！",
+            "TextENG": "...That's a lie.@k ...That's a lie. That's a lie. That's a lie...!!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88316,
+            "TextJPN": "あのやさしいレナにそんな過去があることを知ったら、……俺は距離を置く。",
+            "TextENG": "I'd keep a distance from her if I found out that she really did such things."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88317,
+            "TextJPN": "恐れて、怯えて、その言葉に耳を貸そうなんてしない。",
+            "TextENG": "I'd be scared of her. I wouldn't try to listen to her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88318,
+            "TextJPN": "どうして？！　引っ越す前の話で、伝え聞いただけの噂話なのに？",
+            "TextENG": "Why?! It's just a rumor."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88319,
+            "TextJPN": "しかも、俺にとってのレナは最高の友人で、仲間で、……一番身近な……味方なのに？",
+            "TextENG": "Why would I be scared of her? She's my best friend..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88320,
+            "TextJPN": "……逆の立場だったら、………やっぱり俺も、…レナを拒絶した……？",
+            "TextENG": "...If I was in her situation... would I reject her just like she did...?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88321,
+            "TextJPN": "だから、……レナが俺を拒絶するのは……至極当然なことで……。",
+            "TextENG": "So... Rena's rejection of me... was completely natural..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88322,
+            "TextJPN": "じゃあ……、………俺は、…………どうすれば………いいんだよ…………。",
+            "TextENG": "Then... what am I supposed to do...?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88323,
+            "TextJPN": "泣いているのは俺だけだった。",
+            "TextENG": "I was the only one crying."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88324,
+            "TextJPN": "彼女は泣きもしなかった。",
+            "TextENG": "Rena wasn't crying."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88325,
+            "TextJPN": "まるで汚らしいものでも見るかのようだった。",
+            "TextENG": "She looked at me as if she was looking at something dirty."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88326,
+            "TextJPN": "そして、@bいちべつ.@<一瞥@>をくれると、闇の中に消えて行った……。",
+            "TextENG": "After giving me a nasty look, she disappeared into the darkness..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88327,
+            "TextJPN": "俺は、………レナに許してもらえなくて。",
+            "TextENG": "Rena didn't forgive me..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 88328,
+            "TextJPN": "……ただただいつまでも、そこに膝をついたまま、罪を@bあがな.@<贖@>うために…涙をこぼし続けるしかなかった…。",
+            "TextENG": "...There was nothing I could do to atone for my sin but to keep crying, still down on my knees..."
+        }
+    ]
+}

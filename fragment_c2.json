@@ -1,0 +1,667 @@
+{
+    "Main": [
+        {
+            "type": "SAVEINFO",
+            "category": 1,
+            "JPN": "C2 女王の母の不信",
+            "ENG": "C2 Distrust of the Mother of a Queen"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4815,
+            "TextJPN": "梨花が高熱を出した。",
+            "TextENG": "Rika has developed a high fever."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4816,
+            "TextJPN": "それも相当な。",
+            "TextENG": "A very high fever."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4817,
+            "TextJPN": "インフルエンザのような伝染性の病気が流行っている季節でもない。",
+            "TextENG": "It's not flu season, nor a season for any type of contagious disease."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4818,
+            "TextJPN": "…私はすぐに、つい最近、梨花が受けたという怪しげな実験を思い出した。",
+            "TextENG": "...I could only think of the suspicious experiments Rika has gone through."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4819,
+            "TextJPN": "それの影響なのかもしれない。",
+            "TextENG": "Maybe the fever is being caused by those."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4820,
+            "TextJPN": "梨花は同い年の子たちに比べ、やや発育が遅れている。",
+            "TextENG": "Her growth is rather slow compared to other children her age."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4821,
+            "TextJPN": "毎週毎週、怪しげな注射やら実験やらを施されたら、体が参ってしまうに違いないのだ。",
+            "TextENG": "Receiving mysterious shots and going through experiments every week, I'm sure her body is exhausted."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4822,
+            "TextJPN": "少しは加減してほしいと言っているのだが、当人の梨花はまるで怖い物知らずで、どのような実験にもほいほい応じてしまう。",
+            "TextENG": "I've asked the staff to go easy on her, but Rika herself is fearless and is willing to go through anything."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4823,
+            "TextJPN": "それを諭すべき夫も、村人二千人以上に関わる大事だからと吹き込まれて鵜呑みにし、自分の娘を毎週、診療所に連れて行っている。",
+            "TextENG": "My husband, who should be admonishing her for that, truly believes their story that it's crucial to the lives of over 2,000 villagers, and takes our own daughter to that clinic every week."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4824,
+            "TextJPN": "…私だけが、梨花の体のことを本当に心配しているのだ。",
+            "TextENG": "I'm the only one who's sincerely worried about her health."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4825,
+            "TextJPN": "だから、入江先生に対し、もう少し梨花のことを気遣って欲しいと文句を言ってやりたかった。",
+            "TextENG": "That's why I want to ask Dr. Irie to be a little more considerate towards Rika."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4826,
+            "TextJPN": "とにかく、この責任をどう取るのかと彼らに釈明させることにする。",
+            "TextENG": "Anyway, I have to talk to them about taking responsibility for this."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4827,
+            "TextJPN": "電話してすぐに診療所の人が車で駆けつけ、梨花をすぐに診療所へ入院させることになった。",
+            "TextENG": "Right after I called, a staff member came to pick Rika up to admit her to the clinic."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4828,
+            "TextJPN": "それに、私も保護者としてついて行くことにする。",
+            "TextENG": "As her guardian, I came with them."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4829,
+            "NamesJPN": "入江",
+            "PreTextTags": "@vS20/10/VTK1_irie1215.",
+            "TextJPN": "「落ち着いてください、お母さん。@k@vS20/10/VTK1_irie1216.必ず救いますから、もうしばらくお待ちになってください」",
+            "NamesENG": "Irie",
+            "TextENG": "``Please, calm down.@k@vS20/10/VTK1_irie1216. We'll make sure she'll be okay, so please wait for a while.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4830,
+            "NamesJPN": "梨花の母",
+            "PreTextTags": "@vS20/00/VTK1_rikaM1001.",
+            "TextJPN": "「これが落ち着けるかと言うんです！@k@vS20/00/VTK1_rikaM1002.　急にこんな高熱が出るなんておかしいじゃないですか…！！@k@vS20/00/VTK1_rikaM1003.　これも先週にやったという何とか何とかという怪しげな実験の影響じゃないんですか？！」",
+            "NamesENG": "Rika's mom",
+            "TextENG": "``How can I calm down?!@k@vS20/00/VTK1_rikaM1002. Why did she come down with such a high fever?!@k@vS20/00/VTK1_rikaM1003. Isn't this caused by the experiment you performed last week?!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4831,
+            "NamesJPN": "梨花の母",
+            "PreTextTags": "@vS20/00/VTK1_rikaM1004.",
+            "TextJPN": "「梨花はね、歳相応の小さな女の子なんですよ？！@k@vS20/00/VTK1_rikaM1005.　梨花は友達思いだから、病気にかかった友達のためにと、」",
+            "NamesENG": "Rika's mom",
+            "TextENG": "Rika is just a little girl, you know!?@k@vS20/00/VTK1_rikaM1005. She cares about her friend, so she's doing what she can for the sick girl...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4832,
+            "NamesJPN": "入江",
+            "PreTextTags": "@vS20/10/VTK1_irie1217.",
+            "TextJPN": "「わかっております…。@k@vS20/10/VTK1_irie1218.それに私たちの研究が、間違っても梨花さんに悪い影響を及ぼすようなことはありえませんし、万一にもそのようなことが起こらないよう、常に注意をしています」",
+            "NamesENG": "Irie",
+            "TextENG": "``I understand...@k@vS20/10/VTK1_irie1218. There's no way our research would affect Rika-san negatively. Besides, we're being extremely careful so that something like that won't happen.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4833,
+            "NamesJPN": "梨花の母",
+            "PreTextTags": "@vS20/00/VTK1_rikaM1006.",
+            "TextJPN": "「だったらこの梨花の熱は一体どういうことなんですか！！」",
+            "NamesENG": "Rika's mom",
+            "TextENG": "``Then explain this high fever!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4834,
+            "NamesJPN": "入江",
+            "PreTextTags": "@vS20/10/VTK1_irie1219.",
+            "TextJPN": "「恐らくは季節の変わり目ですので、」",
+            "NamesENG": "Irie",
+            "TextENG": "``It's probably due to the change in seasons, and...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4835,
+            "NamesJPN": "梨花の母",
+            "PreTextTags": "@vS20/00/VTK1_rikaM1007.",
+            "TextJPN": "「風邪なわけないでしょう？！@k@vS20/00/VTK1_rikaM1008.　あなたたちが妙な薬を注射したからに決まっています！！」",
+            "NamesENG": "Rika's mom",
+            "TextENG": "``How could this be a simple cold?!@k@vS20/00/VTK1_rikaM1008. This is because of the weird shot you gave her!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4836,
+            "TextJPN": "入江先生は、落ち着けの一点張りで、梨花の熱が自分たちのミスだとは決して認めないようだった。",
+            "TextENG": "Dr. Irie only told me to calm down and refused to accept responsibility."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4837,
+            "TextJPN": "…夫に、村の一大事だからと言われ、私は今日まで心の中の不信感を抑えて来たが。",
+            "TextENG": "My husband told me this is all for the sake of the village, and that's why I've held back my doubts until now."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4838,
+            "TextJPN": "正直なところ、それももう限界だった。",
+            "TextENG": "But I'm at my limit."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4839,
+            "TextJPN": "大体、彼らの存在は一番初めから不審過ぎるのだ。",
+            "TextENG": "Their existence has been suspicious from the beginning."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4840,
+            "TextJPN": "プライバシー保護だか何だかの観点から秘密に研究。",
+            "TextENG": "They're conducting their research in secret, using a privacy policy as an excuse."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4841,
+            "TextJPN": "…これだって十分疑わしい。",
+            "TextENG": "...That was shady enough on its own."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4842,
+            "TextJPN": "そんなのあるわけがない。",
+            "TextENG": "It's just impossible."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4843,
+            "TextJPN": "実際、私は厚生省に電話を掛けてみたが、そんな事実はないとあっさり言われてしまった。",
+            "TextENG": "In fact, I called the Ministry of Health, and was told that wasn't true at all."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4844,
+            "TextJPN": "私が古手梨花の母だと名乗ってもだ。",
+            "TextENG": "Even after I told them I'm Rika Furude's mother."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4845,
+            "TextJPN": "彼らはそれを、自分たちは特別な機関なので、一般職員は存在を知らないこともある、などとはぐらかすが…。",
+            "TextENG": "The clinic even came up with stupid excuses, saying normal workers often don't know of a special institute like theirs."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4846,
+            "TextJPN": "絶対におかしい。",
+            "TextENG": "That doesn't make sense at all."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4847,
+            "TextJPN": "疑わしい。",
+            "TextENG": "It's much, much too suspicious."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4848,
+            "TextJPN": "それに、研究所の中には研究員とは明らかに違う人間たちがいる。",
+            "TextENG": "Also, there are people who don't appear to be researchers working at the institute."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4849,
+            "TextJPN": "…一見するとそれは警備員だが、一般的な病院のそれに比べてあまりに違和感のある人間たちなのだ。",
+            "TextENG": "They look like security guards, but they seem so different from normal guards at a normal hospital."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4850,
+            "TextJPN": "私は以前、見てしまっている。",
+            "TextENG": "In fact, one time I accidentally saw"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4851,
+            "TextJPN": "彼らが実は拳銃で武装しているということも。",
+            "TextENG": "that they were armed with guns."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4852,
+            "NamesJPN": "入江",
+            "PreTextTags": "@vS20/10/VTK1_irie1220.",
+            "TextJPN": "「…それはですね、…」",
+            "NamesENG": "Irie",
+            "TextENG": "``...That is, well...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4853,
+            "NamesJPN": "梨花の母",
+            "PreTextTags": "@vS20/00/VTK1_rikaM1009.",
+            "TextJPN": "「あの人たちは警察なんですか？@k@vS20/00/VTK1_rikaM1010.　とてもそうには見えません！@k@vS20/00/VTK1_rikaM1011.　大体、あなた方は何者なんですか！@k@vS20/00/VTK1_rikaM1012.　厚生省の人間だなんて、私は今さら信じませんよ！」",
+            "NamesENG": "Rika's mom",
+            "TextENG": "``Are they policemen?@k@vS20/00/VTK1_rikaM1010. I don't think so!!@k@vS20/00/VTK1_rikaM1011. Who are you all, anyway?@k@vS20/00/VTK1_rikaM1012. I refuse to believe you're from the Ministry of Health!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4854,
+            "TextJPN": "入江先生は、すっかり私の気迫に飲まれてしまって、満足な返事もできないようだった。",
+            "TextENG": "Dr. Irie seems taken aback by my intensity, and can't even answer properly."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4855,
+            "TextJPN": "彼らはまだまだ私たちに何かを隠しているのだ。",
+            "TextENG": "They're still hiding a lot more from us."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4856,
+            "TextJPN": "そしてそれは、梨花を巡るこの研究が、まともなものではないことを示しているのだ。",
+            "TextENG": "That tells me the research they're working on with Rika isn't anything proper."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4857,
+            "NamesJPN": "梨花の母",
+            "PreTextTags": "@vS20/00/VTK1_rikaM1013.",
+            "TextJPN": "「とにかく、私は梨花の保護者です！@k@vS20/00/VTK1_rikaM1014.　梨花はまだまだ子供です。@k@vS20/00/VTK1_rikaM1015.あの子が何をどう返事しようとも、今後は一切、研究を手伝わせるつもりはありません！」",
+            "NamesENG": "Rika's mom",
+            "TextENG": "``Anyway, I'm Rika's guardian!@k@vS20/00/VTK1_rikaM1014. Rika is still a child.@k@vS20/00/VTK1_rikaM1015. It doesn't matter what she says. I won't let her participate in this research anymore!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4858,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS20/09/VTK1_takano1179.",
+            "TextJPN": "「…あらあら。@k@vS20/09/VTK1_takano1180.梨花ちゃんのお母さんではありませんの。@k@vS20/09/VTK1_takano1181.どうもこんにちは。@k@vS20/09/VTK1_takano1182.………あら、どうかなさいまして？」",
+            "NamesENG": "Takano",
+            "TextENG": "``...My, my.@k@vS20/09/VTK1_takano1180. It's Rika-chan's mother.@k@vS20/09/VTK1_takano1181. Hello.@k@vS20/09/VTK1_takano1182. .........Oh, what's the matter? Is everything okay?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4859,
+            "NamesJPN": "入江",
+            "PreTextTags": "@vS20/10/VTK1_irie1221.",
+            "TextJPN": "「いえ、…その。@k@vS20/10/VTK1_irie1222.…お母さんが、梨花さんをこれ以上、研究に関わらせたくないと仰ってまして…」",
+            "NamesENG": "Irie",
+            "TextENG": "``Ah, well.@k@vS20/10/VTK1_irie1222. ...Rika-chan's mother says she won't let Rika-chan participate in the research any longer...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4860,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS20/09/VTK1_takano1183.",
+            "TextJPN": "「…それはどうしてですか？」",
+            "NamesENG": "Takano",
+            "TextENG": "``......Why is that?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4861,
+            "NamesJPN": "梨花の母",
+            "PreTextTags": "@vS20/00/VTK1_rikaM1016.",
+            "TextJPN": "「うちの子はあなたたちの実験動物ではないからです！！」",
+            "NamesENG": "Rika's mom",
+            "TextENG": "``Because she's not your guinea pig!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4862,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS20/09/VTK1_takano1184.",
+            "TextJPN": "「……そう扱ったことなどございませんわよ？@k@vS20/09/VTK1_takano1185.　それは大きな誤解ですわ」",
+            "NamesENG": "Takano",
+            "TextENG": "``......We've never treated her that way.@k@vS20/09/VTK1_takano1185. You're misunderstanding us.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4863,
+            "TextJPN": "少しだけぎょっとする。",
+            "TextENG": "I'm a little startled."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4864,
+            "TextJPN": "…入江先生は少し押したら引いてくれる気の弱い人のようだった。",
+            "TextENG": "...Dr. Irie is a weak person who backs down under pressure."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4865,
+            "TextJPN": "だが、この鷹野さんという人は、…私が怒鳴る側だというのに、まるで怖気づかないのだ。",
+            "TextENG": "Takano-san is different... I'm yelling at her, but she's not afraid at all."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4866,
+            "TextJPN": "いや、それどころか、目をぎらぎらさせて、私に食って掛かろうという風にすら見える…。",
+            "TextENG": "On the contrary, she's glaring daggers, and looks as if she's about to jump on me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4867,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS20/09/VTK1_takano1186.",
+            "TextJPN": "「梨花ちゃんの熱は風邪によるものですわ。@k@vS20/09/VTK1_takano1187.私たちのせいだなんてとんでもない。@k@vS20/09/VTK1_takano1188.私たちは安全や衛生には国立研究所クラスの注意を払ってます」",
+            "NamesENG": "Takano",
+            "TextENG": "``Rika-chan's fever is caused by a cold.@k@vS20/09/VTK1_takano1187. We didn't cause it.@k@vS20/09/VTK1_takano1188. When it comes to safety and sanitation, we pay the same level of attention as a national research center."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4868,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS20/09/VTK1_takano1189.",
+            "TextJPN": "「失礼ですが、アルコール消毒もしない手で、梨花ちゃんの手を引いて歩いているあなたより衛生的なくらいですわよ？」",
+            "NamesENG": "Takano",
+            "TextENG": "I don't mean to be rude, but considering you walk around while holding Rika-chan's hands without disinfecting yours with alcohol first, we are far more sanitary.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4869,
+            "NamesJPN": "梨花の母",
+            "PreTextTags": "@vS20/00/VTK1_rikaM1017.",
+            "TextJPN": "「……そ、そんなことは聞いていません！！@k@vS20/00/VTK1_rikaM1018.　とにかく、梨花はあなたたちの玩具じゃないんです！！@k@vS20/00/VTK1_rikaM1019.　梨花はもう二度とここへは連れて来ません！」",
+            "NamesENG": "Rika's mom",
+            "TextENG": "``......We're not talking about that!!@k@vS20/00/VTK1_rikaM1018. Anyhow, Rika isn't your toy!!@k@vS20/00/VTK1_rikaM1019. She'll never come back here again!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4870,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS20/09/VTK1_takano1190.",
+            "TextJPN": "「あなたの一存で決められては困りますわね。@k@vS20/09/VTK1_takano1191.ご協力をいただくことについて、ご両親には誓約書にサインをしてもらっているはずではございませんの？」",
+            "NamesENG": "Takano",
+            "TextENG": "``You can't decide that by yourself.@k@vS20/09/VTK1_takano1191. You and your husband both signed the statement of consent, didn't you?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4871,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS20/09/VTK1_takano1192.",
+            "TextJPN": "「研究に協力していただく見返りに、決して少なくない額を毎月お口座に振り込ませていただいているはずですわ」",
+            "NamesENG": "Takano",
+            "TextENG": "We have been depositing money that's by no means a small amount into your account every single month for her cooperation in the research.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4872,
+            "NamesJPN": "梨花の母",
+            "PreTextTags": "@vS20/00/VTK1_rikaM1020.",
+            "TextJPN": "「そ、…そんなお金、私は知りませんよ？！@k@vS20/00/VTK1_rikaM1021.　聞いたこともないです！！」",
+            "NamesENG": "Rika's mom",
+            "TextENG": "``What? I know nothing about any money!@k@vS20/00/VTK1_rikaM1021. I've never even heard of that before!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4873,
+            "TextJPN": "梨花が研究に協力することでお金が出ていたなんて初耳だった。",
+            "TextENG": "Rika receiving money for participating in their research really is news to me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4874,
+            "TextJPN": "…夫の性分から考えて、私に内緒で小遣いにしていた、ということはあるまい。",
+            "TextENG": "Knowing my husband's character, he wouldn't have used it as spending money behind my back."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4875,
+            "TextJPN": "恐らく、村人のための無料奉仕とか考えて、お金が振り込まれているなんて話はとんと忘れているに違いない。",
+            "TextENG": "I bet he thought of it as a free service for the villagers, and completely forgot about the money being deposited into our account."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4876,
+            "TextJPN": "…普通預金にはそんなおかしな入金はないから、…定期預金の方だろうか…。",
+            "TextENG": "...There haven't been any strange deposits in the regular account, so it may be in our savings..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4877,
+            "TextJPN": "…とにかくとにかく、そんな話は私は知らない！",
+            "TextENG": "Anyway, I don't care about that!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4878,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS20/09/VTK1_takano1193.",
+            "TextJPN": "「契約を反故にされる場合には、それまでの振込み額を全て返還していただくことになっているのはご存じですわね？@k@vS20/09/VTK1_takano1194.　他にも一方的な反故についてそちらに非がある場合、」",
+            "NamesENG": "Takano",
+            "TextENG": "``If you want to breach our contract, we'll have to ask you to return the full amount of deposits we have made up until this point.@k@vS20/09/VTK1_takano1194. Also, if one party is at fault for the breach of contract--``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4879,
+            "NamesJPN": "入江",
+            "PreTextTags": "@vS20/10/VTK1_irie1223.",
+            "TextJPN": "「鷹野さん…！@k@vS20/10/VTK1_irie1224.　落ち着いてください。@k@vS20/10/VTK1_irie1225.お母さんもどうか…」",
+            "NamesENG": "Irie",
+            "TextENG": "``Takano-san!@k@vS20/10/VTK1_irie1224. Please calm down.@k@vS20/10/VTK1_irie1225. Mrs. Furude, you too."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4880,
+            "NamesJPN": "入江",
+            "PreTextTags": "@vS20/10/VTK1_irie1226.",
+            "TextJPN": "「雛見沢症候群は以前にもご説明させていただきましたように、これからも村人たちが安心して生活していくために、絶対に治療していかなくてはならないものなのです」",
+            "NamesENG": "Irie",
+            "TextENG": "Just as I explained to you before, we must find a cure for Hinamizawa Syndrome so the villagers can continue to live without worries."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4881,
+            "NamesJPN": "入江",
+            "PreTextTags": "@vS20/10/VTK1_irie1227.",
+            "TextJPN": "「その為にはどうしても、梨花さんのご協力が必要なのです…！」",
+            "NamesENG": "Irie",
+            "TextENG": "For that reason, we need to have Rika-san continue to participate.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4882,
+            "NamesJPN": "梨花の母",
+            "PreTextTags": "@vS20/00/VTK1_rikaM1022.",
+            "TextJPN": "「治療のためって、じゃあその治療薬はいつになったら出来上がるんですか？！@k@vS20/00/VTK1_rikaM1023.　大体おかしいじゃないですか！！」",
+            "NamesENG": "Rika's mom",
+            "TextENG": "``Then tell me, when are you going to find a cure?@k@vS20/00/VTK1_rikaM1023. It doesn't make sense!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4883,
+            "NamesJPN": "梨花の母",
+            "PreTextTags": "@vS20/00/VTK1_rikaM1024.",
+            "TextJPN": "「梨花の友達の沙都子ちゃんのためということでしたけど、その沙都子ちゃんはもう退院して元気に生活しているというじゃありませんか」",
+            "NamesENG": "Rika's mom",
+            "TextENG": "At first, you said this was for Rika's friend, Satoko-chan, but Satoko-chan has been released from the clinic and is now carrying on happily."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4884,
+            "NamesJPN": "梨花の母",
+            "PreTextTags": "@vS20/00/VTK1_rikaM1025.",
+            "TextJPN": "「確か、先々週にうちの人が話を聞いた時にも、もう治療の目処は立ったというようなお話をされていたはずですわよね？！」",
+            "NamesENG": "Rika's mom",
+            "TextENG": "You even told my husband two weeks ago that you've found a cure already, didn't you?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4885,
+            "NamesJPN": "入江",
+            "PreTextTags": "@vS20/10/VTK1_irie1228.",
+            "TextJPN": "「え、えぇ。@k@vS20/10/VTK1_irie1229.目処はついた、というような話はしたと思います…。@k@vS20/10/VTK1_irie1230.ですが、雛見沢症候群の全貌を解明するためには…、」",
+            "NamesENG": "Irie",
+            "TextENG": "``Y-Yes.@k@vS20/10/VTK1_irie1229. I think I told him something like that...@k@vS20/10/VTK1_irie1230. But, you see, to solve the mysteries of the syndrome...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4886,
+            "NamesJPN": "梨花の母",
+            "PreTextTags": "@vS20/00/VTK1_rikaM1026.",
+            "TextJPN": "「全貌の解明なんか最初の話で聞いていません！@k@vS20/00/VTK1_rikaM1027.　梨花が協力するのは村人の病気を治療するためのはずです。@k@vS20/00/VTK1_rikaM1028.ならもう充分ではありませんの！！」",
+            "NamesENG": "Rika's mom",
+            "TextENG": "``You didn't mention anything about solving mysteries at the beginning!!@k@vS20/00/VTK1_rikaM1027. Rika was to participate to find a cure for the villagers.@k@vS20/00/VTK1_rikaM1028. So now her job is done!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4887,
+            "NamesJPN": "梨花の母",
+            "PreTextTags": "@vS20/00/VTK1_rikaM1029.",
+            "TextJPN": "「皆さんが梨花に怪しげな研究やら検査やらをしているのは、あなた方の興味本位であって、治療とは何の関係もないんじゃありませんの？！」",
+            "NamesENG": "Rika's mom",
+            "TextENG": "All the research and experiments you're performing on Rika have nothing to do with the cure. You're doing them out of your own self-interest. Aren't I right?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4888,
+            "NamesJPN": "入江",
+            "PreTextTags": "@vS20/10/VTK1_irie1231.",
+            "TextJPN": "「そんなっ、……そんなことはありません！@k@vS20/10/VTK1_irie1232.　とにかく梨花さんの風邪の件は誤解なんです。@k@vS20/10/VTK1_irie1233.もし、どうしても御不審ということでしたら、」",
+            "NamesENG": "Irie",
+            "TextENG": "``That's not true, it really isn't...!@k@vS20/10/VTK1_irie1232. Anyway, this matter of Rika-san's cold is just a misunderstanding.@k@vS20/10/VTK1_irie1233. If you still don't trust us, then...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4889,
+            "NamesJPN": "梨花の母",
+            "PreTextTags": "@vS20/00/VTK1_rikaM1030.",
+            "TextJPN": "「とにかく、もう結構です！@k@vS20/00/VTK1_rikaM1031.　お金の話もあるみたいなので、私も帰って夫と相談しますから！@k@vS20/00/VTK1_rikaM1032.　それでは失礼します！！」",
+            "NamesENG": "Rika's mom",
+            "TextENG": "``That's enough!!@k@vS20/00/VTK1_rikaM1031. Since money is involved here, I'll have to discuss it with my husband!@k@vS20/00/VTK1_rikaM1032. Excuse me!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4890,
+            "TextJPN": "…大体、この連中は初めから胡散臭かった。",
+            "TextENG": "...They were just too shady from the very start."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4891,
+            "TextJPN": "何だか大仰なことを言われて、うちの二人はすっかり丸め込まれてしまったけれど、私はそうは行かない。",
+            "TextENG": "Because of their exaggerated story, Rika and my husband took their side, but it won't work on me."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4892,
+            "TextJPN": "とにかく、ここできっちりと清算しなくては。",
+            "TextENG": "Anyhow, I must settle things with them right away"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4893,
+            "TextJPN": "梨花はあいつらの玩具なんかじゃない。",
+            "TextENG": "because Rika isn't their toy."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4894,
+            "TextJPN": "…特に気に入らないのは、あの鷹野という人だ。",
+            "TextENG": "I especially don't trust that woman called Takano."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4895,
+            "TextJPN": "…入江先生はまだ医者という感じがするが、あの人にはそういう感じがない。",
+            "TextENG": "Dr. Irie seems to me like he's still a doctor, but she doesn't."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4896,
+            "TextJPN": "…何て言えばいいんだろう。",
+            "TextENG": "...How can I describe her?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4897,
+            "TextJPN": "…そう、眼に宿る光が嫌らしいとでも言おうか…。",
+            "TextENG": "...I guess I can say the glow in her eyes is just unpleasant..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4898,
+            "TextJPN": "梨花のことを実験動物としてしか見ていない。",
+            "TextENG": "She only sees Rika as a guinea pig."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4899,
+            "TextJPN": "そういう残酷さがひしひしと感じられるのだ。",
+            "TextENG": "I can feel cruelty emitting from her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4900,
+            "TextJPN": "それを、うちの人も梨花もまったく気付いていない。",
+            "TextENG": "Neither my husband nor Rika have noticed that."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4901,
+            "TextJPN": "私が守らなくては。",
+            "TextENG": "I must protect her."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4902,
+            "TextJPN": "母として梨花を守らなくてはいけない…！",
+            "TextENG": "As a mother, I must protect Rika!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4903,
+            "NamesJPN": "入江",
+            "PreTextTags": "@vS20/10/VTK1_irie1234.",
+            "TextJPN": "「…鷹野さんらしくもない。@k@vS20/10/VTK1_irie1235.あそこで喧嘩を買ってしまったら、余計に話がこじれてしまうではありませんか。@k@vS20/10/VTK1_irie1236.…あなたらしくもないですよ」",
+            "NamesENG": "Irie",
+            "TextENG": "``...That's not like you, Takano-san.@k@vS20/10/VTK1_irie1235. Getting into an argument with her will only makes things more complicated...@k@vS20/10/VTK1_irie1236. It's so unlike you.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4904,
+            "NamesJPN": "鷹野",
+            "PreTextTags": "@vS20/09/VTK1_takano1195.",
+            "TextJPN": "「……そうですわね。@k@vS20/09/VTK1_takano1196.ごめんなさい、取り乱してしまって」",
+            "NamesENG": "Takano",
+            "TextENG": "``......I know.@k@vS20/09/VTK1_takano1196. Sorry for losing my cool.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4905,
+            "TextJPN": "何か不機嫌になることでもあったのだろうか。",
+            "TextENG": "Did something happen to put her in a bad mood, Irie wondered."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 4906,
+            "TextJPN": "先ほどのやりとりは、鷹野さんらしくもなく感情的だった。",
+            "TextENG": "The heated conversation she just had didn't involve the Takano he knew."
+        }
+    ]
+}

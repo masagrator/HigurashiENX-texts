@@ -1,0 +1,745 @@
+{
+    "Main": [
+        {
+            "type": "SAVEINFO",
+            "category": 1,
+            "JPN": "M5 コピー薬",
+            "ENG": "M5 Copy Medicine"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9797,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2001.",
+            "TextJPN": "「…いかがでしょうか？@k@vS20/00/VTK2_nomura2002.　手前味噌で大変恐縮ですが…この分野に博識な先生なら、このデータの有益さがご理解いただけるかと思うのですが」",
+            "NamesENG": "Nomura",
+            "TextENG": "``...What do you think?@k@vS20/00/VTK2_nomura2002. I apologize for resorting to flattery, but... as a knowledgeable doctor in this field, I think this data can provide some valuable information for you.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9798,
+            "NamesJPN": "千葉",
+            "PreTextTags": "@vS20/00/VTK2_chiba2001.",
+            "TextJPN": "「有益どころか…宝の地図だよ、これは！@k@vS20/00/VTK2_chiba2002.　素晴らしい…実に素晴らしい！」",
+            "NamesENG": "Chiba",
+            "TextENG": "``It's more than just valuable... This is a treasure map!@k@vS20/00/VTK2_chiba2002. It's wonderful... truly excellent!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9799,
+            "TextJPN": "ファイルに記された薬の組成式と、その効能…そして、臨床データを食い入るように熟読しながら、その男は興奮を抑えきれないといった表情で身を乗り出す。",
+            "TextENG": "Seeing the composition and efficacy of the drug being described in the file... the man leaned forward like he couldn't contain his excitement, while carefully perusing the clinical data."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9800,
+            "TextJPN": "目の前のテーブルには、山海の珍味をふんだんにちりばめた料理が並べられていたが、彼はまるで眼中にないとばかりに隅へと押しやって、ネクタイを緩め襟元をくつろげた。",
+            "TextENG": "The table in front of them was piled high with a feast fit for a king, but he kept it in the corner of his view like he didn't notice it at all, and loosened his tie while relaxing his collar."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9801,
+            "NamesJPN": "千葉",
+            "PreTextTags": "@vS20/00/VTK2_chiba2003.",
+            "TextJPN": "「ニューロン…神経細胞やその間隙のシナプス回路にて伝達される電気信号の制御操作は、脳神経の分野において悲願とも言えるものだった」",
+            "NamesENG": "Chiba",
+            "TextENG": "``Neurons... sending controlled electric signals through nerve cells and the gaps in synaptic circuits, was a long-cherished wish of cranial nervous system researchers.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9802,
+            "NamesJPN": "千葉",
+            "PreTextTags": "@vS20/00/VTK2_chiba2004.",
+            "TextJPN": "「ゆえに、それを可能にできる物質を発見すれば、間違いなくその研究者はノーベル賞すら手中に収めることができるだろう」",
+            "NamesENG": "Chiba",
+            "TextENG": "``So, if researchers can discover a substance that makes that possible, they'll surely be in the running for a Nobel Prize.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9803,
+            "NamesJPN": "千葉",
+            "PreTextTags": "@vS20/00/VTK2_chiba2005.",
+            "TextJPN": "「…渡辺くん。@k@vS20/00/VTK2_chiba2006.これは、本当に…本当に確かなデータなのかね？」",
+            "NamesENG": "Chiba",
+            "TextENG": "``...Watanabe-kun,@k@vS20/00/VTK2_chiba2006. are you really... truly confident in this data?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9804,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2003.",
+            "TextJPN": "「ええ…それにつきましては、アルファベットプロジェクト内のＣスタッフ責任者になり代わって、保障させていただきます」",
+            "NamesENG": "Nomura",
+            "TextENG": "``Yes... on behalf of the C staff of the Alphabet Project, I can guarantee it.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9805,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2004.",
+            "TextJPN": "「事実、先日にはもはや治療は不可能かと思われてきた患者が、この試験薬の投与によって正常な意識を取り戻しました」",
+            "NamesENG": "Nomura",
+            "TextENG": "``In fact, a patient who was thought to be untreatable regained normal consciousness after being administered this drug just the other day.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9806,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2005.",
+            "TextJPN": "「それどころか、一応定期的な投薬が必須とはなっておりますが…すでに退院して、通常の生活を問題なく送っております」",
+            "NamesENG": "Nomura",
+            "TextENG": "``Although, daily medication will be necessary for the time being... but the patient was already discharged from the hospital and has resumed living a normal life without any problems.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9807,
+            "NamesJPN": "千葉",
+            "PreTextTags": "@vS20/00/VTK2_chiba2007.",
+            "TextJPN": "「…いや、素晴らしい話だよ。@k@vS20/00/VTK2_chiba2008.まさか、この放射性物質にそれだけの効果があったとは…まったくもって、驚きだ。@k@vS20/00/VTK2_chiba2009.私も、目からうろこが落ちる思いだよ」",
+            "NamesENG": "Chiba",
+            "TextENG": "``...Wow, that's amazing.@k@vS20/00/VTK2_chiba2008. It's hard to believe that this... radioactive substance could have such an effect.@k@vS20/00/VTK2_chiba2009. It feels like my eyes have been opened.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9808,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2006.",
+            "TextJPN": "「先生の御見識も、さすがです。@k@vS20/00/VTK2_nomura2007.組成式をお読みになられただけで、この薬の特殊性がご理解いただけるのですから。@k@vS20/00/VTK2_nomura2008.理事会の高名な先生方も、先生にはとてもかないませんわ」",
+            "NamesENG": "Nomura",
+            "TextENG": "``As expected of your insight, Sensei.@k@vS20/00/VTK2_nomura2007. You're able to understand the peculiarities of this medicine based on nothing but its composition.@k@vS20/00/VTK2_nomura2008. Even the renowned doctors on the board of directors don't live up to you.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9809,
+            "NamesJPN": "千葉",
+            "PreTextTags": "@vS20/00/VTK2_chiba2010.",
+            "TextJPN": "「はっはっ…これでも私は、医学部の出身でね。@k@vS20/00/VTK2_chiba2011.将来は官僚か医者か、ずいぶん悩んで迷ったものだよ。@k@vS20/00/VTK2_chiba2012.もっとも…今になって思えば、何を悩む必要があったのやら」",
+            "NamesENG": "Chiba",
+            "TextENG": "``Ha ha... even I went to medical school.@k@vS20/00/VTK2_chiba2011. I was deeply concerned about if my future should be as a bureaucrat or a physician.@k@vS20/00/VTK2_chiba2012. But... thinking about it now, what was there to be so worried about?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9810,
+            "TextJPN": "男はふぅ、とため息をついて、喉の渇きを癒すようにビールを一気に飲み干す。",
+            "TextENG": "The man let out a sigh and then drank his beer all at once to quench his thirst."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9811,
+            "TextJPN": "すかさず、空になったグラスには彼と向き合って座る女性が瓶を傾け、中身を満たしていった。",
+            "TextENG": "Immediately afterwards, the woman sitting across from him tilted the bottle to refill his empty glass."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9812,
+            "NamesJPN": "千葉",
+            "PreTextTags": "@vS20/00/VTK2_chiba2013.",
+            "TextJPN": "「…正直に言って、これまで私は、雛見沢症候群という風土病についてはあまり興味がなかったのだよ。@k@vS20/00/VTK2_chiba2014.核はともかく、生化学についてはぜひとも研究を進めたいものが他にも山ほどある」",
+            "NamesENG": "Chiba",
+            "TextENG": "``...To be honest, I was never really interested in this endemic disease called Hinamizawa Syndrome until now.@k@vS20/00/VTK2_chiba2014. Aside from nukes, there are plenty of other topics in biochemistry that I'd like to pursue.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9813,
+            "NamesJPN": "千葉",
+            "PreTextTags": "@vS20/00/VTK2_chiba2015.",
+            "TextJPN": "「それなのに小さな村に起きた、特殊な風土病に予算を割り当てるのは無駄遣いだ、とな」",
+            "NamesENG": "Chiba",
+            "TextENG": "``So I thought it was a waste to allocate money toward some rare endemic disease from a small village.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9814,
+            "NamesJPN": "千葉",
+            "PreTextTags": "@vS20/00/VTK2_chiba2016.",
+            "TextJPN": "「実際、脳に入り込んだ寄生体が人の意思や精神をのっとっていたなんて話は、出来の悪いＳＦの類…医学的には論ずるに足りんことだ。@k@vS20/00/VTK2_chiba2017.…そう思わんかね？」",
+            "NamesENG": "Chiba",
+            "TextENG": "``In fact, this story about a parasite entering a subject's brain and altering their behavior and will sounds like something from bad sci-fi... Medically, it's not even worth discussing.@k@vS20/00/VTK2_chiba2017. ...Don't you think?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9815,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2009.",
+            "TextJPN": "「先生のおっしゃる通りです」",
+            "NamesENG": "Nomura",
+            "TextENG": "``It's just as you say, Sensei.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9816,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2010.",
+            "TextJPN": "「実際、小泉先生の多大なご功績には尊敬の念を禁じえませんが…あの鷹野とかいう女研究者に何らかの弱みでも握られているのでは、と邪推したくなるほどの贔屓ぶりでした」",
+            "NamesENG": "Nomura",
+            "TextENG": "``In fact, I admire Dr. Koizumi's many great achievements... but it's such a pity that he had a weakness for that female researcher Takano and wanted to push her forward.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9817,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2011.",
+            "TextJPN": "「その点につきましては、予算を仕切って管理を行うはずの我々の力が及ばず、誠に申し訳なく思っております」",
+            "NamesENG": "Nomura",
+            "TextENG": "``On that point, I'm very sorry for our shortcomings in that department, even though we're the ones who control the budget.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9818,
+            "NamesJPN": "千葉",
+            "PreTextTags": "@vS20/00/VTK2_chiba2018.",
+            "TextJPN": "「いやいや…あの小泉翁に逆らうのは、なかなかもって大変なことだ。@k@vS20/00/VTK2_chiba2019.君たちのせいだとは思っておらんよ。@k@vS20/00/VTK2_chiba2020.…だが、この試験薬に汎用性があるというのは、@bひょうたん.@<瓢箪@>から駒というやつだな」",
+            "NamesENG": "Chiba",
+            "TextENG": "``Oh, no... it's quite difficult to defy that old man Koizumi.@k@vS20/00/VTK2_chiba2019. I don't think you're at fault for that.@k@vS20/00/VTK2_chiba2020. ...However, the versatility of this test drug is an unexpected boon that came from it.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9819,
+            "NamesJPN": "千葉",
+            "PreTextTags": "@vS20/00/VTK2_chiba2021.",
+            "TextJPN": "「実に運がいい！@k@vS20/00/VTK2_chiba2022.　新発見とは、無駄な研究から生まれ出ることが多いというが、まさにその通りだ！@k@vS20/00/VTK2_chiba2023.　ぜひ今後も、この試験薬のデータ収集に努めてくれたまえ！」",
+            "NamesENG": "Chiba",
+            "TextENG": "``Such good fortune!@k@vS20/00/VTK2_chiba2022. New discoveries often do come from useless research! That's completely true!@k@vS20/00/VTK2_chiba2023. By all means, please do your best to continue collecting data on this drug!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9820,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2012.",
+            "TextJPN": "「くすくす…ありがとうございます。@k@vS20/00/VTK2_nomura2013.そう言ってくださると、私どもも実行に踏み切った甲斐がありました」",
+            "NamesENG": "Nomura",
+            "TextENG": "``Hehe... thank you.@k@vS20/00/VTK2_nomura2013. Hearing you say that makes it worth the effort.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9821,
+            "TextJPN": "女は２冊のファイルにまとめられた資料を受け取ると、恭しく微笑んで頭を下げる。",
+            "TextENG": "The woman smiled and bowed down while receiving the two files full of material."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9822,
+            "TextJPN": "…それは、雛見沢症候群の治療薬として所長の入江京介が作り上げた『Ｃ１０３』を、通常の精神病患者に投与した臨床試験のデータが記録されたものだった。",
+            "TextENG": "...It was the data compiled by Director Kyousuke Irie, of a clinical trial of the ``C103`` Hinamizawa Syndrome remediation drug being administered to a patient with chronic mental illness."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9823,
+            "NamesJPN": "千葉",
+            "PreTextTags": "@vS20/00/VTK2_chiba2024.",
+            "TextJPN": "「どうも日本では、脳神経などの精神医学に対して偏見が深くてな。@k@vS20/00/VTK2_chiba2025.その病の兆候を感じても、心や性格の弱さを先に論じて治療を怠ったり、また患者を隔離するなど粗略に扱ったりする傾向がある」",
+            "NamesENG": "Chiba",
+            "TextENG": "``Apparently in Japan there is a deep prejudice against psychiatry of the cranial nervous system.@k@vS20/00/VTK2_chiba2025. Even when signs of illness are apparent, they neglect to discuss treatment of the weaknesses in the mind and personality. And there is also a tendency to isolate the patient, or treat them coldly.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9824,
+            "NamesJPN": "千葉",
+            "PreTextTags": "@vS20/00/VTK2_chiba2026.",
+            "TextJPN": "「…嘆かわしい話だ。@k@vS20/00/VTK2_chiba2027.先進国の基準に達した今こそ、そういった『文明病』の解明とケアが必要だというのに」",
+            "NamesENG": "Chiba",
+            "TextENG": "``...It's a sad story.@k@vS20/00/VTK2_chiba2027. Though we've reached the standards of developed countries, these ``diseases incidental to civilization`` still require a lot of care and study.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9825,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2014.",
+            "TextJPN": "「おっしゃる通りです。@k@vS20/00/VTK2_nomura2015.文明が発達した社会はあらゆる情報や知識で複雑になり、人々の精神への負担はこれからさらに増大してゆくでしょう」",
+            "NamesENG": "Nomura",
+            "TextENG": "``It's just as you say.@k@vS20/00/VTK2_nomura2015. A highly developed society is complicated by all sorts of knowledge and information, so the mental burden on the people will likely continuing to increase.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9826,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2016.",
+            "TextJPN": "「…ですが、カウンセリングなどの心療では長い治療期間と医師の高いスキルが求められ、患者やその家族への金銭面等の負担もばかにはなりません」",
+            "NamesENG": "Nomura",
+            "TextENG": "``...However, counseling and psychotherapy require lengthy treatment periods from highly skilled doctors, and it imposes an absurd financial burden on the patients and their families.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9827,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2017.",
+            "TextJPN": "「ですから、投薬などの物質的な治療への道が可能となれば、医師と患者双方にとって良い改善策となりうるはず。@k@vS20/00/VTK2_nomura2018.それを期待されて海外から参入したのが、かのローウェル製薬だったのですが…」",
+            "NamesENG": "Nomura",
+            "TextENG": "``Thus, it would make the situation easier on both doctors and patients if a method of physical treatment like medication were possible.@k@vS20/00/VTK2_nomura2018. I had expected it to come from that overseas pharmaceutical company Lowell, but...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9828,
+            "NamesJPN": "千葉",
+            "PreTextTags": "@vS20/00/VTK2_chiba2028.",
+            "TextJPN": "「その意味で、ローウェル社から製造販売されていたプラシルαは、精神疾患の治療に常々悩まされていた医師たちの手助けとなる特効薬になると、私も期待していたのだよ」",
+            "NamesENG": "Chiba",
+            "TextENG": "``I, too, was expecting the Placil α drug manufactured by Lowell Inc to be the silver bullet that would allow doctors to treat patients suffering from chronic mental illness.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9829,
+            "NamesJPN": "千葉",
+            "PreTextTags": "@vS20/00/VTK2_chiba2029.",
+            "TextJPN": "「自己弁護になるかも知れんが、私なりに医薬界の未来を考えての措置だった。@k@vS20/00/VTK2_chiba2030.それが、一部のマスコミどもの軽挙妄動によってバッシングの嵐にさらされて…酷い目にあった」",
+            "NamesENG": "Chiba",
+            "TextENG": "``This may be self-vindication, but I saw it as the future of the medical world.@k@vS20/00/VTK2_chiba2030. But thanks to the terrible bashing it received from the mass media... everyone saw it in a terrible light.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9830,
+            "NamesJPN": "千葉",
+            "PreTextTags": "@vS20/00/VTK2_chiba2031.",
+            "TextJPN": "「あのおかげで、日本の精神医学の進歩は１０年遅れたと言っても過言ではないだろう」",
+            "NamesENG": "Chiba",
+            "TextENG": "``It's no exaggeration to say that progress into Japanese psychiatry has been pushed back ten years as a result.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9831,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2019.",
+            "TextJPN": "「ご苦労、お察しいたします。@k@vS20/00/VTK2_nomura2020.…先生の御同輩の大沼氏も、それで失脚なさいましたものね」",
+            "NamesENG": "Nomura",
+            "TextENG": "``I appreciate your understanding.@k@vS20/00/VTK2_nomura2020. ...One of your colleagues, Ounuma even lost his position over it, correct?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9832,
+            "NamesJPN": "千葉",
+            "PreTextTags": "@vS20/00/VTK2_chiba2032.",
+            "TextJPN": "「…良いライバルだった。@k@vS20/00/VTK2_chiba2033.やつが先に次長に昇格した時は、その見識の高さから間違いなく事務次官、その後は政界に打って出るものと期待していたのだがな。@k@vS20/00/VTK2_chiba2034.ああいう形になって、本当に残念だよ」",
+            "NamesENG": "Chiba",
+            "TextENG": "``...He was a good rival.@k@vS20/00/VTK2_chiba2033. When he was appointed assistant director before me, I figured his high levels of insight would allow him to reach vice-minister and then move on in the political world.@k@vS20/00/VTK2_chiba2034. It's really unfortunate that things went down like that.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9833,
+            "TextJPN": "しみじみと顔を伏せて、男はグラスを口元に寄せる。",
+            "TextENG": "The man turned his head down and raised the glass to his mouth."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9834,
+            "TextJPN": "…だから、気付かなかった。",
+            "TextENG": "...So, he didn't notice."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9835,
+            "TextJPN": "その時、女が何ともいえぬ笑みを浮かべていたことに…。",
+            "TextENG": "That in that moment, the woman had an indescribable smile on her face..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9836,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2021.",
+            "TextJPN": "「…先生。@k@vS20/00/VTK2_nomura2022.実はそのことで、折り入ってご相談があるんです」",
+            "NamesENG": "Nomura",
+            "TextENG": "``...Sensei.@k@vS20/00/VTK2_nomura2022. Actually, that's what I came here to discuss with you.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9837,
+            "NamesJPN": "千葉",
+            "PreTextTags": "@vS20/00/VTK2_chiba2035.",
+            "TextJPN": "「ん…何かね？」",
+            "NamesENG": "Chiba",
+            "TextENG": "``Hmm...? What now?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9838,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2023.",
+            "TextJPN": "「医薬界の未来をご案じになられている先生を見込んで、腹を割って申し上げます」",
+            "NamesENG": "Nomura",
+            "TextENG": "``I wanted to have a heart-to-heart talk with you about the future of the pharmaceutical world as you foresee it.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9839,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2024.",
+            "TextJPN": "「先日、私のもとにローウェル社のエージェントが接触してきまして…ぜひとも先生と一度ご会合の機会をいただきたい、との依頼を承りました」",
+            "NamesENG": "Nomura",
+            "TextENG": "``I received contact from an agent of Lowell Inc the other day... asking for the opportunity to meet with you.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9840,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2025.",
+            "TextJPN": "「内容は、かつての『プラシル』の改良薬に関して…だそうです」",
+            "NamesENG": "Nomura",
+            "TextENG": "``Allegedly... they intend to discuss a refinement of the ``Placil`` drug.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9841,
+            "NamesJPN": "千葉",
+            "PreTextTags": "@vS20/00/VTK2_chiba2036.",
+            "TextJPN": "「プラシルの…改良薬？@k@vS20/00/VTK2_chiba2037.　どういうことかね。@k@vS20/00/VTK2_chiba2038.まさか、また国内で販売する仲介をとってくれとでもいうつもりか？」",
+            "NamesENG": "Chiba",
+            "TextENG": "``A refinement... of Placil?@k@vS20/00/VTK2_chiba2037. What are they getting at?@k@vS20/00/VTK2_chiba2038. No way, do they expect me to act as an intermediary for domestic sales again?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9842,
+            "TextJPN": "男は眉をひそめて、露骨に不快な表情を作る。",
+            "TextENG": "The man furrowed his brow with a displeased expression."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9843,
+            "TextJPN": "先年のローウェル訴訟とその後の疑獄は、プラシルの薬害問題が発端となって起きた。",
+            "TextENG": "Placil's phytotoxicity problem was the beginning of the Lowell lawsuit and subsequent scandal years ago."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9844,
+            "TextJPN": "ゆえに日本国内では現在、プラシルの名前は禁忌となっている。",
+            "TextENG": "So the very name Placil was considered taboo in Japan nowadays."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9845,
+            "TextJPN": "そんな世情の中、たとえ改良薬といっても『プラシル』の名のついた薬を国内に持ち込んで、流通させられるわけがない。",
+            "TextENG": "There was no way they'd be able to bring a drug called ``Placil`` to Japan for distribution under those circumstances, even if it was an improvement."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9846,
+            "TextJPN": "しかも仲介したとなれば痛くもない腹を探られて、疑惑の目を向けられるのがおちだ。",
+            "TextENG": "And what's more, acting as a mediator for it would be opening himself up for suspicion."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9847,
+            "TextJPN": "最悪の場合その嫌疑がもとで、せっかく確立した今の地位を失うことだってありうるだろう…。",
+            "TextENG": "In the worst-case scenario, the suspicion could even cause him to lose his current position..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9848,
+            "NamesJPN": "千葉",
+            "PreTextTags": "@-@vS20/00/VTK2_chiba2039.",
+            "TextJPN": "（…冗談ではない）",
+            "NamesENG": "Chiba",
+            "TextENG": "(...This is serious.)"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9849,
+            "TextJPN": "医薬界の発展に貢献したいという気持ちは多少ある。",
+            "TextENG": "He did have some desire to contribute to the development of the pharmaceutical world."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9850,
+            "TextJPN": "…だが、それも自分の立場の安全を確保した上での話だ。",
+            "TextENG": "...But that was a topic to discuss after ensuring the safety of his position."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9851,
+            "TextJPN": "国内経済は順調に成長しており、与党は可もなく不可もなくとはいえ大衆の支持を集めて、その中でも五本の指に入る実力者の彼は、将来の首相の座が約束されている。",
+            "TextENG": "The domestic economy was steadily growing, and though the ruling party wasn't particularly good or bad they had gained the support of the public. He was a powerful man among the top five of the party, and had a promising future of becoming prime minister."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9852,
+            "TextJPN": "…にもかかわらず危ない橋を渡ってまで、名声を築き上げる必要はどこにもない。",
+            "TextENG": "...Nevertheless, he had no need to cross a perilous bridge to build up renown."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9853,
+            "TextJPN": "正直に言って、理想は自らを飾り立てる建前と方便であり…何よりも貴重なのは現実だった。",
+            "TextENG": "To be perfectly honest, ideals were only a means of embellishing himself... What mattered most was reality."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9854,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2026.",
+            "TextJPN": "「いえ、私がご相談したいのは、そんな無意味なことではありません。@k@vS20/00/VTK2_nomura2027.…先生。@k@vS20/00/VTK2_nomura2028.あなたは小泉先生のお立場に、ご自分がなってみたいと考えてことはございませんか？」",
+            "NamesENG": "Nomura",
+            "TextENG": "``No, what I wish to discuss isn't something so meaningless.@k@vS20/00/VTK2_nomura2027. ...Sensei.@k@vS20/00/VTK2_nomura2028. Have you ever wanted to be in Dr. Koizumi's position?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9855,
+            "NamesJPN": "千葉",
+            "PreTextTags": "@vS20/00/VTK2_chiba2040.",
+            "TextJPN": "「…なに？」",
+            "NamesENG": "Chiba",
+            "TextENG": "``...What?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9856,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2029.",
+            "TextJPN": "「製薬業は、その産業の特殊性から食品や繊維などの軽化学や、製鉄・機械などの重化学…はては軍事にまでその影響力を持つ分野です」",
+            "NamesENG": "Nomura",
+            "TextENG": "``Due to the peculiarities of the pharmaceutical industry, they have access to lighter chemicals like food and textiles, but also heavier things like steelmaking supplies and machinery... It's a field that even has influence over the military.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9857,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2030.",
+            "TextJPN": "「しかも薬は、そのノウハウさえ発見できれば低コストで大量に、しかも公定価格によって高利益が保証された商品のため、一獲千金が容易い産業と言われております」",
+            "NamesENG": "Nomura",
+            "TextENG": "``Moreover, medication can be manufactured in large volumes at low cost when the necessary know-how is discovered. And the product guarantees high profits at retail prices, so it's an industry where there's a lot of easy money to be made.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9858,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2031.",
+            "TextJPN": "「戦前の日本におきましても、新興財閥を築き上げた大半の企業が金融を除けば製薬・製剤などの化学工業であった事実は、歴史が証明しているところです」",
+            "NamesENG": "Nomura",
+            "TextENG": "``Even in pre-war Japan, history has proven that aside from the financial sector, most of the emerging businesses have been in chemical industries like pharmacy and manufacturing.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9859,
+            "NamesJPN": "千葉",
+            "PreTextTags": "@vS20/00/VTK2_chiba2041.",
+            "TextJPN": "「……」",
+            "NamesENG": "Chiba",
+            "TextENG": "``......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9860,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2032.",
+            "TextJPN": "「しかし…残念ながら戦後、日本国内では薬剤の認可を下す審査が非常に厳しくなり、新薬の開発にかかる期間と経費は莫大なものとなりました」",
+            "NamesENG": "Nomura",
+            "TextENG": "``But... unfortunately, Japan's approval process for new drugs has become extremely strict after the war, so the cost and time to develop new drugs has become enormous.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9861,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2033.",
+            "TextJPN": "「だからといって、他社の開発した薬のコピー…『ゾロゾロ品』を安価で売りさばいたところで、儲けなどたかが知れている」",
+            "NamesENG": "Nomura",
+            "TextENG": "``Nevertheless, copies of drugs developed by other companies... or ``generics,`` you could call them, are known to make a profit when sold at a low price point.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9862,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2034.",
+            "TextJPN": "「ならば国内の認可など求めず、新薬を売りさばく道を探し出す…そういう発想の転換は、いかがでしょうか？」",
+            "NamesENG": "Nomura",
+            "TextENG": "``So, what if we changed our way of thinking... and found a way to sell new drugs without going through domestic approval process by doing something like that?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9863,
+            "NamesJPN": "千葉",
+            "PreTextTags": "@vS20/00/VTK2_chiba2042.",
+            "TextJPN": "「なっ…？！」",
+            "NamesENG": "Chiba",
+            "TextENG": "``Wha...?!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9864,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2035.",
+            "TextJPN": "「このＣ１０３は試験薬のため、おそらく雛見沢症候群の研究とともに封印されるでしょう」",
+            "NamesENG": "Nomura",
+            "TextENG": "``This C103 is exclusively a research item, and it will probably be sealed away once the study of Hinamizawa Syndrome ends.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9865,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2036.",
+            "TextJPN": "「世に出そうと目論んだところで、認可を得るまでにさらに１０年以上の時間が必要となり、その間に他国が新薬を開発して、時代遅れの産物となる可能性が高い」",
+            "NamesENG": "Nomura",
+            "TextENG": "``Even though I'd like to get it out in the world, it would take over ten years to get through the approval process. And in that time, there's a good chance that other countries will develop new drugs that render it obsolete.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9866,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2037.",
+            "TextJPN": "「…ですが、先生もおっしゃいました通り現時点では間違いなく、革命的な薬なのです」",
+            "NamesENG": "Nomura",
+            "TextENG": "``...But just as you said, it is indeed a revolutionary new drug in this very moment.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9867,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2038.",
+            "TextJPN": "「そのために私たちは、危険を冒してまで先生のため、このＣ１０３のノウハウを秘密裏に持ち出し、人道に反してまで臨床実験を重ねてまいりました」",
+            "NamesENG": "Nomura",
+            "TextENG": "``For that reason, and for the doctors at risk, we have been secretly conducting human clinical trials in order to gain critical insight into C103.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9868,
+            "NamesJPN": "千葉",
+            "PreTextTags": "@vS20/00/VTK2_chiba2043.",
+            "TextJPN": "「…つまり君は、…この薬のデータを、ローウェル社に売れ…というのか？」",
+            "NamesENG": "Chiba",
+            "TextENG": "``...In order words... you're telling me to sell the data for this drug... to Lowell Inc?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9869,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2039.",
+            "TextJPN": "「そうです。@k@vS20/00/VTK2_nomura2040.もし、入江機関がこの薬の効能を知って、権利を日本国内の企業に売りつけたところで、先生が関与できるのは薬事審議会への口添えだけでしょう」",
+            "NamesENG": "Nomura",
+            "TextENG": "``Yes.@k@vS20/00/VTK2_nomura2040. If the Irie Institute learned the efficacy of this drug and sold the rights to some Japanese company, at best you'd be able to put in a good word at the Pharmaceutical Affairs Council.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9870,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2041.",
+            "TextJPN": "「そんなことで、先生の懐に入り込む額などたかだか知れたもの」",
+            "NamesENG": "Nomura",
+            "TextENG": "``I'm sure you know what little profit that would bring you.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9871,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2042.",
+            "TextJPN": "「ですが、ローウェル社が現在進めている改良型プラシルの研究にこのデータを提示すれば、彼らは以前の名誉挽回とばかりにこれらを高く買い取ろうとするでしょう」",
+            "NamesENG": "Nomura",
+            "TextENG": "``But, by offering this data to Lowell Inc, they'd be willing to pay a much higher price in order to use it in their Placil research and recover their former honor.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9872,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2043.",
+            "TextJPN": "「もちろん、権利の所在は先生にありますから、売上ごとにマージンが追加されます」",
+            "NamesENG": "Nomura",
+            "TextENG": "``Of course, you'd still own the rights, so you'd collect a margin on each sale.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9873,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2044.",
+            "TextJPN": "「薬の独占権が５年間だとしても、その間に入ってくる利益は数十億…いえ、ローウェル社が世界的な企業であることを考慮すれば、その額は数百億にも達すると思われます」",
+            "NamesENG": "Nomura",
+            "TextENG": "``Even if the drug can only maintain a monopoly for five years, the profit during that period could be in the billions... No, considering that Lowell is a global company the income could even reach tens of billions.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9874,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2045.",
+            "TextJPN": "「その富をバックにして、財界と政界を牛耳り…以後何十年にもわたって、先生が閣僚の顔ぶれを決定する…。@k@vS20/00/VTK2_nomura2046.…ふふふ、どうです？」",
+            "NamesENG": "Nomura",
+            "TextENG": "``With that wealth as a backing, you could take control of business and politics... you'd have the power to appoint cabinet ministers for years to come.@k@vS20/00/VTK2_nomura2046. ...Hehehe, what do you say?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9875,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2047.",
+            "TextJPN": "「先生は、それだけの地位に就いてもおかしくない…我が国にとって貴重なお方だと、私は思っております」",
+            "NamesENG": "Nomura",
+            "TextENG": "``It wouldn't be so unusual for you to attain such a position... Personally, I think you a valuable person for this country.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9876,
+            "NamesJPN": "千葉",
+            "PreTextTags": "@vS20/00/VTK2_chiba2044.",
+            "TextJPN": "「…渡辺くん。@k@vS20/00/VTK2_chiba2045.君は、アルファベットプロジェクトが発足した当初の目的を知った上で、私にそう言ってるのかね？」",
+            "NamesENG": "Chiba",
+            "TextENG": "``...Watanabe-kun.@k@vS20/00/VTK2_chiba2045. Are you telling me that, knowing the original purpose of the Alphabet Project?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9877,
+            "NamesJPN": "千葉",
+            "PreTextTags": "@vS20/00/VTK2_chiba2046.",
+            "TextJPN": "「研究会で発見されたノウハウを外国に売るなど…明らかに背信行為ではないか」",
+            "NamesENG": "Chiba",
+            "TextENG": "``Selling the knowledge obtained by our research groups overseas... Is a clear act of treason, isn't it?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9878,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2048.",
+            "TextJPN": "「確かに…外国勢力に対抗するだけの次世代兵器を開発することが、このプロジェクトの骨子ではありました。@k@vS20/00/VTK2_nomura2049.ですが…現実にはどうです？」",
+            "NamesENG": "Nomura",
+            "TextENG": "``It's... true that the backbone of this project was to create a super-weapon that could compete with major foreign powers.@k@vS20/00/VTK2_nomura2049. But... what is it in reality?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9879,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2050.",
+            "TextJPN": "「冷戦状態が継続しているとはいえ、戦争が外交手段の一つと居直られていた時代は、すでに終わりました」",
+            "NamesENG": "Nomura",
+            "TextENG": "``Even though the Cold War is still ongoing, the days of war being used as a diplomatic tool are long gone.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9880,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2051.",
+            "TextJPN": "「今後の国家間の力関係を決定するのは政治力もさることながら、それを裏付ける経済力です。@k@vS20/00/VTK2_nomura2052.核ミサイルをいくら持とうとも、それで恫喝して相手に言うことを聞かせるのはもはや、時代遅れ」",
+            "NamesENG": "Nomura",
+            "TextENG": "``It's not just political power, but also economic power that will determine the power dynamic between nations in the future.@k@vS20/00/VTK2_nomura2052. No matter how many nuclear missiles you have, that won't convince people to do as you say. It's an outdated threat.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9881,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2053.",
+            "TextJPN": "「…ならば、先生のような高潔の士に権力の座についていただいた上で、どのような形であれ日本国内に外貨を流入させる方策をとることこそ、真の愛国的行為ではありませんか？」",
+            "NamesENG": "Nomura",
+            "TextENG": "``...Then regardless of the methods, isn't it a truly patriotic act to have a virtuous person like yourself rise to power and bring foreign currency into Japan?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9882,
+            "NamesJPN": "千葉",
+            "PreTextTags": "@vS20/00/VTK2_chiba2047.",
+            "TextJPN": "「……」",
+            "NamesENG": "Chiba",
+            "TextENG": "``......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9883,
+            "NamesJPN": "野村",
+            "PreTextTags": "@vS20/00/VTK2_nomura2054.",
+            "TextJPN": "「どうか、よく…お考えください。@k@vS20/00/VTK2_nomura2055.私は、先生のお人柄に惚れて、あなた様に絶対の忠誠を誓う者です。@k@vS20/00/VTK2_nomura2056.どうかそのことだけは、心の片隅にでもお留めおかれましたら幸甚でございます…」",
+            "NamesENG": "Nomura",
+            "TextENG": "``Please... think carefully about this.@k@vS20/00/VTK2_nomura2055. Sensei, I've fallen in love with your good-natured personality and I pledge my absolute loyalty to you.@k@vS20/00/VTK2_nomura2056. I would be ever so grateful if you could keep that fact tucked away in the corner of your heart...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9884,
+            "TextJPN": "……。",
+            "TextENG": "..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 9885,
+            "TextJPN": "渡辺と呼ばれた女が、その男の執務室に呼ばれたのは…それから２日後のことだった。",
+            "TextENG": "The woman called Watanabe was invited to the man's office... just two days later."
+        }
+    ]
+}

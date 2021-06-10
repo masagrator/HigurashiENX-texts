@@ -1,0 +1,733 @@
+{
+    "Main": [
+        {
+            "type": "SAVEINFO",
+            "category": 1,
+            "JPN": "D4 バラバラ殺人事件",
+            "ENG": "D4 Dismemberment Murder"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5573,
+            "NamesJPN": "作業員",
+            "PreTextTags": "@vS20/00/VTK1_sagyouA1001.",
+            "TextJPN": "「…はぁ…はぁ、…はぁ、…はぁ…！」",
+            "NamesENG": "Laborer",
+            "TextENG": "``Huff, huff... huff... huff...!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5574,
+            "NamesJPN": "作業員",
+            "PreTextTags": "@vS20/00/VTK1_sagyouA1002.",
+            "TextJPN": "「……くそったれ、…やべぇよ、やべぇよ…。@k@vS20/00/VTK1_sagyouA1003.…監督…？@k@vS20/00/VTK1_sagyouA1004.　監督、…返事してくださいよ。@k@vS20/00/VTK1_sagyouA1005.…監督ぅ……」",
+            "NamesENG": "Laborer",
+            "TextENG": "``......Shit, damn it... shit, shit...@k@vS20/00/VTK1_sagyouA1003. Manager...?@k@vS20/00/VTK1_sagyouA1004. Manager, come on, say something.@k@vS20/00/VTK1_sagyouA1005. ...Manager......``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5575,
+            "NamesJPN": "作業員",
+            "PreTextTags": "@vS20/00/VTK1_sagyouB1001.",
+            "TextJPN": "「ぁ、…あほんだらぁ…。@k@vS20/00/VTK1_sagyouB1002.し、死んでるに決まってンだろが…！」",
+            "NamesENG": "Laborer",
+            "TextENG": "``You idiot...@k@vS20/00/VTK1_sagyouB1002. He's dead already.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5576,
+            "TextJPN": "がらん。",
+            "TextENG": "Clang."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5577,
+            "TextJPN": "…大きな音がして、全員我に返ったようにはっとした。",
+            "TextENG": "A loud noise snapped everyone out of it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5578,
+            "TextJPN": "誰かが、手に持っていたシャベルを落としたのだ。",
+            "TextENG": "Someone dropped the shovel he was holding."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5579,
+            "TextJPN": "…そのシャベルの先端は、どす黒い血がべったりと染み付いている…。",
+            "TextENG": "The shovel was smeared with reddish-black blood."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5580,
+            "TextJPN": "いや、それはシャベルだけにではない。",
+            "TextENG": "No, not just the shovel."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5581,
+            "TextJPN": "…その場にいる６人の作業員風の男たち全員の衣服にも染み付いていた。",
+            "TextENG": "All six construction workers' clothes were blood-soaked, too."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5582,
+            "TextJPN": "一人が、監督と呼び声をかける先には、全身血塗れでぴくりとも動かない無残な死体が転がっていた…。",
+            "TextENG": "One of them cried out to the silent dead body of the manager, which was drenched in blood."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5583,
+            "NamesJPN": "作業員",
+            "PreTextTags": "@vS20/00/VTK1_sagyouC1001.",
+            "TextJPN": "「…監督ぅ…、…監督ぅ…、うううぅ…！」",
+            "NamesENG": "Laborer",
+            "TextENG": "``...Manager... ...Manager... oooh...!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5584,
+            "NamesJPN": "作業員",
+            "PreTextTags": "@vS20/00/VTK1_sagyouA1006.",
+            "TextJPN": "「やっかましい…！@k@vS20/00/VTK1_sagyouA1007.　死んでるに決まってンだろ！@k@vS20/00/VTK1_sagyouA1008.　…仕方ねぇじゃねぇか！@k@vS20/00/VTK1_sagyouA1009.　正当防衛だろ、正当防衛…！！」",
+            "NamesENG": "Laborer",
+            "TextENG": "``Shut up...!@k@vS20/00/VTK1_sagyouA1007. He's already dead!@k@vS20/00/VTK1_sagyouA1008. It was self-defense!@k@vS20/00/VTK1_sagyouA1009. Right? Self-defense!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5585,
+            "TextJPN": "喧嘩の原因は、自分たちが事務所内でビールを開けているのを監督に咎められたからだ。",
+            "TextENG": "The fight had started after the manager yelled at them for drinking beer inside the office."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5586,
+            "TextJPN": "あちこちに飲酒禁止だの喫煙禁止だのと標語をべたべた貼りつけていた。",
+            "TextENG": "There were 'no drinking' and 'no smoking' signs everywhere."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5587,
+            "TextJPN": "そのルールを破る者には容赦のない雷が落ちたのだ。",
+            "TextENG": "The manager harshly scolded anyone who broke that rule."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5588,
+            "TextJPN": "確かにルールを破ったのは彼ら６人が悪い。",
+            "TextENG": "So it was the six workers' fault for disobeying."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5589,
+            "TextJPN": "でも、住民運動の敵意に日々晒され、ストレスが限界まで溜まっていたからなのだ。",
+            "TextENG": "But they drank because they were stressed out by the anti-dam protesters."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5590,
+            "TextJPN": "…だからつい監督を挑発するようなことを言ってしまった。",
+            "TextENG": "...That's why they said things to provoke the manager."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5591,
+            "TextJPN": "表に出やがれ、と。",
+            "TextENG": "They told him to step out."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5592,
+            "TextJPN": "他の人間も、やれやれと囃し立てた。",
+            "TextENG": "And the others went along."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5593,
+            "TextJPN": "辛いばかりの工事で面白いことなど何もない。",
+            "TextENG": "The construction workers toiled hard and long hours."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5594,
+            "TextJPN": "だから、つい喧嘩を囃し立てるように言ってしまったのだ。",
+            "TextENG": "That's why they instigated the fight with the manager, to release their stress."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5595,
+            "TextJPN": "せいぜい罵りあいか取っ組み合い程度を期待していた。",
+            "TextENG": "They had expected to just curse at each other, or to end up in a wrestling match."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5596,
+            "TextJPN": "…だが、次第にそれはエスカレートしてきた。",
+            "TextENG": "...But things escalated."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5597,
+            "TextJPN": "いや、…厳密には監督が異様に感情を爆発させだしたのだ。",
+            "TextENG": "Or to put it more accurately, the manager exploded all of a sudden."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5598,
+            "TextJPN": "…監督だって普段、住民のやかましい運動の矢面に立たされている。",
+            "TextENG": "The manager had to deal with the residents' protests as well."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5599,
+            "TextJPN": "自分たちがストレスを溜めているように、…監督だってストレスが溜まってても当然なのだ。",
+            "TextENG": "So he was under just as much pressure... or maybe even more."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5600,
+            "TextJPN": "でも、…それでも常軌を逸していた。",
+            "TextENG": "But how he changed was not normal."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5601,
+            "TextJPN": "監督は初め、確かにシラフだったはずだ。",
+            "TextENG": "The manager was calm at first."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5602,
+            "TextJPN": "…でもどんどんおかしくなっていって錯乱状態になり、…それはまるで人が変わったようで、…いや、…まるで何か“悪いモノ”にでも取り憑かれたかのようで…。",
+            "TextENG": "But he gradually became more aggressive and it was like he transformed into someone completely different. No, it was like he was possessed by something evil..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5603,
+            "TextJPN": "後で囃し立てていた彼らでも、その異常な様子に酔いが抜けてしまったほどだった…。",
+            "TextENG": "The men who instigated the fight sobered up when they saw his behavior."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5604,
+            "TextJPN": "そして…。",
+            "TextENG": "Then..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5605,
+            "TextJPN": "監督はいきなり傍らのシャベルを拾い上げると、何の躊躇もなく口喧嘩の相手の頭を叩き割ろうとしたのだ。",
+            "TextENG": "the manager picked up a shovel that was nearby and tried to smash his opponent's head in with it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5606,
+            "TextJPN": "…咄嗟に、転ぶように避けたから脳天で食らわずに済んだが、もし避け損なっていたら、絶対に頭をカチ割られていた。",
+            "TextENG": "He managed to avoid the hit, but if he didn't, his head would've surely been split open."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5607,
+            "TextJPN": "そして、転がりながら避ける男に対し、何の躊躇もなくシャベルを何度も打ちつけた。",
+            "TextENG": "The manager kept pounding on him with the shovel."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5608,
+            "TextJPN": "それを男は必死に転がりながら逃げる。",
+            "TextENG": "Even as he frantically tried to avoid the hits."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5609,
+            "TextJPN": "…この頃には喧嘩の次元を越えていることに気付き、囃し立てていた男たちは取り押さえに行った。",
+            "TextENG": "By this time, the workers had realized this was beyond a simple fight, so they tried to hold the manager down."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5610,
+            "TextJPN": "だが、監督はその男たちに対し、シャベルを振り上げたのだ。",
+            "TextENG": "But the manager turned on them with the shovel too."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5611,
+            "TextJPN": "振り上げられた男は、それを腕でバツを作るような形で防ごうとした。",
+            "TextENG": "One of the men tried to protect himself by crossing his arms above his head."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5612,
+            "TextJPN": "…縦に振り下ろされるシャベルを腕で防げるわけがない。",
+            "TextENG": "...But there was no way that could have blocked a shovel swung with such force."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5613,
+            "TextJPN": "鮮血がほとばしり、苦痛のうめき声が漏れ出した。",
+            "TextENG": "Blood spurted out, and the man groaned in pain."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5614,
+            "TextJPN": "この頃には誰もが理屈抜きで直感していた。",
+            "TextENG": "By this time, the six men had realized"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5615,
+            "TextJPN": "…監督は普通じゃない。",
+            "TextENG": "the manager was not his usual self."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5616,
+            "TextJPN": "今の監督には何の手加減もなく、…もしこちらが防いだり避けたりしないなら、容赦なく脳天を割ってくる…！",
+            "TextENG": "This manager would try to bash in their brains without hesitation."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5617,
+            "TextJPN": "シャベルを持つ相手に対抗するには、…いや、シャベルの攻撃を防ぐにはこちらも何か持たなくてはならない。",
+            "TextENG": "Since their opponent was using a shovel as his weapon, they had to find some kind of weapon too."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5618,
+            "TextJPN": "隙を見て一人が大型ハンマーを手に取った。",
+            "TextENG": "One of them grabbed a huge hammer."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5619,
+            "TextJPN": "…それを見て、他の人間たちも皆、得物を手にするべきだと気が付いた。",
+            "TextENG": "Then the others realized they needed to find something as well."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5620,
+            "TextJPN": "今の監督を取り押さえるには、得物が不可欠だと自然に思った…！",
+            "TextENG": "To restrain the manager in that condition, it was better to arm themselves."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5621,
+            "NamesJPN": "作業員",
+            "PreTextTags": "@vS20/00/VTK1_sagyouC1002.",
+            "TextJPN": "「…こんなつもりじゃなかったのにぃ…。@k@vS20/00/VTK1_sagyouC1003.…ぅわぁぁぁぁぁ…」",
+            "NamesENG": "Laborer",
+            "TextENG": "``...It wasn't supposed to be this way...@k@vS20/00/VTK1_sagyouC1003. ...Waaaaah...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5622,
+            "TextJPN": "６人にとっては、監督の暴力から自分たちの身を守ることが何よりも最優先事項だった。",
+            "TextENG": "It didn't take that long for the madness to infect the six workers."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5623,
+            "TextJPN": "…そして、抵抗だけでなく取り押さえようとして、さらにそれが反撃へと発展していったように、行動が過激化したのもやむを得ない選択だった。",
+            "TextENG": "It was only a matter of time before they went from restraining him to lynching him."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5624,
+            "TextJPN": "気付けば監督は、…ピクリとも、動かなくなっていた。",
+            "TextENG": "By the time they realized what had happened, the manager was already a lump of meat."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5625,
+            "TextJPN": "…息もしていないし、…その顔に生前の面影はない。",
+            "TextENG": "His face was swollen. Shreds of skin had been torn off and his muscles and skull were visible too."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5626,
+            "TextJPN": "…誰もが、すでに絶命していることを悟った…。",
+            "TextENG": "...Obviously, he was quite dead..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5627,
+            "NamesJPN": "作業員",
+            "PreTextTags": "@vS20/00/VTK1_sagyouA1010.",
+            "TextJPN": "「ふ、ふざけんじゃねぇよ…！！@k@vS20/00/VTK1_sagyouA1011.　俺たちは殺されかかったんだぞ！@k@vS20/00/VTK1_sagyouA1012.　こいつが襲い掛かってこなけりゃ、俺たちだって反撃しなかったんだぞ！！@k@vS20/00/VTK1_sagyouA1013.　なぁ？！」",
+            "NamesENG": "Laborer",
+            "TextENG": "``Fuck!@k@vS20/00/VTK1_sagyouA1011. He almost killed us, remember?@k@vS20/00/VTK1_sagyouA1012. If he hadn't attacked us, we wouldn't have fought him,@k@vS20/00/VTK1_sagyouA1013. right?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5628,
+            "TextJPN": "６人のリーダー格の、一番最初に口喧嘩を買った男が仲間に同意を求めるが、誰もが青ざめていて、返事をしたりはしなかった…。",
+            "TextENG": "The leader of the six, the one who instigated the fight, tried to bring the rest to his side, but nobody replied."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5629,
+            "TextJPN": "それが、…男には面白くなかったのかもしれない。",
+            "TextENG": "And so, the leader became frustrated."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5630,
+            "TextJPN": "…自分が喧嘩を売った。",
+            "TextENG": "He was the one who started the fight."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5631,
+            "TextJPN": "他の仲間たちは後から加わったに過ぎない。",
+            "TextENG": "The rest simply joined in."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5632,
+            "TextJPN": "…自分が主犯扱いなのだ。",
+            "TextENG": "...He was the main perpetrator."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5633,
+            "TextJPN": "だからこそ、自分をトカゲの尻尾のように見られているかもしれないことに耐えられなかったのかもしれない…。",
+            "TextENG": "Maybe that was why he was feeling so exasperated. He sensed that he was the one at fault."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5634,
+            "NamesJPN": "作業員",
+            "PreTextTags": "@vS20/00/VTK1_sagyouA1014.",
+            "TextJPN": "「い、いつまでもナヨナヨしてんじゃねぇ…！！@k@vS20/00/VTK1_sagyouA1015.　仕方ねぇだろ！@k@vS20/00/VTK1_sagyouA1016.　殺ッちまったもんは仕方ねぇだろ！！@k@vS20/00/VTK1_sagyouA1017.　俺たちゃな、もう殺人犯なんだよ！！@k@vS20/00/VTK1_sagyouA1018.　覚悟を決めるんだよ！」",
+            "NamesENG": "Laborer",
+            "TextENG": "``D-Don't just stand there like a limp noodle!!@k@vS20/00/VTK1_sagyouA1015. It's too late!@k@vS20/00/VTK1_sagyouA1016. We killed him, and there's nothing we can do about it!!@k@vS20/00/VTK1_sagyouA1017. We're all murderers now!!@k@vS20/00/VTK1_sagyouA1018. Buck up!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5635,
+            "NamesJPN": "作業員",
+            "PreTextTags": "@vS20/00/VTK1_sagyouC1004.",
+            "TextJPN": "「まさかおめぇら、自首して懲役食らいてぇなんて思ってんじゃねぇだろな？！@k@vS20/00/VTK1_sagyouC1005.　冗談じゃねぇよ！！@k@vS20/00/VTK1_sagyouC1006.　ムショなんかこの年で行ってられっかよ！！」",
+            "NamesENG": "Laborer",
+            "TextENG": "``You ain't thinking about turning yourself in and doing time, are you?!@k@vS20/00/VTK1_sagyouC1005. Fuck you!!@k@vS20/00/VTK1_sagyouC1006. I can't go to the slammer at my age!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5636,
+            "NamesJPN": "作業員",
+            "PreTextTags": "@vS20/00/VTK1_sagyouA1019.",
+            "TextJPN": "「隠すんだよ！@k@vS20/00/VTK1_sagyouA1020.　こいつの死体を隠してスッとぼけるしかねぇんだッ！！」",
+            "NamesENG": "Laborer",
+            "TextENG": "``We're hiding it!@k@vS20/00/VTK1_sagyouA1020. We're hiding this corpse and pretending nothing happened!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5637,
+            "TextJPN": "…その男が、実は過去に暴行事件で執行猶予判決を受けていることを、何人かは知っていた。",
+            "TextENG": "...Some of them knew he was on probation for an assault incident once before."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5638,
+            "TextJPN": "だから、…もし警察沙汰になれば、罪はこの件だけでは済まないのだ。",
+            "TextENG": "So if he got into trouble with the law again, the punishment would be more severe than they could imagine."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5639,
+            "TextJPN": "だからこそ、…顔を真っ赤にして、何とかこの状況から逃れようと喚きたてているのだ。",
+            "TextENG": "That was why he was trying desperately to find a way out."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5640,
+            "TextJPN": "…もし、この場にいたのが監督と男だけだったなら、彼はこうまで息巻く必要はなかった。",
+            "TextENG": "If he was alone with the manager's body, then he wouldn't have behaved this way."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5641,
+            "TextJPN": "…ただ冷静に、監督の死体を隠してとぼけるだけで良かったのだ。",
+            "TextENG": "All he would have to do was to hide the manager's body and pretend nothing happened."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5642,
+            "TextJPN": "だが、ここには彼も含めて６人いる。",
+            "TextENG": "But there were six of them, including him."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5643,
+            "TextJPN": "共犯という名の目撃者がいるのだ。",
+            "TextENG": "They were partners in crime, and witnesses too."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5644,
+            "TextJPN": "この内の誰かひとりでも良心の呵責に負けて自首なんかしたら、それは自分にも及んでしまうのだ…。",
+            "TextENG": "If even one of them turned himself in out of guilt, he'd be in big trouble..."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5645,
+            "NamesJPN": "作業員",
+            "PreTextTags": "@vS20/00/VTK1_sagyouB1003.",
+            "TextJPN": "「で、…でも、…死体なんか隠したって、…バレるよ、いずれ…」",
+            "NamesENG": "Laborer",
+            "TextENG": "``B... But... even if we hide the body... they'll find out sooner or later...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5646,
+            "NamesJPN": "作業員",
+            "PreTextTags": "@vS20/00/VTK1_sagyouB1004.",
+            "TextJPN": "「それより…、正当防衛ってことでちゃんと主張して…、その、過剰防衛くらいで勘弁してもらぇねぇかな…」",
+            "NamesENG": "Laborer",
+            "TextENG": "``Instead... we should plead justifiable self-defense and they might end up pardoning us...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5647,
+            "NamesJPN": "作業員",
+            "PreTextTags": "@vS20/00/VTK1_sagyouA1021.",
+            "TextJPN": "「甘ったれたこと言ってんじゃねぇ！！@k@vS20/00/VTK1_sagyouA1022.　実際に殺しちまったんだぞ！！@k@vS20/00/VTK1_sagyouA1023.　過剰防衛で済むかよ？！@k@vS20/00/VTK1_sagyouA1024.　もう取り返しのつかないところまでやっちまったんだぞ、馬鹿野郎ッ！！！」",
+            "NamesENG": "Laborer",
+            "TextENG": "``Don't be so stupid!!@k@vS20/00/VTK1_sagyouA1022. Look what we've done! Look at his face!!@k@vS20/00/VTK1_sagyouA1023. Who would think this is the result of self-defense?@k@vS20/00/VTK1_sagyouA1024. His parents wouldn't even be able to identify him in this condition, you idiot!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5648,
+            "NamesJPN": "作業員",
+            "PreTextTags": "@vS20/00/VTK1_sagyouC1007.",
+            "TextJPN": "「で、…でもよぅ…、どう隠したって、監督がいなくなったのは明日の朝にはバレちまうんだ。@k@vS20/00/VTK1_sagyouC1008.どうしようもねぇよ…！」",
+            "NamesENG": "Laborer",
+            "TextENG": "``B-But... even if we hide it, everyone's going find out tomorrow morning when the manager doesn't show.@k@vS20/00/VTK1_sagyouC1008. It's hopeless...!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5649,
+            "NamesJPN": "作業員",
+            "PreTextTags": "@vS20/00/VTK1_sagyouA1025.",
+            "TextJPN": "「どうしようもねぇのは、おんどれの頭じゃいボケぇッ！！！」",
+            "NamesENG": "Laborer",
+            "TextENG": "``What's hopeless is your damn brain, you shithead!!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5650,
+            "TextJPN": "弱音を吐く男の頬を張り倒す。",
+            "TextENG": "He slapped the other man in the face."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5651,
+            "TextJPN": "…いつの間にか、リーダー格の男の形相は鬼のようになっていた…。",
+            "TextENG": "...The leader had such an evil look in his eyes."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5652,
+            "NamesJPN": "作業員",
+            "PreTextTags": "@vS20/00/VTK1_sagyouA1026.",
+            "TextJPN": "「いいかボケども？！@k@vS20/00/VTK1_sagyouA1027.　俺たちゃな、殺人犯なんだ殺人犯！！@k@vS20/00/VTK1_sagyouA1028.　グズグズ言ってりゃ、５年６年食らい込まれちまうんだよッ！！」",
+            "NamesENG": "Laborer",
+            "TextENG": "``Listen well, dipshits!!@k@vS20/00/VTK1_sagyouA1027. We're all murderers, okay?!@k@vS20/00/VTK1_sagyouA1028. Keep griping now, and we'll all get slammed with five or six years!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5653,
+            "NamesJPN": "作業員",
+            "PreTextTags": "@vS20/00/VTK1_sagyouA1029.",
+            "TextJPN": "「俺らン中にひとり裏切り者がおってみろ！！@k@vS20/00/VTK1_sagyouA1030.　全員が捕まっちまうんだよッ！！」",
+            "NamesENG": "Laborer",
+            "TextENG": "Just one of you here try and blab!!@k@vS20/00/VTK1_sagyouA1030. We'll all be locked up!!"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5654,
+            "NamesJPN": "作業員",
+            "PreTextTags": "@vS20/00/VTK1_sagyouA1031.",
+            "TextJPN": "「懲役を舐めんな？@k@vS20/00/VTK1_sagyouA1032.　どうせ捕まる覚悟だっちゅうんなら、死ぬ気で逃げまくってやるんだ！！@k@vS20/00/VTK1_sagyouA1033.　年貢の納め時になったら好きなだけ覚悟決めりゃいいんだ！！」",
+            "NamesENG": "Laborer",
+            "TextENG": "Don't underestimate the pen.@k@vS20/00/VTK1_sagyouA1032. If you're prepared to be caught anyway, then run like your life depends on it!!@k@vS20/00/VTK1_sagyouA1033. You can resign yourself to it later when it's time to pay the piper!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5655,
+            "TextJPN": "どんどん…、男の形相が鬼のようになっていく。",
+            "TextENG": "His visage turned more and more demonic."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5656,
+            "TextJPN": "それは、ついさっきまで監督が浮かべていた表情でもある。",
+            "TextENG": "It was the same expression the manager had just a few minutes before."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5657,
+            "TextJPN": "…何かに取り憑かれたように豹変した監督と、同じものが彼に取り憑いたのではないか…。",
+            "TextENG": "...Was he possessed by the same thing that possessed the manager?"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5658,
+            "TextJPN": "彼らは本気でそう思った。",
+            "TextENG": "The five men started to think that way."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5659,
+            "TextJPN": "思えば、…その表情はデモ活動で吼え猛るこの村の住民たちと同じ形相なのだ。",
+            "TextENG": "Now that they considered it... all the villagers in the anti-dam protests had the same expression on their faces too."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5660,
+            "TextJPN": "この村の本当の名前は鬼ヶ淵村なのだという。",
+            "TextENG": "The real name of Hinamizawa was Onigafuchi Village."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5661,
+            "TextJPN": "そして、そこには凶悪な鬼が住んでいたといい、人に乗り移ることもあるのだと。",
+            "TextENG": "People said that wicked demons lived there, and sometimes they possessed people."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5662,
+            "TextJPN": "…デモ隊がうそぶくそんな話を、今は本気で思い出していた…。",
+            "TextENG": "...The men couldn't help but to recall that exaggerated story often told by the demonstrators."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5663,
+            "TextJPN": "この形相がさらに行き着いた時、…監督はシャベルを振りかざして殺意を剥き出しにした。",
+            "TextENG": "The manager swung the shovel after his expression changed to that demonic one."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5664,
+            "TextJPN": "……目の前の男もそうならない保証などないのだ。",
+            "TextENG": "There was no guarantee this man wouldn't do the same."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5665,
+            "TextJPN": "実際、彼は得物のハンマーを握り締めたまま、ぎょろぎょろと睨みつけて威圧してくる。",
+            "TextENG": "In fact, he was still squeezing the hammer in his hand, glaring at everyone and threatening them."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5666,
+            "TextJPN": "…もし、誰かが一言、自首しようと口にしたなら。",
+            "TextENG": "If someone suggested surrendering,"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5667,
+            "TextJPN": "…多分、その男の頭を一撃で叩き割るだろう…。",
+            "TextENG": "he'd probably smash their head in with it."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5668,
+            "NamesJPN": "作業員",
+            "PreTextTags": "@vS20/00/VTK1_sagyouA1034.",
+            "TextJPN": "「…そうだ。@k@vS20/00/VTK1_sagyouA1035.……裏切り者を出さんためにな。@k@vS20/00/VTK1_sagyouA1036.いいこと思いついたわ。@k@vS20/00/VTK1_sagyouA1037.…へっへっへ。@k@vS20/00/VTK1_sagyouA1038.死体も隠しやすくなって一石二鳥だぞ…」",
+            "NamesENG": "Laborer",
+            "TextENG": "``I know.@k@vS20/00/VTK1_sagyouA1035. ......To make sure nobody betrays the rest,@k@vS20/00/VTK1_sagyouA1036. I have an idea.@k@vS20/00/VTK1_sagyouA1037. Heh heh heh.@k@vS20/00/VTK1_sagyouA1038. It'll make it easier to hide the body, too!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5669,
+            "NamesJPN": "作業員",
+            "PreTextTags": "@vS20/00/VTK1_sagyouB1005.",
+            "TextJPN": "「ど、……どんな手だい…」",
+            "NamesENG": "Laborer",
+            "TextENG": "``Wh...... What is it?``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5670,
+            "NamesJPN": "作業員",
+            "PreTextTags": "@vS20/00/VTK1_sagyouA1039.",
+            "TextJPN": "「へっへっへ…。@k@vS20/00/VTK1_sagyouA1040.決まってるだろ。@k@vS20/00/VTK1_sagyouA1041.…こうなったら一蓮托生、証拠になりそうなものはそれぞれの責任で隠して逃げるんだ」",
+            "NamesENG": "Laborer",
+            "TextENG": "``Heh heh heh.@k@vS20/00/VTK1_sagyouA1040. It's obvious.@k@vS20/00/VTK1_sagyouA1041. We're gonna split evidence between each of us and running away with them.``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5671,
+            "NamesJPN": "作業員",
+            "PreTextTags": "@vS20/00/VTK1_sagyouC1009.",
+            "TextJPN": "「そ、…そりゃあ…、」",
+            "NamesENG": "Laborer",
+            "TextENG": "``Wh-What...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5672,
+            "TextJPN": "そんなのはまずいよ、と反論したかった。",
+            "TextENG": "They all wanted to object to the idea."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5673,
+            "TextJPN": "殺しただけでも重罪だ。",
+            "TextENG": "Killing him was a serious crime itself."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5674,
+            "TextJPN": "…その上に犯罪の事実を隠匿して逃亡なんて、いくら何でもやり過ぎだ…。",
+            "TextENG": "Dismembering the body would be too much."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5675,
+            "TextJPN": "…だが、反論したらこの場で殴り殺しかねない雰囲気だった…。",
+            "TextENG": "But if anyone objected, he'd be killed on the spot."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5676,
+            "TextJPN": "だから、それ以上の言葉を喉から出すことはできなかった…。",
+            "TextENG": "So no one said anything."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5677,
+            "NamesJPN": "作業員",
+            "PreTextTags": "@vS20/00/VTK1_sagyouA1042.",
+            "TextJPN": "「俺たち全員が、この当事者だ。@k@vS20/00/VTK1_sagyouA1043.この野郎が日頃言ってンだろ。@k@vS20/00/VTK1_sagyouA1044.共同作業だよ。@k@vS20/00/VTK1_sagyouA1045.全員、腹をくくれよ。@k@vS20/00/VTK1_sagyouA1046.それで、分けて持った『証拠』は各自が責任を持って隠すんだ」",
+            "NamesENG": "Laborer",
+            "TextENG": "``We're all in this together.@k@vS20/00/VTK1_sagyouA1043. Remember what the manager used to say?@k@vS20/00/VTK1_sagyouA1044. Teamwork!@k@vS20/00/VTK1_sagyouA1045. Get your shit together.@k@vS20/00/VTK1_sagyouA1046. We'll each take our part and hide it responsibly."
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5678,
+            "NamesJPN": "作業員",
+            "PreTextTags": "@vS20/00/VTK1_sagyouA1047.",
+            "TextJPN": "「……な？@k@vS20/00/VTK1_sagyouA1048.　これなら全員仲良く主犯だろ？@k@vS20/00/VTK1_sagyouA1049.　へっへっへ、自分だけ罪が軽いから自首しようなんてズル抜けは許さねぇってわけさ。@k@vS20/00/VTK1_sagyouA1050.…へへへへへへ！」",
+            "NamesENG": "Laborer",
+            "TextENG": "What do you think, huh?@k@vS20/00/VTK1_sagyouA1048. This way, we're all equally guilty, right?@k@vS20/00/VTK1_sagyouA1049. Heh heh heh, I won't let anyone give themselves up!!@k@vS20/00/VTK1_sagyouA1050. Heh heh heh heh heh heh!!``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5679,
+            "NamesJPN": "作業員",
+            "PreTextTags": "@vS20/00/VTK1_sagyouB1006.",
+            "TextJPN": "「…ぅ………」",
+            "NamesENG": "Laborer",
+            "TextENG": "``...........Ooh...``"
+        },
+        {
+            "type": "MSGSET",
+            "MessageID": 5680,
+            "TextJPN": "５人は、もうその鬼気迫る形相に完全に飲み込まれ、@k…鬼ヶ淵村を支配する鬼の真の恐怖が背中を這い上がってくるのを、ぞわぞわと感じているのだった……。",
+            "TextENG": "The five men were all taken in by his ghastly face@k and they could even feel the fear of the Onigafuchi demons creep up their backs."
+        }
+    ]
+}
