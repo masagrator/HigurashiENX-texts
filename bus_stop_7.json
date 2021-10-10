@@ -1,1189 +1,1187 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "#7 殺シテヤル…",
-            "ENG": "#7 / I'll Kill You..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156290,
-            "TextJPN": "フラッシュした後、暗転。@k@r雷鳴が轟く。",
-            "TextENG": "After the flash, the area turns dark.@k@rThunder roars."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156291,
-            "TextJPN": "しばらくの沈黙。@k@r舞台は真っ暗のまま。@k@r無線の声が聞こえる。",
-            "TextENG": "Then silence.@k@rThe stage remains dark.@k@rAs the voice from a radio is heard."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156292,
-            "NamesJPN": "声",
-            "PreTextTags": "@vS26/57/TNIT_0010.",
-            "TextJPN": "「…本部より全車へ。……部外者の排除が終了次第、突入する。…繰り返す、部外者の排除が終了次第、突入する」",
-            "NamesENG": "Voice",
-            "TextENG": "``...Headquarters to all cars. ......It will end as soon as all outsiders are eliminated, move out. ...I repeat, it will end as soon as all outsiders are eliminated, move out.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156293,
-            "TextJPN": "落雷の音。@k徐々に舞台明るくなる。",
-            "TextENG": "The sound of thunder in the distance.@k@rThe stage gradually becomes brighter."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156294,
-            "TextJPN": "喉元と指を血だらけにした荒川が倒れて、痙攣している。@k@rどうしていいか判らずおろおろする吉村。@k@r星野・岡野・魅音・梨花・利根川が戻ってくる。",
-            "TextENG": "At the stage center Arakawa falls down in convulsion,@rhis throat and fingers covered in blood.@k@rYoshimura is shaken up,@rhe doesn't know what to do.@k@rHoshino, Okano, Mion, Rika and Tonegawa@rcome back."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156295,
-            "NamesJPN": "利根川",
-            "PreTextTags": "@vS26/56/TTON_0690.",
-            "TextJPN": "「荒川君ッ！？　どうしたんだ！　大丈夫かッ！？」",
-            "NamesENG": "Tonegawa",
-            "TextENG": "``Arakawa-kun!? What happened! Is he alright!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156296,
-            "NamesJPN": "岡野",
-            "PreTextTags": "@vS26/59/TOKA_0150.",
-            "TextJPN": "「何がありましたかッ！」",
-            "NamesENG": "Okano",
-            "TextENG": "``What just happened!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156297,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1620.",
-            "TextJPN": "「ぼぼ、僕が聞きたいよッ！　……突然…ッ、……突然そいつが訳のわかんない事をわめきながら暴れ出したんだよ！」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``I-I-I was listening! ......Then Suddenly... ......suddenly he yelled a few things and started to act violent, I don't know the reason why!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156298,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1630.",
-            "TextJPN": "「…殺されるかと思ったぜッ！」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...I thought he was trying to kill me!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156299,
-            "TextJPN": "荒川の傷口を見る星野。",
-            "TextENG": "Hoshino sees the wound on Arakawa."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156300,
-            "NamesJPN": "岡野",
-            "PreTextTags": "@vS26/59/TOKA_0160.",
-            "TextJPN": "「お前がやったのか！？」",
-            "NamesENG": "Okano",
-            "TextENG": "``Did you do that!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156301,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1640.",
-            "TextJPN": "「んな訳ないでしょ！？　…そしたらそいつッ！　…突然、自分の喉を…掻きむしり出して…ッ！　……血が！　…血がッ！」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Do you actually think I could!? ...He...! ...Just suddenly, be-began scratching... his own throat...! ......Then Blood! ...Blood!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156302,
-            "NamesJPN": "星野",
-            "PreTextTags": "@vS26/58/THOS_0130.",
-            "TextJPN": "「……末期ね。……運びましょう。岡野！　…手を貸して！」",
-            "NamesENG": "Hoshino",
-            "TextENG": "``......He's at his deathbed. ......Let's carry him. Okano! ...Lend me a hand!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156303,
-            "NamesJPN": "利根川",
-            "PreTextTags": "@vS26/56/TTON_0700.",
-            "TextJPN": "「たたた、助かるんですかッ！？　ねぇ！　ねえ！？」",
-            "NamesENG": "Tonegawa",
-            "TextENG": "``Wi-Wi-Wi-Will he survive!? Hey! Hey!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156304,
-            "TextJPN": "荒川を担いで星野と岡野・利根川退場。",
-            "TextENG": "Okano and Hoshino carry Arakawa using their shoulders and leave, accompanied by Tonegawa."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156305,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_0960.",
-            "TextJPN": "「………突然、暴れ出して…？」",
-            "NamesENG": "Rika",
-            "TextENG": "``.........Suddenly, he just began to act violent...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156306,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1650.",
-            "TextJPN": "「あぁそうさッ！　…俺がやったんじゃないッ！　…あいつが自分で喉を掻きむしったんだッ！」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``That's what happened! ...I didn't do it! ...That guy tore out his own throat by himself!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156307,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1660.",
-            "TextJPN": "「…指紋でも何でも調べてくれよッ！　俺じゃない！」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...Examine his fingernails if you have to! It wasn't me!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156308,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_0970.",
-            "TextJPN": "「……誰もあなたが殺したなんて言ってないわ」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Nobody said you murdered him.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156309,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1670.",
-            "TextJPN": "「……こ、殺した！？　…し、しし、死ぬのかあいつ…ッ！？」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``......Mu-Murdered!? ...D-D-D-Do you think he'll die...!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156310,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_0980.",
-            "TextJPN": "「……あんな風になって助かると思う？」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Do you think he'll survive?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156311,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1330.",
-            "TextJPN": "「………一体……何があったって言うんですか……！」",
-            "NamesENG": "Mion",
-            "TextENG": "``.........Someone tell me what the hell happened......!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156312,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_0990.",
-            "TextJPN": "「…荒川さんが自分で喉を掻きむしって死んだ。…それが事実よ」",
-            "NamesENG": "Rika",
-            "TextENG": "``...Arakawa-san tore out his own throat and died. ...It's a fact.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156313,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1680.",
-            "TextJPN": "「なんでッ！　…どうしてそんな事を！」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Why! ...Why would he do such a thing!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156314,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1340.",
-            "TextJPN": "「私が聞きたいですよ！　…あんた見てたんでしょ！？」",
-            "NamesENG": "Mion",
-            "TextENG": "``I want to know! ...Did you see him do it!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156315,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1690.",
-            "TextJPN": "「……………………あいつは……。……あいつは……ッ！」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``........................That guy...... ......That guy......!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156316,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_1000.",
-            "TextJPN": "「……これが５人目の犠牲者なの？　…吉村さん」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Is this the fifth victim? ...Yoshimura-san.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156317,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1350.",
-            "TextJPN": "「…って……オヤシロさまの…祟りのこと…っすか……？」",
-            "NamesENG": "Mion",
-            "TextENG": "``...Was it...... Oyashiro-sama's... curse......?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156318,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_1010.",
-            "TextJPN": "「…いい取材になったでしょう。…写真は取れた？　…インタビューは録音できた？　……それともオフレコ？」",
-            "NamesENG": "Rika",
-            "TextENG": "``I thought you were here to collect data. ...Did you take any photographs? Record any interviews? ......Or was it all off the record?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156319,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1700.",
-            "TextJPN": "「ばばばばばば…ばかやろう……。…それどころじゃ……ねえだろ……！」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Hahhhh... you idiot...... ...Far from...... it......!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156320,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_1020.",
-            "TextJPN": "「…６人目の犠牲者は誰かしら？　…ねぇ吉村さん」",
-            "NamesENG": "Rika",
-            "TextENG": "``...I wonder who the sixth victim will be... Right, Yoshimura-san?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156321,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1360.",
-            "TextJPN": "「…やや、やめましょうよ梨花さん…！　…もうやめましょうよ…！」",
-            "NamesENG": "Mion",
-            "TextENG": "``...St-St-Stop it, Rika-san...! ...Just stop it already...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156322,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_1030.",
-            "TextJPN": "「…６人目は、…初めて建設省以外の人間になるかも知れませんよ？」",
-            "NamesENG": "Rika",
-            "TextENG": "``...The sixth person... I don't know, but ever since the first one, it's always been someone from the Ministry of Construction, right?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156323,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_1040.",
-            "TextJPN": "「…ねぇ吉村さん。……インタビューより…体験手記の方が効果的じゃありませんか…？」",
-            "NamesENG": "Rika",
-            "TextENG": "``...Hey, Yoshimura-san. ......Rather than an interview... don't you think an experience based report would be more effective...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156324,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1710.",
-            "TextJPN": "「わわわかったッ！　…オヤシロさまの事は忘れる！　…こんな取材はもうやめるよッ！　…旅館に帰ったら荷物をまとめる！」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``I got it! ...I'll forget about Oyashiro-sama! I'll stop collecting data! I'll just summarize it after I get back to the hotel!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156325,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_1050.",
-            "TextJPN": "「…いい心掛けね。……でも、…オヤシロさまは許してくれるかしらね…」",
-            "NamesENG": "Rika",
-            "TextENG": "``...That's a good intention. ......But... I wonder if Oyashiro-sama can be so forgiving...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156326,
-            "TextJPN": "緊迫の沈黙。そこへ星野がやって来る。",
-            "TextENG": "A tense silence. Hoshino comes over."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156327,
-            "NamesJPN": "星野",
-            "PreTextTags": "@vS26/58/THOS_0140.",
-            "TextJPN": "「古手梨花さん。…ちょっと来てもらえる？」",
-            "NamesENG": "Hoshino",
-            "TextENG": "``Rika Furude-san. ...Could you come over here for a moment?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156328,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_1060.",
-            "TextJPN": "「…………………はい」",
-            "NamesENG": "Rika",
-            "TextENG": "``.....................Yes.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156329,
-            "TextJPN": "最後の最後まで吉村を目で威嚇し、星野に伴われ退場する梨花。",
-            "TextENG": "Rika threatens Yoshimura with her eyes to the very end, and leaves accompanied by Hoshino."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156330,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1720.",
-            "TextJPN": "「は！　………はぁあぁあー………。……脅し過ぎだよ…あの子は…」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Hah! .........Hah hah hah......... ......She's too scary...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156331,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1370.",
-            "TextJPN": "「……荒川さん、……本当に死んじゃったんですか…」",
-            "NamesENG": "Mion",
-            "TextENG": "``......Arakawa-san...... did he really died...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156332,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1730.",
-            "TextJPN": "「………俺が知るかよッ！　突然だった！」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``.........I don't know! It was too sudden!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156333,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1740.",
-            "TextJPN": "「…突然わめき出して…傘をぶんぶん振り回しながら暴れて……！　……俺には何の事だか…ッ！」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...He suddenly began to shout... he rampaged while swinging an umbrella around......! I don't know what was that...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156334,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1380.",
-            "TextJPN": "「……オヤシロさまの祟りで死んだ、ってわけっすか…？」",
-            "NamesENG": "Mion",
-            "TextENG": "``......Do you think, he died from Oyashiro-sama's curse...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156335,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1750.",
-            "TextJPN": "「…確かにあいつは言ったよ！　…オヤシロさまって！　……こんな事って、…あるわけ…ッ！」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...He certainly told something... about Oyashiro-sama! ......Such a thing... it doesn't exist...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156336,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1390.",
-            "TextJPN": "「……本当に？　……本当にオヤシロさまって言ったんですか…？」",
-            "NamesENG": "Mion",
-            "TextENG": "``......Really? ......Did he really say Oyashiro-sama...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156337,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1760.",
-            "TextJPN": "「…言った！　…言ったよ！　…確かにッ！」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...He said it! He said it! I'm certain!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156338,
-            "TextJPN": "轟く雷鳴。",
-            "TextENG": "The thunder roars."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156339,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1770.",
-            "TextJPN": "「…畜生…！　……怖ぇえよ…怖ぇえよ！　…畜生……畜生…ッ！」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...Damn it...! ......I'm afraid... I'm afraid! ...Damn it...... Damn it...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156340,
-            "TextJPN": "吉村は俯きながらガタガタと震え、泣きかけている。",
-            "TextENG": "Yoshimura shakes and trembles while looking down, he is about to cry."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156341,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1400.",
-            "TextJPN": "「………ねー…吉村さん。…………あんたでしょ。…やったの」",
-            "NamesENG": "Mion",
-            "TextENG": "``.........Hey, Yoshimura-san. ............It was you. ...You did it.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156342,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1780.",
-            "TextJPN": "「はあッ！？　…馬鹿なこと言うなよ！　…俺がやるわけないだろッ！？」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Ha!? ...Don't say such a stupid thing! ...How could I have done it!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156343,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1410.",
-            "TextJPN": "「………警察が探してる通り魔殺人犯って、……あんたでしょ」",
-            "NamesENG": "Mion",
-            "TextENG": "``.........The street murderer who the police are looking for...... it's you.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156344,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1790.",
-            "TextJPN": "「何を言うんだよッ！　…怒るぞッ！」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``What did you say! ...You're making me angry!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156345,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1420.",
-            "TextJPN": "「…おっと、近寄んないで下さいよ！　…大声出せばすぐに刑事さんたちが来るんですからねー…」",
-            "NamesENG": "Mion",
-            "TextENG": "``...Uh-oh, please don't come near me! ...Otherwise the detectives and my friend will come over immediately if I shout out loud...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156346,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1800.",
-            "TextJPN": "「ふ、ふざけるなよッ！　…何だってんだよこいつ！　…俺が何をしたって言うんだよ！」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``S-Stop messing around! ...What the hell was that?! ...What did I do to deserve this?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156347,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1430.",
-            "TextJPN": "「…さっきの余裕ある態度と正反対じゃないですか」",
-            "NamesENG": "Mion",
-            "TextENG": "``...Your attitude is the complete opposite from a little while ago.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156348,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1440.",
-            "TextJPN": "「……教えて下さいよ。…あんた何者ですか？　……どうして私の事、何から何まで知ってるんですか」",
-            "NamesENG": "Mion",
-            "TextENG": "``......Please tell me. ...Who are you? ......And why, why do you know anything and everything about me?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156349,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1810.",
-            "TextJPN": "「だから何の話だよッ！　…さっきのヤツもこいつも…！　……どうなってんだよ！？」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Anyone could have told you that story! ...It could have been this guy or that guy a little while ago...! What the hell is going on!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156350,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1820.",
-            "TextJPN": "「…狂ってるよ！　…ここ、…狂ってやがるよッ！　…わああぁああぁああッ！」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...You're insane! ...Y-Y-You're insane! ...Haaaaaaaah!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156351,
-            "TextJPN": "膝に突っ伏して号泣する吉村。魅音は淡々としている。",
-            "TextENG": "Yoshimura falls to his knees and begins crying. Mion is calm and composed."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156352,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1450.",
-            "TextJPN": "「…変なのはあんたの方じゃん…！　……だからあんた、何者なのさ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``...You're the one acting strange...! ......I mean, who the hell are you?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156353,
-            "TextJPN": "魅音の頭にずきんと激痛が走り始める。",
-            "TextENG": "A cowl and acute pain begins to run through Mion's head."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156354,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1460.",
-            "TextJPN": "「…ぅあ、……く…！　……頭……ッ、……うう…ッ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``...Uaa...... Khh...! ......My head...... ......Uuu...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156355,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1830.",
-            "TextJPN": "「…はははははは、…あーっはっはっはっはっはっはッ！」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...Ha ha ha ha ha ha... ahh ha ha ha ha ha ha!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156356,
-            "TextJPN": "吉村の泣き声はいつの間にか笑い声に変わっている。",
-            "TextENG": "Before Mion realized, the cries of Yoshimura changed to laughter all too soon."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156357,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1470.",
-            "TextJPN": "「……よし……むら……！？」",
-            "NamesENG": "Mion",
-            "TextENG": "``......Yoshi......mura......!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156358,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1840.",
-            "TextJPN": "「…私が何者か？　…何度も言ってるでしょう。吉村ですよ。…フリーライターの吉村」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...Who am I? ...I've told you many times. I'm Yoshimura. ...Yoshimura the freelance writer.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156359,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1480.",
-            "TextJPN": "「…ち……近寄んないで…ッ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``...D-Don't come near me...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156360,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1850.",
-            "TextJPN": "「荒川さんをやったのは私かって？　……はははは、はっはははははは！」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Would you rather have Arakawa-san than me? ......Ha ha ha ha, ahh ha ha ha ha ha ha ha!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156361,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1490.",
-            "TextJPN": "「だ、……誰かぁあぁああああッ！　来てぇええぇえええッ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``S-Somebody!!! Help!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156362,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1860.",
-            "TextJPN": "「………もう少し大きい声で怒鳴らないと来てもらえないんじゃあないですか？　…園崎魅音さん」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``.........Won't you trying shouting that a little more louder? ...Mion Sonozaki-san.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156363,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1500.",
-            "TextJPN": "「刑事さぁあぁあんッ！　…梨花さぁああぁあ、ッ！？　…げほッ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Detectives! ...Rika-saaaaaan!? ...*Cough*!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156364,
-            "TextJPN": "吉村が、すっと手をかざすと魅音、喉を詰まらせたように咳き込む。",
-            "TextENG": "Yoshimura hold out his hands towards Mion, she tries to clear her clogged throat by coughing."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156365,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1870.",
-            "TextJPN": "「はしたない。…年頃のお嬢さんが無闇に大声を出すもんではありませんよ」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``How vulgar. ...A young lady of age such as yourself shouldn't be shouting so recklessly.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156366,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1510.",
-            "TextJPN": "「…な、なんで！？　……みんなどこ行っちゃったの！？」",
-            "NamesENG": "Mion",
-            "TextENG": "``...W-Why!? ......Where has everyone gone!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156367,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1880.",
-            "TextJPN": "「最初のあなたの質問に答えましょう。…荒川さんを殺したのは私か？　……ふっふふふふ！　…答えはイエスです！」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Let's answer your first question. ...Is it me who killed Arakawa-san? ......Hee hee hee hee hee! ...The answer is yes!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156368,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1520.",
-            "TextJPN": "「……なッ……！」",
-            "NamesENG": "Mion",
-            "TextENG": "``......Ah......!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156369,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1890.",
-            "TextJPN": "「次の質問に答えましょう。…通り魔殺人犯は私か？　……それもイエスです！」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Let's answer the next question. ...Is the street murderer me? ......That is also yes!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156370,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1530.",
-            "TextJPN": "「……いや……近寄らないで……ッ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``......No...... don't come near me......!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156371,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1900.",
-            "TextJPN": "「どうしてあなたの事を何から何まで知っているか？　……イエス・ノーで答えられない質問は遠慮させてもらいますよ」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Why do I know anything and everything about you? ......I'll refrain from that question since it can't be answered with a yes or a no.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156372,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1540.",
-            "TextJPN": "「…な……何で殺すの…！？」",
-            "NamesENG": "Mion",
-            "TextENG": "``...Wh-Why did you kill him...!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156373,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1910.",
-            "TextJPN": "「…理由が必要ですか？　…これは面白い。……つまり、理由如何によっては許される殺しもあると、…そう仰るんですね…？」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...Is a reason necessary? ...This is interesting. ......In other words, if you were asked why did you kill someone... what would you say...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156374,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1550.",
-            "TextJPN": "「ひ……人殺しぃいぃいッ！　……ふぐッ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Mu-Murderer! ......Aghhrr!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156375,
-            "TextJPN": "再び吉村が手をかざすと魅音、喉を詰まらせたように咳き込む。",
-            "TextENG": "Yoshimura continues holding out his hands towards Mion, she again coughs trying to clear her clogged throat."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156376,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1920.",
-            "TextJPN": "「……はしたないからおやめなさい。…叫ぶのは」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``......Abandon your vulgarness. ...This crying, too.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156377,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1560.",
-            "TextJPN": "「た、…たたた…助けて……ッ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``H-H-H-H-Help......!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156378,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1930.",
-            "TextJPN": "「……仕方がないじゃないですか。…あなたは雛見沢なんか田舎だから嫌だと仰られる」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``......You don't have a choice. ...You say you don't like Hinamizawa because it's in the country.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156379,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1940.",
-            "TextJPN": "「…都会がいい。東京がいい。…そう仰っておられる。…それじゃあ駄目ですよ。オヤシロさまは許してくれません」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...The city is good. Tokyo is good. ...If you say so. ...But it is no use. Because Oyashiro-sama doesn't permit that.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156380,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1570.",
-            "TextJPN": "「…オ、…オヤシロさま……ッ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``...O-Oyashiro-sama......!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156381,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1950.",
-            "TextJPN": "「…死んだお婆ちゃんにあれだけ脅されたのに…。……東京に心を奪われてしまった。…情けない」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...You were even threatened so much by your dead grandma... ......But you lost your mind and became fascinated with Tokyo. ...You should feel ashamed.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156382,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1580.",
-            "TextJPN": "「ここここ、殺さないで…ッ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``D-D-D-D-Don't kill me...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156383,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1960.",
-            "TextJPN": "「建設省の皆さんはよそ者ですからね。…オヤシロさまの事をよく知らなかったので多少、大目にも見ましたが」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``All the people from the Ministry of Construction are outsiders. Since they didn't know Oyashiro-sama that well,  they were not taking him seriously.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156384,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1970.",
-            "TextJPN": "「…あなたには、…雛見沢の人間には…容赦しませんよ」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...But you... you're a person from Hinamizawa... I can't forgive you.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156385,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1590.",
-            "TextJPN": "「ややや、やめて殺さないで…許して……！」",
-            "NamesENG": "Mion",
-            "TextENG": "``S-S-S-Stop, don't kill me... forgive me......!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156386,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1980.",
-            "TextJPN": "「…許して……ほしいですか…？」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...Forgiveness...... do you want that...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156387,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1600.",
-            "TextJPN": "「は、ははははい！　…はいッ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Y-Y-Y-Y-Yes! ...Yes!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156388,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1990.",
-            "TextJPN": "「…お父さんに言われたでしょう。…ハイは１回で充分だと。…２回言うと誠意が伝わりませんよ？」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...Your father should have told you.. ...Saying once should be enough. Saying it twice won't convey your sincerity.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156389,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1610.",
-            "TextJPN": "「ごご、ごめんなさい…ッ！　…はは、はい！」",
-            "NamesENG": "Mion",
-            "TextENG": "``I-I-I'm sorry...! ...Y-Y-Yes!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156390,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_2000.",
-            "TextJPN": "「…もう今後一切、東京に憧れませんか？」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...In the future, will you no longer long for Tokyo anymore?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156391,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1620.",
-            "TextJPN": "「はは、はいッ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Y-Y-Yes!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156392,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_2010.",
-            "TextJPN": "「…雛見沢に生き、雛見沢に死ぬ事を誓えますか？」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...Do you swear that you will live and die in Hinamizawa?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156393,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1630.",
-            "TextJPN": "「はいッ！　…はいッ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Yes! ...Yes!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156394,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_2020.",
-            "TextJPN": "「返事は１回で結構！」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``One is enough!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156395,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1640.",
-            "TextJPN": "「すすす、すみませんッ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``I-I-I-I'm sorry!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156396,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_2030.",
-            "TextJPN": "「…ダムなんて到底受け入れられませんね？　…反対しますね？」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...Will you no longer accept the possibility of a dam? ...Will you oppose it?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156397,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1650.",
-            "TextJPN": "「は…、はいッ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Y-Yes!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156398,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_2040.",
-            "TextJPN": "「…素晴らしい。……あなたは郷土思いの本当に素晴らしいお嬢さんだ」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...Wonderful. ......You truly are a splendid young lady who loves her hometown like I thought.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156399,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_2050.",
-            "TextJPN": "「……わかりました。…あなたが今の誓いを生涯守れると言うならば…今回は特別に！　……大目に見ない事もありません」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``......I now understand. ...And since you have pledged an oath to keep your promise throughout your life... this time particularly! ......I will overlook what you have done.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156400,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1660.",
-            "TextJPN": "「あああ、ありがとうございますッ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Th-Th-Th-Thank you!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156401,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_2060.",
-            "TextJPN": "「……ただし、…そのままという訳には行きません」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``......But... you can't go just yet.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156402,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_2070.",
-            "TextJPN": "「……あなたのお腹の中に真っ黒にこびりついている、雛見沢を捨てようとする悪い汚れを綺麗に吐き出さなくてはなりません」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``......That deep black stuck to your stomach, it must be cleaned and thrown up so that abominable filth can never harm Hinamizawa.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156403,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1670.",
-            "TextJPN": "「な！　何でもいいですッ！　…許してさえもらえれば何でも構いません！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Ah! I'll do anything! ...If you forgive me, I don't mind!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156404,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_2080.",
-            "TextJPN": "「……痛いですよ？　…苦しいですよ？　……耐えられなければ、…そのまま死んでしまうかも知れません。……よろしいですね？」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``......Even if it hurts? ...Even if it's painful? ......If you can't endure it, I don't know, but you may die. ......Is that alright?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156405,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1680.",
-            "TextJPN": "「え、……あの……痛いんですか……？」",
-            "NamesENG": "Mion",
-            "TextENG": "``Eh...... umm...... will it hurt......?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156406,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_2090.",
-            "TextJPN": "「その痛みを乗り越えてこそ、…あなたは雛見沢の人間に戻れるんですよ。…………行きますよ」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``If you overcome the pain... you will return as a person of Hinamizawa. ............Let us go.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156407,
-            "TextJPN": "吉村が手をかざすと、魅音の腹に激痛が走る。たまらず悲鳴をあげる魅音。",
-            "TextENG": "Yoshimura hold out his hand, and a severe pain runs through Mion's belly. Mion finds it unbearable, falls to the ground and screams."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156408,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1690.",
-            "TextJPN": "「やッ…やめて下さい…ッ！　……ぃぃぃいいいぃ…ッ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Pl-Please stop...! ……I-i-iiii-i...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156409,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_2100.",
-            "TextJPN": "「…我慢なさい。…バチだと思って受け入れる事です」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...Endure it. ...Accept this punishment.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156410,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1700.",
-            "TextJPN": "「ぅがあああがああ…ッ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Ghaaaaaaa...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156411,
-            "TextJPN": "激痛に呻く魅音。やがて、荒川の落とした傘を手によろよろと立ち上がる。",
-            "TextENG": "Mion groans in severe pain. Eventually, she unsteadily stands up with the umbrella Arakawa dropped in her hands."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156412,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_2110.",
-            "TextJPN": "「……何の真似ですか…？」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``......What imitation is this...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156413,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1710.",
-            "TextJPN": "「ぐおぉおおぉおお…ッ！　……こ……殺して…やる…ッ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Hhhhhhhhaaaaaaa...! ......I-I...... will kill you......!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156414,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_2120.",
-            "TextJPN": "「…ふ、……ははははははは！　私を殺す？　…はっははははははは！」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...Hee...... ha ha ha ha ha ha ha! Do you intend to kill me? ...Ahh ha ha ha ha ha ha!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156415,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1720.",
-            "TextJPN": "「がぁああぁあ…ッ！　…今すぐやめろ。…やめるんだよこれッ！　今すぐッ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Ahhhhhhhhh...! ...Stop that right now. ...I told you to stop it! Right now!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156416,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_2130.",
-            "TextJPN": "「…やめたらあなたの中の汚れが出て行きませんよ」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...The filth won't come out if I stop.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156417,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1730.",
-            "TextJPN": "「やめろ…。やめろぉおぉ…ッ！　……やめないと殺すぞ…ッ！　…殺すぞぉおおッ！！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Stop... Stop it...! ......I'll kill you if you don't stop...! ...I'll kill you!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156418,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_2140.",
-            "TextJPN": "「…残念ですねぇ。…結局あなたは駄目だった。…残念ですよ」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...I'm disappointed. ...You were useless after all. ...How unfortunate.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156419,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1740.",
-            "TextJPN": "「おおおぉおおおぉおおッ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Oooooooooo!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156420,
-            "TextJPN": "雄叫びを上げながら傘で殴り掛かる魅音。吉村は難なく避ける。",
-            "TextENG": "Mion lifts the umbrella, and tries to hit him while raising a roar. Yoshimura avoids it without any difficulty."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156421,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_2150.",
-            "TextJPN": "「…死んでしまいなさい。体中の汚物を吐き尽くして！　…汚物の海に這いつくばりながら死ぬといい！　…荒川君のようにッ！」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...Now die. Vomit that filth from your body! ...You will die groveling in a sea of filth! ...Just like Arakawa-kun!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156422,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1750.",
-            "TextJPN": "「ぁがあッ！　……登ってくる…！　……登ってくる…ッ！？」",
-            "NamesENG": "Mion",
-            "TextENG": "``Ghaa! ...Something's climbing...! ......Something's climbing...!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156423,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_2160.",
-            "TextJPN": "「…胃から食道あたりまで登ってきたようですね。……あなたのお腹の底の汚れがウジとなって登ってきてるんですよ」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...It seems to have climbed from your stomach to your esophagus area. ...The dirt at the bottom of your stomach which has been climbing is maggots.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156424,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1760.",
-            "TextJPN": "「ウ、…ウジぃ！？　…いやぁああぁぁあああぁああッ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Ma-Maggots!? No... Nooo...! Noooooooooooo!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156425,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_2170.",
-            "TextJPN": "「さぁ！　吐き出してしまいなさいッ！　さぁ！　さあ！」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Come on! Spit them out! Come on! Come on!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156426,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1770.",
-            "TextJPN": "「嫌！　嫌ッ！　嫌ぁああぁああッ！　助けて誰かッ！　梨花さん！　…梨花さぁああぁあんッ！　…ああぁぁあぁぁあああああッ！　の、喉がぁッ、か、かゆいっぃいっ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``No! No! Nooooooo! Someone help me! Rika-san! ...Rika-saaaaaan! Ahhhhhhhhhhh! M-My throat, it-it's so itchy!``"
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "#7 殺シテヤル…",
+		"ENG": "#7 / I'll Kill You..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156290,
+		"TextJPN": "フラッシュした後、暗転。@k@r雷鳴が轟く。",
+		"TextENG": "After the flash, the area turns dark.@k@rThunder roars."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156291,
+		"TextJPN": "しばらくの沈黙。@k@r舞台は真っ暗のまま。@k@r無線の声が聞こえる。",
+		"TextENG": "Then silence.@k@rThe stage remains dark.@k@rAs the voice from a radio is heard."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156292,
+		"NamesJPN": "声",
+		"PreTextTags": "@vS26/57/TNIT_0010.",
+		"TextJPN": "「…本部より全車へ。……部外者の排除が終了次第、突入する。…繰り返す、部外者の排除が終了次第、突入する」",
+		"NamesENG": "Voice",
+		"TextENG": "``...Headquarters to all cars. ......It will end as soon as all outsiders are eliminated, move out. ...I repeat, it will end as soon as all outsiders are eliminated, move out.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156293,
+		"TextJPN": "落雷の音。@k徐々に舞台明るくなる。",
+		"TextENG": "The sound of thunder in the distance.@k@rThe stage gradually becomes brighter."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156294,
+		"TextJPN": "喉元と指を血だらけにした荒川が倒れて、痙攣している。@k@rどうしていいか判らずおろおろする吉村。@k@r星野・岡野・魅音・梨花・利根川が戻ってくる。",
+		"TextENG": "At the stage center Arakawa falls down in convulsion,@rhis throat and fingers covered in blood.@k@rYoshimura is shaken up,@rhe doesn't know what to do.@k@rHoshino, Okano, Mion, Rika and Tonegawa@rcome back."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156295,
+		"NamesJPN": "利根川",
+		"PreTextTags": "@vS26/56/TTON_0690.",
+		"TextJPN": "「荒川君ッ！？　どうしたんだ！　大丈夫かッ！？」",
+		"NamesENG": "Tonegawa",
+		"TextENG": "``Arakawa-kun!? What happened! Is he alright!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156296,
+		"NamesJPN": "岡野",
+		"PreTextTags": "@vS26/59/TOKA_0150.",
+		"TextJPN": "「何がありましたかッ！」",
+		"NamesENG": "Okano",
+		"TextENG": "``What just happened!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156297,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1620.",
+		"TextJPN": "「ぼぼ、僕が聞きたいよッ！　……突然…ッ、……突然そいつが訳のわかんない事をわめきながら暴れ出したんだよ！」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``I-I-I was listening! ......Then Suddenly... ......suddenly he yelled a few things and started to act violent, I don't know the reason why!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156298,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1630.",
+		"TextJPN": "「…殺されるかと思ったぜッ！」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...I thought he was trying to kill me!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156299,
+		"TextJPN": "荒川の傷口を見る星野。",
+		"TextENG": "Hoshino sees the wound on Arakawa."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156300,
+		"NamesJPN": "岡野",
+		"PreTextTags": "@vS26/59/TOKA_0160.",
+		"TextJPN": "「お前がやったのか！？」",
+		"NamesENG": "Okano",
+		"TextENG": "``Did you do that!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156301,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1640.",
+		"TextJPN": "「んな訳ないでしょ！？　…そしたらそいつッ！　…突然、自分の喉を…掻きむしり出して…ッ！　……血が！　…血がッ！」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Do you actually think I could!? ...He...! ...Just suddenly, be-began scratching... his own throat...! ......Then Blood! ...Blood!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156302,
+		"NamesJPN": "星野",
+		"PreTextTags": "@vS26/58/THOS_0130.",
+		"TextJPN": "「……末期ね。……運びましょう。岡野！　…手を貸して！」",
+		"NamesENG": "Hoshino",
+		"TextENG": "``......He's at his deathbed. ......Let's carry him. Okano! ...Lend me a hand!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156303,
+		"NamesJPN": "利根川",
+		"PreTextTags": "@vS26/56/TTON_0700.",
+		"TextJPN": "「たたた、助かるんですかッ！？　ねぇ！　ねえ！？」",
+		"NamesENG": "Tonegawa",
+		"TextENG": "``Wi-Wi-Wi-Will he survive!? Hey! Hey!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156304,
+		"TextJPN": "荒川を担いで星野と岡野・利根川退場。",
+		"TextENG": "Okano and Hoshino carry Arakawa using their shoulders and leave, accompanied by Tonegawa."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156305,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_0960.",
+		"TextJPN": "「………突然、暴れ出して…？」",
+		"NamesENG": "Rika",
+		"TextENG": "``.........Suddenly, he just began to act violent...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156306,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1650.",
+		"TextJPN": "「あぁそうさッ！　…俺がやったんじゃないッ！　…あいつが自分で喉を掻きむしったんだッ！」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``That's what happened! ...I didn't do it! ...That guy tore out his own throat by himself!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156307,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1660.",
+		"TextJPN": "「…指紋でも何でも調べてくれよッ！　俺じゃない！」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...Examine his fingernails if you have to! It wasn't me!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156308,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_0970.",
+		"TextJPN": "「……誰もあなたが殺したなんて言ってないわ」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Nobody said you murdered him.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156309,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1670.",
+		"TextJPN": "「……こ、殺した！？　…し、しし、死ぬのかあいつ…ッ！？」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``......Mu-Murdered!? ...D-D-D-Do you think he'll die...!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156310,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_0980.",
+		"TextJPN": "「……あんな風になって助かると思う？」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Do you think he'll survive?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156311,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1330.",
+		"TextJPN": "「………一体……何があったって言うんですか……！」",
+		"NamesENG": "Mion",
+		"TextENG": "``.........Someone tell me what the hell happened......!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156312,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_0990.",
+		"TextJPN": "「…荒川さんが自分で喉を掻きむしって死んだ。…それが事実よ」",
+		"NamesENG": "Rika",
+		"TextENG": "``...Arakawa-san tore out his own throat and died. ...It's a fact.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156313,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1680.",
+		"TextJPN": "「なんでッ！　…どうしてそんな事を！」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Why! ...Why would he do such a thing!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156314,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1340.",
+		"TextJPN": "「私が聞きたいですよ！　…あんた見てたんでしょ！？」",
+		"NamesENG": "Mion",
+		"TextENG": "``I want to know! ...Did you see him do it!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156315,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1690.",
+		"TextJPN": "「……………………あいつは……。……あいつは……ッ！」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``........................That guy...... ......That guy......!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156316,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_1000.",
+		"TextJPN": "「……これが５人目の犠牲者なの？　…吉村さん」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Is this the fifth victim? ...Yoshimura-san.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156317,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1350.",
+		"TextJPN": "「…って……オヤシロさまの…祟りのこと…っすか……？」",
+		"NamesENG": "Mion",
+		"TextENG": "``...Was it...... Oyashiro-sama's... curse......?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156318,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_1010.",
+		"TextJPN": "「…いい取材になったでしょう。…写真は取れた？　…インタビューは録音できた？　……それともオフレコ？」",
+		"NamesENG": "Rika",
+		"TextENG": "``I thought you were here to collect data. ...Did you take any photographs? Record any interviews? ......Or was it all off the record?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156319,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1700.",
+		"TextJPN": "「ばばばばばば…ばかやろう……。…それどころじゃ……ねえだろ……！」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Hahhhh... you idiot...... ...Far from...... it......!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156320,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_1020.",
+		"TextJPN": "「…６人目の犠牲者は誰かしら？　…ねぇ吉村さん」",
+		"NamesENG": "Rika",
+		"TextENG": "``...I wonder who the sixth victim will be... Right, Yoshimura-san?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156321,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1360.",
+		"TextJPN": "「…やや、やめましょうよ梨花さん…！　…もうやめましょうよ…！」",
+		"NamesENG": "Mion",
+		"TextENG": "``...St-St-Stop it, Rika-san...! ...Just stop it already...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156322,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_1030.",
+		"TextJPN": "「…６人目は、…初めて建設省以外の人間になるかも知れませんよ？」",
+		"NamesENG": "Rika",
+		"TextENG": "``...The sixth person... I don't know, but ever since the first one, it's always been someone from the Ministry of Construction, right?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156323,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_1040.",
+		"TextJPN": "「…ねぇ吉村さん。……インタビューより…体験手記の方が効果的じゃありませんか…？」",
+		"NamesENG": "Rika",
+		"TextENG": "``...Hey, Yoshimura-san. ......Rather than an interview... don't you think an experience based report would be more effective...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156324,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1710.",
+		"TextJPN": "「わわわかったッ！　…オヤシロさまの事は忘れる！　…こんな取材はもうやめるよッ！　…旅館に帰ったら荷物をまとめる！」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``I got it! ...I'll forget about Oyashiro-sama! I'll stop collecting data! I'll just summarize it after I get back to the hotel!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156325,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_1050.",
+		"TextJPN": "「…いい心掛けね。……でも、…オヤシロさまは許してくれるかしらね…」",
+		"NamesENG": "Rika",
+		"TextENG": "``...That's a good intention. ......But... I wonder if Oyashiro-sama can be so forgiving...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156326,
+		"TextJPN": "緊迫の沈黙。そこへ星野がやって来る。",
+		"TextENG": "A tense silence. Hoshino comes over."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156327,
+		"NamesJPN": "星野",
+		"PreTextTags": "@vS26/58/THOS_0140.",
+		"TextJPN": "「古手梨花さん。…ちょっと来てもらえる？」",
+		"NamesENG": "Hoshino",
+		"TextENG": "``Rika Furude-san. ...Could you come over here for a moment?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156328,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_1060.",
+		"TextJPN": "「…………………はい」",
+		"NamesENG": "Rika",
+		"TextENG": "``.....................Yes.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156329,
+		"TextJPN": "最後の最後まで吉村を目で威嚇し、星野に伴われ退場する梨花。",
+		"TextENG": "Rika threatens Yoshimura with her eyes to the very end, and leaves accompanied by Hoshino."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156330,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1720.",
+		"TextJPN": "「は！　………はぁあぁあー………。……脅し過ぎだよ…あの子は…」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Hah! .........Hah hah hah......... ......She's too scary...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156331,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1370.",
+		"TextJPN": "「……荒川さん、……本当に死んじゃったんですか…」",
+		"NamesENG": "Mion",
+		"TextENG": "``......Arakawa-san...... did he really died...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156332,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1730.",
+		"TextJPN": "「………俺が知るかよッ！　突然だった！」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``.........I don't know! It was too sudden!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156333,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1740.",
+		"TextJPN": "「…突然わめき出して…傘をぶんぶん振り回しながら暴れて……！　……俺には何の事だか…ッ！」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...He suddenly began to shout... he rampaged while swinging an umbrella around......! I don't know what was that...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156334,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1380.",
+		"TextJPN": "「……オヤシロさまの祟りで死んだ、ってわけっすか…？」",
+		"NamesENG": "Mion",
+		"TextENG": "``......Do you think, he died from Oyashiro-sama's curse...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156335,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1750.",
+		"TextJPN": "「…確かにあいつは言ったよ！　…オヤシロさまって！　……こんな事って、…あるわけ…ッ！」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...He certainly told something... about Oyashiro-sama! ......Such a thing... it doesn't exist...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156336,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1390.",
+		"TextJPN": "「……本当に？　……本当にオヤシロさまって言ったんですか…？」",
+		"NamesENG": "Mion",
+		"TextENG": "``......Really? ......Did he really say Oyashiro-sama...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156337,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1760.",
+		"TextJPN": "「…言った！　…言ったよ！　…確かにッ！」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...He said it! He said it! I'm certain!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156338,
+		"TextJPN": "轟く雷鳴。",
+		"TextENG": "The thunder roars."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156339,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1770.",
+		"TextJPN": "「…畜生…！　……怖ぇえよ…怖ぇえよ！　…畜生……畜生…ッ！」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...Damn it...! ......I'm afraid... I'm afraid! ...Damn it...... Damn it...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156340,
+		"TextJPN": "吉村は俯きながらガタガタと震え、泣きかけている。",
+		"TextENG": "Yoshimura shakes and trembles while looking down, he is about to cry."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156341,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1400.",
+		"TextJPN": "「………ねー…吉村さん。…………あんたでしょ。…やったの」",
+		"NamesENG": "Mion",
+		"TextENG": "``.........Hey, Yoshimura-san. ............It was you. ...You did it.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156342,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1780.",
+		"TextJPN": "「はあッ！？　…馬鹿なこと言うなよ！　…俺がやるわけないだろッ！？」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Ha!? ...Don't say such a stupid thing! ...How could I have done it!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156343,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1410.",
+		"TextJPN": "「………警察が探してる通り魔殺人犯って、……あんたでしょ」",
+		"NamesENG": "Mion",
+		"TextENG": "``.........The street murderer who the police are looking for...... it's you.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156344,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1790.",
+		"TextJPN": "「何を言うんだよッ！　…怒るぞッ！」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``What did you say! ...You're making me angry!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156345,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1420.",
+		"TextJPN": "「…おっと、近寄んないで下さいよ！　…大声出せばすぐに刑事さんたちが来るんですからねー…」",
+		"NamesENG": "Mion",
+		"TextENG": "``...Uh-oh, please don't come near me! ...Otherwise the detectives and my friend will come over immediately if I shout out loud...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156346,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1800.",
+		"TextJPN": "「ふ、ふざけるなよッ！　…何だってんだよこいつ！　…俺が何をしたって言うんだよ！」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``S-Stop messing around! ...What the hell was that?! ...What did I do to deserve this?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156347,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1430.",
+		"TextJPN": "「…さっきの余裕ある態度と正反対じゃないですか」",
+		"NamesENG": "Mion",
+		"TextENG": "``...Your attitude is the complete opposite from a little while ago.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156348,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1440.",
+		"TextJPN": "「……教えて下さいよ。…あんた何者ですか？　……どうして私の事、何から何まで知ってるんですか」",
+		"NamesENG": "Mion",
+		"TextENG": "``......Please tell me. ...Who are you? ......And why, why do you know anything and everything about me?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156349,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1810.",
+		"TextJPN": "「だから何の話だよッ！　…さっきのヤツもこいつも…！　……どうなってんだよ！？」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Anyone could have told you that story! ...It could have been this guy or that guy a little while ago...! What the hell is going on!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156350,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1820.",
+		"TextJPN": "「…狂ってるよ！　…ここ、…狂ってやがるよッ！　…わああぁああぁああッ！」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...You're insane! ...Y-Y-You're insane! ...Haaaaaaaah!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156351,
+		"TextJPN": "膝に突っ伏して号泣する吉村。魅音は淡々としている。",
+		"TextENG": "Yoshimura falls to his knees and begins crying. Mion is calm and composed."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156352,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1450.",
+		"TextJPN": "「…変なのはあんたの方じゃん…！　……だからあんた、何者なのさ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``...You're the one acting strange...! ......I mean, who the hell are you?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156353,
+		"TextJPN": "魅音の頭にずきんと激痛が走り始める。",
+		"TextENG": "A cowl and acute pain begins to run through Mion's head."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156354,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1460.",
+		"TextJPN": "「…ぅあ、……く…！　……頭……ッ、……うう…ッ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``...Uaa...... Khh...! ......My head...... ......Uuu...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156355,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1830.",
+		"TextJPN": "「…はははははは、…あーっはっはっはっはっはっはッ！」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...Ha ha ha ha ha ha... ahh ha ha ha ha ha ha!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156356,
+		"TextJPN": "吉村の泣き声はいつの間にか笑い声に変わっている。",
+		"TextENG": "Before Mion realized, the cries of Yoshimura changed to laughter all too soon."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156357,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1470.",
+		"TextJPN": "「……よし……むら……！？」",
+		"NamesENG": "Mion",
+		"TextENG": "``......Yoshi......mura......!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156358,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1840.",
+		"TextJPN": "「…私が何者か？　…何度も言ってるでしょう。吉村ですよ。…フリーライターの吉村」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...Who am I? ...I've told you many times. I'm Yoshimura. ...Yoshimura the freelance writer.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156359,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1480.",
+		"TextJPN": "「…ち……近寄んないで…ッ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``...D-Don't come near me...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156360,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1850.",
+		"TextJPN": "「荒川さんをやったのは私かって？　……はははは、はっはははははは！」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Would you rather have Arakawa-san than me? ......Ha ha ha ha, ahh ha ha ha ha ha ha ha!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156361,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1490.",
+		"TextJPN": "「だ、……誰かぁあぁああああッ！　来てぇええぇえええッ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``S-Somebody!!! Help!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156362,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1860.",
+		"TextJPN": "「………もう少し大きい声で怒鳴らないと来てもらえないんじゃあないですか？　…園崎魅音さん」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``.........Won't you trying shouting that a little more louder? ...Mion Sonozaki-san.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156363,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1500.",
+		"TextJPN": "「刑事さぁあぁあんッ！　…梨花さぁああぁあ、ッ！？　…げほッ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Detectives! ...Rika-saaaaaan!? ...*Cough*!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156364,
+		"TextJPN": "吉村が、すっと手をかざすと魅音、喉を詰まらせたように咳き込む。",
+		"TextENG": "Yoshimura hold out his hands towards Mion, she tries to clear her clogged throat by coughing."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156365,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1870.",
+		"TextJPN": "「はしたない。…年頃のお嬢さんが無闇に大声を出すもんではありませんよ」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``How vulgar. ...A young lady of age such as yourself shouldn't be shouting so recklessly.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156366,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1510.",
+		"TextJPN": "「…な、なんで！？　……みんなどこ行っちゃったの！？」",
+		"NamesENG": "Mion",
+		"TextENG": "``...W-Why!? ......Where has everyone gone!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156367,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1880.",
+		"TextJPN": "「最初のあなたの質問に答えましょう。…荒川さんを殺したのは私か？　……ふっふふふふ！　…答えはイエスです！」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Let's answer your first question. ...Is it me who killed Arakawa-san? ......Hee hee hee hee hee! ...The answer is yes!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156368,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1520.",
+		"TextJPN": "「……なッ……！」",
+		"NamesENG": "Mion",
+		"TextENG": "``......Ah......!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156369,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1890.",
+		"TextJPN": "「次の質問に答えましょう。…通り魔殺人犯は私か？　……それもイエスです！」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Let's answer the next question. ...Is the street murderer me? ......That is also yes!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156370,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1530.",
+		"TextJPN": "「……いや……近寄らないで……ッ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``......No...... don't come near me......!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156371,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1900.",
+		"TextJPN": "「どうしてあなたの事を何から何まで知っているか？　……イエス・ノーで答えられない質問は遠慮させてもらいますよ」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Why do I know anything and everything about you? ......I'll refrain from that question since it can't be answered with a yes or a no.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156372,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1540.",
+		"TextJPN": "「…な……何で殺すの…！？」",
+		"NamesENG": "Mion",
+		"TextENG": "``...Wh-Why did you kill him...!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156373,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1910.",
+		"TextJPN": "「…理由が必要ですか？　…これは面白い。……つまり、理由如何によっては許される殺しもあると、…そう仰るんですね…？」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...Is a reason necessary? ...This is interesting. ......In other words, if you were asked why did you kill someone... what would you say...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156374,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1550.",
+		"TextJPN": "「ひ……人殺しぃいぃいッ！　……ふぐッ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Mu-Murderer! ......Aghhrr!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156375,
+		"TextJPN": "再び吉村が手をかざすと魅音、喉を詰まらせたように咳き込む。",
+		"TextENG": "Yoshimura continues holding out his hands towards Mion, she again coughs trying to clear her clogged throat."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156376,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1920.",
+		"TextJPN": "「……はしたないからおやめなさい。…叫ぶのは」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``......Abandon your vulgarness. ...This crying, too.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156377,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1560.",
+		"TextJPN": "「た、…たたた…助けて……ッ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``H-H-H-H-Help......!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156378,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1930.",
+		"TextJPN": "「……仕方がないじゃないですか。…あなたは雛見沢なんか田舎だから嫌だと仰られる」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``......You don't have a choice. ...You say you don't like Hinamizawa because it's in the country.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156379,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1940.",
+		"TextJPN": "「…都会がいい。東京がいい。…そう仰っておられる。…それじゃあ駄目ですよ。オヤシロさまは許してくれません」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...The city is good. Tokyo is good. ...If you say so. ...But it is no use. Because Oyashiro-sama doesn't permit that.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156380,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1570.",
+		"TextJPN": "「…オ、…オヤシロさま……ッ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``...O-Oyashiro-sama......!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156381,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1950.",
+		"TextJPN": "「…死んだお婆ちゃんにあれだけ脅されたのに…。……東京に心を奪われてしまった。…情けない」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...You were even threatened so much by your dead grandma... ......But you lost your mind and became fascinated with Tokyo. ...You should feel ashamed.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156382,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1580.",
+		"TextJPN": "「ここここ、殺さないで…ッ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``D-D-D-D-Don't kill me...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156383,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1960.",
+		"TextJPN": "「建設省の皆さんはよそ者ですからね。…オヤシロさまの事をよく知らなかったので多少、大目にも見ましたが」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``All the people from the Ministry of Construction are outsiders. Since they didn't know Oyashiro-sama that well,  they were not taking him seriously.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156384,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1970.",
+		"TextJPN": "「…あなたには、…雛見沢の人間には…容赦しませんよ」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...But you... you're a person from Hinamizawa... I can't forgive you.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156385,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1590.",
+		"TextJPN": "「ややや、やめて殺さないで…許して……！」",
+		"NamesENG": "Mion",
+		"TextENG": "``S-S-S-Stop, don't kill me... forgive me......!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156386,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1980.",
+		"TextJPN": "「…許して……ほしいですか…？」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...Forgiveness...... do you want that...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156387,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1600.",
+		"TextJPN": "「は、ははははい！　…はいッ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Y-Y-Y-Y-Yes! ...Yes!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156388,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1990.",
+		"TextJPN": "「…お父さんに言われたでしょう。…ハイは１回で充分だと。…２回言うと誠意が伝わりませんよ？」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...Your father should have told you.. ...Saying once should be enough. Saying it twice won't convey your sincerity.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156389,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1610.",
+		"TextJPN": "「ごご、ごめんなさい…ッ！　…はは、はい！」",
+		"NamesENG": "Mion",
+		"TextENG": "``I-I-I'm sorry...! ...Y-Y-Yes!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156390,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_2000.",
+		"TextJPN": "「…もう今後一切、東京に憧れませんか？」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...In the future, will you no longer long for Tokyo anymore?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156391,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1620.",
+		"TextJPN": "「はは、はいッ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Y-Y-Yes!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156392,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_2010.",
+		"TextJPN": "「…雛見沢に生き、雛見沢に死ぬ事を誓えますか？」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...Do you swear that you will live and die in Hinamizawa?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156393,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1630.",
+		"TextJPN": "「はいッ！　…はいッ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Yes! ...Yes!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156394,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_2020.",
+		"TextJPN": "「返事は１回で結構！」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``One is enough!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156395,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1640.",
+		"TextJPN": "「すすす、すみませんッ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``I-I-I-I'm sorry!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156396,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_2030.",
+		"TextJPN": "「…ダムなんて到底受け入れられませんね？　…反対しますね？」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...Will you no longer accept the possibility of a dam? ...Will you oppose it?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156397,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1650.",
+		"TextJPN": "「は…、はいッ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Y-Yes!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156398,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_2040.",
+		"TextJPN": "「…素晴らしい。……あなたは郷土思いの本当に素晴らしいお嬢さんだ」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...Wonderful. ......You truly are a splendid young lady who loves her hometown like I thought.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156399,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_2050.",
+		"TextJPN": "「……わかりました。…あなたが今の誓いを生涯守れると言うならば…今回は特別に！　……大目に見ない事もありません」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``......I now understand. ...And since you have pledged an oath to keep your promise throughout your life... this time particularly! ......I will overlook what you have done.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156400,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1660.",
+		"TextJPN": "「あああ、ありがとうございますッ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Th-Th-Th-Thank you!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156401,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_2060.",
+		"TextJPN": "「……ただし、…そのままという訳には行きません」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``......But... you can't go just yet.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156402,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_2070.",
+		"TextJPN": "「……あなたのお腹の中に真っ黒にこびりついている、雛見沢を捨てようとする悪い汚れを綺麗に吐き出さなくてはなりません」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``......That deep black stuck to your stomach, it must be cleaned and thrown up so that abominable filth can never harm Hinamizawa.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156403,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1670.",
+		"TextJPN": "「な！　何でもいいですッ！　…許してさえもらえれば何でも構いません！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Ah! I'll do anything! ...If you forgive me, I don't mind!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156404,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_2080.",
+		"TextJPN": "「……痛いですよ？　…苦しいですよ？　……耐えられなければ、…そのまま死んでしまうかも知れません。……よろしいですね？」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``......Even if it hurts? ...Even if it's painful? ......If you can't endure it, I don't know, but you may die. ......Is that alright?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156405,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1680.",
+		"TextJPN": "「え、……あの……痛いんですか……？」",
+		"NamesENG": "Mion",
+		"TextENG": "``Eh...... umm...... will it hurt......?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156406,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_2090.",
+		"TextJPN": "「その痛みを乗り越えてこそ、…あなたは雛見沢の人間に戻れるんですよ。…………行きますよ」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``If you overcome the pain... you will return as a person of Hinamizawa. ............Let us go.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156407,
+		"TextJPN": "吉村が手をかざすと、魅音の腹に激痛が走る。たまらず悲鳴をあげる魅音。",
+		"TextENG": "Yoshimura hold out his hand, and a severe pain runs through Mion's belly. Mion finds it unbearable, falls to the ground and screams."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156408,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1690.",
+		"TextJPN": "「やッ…やめて下さい…ッ！　……ぃぃぃいいいぃ…ッ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Pl-Please stop...! ……I-i-iiii-i...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156409,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_2100.",
+		"TextJPN": "「…我慢なさい。…バチだと思って受け入れる事です」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...Endure it. ...Accept this punishment.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156410,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1700.",
+		"TextJPN": "「ぅがあああがああ…ッ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Ghaaaaaaa...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156411,
+		"TextJPN": "激痛に呻く魅音。やがて、荒川の落とした傘を手によろよろと立ち上がる。",
+		"TextENG": "Mion groans in severe pain. Eventually, she unsteadily stands up with the umbrella Arakawa dropped in her hands."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156412,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_2110.",
+		"TextJPN": "「……何の真似ですか…？」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``......What imitation is this...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156413,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1710.",
+		"TextJPN": "「ぐおぉおおぉおお…ッ！　……こ……殺して…やる…ッ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Hhhhhhhhaaaaaaa...! ......I-I...... will kill you......!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156414,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_2120.",
+		"TextJPN": "「…ふ、……ははははははは！　私を殺す？　…はっははははははは！」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...Hee...... ha ha ha ha ha ha ha! Do you intend to kill me? ...Ahh ha ha ha ha ha ha!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156415,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1720.",
+		"TextJPN": "「がぁああぁあ…ッ！　…今すぐやめろ。…やめるんだよこれッ！　今すぐッ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Ahhhhhhhhh...! ...Stop that right now. ...I told you to stop it! Right now!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156416,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_2130.",
+		"TextJPN": "「…やめたらあなたの中の汚れが出て行きませんよ」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...The filth won't come out if I stop.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156417,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1730.",
+		"TextJPN": "「やめろ…。やめろぉおぉ…ッ！　……やめないと殺すぞ…ッ！　…殺すぞぉおおッ！！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Stop... Stop it...! ......I'll kill you if you don't stop...! ...I'll kill you!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156418,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_2140.",
+		"TextJPN": "「…残念ですねぇ。…結局あなたは駄目だった。…残念ですよ」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...I'm disappointed. ...You were useless after all. ...How unfortunate.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156419,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1740.",
+		"TextJPN": "「おおおぉおおおぉおおッ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Oooooooooo!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156420,
+		"TextJPN": "雄叫びを上げながら傘で殴り掛かる魅音。吉村は難なく避ける。",
+		"TextENG": "Mion lifts the umbrella, and tries to hit him while raising a roar. Yoshimura avoids it without any difficulty."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156421,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_2150.",
+		"TextJPN": "「…死んでしまいなさい。体中の汚物を吐き尽くして！　…汚物の海に這いつくばりながら死ぬといい！　…荒川君のようにッ！」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...Now die. Vomit that filth from your body! ...You will die groveling in a sea of filth! ...Just like Arakawa-kun!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156422,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1750.",
+		"TextJPN": "「ぁがあッ！　……登ってくる…！　……登ってくる…ッ！？」",
+		"NamesENG": "Mion",
+		"TextENG": "``Ghaa! ...Something's climbing...! ......Something's climbing...!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156423,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_2160.",
+		"TextJPN": "「…胃から食道あたりまで登ってきたようですね。……あなたのお腹の底の汚れがウジとなって登ってきてるんですよ」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...It seems to have climbed from your stomach to your esophagus area. ...The dirt at the bottom of your stomach which has been climbing is maggots.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156424,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1760.",
+		"TextJPN": "「ウ、…ウジぃ！？　…いやぁああぁぁあああぁああッ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Ma-Maggots!? No... Nooo...! Noooooooooooo!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156425,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_2170.",
+		"TextJPN": "「さぁ！　吐き出してしまいなさいッ！　さぁ！　さあ！」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Come on! Spit them out! Come on! Come on!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156426,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1770.",
+		"TextJPN": "「嫌！　嫌ッ！　嫌ぁああぁああッ！　助けて誰かッ！　梨花さん！　…梨花さぁああぁあんッ！　…ああぁぁあぁぁあああああッ！　の、喉がぁッ、か、かゆいっぃいっ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``No! No! Nooooooo! Someone help me! Rika-san! ...Rika-saaaaaan! Ahhhhhhhhhhh! M-My throat, it-it's so itchy!``"
+	}
+]

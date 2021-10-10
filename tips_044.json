@@ -1,496 +1,494 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "沙都子のトラップ講座（初級）",
-            "ENG": "Satoko's Trap Course (Elementary)"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13768,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100092.",
-            "TextJPN": "「俺が保証する。沙都子ならこの山で篭城して、一個師団相手くらいなら充分にあしらえるに違いない」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``I know one thing for sure. Satoko could fend off an entire army division by holing up in this mountain.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13769,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300088.",
-            "TextJPN": "「私は知ってるよ。沙都子はとある国の特殊部隊に招聘されて、トラップの訓練教官をやってたんだ」",
-            "NamesENG": "Mion",
-            "TextENG": "``I know all about it! Satoko was appointed to the special forces of that one country, where she served as an instructor training on traps.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13770,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200057.",
-            "TextJPN": "「そんなヘンな話はいいから…誰か助けてぇえぇ～～！！」",
-            "NamesENG": "Rena",
-            "TextENG": "``Stop saying weird things... Somebody help meee~~!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13771,
-            "TextJPN": "……一体、…どういう仕掛けにどういう風に引っ掛かれば俺たちはこうなるんだろう。",
-            "TextENG": "...How did it come to this? What traps did we fall for, and how did we fall for them?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13772,
-            "TextJPN": "魅音は脱出不可能のやたらと細い落し穴にはまり、首だけを地上にのぞかせていた。",
-            "TextENG": "Mion was caught in a profusely thin pitfall she couldn't escape from, and only her head was poking above the ground."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13773,
-            "TextJPN": "レナは頭からすっぽりブリキのバケツを被り、それが脱げなくてもがいている。",
-            "TextENG": "Rena's head was completely covered by a tin bucket; she was squirming around in a vain attempt to remove it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13774,
-            "TextJPN": "…どちらも実に滑稽だが、それでもまだいいさ。@k足が地に着いてるだけマシだ。",
-            "TextENG": "...Either of these really were funny, but that's where it ended.@k At least they had their feet on the ground."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13775,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300089.",
-            "TextJPN": "「……圭ちゃんの方はどーおー？　抜けられそうー？@k@vS20/03/440300090.　早く抜け出しておじさんを助けてよー」",
-            "NamesENG": "Mion",
-            "TextENG": "``...Kei-chan, what about youuu? Think you can get out of that?@k@vS20/03/440300090. Hurry up and get out so you can save this old man!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13776,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100093.",
-            "TextJPN": "「ぬ、抜け出して助けるのは魅音の方だー！　この@bすま.@<簀巻@>き状態の俺に、何をしろと言うんだー！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Y-You're the one who should be breaking out and saving me, Mion! What do you expect me to do in this freaking bamboo mat?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13777,
-            "TextJPN": "…俺の体はぐるぐるの@bすま.@<簀巻@>き状態で、地上から２ｍくらいに吊り上げられていた。",
-            "TextENG": "...I was wrapped up in a bamboo mat and hanging two meters above the ground."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13778,
-            "TextJPN": "あぁ、…どんなトラップを仕掛けたらこんな風になるんだよ？@k　えぇ？！@k　沙都子！",
-            "TextENG": "Agh... What was this trap and how did I fall into it?@k Huh?!@k It was Satoko!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13779,
-            "TextJPN": "そもそもの発端は、都会育ちの俺が自然に親しんでないとか何とかで、山へ散策に行こうなんて話からだった。",
-            "TextENG": "This all started when they suggested that I was unfamiliar with nature, having grown up in the city, and proposed a little exploration on the mountain."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13780,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200058.",
-            "TextJPN": "「うーん、でもレナもよく裏山は知らないよ？」",
-            "NamesENG": "Rena",
-            "TextENG": "``Hmm, but Rena doesn't really know how it is back there either!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13781,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200059.",
-            "TextJPN": "「レナじゃ迷子になっちゃう。はぅ」",
-            "NamesENG": "Rena",
-            "TextENG": "Rena might get lost. Hau.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13782,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300091.",
-            "TextJPN": "「裏山ねぇ。…小さい頃はよく遊んだけど、…ここ何年かはさっぱりだなぁ。@k@vS20/03/440300092.あそこ、道を誤るとかなりデンジャラスに迷うんだよなぁ」",
-            "NamesENG": "Mion",
-            "TextENG": "``The mountain out back, huh? ...I played there a lot when I was little... but I haven't gone there for years.@k@vS20/03/440300092. If you get lost out there, things can get pretty dangerous.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13783,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/440400043.",
-            "TextJPN": "「裏山なら私たちにお任せですわよー！　山が丸ごと、私と梨花の遊び場なんですもの。@k@vS20/04/440400044.ねぇ梨花ぁ？」",
-            "NamesENG": "Satoko",
-            "TextENG": "``You can leave the mountain to us! The whole thing is our playground.@k@vS20/04/440400044. Isn't that right, Rika?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13784,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/440500025.",
-            "TextJPN": "「……みー！」",
-            "NamesENG": "Rika",
-            "TextENG": "``...Meep!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13785,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100094.",
-            "TextJPN": "「おー。それは心強いな。@k@vS20/01/440100095.じゃあここは二人の顔を立てて、二人の道案内でハイキングと行こうじゃねーか！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Oh, I see! How reassuring.@k@vS20/01/440100095. We'll defer to you two this time and have you be our tour guides!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13786,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200060.",
-            "TextJPN": "「でも圭一くん…。裏山は迷うから遊びに行っちゃいけないって夏休みのしおりにも書いてあるよ」",
-            "NamesENG": "Rena",
-            "TextENG": "``Wait, Keiichi-kun... The summer vacation guidebook says not to play on the mountain because you'll get lost.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13787,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/440500026.",
-            "TextJPN": "「……まだ夏休みではありませんですから、大丈夫なのですよ。ボクたちが道を知ってますからご安心なのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``...It isn't summer vacation yet, so it's all right. We know the path, so there's no need to worry.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13788,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/440400045.",
-            "TextJPN": "「裏山は昔から私たちの遊び場でございますもの！　庭も同然！@k@vS20/04/440400046.　抜け道、近道までばっちりでございましてよー！」",
-            "NamesENG": "Satoko",
-            "TextENG": "``The mountain has always been our playground! Our backyard!@k@vS20/04/440400046. We know all the secret paths and shortcuts!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13789,
-            "TextJPN": "……確かに沙都子と梨花ちゃんはちゃんと道を知ってたさ。",
-            "TextENG": "...Yes, both Satoko and Rika-chan knew the path like the back of their hands."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13790,
-            "TextJPN": "お陰で、村の中じゃ絶対に味わえない大自然や眺望、新鮮な空気を満喫できたさ。",
-            "TextENG": "Thanks to them, we had our fill of fresh air, gorgeous views, and Mother Nature, the likes of which you could never see in the village."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13791,
-            "TextJPN": "だが、途中からおかしくなり始めたんだ！！",
-            "TextENG": "But things got strange partway through!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13792,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/440400047.",
-            "TextJPN": "「そうそう。皆さん。@k@vS20/04/440400048.ここからは私が歩いた足跡の通りに歩くんですわよ」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Oh, yes. Everyone.@k@vS20/04/440400048. From here on, you must follow exactly where I go.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13793,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100096.",
-            "TextJPN": "「はぁ…？　突然、何を言い出すんだ？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Huh...? What are you talking about all of a sudden?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13794,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/440500027.",
-            "TextJPN": "「……大人しく沙都子の言うことを聞くほうが身のためなのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``...It would be safer to do as Satoko says.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13795,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200061.",
-            "TextJPN": "「あれれ。ねー、魅ぃちゃん、ほらこれ。@k@vS20/02/440200062.なんだろね」",
-            "NamesENG": "Rena",
-            "TextENG": "``Oh, my. Hey, Mii-chan, look at this.@k@vS20/02/440200062. What is it?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13796,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200063.",
-            "TextJPN": "「引っ張るのかな？　かな？」",
-            "NamesENG": "Rena",
-            "TextENG": "Should I pull it? Should I?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13797,
-            "TextJPN": "ピン。",
-            "TextENG": "Suddenly."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13798,
-            "TextJPN": "……びよよん。@k@|@y…グワッ！！！！",
-            "TextENG": "...Squeak.@k@|@y ...Crash!!!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13799,
-            "TextJPN": "レナが凧糸のようなものを引っ張ると、レナのすぐ脇に頭上の木の枝に括り付けられていた竹槍の束がドカドカドカッ！！　と降り注ぐ！！",
-            "TextENG": "When Rena pulled the kite string, a bundle of bamboo spears fastened to a tree branch all came raining down with a clatter right next to where Rena was standing!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13800,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300093.",
-            "TextJPN": "「わーーー！！　わーーー！！@k@vS20/03/440300094.　何これ？！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Wahhhh!! Wahhhh!!@k@vS20/03/440300094. What is this?!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13801,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300095.",
-            "TextJPN": "「何？！」",
-            "NamesENG": "Mion",
-            "TextENG": "What?!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13802,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300096.",
-            "TextJPN": "「何？！」",
-            "NamesENG": "Mion",
-            "TextENG": "What?!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13803,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300097.",
-            "TextJPN": "「ぎゃーー！！」",
-            "NamesENG": "Mion",
-            "TextENG": "Gyaaa!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13804,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/440500028.",
-            "TextJPN": "「……懐かしいのですよ。これは確か、２年生の２学期に沙都子が作ったトラップなのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``...That brings back memories. Satoko made this trap in the second semester of second grade.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13805,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/440400049.",
-            "TextJPN": "「危なかったですわねぇ。竹槍の先端には犬のフンが塗ってありますから、傷になるとあとで腐り出しますわよ」",
-            "NamesENG": "Satoko",
-            "TextENG": "``That was a close one. The tips of the spears are covered in dog poop, so if one of them hurts you, the wound will start to fester.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13806,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100097.",
-            "TextJPN": "「こ、ここはいつからゲリラの戦場になったんだぁあああぁあぁあッ！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``W-When did this turn into some guerrilla battlefield?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13807,
-            "TextJPN": "……沙都子と梨花ちゃんが言うには、…小学校低学年の頃、トラップ作りが沙都子的に大ブレイクして、この山の至るところに仕掛けて回ったらしいのだ…。",
-            "TextENG": "...According to Satoko and Rika-chan... ...Earlier in elementary school, Satoko had been on a trap-making craze, and set them up along every inch of this mountain..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13808,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200064.",
-            "TextJPN": "「…圭一くん、ひょっとして……裏山が立入禁止なのは迷うからじゃなくて、…危ないからじゃないのかな…」",
-            "NamesENG": "Rena",
-            "TextENG": "``...Keiichi-kun, maybe... they didn't tell us not to go on the mountain because we'd get lost... but because it was dangerous...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13809,
-            "TextJPN": "俺も魅音もそのレナの仮説に全力で頷く。",
-            "TextENG": "Mion and I both nodded wholeheartedly at Rena's hypothesis."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13810,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/440400050.",
-            "TextJPN": "「さ！　先を急ぎますわよ。@k@vS20/04/440400051.早く戻らないと暗くなってしまいますわ。@k@vS20/04/440400052.暗くなったら、私だって危ないでございますからね」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Come, now! We are hurrying on ahead.@k@vS20/04/440400051. If we do not return soon, it will get dark.@k@vS20/04/440400052. If it gets dark, it may even become dangerous for me.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13811,
-            "TextJPN": "そ、そんな危ない山に何で連れてきたぁあぁあああぁああ！！",
-            "TextENG": "B-But you're the one who brought us to this crazy mountain!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13812,
-            "TextJPN": "何で健全で平均的な日本人男子の俺が、ブービートラップに命を脅かされなくちゃならないんだぁッ！！",
-            "TextENG": "Why was an average healthy Japanese boy like me being forced to deal with life-threatening booby traps?!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13813,
-            "TextJPN": "……そして、@k……沙都子たちの姿をちょっと見失った途端に、俺たちは３人まとめて仲良くトラップに絡め取られたというワケだ…。",
-            "TextENG": "...And then...@k The very moment Satoko and Rika-chan got just out of sight was when the three of us all got caught in nice little traps together..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13814,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300098.",
-            "TextJPN": "「……誰か出して～～！　私、おトイレに行きたいの～～！！」",
-            "NamesENG": "Mion",
-            "TextENG": "``...Someone get me out~~! I have to go to the bathroom~~!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13815,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200065.",
-            "TextJPN": "「そんなことより～！　誰かこのバケツ取って～！！@k@vS20/02/440200066.　前が見えない～！@k@vS20/02/440200067.　はぅ～！！」",
-            "NamesENG": "Rena",
-            "TextENG": "``Never mind that~! Somebody get the bucket off me~!!@k@vS20/02/440200066. I can't see in front of me~!@k@vS20/02/440200067. Hau~!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13816,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100098.",
-            "TextJPN": "「…おいレナ、あんまり暴れるな。ぱ、ぱんつが見えるぞ…」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...Wait, Rena, don't struggle around so much. I-I can see your panties...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13817,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200068.",
-            "TextJPN": "「は、はぅーーー！！！　見た？！@k@vS20/02/440200069.　見た？！@k@vS20/02/440200070.　圭一くんが見た！！@k@vS20/02/440200071.　はぅ～～～！！！」",
-            "NamesENG": "Rena",
-            "TextENG": "``H-Hauuuu!!! You saw?!@k@vS20/02/440200069. You saw?!@k@vS20/02/440200070. Keiichi-kun, you saw!!@k@vS20/02/440200071. Hau~~~!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13818,
-            "TextJPN": "スパパパパパ、スパパパパ、スパパパーンッ！！！",
-            "TextENG": "Smash, crash, smash, smash smash crash bash!!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13819,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100099.",
-            "TextJPN": "「み、見えてるだろ絶対…！！　バケツ被ってても、見えてるだろ絶、」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``O-Of course you can see them...!! You may be in a bucket, but you can definitely—"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13820,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100100.",
-            "TextJPN": "「げはっ！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "Gehah,"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13821,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100101.",
-            "TextJPN": "「ごほ！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "gohoh!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13822,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100102.",
-            "TextJPN": "「ぐぼれッ！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "Gbhbhreh!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13823,
-            "TextJPN": "バケツレナにサンドバックにされる俺と、わんわんと泣く魅音。",
-            "TextENG": "Bucket Rena was using me as a sandbag, and Mion was crying."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13824,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/440500029.",
-            "TextJPN": "「……落し穴から抜けられなくて、かぁいそかぁいそなのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``...You can't get out of the pitfall? How sad, how sad.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13825,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/440400053.",
-            "TextJPN": "「もー、皆さん、だから言いましたでしょう？　私から離れたらいけませんでしてよ、って！」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Geez, didn't I already tell you all? You weren't supposed to leave my side!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13826,
-            "TextJPN": "今になって悟る俺。",
-            "TextENG": "I finally had an epiphany."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13827,
-            "TextJPN": "……妙に沙都子が裏山にみんなを連れて行きたがってたのは…、歴代の自慢のトラップを俺たちに見せたかったからに違いない。",
-            "TextENG": "...Satoko had been so bent on taking everyone out to the mountain... because she wanted to brag about all the traps she'd set up here over the years."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13828,
-            "TextJPN": "……それなら見せるだけにしてくれよ。@k…はまり心地まで味わいたくないー！！",
-            "TextENG": "...You could have stopped just at showing them to us.@k ...I didn't need to experience how it felt first-hand!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13829,
-            "TextJPN": "梨花ちゃんは俺たち３人の頭を順々に撫で、これ以上ないくらいにご満悦な様子だった…。",
-            "TextENG": "Rika-chan pets our three heads in sequence, in an incredibly satisfied mood..."
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "沙都子のトラップ講座（初級）",
+		"ENG": "Satoko's Trap Course (Elementary)"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13768,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100092.",
+		"TextJPN": "「俺が保証する。沙都子ならこの山で篭城して、一個師団相手くらいなら充分にあしらえるに違いない」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``I know one thing for sure. Satoko could fend off an entire army division by holing up in this mountain.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13769,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300088.",
+		"TextJPN": "「私は知ってるよ。沙都子はとある国の特殊部隊に招聘されて、トラップの訓練教官をやってたんだ」",
+		"NamesENG": "Mion",
+		"TextENG": "``I know all about it! Satoko was appointed to the special forces of that one country, where she served as an instructor training on traps.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13770,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200057.",
+		"TextJPN": "「そんなヘンな話はいいから…誰か助けてぇえぇ～～！！」",
+		"NamesENG": "Rena",
+		"TextENG": "``Stop saying weird things... Somebody help meee~~!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13771,
+		"TextJPN": "……一体、…どういう仕掛けにどういう風に引っ掛かれば俺たちはこうなるんだろう。",
+		"TextENG": "...How did it come to this? What traps did we fall for, and how did we fall for them?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13772,
+		"TextJPN": "魅音は脱出不可能のやたらと細い落し穴にはまり、首だけを地上にのぞかせていた。",
+		"TextENG": "Mion was caught in a profusely thin pitfall she couldn't escape from, and only her head was poking above the ground."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13773,
+		"TextJPN": "レナは頭からすっぽりブリキのバケツを被り、それが脱げなくてもがいている。",
+		"TextENG": "Rena's head was completely covered by a tin bucket; she was squirming around in a vain attempt to remove it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13774,
+		"TextJPN": "…どちらも実に滑稽だが、それでもまだいいさ。@k足が地に着いてるだけマシだ。",
+		"TextENG": "...Either of these really were funny, but that's where it ended.@k At least they had their feet on the ground."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13775,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300089.",
+		"TextJPN": "「……圭ちゃんの方はどーおー？　抜けられそうー？@k@vS20/03/440300090.　早く抜け出しておじさんを助けてよー」",
+		"NamesENG": "Mion",
+		"TextENG": "``...Kei-chan, what about youuu? Think you can get out of that?@k@vS20/03/440300090. Hurry up and get out so you can save this old man!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13776,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100093.",
+		"TextJPN": "「ぬ、抜け出して助けるのは魅音の方だー！　この@bすま.@<簀巻@>き状態の俺に、何をしろと言うんだー！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Y-You're the one who should be breaking out and saving me, Mion! What do you expect me to do in this freaking bamboo mat?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13777,
+		"TextJPN": "…俺の体はぐるぐるの@bすま.@<簀巻@>き状態で、地上から２ｍくらいに吊り上げられていた。",
+		"TextENG": "...I was wrapped up in a bamboo mat and hanging two meters above the ground."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13778,
+		"TextJPN": "あぁ、…どんなトラップを仕掛けたらこんな風になるんだよ？@k　えぇ？！@k　沙都子！",
+		"TextENG": "Agh... What was this trap and how did I fall into it?@k Huh?!@k It was Satoko!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13779,
+		"TextJPN": "そもそもの発端は、都会育ちの俺が自然に親しんでないとか何とかで、山へ散策に行こうなんて話からだった。",
+		"TextENG": "This all started when they suggested that I was unfamiliar with nature, having grown up in the city, and proposed a little exploration on the mountain."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13780,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200058.",
+		"TextJPN": "「うーん、でもレナもよく裏山は知らないよ？」",
+		"NamesENG": "Rena",
+		"TextENG": "``Hmm, but Rena doesn't really know how it is back there either!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13781,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200059.",
+		"TextJPN": "「レナじゃ迷子になっちゃう。はぅ」",
+		"NamesENG": "Rena",
+		"TextENG": "Rena might get lost. Hau.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13782,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300091.",
+		"TextJPN": "「裏山ねぇ。…小さい頃はよく遊んだけど、…ここ何年かはさっぱりだなぁ。@k@vS20/03/440300092.あそこ、道を誤るとかなりデンジャラスに迷うんだよなぁ」",
+		"NamesENG": "Mion",
+		"TextENG": "``The mountain out back, huh? ...I played there a lot when I was little... but I haven't gone there for years.@k@vS20/03/440300092. If you get lost out there, things can get pretty dangerous.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13783,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/440400043.",
+		"TextJPN": "「裏山なら私たちにお任せですわよー！　山が丸ごと、私と梨花の遊び場なんですもの。@k@vS20/04/440400044.ねぇ梨花ぁ？」",
+		"NamesENG": "Satoko",
+		"TextENG": "``You can leave the mountain to us! The whole thing is our playground.@k@vS20/04/440400044. Isn't that right, Rika?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13784,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/440500025.",
+		"TextJPN": "「……みー！」",
+		"NamesENG": "Rika",
+		"TextENG": "``...Meep!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13785,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100094.",
+		"TextJPN": "「おー。それは心強いな。@k@vS20/01/440100095.じゃあここは二人の顔を立てて、二人の道案内でハイキングと行こうじゃねーか！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Oh, I see! How reassuring.@k@vS20/01/440100095. We'll defer to you two this time and have you be our tour guides!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13786,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200060.",
+		"TextJPN": "「でも圭一くん…。裏山は迷うから遊びに行っちゃいけないって夏休みのしおりにも書いてあるよ」",
+		"NamesENG": "Rena",
+		"TextENG": "``Wait, Keiichi-kun... The summer vacation guidebook says not to play on the mountain because you'll get lost.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13787,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/440500026.",
+		"TextJPN": "「……まだ夏休みではありませんですから、大丈夫なのですよ。ボクたちが道を知ってますからご安心なのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``...It isn't summer vacation yet, so it's all right. We know the path, so there's no need to worry.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13788,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/440400045.",
+		"TextJPN": "「裏山は昔から私たちの遊び場でございますもの！　庭も同然！@k@vS20/04/440400046.　抜け道、近道までばっちりでございましてよー！」",
+		"NamesENG": "Satoko",
+		"TextENG": "``The mountain has always been our playground! Our backyard!@k@vS20/04/440400046. We know all the secret paths and shortcuts!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13789,
+		"TextJPN": "……確かに沙都子と梨花ちゃんはちゃんと道を知ってたさ。",
+		"TextENG": "...Yes, both Satoko and Rika-chan knew the path like the back of their hands."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13790,
+		"TextJPN": "お陰で、村の中じゃ絶対に味わえない大自然や眺望、新鮮な空気を満喫できたさ。",
+		"TextENG": "Thanks to them, we had our fill of fresh air, gorgeous views, and Mother Nature, the likes of which you could never see in the village."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13791,
+		"TextJPN": "だが、途中からおかしくなり始めたんだ！！",
+		"TextENG": "But things got strange partway through!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13792,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/440400047.",
+		"TextJPN": "「そうそう。皆さん。@k@vS20/04/440400048.ここからは私が歩いた足跡の通りに歩くんですわよ」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Oh, yes. Everyone.@k@vS20/04/440400048. From here on, you must follow exactly where I go.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13793,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100096.",
+		"TextJPN": "「はぁ…？　突然、何を言い出すんだ？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Huh...? What are you talking about all of a sudden?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13794,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/440500027.",
+		"TextJPN": "「……大人しく沙都子の言うことを聞くほうが身のためなのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``...It would be safer to do as Satoko says.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13795,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200061.",
+		"TextJPN": "「あれれ。ねー、魅ぃちゃん、ほらこれ。@k@vS20/02/440200062.なんだろね」",
+		"NamesENG": "Rena",
+		"TextENG": "``Oh, my. Hey, Mii-chan, look at this.@k@vS20/02/440200062. What is it?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13796,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200063.",
+		"TextJPN": "「引っ張るのかな？　かな？」",
+		"NamesENG": "Rena",
+		"TextENG": "Should I pull it? Should I?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13797,
+		"TextJPN": "ピン。",
+		"TextENG": "Suddenly."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13798,
+		"TextJPN": "……びよよん。@k@|@y…グワッ！！！！",
+		"TextENG": "...Squeak.@k@|@y ...Crash!!!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13799,
+		"TextJPN": "レナが凧糸のようなものを引っ張ると、レナのすぐ脇に頭上の木の枝に括り付けられていた竹槍の束がドカドカドカッ！！　と降り注ぐ！！",
+		"TextENG": "When Rena pulled the kite string, a bundle of bamboo spears fastened to a tree branch all came raining down with a clatter right next to where Rena was standing!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13800,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300093.",
+		"TextJPN": "「わーーー！！　わーーー！！@k@vS20/03/440300094.　何これ？！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Wahhhh!! Wahhhh!!@k@vS20/03/440300094. What is this?!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13801,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300095.",
+		"TextJPN": "「何？！」",
+		"NamesENG": "Mion",
+		"TextENG": "What?!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13802,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300096.",
+		"TextJPN": "「何？！」",
+		"NamesENG": "Mion",
+		"TextENG": "What?!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13803,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300097.",
+		"TextJPN": "「ぎゃーー！！」",
+		"NamesENG": "Mion",
+		"TextENG": "Gyaaa!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13804,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/440500028.",
+		"TextJPN": "「……懐かしいのですよ。これは確か、２年生の２学期に沙都子が作ったトラップなのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``...That brings back memories. Satoko made this trap in the second semester of second grade.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13805,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/440400049.",
+		"TextJPN": "「危なかったですわねぇ。竹槍の先端には犬のフンが塗ってありますから、傷になるとあとで腐り出しますわよ」",
+		"NamesENG": "Satoko",
+		"TextENG": "``That was a close one. The tips of the spears are covered in dog poop, so if one of them hurts you, the wound will start to fester.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13806,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100097.",
+		"TextJPN": "「こ、ここはいつからゲリラの戦場になったんだぁあああぁあぁあッ！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``W-When did this turn into some guerrilla battlefield?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13807,
+		"TextJPN": "……沙都子と梨花ちゃんが言うには、…小学校低学年の頃、トラップ作りが沙都子的に大ブレイクして、この山の至るところに仕掛けて回ったらしいのだ…。",
+		"TextENG": "...According to Satoko and Rika-chan... ...Earlier in elementary school, Satoko had been on a trap-making craze, and set them up along every inch of this mountain..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13808,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200064.",
+		"TextJPN": "「…圭一くん、ひょっとして……裏山が立入禁止なのは迷うからじゃなくて、…危ないからじゃないのかな…」",
+		"NamesENG": "Rena",
+		"TextENG": "``...Keiichi-kun, maybe... they didn't tell us not to go on the mountain because we'd get lost... but because it was dangerous...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13809,
+		"TextJPN": "俺も魅音もそのレナの仮説に全力で頷く。",
+		"TextENG": "Mion and I both nodded wholeheartedly at Rena's hypothesis."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13810,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/440400050.",
+		"TextJPN": "「さ！　先を急ぎますわよ。@k@vS20/04/440400051.早く戻らないと暗くなってしまいますわ。@k@vS20/04/440400052.暗くなったら、私だって危ないでございますからね」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Come, now! We are hurrying on ahead.@k@vS20/04/440400051. If we do not return soon, it will get dark.@k@vS20/04/440400052. If it gets dark, it may even become dangerous for me.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13811,
+		"TextJPN": "そ、そんな危ない山に何で連れてきたぁあぁあああぁああ！！",
+		"TextENG": "B-But you're the one who brought us to this crazy mountain!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13812,
+		"TextJPN": "何で健全で平均的な日本人男子の俺が、ブービートラップに命を脅かされなくちゃならないんだぁッ！！",
+		"TextENG": "Why was an average healthy Japanese boy like me being forced to deal with life-threatening booby traps?!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13813,
+		"TextJPN": "……そして、@k……沙都子たちの姿をちょっと見失った途端に、俺たちは３人まとめて仲良くトラップに絡め取られたというワケだ…。",
+		"TextENG": "...And then...@k The very moment Satoko and Rika-chan got just out of sight was when the three of us all got caught in nice little traps together..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13814,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300098.",
+		"TextJPN": "「……誰か出して～～！　私、おトイレに行きたいの～～！！」",
+		"NamesENG": "Mion",
+		"TextENG": "``...Someone get me out~~! I have to go to the bathroom~~!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13815,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200065.",
+		"TextJPN": "「そんなことより～！　誰かこのバケツ取って～！！@k@vS20/02/440200066.　前が見えない～！@k@vS20/02/440200067.　はぅ～！！」",
+		"NamesENG": "Rena",
+		"TextENG": "``Never mind that~! Somebody get the bucket off me~!!@k@vS20/02/440200066. I can't see in front of me~!@k@vS20/02/440200067. Hau~!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13816,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100098.",
+		"TextJPN": "「…おいレナ、あんまり暴れるな。ぱ、ぱんつが見えるぞ…」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...Wait, Rena, don't struggle around so much. I-I can see your panties...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13817,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200068.",
+		"TextJPN": "「は、はぅーーー！！！　見た？！@k@vS20/02/440200069.　見た？！@k@vS20/02/440200070.　圭一くんが見た！！@k@vS20/02/440200071.　はぅ～～～！！！」",
+		"NamesENG": "Rena",
+		"TextENG": "``H-Hauuuu!!! You saw?!@k@vS20/02/440200069. You saw?!@k@vS20/02/440200070. Keiichi-kun, you saw!!@k@vS20/02/440200071. Hau~~~!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13818,
+		"TextJPN": "スパパパパパ、スパパパパ、スパパパーンッ！！！",
+		"TextENG": "Smash, crash, smash, smash smash crash bash!!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13819,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100099.",
+		"TextJPN": "「み、見えてるだろ絶対…！！　バケツ被ってても、見えてるだろ絶、」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``O-Of course you can see them...!! You may be in a bucket, but you can definitely—"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13820,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100100.",
+		"TextJPN": "「げはっ！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "Gehah,"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13821,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100101.",
+		"TextJPN": "「ごほ！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "gohoh!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13822,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100102.",
+		"TextJPN": "「ぐぼれッ！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "Gbhbhreh!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13823,
+		"TextJPN": "バケツレナにサンドバックにされる俺と、わんわんと泣く魅音。",
+		"TextENG": "Bucket Rena was using me as a sandbag, and Mion was crying."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13824,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/440500029.",
+		"TextJPN": "「……落し穴から抜けられなくて、かぁいそかぁいそなのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``...You can't get out of the pitfall? How sad, how sad.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13825,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/440400053.",
+		"TextJPN": "「もー、皆さん、だから言いましたでしょう？　私から離れたらいけませんでしてよ、って！」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Geez, didn't I already tell you all? You weren't supposed to leave my side!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13826,
+		"TextJPN": "今になって悟る俺。",
+		"TextENG": "I finally had an epiphany."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13827,
+		"TextJPN": "……妙に沙都子が裏山にみんなを連れて行きたがってたのは…、歴代の自慢のトラップを俺たちに見せたかったからに違いない。",
+		"TextENG": "...Satoko had been so bent on taking everyone out to the mountain... because she wanted to brag about all the traps she'd set up here over the years."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13828,
+		"TextJPN": "……それなら見せるだけにしてくれよ。@k…はまり心地まで味わいたくないー！！",
+		"TextENG": "...You could have stopped just at showing them to us.@k ...I didn't need to experience how it felt first-hand!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13829,
+		"TextJPN": "梨花ちゃんは俺たち３人の頭を順々に撫で、これ以上ないくらいにご満悦な様子だった…。",
+		"TextENG": "Rika-chan pets our three heads in sequence, in an incredibly satisfied mood..."
+	}
+]

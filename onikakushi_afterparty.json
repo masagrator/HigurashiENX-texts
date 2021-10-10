@@ -1,1168 +1,1166 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 0,
-            "JPN": "鬼隠し編",
-            "ENG": "Onikakushi-hen"
-        },
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "お疲れさま会",
-            "ENG": "Afterparty"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11374,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200103.",
-            "TextJPN": "「はい！　『鬼隠し』をプレイされた皆さん、お疲れさまでした！@k@vS20/02/440200104.　いかがだったでしょうか？@k@vS20/02/440200105.　ちょっぴりでも楽しんでもらえたらとっても嬉しいです」",
-            "NamesENG": "Rena",
-            "TextENG": "``Hello! Thank you for playing 'Onikakushi' chapter!@k@vS20/02/440200104. How was it?@k@vS20/02/440200105. If you enjoyed it, even a little bit, it would make me happy.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11375,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/440400127.",
-            "TextJPN": "「ちょっぴりも何も！@k@vS20/04/440400128.　あんなすごいバッドエンドで終わられたら、ぷんぷんでございますことよー？！」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Even a little bit is stretching it!@k@vS20/04/440400128. That incredibly dark ending made me angry, you know?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11376,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/440500082.",
-            "TextJPN": "「…ぷんぷんなのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``...Made us angry.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11377,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200106.",
-            "TextJPN": "「あははは！@k@vS20/02/440200107.　今回の『鬼隠し』は、全体の謎に挑む人たちが最初に通るお話。@k@vS20/02/440200108.だから実質上のプロローグの位置づけなんだって」",
-            "NamesENG": "Rena",
-            "TextENG": "``Ahaha!@k@vS20/02/440200107. This 'Onikakushi' chapter is the first story that readers challenging the mystery of the entire series get to experience.@k@vS20/02/440200108. So it's actually supposed to be somewhat of a prologue.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11378,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/440400129.",
-            "TextJPN": "「そのプロローグが…こんな凄まじいバッドエンドでございますのー？」",
-            "NamesENG": "Satoko",
-            "TextENG": "``How could the prologue... have such an incredibly dark ending?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11379,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300249.",
-            "TextJPN": "「うーん、でもそーゆうのってあるじゃん？@k@vS20/03/440300250.　この最悪のバッドエンドを回避するために、プレイヤーさんが物語を模索していくのがこの作品の醍醐味だし」",
-            "NamesENG": "Mion",
-            "TextENG": "``Yeah, but doesn't that happen sometimes?@k@vS20/03/440300250. The player digging through the story in order to avoid a bad ending is the point of these types of games after all.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11380,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/440500083.",
-            "TextJPN": "「…まだ始まったばかりですよ。ボクは次のお話が楽しみなのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``...It's still just the first chapter. I'm looking forward to the next one.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11381,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300251.",
-            "TextJPN": "「これから、どんな話が待ち受けてるんだろう？@k@vS20/03/440300252.　レナは聞いてるー？」",
-            "NamesENG": "Mion",
-            "TextENG": "``Just what kind of plot awaits us from here on?@k@vS20/03/440300252. Rena, do you know?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11382,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200109.",
-            "TextJPN": "「うん。@k@vS20/02/440200110.今回はレナをパートナーに選んだ物語だったけど、@k@vS20/02/440200111.他にも魅ぃちゃん、沙都子ちゃんをパートナーに選んだお話もあるみたいだね」",
-            "NamesENG": "Rena",
-            "TextENG": "``Yeah.@k@vS20/02/440200110. This episode has Rena as your closest friend,@k@vS20/02/440200111. but it seems like there are stories featuring Mii-chan and Satoko-chan, too.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11383,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/440400131.",
-            "TextJPN": "「他のシナリオにはどんな展開があるんですの？」",
-            "NamesENG": "Satoko",
-            "TextENG": "``What kind of plot developments can we expect from the other scenarios?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11384,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200115.",
-            "TextJPN": "「今回の『鬼隠し』では、雛見沢で近年起こった連続怪死事件が紹介されたでしょ？@k@vS20/02/440200116.　たとえば魅ぃちゃんのシナリオでは雛見沢の古い歴史なんかが紹介されるんだって」",
-            "NamesENG": "Rena",
-            "TextENG": "``In this chapter, they introduced the string of mysterious deaths that were happening in Hinamizawa recently, right?@k@vS20/02/440200116. In Mii-chan's chapter it will introduce some of the history of Hinamizawa.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11385,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300255.",
-            "TextJPN": "「異常事態の連続で、すっかりわかんなくなっちゃったけど……オヤシロさまの祟りって、どういうものなのか。@k@vS20/03/440300256.いやそもそも、オヤシロさまって何なのか、あまり説明なかったからね」",
-            "NamesENG": "Mion",
-            "TextENG": "``With one strange event happening after another, I got totally lost... what exactly is Oyashiro-sama's curse about?@k@vS20/03/440300256. Actually, what is Oyashiro-sama to begin with? They didn't explain it much.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11386,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/440500086.",
-            "TextJPN": "「……これから他のシナリオに挑む人は、その内容の意外さと規模に驚くかもしれませんが」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Those who are about to tackle other scenarios may be surprised by the unexpectedness and scale of the content.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11387,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200117.",
-            "TextJPN": "「…う～ん、よくは聞いてないんだけど…。@k@vS20/02/440200118.……でも……なんか嫌ぁな予感」",
-            "NamesENG": "Rena",
-            "TextENG": "``...Hmmmm, I haven't heard much about it.@k@vS20/02/440200118. But... I have kind of a bad feeling about it.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11388,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/440500087.",
-            "TextJPN": "「……またしても祟られそうな、嫌な物語です」",
-            "NamesENG": "Rika",
-            "TextENG": "``...It feels like it'll be another one of those scary stories where somebody gets cursed again.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11389,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300257.",
-            "TextJPN": "「圭ちゃんも大変だねぇ～！@k@vS20/03/440300258.　今度はどんな祟りにやられるやら！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Tough luck for Kei-chan~!@k@vS20/03/440300258. What kind of curse is he gonna get hit with this time?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11390,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/440400132.",
-            "TextJPN": "「でも、どんなお話になるのか楽しみでございますわね！」",
-            "NamesENG": "Satoko",
-            "TextENG": "``However, I am looking forward to seeing what kind of story it's going to be!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11391,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700335.",
-            "TextJPN": "「いやいやいやいや、遅れてすみませんねぇ」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Sorry for being late, my bad, my bad.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11392,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800065.",
-            "TextJPN": "「やぁみんな！@k@vS20/08/440800066.　お疲れさま！」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Hey everybody!@k@vS20/08/440800066. Good work today!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11393,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300259.",
-            "TextJPN": "「お疲れ～！！@k@vS20/03/440300260.　あれ？　圭ちゃんはー？」",
-            "NamesENG": "Mion",
-            "TextENG": "``Same to you~!!@k@vS20/03/440300260. Huh? Where's Kei-chan?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11394,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800067.",
-            "TextJPN": "「圭一くんはもう、次のシナリオの台本読みに行っちゃってるんだよ。@k@vS20/08/440800068.主人公だから大変だね！」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Keiichi-kun is already off reading the script for the next chapter.@k@vS20/08/440800068. It must be hard being the main character!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11395,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200119.",
-            "TextJPN": "「…あれー。@k@vS20/02/440200120.…残念ですね。@k@vS20/02/440200121.ちょっとだけでも顔を出してくれればよかったのに」",
-            "NamesENG": "Rena",
-            "TextENG": "``...Huh...@k@vS20/02/440200120. That's too bad.@k@vS20/02/440200121. He could have at least poked in to say hello.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11396,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/440500088.",
-            "TextJPN": "「………きっと喋るワード数が多すぎて居残りなのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``...He probably had too many lines in his script, and had to stay behind recording.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11397,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700336.",
-            "TextJPN": "「そりゃ古手さん、仕方がありませんよ。@k@vS20/11/440700337.前原さんの台詞だけで普通のアドベンチャーゲームなら全員分の量がありますからね～。@k@vS20/11/440700338.んっふっふっふ！」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Well, you can hardly blame him.@k@vS20/11/440700337. Maebara-san has enough lines to cover a full cast in a normal novel game, you see~@k@vS20/11/440700338. hehehehe!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11398,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800069.",
-            "TextJPN": "「しかし…圭一くんやレナちゃんなんか特にだけど、大変なお話だったねぇ！」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``In any case, that story really was a lot of trouble, especially for Keiichi-kun and Rena-chan!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11399,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/440400133.",
-            "TextJPN": "「大変も何も！　大々バッドエンドでございますわー！！」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Trouble? That was the mother of all Bad Ends!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11400,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200122.",
-            "TextJPN": "「結局…圭一くんを襲ったのって、正体は何なんだろう……？」",
-            "NamesENG": "Rena",
-            "TextENG": "``I wonder... What was the identity of the thing that attacked Keiichi-kun?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11401,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800070.",
-            "TextJPN": "「祟りに見せかけておいて、実は人間の仕業…ってのが僕の推理なんだけどね」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``My theory is that it was the work of people made to look like a curse.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11402,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/440500089.",
-            "TextJPN": "「……でも圭一は、最期に謎の電話をかけてきていましたのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``...But Keiichi made that mysterious phone call at his demise.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11403,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300261.",
-            "TextJPN": "「うん。@k@vS20/03/440300262.私もあの電話は変だと思ったね。@k@vS20/03/440300263.あの時点で圭ちゃんは、犯人は人間だと確信してたはずなのにさ」",
-            "NamesENG": "Mion",
-            "TextENG": "``Yeah.@k@vS20/03/440300262. I also thought that call was strange.@k@vS20/03/440300263. At that point, Kei-chan should have been certain that the culprits were people.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11404,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/440400134.",
-            "TextJPN": "「……おかしな電話でしたわよね。@k@vS20/04/440400135.なんかオバケに追いかけられてる、みたいな」",
-            "NamesENG": "Satoko",
-            "TextENG": "``...That really was a strange phone call.@k@vS20/04/440400135. It almost sounded like he was being chased by a ghost or something.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11405,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200123.",
-            "TextJPN": "「あの電話だけだと…やっぱり犯人って人間じゃなくて、祟りなのかなって思っちゃうよね」",
-            "NamesENG": "Rena",
-            "TextENG": "``Just from that phone call... it really makes me think that it was the work of a curse after all.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11406,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700339.",
-            "TextJPN": "「せっかくですから、意見を出してみようじゃありませんか。@k@vS20/11/440700340.じゃー園崎さんから」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Since we're all here, why don't we all share our theories?@k@vS20/11/440700340. Let's start with Sonozaki-san.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11407,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300264.",
-            "TextJPN": "「私は絶対に人間説！@k@vS20/03/440300265.　雛見沢の怪しい昔語りかなんかになぞらえて、誰かが起こしてる人為的事件だと思うね！」",
-            "NamesENG": "Mion",
-            "TextENG": "``I absolutely believe it was people!@k@vS20/03/440300265. I think it was a man-made incident that was just imitating the strange folklore floating around Hinamizawa!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11408,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200124.",
-            "TextJPN": "「確かに。@k@vS20/02/440200125.毎年、お祭りの日になると起こる連続怪死事件なんて、怪しいもんね」",
-            "NamesENG": "Rena",
-            "TextENG": "``Certainly.@k@vS20/02/440200125. Every year, on the day of the festival, for another link in the chain of mysterious deaths to happen certainly is suspicious.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11409,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300266.",
-            "TextJPN": "「その連続怪死って言うのも、何かの昔語りの再現なんだよ。きっと！」",
-            "NamesENG": "Mion",
-            "TextENG": "``That so-called chain of mysterious deaths, it has to be somebody trying to reenact the folklore! Definitely!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11410,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/440400136.",
-            "TextJPN": "「私は祟りだと思いましてよ！！@k@vS20/04/440400137.　玄関で圭一さんが暴れたシーンとか、ラストの電話のシーンとかを見れば、人間が犯人では説明がつきませんもの」",
-            "NamesENG": "Satoko",
-            "TextENG": "``I think it was the curse!!@k@vS20/04/440400137. Looking at the scene were Keiichi-san went berserk in the entryway, and the last scene with the phone call, those cannot be explained with a human culprit.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11411,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200126.",
-            "TextJPN": "「そう言えばそうだよね…。@k@vS20/02/440200127.とても人間の仕業とは思えないシーンだったし」",
-            "NamesENG": "Rena",
-            "TextENG": "``When you say it that way...@k@vS20/02/440200127. It really wasn't the type of scene that would make you think it was the work of an actual person.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11412,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800071.",
-            "TextJPN": "「…うーん、僕はそれでも……人間が犯人だと思うねぇ。@k@vS20/08/440800072.あの玄関やラストのシーンは、追い詰められた圭一くんの、被害意識からの妄想じゃないかって思うんだ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``...Yeah, but even then... I still think it was a person who did it.@k@vS20/08/440800072. That last scene and the one with the entryway, I think that the stress must have driven him into paranoid delusions.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11413,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/440400138.",
-            "TextJPN": "「む、難しい言葉を使われてもわかりませんわー！！」",
-            "NamesENG": "Satoko",
-            "TextENG": "``You aren't helping me to understand by using such complicated words!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11414,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/440500090.",
-            "TextJPN": "「……つまり、怖がりの圭一が見た幻だと言ってるのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``...In other words, Keiichi was so scared that he was imagining things.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11415,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/440400139.",
-            "TextJPN": "「じゃじゃ、じゃああのシーンの正体は…、圭一さんの後ろにいた謎の気配は何なんですのー？！」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Then, then, thennnnn... what was the meaning behind that scene...? What exactly was that mysterious presence behind Keiichi!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11416,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300267.",
-            "TextJPN": "「引っ掛けだよ。ヒッカケ」",
-            "NamesENG": "Mion",
-            "TextENG": "``A red herring. R-e-d H-e-r-r-i-n-g.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11417,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200128.",
-            "TextJPN": "「魅ぃちゃん、引っ掛けってどうゆう意味？」",
-            "NamesENG": "Rena",
-            "TextENG": "``Mii-chan, what do you mean by a red herring?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11418,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300268.",
-            "TextJPN": "「富竹のおじさまが言うようにさ、あのシーンは追い詰められた圭ちゃんの被害妄想のシーンなんだよ。@k@vS20/03/440300269.それを濃密に描くことで、プレイヤーに祟りだと思わせようとする演出なんだよ。@k@vS20/03/440300270.だから引っ掛けってワケ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Like old man Tomitake here said, that scene was the result of Kei-chan having a stress-induced delusion from being mentally cornered.@k@vS20/03/440300269. The overly graphic depiction was a ploy to make the player think it was a curse.@k@vS20/03/440300270. That's why it was a red herring!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11419,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/440400140.",
-            "TextJPN": "「そ、それを言われると……むむむー……でもでも………」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Wh-When you say it like that... hmmmmmm... but, but...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11420,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800073.",
-            "TextJPN": "「ははは、まぁそういう可能性もあるってことだよ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Hahaha, well it just means that there's that possibility.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11421,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200129.",
-            "TextJPN": "「だとすると…犯人は複数で村ぐるみっていう、劇中の大石さんの推理は正しいのかな？@k@vS20/02/440200130.　当の本人の大石さんはどう思いますか？」",
-            "NamesENG": "Rena",
-            "TextENG": "``In that case... the theory that Ooishi-san proposed during the story that it was a conspiracy by the villagers was correct?@k@vS20/02/440200130. What does the man himself have to say about that?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11422,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700341.",
-            "TextJPN": "「私ですか？@k@vS20/11/440700342.　なっはっはっは……。@k@|@y@vS20/11/440700343.……うーん。@k@vS20/11/440700344.悩みますねぇ」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Me?@k@vS20/11/440700342. Ahahaha...@k@|@y@vS20/11/440700343. Hmmm...@k@vS20/11/440700344. It makes you think, eh?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11423,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800074.",
-            "TextJPN": "「あれ？@k@vS20/08/440800075.　僕はてっきり、大石さんは人間説だと思ってましたけど」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Huh?@k@vS20/08/440800075. I totally thought that Ooishi-san would be behind the 'people' explanation.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11424,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700345.",
-            "TextJPN": "「……劇中の私は犯人は人間だと断じてますが、人間が犯人だとすると、いろいろ不可解なことが多いんですよ」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``...During the story, I said it was definitely the work of people. But if a person really was to blame, that leaves a lot of loose ends.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11425,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200131.",
-            "TextJPN": "「たとえばどんな？@k@vS20/02/440200132.　大石刑事さんの推理を聞かせてください…！」",
-            "NamesENG": "Rena",
-            "TextENG": "``Like what?@k@vS20/02/440200132. Let us hear what Detective Ooishi-san's theory is!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11426,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700346.",
-            "TextJPN": "「まず人間が犯人だとすると、絶対に動機が必要なんです。@k@vS20/11/440700347.…こういうことをして誰が得をするのか、ってことなんです」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``First of all, if a human is the culprit, then there has to be a motive...@k@vS20/11/440700347. In other words, somebody has to gain something from it.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11427,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300271.",
-            "TextJPN": "「つまりおじさま、人間が犯人なら、連続怪死事件を起こすことによって、誰かが得をしなくちゃいけない、ってこと？」",
-            "NamesENG": "Mion",
-            "TextENG": "``So what you mean is, if this was the work of people, there would have to be something gained from causing the chain of mysterious deaths?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11428,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700348.",
-            "TextJPN": "「そういうことです。@k@vS20/11/440700349.ダム開発の関係者が死ぬうちは利害も感じられましたが、近年の犠牲者はそれとも無縁です。@k@vS20/11/440700350.…第一、前原さんを殺して誰が得をすると言うんです？」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Exactly.@k@vS20/11/440700349. I felt that somebody could have benefited from the deaths of people related to the dam development, but the recent victims weren't related to that at all.@k@vS20/11/440700350. ...First off, who benefits from killing Maebara-san?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11429,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800076.",
-            "TextJPN": "「なるほど。@k@vS20/08/440800077.…そう言われると…僕も弱いな……」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``I see.@k@vS20/08/440800077. If you say it like that, my case is kind of weak too...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11430,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/440400141.",
-            "TextJPN": "「だってお金とかも盗られてはいないんですもの。@k@vS20/04/440400142.人間が犯人なわけありませんわー！」",
-            "NamesENG": "Satoko",
-            "TextENG": "``I mean, none of your money was stolen.@k@vS20/04/440400142. There's no way it was human culprits!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11431,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200133.",
-            "TextJPN": "「でも、そうとばかりは限らないんじゃない？@k@vS20/02/440200134.　さっき魅ぃちゃんが言ったように、何かの昔語りの再現そのものに意味があるんだとしたら……」",
-            "NamesENG": "Rena",
-            "TextENG": "``But that's not everything there is to it, right?@k@vS20/02/440200134. Like Mii-chan just said, there might have been some sort of reason for them to reenact the folklore...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11432,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300272.",
-            "TextJPN": "「そーゆーこと。@k@vS20/03/440300273.これは営利殺人じゃないんだよ。@k@vS20/03/440300274.きっとこれは…村の血塗られた歴史を再現するための………何らかの儀式的殺人じゃないかなって思うわけ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Exactly!@k@vS20/03/440300273. This wasn't a murder where you consider the typical motives.@k@vS20/03/440300274. It makes me think that this was most likely... some sort of ritualistic murder to reenact the blood-stained history of the village!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11433,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/440500091.",
-            "TextJPN": "「……では聞きますですが、それを再現すると誰か得をするのですか…？」",
-            "NamesENG": "Rika",
-            "TextENG": "``...So I'll ask the question of the hour, who gains from this reenactment...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11434,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800078.",
-            "TextJPN": "「得をするんじゃなくて…もっと心理的なもの。@k@vS20/08/440800079.……僕は……何かの復讐じゃないかと思うね。@k@vS20/08/440800080.土着的な何か。@k@vS20/08/440800081.…今回のシナリオでは語られなかった因縁だよ！」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``It's not about simple benefit... it's a more psychological reason.@k@vS20/08/440800079. I think... that maybe this was an act of revenge.@k@vS20/08/440800080. Something native to the region...@k@vS20/08/440800081. Some connection not touched on this time around!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11435,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700351.",
-            "TextJPN": "「なるほど。@k@vS20/11/440700352.過去に酷い扱いを受けた某家の人たちが先祖の恨みを晴らすために…ってな感じですか？@k@vS20/11/440700353.　うーん………私はそれにも反対ですねぇ」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``I see.@k@vS20/11/440700352. A member of some repressed family looking to air out an old grudge of their ancestors... something like that?@k@vS20/11/440700353. Hmmm... I don't like that.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11436,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300275.",
-            "TextJPN": "「じゃー何。大石さんはまさか、祟り派なわけ？！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Then what is it? It couldn't be that you're leaning towards the 'curse' explanation, Ooishi-san?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11437,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/440400143.",
-            "TextJPN": "「そうですわそうですわ！！@k@vS20/04/440400144.　刑事役の大石さんが言うんですもの！@k@vS20/04/440400145.　祟りに決まってますわー！！」",
-            "NamesENG": "Satoko",
-            "TextENG": "``That's right, that's right!!@k@vS20/04/440400144. The man playing the detective said so!@k@vS20/04/440400145. It's decided! It was a curse!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11438,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700354.",
-            "TextJPN": "「劇中で前原さんが言うように、オヤシロさまが竜宮さんや園崎さんに乗り移って悪さをしている…って考えると。@k@vS20/11/440700355.……一番つじつまが合うんです。@k@vS20/11/440700356.残念ながら」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``If, as Maebara-san said during the story, it was the case that Oyashiro-sama possessed Ryuugu-san and Sonozaki-san and committed those acts...@k@vS20/11/440700355. That would fit the evidence the most.@k@vS20/11/440700356. As much as I hate to say it.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11439,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200135.",
-            "TextJPN": "「えっと……実はレナも大石さんと同じ意見なの。@k@vS20/02/440200136.…あんなにやさしかったレナや魅ぃちゃんが突然おかしくなるなんて、そうじゃなきゃ説明つかないもの」",
-            "NamesENG": "Rena",
-            "TextENG": "``Ummm... Actually, I'm of the same opinion as Ooishi-san.@k@vS20/02/440200136. I can't come up with any other explanation for the normally-kind Rena and Mii-chan to suddenly start acting strange like that.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11440,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300276.",
-            "TextJPN": "「……そこは………魅音の私が言うのも変だけど…、やっぱり私なんだと思う」",
-            "NamesENG": "Mion",
-            "TextENG": "``...About that... It may sound strange coming from the person herself, but I think that I, Mion, did it.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11441,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/440500092.",
-            "TextJPN": "「……魅ぃの話の意味がわかりにくいのですよ。@k@vS20/05/440500093.説明がほしいのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``...I don't get what Mii is saying.@k@vS20/05/440500093. I'd like an explanation.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11442,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300277.",
-            "TextJPN": "「あ、ごめん。@k@vS20/03/440300278.…つまりさ。@k@vS20/03/440300279.これってすっごく残酷な話なんじゃないかって思うんだよ」",
-            "NamesENG": "Mion",
-            "TextENG": "``Oh, sorry.@k@vS20/03/440300278. In other words...@k@vS20/03/440300279. I think this may end up being a really cruel story.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11443,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200137.",
-            "TextJPN": "「え、……何、魅ぃちゃん。@k@vS20/02/440200138.…それってひょっとして……」",
-            "NamesENG": "Rena",
-            "TextENG": "``Huh... Wait, Mii-chan...@k@vS20/02/440200138. You don't mean...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11444,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800082.",
-            "TextJPN": "「突き詰めるとそうなるのかな。@k@vS20/08/440800083.…僕もちょっと疑ってる」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Taking the human culprit theory to its logical conclusion, that's how it would seem...@k@vS20/08/440800083. I also have my suspicions.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11445,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700357.",
-            "TextJPN": "「つまり、竜宮さんも園崎さんも、実は本当にああいう性格で、引っ越してきたばかりの前原さんを騙している悪魔なんだ、と。@k@vS20/11/440700358.…こういうわけですか？」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``In other words, Ryuugu-san and Sonozaki-san both actually had those personalities to begin with, and were merely deceiving Maebara-san...@k@vS20/11/440700358. Am I right?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11446,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/440400146.",
-            "TextJPN": "「そんなの嫌ですわーーー！！！！@k@|@y@vS20/04/440400147.　わぁあぁああぁああぁああん！！！@k@vS20/04/440400148.　これは全部祟りの仕業なんですのよー！@k@vS20/04/440400149.　レナさんも魅音さんもみんなやさしい、いい人がいいのですのーーー！！！！」",
-            "NamesENG": "Satoko",
-            "TextENG": "``I don't like that at all!!!!@k@|@y@vS20/04/440400147. Waaaaaaaaaaaaaa!!!@k@vS20/04/440400148. This is all the curse's fault!@k@vS20/04/440400149. Rena-san and Mion-san and everybody else are all kind, nice people!!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11447,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200139.",
-            "TextJPN": "「れ、レナもそうだな！@k@vS20/02/440200140.　レナや魅ぃちゃんって本当にいい人なんだって思う。@k@vS20/02/440200141.…きっと劇中で出てきた厳しいシーンは、何かに取り憑かれてたんだって思うの」",
-            "NamesENG": "Rena",
-            "TextENG": "``I-I think that too!@k@vS20/02/440200140. I think that Rena and Mion-chan are really good people at heart.@k@vS20/02/440200141. ...I think that during the story, they must have been possessed by something.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11448,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300280.",
-            "TextJPN": "「レナも祟り派か。@k@vS20/03/440300281.じゃー祟り派の皆さんにお聞きしますけどさ。@k@vS20/03/440300282.…祟りが起こるからにはそれなりの理由があるんでしょ？@k@vS20/03/440300283.　無差別に祟るとは思えないなー。@k@vS20/03/440300284.そこんとこ説明できるの？」",
-            "NamesENG": "Mion",
-            "TextENG": "``So Rena also thinks it was a curse.@k@vS20/03/440300281. Then let me ask everybody who thinks it was a curse...@k@vS20/03/440300282. There has to be a reason for a curse, right?@k@vS20/03/440300283. It doesn't make sense for a curse to just indiscriminately befall someone.@k@vS20/03/440300284. Can somebody explain that?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11449,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/440400150.",
-            "TextJPN": "「祟りは祟りですもの！！@k@vS20/04/440400151.　人間の考えでは想像もつきませんわー！」",
-            "NamesENG": "Satoko",
-            "TextENG": "``A curse is a curse!@k@vS20/04/440400151. Human logic won't get us anywhere!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11450,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800084.",
-            "TextJPN": "「あはは、沙都子ちゃん。@k@vS20/08/440800085.擬人化された神さまという存在は、結局は人間の生み出したものなんだよ。@k@vS20/08/440800086.だからその考え方も、人間に理解できるようにできてる」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Ahaha, Satoko-chan.@k@vS20/08/440800085. A personified deity is, in the end, nothing more than the creation of people.@k@vS20/08/440800086. That's why their method of thinking is also understandable to humans."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11451,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800087.",
-            "TextJPN": "「…ギリシャ神話の神様を見てごらんよ。@k@vS20/08/440800088.泣いたり怒ったり嫉妬したり…とにかく人間的なんだよ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "Just take a look at the Greek Pantheon.@k@vS20/08/440800088. They cry, get angry, get jealous... basically, they're just like humans.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11452,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200142.",
-            "TextJPN": "「えっと…、つまり、オヤシロさまもまた、人間同様に何らかの利害に基づいて祟りをしている、ということですか？」",
-            "NamesENG": "Rena",
-            "TextENG": "``Uhh... So what you're saying is that Oyashiro-sama is cursing people with some benefit in mind?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11453,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800089.",
-            "TextJPN": "「変な言い方になっちゃったけど、つまりはそういうこと」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``That's an odd way of putting it, but basically, yes.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11454,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700359.",
-            "TextJPN": "「……触らぬ神に祟りなしって言いますからねぇ。@k@vS20/11/440700360.なっはっは、一理あります」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``That's why they say: Far from Jupiter, far from his thunder.@k@vS20/11/440700360. Ahaha, you do have a point.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11455,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/440500094.",
-            "TextJPN": "「……つまり、オヤシロさまにせよ、人間にせよ、何か理由があるはず、ということなのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``...Basically, it doesn't matter if it's Oyashiro-sama, or humans, there has to be a reason.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11456,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/440400152.",
-            "TextJPN": "「でも梨花？@k@vS20/04/440400153.　その理由がはっきりしないなら…どうなりますの？」",
-            "NamesENG": "Satoko",
-            "TextENG": "``But Rika,@k@vS20/04/440400153. what if that reason isn't clear?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11457,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/440500095.",
-            "TextJPN": "「……つまりは、わかんないということなのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``...I don't know.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11458,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200143.",
-            "TextJPN": "「あははははは！@k@vS20/02/440200144.　そうだね。@k@vS20/02/440200145.まだプロローグだもんね。@k@vS20/02/440200146.明かされていないことがたくさんあるだろうし」",
-            "NamesENG": "Rena",
-            "TextENG": "``Ahahahahaha!@k@vS20/02/440200144. That's right.@k@vS20/02/440200145. This is still just the prologue.@k@vS20/02/440200146. There's still a lot of stuff that hasn't been revealed yet.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11459,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800090.",
-            "TextJPN": "「そうだね。@k@vS20/08/440800091.現時点ではこれ以上の推理は難しいねぇ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Yeah.@k@vS20/08/440800091. It's hard to come up with any more theories at this point.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11460,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300285.",
-            "TextJPN": "「いーや！@k@vS20/03/440300286.　白黒付けないと納得できないね！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Nooo!@k@vS20/03/440300286. I won't be satisfied until this is all made clear!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11461,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/440400154.",
-            "TextJPN": "「魅音さんもこだわりますのね」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Mion-san seems rather particular about this.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11462,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300287.",
-            "TextJPN": "「あははは！@k@vS20/03/440300288.　限られた状況で最大限に推理する！！@k@vS20/03/440300289.　ちょっぴり部活感覚で面白いでしょ？」",
-            "NamesENG": "Mion",
-            "TextENG": "``Ahahaha!@k@vS20/03/440300288. We'll just make the best with what we know!!@k@vS20/03/440300289. Doesn't this feel interesting? Like the club a little bit?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11463,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200147.",
-            "TextJPN": "「あ、うん！@k@vS20/02/440200148.　そう考えれば面白いかも！」",
-            "NamesENG": "Rena",
-            "TextENG": "``Ah, yeah!@k@vS20/02/440200148. If you put it that way, it does seem interesting!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11464,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700361.",
-            "TextJPN": "「じゃあ、整理してみましょうか。@k@vS20/11/440700362.えーと、私は祟り派です。@k@vS20/11/440700363.富竹さんは人間派でしたよね？」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Well then, let's summarize.@k@vS20/11/440700362. Let's see, I think it was a curse.@k@vS20/11/440700363. Tomitake-kun thinks it was people, right?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11465,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800092.",
-            "TextJPN": "「えぇ。@k@vS20/08/440800093.僕は人間が犯人ってことでいきます」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Yeah.@k@vS20/08/440800093. I'll go with it being people.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11466,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300290.",
-            "TextJPN": "「私も人間犯人説！@k@vS20/03/440300291.　もちろん、祟りというファンタジーは嫌いじゃないよ？@k@vS20/03/440300292.　だけど今回の事件に限っては、祟りの線は薄いねー」",
-            "NamesENG": "Mion",
-            "TextENG": "``I also agree with the 'people' explanation!@k@vS20/03/440300291. That's not to say I hate such fantastic things like curses.@k@vS20/03/440300292. But in this particular case, the connection to a curse is a little weak~.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11467,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700364.",
-            "TextJPN": "「人間派が２人出ましたね。@k@vS20/11/440700365.竜宮さんは祟り派でしたよね？」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Two for the 'people' explanation then.@k@vS20/11/440700365. Ryuugu-san was on the 'curse' side of things, right?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11468,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200149.",
-            "TextJPN": "「はい。@k@vS20/02/440200150.レナと沙都子ちゃんは祟り派です。@k@vS20/02/440200151.ねー？」",
-            "NamesENG": "Rena",
-            "TextENG": "``Yup.@k@vS20/02/440200150. Satoko-chan and I believe it was a curse.@k@vS20/02/440200151. Right~?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11469,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/440400155.",
-            "TextJPN": "「えぇ！@k@vS20/04/440400156.　祟り派ですわよ！@k@vS20/04/440400157.　レナさんや魅音さんのことを悪魔みたいに言う人の方がよっぽど祟りにあうべきですの！！」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Yeah!@k@vS20/04/440400156. I think it was a curse!@k@vS20/04/440400157. People who say that Rena-san and Mion-san were evil to begin with are more befitting of a curse!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11470,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300293.",
-            "TextJPN": "「そりゃまー、私も自分のキャラがそんな悪魔みたいなヤツだとは思いたくないけどさ。@k@vS20/03/440300294.……部活モードの時にはクールでなきゃ！@k@vS20/03/440300295.　感情論だけで選ぶと大ヤケドするよ～？」",
-            "NamesENG": "Mion",
-            "TextENG": "``Well... I don't want to believe that my own personality was that twisted.@k@vS20/03/440300294. But I have to keep a cool head when I'm in Club Mode!@k@vS20/03/440300295. If I base my choice on just emotion, I'll regret it, you know~?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11471,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700366.",
-            "TextJPN": "「まぁまぁ。@k@vS20/11/440700367.どっちを選んだっていいじゃあないですか」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Well now...@k@vS20/11/440700367. It doesn't really matter which side you pick, does it?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11472,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200152.",
-            "TextJPN": "「あれ？　梨花ちゃんがまだだね。@k@vS20/02/440200153.どっちだと思う？」",
-            "NamesENG": "Rena",
-            "TextENG": "``Huh? Rika-chan hasn't said anything yet.@k@vS20/02/440200153. What do you think?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11473,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/440500096.",
-            "TextJPN": "「………ボクはオヤシロさまが悪い神様だとは思わないですよ」",
-            "NamesENG": "Rika",
-            "TextENG": "``...I don't think that Oyashiro-sama is a bad god.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11474,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800094.",
-            "TextJPN": "「あれ、面白い意見だね」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Huh, that's an interesting opinion.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11475,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/440500097.",
-            "TextJPN": "「……祟ってばかりの悪い神様なら、祀るのは嫌なのです。@k@vS20/05/440500098.ボクは祟るより、ご利益のある神さまの方が好きなのですよ」",
-            "NamesENG": "Rika",
-            "TextENG": "``...I don't want to worship some bad god that just curses people.@k@vS20/05/440500098. I'd like a generous god more than one that curses.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11476,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200154.",
-            "TextJPN": "「そっか、梨花ちゃんって巫女さんをやってるんだよね…！@k@vS20/02/440200155.　うん。いい意見」",
-            "NamesENG": "Rena",
-            "TextENG": "``That's right, Rika-chan is a shrine maiden...!@k@vS20/02/440200155. Yup. Good opinion.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11477,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300296.",
-            "TextJPN": "「じゃあ何？@k@vS20/03/440300297.　梨花ちゃんはオヤシロさまじゃないって思うなら、…やっぱ犯人は人間って思うわけ？！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Then what?@k@vS20/03/440300297. If Rika-chan doesn't believe that it was Oyashiro-sama... then do you think the perpetrators were human after all!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11478,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/440500099.",
-            "TextJPN": "「……そういうことにしますのです☆」",
-            "NamesENG": "Rika",
-            "TextENG": "``...We'll just go with that.☆``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11479,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700368.",
-            "TextJPN": "「ありゃまぁ。@k@vS20/11/440700369.…票がざっくり分かれましたねぇ！@k@vS20/11/440700370.　祟り派と人間派で半々ですか」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Well now...@k@vS20/11/440700369. That means the votes are split right down the middle!@k@vS20/11/440700370. So half of us think it was a curse, and half of us think it was people?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11480,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300298.",
-            "TextJPN": "「どうすんのさ。@k@vS20/03/440300299.これじゃ意見は半々。@k@vS20/03/440300300.決着がつかなくて面白くないよね！」",
-            "NamesENG": "Mion",
-            "TextENG": "``What should we do then?@k@vS20/03/440300299. This means that the opinions are still split.@k@vS20/03/440300300. It's no fun if we don't settle this!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11481,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800095.",
-            "TextJPN": "「裁判官が奇数なのは、つまりそういうことだからねぇ。@k@vS20/08/440800096.あとひとり意見がほしいなぁ！」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``We need there to be an odd number of judges, in other words:@k@vS20/08/440800096. We need one more opinion!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11482,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200156.",
-            "TextJPN": "「あ、ならちょうどいいかな。@k@vS20/02/440200157.圭一くん本人に聞いてみない？@k@vS20/02/440200158.　電話で！」",
-            "NamesENG": "Rena",
-            "TextENG": "``Ah, perfect timing then.@k@vS20/02/440200157. Why don't we ask Keiichi-kun himself?@k@vS20/02/440200158. Let's call him!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11483,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/440500100.",
-            "TextJPN": "「……祟り殺された本人の意見は貴重ですよ」",
-            "NamesENG": "Rika",
-            "TextENG": "``...The opinion of the victim himself is very valuable.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11484,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/440400158.",
-            "TextJPN": "「そうと決まればさっそく電話ですわー！！！」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Since that's decided, it's time for the phone!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11485,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200159.",
-            "TextJPN": "「もしもし圭一くん？@k@vS20/02/440200160.　レナでーす。@k@vS20/02/440200161.今、お仕事お忙しいですか？」",
-            "NamesENG": "Rena",
-            "TextENG": "``Hello, Keiichi-kun?@k@vS20/02/440200160. It's Rena.@k@vS20/02/440200161. Are you busy with work right now?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11486,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100192.",
-            "TextJPN": "「あー忙しいぞー。@k@vS20/01/440100193.シナリオが一本終わって一休みって思ってたら、すぐに次のシナリオだもんなー！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Yeah, really busy.@k@vS20/01/440100193. Just when I thought I'd get a break because the chapter's over, it's already time for the next one!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11487,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300301.",
-            "TextJPN": "「圭ちゃん、どんな感じ？@k@vS20/03/440300302.　忙しいって？」",
-            "NamesENG": "Mion",
-            "TextENG": "``How's Kei-chan?@k@vS20/03/440300302. Busy?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11488,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200162.",
-            "TextJPN": "「うん。@k@vS20/02/440200163.スネてる」",
-            "NamesENG": "Rena",
-            "TextENG": "``Yeah.@k@vS20/02/440200163. He's moping.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11489,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100194.",
-            "TextJPN": "「聞こえてるぞこらー！！@k@vS20/01/440100195.　お前らは打ち上げ会でいいよなー！@k@vS20/01/440100196.　俺も出たかったー！！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``I can hear you, you know!!@k@vS20/01/440100195. It must be nice having a wrap-up party!@k@vS20/01/440100196. I wanted to go too!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11490,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/440500101.",
-            "TextJPN": "「……収録の残り台詞数でボクたちの誰か一人でも抜いたら、圭一も参加できるのですよ」",
-            "NamesENG": "Rika",
-            "TextENG": "``...If any one of us surpasses him in the number of lines remaining in the recording, Keiichi will be able to participate!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11491,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/440400159.",
-            "TextJPN": "「梨花、あの量でそれは不可能ですわ…」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Rika, that's impossible with that amount.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11492,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200164.",
-            "TextJPN": "「あ、それでごめんね圭一くん。@k@vS20/02/440200165.…今回のシナリオでね、@k@vS20/02/440200166.圭一くん、@k@vS20/02/440200167.その、………死んじゃったじゃない？@k@vS20/02/440200168.　犯人は誰だろうねって、そういう話をしてるの」",
-            "NamesENG": "Rena",
-            "TextENG": "``Ah, sorry about that, Keiichi-kun.@k@vS20/02/440200165. Anyways, during the current chapter,@k@vS20/02/440200166. Keiichi-kun,@k@vS20/02/440200167. didn't you... die?@k@vS20/02/440200168. We were just talking about who the culprit might be.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11493,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300303.",
-            "TextJPN": "「つまりさ、圭ちゃんを殺したのは人間か、オヤシロさまの祟りかってことで意見が分かれちゃってるのよー」",
-            "NamesENG": "Mion",
-            "TextENG": "``Basically, we're deadlocked on whether it was people or Oyashiro-sama's curse that killed you.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11494,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200169.",
-            "TextJPN": "「本当にごめんね！@k@vS20/02/440200170.　台本読みで忙しいところ…。@k@vS20/02/440200171.圭一くんはどっちだと思うかな？」",
-            "NamesENG": "Rena",
-            "TextENG": "``I'm really sorry!@k@vS20/02/440200170. Even though you're busy reviewing the script...@k@vS20/02/440200171. Keiichi-kun, which do you think it was?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11495,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100197.",
-            "TextJPN": "「そんなの決まってんじゃねーかー！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``That's obvious, isn't it?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11496,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200172.",
-            "TextJPN": "「どっち？」",
-            "NamesENG": "Rena",
-            "TextENG": "``Which?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11497,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100198.",
-            "TextJPN": "「どっちなんてもんじゃねーよ！！@k@vS20/01/440100199.　村の怪しげなヤツらに狙われて、さらにオヤシロさまとかいう怪しいのに祟られて！！！@k@vS20/01/440100200.　人間も祟りも全部！！！@k@vS20/01/440100201.　これはなにかの嫌がらせかーー！！！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Isn't it both of them!?@k@vS20/01/440100199. Targeted by suspicious people from the village, and then cursed by some strange Oyashiro-sama on top of that!@k@vS20/01/440100200. It's both humans and a curse!!!@k@vS20/01/440100201. Everybody's just picking on me!!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11498,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/440500102.",
-            "TextJPN": "「………かわいそかわいそです。@k@vS20/05/440500103.今度、頭をなでなでしてあげますですよ」",
-            "NamesENG": "Rika",
-            "TextENG": "``...So very, very, pitiful.@k@vS20/05/440500103. Next time, I'll give you a good patting on the head.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11499,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800097.",
-            "TextJPN": "「結局、意見がわかれちゃったねぇ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``In the end, the opinion's still split, huh.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11500,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700371.",
-            "TextJPN": "「私ももう一度考え直してみます。@k@vS20/11/440700372.見落としがあるかもしれませんので」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``I'll think this over again.@k@vS20/11/440700372. We might have missed something.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11501,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200173.",
-            "TextJPN": "「それでは引き続き、お楽しみ下さいね！」",
-            "NamesENG": "Rena",
-            "TextENG": "``Well then, please look forward to the next chapters!``"
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 0,
+		"JPN": "鬼隠し編",
+		"ENG": "Onikakushi-hen"
+	},
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "お疲れさま会",
+		"ENG": "Afterparty"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11374,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200103.",
+		"TextJPN": "「はい！　『鬼隠し』をプレイされた皆さん、お疲れさまでした！@k@vS20/02/440200104.　いかがだったでしょうか？@k@vS20/02/440200105.　ちょっぴりでも楽しんでもらえたらとっても嬉しいです」",
+		"NamesENG": "Rena",
+		"TextENG": "``Hello! Thank you for playing 'Onikakushi' chapter!@k@vS20/02/440200104. How was it?@k@vS20/02/440200105. If you enjoyed it, even a little bit, it would make me happy.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11375,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/440400127.",
+		"TextJPN": "「ちょっぴりも何も！@k@vS20/04/440400128.　あんなすごいバッドエンドで終わられたら、ぷんぷんでございますことよー？！」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Even a little bit is stretching it!@k@vS20/04/440400128. That incredibly dark ending made me angry, you know?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11376,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/440500082.",
+		"TextJPN": "「…ぷんぷんなのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``...Made us angry.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11377,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200106.",
+		"TextJPN": "「あははは！@k@vS20/02/440200107.　今回の『鬼隠し』は、全体の謎に挑む人たちが最初に通るお話。@k@vS20/02/440200108.だから実質上のプロローグの位置づけなんだって」",
+		"NamesENG": "Rena",
+		"TextENG": "``Ahaha!@k@vS20/02/440200107. This 'Onikakushi' chapter is the first story that readers challenging the mystery of the entire series get to experience.@k@vS20/02/440200108. So it's actually supposed to be somewhat of a prologue.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11378,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/440400129.",
+		"TextJPN": "「そのプロローグが…こんな凄まじいバッドエンドでございますのー？」",
+		"NamesENG": "Satoko",
+		"TextENG": "``How could the prologue... have such an incredibly dark ending?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11379,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300249.",
+		"TextJPN": "「うーん、でもそーゆうのってあるじゃん？@k@vS20/03/440300250.　この最悪のバッドエンドを回避するために、プレイヤーさんが物語を模索していくのがこの作品の醍醐味だし」",
+		"NamesENG": "Mion",
+		"TextENG": "``Yeah, but doesn't that happen sometimes?@k@vS20/03/440300250. The player digging through the story in order to avoid a bad ending is the point of these types of games after all.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11380,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/440500083.",
+		"TextJPN": "「…まだ始まったばかりですよ。ボクは次のお話が楽しみなのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``...It's still just the first chapter. I'm looking forward to the next one.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11381,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300251.",
+		"TextJPN": "「これから、どんな話が待ち受けてるんだろう？@k@vS20/03/440300252.　レナは聞いてるー？」",
+		"NamesENG": "Mion",
+		"TextENG": "``Just what kind of plot awaits us from here on?@k@vS20/03/440300252. Rena, do you know?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11382,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200109.",
+		"TextJPN": "「うん。@k@vS20/02/440200110.今回はレナをパートナーに選んだ物語だったけど、@k@vS20/02/440200111.他にも魅ぃちゃん、沙都子ちゃんをパートナーに選んだお話もあるみたいだね」",
+		"NamesENG": "Rena",
+		"TextENG": "``Yeah.@k@vS20/02/440200110. This episode has Rena as your closest friend,@k@vS20/02/440200111. but it seems like there are stories featuring Mii-chan and Satoko-chan, too.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11383,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/440400131.",
+		"TextJPN": "「他のシナリオにはどんな展開があるんですの？」",
+		"NamesENG": "Satoko",
+		"TextENG": "``What kind of plot developments can we expect from the other scenarios?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11384,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200115.",
+		"TextJPN": "「今回の『鬼隠し』では、雛見沢で近年起こった連続怪死事件が紹介されたでしょ？@k@vS20/02/440200116.　たとえば魅ぃちゃんのシナリオでは雛見沢の古い歴史なんかが紹介されるんだって」",
+		"NamesENG": "Rena",
+		"TextENG": "``In this chapter, they introduced the string of mysterious deaths that were happening in Hinamizawa recently, right?@k@vS20/02/440200116. In Mii-chan's chapter it will introduce some of the history of Hinamizawa.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11385,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300255.",
+		"TextJPN": "「異常事態の連続で、すっかりわかんなくなっちゃったけど……オヤシロさまの祟りって、どういうものなのか。@k@vS20/03/440300256.いやそもそも、オヤシロさまって何なのか、あまり説明なかったからね」",
+		"NamesENG": "Mion",
+		"TextENG": "``With one strange event happening after another, I got totally lost... what exactly is Oyashiro-sama's curse about?@k@vS20/03/440300256. Actually, what is Oyashiro-sama to begin with? They didn't explain it much.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11386,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/440500086.",
+		"TextJPN": "「……これから他のシナリオに挑む人は、その内容の意外さと規模に驚くかもしれませんが」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Those who are about to tackle other scenarios may be surprised by the unexpectedness and scale of the content.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11387,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200117.",
+		"TextJPN": "「…う～ん、よくは聞いてないんだけど…。@k@vS20/02/440200118.……でも……なんか嫌ぁな予感」",
+		"NamesENG": "Rena",
+		"TextENG": "``...Hmmmm, I haven't heard much about it.@k@vS20/02/440200118. But... I have kind of a bad feeling about it.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11388,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/440500087.",
+		"TextJPN": "「……またしても祟られそうな、嫌な物語です」",
+		"NamesENG": "Rika",
+		"TextENG": "``...It feels like it'll be another one of those scary stories where somebody gets cursed again.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11389,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300257.",
+		"TextJPN": "「圭ちゃんも大変だねぇ～！@k@vS20/03/440300258.　今度はどんな祟りにやられるやら！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Tough luck for Kei-chan~!@k@vS20/03/440300258. What kind of curse is he gonna get hit with this time?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11390,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/440400132.",
+		"TextJPN": "「でも、どんなお話になるのか楽しみでございますわね！」",
+		"NamesENG": "Satoko",
+		"TextENG": "``However, I am looking forward to seeing what kind of story it's going to be!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11391,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700335.",
+		"TextJPN": "「いやいやいやいや、遅れてすみませんねぇ」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Sorry for being late, my bad, my bad.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11392,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800065.",
+		"TextJPN": "「やぁみんな！@k@vS20/08/440800066.　お疲れさま！」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Hey everybody!@k@vS20/08/440800066. Good work today!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11393,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300259.",
+		"TextJPN": "「お疲れ～！！@k@vS20/03/440300260.　あれ？　圭ちゃんはー？」",
+		"NamesENG": "Mion",
+		"TextENG": "``Same to you~!!@k@vS20/03/440300260. Huh? Where's Kei-chan?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11394,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800067.",
+		"TextJPN": "「圭一くんはもう、次のシナリオの台本読みに行っちゃってるんだよ。@k@vS20/08/440800068.主人公だから大変だね！」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Keiichi-kun is already off reading the script for the next chapter.@k@vS20/08/440800068. It must be hard being the main character!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11395,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200119.",
+		"TextJPN": "「…あれー。@k@vS20/02/440200120.…残念ですね。@k@vS20/02/440200121.ちょっとだけでも顔を出してくれればよかったのに」",
+		"NamesENG": "Rena",
+		"TextENG": "``...Huh...@k@vS20/02/440200120. That's too bad.@k@vS20/02/440200121. He could have at least poked in to say hello.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11396,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/440500088.",
+		"TextJPN": "「………きっと喋るワード数が多すぎて居残りなのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``...He probably had too many lines in his script, and had to stay behind recording.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11397,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700336.",
+		"TextJPN": "「そりゃ古手さん、仕方がありませんよ。@k@vS20/11/440700337.前原さんの台詞だけで普通のアドベンチャーゲームなら全員分の量がありますからね～。@k@vS20/11/440700338.んっふっふっふ！」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Well, you can hardly blame him.@k@vS20/11/440700337. Maebara-san has enough lines to cover a full cast in a normal novel game, you see~@k@vS20/11/440700338. hehehehe!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11398,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800069.",
+		"TextJPN": "「しかし…圭一くんやレナちゃんなんか特にだけど、大変なお話だったねぇ！」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``In any case, that story really was a lot of trouble, especially for Keiichi-kun and Rena-chan!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11399,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/440400133.",
+		"TextJPN": "「大変も何も！　大々バッドエンドでございますわー！！」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Trouble? That was the mother of all Bad Ends!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11400,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200122.",
+		"TextJPN": "「結局…圭一くんを襲ったのって、正体は何なんだろう……？」",
+		"NamesENG": "Rena",
+		"TextENG": "``I wonder... What was the identity of the thing that attacked Keiichi-kun?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11401,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800070.",
+		"TextJPN": "「祟りに見せかけておいて、実は人間の仕業…ってのが僕の推理なんだけどね」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``My theory is that it was the work of people made to look like a curse.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11402,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/440500089.",
+		"TextJPN": "「……でも圭一は、最期に謎の電話をかけてきていましたのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``...But Keiichi made that mysterious phone call at his demise.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11403,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300261.",
+		"TextJPN": "「うん。@k@vS20/03/440300262.私もあの電話は変だと思ったね。@k@vS20/03/440300263.あの時点で圭ちゃんは、犯人は人間だと確信してたはずなのにさ」",
+		"NamesENG": "Mion",
+		"TextENG": "``Yeah.@k@vS20/03/440300262. I also thought that call was strange.@k@vS20/03/440300263. At that point, Kei-chan should have been certain that the culprits were people.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11404,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/440400134.",
+		"TextJPN": "「……おかしな電話でしたわよね。@k@vS20/04/440400135.なんかオバケに追いかけられてる、みたいな」",
+		"NamesENG": "Satoko",
+		"TextENG": "``...That really was a strange phone call.@k@vS20/04/440400135. It almost sounded like he was being chased by a ghost or something.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11405,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200123.",
+		"TextJPN": "「あの電話だけだと…やっぱり犯人って人間じゃなくて、祟りなのかなって思っちゃうよね」",
+		"NamesENG": "Rena",
+		"TextENG": "``Just from that phone call... it really makes me think that it was the work of a curse after all.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11406,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700339.",
+		"TextJPN": "「せっかくですから、意見を出してみようじゃありませんか。@k@vS20/11/440700340.じゃー園崎さんから」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Since we're all here, why don't we all share our theories?@k@vS20/11/440700340. Let's start with Sonozaki-san.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11407,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300264.",
+		"TextJPN": "「私は絶対に人間説！@k@vS20/03/440300265.　雛見沢の怪しい昔語りかなんかになぞらえて、誰かが起こしてる人為的事件だと思うね！」",
+		"NamesENG": "Mion",
+		"TextENG": "``I absolutely believe it was people!@k@vS20/03/440300265. I think it was a man-made incident that was just imitating the strange folklore floating around Hinamizawa!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11408,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200124.",
+		"TextJPN": "「確かに。@k@vS20/02/440200125.毎年、お祭りの日になると起こる連続怪死事件なんて、怪しいもんね」",
+		"NamesENG": "Rena",
+		"TextENG": "``Certainly.@k@vS20/02/440200125. Every year, on the day of the festival, for another link in the chain of mysterious deaths to happen certainly is suspicious.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11409,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300266.",
+		"TextJPN": "「その連続怪死って言うのも、何かの昔語りの再現なんだよ。きっと！」",
+		"NamesENG": "Mion",
+		"TextENG": "``That so-called chain of mysterious deaths, it has to be somebody trying to reenact the folklore! Definitely!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11410,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/440400136.",
+		"TextJPN": "「私は祟りだと思いましてよ！！@k@vS20/04/440400137.　玄関で圭一さんが暴れたシーンとか、ラストの電話のシーンとかを見れば、人間が犯人では説明がつきませんもの」",
+		"NamesENG": "Satoko",
+		"TextENG": "``I think it was the curse!!@k@vS20/04/440400137. Looking at the scene were Keiichi-san went berserk in the entryway, and the last scene with the phone call, those cannot be explained with a human culprit.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11411,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200126.",
+		"TextJPN": "「そう言えばそうだよね…。@k@vS20/02/440200127.とても人間の仕業とは思えないシーンだったし」",
+		"NamesENG": "Rena",
+		"TextENG": "``When you say it that way...@k@vS20/02/440200127. It really wasn't the type of scene that would make you think it was the work of an actual person.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11412,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800071.",
+		"TextJPN": "「…うーん、僕はそれでも……人間が犯人だと思うねぇ。@k@vS20/08/440800072.あの玄関やラストのシーンは、追い詰められた圭一くんの、被害意識からの妄想じゃないかって思うんだ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``...Yeah, but even then... I still think it was a person who did it.@k@vS20/08/440800072. That last scene and the one with the entryway, I think that the stress must have driven him into paranoid delusions.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11413,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/440400138.",
+		"TextJPN": "「む、難しい言葉を使われてもわかりませんわー！！」",
+		"NamesENG": "Satoko",
+		"TextENG": "``You aren't helping me to understand by using such complicated words!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11414,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/440500090.",
+		"TextJPN": "「……つまり、怖がりの圭一が見た幻だと言ってるのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``...In other words, Keiichi was so scared that he was imagining things.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11415,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/440400139.",
+		"TextJPN": "「じゃじゃ、じゃああのシーンの正体は…、圭一さんの後ろにいた謎の気配は何なんですのー？！」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Then, then, thennnnn... what was the meaning behind that scene...? What exactly was that mysterious presence behind Keiichi!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11416,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300267.",
+		"TextJPN": "「引っ掛けだよ。ヒッカケ」",
+		"NamesENG": "Mion",
+		"TextENG": "``A red herring. R-e-d H-e-r-r-i-n-g.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11417,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200128.",
+		"TextJPN": "「魅ぃちゃん、引っ掛けってどうゆう意味？」",
+		"NamesENG": "Rena",
+		"TextENG": "``Mii-chan, what do you mean by a red herring?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11418,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300268.",
+		"TextJPN": "「富竹のおじさまが言うようにさ、あのシーンは追い詰められた圭ちゃんの被害妄想のシーンなんだよ。@k@vS20/03/440300269.それを濃密に描くことで、プレイヤーに祟りだと思わせようとする演出なんだよ。@k@vS20/03/440300270.だから引っ掛けってワケ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Like old man Tomitake here said, that scene was the result of Kei-chan having a stress-induced delusion from being mentally cornered.@k@vS20/03/440300269. The overly graphic depiction was a ploy to make the player think it was a curse.@k@vS20/03/440300270. That's why it was a red herring!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11419,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/440400140.",
+		"TextJPN": "「そ、それを言われると……むむむー……でもでも………」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Wh-When you say it like that... hmmmmmm... but, but...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11420,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800073.",
+		"TextJPN": "「ははは、まぁそういう可能性もあるってことだよ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Hahaha, well it just means that there's that possibility.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11421,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200129.",
+		"TextJPN": "「だとすると…犯人は複数で村ぐるみっていう、劇中の大石さんの推理は正しいのかな？@k@vS20/02/440200130.　当の本人の大石さんはどう思いますか？」",
+		"NamesENG": "Rena",
+		"TextENG": "``In that case... the theory that Ooishi-san proposed during the story that it was a conspiracy by the villagers was correct?@k@vS20/02/440200130. What does the man himself have to say about that?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11422,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700341.",
+		"TextJPN": "「私ですか？@k@vS20/11/440700342.　なっはっはっは……。@k@|@y@vS20/11/440700343.……うーん。@k@vS20/11/440700344.悩みますねぇ」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Me?@k@vS20/11/440700342. Ahahaha...@k@|@y@vS20/11/440700343. Hmmm...@k@vS20/11/440700344. It makes you think, eh?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11423,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800074.",
+		"TextJPN": "「あれ？@k@vS20/08/440800075.　僕はてっきり、大石さんは人間説だと思ってましたけど」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Huh?@k@vS20/08/440800075. I totally thought that Ooishi-san would be behind the 'people' explanation.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11424,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700345.",
+		"TextJPN": "「……劇中の私は犯人は人間だと断じてますが、人間が犯人だとすると、いろいろ不可解なことが多いんですよ」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``...During the story, I said it was definitely the work of people. But if a person really was to blame, that leaves a lot of loose ends.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11425,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200131.",
+		"TextJPN": "「たとえばどんな？@k@vS20/02/440200132.　大石刑事さんの推理を聞かせてください…！」",
+		"NamesENG": "Rena",
+		"TextENG": "``Like what?@k@vS20/02/440200132. Let us hear what Detective Ooishi-san's theory is!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11426,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700346.",
+		"TextJPN": "「まず人間が犯人だとすると、絶対に動機が必要なんです。@k@vS20/11/440700347.…こういうことをして誰が得をするのか、ってことなんです」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``First of all, if a human is the culprit, then there has to be a motive...@k@vS20/11/440700347. In other words, somebody has to gain something from it.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11427,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300271.",
+		"TextJPN": "「つまりおじさま、人間が犯人なら、連続怪死事件を起こすことによって、誰かが得をしなくちゃいけない、ってこと？」",
+		"NamesENG": "Mion",
+		"TextENG": "``So what you mean is, if this was the work of people, there would have to be something gained from causing the chain of mysterious deaths?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11428,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700348.",
+		"TextJPN": "「そういうことです。@k@vS20/11/440700349.ダム開発の関係者が死ぬうちは利害も感じられましたが、近年の犠牲者はそれとも無縁です。@k@vS20/11/440700350.…第一、前原さんを殺して誰が得をすると言うんです？」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Exactly.@k@vS20/11/440700349. I felt that somebody could have benefited from the deaths of people related to the dam development, but the recent victims weren't related to that at all.@k@vS20/11/440700350. ...First off, who benefits from killing Maebara-san?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11429,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800076.",
+		"TextJPN": "「なるほど。@k@vS20/08/440800077.…そう言われると…僕も弱いな……」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``I see.@k@vS20/08/440800077. If you say it like that, my case is kind of weak too...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11430,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/440400141.",
+		"TextJPN": "「だってお金とかも盗られてはいないんですもの。@k@vS20/04/440400142.人間が犯人なわけありませんわー！」",
+		"NamesENG": "Satoko",
+		"TextENG": "``I mean, none of your money was stolen.@k@vS20/04/440400142. There's no way it was human culprits!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11431,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200133.",
+		"TextJPN": "「でも、そうとばかりは限らないんじゃない？@k@vS20/02/440200134.　さっき魅ぃちゃんが言ったように、何かの昔語りの再現そのものに意味があるんだとしたら……」",
+		"NamesENG": "Rena",
+		"TextENG": "``But that's not everything there is to it, right?@k@vS20/02/440200134. Like Mii-chan just said, there might have been some sort of reason for them to reenact the folklore...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11432,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300272.",
+		"TextJPN": "「そーゆーこと。@k@vS20/03/440300273.これは営利殺人じゃないんだよ。@k@vS20/03/440300274.きっとこれは…村の血塗られた歴史を再現するための………何らかの儀式的殺人じゃないかなって思うわけ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Exactly!@k@vS20/03/440300273. This wasn't a murder where you consider the typical motives.@k@vS20/03/440300274. It makes me think that this was most likely... some sort of ritualistic murder to reenact the blood-stained history of the village!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11433,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/440500091.",
+		"TextJPN": "「……では聞きますですが、それを再現すると誰か得をするのですか…？」",
+		"NamesENG": "Rika",
+		"TextENG": "``...So I'll ask the question of the hour, who gains from this reenactment...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11434,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800078.",
+		"TextJPN": "「得をするんじゃなくて…もっと心理的なもの。@k@vS20/08/440800079.……僕は……何かの復讐じゃないかと思うね。@k@vS20/08/440800080.土着的な何か。@k@vS20/08/440800081.…今回のシナリオでは語られなかった因縁だよ！」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``It's not about simple benefit... it's a more psychological reason.@k@vS20/08/440800079. I think... that maybe this was an act of revenge.@k@vS20/08/440800080. Something native to the region...@k@vS20/08/440800081. Some connection not touched on this time around!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11435,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700351.",
+		"TextJPN": "「なるほど。@k@vS20/11/440700352.過去に酷い扱いを受けた某家の人たちが先祖の恨みを晴らすために…ってな感じですか？@k@vS20/11/440700353.　うーん………私はそれにも反対ですねぇ」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``I see.@k@vS20/11/440700352. A member of some repressed family looking to air out an old grudge of their ancestors... something like that?@k@vS20/11/440700353. Hmmm... I don't like that.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11436,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300275.",
+		"TextJPN": "「じゃー何。大石さんはまさか、祟り派なわけ？！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Then what is it? It couldn't be that you're leaning towards the 'curse' explanation, Ooishi-san?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11437,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/440400143.",
+		"TextJPN": "「そうですわそうですわ！！@k@vS20/04/440400144.　刑事役の大石さんが言うんですもの！@k@vS20/04/440400145.　祟りに決まってますわー！！」",
+		"NamesENG": "Satoko",
+		"TextENG": "``That's right, that's right!!@k@vS20/04/440400144. The man playing the detective said so!@k@vS20/04/440400145. It's decided! It was a curse!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11438,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700354.",
+		"TextJPN": "「劇中で前原さんが言うように、オヤシロさまが竜宮さんや園崎さんに乗り移って悪さをしている…って考えると。@k@vS20/11/440700355.……一番つじつまが合うんです。@k@vS20/11/440700356.残念ながら」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``If, as Maebara-san said during the story, it was the case that Oyashiro-sama possessed Ryuugu-san and Sonozaki-san and committed those acts...@k@vS20/11/440700355. That would fit the evidence the most.@k@vS20/11/440700356. As much as I hate to say it.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11439,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200135.",
+		"TextJPN": "「えっと……実はレナも大石さんと同じ意見なの。@k@vS20/02/440200136.…あんなにやさしかったレナや魅ぃちゃんが突然おかしくなるなんて、そうじゃなきゃ説明つかないもの」",
+		"NamesENG": "Rena",
+		"TextENG": "``Ummm... Actually, I'm of the same opinion as Ooishi-san.@k@vS20/02/440200136. I can't come up with any other explanation for the normally-kind Rena and Mii-chan to suddenly start acting strange like that.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11440,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300276.",
+		"TextJPN": "「……そこは………魅音の私が言うのも変だけど…、やっぱり私なんだと思う」",
+		"NamesENG": "Mion",
+		"TextENG": "``...About that... It may sound strange coming from the person herself, but I think that I, Mion, did it.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11441,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/440500092.",
+		"TextJPN": "「……魅ぃの話の意味がわかりにくいのですよ。@k@vS20/05/440500093.説明がほしいのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``...I don't get what Mii is saying.@k@vS20/05/440500093. I'd like an explanation.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11442,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300277.",
+		"TextJPN": "「あ、ごめん。@k@vS20/03/440300278.…つまりさ。@k@vS20/03/440300279.これってすっごく残酷な話なんじゃないかって思うんだよ」",
+		"NamesENG": "Mion",
+		"TextENG": "``Oh, sorry.@k@vS20/03/440300278. In other words...@k@vS20/03/440300279. I think this may end up being a really cruel story.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11443,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200137.",
+		"TextJPN": "「え、……何、魅ぃちゃん。@k@vS20/02/440200138.…それってひょっとして……」",
+		"NamesENG": "Rena",
+		"TextENG": "``Huh... Wait, Mii-chan...@k@vS20/02/440200138. You don't mean...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11444,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800082.",
+		"TextJPN": "「突き詰めるとそうなるのかな。@k@vS20/08/440800083.…僕もちょっと疑ってる」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Taking the human culprit theory to its logical conclusion, that's how it would seem...@k@vS20/08/440800083. I also have my suspicions.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11445,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700357.",
+		"TextJPN": "「つまり、竜宮さんも園崎さんも、実は本当にああいう性格で、引っ越してきたばかりの前原さんを騙している悪魔なんだ、と。@k@vS20/11/440700358.…こういうわけですか？」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``In other words, Ryuugu-san and Sonozaki-san both actually had those personalities to begin with, and were merely deceiving Maebara-san...@k@vS20/11/440700358. Am I right?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11446,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/440400146.",
+		"TextJPN": "「そんなの嫌ですわーーー！！！！@k@|@y@vS20/04/440400147.　わぁあぁああぁああぁああん！！！@k@vS20/04/440400148.　これは全部祟りの仕業なんですのよー！@k@vS20/04/440400149.　レナさんも魅音さんもみんなやさしい、いい人がいいのですのーーー！！！！」",
+		"NamesENG": "Satoko",
+		"TextENG": "``I don't like that at all!!!!@k@|@y@vS20/04/440400147. Waaaaaaaaaaaaaa!!!@k@vS20/04/440400148. This is all the curse's fault!@k@vS20/04/440400149. Rena-san and Mion-san and everybody else are all kind, nice people!!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11447,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200139.",
+		"TextJPN": "「れ、レナもそうだな！@k@vS20/02/440200140.　レナや魅ぃちゃんって本当にいい人なんだって思う。@k@vS20/02/440200141.…きっと劇中で出てきた厳しいシーンは、何かに取り憑かれてたんだって思うの」",
+		"NamesENG": "Rena",
+		"TextENG": "``I-I think that too!@k@vS20/02/440200140. I think that Rena and Mion-chan are really good people at heart.@k@vS20/02/440200141. ...I think that during the story, they must have been possessed by something.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11448,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300280.",
+		"TextJPN": "「レナも祟り派か。@k@vS20/03/440300281.じゃー祟り派の皆さんにお聞きしますけどさ。@k@vS20/03/440300282.…祟りが起こるからにはそれなりの理由があるんでしょ？@k@vS20/03/440300283.　無差別に祟るとは思えないなー。@k@vS20/03/440300284.そこんとこ説明できるの？」",
+		"NamesENG": "Mion",
+		"TextENG": "``So Rena also thinks it was a curse.@k@vS20/03/440300281. Then let me ask everybody who thinks it was a curse...@k@vS20/03/440300282. There has to be a reason for a curse, right?@k@vS20/03/440300283. It doesn't make sense for a curse to just indiscriminately befall someone.@k@vS20/03/440300284. Can somebody explain that?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11449,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/440400150.",
+		"TextJPN": "「祟りは祟りですもの！！@k@vS20/04/440400151.　人間の考えでは想像もつきませんわー！」",
+		"NamesENG": "Satoko",
+		"TextENG": "``A curse is a curse!@k@vS20/04/440400151. Human logic won't get us anywhere!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11450,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800084.",
+		"TextJPN": "「あはは、沙都子ちゃん。@k@vS20/08/440800085.擬人化された神さまという存在は、結局は人間の生み出したものなんだよ。@k@vS20/08/440800086.だからその考え方も、人間に理解できるようにできてる」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Ahaha, Satoko-chan.@k@vS20/08/440800085. A personified deity is, in the end, nothing more than the creation of people.@k@vS20/08/440800086. That's why their method of thinking is also understandable to humans."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11451,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800087.",
+		"TextJPN": "「…ギリシャ神話の神様を見てごらんよ。@k@vS20/08/440800088.泣いたり怒ったり嫉妬したり…とにかく人間的なんだよ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "Just take a look at the Greek Pantheon.@k@vS20/08/440800088. They cry, get angry, get jealous... basically, they're just like humans.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11452,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200142.",
+		"TextJPN": "「えっと…、つまり、オヤシロさまもまた、人間同様に何らかの利害に基づいて祟りをしている、ということですか？」",
+		"NamesENG": "Rena",
+		"TextENG": "``Uhh... So what you're saying is that Oyashiro-sama is cursing people with some benefit in mind?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11453,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800089.",
+		"TextJPN": "「変な言い方になっちゃったけど、つまりはそういうこと」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``That's an odd way of putting it, but basically, yes.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11454,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700359.",
+		"TextJPN": "「……触らぬ神に祟りなしって言いますからねぇ。@k@vS20/11/440700360.なっはっは、一理あります」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``That's why they say: Far from Jupiter, far from his thunder.@k@vS20/11/440700360. Ahaha, you do have a point.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11455,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/440500094.",
+		"TextJPN": "「……つまり、オヤシロさまにせよ、人間にせよ、何か理由があるはず、ということなのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``...Basically, it doesn't matter if it's Oyashiro-sama, or humans, there has to be a reason.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11456,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/440400152.",
+		"TextJPN": "「でも梨花？@k@vS20/04/440400153.　その理由がはっきりしないなら…どうなりますの？」",
+		"NamesENG": "Satoko",
+		"TextENG": "``But Rika,@k@vS20/04/440400153. what if that reason isn't clear?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11457,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/440500095.",
+		"TextJPN": "「……つまりは、わかんないということなのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``...I don't know.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11458,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200143.",
+		"TextJPN": "「あははははは！@k@vS20/02/440200144.　そうだね。@k@vS20/02/440200145.まだプロローグだもんね。@k@vS20/02/440200146.明かされていないことがたくさんあるだろうし」",
+		"NamesENG": "Rena",
+		"TextENG": "``Ahahahahaha!@k@vS20/02/440200144. That's right.@k@vS20/02/440200145. This is still just the prologue.@k@vS20/02/440200146. There's still a lot of stuff that hasn't been revealed yet.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11459,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800090.",
+		"TextJPN": "「そうだね。@k@vS20/08/440800091.現時点ではこれ以上の推理は難しいねぇ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Yeah.@k@vS20/08/440800091. It's hard to come up with any more theories at this point.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11460,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300285.",
+		"TextJPN": "「いーや！@k@vS20/03/440300286.　白黒付けないと納得できないね！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Nooo!@k@vS20/03/440300286. I won't be satisfied until this is all made clear!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11461,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/440400154.",
+		"TextJPN": "「魅音さんもこだわりますのね」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Mion-san seems rather particular about this.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11462,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300287.",
+		"TextJPN": "「あははは！@k@vS20/03/440300288.　限られた状況で最大限に推理する！！@k@vS20/03/440300289.　ちょっぴり部活感覚で面白いでしょ？」",
+		"NamesENG": "Mion",
+		"TextENG": "``Ahahaha!@k@vS20/03/440300288. We'll just make the best with what we know!!@k@vS20/03/440300289. Doesn't this feel interesting? Like the club a little bit?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11463,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200147.",
+		"TextJPN": "「あ、うん！@k@vS20/02/440200148.　そう考えれば面白いかも！」",
+		"NamesENG": "Rena",
+		"TextENG": "``Ah, yeah!@k@vS20/02/440200148. If you put it that way, it does seem interesting!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11464,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700361.",
+		"TextJPN": "「じゃあ、整理してみましょうか。@k@vS20/11/440700362.えーと、私は祟り派です。@k@vS20/11/440700363.富竹さんは人間派でしたよね？」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Well then, let's summarize.@k@vS20/11/440700362. Let's see, I think it was a curse.@k@vS20/11/440700363. Tomitake-kun thinks it was people, right?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11465,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800092.",
+		"TextJPN": "「えぇ。@k@vS20/08/440800093.僕は人間が犯人ってことでいきます」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Yeah.@k@vS20/08/440800093. I'll go with it being people.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11466,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300290.",
+		"TextJPN": "「私も人間犯人説！@k@vS20/03/440300291.　もちろん、祟りというファンタジーは嫌いじゃないよ？@k@vS20/03/440300292.　だけど今回の事件に限っては、祟りの線は薄いねー」",
+		"NamesENG": "Mion",
+		"TextENG": "``I also agree with the 'people' explanation!@k@vS20/03/440300291. That's not to say I hate such fantastic things like curses.@k@vS20/03/440300292. But in this particular case, the connection to a curse is a little weak~.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11467,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700364.",
+		"TextJPN": "「人間派が２人出ましたね。@k@vS20/11/440700365.竜宮さんは祟り派でしたよね？」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Two for the 'people' explanation then.@k@vS20/11/440700365. Ryuugu-san was on the 'curse' side of things, right?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11468,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200149.",
+		"TextJPN": "「はい。@k@vS20/02/440200150.レナと沙都子ちゃんは祟り派です。@k@vS20/02/440200151.ねー？」",
+		"NamesENG": "Rena",
+		"TextENG": "``Yup.@k@vS20/02/440200150. Satoko-chan and I believe it was a curse.@k@vS20/02/440200151. Right~?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11469,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/440400155.",
+		"TextJPN": "「えぇ！@k@vS20/04/440400156.　祟り派ですわよ！@k@vS20/04/440400157.　レナさんや魅音さんのことを悪魔みたいに言う人の方がよっぽど祟りにあうべきですの！！」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Yeah!@k@vS20/04/440400156. I think it was a curse!@k@vS20/04/440400157. People who say that Rena-san and Mion-san were evil to begin with are more befitting of a curse!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11470,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300293.",
+		"TextJPN": "「そりゃまー、私も自分のキャラがそんな悪魔みたいなヤツだとは思いたくないけどさ。@k@vS20/03/440300294.……部活モードの時にはクールでなきゃ！@k@vS20/03/440300295.　感情論だけで選ぶと大ヤケドするよ～？」",
+		"NamesENG": "Mion",
+		"TextENG": "``Well... I don't want to believe that my own personality was that twisted.@k@vS20/03/440300294. But I have to keep a cool head when I'm in Club Mode!@k@vS20/03/440300295. If I base my choice on just emotion, I'll regret it, you know~?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11471,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700366.",
+		"TextJPN": "「まぁまぁ。@k@vS20/11/440700367.どっちを選んだっていいじゃあないですか」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Well now...@k@vS20/11/440700367. It doesn't really matter which side you pick, does it?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11472,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200152.",
+		"TextJPN": "「あれ？　梨花ちゃんがまだだね。@k@vS20/02/440200153.どっちだと思う？」",
+		"NamesENG": "Rena",
+		"TextENG": "``Huh? Rika-chan hasn't said anything yet.@k@vS20/02/440200153. What do you think?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11473,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/440500096.",
+		"TextJPN": "「………ボクはオヤシロさまが悪い神様だとは思わないですよ」",
+		"NamesENG": "Rika",
+		"TextENG": "``...I don't think that Oyashiro-sama is a bad god.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11474,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800094.",
+		"TextJPN": "「あれ、面白い意見だね」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Huh, that's an interesting opinion.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11475,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/440500097.",
+		"TextJPN": "「……祟ってばかりの悪い神様なら、祀るのは嫌なのです。@k@vS20/05/440500098.ボクは祟るより、ご利益のある神さまの方が好きなのですよ」",
+		"NamesENG": "Rika",
+		"TextENG": "``...I don't want to worship some bad god that just curses people.@k@vS20/05/440500098. I'd like a generous god more than one that curses.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11476,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200154.",
+		"TextJPN": "「そっか、梨花ちゃんって巫女さんをやってるんだよね…！@k@vS20/02/440200155.　うん。いい意見」",
+		"NamesENG": "Rena",
+		"TextENG": "``That's right, Rika-chan is a shrine maiden...!@k@vS20/02/440200155. Yup. Good opinion.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11477,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300296.",
+		"TextJPN": "「じゃあ何？@k@vS20/03/440300297.　梨花ちゃんはオヤシロさまじゃないって思うなら、…やっぱ犯人は人間って思うわけ？！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Then what?@k@vS20/03/440300297. If Rika-chan doesn't believe that it was Oyashiro-sama... then do you think the perpetrators were human after all!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11478,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/440500099.",
+		"TextJPN": "「……そういうことにしますのです☆」",
+		"NamesENG": "Rika",
+		"TextENG": "``...We'll just go with that.☆``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11479,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700368.",
+		"TextJPN": "「ありゃまぁ。@k@vS20/11/440700369.…票がざっくり分かれましたねぇ！@k@vS20/11/440700370.　祟り派と人間派で半々ですか」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Well now...@k@vS20/11/440700369. That means the votes are split right down the middle!@k@vS20/11/440700370. So half of us think it was a curse, and half of us think it was people?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11480,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300298.",
+		"TextJPN": "「どうすんのさ。@k@vS20/03/440300299.これじゃ意見は半々。@k@vS20/03/440300300.決着がつかなくて面白くないよね！」",
+		"NamesENG": "Mion",
+		"TextENG": "``What should we do then?@k@vS20/03/440300299. This means that the opinions are still split.@k@vS20/03/440300300. It's no fun if we don't settle this!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11481,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800095.",
+		"TextJPN": "「裁判官が奇数なのは、つまりそういうことだからねぇ。@k@vS20/08/440800096.あとひとり意見がほしいなぁ！」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``We need there to be an odd number of judges, in other words:@k@vS20/08/440800096. We need one more opinion!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11482,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200156.",
+		"TextJPN": "「あ、ならちょうどいいかな。@k@vS20/02/440200157.圭一くん本人に聞いてみない？@k@vS20/02/440200158.　電話で！」",
+		"NamesENG": "Rena",
+		"TextENG": "``Ah, perfect timing then.@k@vS20/02/440200157. Why don't we ask Keiichi-kun himself?@k@vS20/02/440200158. Let's call him!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11483,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/440500100.",
+		"TextJPN": "「……祟り殺された本人の意見は貴重ですよ」",
+		"NamesENG": "Rika",
+		"TextENG": "``...The opinion of the victim himself is very valuable.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11484,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/440400158.",
+		"TextJPN": "「そうと決まればさっそく電話ですわー！！！」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Since that's decided, it's time for the phone!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11485,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200159.",
+		"TextJPN": "「もしもし圭一くん？@k@vS20/02/440200160.　レナでーす。@k@vS20/02/440200161.今、お仕事お忙しいですか？」",
+		"NamesENG": "Rena",
+		"TextENG": "``Hello, Keiichi-kun?@k@vS20/02/440200160. It's Rena.@k@vS20/02/440200161. Are you busy with work right now?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11486,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100192.",
+		"TextJPN": "「あー忙しいぞー。@k@vS20/01/440100193.シナリオが一本終わって一休みって思ってたら、すぐに次のシナリオだもんなー！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Yeah, really busy.@k@vS20/01/440100193. Just when I thought I'd get a break because the chapter's over, it's already time for the next one!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11487,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300301.",
+		"TextJPN": "「圭ちゃん、どんな感じ？@k@vS20/03/440300302.　忙しいって？」",
+		"NamesENG": "Mion",
+		"TextENG": "``How's Kei-chan?@k@vS20/03/440300302. Busy?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11488,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200162.",
+		"TextJPN": "「うん。@k@vS20/02/440200163.スネてる」",
+		"NamesENG": "Rena",
+		"TextENG": "``Yeah.@k@vS20/02/440200163. He's moping.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11489,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100194.",
+		"TextJPN": "「聞こえてるぞこらー！！@k@vS20/01/440100195.　お前らは打ち上げ会でいいよなー！@k@vS20/01/440100196.　俺も出たかったー！！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``I can hear you, you know!!@k@vS20/01/440100195. It must be nice having a wrap-up party!@k@vS20/01/440100196. I wanted to go too!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11490,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/440500101.",
+		"TextJPN": "「……収録の残り台詞数でボクたちの誰か一人でも抜いたら、圭一も参加できるのですよ」",
+		"NamesENG": "Rika",
+		"TextENG": "``...If any one of us surpasses him in the number of lines remaining in the recording, Keiichi will be able to participate!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11491,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/440400159.",
+		"TextJPN": "「梨花、あの量でそれは不可能ですわ…」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Rika, that's impossible with that amount.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11492,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200164.",
+		"TextJPN": "「あ、それでごめんね圭一くん。@k@vS20/02/440200165.…今回のシナリオでね、@k@vS20/02/440200166.圭一くん、@k@vS20/02/440200167.その、………死んじゃったじゃない？@k@vS20/02/440200168.　犯人は誰だろうねって、そういう話をしてるの」",
+		"NamesENG": "Rena",
+		"TextENG": "``Ah, sorry about that, Keiichi-kun.@k@vS20/02/440200165. Anyways, during the current chapter,@k@vS20/02/440200166. Keiichi-kun,@k@vS20/02/440200167. didn't you... die?@k@vS20/02/440200168. We were just talking about who the culprit might be.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11493,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300303.",
+		"TextJPN": "「つまりさ、圭ちゃんを殺したのは人間か、オヤシロさまの祟りかってことで意見が分かれちゃってるのよー」",
+		"NamesENG": "Mion",
+		"TextENG": "``Basically, we're deadlocked on whether it was people or Oyashiro-sama's curse that killed you.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11494,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200169.",
+		"TextJPN": "「本当にごめんね！@k@vS20/02/440200170.　台本読みで忙しいところ…。@k@vS20/02/440200171.圭一くんはどっちだと思うかな？」",
+		"NamesENG": "Rena",
+		"TextENG": "``I'm really sorry!@k@vS20/02/440200170. Even though you're busy reviewing the script...@k@vS20/02/440200171. Keiichi-kun, which do you think it was?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11495,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100197.",
+		"TextJPN": "「そんなの決まってんじゃねーかー！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``That's obvious, isn't it?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11496,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200172.",
+		"TextJPN": "「どっち？」",
+		"NamesENG": "Rena",
+		"TextENG": "``Which?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11497,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100198.",
+		"TextJPN": "「どっちなんてもんじゃねーよ！！@k@vS20/01/440100199.　村の怪しげなヤツらに狙われて、さらにオヤシロさまとかいう怪しいのに祟られて！！！@k@vS20/01/440100200.　人間も祟りも全部！！！@k@vS20/01/440100201.　これはなにかの嫌がらせかーー！！！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Isn't it both of them!?@k@vS20/01/440100199. Targeted by suspicious people from the village, and then cursed by some strange Oyashiro-sama on top of that!@k@vS20/01/440100200. It's both humans and a curse!!!@k@vS20/01/440100201. Everybody's just picking on me!!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11498,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/440500102.",
+		"TextJPN": "「………かわいそかわいそです。@k@vS20/05/440500103.今度、頭をなでなでしてあげますですよ」",
+		"NamesENG": "Rika",
+		"TextENG": "``...So very, very, pitiful.@k@vS20/05/440500103. Next time, I'll give you a good patting on the head.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11499,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800097.",
+		"TextJPN": "「結局、意見がわかれちゃったねぇ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``In the end, the opinion's still split, huh.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11500,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700371.",
+		"TextJPN": "「私ももう一度考え直してみます。@k@vS20/11/440700372.見落としがあるかもしれませんので」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``I'll think this over again.@k@vS20/11/440700372. We might have missed something.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11501,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200173.",
+		"TextJPN": "「それでは引き続き、お楽しみ下さいね！」",
+		"NamesENG": "Rena",
+		"TextENG": "``Well then, please look forward to the next chapters!``"
+	}
+]

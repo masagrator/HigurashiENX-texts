@@ -1,2380 +1,2378 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "#2 レナとの帰り道",
-            "ENG": "#2 / On The Way Home With Rena"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19393,
-            "TextJPN": "騒ぎに騒いだ一日だった。",
-            "TextENG": "It was a fun-filled, crazy day."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19394,
-            "TextJPN": "だが暮れ始めると一日の終わりは本当に早い。",
-            "TextENG": "But as soon as the sun began to set, the end of the day really did come quickly."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19395,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS19/03/990300129.",
-            "TextJPN": "「じゃあね、レナに圭ちゃん！　また明日ね～！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Later, Rena and Kei-chan! See you tomorrow～!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19396,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI01960.",
-            "TextJPN": "「魅音、今日はありがとな。楽しかったぜ」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Thanks for today, Mion. I had a great time.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19397,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/990200133.",
-            "TextJPN": "「また明日ね～！！」",
-            "NamesENG": "Rena",
-            "TextENG": "``See you tomorrow～!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19398,
-            "TextJPN": "沙都子と梨花ちゃんも帰り、魅音とも別れ、俺とレナは夕方の空気を楽しみながら家路につく。",
-            "TextENG": "Satoko and Rika-chan went home as well. We parted ways with Mion, and it ended with just Rena and myself enjoying the evening air on our way home."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19399,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/990200134.",
-            "TextJPN": "「…圭一くんも今日は付き合ってくれてありがとう。@k@vS19/02/990200135.…楽しかった？」",
-            "NamesENG": "Rena",
-            "TextENG": "``...Thanks for coming today, Keiichi-kun.@k@vS19/02/990200135. ...Was it fun?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19400,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI01970.",
-            "TextJPN": "「あぁ。@k@vS19/01/HR_KEI01980.楽しかった。@k@vS19/01/HR_KEI01990.まだ家に帰るのが惜しいくらいだぜ！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Yeah.@k@vS19/01/HR_KEI01980. Lots of fun.@k@vS19/01/HR_KEI01990. Almost feels like a waste to go home now!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19401,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/990200136.",
-            "TextJPN": "「あ、……じゃあさ、@k@vS19/02/990200137.ちょっとだけ寄り道しても…いいかな？　…かな？」",
-            "NamesENG": "Rena",
-            "TextENG": "``Ah... Then, well...@k@vS19/02/990200137. Would you mind taking a little detour... maybe? ...Maybe?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19402,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02000.",
-            "TextJPN": "「寄り道？@k@vS19/01/HR_KEI02010.　遠いのか？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``A detour?@k@vS19/01/HR_KEI02010. Is it far?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19403,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/990200138.",
-            "TextJPN": "「ちょっと歩くけど…すぐ済むから！」",
-            "NamesENG": "Rena",
-            "TextENG": "``It's a bit of a walk... but it won't take long!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19404,
-            "TextJPN": "俺は…",
-            "TextENG": "I..."
-        },
-        {
-            "type": "SELECT",
-            "metadata": "10s, 5s, @0x0000, 4095n,",
-            "count": 2,
-            "titleJPN": "レナの誘い",
-            "choice1JPN": "*03.ああ、いいぜ",
-            "choice2JPN": "*245.あ、しまったお袋の用事が…",
-            "titleENG": "Rena's Invitation",
-            "choice1ENG": "*03.Okay",
-            "choice2ENG": "*245.Oh, I need to help my mom...",
-            "Explanation": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19405,
-            "TextJPN": "一日中歩いてはしゃいで、疲れたからだろうか。",
-            "TextENG": "Since we had been walking around all day, I must have seemed a bit tired."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19406,
-            "TextJPN": "少し毒気を抜かれた俺は、レナの揚げ足を取ることもなく頷いた。",
-            "TextENG": "Not feeling like teasing Rena, I quietly nodded."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19407,
-            "TextJPN": "…細い道と斜面を越えると一気に視界が開けた。",
-            "TextENG": "...Traversing a small path and up a small hill, the land suddenly stretched out before us."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19408,
-            "TextJPN": "そこは荒涼とした…工事現場跡のように見えた。",
-            "TextENG": "There... What looked like the remains of a dilapidated construction site came into view."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19409,
-            "TextJPN": "沢を臨む斜面に粗大ゴミの山がぶちまけられていた。",
-            "TextENG": "A large heap of garbage spread out off towards the swamp."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19410,
-            "TextJPN": "きっと不法投棄だろう。問題になって新聞を賑わせたこともあった気がする。",
-            "TextENG": "Probably illegal dumping. I recalled it being in the newspaper."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19411,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/990200139.",
-            "TextJPN": "「うっふふ！@k@vS19/02/990200140.　今日は久しぶりだからぁ～、何があるかな何があるかな…！」",
-            "NamesENG": "Rena",
-            "TextENG": "``Ufufu!@k@vS19/02/990200140. It's been quite a while～ I wonder what's here, I wonder what's here...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19412,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02020.",
-            "TextJPN": "「久しぶりって、…レナの用は、あの…ゴミの山かよ？！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``When you say it's been a while... you mean the business you had here... was with this garbage pile!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19413,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/990200141.",
-            "TextJPN": "「ゴ、ゴミじゃないよ！@k@vS19/02/990200142.　…レナにとっては宝の山だもん…」",
-            "NamesENG": "Rena",
-            "TextENG": "``I-It's not garbage!@k@vS19/02/990200142. ...To me, it's a pile of treasure...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19414,
-            "TextJPN": "レナはすでにお約束のかぁいいモードになっていた。",
-            "TextENG": "Rena had already entered that well-known 'kyute' mode of hers."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19415,
-            "TextJPN": "レナにとってのどんなかぁいいものがここにあるって言うんだ？？",
-            "TextENG": "So that meant there was something 'kyute' here??"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19416,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/990200143.",
-            "TextJPN": "「…わぁ…新しい山だ。@k@vS19/02/990200144.……わくわく……わくわく…！」",
-            "NamesENG": "Rena",
-            "TextENG": "``...Whoa... A new pile.@k@vS19/02/990200144. ...I can't wait... I can't wait...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19417,
-            "TextJPN": "不安定な斜面をひょいひょいと降りていく。@k…さすがは田舎育ちだ。",
-            "TextENG": "She descended the unstable slope with ease.@k ...I'd expect no less from a born and bred country girl."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19418,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02030.",
-            "TextJPN": "「おい待てよ、今行くから……ぅわったたた……！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Hey, wait, I'm coming... Wohoahoa...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19419,
-            "TextJPN": "都会育ちの俺はまったくもって情けない…。",
-            "TextENG": "My city-raised self was completely pitiful..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19420,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/990200145.",
-            "TextJPN": "「いいよ圭一君はそこにいて～！　すぐ済むからぁ！」",
-            "NamesENG": "Rena",
-            "TextENG": "``It's all right! Just stay right there, Keiichi-kun! It won't take long!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19421,
-            "TextJPN": "レナは付いていこうとする俺を軽く制する。",
-            "TextENG": "Rena kindly declined my accompaniment."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19422,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02040.",
-            "TextJPN": "「…転ぶなよー！@k@vS19/01/HR_KEI02050.　足元に気をつけろよー！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...Don't fall!@k@vS19/01/HR_KEI02050. Watch your step!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19423,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/990200146.",
-            "TextJPN": "「大丈夫だよ大丈夫。@k@vS19/02/990200147.全然平気～！」",
-            "NamesENG": "Rena",
-            "TextENG": "``I'm fine, I'm fine.@k@vS19/02/990200147. This is nothing at all~!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19424,
-            "TextJPN": "ぴょんぴょんと文字通り跳ねるかのような足取りで、レナは廃材のゴミ山の向こうに消えていった。",
-            "TextENG": "Literally bounding among the heaps of trash, Rena disappeared from sight."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19425,
-            "TextJPN": "置いてきぼりは嫌だったが、今日一日の疲れもあったので、結局俺は待つことにする。",
-            "TextENG": "I didn't like being left behind, but I was still pretty tired from the whole day so I just ended up waiting."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19426,
-            "TextJPN": "賑やかなレナがいなくなり、急に辺りは静けさを取り戻していった…。",
-            "TextENG": "Without the lively Rena around, the surrounding area quickly fell into silence..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19427,
-            "TextJPN": "……ひぐらしの声が空気をゆっくりと冷やしていく。",
-            "TextENG": "...The cry of the higurashi gently cooled the air."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19428,
-            "TextJPN": "ほどよい疲れが、ちょっとした眠気を誘っていた。",
-            "TextENG": "Fairly exhausted, I began to feel a little sleepy."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19429,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02060.",
-            "TextJPN": "「あ……しまった。@k@vS19/01/HR_KEI02070.すまんレナ、この後お袋の用事があるんだ」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Oh, almost forgot.@k@vS19/01/HR_KEI02070. Sorry, Rena. My mom asked me to help.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19430,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/660200038.",
-            "TextJPN": "「え？@k@vS19/02/660200039.　あ、そうなんだ……」",
-            "NamesENG": "Rena",
-            "TextENG": "``Huh?@k@vS19/02/660200039. Ah, okay...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19431,
-            "TextJPN": "レナがちょっと残念そうな顔になって、俺を見た。",
-            "TextENG": "Rena looked at me with a slightly disappointed look on her face."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19432,
-            "TextJPN": "俺は、ポケットの隅にクシャクシャになっていた買い物リストを引っ張り出す。……レナには悪いけど、このタイミングがなければあやうく忘れるところだった。",
-            "TextENG": "I pulled out my shopping list that was crumpled up in the corner of my pocket. ...I'm sorry Rena, but I almost forgot about it if not for this timing."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19433,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02080.",
-            "TextJPN": "「帰りに、買い物頼まれてさ。@k@vS19/01/HR_KEI02090.……残念だけど」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``She asked me to do some shopping on the way home.@k@vS19/01/HR_KEI02090. Sorry, but...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19434,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/660200040.",
-            "TextJPN": "「ううん。@k@vS19/02/660200041.あ、なら急いだほうがいいよ。@k@vS19/02/660200042.興宮のお店って、閉まるのが早いから」",
-            "NamesENG": "Rena",
-            "TextENG": "``No.@k@vS19/02/660200041. Oh, so you should hurry.@k@vS19/02/660200042. Shop in Okinomiya is closing soon.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19435,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02100.",
-            "TextJPN": "「悪い。じゃあな」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Sorry. See you.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19436,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/660200043.",
-            "TextJPN": "「うん、またね～」",
-            "NamesENG": "Rena",
-            "TextENG": "``Mhm, bye!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19437,
-            "TextJPN": "俺はレナと別れ、興宮へ向けて自転車をこぎ始めた。",
-            "TextENG": "I left Rena and started to pedal my bike towards Okinomiya."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19438,
-            "TextJPN": "スーパーへ着くと、店のシャッターはまだ開いていたとはいえ、店の人たちは少しずつ閉店の準備をしていた。",
-            "TextENG": "When I arrived at the supermarket, even though the shutters of the store were still open, the shopkeepers were slowly preparing to close the store."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19439,
-            "TextJPN": "時計を見て、結構時間が経っていたことに気づく。俺は、慌てて店の中に入って行った。",
-            "TextENG": "I looked at my watch and realized that quite a bit of time had passed. I hurriedly walked into the store."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19440,
-            "TextJPN": "買い物リストを取り出して、リストの上から順に買い物かごにぶちこんでいく。――と、野菜売り場の角を曲がったところで、見慣れた後ろ姿を見かけた。",
-            "TextENG": "I took out my shopping list and filled my shopping cart in order from the top of the list. --As I rounded the corner of the vegetable section, I saw a familiar figure behind me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19441,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02110.",
-            "TextJPN": "「……あれ？@k@vS19/01/HR_KEI02120.　梨花ちゃん」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...Huh?@k@vS19/01/HR_KEI02120. Rika-chan.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19442,
-            "TextJPN": "かごを手にしているのは、梨花ちゃんだった。",
-            "TextENG": "It was Rika who was holding the basket in her hand."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19443,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500004.",
-            "TextJPN": "「み～☆@k@vS19/05/660500005.　圭一も、お買い物ですか？」",
-            "NamesENG": "Rika",
-            "TextENG": "``Miii~p☆@k@vS19/05/660500005. Keiichi, are you shopping too?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19444,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02130.",
-            "TextJPN": "「お袋のお使いでさ。@k@vS19/01/HR_KEI02140.…えぇーと、洗剤、洗剤……」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``My mom asked me.@k@vS19/01/HR_KEI02140. ...Hmm, detergent, detergent...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19445,
-            "TextJPN": "俺は梨花ちゃんと話しながらも目の端でリストを追い、閉店間際のＢＧＭに急き立てられるように、それらしきものをかごの中に放り込んでいく。",
-            "TextENG": "I followed the list out of the corner of my eye while talking to Rika, and threw the items into the basket as if the background music at closing time was urging me to do so."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19446,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500006.",
-            "TextJPN": "「圭一。@k@vS19/05/660500007.それは洗剤じゃなくて、漂白剤です」",
-            "NamesENG": "Rika",
-            "TextENG": "``Keiichi.@k@vS19/05/660500007. That's not detergent, it's bleach.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19447,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02150.",
-            "TextJPN": "「え？@k@vS19/01/HR_KEI02160.　あれ……そうか？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Uh?@k@vS19/01/HR_KEI02160. Ah... Really?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19448,
-            "TextJPN": "俺は、かごの中の洗剤を見直す。頑固な茶シブも２分でスッキリ……？　洗剤と漂白剤は違うのか？",
-            "TextENG": "I'd rethink the detergent in the basket. Clearing stubborn tea stains in two minutes?　Is there a difference between detergent and bleach?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19449,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500008.",
-            "TextJPN": "「大違いなのですよ。@k@vS19/05/660500009.それに、かごの中に魚の缶詰が入ってますが、『猫も大好き』と横に書いてあるのです。@k@vS19/05/660500010.……圭一の家では、にゃーにゃーを飼ってるのですか？」",
-            "NamesENG": "Rika",
-            "TextENG": "``Of course there is.@k@vS19/05/660500009. Besides, there is a can of fish in the basket, but it says next to it, 'Cats love it'.@k@vS19/05/660500010. Do you have a cat in house?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19450,
-            "TextJPN": "あ……あれ？　気づかなかった……。ちなみに、前原家には動物のペットは存在しない。",
-            "TextENG": "Oh... That?　I didn't notice that... By the way, there are no pets in the Maebara family."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19451,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500011.",
-            "TextJPN": "「慌てて買うと、ろくなことがないのですよ。@k@vS19/05/660500012.にぱ～☆」",
-            "NamesENG": "Rika",
-            "TextENG": "``Buying in a hurry is not a good idea!@k@vS19/05/660500012. Nipah~☆``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19452,
-            "TextJPN": "た、確かに……。",
-            "TextENG": "S-Sure..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19453,
-            "TextJPN": "そう言われてかごの中身をよく確かめると、リストに書いてあるものは結局、何一つ入っていない？　……俺は一体、何をやっていたんだ！？",
-            "TextENG": "When she told me thatt, I took a closer look at the contents of my basket and found that none of the items on my list were in there after all. ...What the hell have I been doing!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19454,
-            "TextJPN": "年下の子に、お買い物を教えられるとは……！　しかも、リストを良く見れば『にんじん（茨城産）』などと書いてある。",
-            "TextENG": "I can't believe I'm being told what to shop for by a younger kid......! And if you look closely at the list, it says things like 'Carrots (Ibaraki)'."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19455,
-            "TextJPN": "……お袋め、ニンジンの生産地まで指定するな～！　どこで採れようがどう調理しようが、胃袋に入れば皆同じだろうが！？",
-            "TextENG": "......Mother didn't even specify region of carrots~!　It doesn't matter where they're grown or how they're prepared, as long as they're in your stomach, they're all the same!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19456,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500013.",
-            "TextJPN": "「では圭一。@k@vS19/05/660500014.圭一はオーストラリア牛と中国牛とアメリカ牛と伊勢松坂最高級牛だったら、どれを食べたいですか？」",
-            "NamesENG": "Rika",
-            "TextENG": "``So, Keiichi.@k@vS19/05/660500014. If Keiichi had to choose between Australian beef, Chinese beef, American beef, and Ise-Matsusaka top quality beef, which would he rather eat?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19457,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02170.",
-            "TextJPN": "「…………茨城産のニンジンを買ってきます」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...I'm going to buy some carrots from Ibaraki.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19458,
-            "TextJPN": "その時、突然、砂利を踏む音と人の気配がし、俺は驚いて振りかえった。",
-            "TextENG": "Just then, the sudden noise of scattering pebbles alerted me to somebody's presence. Startled, I turned around."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19459,
-            "TextJPN": "そこにはいかにもカメラマン風体の男が、俺に向けてカメラを覗いていた。",
-            "TextENG": "Standing there was a typical-looking photographer. He spied over at me through his camera."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19460,
-            "TextJPN": "日焼けした体格のいい体つき。@kなのにどこか頼りなさそうな、なんとも曖昧な雰囲気。",
-            "TextENG": "His body was tanned and fit.@k But something about him seemed unreliable, and he had a bit of an aloof air about him."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19461,
-            "TextJPN": "…ま、悪い人ではなさそうだ。",
-            "TextENG": "...Well, it didn't seem like he was a bad guy in any case."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19462,
-            "NamesJPN": "男",
-            "PreTextTags": "@vS19/08/990800001.",
-            "TextJPN": "「お、おぉっと！@k@vS19/08/990800002.　…びっくりした！」",
-            "NamesENG": "Man",
-            "TextENG": "``W-Whoa!@k@vS19/08/990800002. ...You surprised me!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19463,
-            "TextJPN": "男は突然振り返った俺に驚き、やたらと大袈裟に驚いてみせた。",
-            "TextENG": "Although startled when I turned around, he overplayed his reaction."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19464,
-            "TextJPN": "それはこっちのセリフだぞ、まったく。",
-            "TextENG": "That was my line."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19465,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02180.",
-            "TextJPN": "「…驚いたのはこっちですよ」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...I'm the one who's surprised here.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19466,
-            "NamesJPN": "男",
-            "PreTextTags": "@vS19/08/990800003.",
-            "TextJPN": "「ごめんごめん。@k@vS19/08/990800004.驚かすつもりはなかったんだ。君は雛見沢の人かい？」",
-            "NamesENG": "Man",
-            "TextENG": "``My bad, my bad.@k@vS19/08/990800004. I didn't mean to startle you. Are you from Hinamizawa?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19467,
-            "TextJPN": "その一言で、彼が雛見沢の人間でないことがわかった。",
-            "TextENG": "I gathered that he wasn't, from that question."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19468,
-            "TextJPN": "俺のいぶかしがる様子も気にせず、男は勝手に自己紹介を始めた。",
-            "TextENG": "Unfazed by my suspicious gaze, he introduced himself without my prompting."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19469,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS19/08/990800005.",
-            "TextJPN": "「僕は@bとみたけ.@<富竹@>。@k@vS19/08/990800006.フリーのカメラマンさ。@k@vS19/08/990800007.雛見沢にはたまに来るんだ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``I'm Tomitake.@k@vS19/08/990800006. Freelance photographer.@k@vS19/08/990800007. I come to Hinamizawa from time to time.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19470,
-            "TextJPN": "別に名前なんか聞いてないんだけどな…。",
-            "TextENG": "I didn't ask you who you were..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19471,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02190.",
-            "TextJPN": "「写真てのは被写体に断ってから撮るのが礼儀なんじゃないんすかね」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Quite rude to photograph someone without consent, one would think.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19472,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS19/08/990800008.",
-            "TextJPN": "「ごめんごめん。@k@vS19/08/990800009.メインは野鳥の撮影でね。@k@vS19/08/990800010.断った例がないんだよ。@k@vS19/08/990800011.あっははは！」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``My bad, my bad.@k@vS19/08/990800009. I mainly photograph wild birds.@k@vS19/08/990800010. They can't refuse, you see.@k@vS19/08/990800011. Ah hahaha!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19473,
-            "TextJPN": "ってことは何だ。俺の扱いは鳥並というわけだ。",
-            "TextENG": "So, what... You're saying I'm the same as the birds?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19474,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS19/08/990800012.",
-            "TextJPN": "「いやいや、夕闇にたそがれる少年があまりにも絵になっていたんでね…。@k@vS19/08/990800013.本人の許可を撮らずにファインダーを覗いたことを謝るよ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``No, well, you see... that image of a young man in the twilight was just picturesque...@k@vS19/08/990800013. I apologize for trying to take your picture without asking.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19475,
-            "TextJPN": "…大人は本当にうまい。",
-            "TextENG": "...Adults are pretty slick."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19476,
-            "TextJPN": "程よくおだてられ、驚かされたことへの腹立たしさはすっかり引っ込んでしまった。",
-            "TextENG": "All that annoyance I felt for being startled just flew away as he buttered me up."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19477,
-            "TextJPN": "この馴れ馴れしいおっさんに付き合う気もなかったし、レナが戻ってくる様子もまたなかった。",
-            "TextENG": "I had no intention of hanging around with this guy trying to get cozy with me, except it didn't seem like Rena would be back soon."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19478,
-            "TextJPN": "だが、おっさん…富竹さんは俺のそっけないあいづちにも気にせず、一人で喋り続けている。",
-            "TextENG": "But this older guy... Tomitake-san... He didn't mind my cautious responses and continued rambling on by himself."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19479,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/990200148.",
-            "TextJPN": "「圭一く～ん！　待たせてごめんねぇ～！@k@vS19/02/990200149.　もう終わりにするから～！！」",
-            "NamesENG": "Rena",
-            "TextENG": "``Keiichi-kun～! Sorry to keep you waiting～!@k@vS19/02/990200149. I'm finished now!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19480,
-            "TextJPN": "レナが斜面の遥か下のゴミ山から顔を覗かせ手を振っている。",
-            "TextENG": "Rena popped her head out from one of the lower piles of garbage and waved her hand."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19481,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS19/08/990800014.",
-            "TextJPN": "「連れがいたのかい。@k@vS19/08/990800015.……彼女はあんなところで何をしているんだい？」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``You have someone with you?@k@vS19/08/990800015. ...What would she be doing over there?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19482,
-            "TextJPN": "それはこっちが聞きたい。",
-            "TextENG": "That's what I wanted to know."
-        },
-        {
-            "type": "SELECT",
-            "metadata": "12s, 6s, @0x0000, 4095n,",
-            "count": 2,
-            "titleJPN": "レナの宝探しＩ",
-            "choice1JPN": "*0.死体でも捜してんじゃないですか？",
-            "choice2JPN": "*3.宝探しみたいですよ……あれでも",
-            "titleENG": "Rena's Treasure Hunt I",
-            "choice1ENG": "*0.Are you looking for a corpse?",
-            "choice2ENG": "*3.It's like a treasure hunt...",
-            "Explanation": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19483,
-            "TextJPN": "買い物を終え、梨花ちゃんと並んでスーパーマーケットから出た、その時。",
-            "TextENG": "I finished my shopping and walked out of the supermarket with Rika."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19484,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500015.",
-            "TextJPN": "「……あっ……！？」",
-            "NamesENG": "Rika",
-            "TextENG": "``...Ah...!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19485,
-            "TextJPN": "チャリチャリ、チャリィィ――ンッ……！",
-            "TextENG": "Clang, clang--nghh...!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19486,
-            "TextJPN": "複数の小さな金属音を真横で聞いて、俺は足を止めて振り返る。見ると、つまづいたかの拍子に財布を落してしまったのだろう、梨花ちゃんの周りに、小銭がたくさん散らばってしまっていた。",
-            "TextENG": "Hearing multiple small metallic sounds right beside me, I stopped and turned around. When I looked, I saw a lot of coins scattered around Rika-chan, as if she had tripped and dropped her purse."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19487,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02200.",
-            "TextJPN": "「大丈夫か？@k@vS19/01/HR_KEI02210.　っと……」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Are you okay?@k@vS19/01/HR_KEI02210. Uh...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19488,
-            "TextJPN": "慌ててしゃがみこみ、梨花ちゃんと一緒になって足元に転がった硬貨を拾い集める。結構小銭をじゃらじゃらと入れていたのだろう、入り口から出た車道の真ん中付近にまで飛び出したやつもある。",
-            "TextENG": "I hurriedly crouched down and joined Rika in picking up the coins that were lying at our feet. She must have had quite a few coins in her purse, and some of them jumped out near the middle of the driveway out of the entrance."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19489,
-            "TextJPN": "こりゃ、意外に面倒かもな……そう思って、周りの地面を見渡すと――。",
-            "TextENG": "This might be more trouble than it seems...... I thought, looking around at the ground around me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19490,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS19/00/villaA66001.",
-            "TextJPN": "「おお、梨花ちゃま。@k@vS19/00/villaA66002.どうかしましたかの」",
-            "NamesENG": "Villager",
-            "TextENG": "``Oh, Rika-chama.@k@vS19/00/villaA66002. Something happened?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19491,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS19/00/villaB66001.",
-            "TextJPN": "「あらあら、梨花ちゃま。@k@vS19/00/villaB66002.小銭を落したのですか？@k@vS19/00/villaB66003.　どれどれ――」",
-            "NamesENG": "Villager",
-            "TextENG": "``Oh my, Rika-chama.@k@vS19/00/villaB66002. Did you drop some coins?@k@vS19/00/villaB66003. Let me help...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19492,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS19/00/villaC66001.",
-            "TextJPN": "「おおぃ、そっちの下も見てくれんかのぉ？」",
-            "NamesENG": "Villager",
-            "TextENG": "``Oi, can you look under there too?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19493,
-            "TextJPN": "道を歩いていたり、そばで談笑していたお年寄りたちが一斉にこちらを向くと、にこにこと笑顔で散らばった小銭を拾い集めはじめる。",
-            "TextENG": "The elderly people who were walking along the street or chatting nearby all turned to me at once and started picking up the scattered coins with a smile on their faces."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19494,
-            "TextJPN": "そして、数の威力であっという間に小銭は全て回収され、梨花ちゃんの手に戻った。",
-            "TextENG": "And with the power of numbers, all the coins were quickly collected and returned to Rika's hands."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19495,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500016.",
-            "TextJPN": "「みんな、ありがとうなのです。@k@vS19/05/660500017.にぱ～♪」",
-            "NamesENG": "Rika",
-            "TextENG": "``Thank you all.@k@vS19/05/660500017. Nipah~♪``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19496,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS19/00/villaA66003.",
-            "TextJPN": "「おお、もったいない。@k@vS19/00/villaA66004.ありがたや」",
-            "NamesENG": "Villager",
-            "TextENG": "``Oh, it's nothing.@k@vS19/00/villaA66004. Thank you.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19497,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS19/00/villaB66004.",
-            "TextJPN": "「ありがたや、ありがたや」",
-            "NamesENG": "Villager",
-            "TextENG": "``Thank you, thank you.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19498,
-            "TextJPN": "拾い集めてくれて感謝すべきなのはこっちのはずなのに、お年寄りたちの集団は手をすり併せながら、梨花ちゃんを囲んでいく。",
-            "TextENG": "I should be the one who should be thanking them for picking up the items, but the group of elderly people surrounded Rika-chan, rubbing their hands together."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19499,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02220.",
-            "TextJPN": "「な、な、な……！！？？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``W-W-Wha...!!??``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19500,
-            "TextJPN": "異様な光景に、俺はその場で固まる。しかし、お年寄りたちは俺のことなどお構いなしに、梨花ちゃんを輪の中心にして一様に手をすり合わせ、一心に梨花ちゃんを拝み続けていた。",
-            "TextENG": "I froze in place at the strange sight. However, the elderly people didn't care about me, they were all rubbing their hands together and worshipping Rika-chan with all their hearts, making her the center of the circle."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19501,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS19/00/villaA66005.",
-            "TextJPN": "「ありがたや」",
-            "NamesENG": "Villager",
-            "TextENG": "``Thank you.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19502,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS19/00/villaC66002.",
-            "TextJPN": "「ありがたや」",
-            "NamesENG": "Villager",
-            "TextENG": "``Thank you.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19503,
-            "TextJPN": "俺は、その異様な光景を、ただ茫然として見ているしかなかった。",
-            "TextENG": "I could do nothing but stare at the bizarre scene."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19504,
-            "TextJPN": "――と、そこへ。",
-            "TextENG": "And they went."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19505,
-            "NamesJPN": "男",
-            "PreTextTags": "@vS19/08/660800001.",
-            "TextJPN": "「人だかりができていると思ったら……やっぱり梨花ちゃんか」",
-            "NamesENG": "Man",
-            "TextENG": "``If there's a crowd... it's Rika after all.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19506,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02230.",
-            "TextJPN": "「――――え？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Huh...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19507,
-            "TextJPN": "その声に驚いて振り返ると、いかにもカメラマン風体の男が立っていた。",
-            "TextENG": "I turned around, startled by the voice, and saw a man with a photographer's style standing there."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19508,
-            "TextJPN": "日焼けした体格のいい体つき。なのにどこか頼りなさそうな、なんとも曖昧な雰囲気だ。悪い人では、なさそうだけど……。",
-            "TextENG": "He was tanned and well-built. It's a good idea to have a good idea of what you're looking for. He doesn't seem to be a bad person, but ......."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19509,
-            "NamesJPN": "男",
-            "PreTextTags": "@vS19/08/660800002.",
-            "TextJPN": "「やぁ。こんにちは」",
-            "NamesENG": "Man",
-            "TextENG": "``Ah, good evening.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19510,
-            "TextJPN": "男が馴れ馴れしい笑みを向けてきたので、俺は少し顔をしかめた。",
-            "TextENG": "I frowned a little as the man gave me a familiar smile."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19511,
-            "NamesJPN": "男",
-            "PreTextTags": "@vS19/08/660800003.",
-            "TextJPN": "「あ…君、今、馴れ馴れしいなって思った？」",
-            "NamesENG": "Man",
-            "TextENG": "``Oh...did you just think I was being too friendly?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19512,
-            "TextJPN": "ギクッ。",
-            "TextENG": "Geez."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19513,
-            "NamesJPN": "男",
-            "PreTextTags": "@vS19/08/660800004.",
-            "TextJPN": "「あはは。@k@vS19/08/660800005.図星だったみたいだね」",
-            "NamesENG": "Man",
-            "TextENG": "``Hahaha.@k@vS19/08/660800005. I hit the bull.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19514,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02240.",
-            "TextJPN": "「そ、そんな……」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``No way...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19515,
-            "TextJPN": "顔に出てたのかな。それにしても……この人、誰だ？",
-            "TextENG": "I guess it was in my face. Anyway...... who is this guy?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19516,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS19/08/660800006.",
-            "TextJPN": "「あ、僕は@bとみたけ.@<富竹@>。@k@vS19/08/660800007.フリーのカメラマンさ。@k@vS19/08/660800008.野鳥の撮影で、雛見沢にはたまに来るんだ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Ah, I'm Tomitake.@k@vS19/08/660800007. Freelance cameraman.@k@vS19/08/660800008. I come to Hinamizawa occasionally to photograph birds.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19517,
-            "TextJPN": "と、男は勝手に自己紹介をはじめる。別に、名前は聞いてないんだけど……とりあえず、俺も自分の名前を名乗った。",
-            "TextENG": "The man took the liberty of introducing himself. I didn't ask him what his name was...... Anyway, I told him my name too."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19518,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02250.",
-            "TextJPN": "「あの……富竹さん。@k@vS19/01/HR_KEI02260.梨花ちゃんとは、お知り合いで？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Well, Tomitake-san.@k@vS19/01/HR_KEI02260. Do you know Rika-chan?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19519,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS19/08/660800009.",
-            "TextJPN": "「ああ。この村には、よく来るからね。@k@vS19/08/660800010.もうずいぶん長い付き合いだよ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Yeah, she is very known in village.@k@vS19/08/660800010. I've known her for a long time now.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19520,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02270.",
-            "TextJPN": "「はぁ……」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Oh...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19521,
-            "TextJPN": "この村に、よく来る。",
-            "TextENG": "He often comes to this village."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19522,
-            "TextJPN": "その言葉で、富竹さんがこの村の住人ではないことが分かった。",
-            "TextENG": "With those words, I knew that Tomitake-san was not a resident of this village."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19523,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS19/08/660800011.",
-            "TextJPN": "「梨花ちゃんの人気は、相変わらずだね」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Rika-chan is as popular as ever.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19524,
-            "TextJPN": "富竹さんは梨花ちゃんを見やりながら、それが見慣れた光景であるかのように言う。……にしても、どうして梨花ちゃんはお年寄りたちに異様な人気があるんだろう？",
-            "TextENG": "Tomitake-san looked over at Rika-chan and said as if it were a familiar sight...... but why is Rika so unusually popular with the elderly?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19525,
-            "TextJPN": "そんな、俺の疑問を見て取ったのか、富竹さんはこちらに顔を向けていった。",
-            "TextENG": "Perhaps sensing my doubts, Tomitake-san turned his head toward me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19526,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS19/08/660800012.",
-            "TextJPN": "「君、この村に引っ越して来たばかりみたいだね」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Did you move to this village recently?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19527,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02280.",
-            "TextJPN": "「え？@k@vS19/01/HR_KEI02290.　ええ、……まぁ」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Uh?@k@vS19/01/HR_KEI02290. Yeah, that's right.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19528,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS19/08/660800013.",
-            "TextJPN": "「この雛見沢は、村人同士の連帯感がとても強くてね……。@k@vS19/08/660800014.梨花ちゃんは、そんな雛見沢の人々の、心の拠り所になっているんだよ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Here in Hinamizawa, the sense of solidarity among the villagers is very strong...@k@vS19/08/660800014. Rika-chan has become a source of comfort for the people of Hinamizawa.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19529,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02300.",
-            "TextJPN": "「心の拠り所……？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Source of comfort...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19530,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS19/08/660800015.",
-            "TextJPN": "「以前、ダム工事の時にあった話……聞いたことはないかな？」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Have you ever heard of the story... about the dam construction?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19531,
-            "TextJPN": "そこへ、梨花ちゃんがお年寄りたちの集団からようやく解放されてやって来た。",
-            "TextENG": "Then Rika-chan arrived, finally free from the group of elderly people."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19532,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500018.",
-            "TextJPN": "「……みぃ。@k@vS19/05/660500019.お待たせしましたなのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``...Mii.@k@vS19/05/660500019. Thank you for waiting.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19533,
-            "TextJPN": "ゲッソリと、少々お疲れ気味の梨花ちゃん。",
-            "TextENG": "Rika is looking a little tired."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19534,
-            "TextJPN": "俺は……",
-            "TextENG": "I..."
-        },
-        {
-            "type": "SELECT",
-            "metadata": "14s, 7s, @0x0000, 4095n,",
-            "count": 2,
-            "titleJPN": "梨花のお買い物",
-            "choice1JPN": "*24.可愛いと、得だよな～",
-            "choice2JPN": "*5.カリスマってやつですか",
-            "titleENG": "Rika's Shopping",
-            "choice1ENG": "*24.It must be nice to be cute～",
-            "choice2ENG": "*5.This must be charisma",
-            "Explanation": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19535,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02310.",
-            "TextJPN": "「さぁねぇ。@k@vS19/01/HR_KEI02320.昔起こった、殺人事件の死体でも捜してるんじゃないすか？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Dunno.@k@vS19/01/HR_KEI02320. Maybe she's searching for the corpse from an old murder?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19536,
-            "TextJPN": "富竹さんのリアクションが一瞬鈍った。",
-            "TextENG": "Tomitake-san looked shaken up by that for a moment."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19537,
-            "TextJPN": "まずいまずい、ついレナたちのような感覚で受け答えしてしまった。",
-            "TextENG": "Uh-oh, I responded like I would if I were talking with Rena and the others."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19538,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS19/08/990800016.",
-            "TextJPN": "「……嫌な事件だったね。…………まだ見つかってないんだろ？」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``...It was quite a disturbing incident... They still haven't found it, have they?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19539,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/990200150.",
-            "TextJPN": "「ははは！　圭一くんお待たせ～」",
-            "NamesENG": "Rena",
-            "TextENG": "``Hahaha! Keiichi-kun, sorry to keep you～``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19540,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/990200151.",
-            "TextJPN": "「待ったかな？　……かな？」",
-            "NamesENG": "Rena",
-            "TextENG": "``You were waiting a while, I guess? ...I guess?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19541,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS19/08/990800017.",
-            "TextJPN": "「馬に蹴られる前に退散するかな。@k@vS19/08/990800018.驚かせてすまなかったね。『圭一くん』」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``I'd best leave you two lovebirds alone.@k@vS19/08/990800018. Again, my apologies for startling you, 'Keiichi-kun.'``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19542,
-            "TextJPN": "富竹さんは意味深に笑って見せると、夕闇へ溶けこむように去って行った。",
-            "TextENG": "Tomitake-san chortled suggestively,  then disappeared into the twilight."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19543,
-            "TextJPN": "反論するタイミングを逃し、なんだかとても気まずい。",
-            "TextENG": "Missing my chance to retort put me off a bit."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19544,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/990200152.",
-            "TextJPN": "「…圭一くん、怒ってる？@k@vS19/02/990200153.　……どうしてだろ……だろ？」",
-            "NamesENG": "Rena",
-            "TextENG": "``...Keiichi-kun, are you angry?@k@vS19/02/990200153. ...Why, I wonder? ...I wonder?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19545,
-            "TextJPN": "別にレナは悪くないのだが、とりあえず叩いておくことにする。",
-            "TextENG": "It wasn't Rena's fault, so I decided to just brush it off for now."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19546,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02330.",
-            "TextJPN": "「どうだった？@k@vS19/01/HR_KEI02340.　掘り出し物は見つかったか？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``How was it?@k@vS19/01/HR_KEI02340. Find a treasure trove?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19547,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/990200154.",
-            "TextJPN": "「うん聞いて聞いて！@k@vS19/02/990200155.　あ、…あのね！@k@vS19/02/990200156.　あったの！@k@vS19/02/990200157.　ランディくん人形ッ♪！！」",
-            "NamesENG": "Rena",
-            "TextENG": "``Oh, yes～ So listen!@k@vS19/02/990200155. Ah ...um, you see!@k@vS19/02/990200156. There was...!@k@vS19/02/990200157. A Randy-kun doll!♪``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19548,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02350.",
-            "TextJPN": "「ランディくん人形？！@k@vS19/01/HR_KEI02360.　…ってあれか、ファーストフードの店の前に必ず置いてある…あの等身大人形の？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``A Randy-kun doll!?@k@vS19/01/HR_KEI02360. ...Oh, that thing. Those statues they always have out in front of that fried chicken place... That life-sized dummy?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19549,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/990200158.",
-            "TextJPN": "「…そう！　ランディくん☆@k@vS19/02/990200159.　……はぅ……かぁいい……お持ち帰りしたいぃ…☆」",
-            "NamesENG": "Rena",
-            "TextENG": "``...Yes! Randy-kun.☆@k@vS19/02/990200159. ...Hau... kyute... I want to take it hooome...☆``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19550,
-            "TextJPN": "レナのかぁいいものの定義がいまひとつ読めないが、とりあえず、本人は気に入っているらしい。",
-            "TextENG": "I couldn't tell how she decides what's 'kyute' or not... but, well, she seems to want it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19551,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02370.",
-            "TextJPN": "「あれはゴミだろ？@k@vS19/01/HR_KEI02380.　お持ち帰りしたきゃしてもいいんだぜ？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``It's garbage, right?@k@vS19/01/HR_KEI02380. No one would care if you just take it home, right?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19552,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/990200160.",
-            "TextJPN": "「他の山の下敷きになってるの。@k@vS19/02/990200161.…簡単には掘り出せないし…。@k@vS19/02/990200162.あそこ、灯りがないからすぐ暗くなっちゃうし…」",
-            "NamesENG": "Rena",
-            "TextENG": "``It's become the base of another pile.@k@vS19/02/990200161. ...I can't dig it out easily...@k@vS19/02/990200162. There's no lamp posts over there, so it'll get dark pretty soon...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19553,
-            "TextJPN": "レナはせっかく見付けた宝を持ち帰れず、とても残念な様子だった。",
-            "TextENG": "Rena seemed quite down about finding a treasure and not being able to bring it back."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19554,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02390.",
-            "TextJPN": "「俺も手伝ってやるよ。@k@vS19/01/HR_KEI02400.今日のうまかった弁当の恩返しってことでさ」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``I'll help you out.@k@vS19/01/HR_KEI02400. To repay you for that delicious picnic you prepared today.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19555,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/990200163.",
-            "TextJPN": "「…はぅ……あ、…ありがとう……」",
-            "NamesENG": "Rena",
-            "TextENG": "``...Hau... Th... Thank you...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19556,
-            "TextJPN": "ねぐらに向かう鳥たちが、夜の帳がすぐそこまで訪れていることを告げていた。",
-            "TextENG": "Birds heading home to roost proclaimed that nightfall would soon be upon us."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19557,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/990200164.",
-            "TextJPN": "「圭一くんが手伝ってくれる☆　…ランディくんをお持ち帰りできる……はぅ…」",
-            "NamesENG": "Rena",
-            "TextENG": "``Keiichi-kun is going to help.☆ ...I can take Randy-kun home... hau...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19558,
-            "TextJPN": "レナは夢見心地でほわほわと、千鳥足のような足取りで歩いていた。",
-            "TextENG": "Rena staggered along as if intoxicated in her dreamy state of mind."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19559,
-            "TextJPN": "そんなレナの上機嫌を崩さないように、さりげなく聞いてみることにする。",
-            "TextENG": "I tried asking her in a way that wouldn't take her out of her cheery state."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19560,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02410.",
-            "TextJPN": "「…なぁレナ。@k@vS19/01/HR_KEI02420.あそこで昔、なんかあったのか？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...Hey, Rena.@k@vS19/01/HR_KEI02420. Long ago, did something happen here?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19561,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/990200165.",
-            "TextJPN": "「ダムの工事をやってたんだってね。@k@vS19/02/990200166.詳しく知らないけど……はぅ…」",
-            "NamesENG": "Rena",
-            "TextENG": "``Seems like they were building a dam here.@k@vS19/02/990200166. I don't know the details, though... hau...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19562,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02430.",
-            "TextJPN": "「たとえばさ、工事中になんかあったとか。@k@vS19/01/HR_KEI02440.事故とか」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Just wondering if you knew about, you know...@k@vS19/01/HR_KEI02440. an accident or something.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19563,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/990200167.",
-            "TextJPN": "「知らない」",
-            "NamesENG": "Rena",
-            "TextENG": "``I don't know.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19564,
-            "TextJPN": "いやにはっきりした声だった。",
-            "TextENG": "Her tone was disturbingly frank."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19565,
-            "TextJPN": "それは返答というよりも、拒否に近い響きを含んでいた。",
-            "TextENG": "It sounded more like a denial than an answer."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19566,
-            "TextJPN": "俺はよほどきょとんとした顔をしていたのだろうか。@kレナはすぐに表情を柔らかくした。",
-            "TextENG": "I must have appeared rather dumbstruck.@k Rena quickly lightened her expression."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19567,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/990200168.",
-            "TextJPN": "「実はね、去年までよそに住んでたの」",
-            "NamesENG": "Rena",
-            "TextENG": "``Actually, I didn't live here until a year ago.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19568,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02450.",
-            "TextJPN": "「え？@k@vS19/01/HR_KEI02460.　レナも転校生だったのか？@k@vS19/01/HR_KEI02470.　俺はてっきり…、」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Huh?@k@vS19/01/HR_KEI02460. You transferred here too?@k@vS19/01/HR_KEI02470. I was sure that...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19569,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/990200169.",
-            "TextJPN": "「だからね、それ以前のことはよく知らないの。@k@vS19/02/990200170.…ごめんね☆」",
-            "NamesENG": "Rena",
-            "TextENG": "``So you see, I don't really know much from before that...@k@vS19/02/990200170. Sorry.☆``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19570,
-            "TextJPN": "よく知らないし、話題にもしたくない。そういう含みが感じられた。",
-            "TextENG": "``Don't really know; don't want to talk about it.`` That was the kind of feeling she gave me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19571,
-            "TextJPN": "考えてみれば当然だった。@k女の子にとって楽しい話題のわけがない。",
-            "TextENG": "Thinking about it, of course it would be like that.@k This wasn't the type of thing girls would enjoy talking about."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19572,
-            "TextJPN": "（……嫌な事件だったね。…………まだ見つかってないんだろ？）",
-            "TextENG": "(...It was quite a disturbing incident... They still haven't found it, have they?)"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19573,
-            "TextJPN": "富竹さんの言った事がそのままなら。",
-            "TextENG": "If it's just like Tomitake-san said..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19574,
-            "TextJPN": "ひぐらしたちだけが知っているような気がした。",
-            "TextENG": "Then I had a feeling only the higurashi would know."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19575,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02480.",
-            "TextJPN": "「宝探しみたいですよ……あれでも」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``It's like a treasure hunt...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19576,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS19/08/660800016.",
-            "TextJPN": "「宝探しぃ？」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Treasure hunt?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19577,
-            "TextJPN": "富竹さんはますます怪訝な顔をする。そりゃ、まぁ……そうだろう。こんなゴミ山に何が埋まっているのか、俺だって聞きたいくらいだ。",
-            "TextENG": "Tomitake-san looks more and more suspicious. Well ... that's right. I even wanted to ask what was buried in a place like a garbage mountain."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19578,
-            "TextJPN": "レナがゴミ山の斜面をこちらに向かって、一生懸命に登ってくる。富竹さんはそんなレナをしばらく見てから、ふっと笑顔を俺に向けた。",
-            "TextENG": "Rena is climbing up the slope of the trash heap towards us, trying her best. Tomitake-san looked at Rena for a while, and then suddenly smiled at me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19579,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS19/08/660800017.",
-            "TextJPN": "「まぁ、がんばってね。@k@vS19/08/660800018.それじゃ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Well, good luck in this. @k@vS19/08/660800018. Good bye.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19580,
-            "TextJPN": "そう言って、夕闇へ溶け込むように去って行った。",
-            "TextENG": "With that, he left as if he was melting into the evening darkness."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19581,
-            "TextJPN": "がんばってね…って。何をがんばればいいんだ？？？",
-            "TextENG": "Good luck... in this. What this suppose to mean?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19582,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/660200044.",
-            "TextJPN": "「あははは！@k@vS19/02/660200045.　圭一く～ん、お待たせ～。@k@vS19/02/660200046.待ったかな！？　……かな？」",
-            "NamesENG": "Rena",
-            "TextENG": "``Ehehe!@k@vS19/02/660200045. Keiichi-kun, thanks for waiting~.@k@vS19/02/660200046. Did you wait for a long time? A long time?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19583,
-            "TextJPN": "レナが、満面の笑みを浮かべて戻って来た。",
-            "TextENG": "Rena came back with a big smile on her face."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19584,
-            "TextJPN": "がんばれ、って……もしかして、レナと？　あのおっさん、さり気なくすごい勘違いして去っていったのか！？",
-            "TextENG": "Good luck... maybe with Rena? Did that old man just casually leave with a great misunderstanding!?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19585,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/660200047.",
-            "TextJPN": "「あれ、圭一くん…どうしたのかな？@k@vS19/02/660200048.　顔がなんだか……」",
-            "NamesENG": "Rena",
-            "TextENG": "``Keiichi-kun, what happened?@k@vS19/02/660200048. Your face looks...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19586,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02490.",
-            "TextJPN": "「え…？！@k@vS19/01/HR_KEI02500.　わぁわぁ、赤くない赤くない！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Eh...?!@k@vS19/01/HR_KEI02500. Aaa, it's not red! It's not red!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19587,
-            "TextJPN": "あらぬ想像をしてしまった俺だった。",
-            "TextENG": "It was me who had an unexpected imagination."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19588,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02510.",
-            "TextJPN": "「ところで、どうだった？@k@vS19/01/HR_KEI02520.　掘り出し物は見つかったか？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``So how did it go?@k@vS19/01/HR_KEI02520. Did you find something?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19589,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/990200154.",
-            "TextJPN": "「うん聞いて聞いて！@k@vS19/02/990200155.　あ、…あのね！@k@vS19/02/990200156.　あったの！@k@vS19/02/990200157.　ランディくん人形ッ♪！！」",
-            "NamesENG": "Rena",
-            "TextENG": "``Oh, yes～ So listen!@k@vS19/02/990200155. Ah ...um, you see!@k@vS19/02/990200156. There was...!@k@vS19/02/990200157. A Randy-kun doll!♪``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19590,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02530.",
-            "TextJPN": "「ランディくん人形？　……ってあれか、ファーストフードの店の前に必ず置いてある……あの等身大人形の？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Randy doll? Is that... ...that thing, that life-size adult statue... ...that they always put in front of fast food restaurants?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19591,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/660200052.",
-            "TextJPN": "「そうっ、ランディくん！@k@vS19/02/660200053.　……はぅ、かぁいい～～。@k@vS19/02/660200054.お持ち帰りしたいぃ～～♪」",
-            "NamesENG": "Rena",
-            "TextENG": "``Yes, Randy-kun!@k@vS19/02/660200053. Hau, so kyute~~.@k@vS19/02/660200054. I want to take it home~~♪``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19592,
-            "TextJPN": "……どういう基準で、何がどう『かぁいい』のかさっぱりわからないけど、とにかくレナが気に入っているらしいから、そういうことにしておこう。",
-            "TextENG": "......I have no idea what the criteria is or how it's ``kyute,`` but I'll just say that Rena seems to like it, so there you go."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19593,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02540.",
-            "TextJPN": "「あれはゴミだろ？@k@vS19/01/HR_KEI02550.　お持ち帰りしたきゃしてもいいんだぜ？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``It's garbage, right?@k@vS19/01/HR_KEI02550. No one would care if you just take it home, right?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19594,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/660200055.",
-            "TextJPN": "「他の山の下敷きになってるの。@k@vS19/02/660200056.…簡単には掘り出せないし…。@k@vS19/02/660200057.あそこ、灯りがないからすぐ暗くなっちゃうし…」",
-            "NamesENG": "Rena",
-            "TextENG": "``It's become the base of another pile.@k@vS19/02/660200056. ...I can't dig it out easily...@k@vS19/02/660200057. There's no lamp posts over there, so it'll get dark pretty soon...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19595,
-            "TextJPN": "レナはせっかく見付けた宝を持ち帰れず、とても残念な様子だった。",
-            "TextENG": "Rena seemed quite down about finding a treasure and not being able to bring it back."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19596,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02560.",
-            "TextJPN": "「俺も手伝ってやるよ。@k@vS19/01/HR_KEI02570.今日のうまかった弁当の恩返しってことでさ」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``I'll help you out.@k@vS19/01/HR_KEI02570. To repay you for that delicious picnic you prepared today.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19597,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/660200058.",
-            "TextJPN": "「本当！！@k@vS19/02/660200059.　…はぅ……あ、…ありがとう……」",
-            "NamesENG": "Rena",
-            "TextENG": "``Really?@k@vS19/02/660200059. Wuuu... Thank you...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19598,
-            "TextJPN": "レナが夢見心地でほわほわと、千鳥足のような足取りで歩きはじめた。",
-            "TextENG": "Rena began to walk in a dreamy, ho-hum, staggered gait."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19599,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02580.",
-            "TextJPN": "「おい。レナ？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Rena?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19600,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS19/02/660200060.",
-            "TextJPN": "「圭一くんが手伝ってくれる…@k@vS19/02/660200061.ランディくんをお持ち帰りできる……はぅ…」",
-            "NamesENG": "Rena",
-            "TextENG": "``Keiichi-kun will help me...@k@vS19/02/660200061. I can take Randy-kun to my home... Hau...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19601,
-            "TextJPN": "どういう基準で、ランディくん人形がいいのか……ホントにさっぱりわからない。だけど、まぁ、……そういうことにしておこう。",
-            "TextENG": "I really don't know what kind of criteria you use to decide whether a Randy doll is good or not... ....But, well,... ...let's just say that."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19602,
-            "TextJPN": "ひぐらしたちの合唱に合わせ、俺は小さく鼻歌を歌いながらレナの後を歩いて帰った。",
-            "TextENG": "I walked home after Rena, humming softly to the chorus of Higurashi."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19603,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02590.",
-            "TextJPN": "「可愛いですからね、梨花ちゃんは」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``You're so cute, Rika.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19604,
-            "TextJPN": "そう言いながら、俺は梨花ちゃんに顔を向けて笑いかける。梨花ちゃんは『みぃ？』と首をかしげながら、もみくちゃにされて乱れた黒髪を整えていた。",
-            "TextENG": "As I said this, I turned my head to Rika-chan and smiled at her. Rika-chan tilted her head and said, ``Mii?`` She nodded her head and adjusted her dark hair, which was disheveled from being jostled."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19605,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500020.",
-            "TextJPN": "「……圭一、何の話なのですか？」",
-            "NamesENG": "Rika",
-            "TextENG": "``...Keiichi, what are you talking about?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19606,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02600.",
-            "TextJPN": "「いや、みんなが梨花ちゃんを可愛がりたくなる気持ちがわかるかな、ってさ」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``No, I was just wondering if I could understand why everyone loves Rika.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19607,
-            "TextJPN": "たとえばレナとか、レナとか……あと、レナとか。きっとこの場にいたら、いつもの『お持ちかえりぃい～♪』と言って群がるお年寄りたちをなぎ倒して……って、それはいかんだろ。",
-            "TextENG": "For example Rena, Rena... and Rena. I'm sure that if she were here, she would be able to knock down the elderly people who crowded around her, saying the usual, ``I will take you home～♪.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19608,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500021.",
-            "TextJPN": "「……そう言って貰えるのはボクも嬉しいのです。@k@vS19/05/660500022.でも、髪の毛が乱れるほど撫でるのはちょっと止めてほしいのですよ」",
-            "NamesENG": "Rika",
-            "TextENG": "``...It makes me happy to hear that.@k@vS19/05/660500022. But I'd like you to stop stroking my hair so much, now it's a mess.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19609,
-            "TextJPN": "そう言って、口を尖らせる梨花ちゃん。その可愛いしぐさを見て、俺と富竹さんは思わずぷっと吹き出した。",
-            "TextENG": "Rika's mouth twitched as she said that. Seeing this cute gesture, Tomitake and I couldn't help but burst out laughing."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19610,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS19/08/660800019.",
-            "TextJPN": "「沙都子ちゃんも、梨花ちゃんと同じくらい可愛いのになぁ……」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Satoko-chan is just as cute as Rika-chan......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19611,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02610.",
-            "TextJPN": "「え？　……それ、どういう意味ですか」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Eh? ...What do you mean?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19612,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500023.",
-            "TextJPN": "「…………富竹、いたのですか」",
-            "NamesENG": "Rika",
-            "TextENG": "``...Tomitake, you're here?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19613,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS19/08/660800020.",
-            "TextJPN": "「久しぶりだね、梨花ちゃん」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Long time no see, Rika.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19614,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500024.",
-            "TextJPN": "「久しぶりなのです。@k@vS19/05/660500025.良い写真は撮れましたですか？」",
-            "NamesENG": "Rika",
-            "TextENG": "``Long time no see.@k@vS19/05/660500025. Did you take some nice pictures?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19615,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS19/08/660800021.",
-            "TextJPN": "「あっははは！@k@vS19/08/660800022.　おかげさまでまた色々と、面白いものが発見できたよ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Hahahaha!@k@vS19/08/660800022. Thanks to you, I've discovered many more interesting things.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19616,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500026.",
-            "TextJPN": "「それは良かったのです。にぱ～☆」",
-            "NamesENG": "Rika",
-            "TextENG": "``Good to hear that. Nipah～☆``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19617,
-            "TextJPN": "臆した風もなく、梨花ちゃんはにこやかに笑いかける。どうやら、知り合いってのは本当のようだ。",
-            "TextENG": "Without a hint of self-doubt, Rika-chan smiled at me. Apparently, it's true that they knew each other."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19618,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500027.",
-            "TextJPN": "「富竹はカメラマンさんなのです。@k@vS19/05/660500028.ちなみに、腕はあまり大したことはありません」",
-            "NamesENG": "Rika",
-            "TextENG": "``Tomitake is a photographer.@k@vS19/05/660500028. By the way, his arm is not so big.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19619,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS19/08/660800023.",
-            "TextJPN": "「はは……きついなぁ、梨花ちゃんは」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Ahaha... You're cruel, Rika-chan.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19620,
-            "TextJPN": "富竹さんは苦笑して、頭を掻いた。",
-            "TextENG": "Tomitake-san chuckled and scratched his head."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19621,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500029.",
-            "TextJPN": "「富竹、こんなところで何をしているのです？」",
-            "NamesENG": "Rika",
-            "TextENG": "``Tomitake, what are you doing here?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19622,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS19/08/660800024.",
-            "TextJPN": "「いや、ちょっと買い物に来ただけさ。@k@vS19/08/660800025.それより梨花ちゃんは？」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``I just came by to do some shopping.@k@vS19/08/660800025. Anyway, what are you doing, Rika-chan?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19623,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500030.",
-            "TextJPN": "「夕飯の買い物です。@k@vS19/05/660500031.今日はボクの当番なのです。@k@vS19/05/660500032.にぱ～」",
-            "NamesENG": "Rika",
-            "TextENG": "``I'm shopping for dinner.@k@vS19/05/660500031. It's my turn today.@k@vS19/05/660500032. Nipah~``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19624,
-            "TextJPN": "梨花ちゃんの腕に下がった買い物袋からは、青々としたねぎが飛び出ている。当番ってことは、今日の夕食は……梨花ちゃんが作るのかな？",
-            "TextENG": "The green onions are popping out of the shopping bag on Rika's arm. If you're on duty, does that mean that Rika-chan will be cooking...... dinner today?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19625,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS19/08/660800026.",
-            "TextJPN": "「僕も一度、梨花ちゃんの手料理をご馳走になりたいなぁ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``I'd like to be treated to Rika-chan's cooking once too.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19626,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500033.",
-            "TextJPN": "「富竹には今度、フグ鍋をご馳走するのです。@k@vS19/05/660500034.当たりつきでスリル満点なのですよ」",
-            "NamesENG": "Rika",
-            "TextENG": "``I'm going to treat Tomitake to a blowfish hot pot next time.@k@vS19/05/660500034. It's a dish with a twist!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19627,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS19/08/660800027.",
-            "TextJPN": "「あ、当たりつきの料理って……」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Dish with a twist...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19628,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500035.",
-            "TextJPN": "「圭一もいかがなのですか？」",
-            "NamesENG": "Rika",
-            "TextENG": "How about you Keiichi?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19629,
-            "TextJPN": "全力で遠慮します。……とはいえ、そんな風に文字通り『毒』のある物騒な台詞を口にしながらも、かわいらしい笑みを絶やさない様子がなんとも……！",
-            "TextENG": "I will refrain from doing so at all costs. ...Even though it's the fact that she keeps a cute smile on her face while saying  ``poisonous`` and disturbing words like that is just......!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19630,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02620.",
-            "TextJPN": "「…………はっ？！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...Hah?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19631,
-            "TextJPN": "い、いかんいかん！　こりゃ、レナの影響にちがいない！！　……俺は、自分が崩れていってるんじゃないかとちょっと不安になってしまった。",
-            "TextENG": "No, no, no, no! This must be Rena's influence! ......I was a little worried that I was falling apart."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19632,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS19/08/660800028.",
-            "TextJPN": "「あっははは！@k@vS19/08/660800029.　やっぱり梨花ちゃんには敵わないや。@k@vS19/08/660800030.それじゃ、僕は用事があるから、これで」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Ahahaha!@k@vS19/08/660800029. No one can beat Rika-chan.@k@vS19/08/660800030. I need to go. Good bye.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19633,
-            "TextJPN": "そう言うと、富竹さんは夕闇の町を行ってしまった。",
-            "TextENG": "After saying that, Tomitake-san went off to town in the evening darkness."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19634,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02630.",
-            "TextJPN": "「それじゃ、俺も帰ろうかな」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``I think I'll go home then.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19635,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500036.",
-            "TextJPN": "「あ、圭一。これを圭一にも、ひとつあげるのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``Oh, Keiichi, I want to give you something.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19636,
-            "TextJPN": "そう言って、梨花ちゃんが差し出したのは、どでかい大判焼き……いやどちらかというと、『おぼん焼き』といってもいいくらいの巨大な今川焼きだった。",
-            "TextENG": "When she said that, Rika offered her a huge oval-shaped......, or rather, a huge Imagawa-yaki, which could be called an ``obon-yaki``."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19637,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500037.",
-            "TextJPN": "「おすそ分けなのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``It's my share.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19638,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02640.",
-            "TextJPN": "「お……おすそ分け？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...Y-Your share?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19639,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500038.",
-            "TextJPN": "「さっきお買い物したら、お店の人がおまけにくれたのです。@k@vS19/05/660500039.まだこんなにあるのですよ」",
-            "NamesENG": "Rika",
-            "TextENG": "``When I shopped earlier, the shopkeeper gave me an extra one.@k@vS19/05/660500039. There's so much more.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19640,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02650.",
-            "TextJPN": "「って、これ……全部かよ！？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``I mean, is this all of......!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19641,
-            "TextJPN": "梨花ちゃんの足元にある、紙袋どっさりに詰め込まれた今川焼きを見て、俺は目を丸くする。これも梨花ちゃんの人気のなせる技なのか！？",
-            "TextENG": "When I saw the paper bag full of Imagawa-yaki at Rika-chan's feet, I rolled my eyes. Is this another example of Rika-chan's popularity?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19642,
-            "TextJPN": "梨花ちゃんの人気って、予想以上にすごいのかもしれない……。",
-            "TextENG": "Rika's popularity may be even greater than expected......"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19643,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02660.",
-            "TextJPN": "「そっか、サンキュー。@k@vS19/01/HR_KEI02670.んじゃ、いただきま～す」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``I see. Thank you.@k@vS19/01/HR_KEI02670. Thank you for meal~``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19644,
-            "TextJPN": "俺は大口を開けて、もらった今川焼きにかぶりついた。まだあたたかい粒あんの甘い味が、口いっぱいに広がっていく。",
-            "TextENG": "I opened my mouth wide and took a bite of the Imagawa-yaki I was given. The sweet taste of the still-warm bean paste filled my mouth."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19645,
-            "TextJPN": "……うん、美味い！　周りの生地も、なかなかにまろやかでいい感じだ。",
-            "TextENG": "......Yeah, it's good! The dough around it is also quite nice and mellow."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19646,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500040.",
-            "TextJPN": "「――と、いうわけなので。@k@vS19/05/660500041.圭一」",
-            "NamesENG": "Rika",
-            "TextENG": "``...So...@k@vS19/05/660500041. Keiichi?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19647,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02680.",
-            "TextJPN": "「うん？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Hm?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19648,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500042.",
-            "TextJPN": "「ボクの手では、この買い物袋だけで手一杯なのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``My hands are too weak to hold all these shopping bags.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19649,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02690.",
-            "TextJPN": "「………………」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19650,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500043.",
-            "TextJPN": "「…………と、いうわけなので。@k@vS19/05/660500044.圭一」",
-            "NamesENG": "Rika",
-            "TextENG": "``...So...@k@vS19/05/660500044. Keiichi?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19651,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02700.",
-            "TextJPN": "「…………わかりました」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...Understood.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19652,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500045.",
-            "TextJPN": "「にぱ～～☆」",
-            "NamesENG": "Rika",
-            "TextENG": "``Nipah~~☆``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19653,
-            "TextJPN": "おのれ……食ってから交渉するとは……くっ！",
-            "TextENG": "You...... can't negotiate after you've eaten...... Stick it!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19654,
-            "TextJPN": "俺は、そういうわけで。",
-            "TextENG": "That's how I am."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19655,
-            "TextJPN": "予定の倍の時間と労力を使って、荷物運びをすることになった……。",
-            "TextENG": "We had to spend twice as much time and effort as planned to carry the luggage......"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19656,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02710.",
-            "TextJPN": "「カリスマってやつですかね、やっぱ」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``It must be charisma.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19657,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500046.",
-            "TextJPN": "「カリスマ？@k@vS19/05/660500047.　……とは、どういう意味ですか？」",
-            "NamesENG": "Rika",
-            "TextENG": "``Charisma?@k@vS19/05/660500047. ......What do you mean?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19658,
-            "TextJPN": "梨花ちゃんが、みぃ……と、小首をかしげる。そのしぐさがあまりにも可愛いらしくて、俺は思わず、胸キュ～ン☆　……と、お持ち帰りしたくなって――って、な、なんてこった！",
-            "TextENG": "I'm not sure what to make of it, but I think it's a good idea. That gesture was so cute that I couldn't help but feel a *pang* in my chest and want to take her home."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19659,
-            "TextJPN": "こりゃ、レナの影響にちがいない！！",
-            "TextENG": "This must be Rena's influence!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19660,
-            "TextJPN": "俺はたった今の雑念を振り払うように、咳払いして言った。",
-            "TextENG": "I coughed and said, trying to shake off the thoughts I had just had."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19661,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02720.",
-            "TextJPN": "「ん、まぁ……。@k@vS19/01/HR_KEI02730.カリスマって言うのは……人を惹きつける力、かな？@k@vS19/01/HR_KEI02740.　生まれながらの神秘性っていうか……」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``You know...@k@vS19/01/HR_KEI02730. Charisma is the ability to attract people... I guess?@k@vS19/01/HR_KEI02740. It's like something mystical.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19662,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500048.",
-            "TextJPN": "「シンピ？@k@vS19/05/660500049.　……ボクは三国志の魏の武将なのですか？」",
-            "NamesENG": "Rika",
-            "TextENG": "``Mystical?@k@vS19/05/660500049. Like the Lost Ark from Indiana Jones?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19663,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02750.",
-            "TextJPN": "「いや、そっち方面のボケは俺詳しくないから」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``I don't what are you talking about.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19664,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500050.",
-            "TextJPN": "「みぃ？」",
-            "NamesENG": "Rika",
-            "TextENG": "``Miii?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19665,
-            "TextJPN": "梨花ちゃんは、ぽかーんと小首をかしげたままだ。とりあえず、言い出した手前俺は説明を続ける。",
-            "TextENG": "Rika kept her head tilted back in a daze. At any rate, now that I've said it, I'll continue with my explanation."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19666,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02760.",
-            "TextJPN": "「んーと……自然と心惹かれるような能力がある、ってことかな」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Hmm... I guess you could say that you have the ability to naturally attract people.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19667,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500051.",
-            "TextJPN": "「……圭一の言ってる意味がよく分からないのですよ」",
-            "NamesENG": "Rika",
-            "TextENG": "``......I don't understand what Keiichi is trying to say.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19668,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02770.",
-            "TextJPN": "「たとえばさ、鬱蒼とした暗い森を歩いてると、何かいるような……出てきそうな感じになるだろ？　恐いんだけど、何なのか見てみたい。出るなら出て来い……みたいな」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``For example, when you're walking through a dense, dark forest, you get the feeling that there's something out there. It's scary, but you want to see what it is. If it's going to come out, it's going to come out.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19669,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS19/08/660800031.",
-            "TextJPN": "「うん。@k@vS19/08/660800032.そういうの、分かるよ。@k@vS19/08/660800033.雛見沢の土地にもそういう魅力があるね」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Mhm.@k@vS19/08/660800032. I understand you.@k@vS19/08/660800033. Hinamizawa has this kind of charm.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19670,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02780.",
-            "TextJPN": "「人間て、そういうわからないものに対して、とても敏感になってしまう」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Humans are very sensitive to such unknowns.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19671,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02790.",
-            "TextJPN": "「自分の力を超えたものだと感じて、興味を惹かれてしまう。そういうのを神秘的っていうか……@k@vS19/01/HR_KEI02800.それで、そんな魅力を持った人をカリスマって言うんだよ」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``I feel that it's beyond my power and I'm intrigued by it. That's what I call mystical......@k@vS19/01/HR_KEI02800. So, someone with that kind of charm is called charismatic.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19672,
-            "TextJPN": "一口に言い終えて、梨花ちゃんの顔をじっと見る。",
-            "TextENG": "I finished my bite and stared at Rika's face."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19673,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500052.",
-            "TextJPN": "「……つまり、ボクはカリスマですか？@k@vS19/05/660500053.　――なんだかよくわかりませんが、ちょっと面白いのですよ。@k@vS19/05/660500054.にぱ～☆」",
-            "NamesENG": "Rika",
-            "TextENG": "``...So I am charismatic?@k@vS19/05/660500053. I don't understand this well, but sounds fun.@k@vS19/05/660500054. Nipah~☆``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19674,
-            "TextJPN": "梨花ちゃんは、そう言ってほくほくと笑った。……正確な意味が通じたかは怪しいが、ひとまず納得してくれたようでほっとする。",
-            "TextENG": "Rika-chan giggled as she said this. ......I'm not sure if she understood my exact meaning, but I'm relieved that she seemed to be satisfied for the moment."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19675,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS19/08/660800034.",
-            "TextJPN": "「はは……梨花ちゃんは、オヤシロさまの生まれ変わりって言われてるからねぇ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Ahaha... It's said that Rika is the reincarnation of Oyashiro-sama.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19676,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02810.",
-            "TextJPN": "「……オヤシロさま？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...Oyashiro-sama?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19677,
-            "TextJPN": "その意味を尋ねようと、身を乗り出す。――と、そんな俺の鼻先に『にゅっ』といい匂いの物体が突き出された。",
-            "TextENG": "I leaned forward to ask what it meant. ......And then, right in front of my nose, there was an object with a nice smell."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19678,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02820.",
-            "TextJPN": "「…………へ？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``............Huh?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19679,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500055.",
-            "TextJPN": "「圭一にもおすそ分けなのです。@k@vS19/05/660500056.さっき店のおまけにもらったのですよ」",
-            "NamesENG": "Rika",
-            "TextENG": "``I'm sharing it with Keiichi.@k@vS19/05/660500056. I got this as an extra gift from the store earlier.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19680,
-            "TextJPN": "梨花ちゃんはにぱ～♪　と笑いながら俺にそれを手渡す。まだ温かくてほこほこと湯気を立てているそれは、大判焼き……いや、むしろ『おぼん焼き』と言っても差し支えないほど大きな今川焼きだった。",
-            "TextENG": "Rika-chan smiled and handed it to me. It was still warm and steamy, and it was a big piece of Imagawa-yaki, or rather, it was so big that I could have called it ``Big-o-yaki``."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19681,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500057.",
-            "TextJPN": "「はい。@k@vS19/05/660500058.富竹にも、どうぞなのですよ」",
-            "NamesENG": "Rika",
-            "TextENG": "``Here.@k@vS19/05/660500058. Tomitake, you can have it too.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19682,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS19/08/660800035.",
-            "TextJPN": "「え？@k@vS19/08/660800036.　あ、いや……僕は遠慮しておくよ。@k@vS19/08/660800037.甘いものはちょっと苦手でね」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Hm?@k@vS19/08/660800036. Ah, no, thanks.@k@vS19/08/660800037. I don't like sweet things.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19683,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02830.",
-            "TextJPN": "「富竹さん……その、『オヤシロさま』って――」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Tomitake-san... so about this ``Oyashiro-sama``...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19684,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500059.",
-            "TextJPN": "「――富竹、もうすぐ閉店なのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``Tomitake, they are closing soon.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19685,
-            "TextJPN": "梨花ちゃんはそう言って、後ろの商店を指差す。確かに言われたとおり、その店の入り口付近に出されていた商品のワゴンが、今まさに中へと仕舞い込まれようとしていた。",
-            "TextENG": "Rika said and pointed to the store behind her. Just as she said this, a wagon of goods near the entrance of the store was about to be placed inside."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19686,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS19/08/660800038.",
-            "TextJPN": "「あ！　いけない忘れてたよ。@k@vS19/08/660800039.――それじゃ二人とも、また」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Ah! Not good! I forgot!@k@vS19/08/660800039. See you!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19687,
-            "TextJPN": "そう言って『じゃ』と手を振り上げると、富竹さんは商店の中へと入っていってしまった。",
-            "TextENG": "Then, with a wave of his hand, Tomitake-san walked into the store."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19688,
-            "TextJPN": "なんだか中途半端な、白けた感じ。……梨花ちゃんに顔を戻すと、彼女はうれしそうに紙袋から今川焼きをひとつ取り出し、はむ、と小さな口でかぶりついていた。",
-            "TextENG": "It's a bit of a half-baked, bland look. When I turned my head back to Rika, she was happily taking one of the Imagawa-yaki out of the paper bag and biting into it with a small mouthful."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19689,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02840.",
-            "TextJPN": "「なぁ……梨花ちゃん。@k@vS19/01/HR_KEI02850.オヤシロさまって？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Listen... Rika-chan.@k@vS19/01/HR_KEI02850. Who is Oyashiro-sama?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19690,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS19/05/660500060.",
-            "TextJPN": "「み～。@k@vS19/05/660500061.よくわからないのです。@k@vS19/05/660500062.でもボクは大判焼きがあれば、とってもホクホクなのですよ。@k@vS19/05/660500063.にぱ～☆」",
-            "NamesENG": "Rika",
-            "TextENG": "``Miii~@k@vS19/05/660500061. I'm not sure.@k@vS19/05/660500062. But I'd be very happy with a big pancake!@k@vS19/05/660500063. Nipah～☆``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19691,
-            "TextJPN": "そう言って、梨花ちゃんは大判焼きひとつをぺろりと平らげると、両手に抱えた買い物袋と大判焼きの紙袋を自転車のかごに入れる。",
-            "TextENG": "Rika-chan flattened one of the oval pancakes and put the shopping bag and the paper bag of oval pancakes in the basket of her bicycle."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19692,
-            "TextJPN": "その表情は笑顔だったが、なんとなく妙な気配を感じて俺は、それ以上は聞けなくなってしまった。",
-            "TextENG": "She had a smile on her face, but I couldn't ask her any more because I felt something strange."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19693,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02860.",
-            "TextJPN": "「……じゃ、梨花ちゃん。@k@vS19/01/HR_KEI02870.また明日、学校で」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...So, Rika-chan.@k@vS19/01/HR_KEI02870. See you tomorrow at school.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19694,
-            "TextJPN": "俺はそう言って、自転車にまたがりペダルを漕ぐ。",
-            "TextENG": "With that, I got back on my bike and pedaled away."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19695,
-            "TextJPN": "……しばらく行って振り向くと、梨花ちゃんはまだ自転車に乗らず、その場に立っていた。",
-            "TextENG": "...When I turned around after going for a while, Rika was still standing there, next to her bike."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19696,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS19/01/HR_KEI02880.",
-            "TextJPN": "「……………………」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``............``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 19697,
-            "TextJPN": "その顔は夕暮れ過ぎの薄暗い空気に隠されて、よく……見えなかった。",
-            "TextENG": "I couldn't see her face very well, hidden by the dim evening air."
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "#2 レナとの帰り道",
+		"ENG": "#2 / On The Way Home With Rena"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19393,
+		"TextJPN": "騒ぎに騒いだ一日だった。",
+		"TextENG": "It was a fun-filled, crazy day."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19394,
+		"TextJPN": "だが暮れ始めると一日の終わりは本当に早い。",
+		"TextENG": "But as soon as the sun began to set, the end of the day really did come quickly."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19395,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS19/03/990300129.",
+		"TextJPN": "「じゃあね、レナに圭ちゃん！　また明日ね～！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Later, Rena and Kei-chan! See you tomorrow～!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19396,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI01960.",
+		"TextJPN": "「魅音、今日はありがとな。楽しかったぜ」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Thanks for today, Mion. I had a great time.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19397,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/990200133.",
+		"TextJPN": "「また明日ね～！！」",
+		"NamesENG": "Rena",
+		"TextENG": "``See you tomorrow～!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19398,
+		"TextJPN": "沙都子と梨花ちゃんも帰り、魅音とも別れ、俺とレナは夕方の空気を楽しみながら家路につく。",
+		"TextENG": "Satoko and Rika-chan went home as well. We parted ways with Mion, and it ended with just Rena and myself enjoying the evening air on our way home."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19399,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/990200134.",
+		"TextJPN": "「…圭一くんも今日は付き合ってくれてありがとう。@k@vS19/02/990200135.…楽しかった？」",
+		"NamesENG": "Rena",
+		"TextENG": "``...Thanks for coming today, Keiichi-kun.@k@vS19/02/990200135. ...Was it fun?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19400,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI01970.",
+		"TextJPN": "「あぁ。@k@vS19/01/HR_KEI01980.楽しかった。@k@vS19/01/HR_KEI01990.まだ家に帰るのが惜しいくらいだぜ！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Yeah.@k@vS19/01/HR_KEI01980. Lots of fun.@k@vS19/01/HR_KEI01990. Almost feels like a waste to go home now!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19401,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/990200136.",
+		"TextJPN": "「あ、……じゃあさ、@k@vS19/02/990200137.ちょっとだけ寄り道しても…いいかな？　…かな？」",
+		"NamesENG": "Rena",
+		"TextENG": "``Ah... Then, well...@k@vS19/02/990200137. Would you mind taking a little detour... maybe? ...Maybe?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19402,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02000.",
+		"TextJPN": "「寄り道？@k@vS19/01/HR_KEI02010.　遠いのか？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``A detour?@k@vS19/01/HR_KEI02010. Is it far?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19403,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/990200138.",
+		"TextJPN": "「ちょっと歩くけど…すぐ済むから！」",
+		"NamesENG": "Rena",
+		"TextENG": "``It's a bit of a walk... but it won't take long!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19404,
+		"TextJPN": "俺は…",
+		"TextENG": "I..."
+	},
+	{
+		"type": "SELECT",
+		"metadata": "10s, 5s, @0x0000, 4095n,",
+		"count": 2,
+		"titleJPN": "レナの誘い",
+		"choice1JPN": "*03.ああ、いいぜ",
+		"choice2JPN": "*245.あ、しまったお袋の用事が…",
+		"titleENG": "Rena's Invitation",
+		"choice1ENG": "*03.Okay",
+		"choice2ENG": "*245.Oh, I need to help my mom...",
+		"Explanation": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19405,
+		"TextJPN": "一日中歩いてはしゃいで、疲れたからだろうか。",
+		"TextENG": "Since we had been walking around all day, I must have seemed a bit tired."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19406,
+		"TextJPN": "少し毒気を抜かれた俺は、レナの揚げ足を取ることもなく頷いた。",
+		"TextENG": "Not feeling like teasing Rena, I quietly nodded."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19407,
+		"TextJPN": "…細い道と斜面を越えると一気に視界が開けた。",
+		"TextENG": "...Traversing a small path and up a small hill, the land suddenly stretched out before us."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19408,
+		"TextJPN": "そこは荒涼とした…工事現場跡のように見えた。",
+		"TextENG": "There... What looked like the remains of a dilapidated construction site came into view."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19409,
+		"TextJPN": "沢を臨む斜面に粗大ゴミの山がぶちまけられていた。",
+		"TextENG": "A large heap of garbage spread out off towards the swamp."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19410,
+		"TextJPN": "きっと不法投棄だろう。問題になって新聞を賑わせたこともあった気がする。",
+		"TextENG": "Probably illegal dumping. I recalled it being in the newspaper."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19411,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/990200139.",
+		"TextJPN": "「うっふふ！@k@vS19/02/990200140.　今日は久しぶりだからぁ～、何があるかな何があるかな…！」",
+		"NamesENG": "Rena",
+		"TextENG": "``Ufufu!@k@vS19/02/990200140. It's been quite a while～ I wonder what's here, I wonder what's here...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19412,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02020.",
+		"TextJPN": "「久しぶりって、…レナの用は、あの…ゴミの山かよ？！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``When you say it's been a while... you mean the business you had here... was with this garbage pile!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19413,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/990200141.",
+		"TextJPN": "「ゴ、ゴミじゃないよ！@k@vS19/02/990200142.　…レナにとっては宝の山だもん…」",
+		"NamesENG": "Rena",
+		"TextENG": "``I-It's not garbage!@k@vS19/02/990200142. ...To me, it's a pile of treasure...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19414,
+		"TextJPN": "レナはすでにお約束のかぁいいモードになっていた。",
+		"TextENG": "Rena had already entered that well-known 'kyute' mode of hers."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19415,
+		"TextJPN": "レナにとってのどんなかぁいいものがここにあるって言うんだ？？",
+		"TextENG": "So that meant there was something 'kyute' here??"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19416,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/990200143.",
+		"TextJPN": "「…わぁ…新しい山だ。@k@vS19/02/990200144.……わくわく……わくわく…！」",
+		"NamesENG": "Rena",
+		"TextENG": "``...Whoa... A new pile.@k@vS19/02/990200144. ...I can't wait... I can't wait...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19417,
+		"TextJPN": "不安定な斜面をひょいひょいと降りていく。@k…さすがは田舎育ちだ。",
+		"TextENG": "She descended the unstable slope with ease.@k ...I'd expect no less from a born and bred country girl."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19418,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02030.",
+		"TextJPN": "「おい待てよ、今行くから……ぅわったたた……！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Hey, wait, I'm coming... Wohoahoa...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19419,
+		"TextJPN": "都会育ちの俺はまったくもって情けない…。",
+		"TextENG": "My city-raised self was completely pitiful..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19420,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/990200145.",
+		"TextJPN": "「いいよ圭一君はそこにいて～！　すぐ済むからぁ！」",
+		"NamesENG": "Rena",
+		"TextENG": "``It's all right! Just stay right there, Keiichi-kun! It won't take long!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19421,
+		"TextJPN": "レナは付いていこうとする俺を軽く制する。",
+		"TextENG": "Rena kindly declined my accompaniment."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19422,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02040.",
+		"TextJPN": "「…転ぶなよー！@k@vS19/01/HR_KEI02050.　足元に気をつけろよー！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...Don't fall!@k@vS19/01/HR_KEI02050. Watch your step!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19423,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/990200146.",
+		"TextJPN": "「大丈夫だよ大丈夫。@k@vS19/02/990200147.全然平気～！」",
+		"NamesENG": "Rena",
+		"TextENG": "``I'm fine, I'm fine.@k@vS19/02/990200147. This is nothing at all~!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19424,
+		"TextJPN": "ぴょんぴょんと文字通り跳ねるかのような足取りで、レナは廃材のゴミ山の向こうに消えていった。",
+		"TextENG": "Literally bounding among the heaps of trash, Rena disappeared from sight."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19425,
+		"TextJPN": "置いてきぼりは嫌だったが、今日一日の疲れもあったので、結局俺は待つことにする。",
+		"TextENG": "I didn't like being left behind, but I was still pretty tired from the whole day so I just ended up waiting."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19426,
+		"TextJPN": "賑やかなレナがいなくなり、急に辺りは静けさを取り戻していった…。",
+		"TextENG": "Without the lively Rena around, the surrounding area quickly fell into silence..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19427,
+		"TextJPN": "……ひぐらしの声が空気をゆっくりと冷やしていく。",
+		"TextENG": "...The cry of the higurashi gently cooled the air."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19428,
+		"TextJPN": "ほどよい疲れが、ちょっとした眠気を誘っていた。",
+		"TextENG": "Fairly exhausted, I began to feel a little sleepy."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19429,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02060.",
+		"TextJPN": "「あ……しまった。@k@vS19/01/HR_KEI02070.すまんレナ、この後お袋の用事があるんだ」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Oh, almost forgot.@k@vS19/01/HR_KEI02070. Sorry, Rena. My mom asked me to help.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19430,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/660200038.",
+		"TextJPN": "「え？@k@vS19/02/660200039.　あ、そうなんだ……」",
+		"NamesENG": "Rena",
+		"TextENG": "``Huh?@k@vS19/02/660200039. Ah, okay...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19431,
+		"TextJPN": "レナがちょっと残念そうな顔になって、俺を見た。",
+		"TextENG": "Rena looked at me with a slightly disappointed look on her face."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19432,
+		"TextJPN": "俺は、ポケットの隅にクシャクシャになっていた買い物リストを引っ張り出す。……レナには悪いけど、このタイミングがなければあやうく忘れるところだった。",
+		"TextENG": "I pulled out my shopping list that was crumpled up in the corner of my pocket. ...I'm sorry Rena, but I almost forgot about it if not for this timing."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19433,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02080.",
+		"TextJPN": "「帰りに、買い物頼まれてさ。@k@vS19/01/HR_KEI02090.……残念だけど」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``She asked me to do some shopping on the way home.@k@vS19/01/HR_KEI02090. Sorry, but...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19434,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/660200040.",
+		"TextJPN": "「ううん。@k@vS19/02/660200041.あ、なら急いだほうがいいよ。@k@vS19/02/660200042.興宮のお店って、閉まるのが早いから」",
+		"NamesENG": "Rena",
+		"TextENG": "``No.@k@vS19/02/660200041. Oh, so you should hurry.@k@vS19/02/660200042. Shop in Okinomiya is closing soon.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19435,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02100.",
+		"TextJPN": "「悪い。じゃあな」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Sorry. See you.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19436,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/660200043.",
+		"TextJPN": "「うん、またね～」",
+		"NamesENG": "Rena",
+		"TextENG": "``Mhm, bye!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19437,
+		"TextJPN": "俺はレナと別れ、興宮へ向けて自転車をこぎ始めた。",
+		"TextENG": "I left Rena and started to pedal my bike towards Okinomiya."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19438,
+		"TextJPN": "スーパーへ着くと、店のシャッターはまだ開いていたとはいえ、店の人たちは少しずつ閉店の準備をしていた。",
+		"TextENG": "When I arrived at the supermarket, even though the shutters of the store were still open, the shopkeepers were slowly preparing to close the store."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19439,
+		"TextJPN": "時計を見て、結構時間が経っていたことに気づく。俺は、慌てて店の中に入って行った。",
+		"TextENG": "I looked at my watch and realized that quite a bit of time had passed. I hurriedly walked into the store."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19440,
+		"TextJPN": "買い物リストを取り出して、リストの上から順に買い物かごにぶちこんでいく。――と、野菜売り場の角を曲がったところで、見慣れた後ろ姿を見かけた。",
+		"TextENG": "I took out my shopping list and filled my shopping cart in order from the top of the list. --As I rounded the corner of the vegetable section, I saw a familiar figure behind me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19441,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02110.",
+		"TextJPN": "「……あれ？@k@vS19/01/HR_KEI02120.　梨花ちゃん」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...Huh?@k@vS19/01/HR_KEI02120. Rika-chan.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19442,
+		"TextJPN": "かごを手にしているのは、梨花ちゃんだった。",
+		"TextENG": "It was Rika who was holding the basket in her hand."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19443,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500004.",
+		"TextJPN": "「み～☆@k@vS19/05/660500005.　圭一も、お買い物ですか？」",
+		"NamesENG": "Rika",
+		"TextENG": "``Miii~p☆@k@vS19/05/660500005. Keiichi, are you shopping too?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19444,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02130.",
+		"TextJPN": "「お袋のお使いでさ。@k@vS19/01/HR_KEI02140.…えぇーと、洗剤、洗剤……」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``My mom asked me.@k@vS19/01/HR_KEI02140. ...Hmm, detergent, detergent...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19445,
+		"TextJPN": "俺は梨花ちゃんと話しながらも目の端でリストを追い、閉店間際のＢＧＭに急き立てられるように、それらしきものをかごの中に放り込んでいく。",
+		"TextENG": "I followed the list out of the corner of my eye while talking to Rika, and threw the items into the basket as if the background music at closing time was urging me to do so."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19446,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500006.",
+		"TextJPN": "「圭一。@k@vS19/05/660500007.それは洗剤じゃなくて、漂白剤です」",
+		"NamesENG": "Rika",
+		"TextENG": "``Keiichi.@k@vS19/05/660500007. That's not detergent, it's bleach.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19447,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02150.",
+		"TextJPN": "「え？@k@vS19/01/HR_KEI02160.　あれ……そうか？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Uh?@k@vS19/01/HR_KEI02160. Ah... Really?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19448,
+		"TextJPN": "俺は、かごの中の洗剤を見直す。頑固な茶シブも２分でスッキリ……？　洗剤と漂白剤は違うのか？",
+		"TextENG": "I'd rethink the detergent in the basket. Clearing stubborn tea stains in two minutes?　Is there a difference between detergent and bleach?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19449,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500008.",
+		"TextJPN": "「大違いなのですよ。@k@vS19/05/660500009.それに、かごの中に魚の缶詰が入ってますが、『猫も大好き』と横に書いてあるのです。@k@vS19/05/660500010.……圭一の家では、にゃーにゃーを飼ってるのですか？」",
+		"NamesENG": "Rika",
+		"TextENG": "``Of course there is.@k@vS19/05/660500009. Besides, there is a can of fish in the basket, but it says next to it, 'Cats love it'.@k@vS19/05/660500010. Do you have a cat in house?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19450,
+		"TextJPN": "あ……あれ？　気づかなかった……。ちなみに、前原家には動物のペットは存在しない。",
+		"TextENG": "Oh... That?　I didn't notice that... By the way, there are no pets in the Maebara family."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19451,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500011.",
+		"TextJPN": "「慌てて買うと、ろくなことがないのですよ。@k@vS19/05/660500012.にぱ～☆」",
+		"NamesENG": "Rika",
+		"TextENG": "``Buying in a hurry is not a good idea!@k@vS19/05/660500012. Nipah~☆``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19452,
+		"TextJPN": "た、確かに……。",
+		"TextENG": "S-Sure..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19453,
+		"TextJPN": "そう言われてかごの中身をよく確かめると、リストに書いてあるものは結局、何一つ入っていない？　……俺は一体、何をやっていたんだ！？",
+		"TextENG": "When she told me thatt, I took a closer look at the contents of my basket and found that none of the items on my list were in there after all. ...What the hell have I been doing!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19454,
+		"TextJPN": "年下の子に、お買い物を教えられるとは……！　しかも、リストを良く見れば『にんじん（茨城産）』などと書いてある。",
+		"TextENG": "I can't believe I'm being told what to shop for by a younger kid......! And if you look closely at the list, it says things like 'Carrots (Ibaraki)'."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19455,
+		"TextJPN": "……お袋め、ニンジンの生産地まで指定するな～！　どこで採れようがどう調理しようが、胃袋に入れば皆同じだろうが！？",
+		"TextENG": "......Mother didn't even specify region of carrots~!　It doesn't matter where they're grown or how they're prepared, as long as they're in your stomach, they're all the same!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19456,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500013.",
+		"TextJPN": "「では圭一。@k@vS19/05/660500014.圭一はオーストラリア牛と中国牛とアメリカ牛と伊勢松坂最高級牛だったら、どれを食べたいですか？」",
+		"NamesENG": "Rika",
+		"TextENG": "``So, Keiichi.@k@vS19/05/660500014. If Keiichi had to choose between Australian beef, Chinese beef, American beef, and Ise-Matsusaka top quality beef, which would he rather eat?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19457,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02170.",
+		"TextJPN": "「…………茨城産のニンジンを買ってきます」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...I'm going to buy some carrots from Ibaraki.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19458,
+		"TextJPN": "その時、突然、砂利を踏む音と人の気配がし、俺は驚いて振りかえった。",
+		"TextENG": "Just then, the sudden noise of scattering pebbles alerted me to somebody's presence. Startled, I turned around."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19459,
+		"TextJPN": "そこにはいかにもカメラマン風体の男が、俺に向けてカメラを覗いていた。",
+		"TextENG": "Standing there was a typical-looking photographer. He spied over at me through his camera."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19460,
+		"TextJPN": "日焼けした体格のいい体つき。@kなのにどこか頼りなさそうな、なんとも曖昧な雰囲気。",
+		"TextENG": "His body was tanned and fit.@k But something about him seemed unreliable, and he had a bit of an aloof air about him."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19461,
+		"TextJPN": "…ま、悪い人ではなさそうだ。",
+		"TextENG": "...Well, it didn't seem like he was a bad guy in any case."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19462,
+		"NamesJPN": "男",
+		"PreTextTags": "@vS19/08/990800001.",
+		"TextJPN": "「お、おぉっと！@k@vS19/08/990800002.　…びっくりした！」",
+		"NamesENG": "Man",
+		"TextENG": "``W-Whoa!@k@vS19/08/990800002. ...You surprised me!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19463,
+		"TextJPN": "男は突然振り返った俺に驚き、やたらと大袈裟に驚いてみせた。",
+		"TextENG": "Although startled when I turned around, he overplayed his reaction."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19464,
+		"TextJPN": "それはこっちのセリフだぞ、まったく。",
+		"TextENG": "That was my line."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19465,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02180.",
+		"TextJPN": "「…驚いたのはこっちですよ」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...I'm the one who's surprised here.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19466,
+		"NamesJPN": "男",
+		"PreTextTags": "@vS19/08/990800003.",
+		"TextJPN": "「ごめんごめん。@k@vS19/08/990800004.驚かすつもりはなかったんだ。君は雛見沢の人かい？」",
+		"NamesENG": "Man",
+		"TextENG": "``My bad, my bad.@k@vS19/08/990800004. I didn't mean to startle you. Are you from Hinamizawa?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19467,
+		"TextJPN": "その一言で、彼が雛見沢の人間でないことがわかった。",
+		"TextENG": "I gathered that he wasn't, from that question."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19468,
+		"TextJPN": "俺のいぶかしがる様子も気にせず、男は勝手に自己紹介を始めた。",
+		"TextENG": "Unfazed by my suspicious gaze, he introduced himself without my prompting."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19469,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS19/08/990800005.",
+		"TextJPN": "「僕は@bとみたけ.@<富竹@>。@k@vS19/08/990800006.フリーのカメラマンさ。@k@vS19/08/990800007.雛見沢にはたまに来るんだ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``I'm Tomitake.@k@vS19/08/990800006. Freelance photographer.@k@vS19/08/990800007. I come to Hinamizawa from time to time.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19470,
+		"TextJPN": "別に名前なんか聞いてないんだけどな…。",
+		"TextENG": "I didn't ask you who you were..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19471,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02190.",
+		"TextJPN": "「写真てのは被写体に断ってから撮るのが礼儀なんじゃないんすかね」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Quite rude to photograph someone without consent, one would think.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19472,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS19/08/990800008.",
+		"TextJPN": "「ごめんごめん。@k@vS19/08/990800009.メインは野鳥の撮影でね。@k@vS19/08/990800010.断った例がないんだよ。@k@vS19/08/990800011.あっははは！」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``My bad, my bad.@k@vS19/08/990800009. I mainly photograph wild birds.@k@vS19/08/990800010. They can't refuse, you see.@k@vS19/08/990800011. Ah hahaha!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19473,
+		"TextJPN": "ってことは何だ。俺の扱いは鳥並というわけだ。",
+		"TextENG": "So, what... You're saying I'm the same as the birds?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19474,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS19/08/990800012.",
+		"TextJPN": "「いやいや、夕闇にたそがれる少年があまりにも絵になっていたんでね…。@k@vS19/08/990800013.本人の許可を撮らずにファインダーを覗いたことを謝るよ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``No, well, you see... that image of a young man in the twilight was just picturesque...@k@vS19/08/990800013. I apologize for trying to take your picture without asking.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19475,
+		"TextJPN": "…大人は本当にうまい。",
+		"TextENG": "...Adults are pretty slick."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19476,
+		"TextJPN": "程よくおだてられ、驚かされたことへの腹立たしさはすっかり引っ込んでしまった。",
+		"TextENG": "All that annoyance I felt for being startled just flew away as he buttered me up."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19477,
+		"TextJPN": "この馴れ馴れしいおっさんに付き合う気もなかったし、レナが戻ってくる様子もまたなかった。",
+		"TextENG": "I had no intention of hanging around with this guy trying to get cozy with me, except it didn't seem like Rena would be back soon."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19478,
+		"TextJPN": "だが、おっさん…富竹さんは俺のそっけないあいづちにも気にせず、一人で喋り続けている。",
+		"TextENG": "But this older guy... Tomitake-san... He didn't mind my cautious responses and continued rambling on by himself."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19479,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/990200148.",
+		"TextJPN": "「圭一く～ん！　待たせてごめんねぇ～！@k@vS19/02/990200149.　もう終わりにするから～！！」",
+		"NamesENG": "Rena",
+		"TextENG": "``Keiichi-kun～! Sorry to keep you waiting～!@k@vS19/02/990200149. I'm finished now!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19480,
+		"TextJPN": "レナが斜面の遥か下のゴミ山から顔を覗かせ手を振っている。",
+		"TextENG": "Rena popped her head out from one of the lower piles of garbage and waved her hand."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19481,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS19/08/990800014.",
+		"TextJPN": "「連れがいたのかい。@k@vS19/08/990800015.……彼女はあんなところで何をしているんだい？」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``You have someone with you?@k@vS19/08/990800015. ...What would she be doing over there?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19482,
+		"TextJPN": "それはこっちが聞きたい。",
+		"TextENG": "That's what I wanted to know."
+	},
+	{
+		"type": "SELECT",
+		"metadata": "12s, 6s, @0x0000, 4095n,",
+		"count": 2,
+		"titleJPN": "レナの宝探しＩ",
+		"choice1JPN": "*0.死体でも捜してんじゃないですか？",
+		"choice2JPN": "*3.宝探しみたいですよ……あれでも",
+		"titleENG": "Rena's Treasure Hunt I",
+		"choice1ENG": "*0.Are you looking for a corpse?",
+		"choice2ENG": "*3.It's like a treasure hunt...",
+		"Explanation": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19483,
+		"TextJPN": "買い物を終え、梨花ちゃんと並んでスーパーマーケットから出た、その時。",
+		"TextENG": "I finished my shopping and walked out of the supermarket with Rika."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19484,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500015.",
+		"TextJPN": "「……あっ……！？」",
+		"NamesENG": "Rika",
+		"TextENG": "``...Ah...!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19485,
+		"TextJPN": "チャリチャリ、チャリィィ――ンッ……！",
+		"TextENG": "Clang, clang--nghh...!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19486,
+		"TextJPN": "複数の小さな金属音を真横で聞いて、俺は足を止めて振り返る。見ると、つまづいたかの拍子に財布を落してしまったのだろう、梨花ちゃんの周りに、小銭がたくさん散らばってしまっていた。",
+		"TextENG": "Hearing multiple small metallic sounds right beside me, I stopped and turned around. When I looked, I saw a lot of coins scattered around Rika-chan, as if she had tripped and dropped her purse."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19487,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02200.",
+		"TextJPN": "「大丈夫か？@k@vS19/01/HR_KEI02210.　っと……」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Are you okay?@k@vS19/01/HR_KEI02210. Uh...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19488,
+		"TextJPN": "慌ててしゃがみこみ、梨花ちゃんと一緒になって足元に転がった硬貨を拾い集める。結構小銭をじゃらじゃらと入れていたのだろう、入り口から出た車道の真ん中付近にまで飛び出したやつもある。",
+		"TextENG": "I hurriedly crouched down and joined Rika in picking up the coins that were lying at our feet. She must have had quite a few coins in her purse, and some of them jumped out near the middle of the driveway out of the entrance."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19489,
+		"TextJPN": "こりゃ、意外に面倒かもな……そう思って、周りの地面を見渡すと――。",
+		"TextENG": "This might be more trouble than it seems...... I thought, looking around at the ground around me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19490,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS19/00/villaA66001.",
+		"TextJPN": "「おお、梨花ちゃま。@k@vS19/00/villaA66002.どうかしましたかの」",
+		"NamesENG": "Villager",
+		"TextENG": "``Oh, Rika-chama.@k@vS19/00/villaA66002. Something happened?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19491,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS19/00/villaB66001.",
+		"TextJPN": "「あらあら、梨花ちゃま。@k@vS19/00/villaB66002.小銭を落したのですか？@k@vS19/00/villaB66003.　どれどれ――」",
+		"NamesENG": "Villager",
+		"TextENG": "``Oh my, Rika-chama.@k@vS19/00/villaB66002. Did you drop some coins?@k@vS19/00/villaB66003. Let me help...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19492,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS19/00/villaC66001.",
+		"TextJPN": "「おおぃ、そっちの下も見てくれんかのぉ？」",
+		"NamesENG": "Villager",
+		"TextENG": "``Oi, can you look under there too?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19493,
+		"TextJPN": "道を歩いていたり、そばで談笑していたお年寄りたちが一斉にこちらを向くと、にこにこと笑顔で散らばった小銭を拾い集めはじめる。",
+		"TextENG": "The elderly people who were walking along the street or chatting nearby all turned to me at once and started picking up the scattered coins with a smile on their faces."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19494,
+		"TextJPN": "そして、数の威力であっという間に小銭は全て回収され、梨花ちゃんの手に戻った。",
+		"TextENG": "And with the power of numbers, all the coins were quickly collected and returned to Rika's hands."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19495,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500016.",
+		"TextJPN": "「みんな、ありがとうなのです。@k@vS19/05/660500017.にぱ～♪」",
+		"NamesENG": "Rika",
+		"TextENG": "``Thank you all.@k@vS19/05/660500017. Nipah~♪``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19496,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS19/00/villaA66003.",
+		"TextJPN": "「おお、もったいない。@k@vS19/00/villaA66004.ありがたや」",
+		"NamesENG": "Villager",
+		"TextENG": "``Oh, it's nothing.@k@vS19/00/villaA66004. Thank you.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19497,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS19/00/villaB66004.",
+		"TextJPN": "「ありがたや、ありがたや」",
+		"NamesENG": "Villager",
+		"TextENG": "``Thank you, thank you.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19498,
+		"TextJPN": "拾い集めてくれて感謝すべきなのはこっちのはずなのに、お年寄りたちの集団は手をすり併せながら、梨花ちゃんを囲んでいく。",
+		"TextENG": "I should be the one who should be thanking them for picking up the items, but the group of elderly people surrounded Rika-chan, rubbing their hands together."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19499,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02220.",
+		"TextJPN": "「な、な、な……！！？？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``W-W-Wha...!!??``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19500,
+		"TextJPN": "異様な光景に、俺はその場で固まる。しかし、お年寄りたちは俺のことなどお構いなしに、梨花ちゃんを輪の中心にして一様に手をすり合わせ、一心に梨花ちゃんを拝み続けていた。",
+		"TextENG": "I froze in place at the strange sight. However, the elderly people didn't care about me, they were all rubbing their hands together and worshipping Rika-chan with all their hearts, making her the center of the circle."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19501,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS19/00/villaA66005.",
+		"TextJPN": "「ありがたや」",
+		"NamesENG": "Villager",
+		"TextENG": "``Thank you.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19502,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS19/00/villaC66002.",
+		"TextJPN": "「ありがたや」",
+		"NamesENG": "Villager",
+		"TextENG": "``Thank you.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19503,
+		"TextJPN": "俺は、その異様な光景を、ただ茫然として見ているしかなかった。",
+		"TextENG": "I could do nothing but stare at the bizarre scene."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19504,
+		"TextJPN": "――と、そこへ。",
+		"TextENG": "And they went."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19505,
+		"NamesJPN": "男",
+		"PreTextTags": "@vS19/08/660800001.",
+		"TextJPN": "「人だかりができていると思ったら……やっぱり梨花ちゃんか」",
+		"NamesENG": "Man",
+		"TextENG": "``If there's a crowd... it's Rika after all.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19506,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02230.",
+		"TextJPN": "「――――え？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Huh...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19507,
+		"TextJPN": "その声に驚いて振り返ると、いかにもカメラマン風体の男が立っていた。",
+		"TextENG": "I turned around, startled by the voice, and saw a man with a photographer's style standing there."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19508,
+		"TextJPN": "日焼けした体格のいい体つき。なのにどこか頼りなさそうな、なんとも曖昧な雰囲気だ。悪い人では、なさそうだけど……。",
+		"TextENG": "He was tanned and well-built. It's a good idea to have a good idea of what you're looking for. He doesn't seem to be a bad person, but ......."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19509,
+		"NamesJPN": "男",
+		"PreTextTags": "@vS19/08/660800002.",
+		"TextJPN": "「やぁ。こんにちは」",
+		"NamesENG": "Man",
+		"TextENG": "``Ah, good evening.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19510,
+		"TextJPN": "男が馴れ馴れしい笑みを向けてきたので、俺は少し顔をしかめた。",
+		"TextENG": "I frowned a little as the man gave me a familiar smile."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19511,
+		"NamesJPN": "男",
+		"PreTextTags": "@vS19/08/660800003.",
+		"TextJPN": "「あ…君、今、馴れ馴れしいなって思った？」",
+		"NamesENG": "Man",
+		"TextENG": "``Oh...did you just think I was being too friendly?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19512,
+		"TextJPN": "ギクッ。",
+		"TextENG": "Geez."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19513,
+		"NamesJPN": "男",
+		"PreTextTags": "@vS19/08/660800004.",
+		"TextJPN": "「あはは。@k@vS19/08/660800005.図星だったみたいだね」",
+		"NamesENG": "Man",
+		"TextENG": "``Hahaha.@k@vS19/08/660800005. I hit the bull.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19514,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02240.",
+		"TextJPN": "「そ、そんな……」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``No way...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19515,
+		"TextJPN": "顔に出てたのかな。それにしても……この人、誰だ？",
+		"TextENG": "I guess it was in my face. Anyway...... who is this guy?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19516,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS19/08/660800006.",
+		"TextJPN": "「あ、僕は@bとみたけ.@<富竹@>。@k@vS19/08/660800007.フリーのカメラマンさ。@k@vS19/08/660800008.野鳥の撮影で、雛見沢にはたまに来るんだ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Ah, I'm Tomitake.@k@vS19/08/660800007. Freelance cameraman.@k@vS19/08/660800008. I come to Hinamizawa occasionally to photograph birds.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19517,
+		"TextJPN": "と、男は勝手に自己紹介をはじめる。別に、名前は聞いてないんだけど……とりあえず、俺も自分の名前を名乗った。",
+		"TextENG": "The man took the liberty of introducing himself. I didn't ask him what his name was...... Anyway, I told him my name too."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19518,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02250.",
+		"TextJPN": "「あの……富竹さん。@k@vS19/01/HR_KEI02260.梨花ちゃんとは、お知り合いで？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Well, Tomitake-san.@k@vS19/01/HR_KEI02260. Do you know Rika-chan?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19519,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS19/08/660800009.",
+		"TextJPN": "「ああ。この村には、よく来るからね。@k@vS19/08/660800010.もうずいぶん長い付き合いだよ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Yeah, she is very known in village.@k@vS19/08/660800010. I've known her for a long time now.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19520,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02270.",
+		"TextJPN": "「はぁ……」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Oh...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19521,
+		"TextJPN": "この村に、よく来る。",
+		"TextENG": "He often comes to this village."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19522,
+		"TextJPN": "その言葉で、富竹さんがこの村の住人ではないことが分かった。",
+		"TextENG": "With those words, I knew that Tomitake-san was not a resident of this village."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19523,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS19/08/660800011.",
+		"TextJPN": "「梨花ちゃんの人気は、相変わらずだね」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Rika-chan is as popular as ever.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19524,
+		"TextJPN": "富竹さんは梨花ちゃんを見やりながら、それが見慣れた光景であるかのように言う。……にしても、どうして梨花ちゃんはお年寄りたちに異様な人気があるんだろう？",
+		"TextENG": "Tomitake-san looked over at Rika-chan and said as if it were a familiar sight...... but why is Rika so unusually popular with the elderly?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19525,
+		"TextJPN": "そんな、俺の疑問を見て取ったのか、富竹さんはこちらに顔を向けていった。",
+		"TextENG": "Perhaps sensing my doubts, Tomitake-san turned his head toward me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19526,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS19/08/660800012.",
+		"TextJPN": "「君、この村に引っ越して来たばかりみたいだね」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Did you move to this village recently?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19527,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02280.",
+		"TextJPN": "「え？@k@vS19/01/HR_KEI02290.　ええ、……まぁ」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Uh?@k@vS19/01/HR_KEI02290. Yeah, that's right.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19528,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS19/08/660800013.",
+		"TextJPN": "「この雛見沢は、村人同士の連帯感がとても強くてね……。@k@vS19/08/660800014.梨花ちゃんは、そんな雛見沢の人々の、心の拠り所になっているんだよ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Here in Hinamizawa, the sense of solidarity among the villagers is very strong...@k@vS19/08/660800014. Rika-chan has become a source of comfort for the people of Hinamizawa.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19529,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02300.",
+		"TextJPN": "「心の拠り所……？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Source of comfort...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19530,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS19/08/660800015.",
+		"TextJPN": "「以前、ダム工事の時にあった話……聞いたことはないかな？」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Have you ever heard of the story... about the dam construction?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19531,
+		"TextJPN": "そこへ、梨花ちゃんがお年寄りたちの集団からようやく解放されてやって来た。",
+		"TextENG": "Then Rika-chan arrived, finally free from the group of elderly people."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19532,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500018.",
+		"TextJPN": "「……みぃ。@k@vS19/05/660500019.お待たせしましたなのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``...Mii.@k@vS19/05/660500019. Thank you for waiting.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19533,
+		"TextJPN": "ゲッソリと、少々お疲れ気味の梨花ちゃん。",
+		"TextENG": "Rika is looking a little tired."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19534,
+		"TextJPN": "俺は……",
+		"TextENG": "I..."
+	},
+	{
+		"type": "SELECT",
+		"metadata": "14s, 7s, @0x0000, 4095n,",
+		"count": 2,
+		"titleJPN": "梨花のお買い物",
+		"choice1JPN": "*24.可愛いと、得だよな～",
+		"choice2JPN": "*5.カリスマってやつですか",
+		"titleENG": "Rika's Shopping",
+		"choice1ENG": "*24.It must be nice to be cute～",
+		"choice2ENG": "*5.This must be charisma",
+		"Explanation": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19535,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02310.",
+		"TextJPN": "「さぁねぇ。@k@vS19/01/HR_KEI02320.昔起こった、殺人事件の死体でも捜してるんじゃないすか？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Dunno.@k@vS19/01/HR_KEI02320. Maybe she's searching for the corpse from an old murder?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19536,
+		"TextJPN": "富竹さんのリアクションが一瞬鈍った。",
+		"TextENG": "Tomitake-san looked shaken up by that for a moment."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19537,
+		"TextJPN": "まずいまずい、ついレナたちのような感覚で受け答えしてしまった。",
+		"TextENG": "Uh-oh, I responded like I would if I were talking with Rena and the others."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19538,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS19/08/990800016.",
+		"TextJPN": "「……嫌な事件だったね。…………まだ見つかってないんだろ？」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``...It was quite a disturbing incident... They still haven't found it, have they?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19539,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/990200150.",
+		"TextJPN": "「ははは！　圭一くんお待たせ～」",
+		"NamesENG": "Rena",
+		"TextENG": "``Hahaha! Keiichi-kun, sorry to keep you～``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19540,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/990200151.",
+		"TextJPN": "「待ったかな？　……かな？」",
+		"NamesENG": "Rena",
+		"TextENG": "``You were waiting a while, I guess? ...I guess?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19541,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS19/08/990800017.",
+		"TextJPN": "「馬に蹴られる前に退散するかな。@k@vS19/08/990800018.驚かせてすまなかったね。『圭一くん』」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``I'd best leave you two lovebirds alone.@k@vS19/08/990800018. Again, my apologies for startling you, 'Keiichi-kun.'``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19542,
+		"TextJPN": "富竹さんは意味深に笑って見せると、夕闇へ溶けこむように去って行った。",
+		"TextENG": "Tomitake-san chortled suggestively,  then disappeared into the twilight."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19543,
+		"TextJPN": "反論するタイミングを逃し、なんだかとても気まずい。",
+		"TextENG": "Missing my chance to retort put me off a bit."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19544,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/990200152.",
+		"TextJPN": "「…圭一くん、怒ってる？@k@vS19/02/990200153.　……どうしてだろ……だろ？」",
+		"NamesENG": "Rena",
+		"TextENG": "``...Keiichi-kun, are you angry?@k@vS19/02/990200153. ...Why, I wonder? ...I wonder?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19545,
+		"TextJPN": "別にレナは悪くないのだが、とりあえず叩いておくことにする。",
+		"TextENG": "It wasn't Rena's fault, so I decided to just brush it off for now."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19546,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02330.",
+		"TextJPN": "「どうだった？@k@vS19/01/HR_KEI02340.　掘り出し物は見つかったか？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``How was it?@k@vS19/01/HR_KEI02340. Find a treasure trove?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19547,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/990200154.",
+		"TextJPN": "「うん聞いて聞いて！@k@vS19/02/990200155.　あ、…あのね！@k@vS19/02/990200156.　あったの！@k@vS19/02/990200157.　ランディくん人形ッ♪！！」",
+		"NamesENG": "Rena",
+		"TextENG": "``Oh, yes～ So listen!@k@vS19/02/990200155. Ah ...um, you see!@k@vS19/02/990200156. There was...!@k@vS19/02/990200157. A Randy-kun doll!♪``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19548,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02350.",
+		"TextJPN": "「ランディくん人形？！@k@vS19/01/HR_KEI02360.　…ってあれか、ファーストフードの店の前に必ず置いてある…あの等身大人形の？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``A Randy-kun doll!?@k@vS19/01/HR_KEI02360. ...Oh, that thing. Those statues they always have out in front of that fried chicken place... That life-sized dummy?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19549,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/990200158.",
+		"TextJPN": "「…そう！　ランディくん☆@k@vS19/02/990200159.　……はぅ……かぁいい……お持ち帰りしたいぃ…☆」",
+		"NamesENG": "Rena",
+		"TextENG": "``...Yes! Randy-kun.☆@k@vS19/02/990200159. ...Hau... kyute... I want to take it hooome...☆``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19550,
+		"TextJPN": "レナのかぁいいものの定義がいまひとつ読めないが、とりあえず、本人は気に入っているらしい。",
+		"TextENG": "I couldn't tell how she decides what's 'kyute' or not... but, well, she seems to want it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19551,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02370.",
+		"TextJPN": "「あれはゴミだろ？@k@vS19/01/HR_KEI02380.　お持ち帰りしたきゃしてもいいんだぜ？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``It's garbage, right?@k@vS19/01/HR_KEI02380. No one would care if you just take it home, right?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19552,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/990200160.",
+		"TextJPN": "「他の山の下敷きになってるの。@k@vS19/02/990200161.…簡単には掘り出せないし…。@k@vS19/02/990200162.あそこ、灯りがないからすぐ暗くなっちゃうし…」",
+		"NamesENG": "Rena",
+		"TextENG": "``It's become the base of another pile.@k@vS19/02/990200161. ...I can't dig it out easily...@k@vS19/02/990200162. There's no lamp posts over there, so it'll get dark pretty soon...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19553,
+		"TextJPN": "レナはせっかく見付けた宝を持ち帰れず、とても残念な様子だった。",
+		"TextENG": "Rena seemed quite down about finding a treasure and not being able to bring it back."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19554,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02390.",
+		"TextJPN": "「俺も手伝ってやるよ。@k@vS19/01/HR_KEI02400.今日のうまかった弁当の恩返しってことでさ」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``I'll help you out.@k@vS19/01/HR_KEI02400. To repay you for that delicious picnic you prepared today.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19555,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/990200163.",
+		"TextJPN": "「…はぅ……あ、…ありがとう……」",
+		"NamesENG": "Rena",
+		"TextENG": "``...Hau... Th... Thank you...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19556,
+		"TextJPN": "ねぐらに向かう鳥たちが、夜の帳がすぐそこまで訪れていることを告げていた。",
+		"TextENG": "Birds heading home to roost proclaimed that nightfall would soon be upon us."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19557,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/990200164.",
+		"TextJPN": "「圭一くんが手伝ってくれる☆　…ランディくんをお持ち帰りできる……はぅ…」",
+		"NamesENG": "Rena",
+		"TextENG": "``Keiichi-kun is going to help.☆ ...I can take Randy-kun home... hau...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19558,
+		"TextJPN": "レナは夢見心地でほわほわと、千鳥足のような足取りで歩いていた。",
+		"TextENG": "Rena staggered along as if intoxicated in her dreamy state of mind."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19559,
+		"TextJPN": "そんなレナの上機嫌を崩さないように、さりげなく聞いてみることにする。",
+		"TextENG": "I tried asking her in a way that wouldn't take her out of her cheery state."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19560,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02410.",
+		"TextJPN": "「…なぁレナ。@k@vS19/01/HR_KEI02420.あそこで昔、なんかあったのか？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...Hey, Rena.@k@vS19/01/HR_KEI02420. Long ago, did something happen here?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19561,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/990200165.",
+		"TextJPN": "「ダムの工事をやってたんだってね。@k@vS19/02/990200166.詳しく知らないけど……はぅ…」",
+		"NamesENG": "Rena",
+		"TextENG": "``Seems like they were building a dam here.@k@vS19/02/990200166. I don't know the details, though... hau...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19562,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02430.",
+		"TextJPN": "「たとえばさ、工事中になんかあったとか。@k@vS19/01/HR_KEI02440.事故とか」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Just wondering if you knew about, you know...@k@vS19/01/HR_KEI02440. an accident or something.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19563,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/990200167.",
+		"TextJPN": "「知らない」",
+		"NamesENG": "Rena",
+		"TextENG": "``I don't know.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19564,
+		"TextJPN": "いやにはっきりした声だった。",
+		"TextENG": "Her tone was disturbingly frank."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19565,
+		"TextJPN": "それは返答というよりも、拒否に近い響きを含んでいた。",
+		"TextENG": "It sounded more like a denial than an answer."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19566,
+		"TextJPN": "俺はよほどきょとんとした顔をしていたのだろうか。@kレナはすぐに表情を柔らかくした。",
+		"TextENG": "I must have appeared rather dumbstruck.@k Rena quickly lightened her expression."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19567,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/990200168.",
+		"TextJPN": "「実はね、去年までよそに住んでたの」",
+		"NamesENG": "Rena",
+		"TextENG": "``Actually, I didn't live here until a year ago.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19568,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02450.",
+		"TextJPN": "「え？@k@vS19/01/HR_KEI02460.　レナも転校生だったのか？@k@vS19/01/HR_KEI02470.　俺はてっきり…、」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Huh?@k@vS19/01/HR_KEI02460. You transferred here too?@k@vS19/01/HR_KEI02470. I was sure that...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19569,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/990200169.",
+		"TextJPN": "「だからね、それ以前のことはよく知らないの。@k@vS19/02/990200170.…ごめんね☆」",
+		"NamesENG": "Rena",
+		"TextENG": "``So you see, I don't really know much from before that...@k@vS19/02/990200170. Sorry.☆``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19570,
+		"TextJPN": "よく知らないし、話題にもしたくない。そういう含みが感じられた。",
+		"TextENG": "``Don't really know; don't want to talk about it.`` That was the kind of feeling she gave me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19571,
+		"TextJPN": "考えてみれば当然だった。@k女の子にとって楽しい話題のわけがない。",
+		"TextENG": "Thinking about it, of course it would be like that.@k This wasn't the type of thing girls would enjoy talking about."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19572,
+		"TextJPN": "（……嫌な事件だったね。…………まだ見つかってないんだろ？）",
+		"TextENG": "(...It was quite a disturbing incident... They still haven't found it, have they?)"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19573,
+		"TextJPN": "富竹さんの言った事がそのままなら。",
+		"TextENG": "If it's just like Tomitake-san said..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19574,
+		"TextJPN": "ひぐらしたちだけが知っているような気がした。",
+		"TextENG": "Then I had a feeling only the higurashi would know."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19575,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02480.",
+		"TextJPN": "「宝探しみたいですよ……あれでも」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``It's like a treasure hunt...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19576,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS19/08/660800016.",
+		"TextJPN": "「宝探しぃ？」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Treasure hunt?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19577,
+		"TextJPN": "富竹さんはますます怪訝な顔をする。そりゃ、まぁ……そうだろう。こんなゴミ山に何が埋まっているのか、俺だって聞きたいくらいだ。",
+		"TextENG": "Tomitake-san looks more and more suspicious. Well ... that's right. I even wanted to ask what was buried in a place like a garbage mountain."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19578,
+		"TextJPN": "レナがゴミ山の斜面をこちらに向かって、一生懸命に登ってくる。富竹さんはそんなレナをしばらく見てから、ふっと笑顔を俺に向けた。",
+		"TextENG": "Rena is climbing up the slope of the trash heap towards us, trying her best. Tomitake-san looked at Rena for a while, and then suddenly smiled at me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19579,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS19/08/660800017.",
+		"TextJPN": "「まぁ、がんばってね。@k@vS19/08/660800018.それじゃ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Well, good luck in this. @k@vS19/08/660800018. Good bye.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19580,
+		"TextJPN": "そう言って、夕闇へ溶け込むように去って行った。",
+		"TextENG": "With that, he left as if he was melting into the evening darkness."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19581,
+		"TextJPN": "がんばってね…って。何をがんばればいいんだ？？？",
+		"TextENG": "Good luck... in this. What this suppose to mean?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19582,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/660200044.",
+		"TextJPN": "「あははは！@k@vS19/02/660200045.　圭一く～ん、お待たせ～。@k@vS19/02/660200046.待ったかな！？　……かな？」",
+		"NamesENG": "Rena",
+		"TextENG": "``Ehehe!@k@vS19/02/660200045. Keiichi-kun, thanks for waiting~.@k@vS19/02/660200046. Did you wait for a long time? A long time?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19583,
+		"TextJPN": "レナが、満面の笑みを浮かべて戻って来た。",
+		"TextENG": "Rena came back with a big smile on her face."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19584,
+		"TextJPN": "がんばれ、って……もしかして、レナと？　あのおっさん、さり気なくすごい勘違いして去っていったのか！？",
+		"TextENG": "Good luck... maybe with Rena? Did that old man just casually leave with a great misunderstanding!?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19585,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/660200047.",
+		"TextJPN": "「あれ、圭一くん…どうしたのかな？@k@vS19/02/660200048.　顔がなんだか……」",
+		"NamesENG": "Rena",
+		"TextENG": "``Keiichi-kun, what happened?@k@vS19/02/660200048. Your face looks...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19586,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02490.",
+		"TextJPN": "「え…？！@k@vS19/01/HR_KEI02500.　わぁわぁ、赤くない赤くない！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Eh...?!@k@vS19/01/HR_KEI02500. Aaa, it's not red! It's not red!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19587,
+		"TextJPN": "あらぬ想像をしてしまった俺だった。",
+		"TextENG": "It was me who had an unexpected imagination."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19588,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02510.",
+		"TextJPN": "「ところで、どうだった？@k@vS19/01/HR_KEI02520.　掘り出し物は見つかったか？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``So how did it go?@k@vS19/01/HR_KEI02520. Did you find something?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19589,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/990200154.",
+		"TextJPN": "「うん聞いて聞いて！@k@vS19/02/990200155.　あ、…あのね！@k@vS19/02/990200156.　あったの！@k@vS19/02/990200157.　ランディくん人形ッ♪！！」",
+		"NamesENG": "Rena",
+		"TextENG": "``Oh, yes～ So listen!@k@vS19/02/990200155. Ah ...um, you see!@k@vS19/02/990200156. There was...!@k@vS19/02/990200157. A Randy-kun doll!♪``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19590,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02530.",
+		"TextJPN": "「ランディくん人形？　……ってあれか、ファーストフードの店の前に必ず置いてある……あの等身大人形の？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Randy doll? Is that... ...that thing, that life-size adult statue... ...that they always put in front of fast food restaurants?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19591,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/660200052.",
+		"TextJPN": "「そうっ、ランディくん！@k@vS19/02/660200053.　……はぅ、かぁいい～～。@k@vS19/02/660200054.お持ち帰りしたいぃ～～♪」",
+		"NamesENG": "Rena",
+		"TextENG": "``Yes, Randy-kun!@k@vS19/02/660200053. Hau, so kyute~~.@k@vS19/02/660200054. I want to take it home~~♪``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19592,
+		"TextJPN": "……どういう基準で、何がどう『かぁいい』のかさっぱりわからないけど、とにかくレナが気に入っているらしいから、そういうことにしておこう。",
+		"TextENG": "......I have no idea what the criteria is or how it's ``kyute,`` but I'll just say that Rena seems to like it, so there you go."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19593,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02540.",
+		"TextJPN": "「あれはゴミだろ？@k@vS19/01/HR_KEI02550.　お持ち帰りしたきゃしてもいいんだぜ？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``It's garbage, right?@k@vS19/01/HR_KEI02550. No one would care if you just take it home, right?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19594,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/660200055.",
+		"TextJPN": "「他の山の下敷きになってるの。@k@vS19/02/660200056.…簡単には掘り出せないし…。@k@vS19/02/660200057.あそこ、灯りがないからすぐ暗くなっちゃうし…」",
+		"NamesENG": "Rena",
+		"TextENG": "``It's become the base of another pile.@k@vS19/02/660200056. ...I can't dig it out easily...@k@vS19/02/660200057. There's no lamp posts over there, so it'll get dark pretty soon...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19595,
+		"TextJPN": "レナはせっかく見付けた宝を持ち帰れず、とても残念な様子だった。",
+		"TextENG": "Rena seemed quite down about finding a treasure and not being able to bring it back."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19596,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02560.",
+		"TextJPN": "「俺も手伝ってやるよ。@k@vS19/01/HR_KEI02570.今日のうまかった弁当の恩返しってことでさ」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``I'll help you out.@k@vS19/01/HR_KEI02570. To repay you for that delicious picnic you prepared today.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19597,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/660200058.",
+		"TextJPN": "「本当！！@k@vS19/02/660200059.　…はぅ……あ、…ありがとう……」",
+		"NamesENG": "Rena",
+		"TextENG": "``Really?@k@vS19/02/660200059. Wuuu... Thank you...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19598,
+		"TextJPN": "レナが夢見心地でほわほわと、千鳥足のような足取りで歩きはじめた。",
+		"TextENG": "Rena began to walk in a dreamy, ho-hum, staggered gait."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19599,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02580.",
+		"TextJPN": "「おい。レナ？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Rena?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19600,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS19/02/660200060.",
+		"TextJPN": "「圭一くんが手伝ってくれる…@k@vS19/02/660200061.ランディくんをお持ち帰りできる……はぅ…」",
+		"NamesENG": "Rena",
+		"TextENG": "``Keiichi-kun will help me...@k@vS19/02/660200061. I can take Randy-kun to my home... Hau...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19601,
+		"TextJPN": "どういう基準で、ランディくん人形がいいのか……ホントにさっぱりわからない。だけど、まぁ、……そういうことにしておこう。",
+		"TextENG": "I really don't know what kind of criteria you use to decide whether a Randy doll is good or not... ....But, well,... ...let's just say that."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19602,
+		"TextJPN": "ひぐらしたちの合唱に合わせ、俺は小さく鼻歌を歌いながらレナの後を歩いて帰った。",
+		"TextENG": "I walked home after Rena, humming softly to the chorus of Higurashi."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19603,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02590.",
+		"TextJPN": "「可愛いですからね、梨花ちゃんは」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``You're so cute, Rika.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19604,
+		"TextJPN": "そう言いながら、俺は梨花ちゃんに顔を向けて笑いかける。梨花ちゃんは『みぃ？』と首をかしげながら、もみくちゃにされて乱れた黒髪を整えていた。",
+		"TextENG": "As I said this, I turned my head to Rika-chan and smiled at her. Rika-chan tilted her head and said, ``Mii?`` She nodded her head and adjusted her dark hair, which was disheveled from being jostled."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19605,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500020.",
+		"TextJPN": "「……圭一、何の話なのですか？」",
+		"NamesENG": "Rika",
+		"TextENG": "``...Keiichi, what are you talking about?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19606,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02600.",
+		"TextJPN": "「いや、みんなが梨花ちゃんを可愛がりたくなる気持ちがわかるかな、ってさ」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``No, I was just wondering if I could understand why everyone loves Rika.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19607,
+		"TextJPN": "たとえばレナとか、レナとか……あと、レナとか。きっとこの場にいたら、いつもの『お持ちかえりぃい～♪』と言って群がるお年寄りたちをなぎ倒して……って、それはいかんだろ。",
+		"TextENG": "For example Rena, Rena... and Rena. I'm sure that if she were here, she would be able to knock down the elderly people who crowded around her, saying the usual, ``I will take you home～♪.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19608,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500021.",
+		"TextJPN": "「……そう言って貰えるのはボクも嬉しいのです。@k@vS19/05/660500022.でも、髪の毛が乱れるほど撫でるのはちょっと止めてほしいのですよ」",
+		"NamesENG": "Rika",
+		"TextENG": "``...It makes me happy to hear that.@k@vS19/05/660500022. But I'd like you to stop stroking my hair so much, now it's a mess.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19609,
+		"TextJPN": "そう言って、口を尖らせる梨花ちゃん。その可愛いしぐさを見て、俺と富竹さんは思わずぷっと吹き出した。",
+		"TextENG": "Rika's mouth twitched as she said that. Seeing this cute gesture, Tomitake and I couldn't help but burst out laughing."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19610,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS19/08/660800019.",
+		"TextJPN": "「沙都子ちゃんも、梨花ちゃんと同じくらい可愛いのになぁ……」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Satoko-chan is just as cute as Rika-chan......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19611,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02610.",
+		"TextJPN": "「え？　……それ、どういう意味ですか」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Eh? ...What do you mean?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19612,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500023.",
+		"TextJPN": "「…………富竹、いたのですか」",
+		"NamesENG": "Rika",
+		"TextENG": "``...Tomitake, you're here?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19613,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS19/08/660800020.",
+		"TextJPN": "「久しぶりだね、梨花ちゃん」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Long time no see, Rika.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19614,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500024.",
+		"TextJPN": "「久しぶりなのです。@k@vS19/05/660500025.良い写真は撮れましたですか？」",
+		"NamesENG": "Rika",
+		"TextENG": "``Long time no see.@k@vS19/05/660500025. Did you take some nice pictures?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19615,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS19/08/660800021.",
+		"TextJPN": "「あっははは！@k@vS19/08/660800022.　おかげさまでまた色々と、面白いものが発見できたよ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Hahahaha!@k@vS19/08/660800022. Thanks to you, I've discovered many more interesting things.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19616,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500026.",
+		"TextJPN": "「それは良かったのです。にぱ～☆」",
+		"NamesENG": "Rika",
+		"TextENG": "``Good to hear that. Nipah～☆``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19617,
+		"TextJPN": "臆した風もなく、梨花ちゃんはにこやかに笑いかける。どうやら、知り合いってのは本当のようだ。",
+		"TextENG": "Without a hint of self-doubt, Rika-chan smiled at me. Apparently, it's true that they knew each other."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19618,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500027.",
+		"TextJPN": "「富竹はカメラマンさんなのです。@k@vS19/05/660500028.ちなみに、腕はあまり大したことはありません」",
+		"NamesENG": "Rika",
+		"TextENG": "``Tomitake is a photographer.@k@vS19/05/660500028. By the way, his arm is not so big.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19619,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS19/08/660800023.",
+		"TextJPN": "「はは……きついなぁ、梨花ちゃんは」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Ahaha... You're cruel, Rika-chan.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19620,
+		"TextJPN": "富竹さんは苦笑して、頭を掻いた。",
+		"TextENG": "Tomitake-san chuckled and scratched his head."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19621,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500029.",
+		"TextJPN": "「富竹、こんなところで何をしているのです？」",
+		"NamesENG": "Rika",
+		"TextENG": "``Tomitake, what are you doing here?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19622,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS19/08/660800024.",
+		"TextJPN": "「いや、ちょっと買い物に来ただけさ。@k@vS19/08/660800025.それより梨花ちゃんは？」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``I just came by to do some shopping.@k@vS19/08/660800025. Anyway, what are you doing, Rika-chan?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19623,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500030.",
+		"TextJPN": "「夕飯の買い物です。@k@vS19/05/660500031.今日はボクの当番なのです。@k@vS19/05/660500032.にぱ～」",
+		"NamesENG": "Rika",
+		"TextENG": "``I'm shopping for dinner.@k@vS19/05/660500031. It's my turn today.@k@vS19/05/660500032. Nipah~``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19624,
+		"TextJPN": "梨花ちゃんの腕に下がった買い物袋からは、青々としたねぎが飛び出ている。当番ってことは、今日の夕食は……梨花ちゃんが作るのかな？",
+		"TextENG": "The green onions are popping out of the shopping bag on Rika's arm. If you're on duty, does that mean that Rika-chan will be cooking...... dinner today?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19625,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS19/08/660800026.",
+		"TextJPN": "「僕も一度、梨花ちゃんの手料理をご馳走になりたいなぁ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``I'd like to be treated to Rika-chan's cooking once too.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19626,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500033.",
+		"TextJPN": "「富竹には今度、フグ鍋をご馳走するのです。@k@vS19/05/660500034.当たりつきでスリル満点なのですよ」",
+		"NamesENG": "Rika",
+		"TextENG": "``I'm going to treat Tomitake to a blowfish hot pot next time.@k@vS19/05/660500034. It's a dish with a twist!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19627,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS19/08/660800027.",
+		"TextJPN": "「あ、当たりつきの料理って……」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Dish with a twist...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19628,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500035.",
+		"TextJPN": "「圭一もいかがなのですか？」",
+		"NamesENG": "Rika",
+		"TextENG": "How about you Keiichi?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19629,
+		"TextJPN": "全力で遠慮します。……とはいえ、そんな風に文字通り『毒』のある物騒な台詞を口にしながらも、かわいらしい笑みを絶やさない様子がなんとも……！",
+		"TextENG": "I will refrain from doing so at all costs. ...Even though it's the fact that she keeps a cute smile on her face while saying  ``poisonous`` and disturbing words like that is just......!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19630,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02620.",
+		"TextJPN": "「…………はっ？！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...Hah?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19631,
+		"TextJPN": "い、いかんいかん！　こりゃ、レナの影響にちがいない！！　……俺は、自分が崩れていってるんじゃないかとちょっと不安になってしまった。",
+		"TextENG": "No, no, no, no! This must be Rena's influence! ......I was a little worried that I was falling apart."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19632,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS19/08/660800028.",
+		"TextJPN": "「あっははは！@k@vS19/08/660800029.　やっぱり梨花ちゃんには敵わないや。@k@vS19/08/660800030.それじゃ、僕は用事があるから、これで」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Ahahaha!@k@vS19/08/660800029. No one can beat Rika-chan.@k@vS19/08/660800030. I need to go. Good bye.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19633,
+		"TextJPN": "そう言うと、富竹さんは夕闇の町を行ってしまった。",
+		"TextENG": "After saying that, Tomitake-san went off to town in the evening darkness."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19634,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02630.",
+		"TextJPN": "「それじゃ、俺も帰ろうかな」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``I think I'll go home then.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19635,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500036.",
+		"TextJPN": "「あ、圭一。これを圭一にも、ひとつあげるのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``Oh, Keiichi, I want to give you something.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19636,
+		"TextJPN": "そう言って、梨花ちゃんが差し出したのは、どでかい大判焼き……いやどちらかというと、『おぼん焼き』といってもいいくらいの巨大な今川焼きだった。",
+		"TextENG": "When she said that, Rika offered her a huge oval-shaped......, or rather, a huge Imagawa-yaki, which could be called an ``obon-yaki``."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19637,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500037.",
+		"TextJPN": "「おすそ分けなのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``It's my share.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19638,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02640.",
+		"TextJPN": "「お……おすそ分け？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...Y-Your share?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19639,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500038.",
+		"TextJPN": "「さっきお買い物したら、お店の人がおまけにくれたのです。@k@vS19/05/660500039.まだこんなにあるのですよ」",
+		"NamesENG": "Rika",
+		"TextENG": "``When I shopped earlier, the shopkeeper gave me an extra one.@k@vS19/05/660500039. There's so much more.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19640,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02650.",
+		"TextJPN": "「って、これ……全部かよ！？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``I mean, is this all of......!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19641,
+		"TextJPN": "梨花ちゃんの足元にある、紙袋どっさりに詰め込まれた今川焼きを見て、俺は目を丸くする。これも梨花ちゃんの人気のなせる技なのか！？",
+		"TextENG": "When I saw the paper bag full of Imagawa-yaki at Rika-chan's feet, I rolled my eyes. Is this another example of Rika-chan's popularity?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19642,
+		"TextJPN": "梨花ちゃんの人気って、予想以上にすごいのかもしれない……。",
+		"TextENG": "Rika's popularity may be even greater than expected......"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19643,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02660.",
+		"TextJPN": "「そっか、サンキュー。@k@vS19/01/HR_KEI02670.んじゃ、いただきま～す」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``I see. Thank you.@k@vS19/01/HR_KEI02670. Thank you for meal~``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19644,
+		"TextJPN": "俺は大口を開けて、もらった今川焼きにかぶりついた。まだあたたかい粒あんの甘い味が、口いっぱいに広がっていく。",
+		"TextENG": "I opened my mouth wide and took a bite of the Imagawa-yaki I was given. The sweet taste of the still-warm bean paste filled my mouth."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19645,
+		"TextJPN": "……うん、美味い！　周りの生地も、なかなかにまろやかでいい感じだ。",
+		"TextENG": "......Yeah, it's good! The dough around it is also quite nice and mellow."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19646,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500040.",
+		"TextJPN": "「――と、いうわけなので。@k@vS19/05/660500041.圭一」",
+		"NamesENG": "Rika",
+		"TextENG": "``...So...@k@vS19/05/660500041. Keiichi?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19647,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02680.",
+		"TextJPN": "「うん？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Hm?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19648,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500042.",
+		"TextJPN": "「ボクの手では、この買い物袋だけで手一杯なのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``My hands are too weak to hold all these shopping bags.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19649,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02690.",
+		"TextJPN": "「………………」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19650,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500043.",
+		"TextJPN": "「…………と、いうわけなので。@k@vS19/05/660500044.圭一」",
+		"NamesENG": "Rika",
+		"TextENG": "``...So...@k@vS19/05/660500044. Keiichi?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19651,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02700.",
+		"TextJPN": "「…………わかりました」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...Understood.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19652,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500045.",
+		"TextJPN": "「にぱ～～☆」",
+		"NamesENG": "Rika",
+		"TextENG": "``Nipah~~☆``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19653,
+		"TextJPN": "おのれ……食ってから交渉するとは……くっ！",
+		"TextENG": "You...... can't negotiate after you've eaten...... Stick it!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19654,
+		"TextJPN": "俺は、そういうわけで。",
+		"TextENG": "That's how I am."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19655,
+		"TextJPN": "予定の倍の時間と労力を使って、荷物運びをすることになった……。",
+		"TextENG": "We had to spend twice as much time and effort as planned to carry the luggage......"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19656,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02710.",
+		"TextJPN": "「カリスマってやつですかね、やっぱ」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``It must be charisma.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19657,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500046.",
+		"TextJPN": "「カリスマ？@k@vS19/05/660500047.　……とは、どういう意味ですか？」",
+		"NamesENG": "Rika",
+		"TextENG": "``Charisma?@k@vS19/05/660500047. ......What do you mean?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19658,
+		"TextJPN": "梨花ちゃんが、みぃ……と、小首をかしげる。そのしぐさがあまりにも可愛いらしくて、俺は思わず、胸キュ～ン☆　……と、お持ち帰りしたくなって――って、な、なんてこった！",
+		"TextENG": "I'm not sure what to make of it, but I think it's a good idea. That gesture was so cute that I couldn't help but feel a *pang* in my chest and want to take her home."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19659,
+		"TextJPN": "こりゃ、レナの影響にちがいない！！",
+		"TextENG": "This must be Rena's influence!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19660,
+		"TextJPN": "俺はたった今の雑念を振り払うように、咳払いして言った。",
+		"TextENG": "I coughed and said, trying to shake off the thoughts I had just had."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19661,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02720.",
+		"TextJPN": "「ん、まぁ……。@k@vS19/01/HR_KEI02730.カリスマって言うのは……人を惹きつける力、かな？@k@vS19/01/HR_KEI02740.　生まれながらの神秘性っていうか……」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``You know...@k@vS19/01/HR_KEI02730. Charisma is the ability to attract people... I guess?@k@vS19/01/HR_KEI02740. It's like something mystical.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19662,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500048.",
+		"TextJPN": "「シンピ？@k@vS19/05/660500049.　……ボクは三国志の魏の武将なのですか？」",
+		"NamesENG": "Rika",
+		"TextENG": "``Mystical?@k@vS19/05/660500049. Like the Lost Ark from Indiana Jones?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19663,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02750.",
+		"TextJPN": "「いや、そっち方面のボケは俺詳しくないから」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``I don't what are you talking about.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19664,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500050.",
+		"TextJPN": "「みぃ？」",
+		"NamesENG": "Rika",
+		"TextENG": "``Miii?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19665,
+		"TextJPN": "梨花ちゃんは、ぽかーんと小首をかしげたままだ。とりあえず、言い出した手前俺は説明を続ける。",
+		"TextENG": "Rika kept her head tilted back in a daze. At any rate, now that I've said it, I'll continue with my explanation."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19666,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02760.",
+		"TextJPN": "「んーと……自然と心惹かれるような能力がある、ってことかな」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Hmm... I guess you could say that you have the ability to naturally attract people.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19667,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500051.",
+		"TextJPN": "「……圭一の言ってる意味がよく分からないのですよ」",
+		"NamesENG": "Rika",
+		"TextENG": "``......I don't understand what Keiichi is trying to say.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19668,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02770.",
+		"TextJPN": "「たとえばさ、鬱蒼とした暗い森を歩いてると、何かいるような……出てきそうな感じになるだろ？　恐いんだけど、何なのか見てみたい。出るなら出て来い……みたいな」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``For example, when you're walking through a dense, dark forest, you get the feeling that there's something out there. It's scary, but you want to see what it is. If it's going to come out, it's going to come out.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19669,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS19/08/660800031.",
+		"TextJPN": "「うん。@k@vS19/08/660800032.そういうの、分かるよ。@k@vS19/08/660800033.雛見沢の土地にもそういう魅力があるね」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Mhm.@k@vS19/08/660800032. I understand you.@k@vS19/08/660800033. Hinamizawa has this kind of charm.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19670,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02780.",
+		"TextJPN": "「人間て、そういうわからないものに対して、とても敏感になってしまう」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Humans are very sensitive to such unknowns.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19671,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02790.",
+		"TextJPN": "「自分の力を超えたものだと感じて、興味を惹かれてしまう。そういうのを神秘的っていうか……@k@vS19/01/HR_KEI02800.それで、そんな魅力を持った人をカリスマって言うんだよ」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``I feel that it's beyond my power and I'm intrigued by it. That's what I call mystical......@k@vS19/01/HR_KEI02800. So, someone with that kind of charm is called charismatic.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19672,
+		"TextJPN": "一口に言い終えて、梨花ちゃんの顔をじっと見る。",
+		"TextENG": "I finished my bite and stared at Rika's face."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19673,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500052.",
+		"TextJPN": "「……つまり、ボクはカリスマですか？@k@vS19/05/660500053.　――なんだかよくわかりませんが、ちょっと面白いのですよ。@k@vS19/05/660500054.にぱ～☆」",
+		"NamesENG": "Rika",
+		"TextENG": "``...So I am charismatic?@k@vS19/05/660500053. I don't understand this well, but sounds fun.@k@vS19/05/660500054. Nipah~☆``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19674,
+		"TextJPN": "梨花ちゃんは、そう言ってほくほくと笑った。……正確な意味が通じたかは怪しいが、ひとまず納得してくれたようでほっとする。",
+		"TextENG": "Rika-chan giggled as she said this. ......I'm not sure if she understood my exact meaning, but I'm relieved that she seemed to be satisfied for the moment."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19675,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS19/08/660800034.",
+		"TextJPN": "「はは……梨花ちゃんは、オヤシロさまの生まれ変わりって言われてるからねぇ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Ahaha... It's said that Rika is the reincarnation of Oyashiro-sama.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19676,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02810.",
+		"TextJPN": "「……オヤシロさま？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...Oyashiro-sama?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19677,
+		"TextJPN": "その意味を尋ねようと、身を乗り出す。――と、そんな俺の鼻先に『にゅっ』といい匂いの物体が突き出された。",
+		"TextENG": "I leaned forward to ask what it meant. ......And then, right in front of my nose, there was an object with a nice smell."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19678,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02820.",
+		"TextJPN": "「…………へ？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``............Huh?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19679,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500055.",
+		"TextJPN": "「圭一にもおすそ分けなのです。@k@vS19/05/660500056.さっき店のおまけにもらったのですよ」",
+		"NamesENG": "Rika",
+		"TextENG": "``I'm sharing it with Keiichi.@k@vS19/05/660500056. I got this as an extra gift from the store earlier.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19680,
+		"TextJPN": "梨花ちゃんはにぱ～♪　と笑いながら俺にそれを手渡す。まだ温かくてほこほこと湯気を立てているそれは、大判焼き……いや、むしろ『おぼん焼き』と言っても差し支えないほど大きな今川焼きだった。",
+		"TextENG": "Rika-chan smiled and handed it to me. It was still warm and steamy, and it was a big piece of Imagawa-yaki, or rather, it was so big that I could have called it ``Big-o-yaki``."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19681,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500057.",
+		"TextJPN": "「はい。@k@vS19/05/660500058.富竹にも、どうぞなのですよ」",
+		"NamesENG": "Rika",
+		"TextENG": "``Here.@k@vS19/05/660500058. Tomitake, you can have it too.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19682,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS19/08/660800035.",
+		"TextJPN": "「え？@k@vS19/08/660800036.　あ、いや……僕は遠慮しておくよ。@k@vS19/08/660800037.甘いものはちょっと苦手でね」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Hm?@k@vS19/08/660800036. Ah, no, thanks.@k@vS19/08/660800037. I don't like sweet things.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19683,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02830.",
+		"TextJPN": "「富竹さん……その、『オヤシロさま』って――」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Tomitake-san... so about this ``Oyashiro-sama``...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19684,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500059.",
+		"TextJPN": "「――富竹、もうすぐ閉店なのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``Tomitake, they are closing soon.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19685,
+		"TextJPN": "梨花ちゃんはそう言って、後ろの商店を指差す。確かに言われたとおり、その店の入り口付近に出されていた商品のワゴンが、今まさに中へと仕舞い込まれようとしていた。",
+		"TextENG": "Rika said and pointed to the store behind her. Just as she said this, a wagon of goods near the entrance of the store was about to be placed inside."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19686,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS19/08/660800038.",
+		"TextJPN": "「あ！　いけない忘れてたよ。@k@vS19/08/660800039.――それじゃ二人とも、また」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Ah! Not good! I forgot!@k@vS19/08/660800039. See you!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19687,
+		"TextJPN": "そう言って『じゃ』と手を振り上げると、富竹さんは商店の中へと入っていってしまった。",
+		"TextENG": "Then, with a wave of his hand, Tomitake-san walked into the store."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19688,
+		"TextJPN": "なんだか中途半端な、白けた感じ。……梨花ちゃんに顔を戻すと、彼女はうれしそうに紙袋から今川焼きをひとつ取り出し、はむ、と小さな口でかぶりついていた。",
+		"TextENG": "It's a bit of a half-baked, bland look. When I turned my head back to Rika, she was happily taking one of the Imagawa-yaki out of the paper bag and biting into it with a small mouthful."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19689,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02840.",
+		"TextJPN": "「なぁ……梨花ちゃん。@k@vS19/01/HR_KEI02850.オヤシロさまって？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Listen... Rika-chan.@k@vS19/01/HR_KEI02850. Who is Oyashiro-sama?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19690,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS19/05/660500060.",
+		"TextJPN": "「み～。@k@vS19/05/660500061.よくわからないのです。@k@vS19/05/660500062.でもボクは大判焼きがあれば、とってもホクホクなのですよ。@k@vS19/05/660500063.にぱ～☆」",
+		"NamesENG": "Rika",
+		"TextENG": "``Miii~@k@vS19/05/660500061. I'm not sure.@k@vS19/05/660500062. But I'd be very happy with a big pancake!@k@vS19/05/660500063. Nipah～☆``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19691,
+		"TextJPN": "そう言って、梨花ちゃんは大判焼きひとつをぺろりと平らげると、両手に抱えた買い物袋と大判焼きの紙袋を自転車のかごに入れる。",
+		"TextENG": "Rika-chan flattened one of the oval pancakes and put the shopping bag and the paper bag of oval pancakes in the basket of her bicycle."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19692,
+		"TextJPN": "その表情は笑顔だったが、なんとなく妙な気配を感じて俺は、それ以上は聞けなくなってしまった。",
+		"TextENG": "She had a smile on her face, but I couldn't ask her any more because I felt something strange."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19693,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02860.",
+		"TextJPN": "「……じゃ、梨花ちゃん。@k@vS19/01/HR_KEI02870.また明日、学校で」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...So, Rika-chan.@k@vS19/01/HR_KEI02870. See you tomorrow at school.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19694,
+		"TextJPN": "俺はそう言って、自転車にまたがりペダルを漕ぐ。",
+		"TextENG": "With that, I got back on my bike and pedaled away."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19695,
+		"TextJPN": "……しばらく行って振り向くと、梨花ちゃんはまだ自転車に乗らず、その場に立っていた。",
+		"TextENG": "...When I turned around after going for a while, Rika was still standing there, next to her bike."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19696,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS19/01/HR_KEI02880.",
+		"TextJPN": "「……………………」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``............``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 19697,
+		"TextJPN": "その顔は夕暮れ過ぎの薄暗い空気に隠されて、よく……見えなかった。",
+		"TextENG": "I couldn't see her face very well, hidden by the dim evening air."
+	}
+]

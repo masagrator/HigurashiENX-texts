@@ -1,979 +1,977 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 0,
-            "JPN": "覚めない夢",
-            "ENG": "Everlasting Dream"
-        },
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "#1 美代子と一二三",
-            "ENG": "#1 / Miyoko & Hifumi"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1468,
-            "TextJPN": "書斎の中は積み上げられた書物と資料でいっぱいだった。",
-            "TextENG": "The study was filled with piles of books and papers."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1469,
-            "TextJPN": "それに埋もれた席に座り、一心不乱に書き物をするふくよかな老人と、@k絨毯の上にいっぱいに広げられた資料を分類する少女の姿があった。",
-            "TextENG": "In that study, there was a full-figured old man writing something at his desk in utmost concentration.@k There was also a little girl sorting out papers on the carpet."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1470,
-            "TextJPN": "一見すれば少女のそれは、いたずらかお遊びのように見える。",
-            "TextENG": "She almost looked as though she was playing with them..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1471,
-            "TextJPN": "だが、その表情はとても真剣で、単なる遊びではないようだった。",
-            "TextENG": "But the serious expression she was wearing made it clear that she wasn't."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1472,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100001.",
-            "TextJPN": "「おじいちゃん。資料のわけっこができたよ」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``Grandpa, I'm done sorting them out.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1473,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200001.",
-            "TextJPN": "「うむ。ありがとう。@k@vS13/00/550200002.…さてさて、どういう結果になったかな？」",
-            "NamesENG": "Hifumi",
-            "TextENG": "``Hmm. Thank you.@k@vS13/00/550200002. ...Let's see, what happened?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1474,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100002.",
-            "TextJPN": "「うん。同じ症例の人がこれだけ集まった。@k@vS13/48/550100003.全国平均と比べても明らかに異常なくらい」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``Look. There are lots of people with the same symptoms.@k@vS13/48/550100003. It's way higher than the national average.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1475,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200003.",
-            "TextJPN": "「ふむ…！　やはりな。@k@vS13/00/550200004.こっちも興味深い論文を見つけたところだ。@k@vS13/00/550200005.精神外科と文化についてまとめたものでな。@k@vS13/00/550200006.前頭葉に宿主とは別の意思を持った存在があることを予見したものだ」",
-            "NamesENG": "Hifumi",
-            "TextENG": "``Hmm...! That's exactly what I expected.@k@vS13/00/550200004. There's an intriguing treatise over here too.@k@vS13/00/550200005. It discusses psychosurgery and civilization.@k@vS13/00/550200006. It also predicts the existence of separate entity that inhabits the frontal lobe.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1476,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100004.",
-            "TextJPN": "「前頭葉は、人間が人間らしくあることを司る部分、…だよね」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``The frontal lobe is what causes emotions...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1477,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200007.",
-            "TextJPN": "「そうだ。@k@vS13/00/550200008.人の感情は心が生み出すのではない。@k@vS13/00/550200009.脳という名の器官が分泌物を生み出して与える副産物に過ぎん」",
-            "NamesENG": "Hifumi",
-            "TextENG": "``That's right.@k@vS13/00/550200008. Emotions aren't created by the heart.@k@vS13/00/550200009. They're just side effects of the chemicals secreted by the organ known as the brain."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1478,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200010.",
-            "TextJPN": "「その脳に特定の干渉をするナノ単位の生命体の集合が存在し、ある命令系統を持つひとつのコロニーに関与したならば、@k@vS13/00/550200011.そのコロニーに集まる情報信号は、本体の意思とは異なるものへと変化する」",
-            "NamesENG": "Hifumi",
-            "TextENG": "If microorganisms capable of acting on that organ did exist and spread to create a colony,@k@vS13/00/550200011. then that colony's thoughts would be unified.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1479,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100005.",
-            "TextJPN": "「ということは、自分で抑圧できない感情が生まれるのは、微生物のようなものが信号に影響を与えているから？」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``So are microorganisms the cause of the spread of ideology?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1480,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100006.",
-            "TextJPN": "「それじゃ国家レベルの紛争は、異なる生命体同士がさらなる宿主を求めて自分の生息圏を拡大するために、宿主自身を動かしているということ？」",
-            "NamesENG": "Miyoko",
-            "TextENG": "When ideologies clash, is that because different microorganisms are competing to expand their habitat?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1481,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200012.",
-            "TextJPN": "「あるいは、教育の分布か、国境の分布か、人種の分布か」",
-            "NamesENG": "Hifumi",
-            "TextENG": "``That, or... to expand teachings, to expand national borders, or to expand a race."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1482,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200013.",
-            "TextJPN": "「我々の世界の異なる文化コミュニティの存在とその対立の一因は、そういった人の思想に影響を及ぼす微細な生命体の存在にあると仮定している」",
-            "NamesENG": "Hifumi",
-            "TextENG": "It's hypothesized that our differing cultural communities and their conflict are the result of microorganisms influencing human thoughts.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1483,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100007.",
-            "TextJPN": "「おじいちゃんと同じことを考えている人が外国にもいたんだね」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``There are people in other countries who think the same thing as you, Grandpa.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1484,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200014.",
-            "TextJPN": "「もちろんいるとも。@k@vS13/00/550200015.可視不可視を問わず地球上には無数の生命体がいて、その中には宿主の体内に潜伏して共存し、時には宿主を支配したりすることが広く知られている」",
-            "NamesENG": "Hifumi",
-            "TextENG": "``Of course there are.@k@vS13/00/550200015. There are countless microorganisms on this Earth, and it's well known that some coexist with their hosts and some control their hosts."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1485,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200016.",
-            "TextJPN": "「そして実際に、人体内にその存在をたくさん発見してもいる。@k@vS13/00/550200017.…にも拘らず、人体に潜伏し、その宿主を支配する生命体の存在については頑なに否定してきた。@k@vS13/00/550200018.仮定すらも含めてな」",
-            "NamesENG": "Hifumi",
-            "TextENG": "We've also discovered plenty of microorganisms that infect humans.@k@vS13/00/550200017. ...Yet despite that, we adamantly deny the possibility that microorganisms could infect humans and control their hosts.@k@vS13/00/550200018. Even the hypothesis of such a thing.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1486,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100008.",
-            "TextJPN": "「…どうしてだろうね？@k@vS13/48/550100009.　人間だけ特別な存在のわけはないのに」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``...Why do you think that is?@k@vS13/48/550100009. Humans aren't special in any way.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1487,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200019.",
-            "TextJPN": "「それを仮定することは即ち、意思に基づいた言動や信念を、疫学的原因から派生したものと置き換えられて、対処策もそれと同様とみなされる危険があるからだ」",
-            "NamesENG": "Hifumi",
-            "TextENG": "``Because that hypothesis would also mean changing our view to see the spread of ideologies from the perspective of epidemiology."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1488,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200020.",
-            "TextJPN": "「そして、思想の対決は議論で行なわれれば平穏だが、その対決が疫学的に行なわれた場合、恐ろしいことになるからだよ」",
-            "NamesENG": "Hifumi",
-            "TextENG": "If those conflicts occur epidemically, they become frightening.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1489,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100010.",
-            "TextJPN": "「悪い思想や文化が蔓延するのを説得や教育ではなく、病理学に基づいた治療によって防止する…。@k@vS13/48/550100011.それが、どうして恐ろしいの？」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``Prevent the spread of bad ideas and culture not by persuasion or education, but by treatment based on pathology...@k@vS13/48/550100011. Why is it frightening?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1490,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200021.",
-            "TextJPN": "「中世の歴史に登場するペストなどを想像しなさい」",
-            "NamesENG": "Hifumi",
-            "TextENG": "``Imagine a plague or other disease from medieval history."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1491,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200022.",
-            "TextJPN": "「悪い伝染病が大流行する。@k@vS13/00/550200023.その患者を強制的に入院させ、完治するまで退院させない。@k@vS13/00/550200024.完治できずそのまま病院で死んでしまうこともある」",
-            "NamesENG": "Hifumi",
-            "TextENG": "A vile infectious disease spread.@k@vS13/00/550200023. They forced infected people into hospitals and didn't release them until they completely recovered.@k@vS13/00/550200024. Some even died in those hospitals."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1492,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200025.",
-            "TextJPN": "「すると、その死体は焼葬となる。@k@vS13/00/550200026.さらに患者が触れた物まで衛生のため、全て没収して焼き捨てる。@k@vS13/00/550200027.身近の家族にも感染の疑いがあるから強制的に入院させねばならん」",
-            "NamesENG": "Hifumi",
-            "TextENG": "They burned their corpses.@k@vS13/00/550200026. They confiscated and burned everything those patients touched for fear the plague infected it.@k@vS13/00/550200027. They even suspected families of infection and forced them into hospitals.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1493,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100012.",
-            "TextJPN": "「じゃあ、治療ってことは個人の思想を理由にして、病気でもないのに入院させるってこと…？」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``So they'd hospitalize healthy people over individual ideas...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1494,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200028.",
-            "TextJPN": "「思想を病気と置き換えなさい。@k@vS13/00/550200029.完治するまで退院させない、触れた物は感染の疑いがあるから全て焼き捨てる、家族にも感染の疑いがあるから強制入院、@k@vS13/00/550200030.――結局は同じことだ」",
-            "NamesENG": "Hifumi",
-            "TextENG": "``Replace an idea with a disease.@k@vS13/00/550200029. Patients won't be released until they completely recover. People burn everything that may have been touched by the patient. They force the patient's family to go to the hospital.@k@vS13/00/550200030. The rest is the same.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1495,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200031.",
-            "TextJPN": "「『入院』という言葉が『弾圧』に変わっただけの話だよ」",
-            "NamesENG": "Hifumi",
-            "TextENG": "``It's just that the word 'hospitalization' has been changed to 'oppression'.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1496,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100013.",
-            "TextJPN": "「でも、思想なんて個人の自由なんでしょ？@k@vS13/48/550100014.　ペストとは違う」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``People are free to think what they will, right?@k@vS13/48/550100014. Thoughts aren't pests.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1497,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200032.",
-            "TextJPN": "「そうだ。@k@vS13/00/550200033.しかし人間の思想が、感染能力を持ったある種の生命体によって生み出されていると仮定した場合、ペストとまったく同じ意味になるのだよ」",
-            "NamesENG": "Hifumi",
-            "TextENG": "``Yes.@k@vS13/00/550200033. If an idea was created by microorganisms, it would be exactly the same as a plague."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1498,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200034.",
-            "TextJPN": "「つまり、思想は治療不可能な伝染病と置き換えられるわけだ」",
-            "NamesENG": "Hifumi",
-            "TextENG": "In other words, an idea is like an incurable epidemic.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1499,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100015.",
-            "TextJPN": "「じゃあ…、異なる思想を持った人を、@k@vS13/48/550100016.えっと、重病患者と同じに扱う？」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``So you mean... anyone with a different idea@k@vS13/48/550100016. is treated like they have a disease?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1500,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200035.",
-            "TextJPN": "「そういうことだ。@k@vS13/00/550200036.この考えを延長すると、無差別、そして無秩序な大量虐殺が起こる」",
-            "NamesENG": "Hifumi",
-            "TextENG": "``That's right.@k@vS13/00/550200036. If we bring this to its logical conclusion, microorganisms could be responsible for mass murders of people belonging to different races or religions."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1501,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200037.",
-            "TextJPN": "「…そうすると、人類は大規模な粛清を肯定してしまう論調になりかねん。@k@vS13/00/550200038.だから、脳内で宿主を支配する生命体を語ることは、今の時代ではタブーになっているのだ」",
-            "NamesENG": "Hifumi",
-            "TextENG": "...But this can be seen as justifying genocide.@k@vS13/00/550200038. Therefore, talking about microorganisms in brains is considered taboo today.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1502,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100017.",
-            "TextJPN": "「タブーって…？」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``What does 'taboo' mean...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1503,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200039.",
-            "TextJPN": "「触れてはならない、考えてもならないということだな。@k@vS13/00/550200040.だから、誰も研究せん。@k@vS13/00/550200041.いや、それどころか、脳内に侵入し、影響を及ぼす存在がいると考えることすら忘れられている」",
-            "NamesENG": "Hifumi",
-            "TextENG": "``It means something people shouldn't get involved with.@k@vS13/00/550200040. That's why nobody researches these things.@k@vS13/00/550200041. Nobody even remembers anything about microorganisms that live in the brain."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1504,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200042.",
-            "TextJPN": "「…万物の長たる霊長類を支配する未知の生命体などいるはずがないと頭から決め付けている」",
-            "NamesENG": "Hifumi",
-            "TextENG": "They assume that microorganisms which control humans simply don't exist.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1505,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100018.",
-            "TextJPN": "「あははは。何だかお粗末な話。@k@vS13/48/550100019.いないことの証明なんて“悪魔の証明”。@k@vS13/48/550100020.絶対に不可能なのに」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``Ahahaha. That's almost funny.@k@vS13/48/550100019. How can they prove something doesn't exist?@k@vS13/48/550100020. That's just impossible.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1506,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200043.",
-            "TextJPN": "「その通り。@k@vS13/00/550200044.悪魔がいることを証明することは容易い。@k@vS13/00/550200045.悪魔を連れて来ればいいのだからな。@k@vS13/00/550200046.だが、いないことを証明することはできん。@k@vS13/00/550200047.“いない”を連れて来ることなどできんのだからな」",
-            "NamesENG": "Hifumi",
-            "TextENG": "``Exactly.@k@vS13/00/550200044. Proving that the devil exists is easy.@k@vS13/00/550200045. You just have to show him to someone.@k@vS13/00/550200046. But you can't prove he doesn't exist.@k@vS13/00/550200047. You can't show somebody something that doesn't exist.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1507,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100021.",
-            "TextJPN": "「あはははは。@k@vS13/48/550100022.何だか、脳を支配する生命体が、自分たちの存在を秘密にするために、その宿主の人間たちを操っているみたい」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``Ahahahaha.@k@vS13/48/550100022. It's almost as if the microorganisms in the brain are controlling people so that they can keep their own existence a secret.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1508,
-            "TextJPN": "私と祖父は、愉快に笑い合った。",
-            "TextENG": "Me and my grandfather shared a happy laugh together."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1509,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200048.",
-            "TextJPN": "「人間も自然界の生き物のひとつに過ぎん。@k@vS13/00/550200049.食物連鎖の頂点にいるだけで、それを以って神格化された存在であると思い込むなど愚かしいことなのだ」",
-            "NamesENG": "Hifumi",
-            "TextENG": "``Humans are simply another animal in this natural world.@k@vS13/00/550200049. We might be at the top of the food chain, but it's foolish to think that we are superior to others."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1510,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200050.",
-            "TextJPN": "「人とてあらゆる微生物やウィルスに支配されうるのだ。@k@vS13/00/550200051.その存在が、今日まで発見されていないからと言って、それを以って存在しないという証拠にはならん」",
-            "NamesENG": "Hifumi",
-            "TextENG": "Humans can be controlled by microorganisms and viruses.@k@vS13/00/550200051. Just because the existence of such microorganisms hasn't been proven doesn't mean they don't exist."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1511,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200052.",
-            "TextJPN": "「…絶対に存在する。必ず存在するのだ」",
-            "NamesENG": "Hifumi",
-            "TextENG": "They exist. I know they do.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1512,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100023.",
-            "TextJPN": "「科学の世界にもたくさん、存在が仮定されていて、@k@vS13/48/550100024.そのずっと未来にそれが証明されたものがあるんだもんね」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``That's happened before@k@vS13/48/550100024. in the scientific world, right?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1513,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200053.",
-            "TextJPN": "「そうだ。@k@vS13/00/550200054.それらの仮定をした科学者が全て、生きている内に評価を受けられたわけではない。@k@vS13/00/550200055.世迷言だと呆れられ、その正しさを証明できなかった科学者も大勢いたのだ」",
-            "NamesENG": "Hifumi",
-            "TextENG": "``That's right.@k@vS13/00/550200054. Not all scientists are recognized for their work while they're alive.@k@vS13/00/550200055. There were many who were ridiculed and couldn't prove their theories to be true.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1514,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100025.",
-            "TextJPN": "「でも、…おじいちゃんは生きてる内に証明されるといいね。@k@vS13/48/550100026.じゃなかったら、…おじいちゃんが可哀想」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``But, Grandpa, I hope your theory will be recognized before you die.@k@vS13/48/550100026. Otherwise it would be so sad...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1515,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200056.",
-            "TextJPN": "「大丈夫だよ。@k@vS13/00/550200057.神さまは努力する者を見捨てたりはしない。@k@vS13/00/550200058.努力は必ずいつか結実するのだ」",
-            "NamesENG": "Hifumi",
-            "TextENG": "``Don't worry.@k@vS13/00/550200057. God doesn't ignore people who work hard.@k@vS13/00/550200058. Hard work always pays off in the end.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1516,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100027.",
-            "TextJPN": "「いつかって、それはいつ…？」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``But when will that happen?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1517,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200059.",
-            "TextJPN": "「神がいつ降臨されるのかは誰も知らない。@k@vS13/00/550200060.それはたとえるなら、泥棒がいつ訪れるのかわからないように」",
-            "NamesENG": "Hifumi",
-            "TextENG": "``Nobody knows when god is going to descend from Heaven.@k@vS13/00/550200060. Just like you never know when you'll be robbed."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1518,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200061.",
-            "TextJPN": "「だから予期せずしてその時を迎えて、@k@vS13/00/550200062.不信心であったことに歯軋りすることがないよう、常に目を醒ましていなさい」",
-            "NamesENG": "Hifumi",
-            "TextENG": "So we always have to be alert and ready,@k@vS13/00/550200062. so that we don't miss our chance.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1519,
-            "TextJPN": "祖父が好んで口にする言葉だった。",
-            "TextENG": "That was something that my grandfather said all the time."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1520,
-            "TextJPN": "成果がいつ結実するのかは誰も知らない。",
-            "TextENG": "Nobody knows when efforts will bear fruit."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1521,
-            "TextJPN": "だが、いつか必ずその時がやって来る。",
-            "TextENG": "But it will happen one day."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1522,
-            "TextJPN": "だから、その時が訪れて、努力が満たなかったことを悔やまぬよう、常に努力を惜しまないでいなさい。",
-            "TextENG": "That's why you must always work hard, so you have no regrets when the time comes."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1523,
-            "TextJPN": "いつかは必ず実るのだから。",
-            "TextENG": "Your efforts will bear fruit someday..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1524,
-            "TextJPN": "……そういう意味らしかった。",
-            "TextENG": "That's what he meant."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1525,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100028.",
-            "TextJPN": "「でも、おじいちゃんが生きてる内に絶対に努力が実る…？@k@vS13/48/550100029.　生きてる内に認められなかった科学者がたくさんいるのに…？」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``But is it going to happen before you die?@k@vS13/48/550100029. Even though there were so many scientists whose work weren't recognized while they were alive?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1526,
-            "TextJPN": "幼さゆえの残酷な言葉だったと思う。",
-            "TextENG": "That was such a cruel thing to say."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1527,
-            "TextJPN": "ただ、言った私はそんなつもりはない。",
-            "TextENG": "But I didn't mean to be cruel."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1528,
-            "TextJPN": "祖父の努力と勤勉を間近で見て知っていたからこそ、短いであろう寿命の中できっと評価されてほしいという願いを言ったつもりだった。",
-            "TextENG": "I had seen how hard my grandfather had been working, and I also knew he wouldn't live forever. I just wanted his work to gain recognition before he died."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1529,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200063.",
-            "TextJPN": "「お前は、神様というものをどのように考えている？」",
-            "NamesENG": "Hifumi",
-            "TextENG": "``What do you think about god?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1530,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100030.",
-            "TextJPN": "「えっと、そうだね。@k@vS13/48/550100031.信じるものは救われる、なんて教えを街角で聞いたことはあるけど」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``Yeah.@k@vS13/48/550100031. I've heard on street corners that those who believe in him will be saved."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1531,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100032.",
-            "TextJPN": "「…実際のところ、どうなんだろ。@k@vS13/48/550100033.さっきの悪魔と一緒で、いないことが証明できないからとりあえず『いる』って信じるしかないけど」",
-            "NamesENG": "Miyoko",
-            "TextENG": "How is it really?@k@vS13/48/550100033. Just like the devil, I can't prove that he's not there, so I'll just have to believe that he is.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1532,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200064.",
-            "TextJPN": "「ふむ、なるほど。@k@vS13/00/550200065.しかし、神の存在を教えて回ったかつての預言者たちは、そうは答えなかった。@k@vS13/00/550200066.『いる』と信じ続けることで、その存在は本物へと昇華されてゆくと説いたのだよ」",
-            "NamesENG": "Hifumi",
-            "TextENG": "``Hmm, I see.@k@vS13/00/550200065. But the prophets who went around telling people that god existed did not answer that way.@k@vS13/00/550200066. They said that if you continue to believe that there is such a thing, it will be sublimated to the real thing.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1533,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100034.",
-            "TextJPN": "「…どうして？@k@vS13/48/550100035.　実際に『いる』ってことが証明されない限り、それが嘘か本当かなんて誰にもわからないじゃない」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``...Why?@k@vS13/48/550100035. Unless it's proven to be true, who knows if it's a lie or not?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1534,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200067.",
-            "TextJPN": "「はははは、それは確かにそうだが。@k@vS13/00/550200068.つまり彼らは、大切なのは神という不可思議の存在を確かめることではなく、@k@vS13/00/550200069.神の存在を信じて言動を律する節度そのものなのだ、と伝えたかったのだよ」",
-            "NamesENG": "Hifumi",
-            "TextENG": "``Hahahaha, that's true.@k@vS13/00/550200068. In other words, they wanted to tell us that it is not the confirmation of the mysterious existence of god that is important,@k@vS13/00/550200069. but the moderation of our words and deeds in the belief of god's existence.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1535,
-            "TextJPN": "ほとんどの預言者たちは、当時の支配者によって疎まれ、追放されたり命を狙われたりもした。",
-            "TextENG": "Most of the prophets were marginalized by the rulers of the time and were even exiled or threatened with death."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1536,
-            "TextJPN": "だが、彼らは神を信じ続けて言動を律し、救いを乞う人々に手を差し伸べては彼らに希望と、幸福を説くことをやめなかった。",
-            "TextENG": "However, they continued to believe in god, disciplined their words and actions, and did not stop reaching out to those who begged for help and preaching hope and happiness to them."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1537,
-            "TextJPN": "その結果、神を信じる人々はいつか、自分たちが絶望と苦悩から解放されることを期待して邪心を捨て、苦境からの脱却に力を振り絞っていった。",
-            "TextENG": "As a result, those who believed in god gave up their evil thoughts in the hope that one day they would be freed from their despair and suffering, and exerted themselves to get out of their predicament."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1538,
-            "TextJPN": "そうして、正しく導かれようとする人々は自らの幸せをその手にすることができたのだ。",
-            "TextENG": "In this way, those who tried to be rightly guided could take their own happiness into their own hands."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1539,
-            "TextJPN": "それこそがつまり、神による正しき導きの結果。",
-            "TextENG": "That is the result of righteous guidance by god."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1540,
-            "TextJPN": "信仰する人々の心の中に神は宿る。",
-            "TextENG": "God dwells in the hearts of those who believe."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1541,
-            "TextJPN": "その時、神という存在はすでに地上にはない。",
-            "TextENG": "There was no god on earth."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1542,
-            "TextJPN": "心の中にある。",
-            "TextENG": "He's in the mind."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1543,
-            "TextJPN": "……つまり、神が絶対の存在となって復活した瞬間なのだ。",
-            "TextENG": "In other words, in that moment god resurrected as an absolute being."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1544,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200070.",
-            "TextJPN": "「だから、強くいつまでも、信じ続けることが必要なんだ」",
-            "NamesENG": "Hifumi",
-            "TextENG": "``That's why we need to stay strong and keep on believing.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1545,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200071.",
-            "TextJPN": "「たとえ死後であっても、同じように信じてくれる人々によって正当な評価を受けられたなら。@k@vS13/00/550200072.その偉業は必ずや蘇る」",
-            "NamesENG": "Hifumi",
-            "TextENG": "``Even after death, the feat will surely come back if it is justified@k@vS13/00/550200072. by like-minded people.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1546,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200073.",
-            "TextJPN": "「その時、私の体が朽ち果ててしまっていても、私の存在は蘇って評価を受けるのだ」",
-            "NamesENG": "Hifumi",
-            "TextENG": "``Even if my body is gone by then, my life will return and receive recognition.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1547,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100036.",
-            "TextJPN": "「それはおじいちゃんが、神さまになったということ…？」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``Does that mean you'll become a god...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1548,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200074.",
-            "TextJPN": "「そうだよ。@k@vS13/00/550200075.私の研究はいつか必ず認められる。@k@vS13/00/550200076.その時、おじいちゃんは神さまになれるということなんだよ」",
-            "NamesENG": "Hifumi",
-            "TextENG": "``Indeed.@k@vS13/00/550200075. My research will be recognized for what it is someday.@k@vS13/00/550200076. That's when I will become a god."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1549,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200077.",
-            "TextJPN": "「だから、自分が生きている内に評価されることに焦る必要はないのだ」",
-            "NamesENG": "Hifumi",
-            "TextENG": "That's why I'm not in a rush to achieve that recognition."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1550,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200078.",
-            "TextJPN": "「その時が訪れるのが、私が生きている内なのか、そうでないのか。@k@vS13/00/550200079.それは神さまにもわからない」",
-            "NamesENG": "Hifumi",
-            "TextENG": "I don't know when that day will come.@k@vS13/00/550200079. God doesn't know that, either."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1551,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200080.",
-            "TextJPN": "「だが、その日は必ず訪れる。@k@vS13/00/550200081.だから、その日の訪れを疑うことなく、ひたすらに努力を続けなくてはならないのだよ」",
-            "NamesENG": "Hifumi",
-            "TextENG": "But the day will come.@k@vS13/00/550200081. That's why I need to continue to work as hard as I can.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1552,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100037.",
-            "TextJPN": "「………」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1553,
-            "TextJPN": "祖父の口から直接、祖父の寿命が長くないことを言われると、…悲しい。",
-            "TextENG": "It was very sad to hear my grandfather say that his life would end one day."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1554,
-            "TextJPN": "別に特別な病気にかかって余命を宣告されているわけではないが、@k平均的な寿命を考えれば、祖父の寿命がいつまでも続くことは考えられなかった。",
-            "TextENG": "He wasn't ill, and he didn't only have a few years left to live.@k But, set next to the average life span, his remaining years didn't look like much."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1555,
-            "TextJPN": "私には祖父しかいない。",
-            "TextENG": "The only person left in my life was my grandfather."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1556,
-            "TextJPN": "だから、祖父がいなくなってしまうことを想像したくなかった。",
-            "TextENG": "So I didn't even want to consider what it would be like with him gone."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1557,
-            "TextJPN": "祖父は、私がそういう話を好まないことを思い出したのだろう。",
-            "TextENG": "Grandfather must have remembered that I didn't like to talk about that subject."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1558,
-            "TextJPN": "やさしそうに微笑むと、私の頭をそっと撫でてくれた。",
-            "TextENG": "With a tender smile, he gently patted my head."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1559,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200082.",
-            "TextJPN": "「もちろん、おじいちゃんも、自分が生きている内に研究を認めてもらいたい。@k@vS13/00/550200083.だから、精一杯がんばるよ」",
-            "NamesENG": "Hifumi",
-            "TextENG": "``Of course, I want my research to be recognized before I die.@k@vS13/00/550200083. I will do my best.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1560,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100038.",
-            "TextJPN": "「うん。@k@vS13/48/550100039.私も、おじいちゃんが世界中の人に褒めてもらえるように、いっぱいいっぱいお手伝いする」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``Yep.@k@vS13/48/550100039. I'll do my best to help you too.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1561,
-            "TextJPN": "おじいちゃんが生きている内に褒めてもらえるように、…というのは省く。",
-            "TextENG": "I purposefully didn't mention the ``before you die`` part."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1562,
-            "TextJPN": "珍しく、自分の失言を口にする前に気付けた。",
-            "TextENG": "I caught myself before I said it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1563,
-            "NamesJPN": "一二三",
-            "PreTextTags": "@vS13/00/550200084.",
-            "TextJPN": "「うむ。ありがとう、嬉しいぞ…」",
-            "NamesENG": "Hifumi",
-            "TextENG": "``Thank you. That makes me very happy to hear.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1564,
-            "TextJPN": "祖父は満足そうに笑ってくれた。",
-            "TextENG": "Grandfather smiled in satisfaction."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1565,
-            "TextJPN": "宇宙の神秘を解き明かそうなんていう、途方もない研究じゃない。",
-            "TextENG": "His research wasn't exactly outrageous. He wasn't trying to uncover the mysteries of the universe."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1566,
-            "TextJPN": "私たちが求めるのは、人体に潜む未知の生命体が本体の意思と行動を支配するかもしれない可能性という、本当にささやかなものなのだ。",
-            "TextENG": "He was only searching for the possibility that microorganisms could be responsible for human behavior. Nothing more than that."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1567,
-            "TextJPN": "突飛なものでもなんでもない。",
-            "TextENG": "Nothing outrageous."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1568,
-            "TextJPN": "しかも、それは単なる想像ではない。",
-            "TextENG": "It really wasn't a wild idea."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1569,
-            "TextJPN": "その尻尾はすでに掴んでいるのだ。",
-            "TextENG": "We even had some leads."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1570,
-            "TextJPN": "中部地方の一都市、と呼ぶにはあまりにも小さな寒村である鹿骨市、雛見沢。",
-            "TextENG": "Hinamizawa Village, Shishibone City, is too small a village to be called a city in the Chubu region."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1571,
-            "TextJPN": "この村の出身者が持つ、偏執的なまでのホームシックと帰巣本能。",
-            "TextENG": "The villagers there are possessed by a powerful homesickness."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1572,
-            "TextJPN": "そして、それが果たせない時に発現する、祟りに憑かれたと称する一連の異常行動。",
-            "TextENG": "When they are unable to return, they allegedly behave abnormally, as if they are cursed."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1573,
-            "TextJPN": "そして、この村に太古の昔より根付く土着の信仰に見え隠れする異常なルール。",
-            "TextENG": "There are also some bizarre rules in place in the village, based on their belief system."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1574,
-            "TextJPN": "それらを重ね合わせた時、祖父は雛見沢出身者のある共通項に偶然気付き、村を支配する何かの存在を仮定した。",
-            "TextENG": "When he was working with the military during the war, my grandfather noticed similarities between the people in Hinamizawa, and assumed that some kind of existence was responsible for their odd behavior."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1575,
-            "TextJPN": "そして、今日まで長い間ずっと研究を続け、その外郭を固めてきたのだ。",
-            "TextENG": "He'd been researching it ever since then."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1576,
-            "TextJPN": "昭和中期。",
-            "TextENG": "In the middle of the 20th century..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1577,
-            "TextJPN": "日本全国で、大昔から風土病だと思われていた数々の病気のベールが剥がされていた。",
-            "TextENG": "Numerous strange diseases were discovered all over Japan."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1578,
-            "TextJPN": "それらの多くの病原の正体が判明し、忌避されがちだった分野が、にわかに脚光を浴び始めているところだった。",
-            "TextENG": "Most of them were caused by infectious microorganisms, and people started to pay attention to this forgotten field of study."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1579,
-            "TextJPN": "祖父の研究も、そんな病理学研究の中のひとつに過ぎず、…だからこそ、それらに混じって、当然のように発表され、正当な評価を受けられる日が遠くない内に訪れると確信していた。",
-            "TextENG": "Grandfather's research was simply one of those investigations into such diseases. Therefore, he believed it would be published amongst other research and attain recognition soon."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1580,
-            "TextJPN": "それでも、もし。",
-            "TextENG": "But if..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1581,
-            "TextJPN": "…祖父の研究が、存命の内に実らなかったなら。",
-            "TextENG": "If his research didn't bear fruit before his death..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1582,
-            "TextJPN": "私は、…継ごう。",
-            "TextENG": "I wanted to continue it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1583,
-            "TextJPN": "その研究を。",
-            "TextENG": "I wanted to continue his research."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1584,
-            "TextJPN": "祖父が教えてくれた。",
-            "TextENG": "Grandfather taught me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1585,
-            "TextJPN": "復活とは、肉体が蘇ることではない。",
-            "TextENG": "Resurrection isn't something that happens physically."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1586,
-            "TextJPN": "評価され、偉業が蘇ることなのだ。",
-            "TextENG": "It's when your life's work is appreciated. That's what he meant by resurrection."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1587,
-            "TextJPN": "…そしてその時、人は神となって復活するのだ。",
-            "TextENG": "...That's when he'll become a god."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1588,
-            "TextJPN": "そうなれば、祖父がたとえ寿命を尽きさせてしまっても、常に私と共にいてくれる。",
-            "TextENG": "So when my grandfather dies, he'll still be with me forever."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1589,
-            "TextJPN": "私はもうひとりぼっちにならなくていい。",
-            "TextENG": "I wouldn't have to be alone ever again."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1590,
-            "TextJPN": "ずっと、おじいちゃんと一緒なのだ。",
-            "TextENG": "I will always be with my grandpa."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1591,
-            "TextJPN": "そして、祖父と私が二人で成した偉業が認められ、@k…祖父と私は神となり、永遠の安寧を得るのだ。",
-            "TextENG": "Our works will gain recognition@k and we will both become gods, gaining eternal peace."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1592,
-            "TextJPN": "祖父を、神にする。",
-            "TextENG": "I will make my grandfather into a god."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1593,
-            "TextJPN": "私も、神になる。",
-            "TextENG": "I will become a god."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1594,
-            "TextJPN": "だから、永遠。",
-            "TextENG": "Therefore, we will be granted eternity."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1595,
-            "TextJPN": "ずっとずっと、一緒…。",
-            "TextENG": "We'll be together forever and ever..."
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 0,
+		"JPN": "覚めない夢",
+		"ENG": "Everlasting Dream"
+	},
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "#1 美代子と一二三",
+		"ENG": "#1 / Miyoko & Hifumi"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1468,
+		"TextJPN": "書斎の中は積み上げられた書物と資料でいっぱいだった。",
+		"TextENG": "The study was filled with piles of books and papers."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1469,
+		"TextJPN": "それに埋もれた席に座り、一心不乱に書き物をするふくよかな老人と、@k絨毯の上にいっぱいに広げられた資料を分類する少女の姿があった。",
+		"TextENG": "In that study, there was a full-figured old man writing something at his desk in utmost concentration.@k There was also a little girl sorting out papers on the carpet."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1470,
+		"TextJPN": "一見すれば少女のそれは、いたずらかお遊びのように見える。",
+		"TextENG": "She almost looked as though she was playing with them..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1471,
+		"TextJPN": "だが、その表情はとても真剣で、単なる遊びではないようだった。",
+		"TextENG": "But the serious expression she was wearing made it clear that she wasn't."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1472,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100001.",
+		"TextJPN": "「おじいちゃん。資料のわけっこができたよ」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``Grandpa, I'm done sorting them out.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1473,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200001.",
+		"TextJPN": "「うむ。ありがとう。@k@vS13/00/550200002.…さてさて、どういう結果になったかな？」",
+		"NamesENG": "Hifumi",
+		"TextENG": "``Hmm. Thank you.@k@vS13/00/550200002. ...Let's see, what happened?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1474,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100002.",
+		"TextJPN": "「うん。同じ症例の人がこれだけ集まった。@k@vS13/48/550100003.全国平均と比べても明らかに異常なくらい」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``Look. There are lots of people with the same symptoms.@k@vS13/48/550100003. It's way higher than the national average.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1475,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200003.",
+		"TextJPN": "「ふむ…！　やはりな。@k@vS13/00/550200004.こっちも興味深い論文を見つけたところだ。@k@vS13/00/550200005.精神外科と文化についてまとめたものでな。@k@vS13/00/550200006.前頭葉に宿主とは別の意思を持った存在があることを予見したものだ」",
+		"NamesENG": "Hifumi",
+		"TextENG": "``Hmm...! That's exactly what I expected.@k@vS13/00/550200004. There's an intriguing treatise over here too.@k@vS13/00/550200005. It discusses psychosurgery and civilization.@k@vS13/00/550200006. It also predicts the existence of separate entity that inhabits the frontal lobe.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1476,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100004.",
+		"TextJPN": "「前頭葉は、人間が人間らしくあることを司る部分、…だよね」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``The frontal lobe is what causes emotions...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1477,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200007.",
+		"TextJPN": "「そうだ。@k@vS13/00/550200008.人の感情は心が生み出すのではない。@k@vS13/00/550200009.脳という名の器官が分泌物を生み出して与える副産物に過ぎん」",
+		"NamesENG": "Hifumi",
+		"TextENG": "``That's right.@k@vS13/00/550200008. Emotions aren't created by the heart.@k@vS13/00/550200009. They're just side effects of the chemicals secreted by the organ known as the brain."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1478,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200010.",
+		"TextJPN": "「その脳に特定の干渉をするナノ単位の生命体の集合が存在し、ある命令系統を持つひとつのコロニーに関与したならば、@k@vS13/00/550200011.そのコロニーに集まる情報信号は、本体の意思とは異なるものへと変化する」",
+		"NamesENG": "Hifumi",
+		"TextENG": "If microorganisms capable of acting on that organ did exist and spread to create a colony,@k@vS13/00/550200011. then that colony's thoughts would be unified.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1479,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100005.",
+		"TextJPN": "「ということは、自分で抑圧できない感情が生まれるのは、微生物のようなものが信号に影響を与えているから？」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``So are microorganisms the cause of the spread of ideology?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1480,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100006.",
+		"TextJPN": "「それじゃ国家レベルの紛争は、異なる生命体同士がさらなる宿主を求めて自分の生息圏を拡大するために、宿主自身を動かしているということ？」",
+		"NamesENG": "Miyoko",
+		"TextENG": "When ideologies clash, is that because different microorganisms are competing to expand their habitat?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1481,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200012.",
+		"TextJPN": "「あるいは、教育の分布か、国境の分布か、人種の分布か」",
+		"NamesENG": "Hifumi",
+		"TextENG": "``That, or... to expand teachings, to expand national borders, or to expand a race."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1482,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200013.",
+		"TextJPN": "「我々の世界の異なる文化コミュニティの存在とその対立の一因は、そういった人の思想に影響を及ぼす微細な生命体の存在にあると仮定している」",
+		"NamesENG": "Hifumi",
+		"TextENG": "It's hypothesized that our differing cultural communities and their conflict are the result of microorganisms influencing human thoughts.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1483,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100007.",
+		"TextJPN": "「おじいちゃんと同じことを考えている人が外国にもいたんだね」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``There are people in other countries who think the same thing as you, Grandpa.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1484,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200014.",
+		"TextJPN": "「もちろんいるとも。@k@vS13/00/550200015.可視不可視を問わず地球上には無数の生命体がいて、その中には宿主の体内に潜伏して共存し、時には宿主を支配したりすることが広く知られている」",
+		"NamesENG": "Hifumi",
+		"TextENG": "``Of course there are.@k@vS13/00/550200015. There are countless microorganisms on this Earth, and it's well known that some coexist with their hosts and some control their hosts."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1485,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200016.",
+		"TextJPN": "「そして実際に、人体内にその存在をたくさん発見してもいる。@k@vS13/00/550200017.…にも拘らず、人体に潜伏し、その宿主を支配する生命体の存在については頑なに否定してきた。@k@vS13/00/550200018.仮定すらも含めてな」",
+		"NamesENG": "Hifumi",
+		"TextENG": "We've also discovered plenty of microorganisms that infect humans.@k@vS13/00/550200017. ...Yet despite that, we adamantly deny the possibility that microorganisms could infect humans and control their hosts.@k@vS13/00/550200018. Even the hypothesis of such a thing.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1486,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100008.",
+		"TextJPN": "「…どうしてだろうね？@k@vS13/48/550100009.　人間だけ特別な存在のわけはないのに」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``...Why do you think that is?@k@vS13/48/550100009. Humans aren't special in any way.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1487,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200019.",
+		"TextJPN": "「それを仮定することは即ち、意思に基づいた言動や信念を、疫学的原因から派生したものと置き換えられて、対処策もそれと同様とみなされる危険があるからだ」",
+		"NamesENG": "Hifumi",
+		"TextENG": "``Because that hypothesis would also mean changing our view to see the spread of ideologies from the perspective of epidemiology."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1488,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200020.",
+		"TextJPN": "「そして、思想の対決は議論で行なわれれば平穏だが、その対決が疫学的に行なわれた場合、恐ろしいことになるからだよ」",
+		"NamesENG": "Hifumi",
+		"TextENG": "If those conflicts occur epidemically, they become frightening.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1489,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100010.",
+		"TextJPN": "「悪い思想や文化が蔓延するのを説得や教育ではなく、病理学に基づいた治療によって防止する…。@k@vS13/48/550100011.それが、どうして恐ろしいの？」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``Prevent the spread of bad ideas and culture not by persuasion or education, but by treatment based on pathology...@k@vS13/48/550100011. Why is it frightening?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1490,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200021.",
+		"TextJPN": "「中世の歴史に登場するペストなどを想像しなさい」",
+		"NamesENG": "Hifumi",
+		"TextENG": "``Imagine a plague or other disease from medieval history."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1491,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200022.",
+		"TextJPN": "「悪い伝染病が大流行する。@k@vS13/00/550200023.その患者を強制的に入院させ、完治するまで退院させない。@k@vS13/00/550200024.完治できずそのまま病院で死んでしまうこともある」",
+		"NamesENG": "Hifumi",
+		"TextENG": "A vile infectious disease spread.@k@vS13/00/550200023. They forced infected people into hospitals and didn't release them until they completely recovered.@k@vS13/00/550200024. Some even died in those hospitals."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1492,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200025.",
+		"TextJPN": "「すると、その死体は焼葬となる。@k@vS13/00/550200026.さらに患者が触れた物まで衛生のため、全て没収して焼き捨てる。@k@vS13/00/550200027.身近の家族にも感染の疑いがあるから強制的に入院させねばならん」",
+		"NamesENG": "Hifumi",
+		"TextENG": "They burned their corpses.@k@vS13/00/550200026. They confiscated and burned everything those patients touched for fear the plague infected it.@k@vS13/00/550200027. They even suspected families of infection and forced them into hospitals.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1493,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100012.",
+		"TextJPN": "「じゃあ、治療ってことは個人の思想を理由にして、病気でもないのに入院させるってこと…？」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``So they'd hospitalize healthy people over individual ideas...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1494,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200028.",
+		"TextJPN": "「思想を病気と置き換えなさい。@k@vS13/00/550200029.完治するまで退院させない、触れた物は感染の疑いがあるから全て焼き捨てる、家族にも感染の疑いがあるから強制入院、@k@vS13/00/550200030.――結局は同じことだ」",
+		"NamesENG": "Hifumi",
+		"TextENG": "``Replace an idea with a disease.@k@vS13/00/550200029. Patients won't be released until they completely recover. People burn everything that may have been touched by the patient. They force the patient's family to go to the hospital.@k@vS13/00/550200030. The rest is the same.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1495,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200031.",
+		"TextJPN": "「『入院』という言葉が『弾圧』に変わっただけの話だよ」",
+		"NamesENG": "Hifumi",
+		"TextENG": "``It's just that the word 'hospitalization' has been changed to 'oppression'.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1496,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100013.",
+		"TextJPN": "「でも、思想なんて個人の自由なんでしょ？@k@vS13/48/550100014.　ペストとは違う」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``People are free to think what they will, right?@k@vS13/48/550100014. Thoughts aren't pests.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1497,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200032.",
+		"TextJPN": "「そうだ。@k@vS13/00/550200033.しかし人間の思想が、感染能力を持ったある種の生命体によって生み出されていると仮定した場合、ペストとまったく同じ意味になるのだよ」",
+		"NamesENG": "Hifumi",
+		"TextENG": "``Yes.@k@vS13/00/550200033. If an idea was created by microorganisms, it would be exactly the same as a plague."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1498,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200034.",
+		"TextJPN": "「つまり、思想は治療不可能な伝染病と置き換えられるわけだ」",
+		"NamesENG": "Hifumi",
+		"TextENG": "In other words, an idea is like an incurable epidemic.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1499,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100015.",
+		"TextJPN": "「じゃあ…、異なる思想を持った人を、@k@vS13/48/550100016.えっと、重病患者と同じに扱う？」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``So you mean... anyone with a different idea@k@vS13/48/550100016. is treated like they have a disease?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1500,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200035.",
+		"TextJPN": "「そういうことだ。@k@vS13/00/550200036.この考えを延長すると、無差別、そして無秩序な大量虐殺が起こる」",
+		"NamesENG": "Hifumi",
+		"TextENG": "``That's right.@k@vS13/00/550200036. If we bring this to its logical conclusion, microorganisms could be responsible for mass murders of people belonging to different races or religions."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1501,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200037.",
+		"TextJPN": "「…そうすると、人類は大規模な粛清を肯定してしまう論調になりかねん。@k@vS13/00/550200038.だから、脳内で宿主を支配する生命体を語ることは、今の時代ではタブーになっているのだ」",
+		"NamesENG": "Hifumi",
+		"TextENG": "...But this can be seen as justifying genocide.@k@vS13/00/550200038. Therefore, talking about microorganisms in brains is considered taboo today.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1502,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100017.",
+		"TextJPN": "「タブーって…？」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``What does 'taboo' mean...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1503,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200039.",
+		"TextJPN": "「触れてはならない、考えてもならないということだな。@k@vS13/00/550200040.だから、誰も研究せん。@k@vS13/00/550200041.いや、それどころか、脳内に侵入し、影響を及ぼす存在がいると考えることすら忘れられている」",
+		"NamesENG": "Hifumi",
+		"TextENG": "``It means something people shouldn't get involved with.@k@vS13/00/550200040. That's why nobody researches these things.@k@vS13/00/550200041. Nobody even remembers anything about microorganisms that live in the brain."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1504,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200042.",
+		"TextJPN": "「…万物の長たる霊長類を支配する未知の生命体などいるはずがないと頭から決め付けている」",
+		"NamesENG": "Hifumi",
+		"TextENG": "They assume that microorganisms which control humans simply don't exist.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1505,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100018.",
+		"TextJPN": "「あははは。何だかお粗末な話。@k@vS13/48/550100019.いないことの証明なんて“悪魔の証明”。@k@vS13/48/550100020.絶対に不可能なのに」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``Ahahaha. That's almost funny.@k@vS13/48/550100019. How can they prove something doesn't exist?@k@vS13/48/550100020. That's just impossible.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1506,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200043.",
+		"TextJPN": "「その通り。@k@vS13/00/550200044.悪魔がいることを証明することは容易い。@k@vS13/00/550200045.悪魔を連れて来ればいいのだからな。@k@vS13/00/550200046.だが、いないことを証明することはできん。@k@vS13/00/550200047.“いない”を連れて来ることなどできんのだからな」",
+		"NamesENG": "Hifumi",
+		"TextENG": "``Exactly.@k@vS13/00/550200044. Proving that the devil exists is easy.@k@vS13/00/550200045. You just have to show him to someone.@k@vS13/00/550200046. But you can't prove he doesn't exist.@k@vS13/00/550200047. You can't show somebody something that doesn't exist.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1507,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100021.",
+		"TextJPN": "「あはははは。@k@vS13/48/550100022.何だか、脳を支配する生命体が、自分たちの存在を秘密にするために、その宿主の人間たちを操っているみたい」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``Ahahahaha.@k@vS13/48/550100022. It's almost as if the microorganisms in the brain are controlling people so that they can keep their own existence a secret.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1508,
+		"TextJPN": "私と祖父は、愉快に笑い合った。",
+		"TextENG": "Me and my grandfather shared a happy laugh together."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1509,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200048.",
+		"TextJPN": "「人間も自然界の生き物のひとつに過ぎん。@k@vS13/00/550200049.食物連鎖の頂点にいるだけで、それを以って神格化された存在であると思い込むなど愚かしいことなのだ」",
+		"NamesENG": "Hifumi",
+		"TextENG": "``Humans are simply another animal in this natural world.@k@vS13/00/550200049. We might be at the top of the food chain, but it's foolish to think that we are superior to others."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1510,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200050.",
+		"TextJPN": "「人とてあらゆる微生物やウィルスに支配されうるのだ。@k@vS13/00/550200051.その存在が、今日まで発見されていないからと言って、それを以って存在しないという証拠にはならん」",
+		"NamesENG": "Hifumi",
+		"TextENG": "Humans can be controlled by microorganisms and viruses.@k@vS13/00/550200051. Just because the existence of such microorganisms hasn't been proven doesn't mean they don't exist."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1511,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200052.",
+		"TextJPN": "「…絶対に存在する。必ず存在するのだ」",
+		"NamesENG": "Hifumi",
+		"TextENG": "They exist. I know they do.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1512,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100023.",
+		"TextJPN": "「科学の世界にもたくさん、存在が仮定されていて、@k@vS13/48/550100024.そのずっと未来にそれが証明されたものがあるんだもんね」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``That's happened before@k@vS13/48/550100024. in the scientific world, right?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1513,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200053.",
+		"TextJPN": "「そうだ。@k@vS13/00/550200054.それらの仮定をした科学者が全て、生きている内に評価を受けられたわけではない。@k@vS13/00/550200055.世迷言だと呆れられ、その正しさを証明できなかった科学者も大勢いたのだ」",
+		"NamesENG": "Hifumi",
+		"TextENG": "``That's right.@k@vS13/00/550200054. Not all scientists are recognized for their work while they're alive.@k@vS13/00/550200055. There were many who were ridiculed and couldn't prove their theories to be true.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1514,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100025.",
+		"TextJPN": "「でも、…おじいちゃんは生きてる内に証明されるといいね。@k@vS13/48/550100026.じゃなかったら、…おじいちゃんが可哀想」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``But, Grandpa, I hope your theory will be recognized before you die.@k@vS13/48/550100026. Otherwise it would be so sad...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1515,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200056.",
+		"TextJPN": "「大丈夫だよ。@k@vS13/00/550200057.神さまは努力する者を見捨てたりはしない。@k@vS13/00/550200058.努力は必ずいつか結実するのだ」",
+		"NamesENG": "Hifumi",
+		"TextENG": "``Don't worry.@k@vS13/00/550200057. God doesn't ignore people who work hard.@k@vS13/00/550200058. Hard work always pays off in the end.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1516,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100027.",
+		"TextJPN": "「いつかって、それはいつ…？」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``But when will that happen?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1517,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200059.",
+		"TextJPN": "「神がいつ降臨されるのかは誰も知らない。@k@vS13/00/550200060.それはたとえるなら、泥棒がいつ訪れるのかわからないように」",
+		"NamesENG": "Hifumi",
+		"TextENG": "``Nobody knows when god is going to descend from Heaven.@k@vS13/00/550200060. Just like you never know when you'll be robbed."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1518,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200061.",
+		"TextJPN": "「だから予期せずしてその時を迎えて、@k@vS13/00/550200062.不信心であったことに歯軋りすることがないよう、常に目を醒ましていなさい」",
+		"NamesENG": "Hifumi",
+		"TextENG": "So we always have to be alert and ready,@k@vS13/00/550200062. so that we don't miss our chance.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1519,
+		"TextJPN": "祖父が好んで口にする言葉だった。",
+		"TextENG": "That was something that my grandfather said all the time."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1520,
+		"TextJPN": "成果がいつ結実するのかは誰も知らない。",
+		"TextENG": "Nobody knows when efforts will bear fruit."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1521,
+		"TextJPN": "だが、いつか必ずその時がやって来る。",
+		"TextENG": "But it will happen one day."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1522,
+		"TextJPN": "だから、その時が訪れて、努力が満たなかったことを悔やまぬよう、常に努力を惜しまないでいなさい。",
+		"TextENG": "That's why you must always work hard, so you have no regrets when the time comes."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1523,
+		"TextJPN": "いつかは必ず実るのだから。",
+		"TextENG": "Your efforts will bear fruit someday..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1524,
+		"TextJPN": "……そういう意味らしかった。",
+		"TextENG": "That's what he meant."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1525,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100028.",
+		"TextJPN": "「でも、おじいちゃんが生きてる内に絶対に努力が実る…？@k@vS13/48/550100029.　生きてる内に認められなかった科学者がたくさんいるのに…？」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``But is it going to happen before you die?@k@vS13/48/550100029. Even though there were so many scientists whose work weren't recognized while they were alive?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1526,
+		"TextJPN": "幼さゆえの残酷な言葉だったと思う。",
+		"TextENG": "That was such a cruel thing to say."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1527,
+		"TextJPN": "ただ、言った私はそんなつもりはない。",
+		"TextENG": "But I didn't mean to be cruel."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1528,
+		"TextJPN": "祖父の努力と勤勉を間近で見て知っていたからこそ、短いであろう寿命の中できっと評価されてほしいという願いを言ったつもりだった。",
+		"TextENG": "I had seen how hard my grandfather had been working, and I also knew he wouldn't live forever. I just wanted his work to gain recognition before he died."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1529,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200063.",
+		"TextJPN": "「お前は、神様というものをどのように考えている？」",
+		"NamesENG": "Hifumi",
+		"TextENG": "``What do you think about god?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1530,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100030.",
+		"TextJPN": "「えっと、そうだね。@k@vS13/48/550100031.信じるものは救われる、なんて教えを街角で聞いたことはあるけど」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``Yeah.@k@vS13/48/550100031. I've heard on street corners that those who believe in him will be saved."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1531,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100032.",
+		"TextJPN": "「…実際のところ、どうなんだろ。@k@vS13/48/550100033.さっきの悪魔と一緒で、いないことが証明できないからとりあえず『いる』って信じるしかないけど」",
+		"NamesENG": "Miyoko",
+		"TextENG": "How is it really?@k@vS13/48/550100033. Just like the devil, I can't prove that he's not there, so I'll just have to believe that he is.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1532,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200064.",
+		"TextJPN": "「ふむ、なるほど。@k@vS13/00/550200065.しかし、神の存在を教えて回ったかつての預言者たちは、そうは答えなかった。@k@vS13/00/550200066.『いる』と信じ続けることで、その存在は本物へと昇華されてゆくと説いたのだよ」",
+		"NamesENG": "Hifumi",
+		"TextENG": "``Hmm, I see.@k@vS13/00/550200065. But the prophets who went around telling people that god existed did not answer that way.@k@vS13/00/550200066. They said that if you continue to believe that there is such a thing, it will be sublimated to the real thing.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1533,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100034.",
+		"TextJPN": "「…どうして？@k@vS13/48/550100035.　実際に『いる』ってことが証明されない限り、それが嘘か本当かなんて誰にもわからないじゃない」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``...Why?@k@vS13/48/550100035. Unless it's proven to be true, who knows if it's a lie or not?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1534,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200067.",
+		"TextJPN": "「はははは、それは確かにそうだが。@k@vS13/00/550200068.つまり彼らは、大切なのは神という不可思議の存在を確かめることではなく、@k@vS13/00/550200069.神の存在を信じて言動を律する節度そのものなのだ、と伝えたかったのだよ」",
+		"NamesENG": "Hifumi",
+		"TextENG": "``Hahahaha, that's true.@k@vS13/00/550200068. In other words, they wanted to tell us that it is not the confirmation of the mysterious existence of god that is important,@k@vS13/00/550200069. but the moderation of our words and deeds in the belief of god's existence.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1535,
+		"TextJPN": "ほとんどの預言者たちは、当時の支配者によって疎まれ、追放されたり命を狙われたりもした。",
+		"TextENG": "Most of the prophets were marginalized by the rulers of the time and were even exiled or threatened with death."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1536,
+		"TextJPN": "だが、彼らは神を信じ続けて言動を律し、救いを乞う人々に手を差し伸べては彼らに希望と、幸福を説くことをやめなかった。",
+		"TextENG": "However, they continued to believe in god, disciplined their words and actions, and did not stop reaching out to those who begged for help and preaching hope and happiness to them."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1537,
+		"TextJPN": "その結果、神を信じる人々はいつか、自分たちが絶望と苦悩から解放されることを期待して邪心を捨て、苦境からの脱却に力を振り絞っていった。",
+		"TextENG": "As a result, those who believed in god gave up their evil thoughts in the hope that one day they would be freed from their despair and suffering, and exerted themselves to get out of their predicament."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1538,
+		"TextJPN": "そうして、正しく導かれようとする人々は自らの幸せをその手にすることができたのだ。",
+		"TextENG": "In this way, those who tried to be rightly guided could take their own happiness into their own hands."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1539,
+		"TextJPN": "それこそがつまり、神による正しき導きの結果。",
+		"TextENG": "That is the result of righteous guidance by god."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1540,
+		"TextJPN": "信仰する人々の心の中に神は宿る。",
+		"TextENG": "God dwells in the hearts of those who believe."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1541,
+		"TextJPN": "その時、神という存在はすでに地上にはない。",
+		"TextENG": "There was no god on earth."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1542,
+		"TextJPN": "心の中にある。",
+		"TextENG": "He's in the mind."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1543,
+		"TextJPN": "……つまり、神が絶対の存在となって復活した瞬間なのだ。",
+		"TextENG": "In other words, in that moment god resurrected as an absolute being."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1544,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200070.",
+		"TextJPN": "「だから、強くいつまでも、信じ続けることが必要なんだ」",
+		"NamesENG": "Hifumi",
+		"TextENG": "``That's why we need to stay strong and keep on believing.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1545,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200071.",
+		"TextJPN": "「たとえ死後であっても、同じように信じてくれる人々によって正当な評価を受けられたなら。@k@vS13/00/550200072.その偉業は必ずや蘇る」",
+		"NamesENG": "Hifumi",
+		"TextENG": "``Even after death, the feat will surely come back if it is justified@k@vS13/00/550200072. by like-minded people.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1546,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200073.",
+		"TextJPN": "「その時、私の体が朽ち果ててしまっていても、私の存在は蘇って評価を受けるのだ」",
+		"NamesENG": "Hifumi",
+		"TextENG": "``Even if my body is gone by then, my life will return and receive recognition.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1547,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100036.",
+		"TextJPN": "「それはおじいちゃんが、神さまになったということ…？」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``Does that mean you'll become a god...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1548,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200074.",
+		"TextJPN": "「そうだよ。@k@vS13/00/550200075.私の研究はいつか必ず認められる。@k@vS13/00/550200076.その時、おじいちゃんは神さまになれるということなんだよ」",
+		"NamesENG": "Hifumi",
+		"TextENG": "``Indeed.@k@vS13/00/550200075. My research will be recognized for what it is someday.@k@vS13/00/550200076. That's when I will become a god."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1549,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200077.",
+		"TextJPN": "「だから、自分が生きている内に評価されることに焦る必要はないのだ」",
+		"NamesENG": "Hifumi",
+		"TextENG": "That's why I'm not in a rush to achieve that recognition."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1550,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200078.",
+		"TextJPN": "「その時が訪れるのが、私が生きている内なのか、そうでないのか。@k@vS13/00/550200079.それは神さまにもわからない」",
+		"NamesENG": "Hifumi",
+		"TextENG": "I don't know when that day will come.@k@vS13/00/550200079. God doesn't know that, either."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1551,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200080.",
+		"TextJPN": "「だが、その日は必ず訪れる。@k@vS13/00/550200081.だから、その日の訪れを疑うことなく、ひたすらに努力を続けなくてはならないのだよ」",
+		"NamesENG": "Hifumi",
+		"TextENG": "But the day will come.@k@vS13/00/550200081. That's why I need to continue to work as hard as I can.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1552,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100037.",
+		"TextJPN": "「………」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1553,
+		"TextJPN": "祖父の口から直接、祖父の寿命が長くないことを言われると、…悲しい。",
+		"TextENG": "It was very sad to hear my grandfather say that his life would end one day."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1554,
+		"TextJPN": "別に特別な病気にかかって余命を宣告されているわけではないが、@k平均的な寿命を考えれば、祖父の寿命がいつまでも続くことは考えられなかった。",
+		"TextENG": "He wasn't ill, and he didn't only have a few years left to live.@k But, set next to the average life span, his remaining years didn't look like much."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1555,
+		"TextJPN": "私には祖父しかいない。",
+		"TextENG": "The only person left in my life was my grandfather."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1556,
+		"TextJPN": "だから、祖父がいなくなってしまうことを想像したくなかった。",
+		"TextENG": "So I didn't even want to consider what it would be like with him gone."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1557,
+		"TextJPN": "祖父は、私がそういう話を好まないことを思い出したのだろう。",
+		"TextENG": "Grandfather must have remembered that I didn't like to talk about that subject."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1558,
+		"TextJPN": "やさしそうに微笑むと、私の頭をそっと撫でてくれた。",
+		"TextENG": "With a tender smile, he gently patted my head."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1559,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200082.",
+		"TextJPN": "「もちろん、おじいちゃんも、自分が生きている内に研究を認めてもらいたい。@k@vS13/00/550200083.だから、精一杯がんばるよ」",
+		"NamesENG": "Hifumi",
+		"TextENG": "``Of course, I want my research to be recognized before I die.@k@vS13/00/550200083. I will do my best.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1560,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100038.",
+		"TextJPN": "「うん。@k@vS13/48/550100039.私も、おじいちゃんが世界中の人に褒めてもらえるように、いっぱいいっぱいお手伝いする」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``Yep.@k@vS13/48/550100039. I'll do my best to help you too.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1561,
+		"TextJPN": "おじいちゃんが生きている内に褒めてもらえるように、…というのは省く。",
+		"TextENG": "I purposefully didn't mention the ``before you die`` part."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1562,
+		"TextJPN": "珍しく、自分の失言を口にする前に気付けた。",
+		"TextENG": "I caught myself before I said it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1563,
+		"NamesJPN": "一二三",
+		"PreTextTags": "@vS13/00/550200084.",
+		"TextJPN": "「うむ。ありがとう、嬉しいぞ…」",
+		"NamesENG": "Hifumi",
+		"TextENG": "``Thank you. That makes me very happy to hear.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1564,
+		"TextJPN": "祖父は満足そうに笑ってくれた。",
+		"TextENG": "Grandfather smiled in satisfaction."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1565,
+		"TextJPN": "宇宙の神秘を解き明かそうなんていう、途方もない研究じゃない。",
+		"TextENG": "His research wasn't exactly outrageous. He wasn't trying to uncover the mysteries of the universe."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1566,
+		"TextJPN": "私たちが求めるのは、人体に潜む未知の生命体が本体の意思と行動を支配するかもしれない可能性という、本当にささやかなものなのだ。",
+		"TextENG": "He was only searching for the possibility that microorganisms could be responsible for human behavior. Nothing more than that."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1567,
+		"TextJPN": "突飛なものでもなんでもない。",
+		"TextENG": "Nothing outrageous."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1568,
+		"TextJPN": "しかも、それは単なる想像ではない。",
+		"TextENG": "It really wasn't a wild idea."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1569,
+		"TextJPN": "その尻尾はすでに掴んでいるのだ。",
+		"TextENG": "We even had some leads."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1570,
+		"TextJPN": "中部地方の一都市、と呼ぶにはあまりにも小さな寒村である鹿骨市、雛見沢。",
+		"TextENG": "Hinamizawa Village, Shishibone City, is too small a village to be called a city in the Chubu region."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1571,
+		"TextJPN": "この村の出身者が持つ、偏執的なまでのホームシックと帰巣本能。",
+		"TextENG": "The villagers there are possessed by a powerful homesickness."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1572,
+		"TextJPN": "そして、それが果たせない時に発現する、祟りに憑かれたと称する一連の異常行動。",
+		"TextENG": "When they are unable to return, they allegedly behave abnormally, as if they are cursed."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1573,
+		"TextJPN": "そして、この村に太古の昔より根付く土着の信仰に見え隠れする異常なルール。",
+		"TextENG": "There are also some bizarre rules in place in the village, based on their belief system."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1574,
+		"TextJPN": "それらを重ね合わせた時、祖父は雛見沢出身者のある共通項に偶然気付き、村を支配する何かの存在を仮定した。",
+		"TextENG": "When he was working with the military during the war, my grandfather noticed similarities between the people in Hinamizawa, and assumed that some kind of existence was responsible for their odd behavior."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1575,
+		"TextJPN": "そして、今日まで長い間ずっと研究を続け、その外郭を固めてきたのだ。",
+		"TextENG": "He'd been researching it ever since then."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1576,
+		"TextJPN": "昭和中期。",
+		"TextENG": "In the middle of the 20th century..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1577,
+		"TextJPN": "日本全国で、大昔から風土病だと思われていた数々の病気のベールが剥がされていた。",
+		"TextENG": "Numerous strange diseases were discovered all over Japan."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1578,
+		"TextJPN": "それらの多くの病原の正体が判明し、忌避されがちだった分野が、にわかに脚光を浴び始めているところだった。",
+		"TextENG": "Most of them were caused by infectious microorganisms, and people started to pay attention to this forgotten field of study."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1579,
+		"TextJPN": "祖父の研究も、そんな病理学研究の中のひとつに過ぎず、…だからこそ、それらに混じって、当然のように発表され、正当な評価を受けられる日が遠くない内に訪れると確信していた。",
+		"TextENG": "Grandfather's research was simply one of those investigations into such diseases. Therefore, he believed it would be published amongst other research and attain recognition soon."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1580,
+		"TextJPN": "それでも、もし。",
+		"TextENG": "But if..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1581,
+		"TextJPN": "…祖父の研究が、存命の内に実らなかったなら。",
+		"TextENG": "If his research didn't bear fruit before his death..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1582,
+		"TextJPN": "私は、…継ごう。",
+		"TextENG": "I wanted to continue it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1583,
+		"TextJPN": "その研究を。",
+		"TextENG": "I wanted to continue his research."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1584,
+		"TextJPN": "祖父が教えてくれた。",
+		"TextENG": "Grandfather taught me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1585,
+		"TextJPN": "復活とは、肉体が蘇ることではない。",
+		"TextENG": "Resurrection isn't something that happens physically."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1586,
+		"TextJPN": "評価され、偉業が蘇ることなのだ。",
+		"TextENG": "It's when your life's work is appreciated. That's what he meant by resurrection."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1587,
+		"TextJPN": "…そしてその時、人は神となって復活するのだ。",
+		"TextENG": "...That's when he'll become a god."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1588,
+		"TextJPN": "そうなれば、祖父がたとえ寿命を尽きさせてしまっても、常に私と共にいてくれる。",
+		"TextENG": "So when my grandfather dies, he'll still be with me forever."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1589,
+		"TextJPN": "私はもうひとりぼっちにならなくていい。",
+		"TextENG": "I wouldn't have to be alone ever again."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1590,
+		"TextJPN": "ずっと、おじいちゃんと一緒なのだ。",
+		"TextENG": "I will always be with my grandpa."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1591,
+		"TextJPN": "そして、祖父と私が二人で成した偉業が認められ、@k…祖父と私は神となり、永遠の安寧を得るのだ。",
+		"TextENG": "Our works will gain recognition@k and we will both become gods, gaining eternal peace."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1592,
+		"TextJPN": "祖父を、神にする。",
+		"TextENG": "I will make my grandfather into a god."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1593,
+		"TextJPN": "私も、神になる。",
+		"TextENG": "I will become a god."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1594,
+		"TextJPN": "だから、永遠。",
+		"TextENG": "Therefore, we will be granted eternity."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1595,
+		"TextJPN": "ずっとずっと、一緒…。",
+		"TextENG": "We'll be together forever and ever..."
+	}
+]

@@ -1,802 +1,800 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "#5 “いる”「い」ない",
-            "ENG": "#5 / It Does (Not) \\\"Exist\\\""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156143,
-            "NamesJPN": "星野",
-            "PreTextTags": "@vS26/58/THOS_0050.",
-            "TextJPN": "「…で？　…君たちの身分証は？」",
-            "NamesENG": "Hoshino",
-            "TextENG": "``...So? ...Where are your IDs?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156144,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1250.",
-            "TextJPN": "「はは、は！　…郵便局のカードじゃーだめですかねぇ…？」",
-            "NamesENG": "Mion",
-            "TextENG": "``Ha ha, ha! ...I'm guessing my post office card won't be of any use, right...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156145,
-            "NamesJPN": "星野",
-            "PreTextTags": "@vS26/58/THOS_0060.",
-            "TextJPN": "「…君たち学生ね？」",
-            "NamesENG": "Hoshino",
-            "TextENG": "``...Are you students?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156146,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1260.",
-            "TextJPN": "「刑事さん、私ゃ思うに、あの吉村ってオッサンが怪しいと思うんですよ…」",
-            "NamesENG": "Mion",
-            "TextENG": "``Ms. detective, I think that old man Yoshimura is suspicious...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156147,
-            "NamesJPN": "星野",
-            "PreTextTags": "@vS26/58/THOS_0070.",
-            "TextJPN": "「…今日は平日だけど学校はどうしたの？」",
-            "NamesENG": "Hoshino",
-            "TextENG": "``...It's a weekday today. What happened to school?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156148,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1270.",
-            "TextJPN": "「いやー、えへへへ！　…そのー…開校記念日でー…！」",
-            "NamesENG": "Mion",
-            "TextENG": "``No, eh heh heh heh! ...Umm... it's the school's opening anniversary...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156149,
-            "NamesJPN": "星野",
-            "PreTextTags": "@vS26/58/THOS_0080.",
-            "TextJPN": "「…ちょっと向こうで話を聞かせてもらっていい？」",
-            "NamesENG": "Hoshino",
-            "TextENG": "``...May I hear a little more of your story?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156150,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1280.",
-            "TextJPN": "「じゃなくてほらッ！　学級閉鎖ー！　みんなインフルエンザでぶっ倒れてー！」",
-            "NamesENG": "Mion",
-            "TextENG": "``I mean...! Class was closed! Everyone's down with the flu!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156151,
-            "NamesJPN": "星野",
-            "PreTextTags": "@vS26/58/THOS_0090.",
-            "TextJPN": "「…開校記念日で学級閉鎖で？　…次は何…？」",
-            "NamesENG": "Hoshino",
-            "TextENG": "``...Class closed on a school's opening anniversary? ...What's next...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156152,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1290.",
-            "TextJPN": "「あ、あ、あ、…雨ですからー！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Oh, oh, oh... Because of the rain!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156153,
-            "TextJPN": "魅音と梨花を伴って星野退場。",
-            "TextENG": "Hoshino leaves accompanied by Mion and Rika."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156154,
-            "NamesJPN": "利根川",
-            "PreTextTags": "@vS26/56/TTON_0650.",
-            "TextJPN": "「……あの、……トイレに行っちゃまずいですか…？」",
-            "NamesENG": "Tonegawa",
-            "TextENG": "``...Oh...... it's kinda bad, can I use the toilet over there...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156155,
-            "NamesJPN": "岡野",
-            "PreTextTags": "@vS26/59/TOKA_0100.",
-            "TextJPN": "「構いませんよ。どうぞ」",
-            "NamesENG": "Okano",
-            "TextENG": "``I don't mind. Go ahead.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156156,
-            "NamesJPN": "利根川",
-            "PreTextTags": "@vS26/56/TTON_0660.",
-            "TextJPN": "「…ちょっと行ってくる」",
-            "NamesENG": "Tonegawa",
-            "TextENG": "``...I'll be back in a bit.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156157,
-            "TextJPN": "利根川退場。しばらくして岡野に電話が入る。",
-            "TextENG": "Tonegawa leaves. A phone call arrives for Okano a few minutes later."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156158,
-            "NamesJPN": "岡野",
-            "PreTextTags": "@vS26/59/TOKA_0110.",
-            "TextJPN": "「はい岡野です。………………はい。…………………はい」",
-            "NamesENG": "Okano",
-            "TextENG": "``Yes, this is Okano. ..................Yes. .....................Yes.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156159,
-            "TextJPN": "岡野は携帯で話をしながら退場する。",
-            "TextENG": "Okano leaves while talking on the phone."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156160,
-            "TextJPN": "ぽかんとして見送る吉村。",
-            "TextENG": "Yoshimura seems to be dumbfounded, and watches him leave."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156161,
-            "TextJPN": "荒川はまた頭痛が始まったようで頭を押さえている。",
-            "TextENG": "Arakawa begins to hold his head, his head seems to ache again."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156162,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1140.",
-            "TextJPN": "「どうしました？　…また頭痛ですか？」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``What happened? ...Is it your head?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156163,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0830.",
-            "TextJPN": "「…え…えぇ…。…また……痛くなってきた…」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``...Y-Yeah... ...The pain's coming back again...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156164,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1150.",
-            "TextJPN": "「お辛そうですねぇ。……代われるものなら代わってあげたいですよ」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``It looks really painful. ......You should seriously get some help when you can.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156165,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0840.",
-            "TextJPN": "「……くそ……。……参ったな…。……く………」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``......Damn it...... ......I'm tired of this... ......Uh.........``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156166,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1160.",
-            "TextJPN": "「頭痛の原因はたくさんあるんだそうです。風邪、眼精疲労が主なところですが他にもたくさんあります」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``There are also alot of causes for a headache. A cold and asthenopia are the main ones, but there are more.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156167,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1170.",
-            "TextJPN": "「面白い事にですね、脳自身は傷つけられても痛みを感じないんだそうですよ」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``The funny thing is, the brain itself doesn't feel pain when it hurts.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156168,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0850.",
-            "TextJPN": "「……こんなに痛いのに…？」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``......Even though it hurts so much...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156169,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1180.",
-            "TextJPN": "「自殺する時、ピストルで頭を撃つでしょう。…あれって、一番痛みを感じない死に方らしいですね」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``When you commit suicide, you shoot yourself in the head with a pistol. ...That seems to be the least painful way to die.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156170,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1190.",
-            "TextJPN": "「…反面、意外にも辛いのが切腹なんですよ。脳と違って痛みをまともに感じますからね」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...On the other hand, it would be surprisingly painful if you commit seppuku. Unlike the brain, we feel pain of other parts in a very real way..``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156171,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1200.",
-            "TextJPN": "「だからほら、介錯ってあるでしょう。…痛みに苦しむ前に首をはねてくれる人。…ははは！　面白くない話でしたかねぇ」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Therefore, you will need an assistant. Someone to behead you before you suffer from any more pain. ...Ha ha ha! Don't you think that is interesting?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156172,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0860.",
-            "TextJPN": "「………はは、………くぅ……！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``.........Ha ha......... Gh......!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156173,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1210.",
-            "TextJPN": "「辛そうですねぇ。…いっその事、介錯してあげられればいいんですけど」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``You look like you're in extreme pain. ...Preferably, I would like to be your assistant.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156174,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0870.",
-            "TextJPN": "「………冗談じゃない…。………ううッ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``.........This isn't funny... .........Uuu!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156175,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1220.",
-            "TextJPN": "「あなたの場合、頭痛の原因は睡眠不足にあるように思いますが、いかがです？」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``In your case, I think the cause of a headache is lack of sleep. Don't you think so?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156176,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1230.",
-            "TextJPN": "「…ちゃんと６時間眠ってますか？　昨夜は何時に床に就きましたか？」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...Are you sleeping properly for six hours? What time did you go to bed at last night?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156177,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0880.",
-            "TextJPN": "「……１２時前には消灯したよ。…７時間は眠ってる…！　……うぅ…ッ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``......I turned off the light before midnight. ...And I slept for seven hours...! ......Uuu...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156178,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1240.",
-            "TextJPN": "「本当にですか？　…本当にそれだけ眠れていれば、そんなに辛くはならないはずなんですがねぇ」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Really? ...Did you really sleep that long? Because if you did, it wouldn't be that painful.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156179,
-            "TextJPN": "悶え苦しむ荒川。吉村は得意そうに話すだけ。",
-            "TextENG": "Arakawa writhes in agony.@rYoshimura speaks proudly."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156180,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1250.",
-            "TextJPN": "「…本当に眠れていましたか？　…本当に」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...Were you really able to sleep? ...Really?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156181,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0890.",
-            "TextJPN": "「…寝たさ！　…寝てますよ」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``...I slept! ...I went to sleep.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156182,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1260.",
-            "TextJPN": "「灯をちゃんと消して？　…灯を点けっぱなしだと深くは眠れませんよ？」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Did you remember to turn off the lights properly? ...Because you can't sleep deeply if you leave them on.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156183,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0900.",
-            "TextJPN": "「……ちょっと……消し忘れただけです…！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``......Just one...... I only forgot to turn one off...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156184,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1270.",
-            "TextJPN": "「本当に瞼を閉じてましたか？　…横になっているだけでは睡眠とは言えませんよ」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Did you really close your eyelids? ...Because just lying in bed isn't sleeping.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156185,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0910.",
-            "TextJPN": "「閉じてた！　…ちゃんと瞼を閉じて寝ようとしましたよッ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``I closed them! ...I properly closed my eyelids and went to sleep!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156186,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1280.",
-            "TextJPN": "「…でも眠れなかった…？」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...But you were not able to sleep...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156187,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0920.",
-            "TextJPN": "「……寝ようとしましたよ！　寝ようとッ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``......I went to sleep! I went to sleep!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156188,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1290.",
-            "TextJPN": "「………どうして瞼を閉じられなかったんです？」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``.........Then why were your eyelids not closed?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156189,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0930.",
-            "TextJPN": "「……うるさいなぁッ！　…そんな事、どうでもいいじゃないですか！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``......You're being annoying! ...It doesn't matter!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156190,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1300.",
-            "TextJPN": "「…不眠で毎晩、辛いんでしょう？」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...Every night with insomnia must be painful, right?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156191,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0940.",
-            "TextJPN": "「僕は、……不眠なんかじゃ…ないッ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``I...... I don't have insomnia...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156192,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1310.",
-            "TextJPN": "「…近藤さんも言ってましたよ。……不眠で辛いって」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...Kondo-san said the same thing, too. ......Insomnia is painful.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156193,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0950.",
-            "TextJPN": "「近藤さんなんか知らない！　…僕は不眠なんかじゃないんだッ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``I don't know about Kondo-san! ...And I don't have insomnia!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156194,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1320.",
-            "TextJPN": "「…寝ようとすると、…落ち着かなくなって起きてしまう。…そうでしょう」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...But every time you try to sleep... it occurs and you become restless. ...Isn't that the case?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156195,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0960.",
-            "TextJPN": "「そんなことはないッ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``It's nothing like that!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156196,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1330.",
-            "TextJPN": "「…でもその内、感じるようになったんですよね？」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...But, among other things, haven't you begun to feel *it*?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156197,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0970.",
-            "TextJPN": "「感じるッ！？　…何も感じないですよ！　何もッ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``Feel!? ...I feel nothing! Nothing!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156198,
-            "TextJPN": "舞台は真っ赤なライトで照らし出される。",
-            "TextENG": "The stage is illuminated by a gloomy bright red light.@rThe light shines on Arakawa."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156199,
-            "NamesJPN": "柿沼の声",
-            "PreTextTags": "@vS26/00/TKAK_0120.",
-            "TextJPN": "「……………荒ちゃんは何も感じないかい。…夜とか」",
-            "NamesENG": "Kakinuma's voice",
-            "TextENG": "``...............Ara-chan, don't you feel anything... ...at night...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156200,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0980.",
-            "TextJPN": "「感じないですッ！　何にもッ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``I don't feel it! Nothing!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156201,
-            "NamesJPN": "柿沼の声",
-            "PreTextTags": "@vS26/00/TKAK_0130.",
-            "TextJPN": "「…………確かに“いる”んだよ。………“いる”」",
-            "NamesENG": "Kakinuma's voice",
-            "TextENG": "``............Definitely, 'it exists'. .........'It exists'.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156202,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0990.",
-            "TextJPN": "「“い”ないッ！　…何にも“い”ないッ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``It doesn't 'exist'! ...It can't 'exist'!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156203,
-            "NamesJPN": "柿沼の声",
-            "PreTextTags": "@vS26/00/TKAK_0140.",
-            "TextJPN": "「………近藤さんもさ。…ひと月くらい前から、そんなこと言ってたよな…」",
-            "NamesENG": "Kakinuma's voice",
-            "TextENG": "``.........Kondo-san. ...About one month ago, he also said those words...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156204,
-            "TextJPN": "真っ赤なライトが今度は青いライトに変わる。",
-            "TextENG": "Now the bright red light turns into a blue light."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156205,
-            "NamesJPN": "近藤の声",
-            "PreTextTags": "@vS26/00/TKON_0000.",
-            "TextJPN": "「…はは。…もちろん笑ってくれていいよ。……だがな…。…あいつは………“いる”んだよ…！」",
-            "NamesENG": "Kondo's voice",
-            "TextENG": "``...Ha ha. ...Of course you may laugh. ......But... that thing......... it definitely 'exists'...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156206,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_1000.",
-            "TextJPN": "「“い”ないッ！　…嘘っぱちだッ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``It doesn't 'exist'! ...It's an arrant lie!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156207,
-            "NamesJPN": "近藤の声",
-            "PreTextTags": "@vS26/00/TKON_0010.",
-            "TextJPN": "「……いいや、“いる”。……そりゃあ目に見えないものを疑うのは簡単さ」",
-            "NamesENG": "Kondo's voice",
-            "TextENG": "``......No, 'it exists'. ......It's easy to simply doubt something you can't see.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156208,
-            "NamesJPN": "近藤の声",
-            "PreTextTags": "@vS26/00/TKON_0020.",
-            "TextJPN": "「……だけど例え見えなかったとしてもやっぱり、……“いる”んだよ！」",
-            "NamesENG": "Kondo's voice",
-            "TextENG": "``......But even if you can't see it...... it still 'exists'!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156209,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_1010.",
-            "TextJPN": "「わぁあああぁあぁぁああああぁあッ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``Ahhhhhhhhhhhhhhhhh!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156210,
-            "TextJPN": "青いライトが再び真っ赤なライトに変わる。",
-            "TextENG": "The blue light turns back into a bright red light."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156211,
-            "NamesJPN": "加藤の声",
-            "PreTextTags": "@vS26/00/TKAT_0000.",
-            "TextJPN": "「…ぁああぁあぁあッ！　…触るんじゃねえ！　触るんじゃねぇッ！」",
-            "NamesENG": "Kato's voice",
-            "TextENG": "``...Ahhhhhhhhh! ...Don't touch me! Don't even try!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156212,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_1020.",
-            "TextJPN": "「加藤さんッ！　…落ち着いて下さいよ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``Kato-san! ...Please calm down!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156213,
-            "NamesJPN": "加藤の声",
-            "PreTextTags": "@vS26/00/TKAT_0010.",
-            "TextJPN": "「…なめやがって！　…どいつもこいつも俺の事を馬鹿にしてやがるッ！　…ぁああぁぁあああッ！」",
-            "NamesENG": "Kato's voice",
-            "TextENG": "``...Are you kidding me?! ...You're all just making fun of me! ...Ahhhhhhhhh!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156214,
-            "NamesJPN": "加藤の声",
-            "PreTextTags": "@vS26/00/TKAT_0020.",
-            "TextJPN": "「……上等だぜ。…そのケンカ、買ってやろうじゃねえか。…てめえなんざ怖くも何ともねえんだぞ…！」",
-            "NamesENG": "Kato's voice",
-            "TextENG": "``......This is great. ...I'll fight you all. ...Dying isn't that scary at all...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156215,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_1030.",
-            "TextJPN": "「誰もケンカなんか売ってないです！　だから落ち着いて下さい！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``Nobody's wanna fight! So please calm down!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156216,
-            "NamesJPN": "加藤の声",
-            "PreTextTags": "@vS26/00/TKAT_0030.",
-            "TextJPN": "「…くらぁッ！　…殺してやるッ！　…俺を馬鹿にするヤツはみんな殺してやる！」",
-            "NamesENG": "Kato's voice",
-            "TextENG": "``...Kura! ...I'll kill you! ...I'll kill everyone making fun of me!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156217,
-            "NamesJPN": "加藤の声",
-            "PreTextTags": "@vS26/00/TKAT_0040.",
-            "TextJPN": "「……何がオヤシロさまだ。…祟りが怖くてケンカができるかぁッ！」",
-            "NamesENG": "Kato's voice",
-            "TextENG": "``......What is Oyashiro-sama? ...Are you that afraid of fighting a curse?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156218,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_1040.",
-            "TextJPN": "「かか、加藤さんッ！　…で、電車、来ますって…ッ！　…ぁ、ぁあ…ああぁあぁああああぁああッ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``Ka-Ka-Kato-san! ...Th-The train, it's coming...! ...A-ah... ahhhhhhhhhhhh!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156219,
-            "TextJPN": "電車の入ってくる音。",
-            "TextENG": "Incoming sound of the train."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156220,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_1050.",
-            "TextJPN": "「…ぁあぁああぁあッ！　…“い”ないんだ！　…オヤシロさまなんて…！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``...Ahhhhhhhh! ...It doesn't 'exist'! ...Oyashiro-sama doesn't exist...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156221,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1340.",
-            "TextJPN": "「…嫌でしょう。…“いる”のに会えないなんて。…悔しいですよねぇ。……“いる”のに」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``,,,You must hate it. ...It 'exists' and you aren't able to see it. ...It's frustrating, isn't it? ...Even though it 'exists'.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156222,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_1060.",
-            "TextJPN": "「“い”ない！　“い”ない！　“い”ないーッ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``It doesn't 'exist'... It doesn't 'exist'! It doesn't 'exist'!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156223,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1350.",
-            "TextJPN": "「…近藤さんは会いましたよ。…柿沼さんもね」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...Kondo-san met it. ...Kakinuma-san, too.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156224,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_1070.",
-            "TextJPN": "「嫌だ！　嫌だ！　嫌だッ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``No! No! No!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156225,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1360.",
-            "TextJPN": "「森さんも会った。加藤さんも会った」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Mori-san met it. Kato-san met it.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156226,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_1080.",
-            "TextJPN": "「もうやめてくれ！　…たくさんだ！　たくさんだッ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``Stop it already! ...It's too much! It's too much!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156227,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1370.",
-            "TextJPN": "「…会いたいでしょう？　…会いたいはずだ」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...Do you want to meet it? ...I think you should meet it.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156228,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_1090.",
-            "TextJPN": "「嫌だッ！　嫌だッ！　…助けてッ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``I don't want to! I don't want to! Help!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156229,
-            "TextJPN": "地べたを這いつくばりながら、どこかへ逃げようとする荒川。頭痛がひどく、それもままならない。",
-            "TextENG": "Arakawa tries to escape to somewhere, but falls onto the ground and begins crawling. His headache is severe, it stops him from doing what he wants."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156230,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1380.",
-            "TextJPN": "「…なぜ拒むんです？　……会えば救われるのに」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...Why do you refuse? ......You will be saved if you meet it.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156231,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_1100.",
-            "TextJPN": "「ぁああぁぁああッ！　……やだ！　…やだ…ッ…！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``Ahhhhhhh! ......No! ...No......!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156232,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1390.",
-            "TextJPN": "「……いい歳した大人が、そんなに怖がる事はないじゃあないですか…。…みっともない」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``......An adult at your age shouldn't be afraid of something like this... ...Disgraceful.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156233,
-            "TextJPN": "荒川は舞台中央で腰をぬかし、がたがた震えるだけ。",
-            "TextENG": "Arakawa is unable to stand up at the stage center,@rhe trembles."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156234,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1400.",
-            "TextJPN": "「……あれ、…ひょっとして失禁しました…？　……恥ずかしいなぁ…」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``......Or perhaps... maybe it's incontinence...? ......How embarrassing...``"
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "#5 “いる”「い」ない",
+		"ENG": "#5 / It Does (Not) \\\"Exist\\\""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156143,
+		"NamesJPN": "星野",
+		"PreTextTags": "@vS26/58/THOS_0050.",
+		"TextJPN": "「…で？　…君たちの身分証は？」",
+		"NamesENG": "Hoshino",
+		"TextENG": "``...So? ...Where are your IDs?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156144,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1250.",
+		"TextJPN": "「はは、は！　…郵便局のカードじゃーだめですかねぇ…？」",
+		"NamesENG": "Mion",
+		"TextENG": "``Ha ha, ha! ...I'm guessing my post office card won't be of any use, right...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156145,
+		"NamesJPN": "星野",
+		"PreTextTags": "@vS26/58/THOS_0060.",
+		"TextJPN": "「…君たち学生ね？」",
+		"NamesENG": "Hoshino",
+		"TextENG": "``...Are you students?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156146,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1260.",
+		"TextJPN": "「刑事さん、私ゃ思うに、あの吉村ってオッサンが怪しいと思うんですよ…」",
+		"NamesENG": "Mion",
+		"TextENG": "``Ms. detective, I think that old man Yoshimura is suspicious...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156147,
+		"NamesJPN": "星野",
+		"PreTextTags": "@vS26/58/THOS_0070.",
+		"TextJPN": "「…今日は平日だけど学校はどうしたの？」",
+		"NamesENG": "Hoshino",
+		"TextENG": "``...It's a weekday today. What happened to school?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156148,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1270.",
+		"TextJPN": "「いやー、えへへへ！　…そのー…開校記念日でー…！」",
+		"NamesENG": "Mion",
+		"TextENG": "``No, eh heh heh heh! ...Umm... it's the school's opening anniversary...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156149,
+		"NamesJPN": "星野",
+		"PreTextTags": "@vS26/58/THOS_0080.",
+		"TextJPN": "「…ちょっと向こうで話を聞かせてもらっていい？」",
+		"NamesENG": "Hoshino",
+		"TextENG": "``...May I hear a little more of your story?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156150,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1280.",
+		"TextJPN": "「じゃなくてほらッ！　学級閉鎖ー！　みんなインフルエンザでぶっ倒れてー！」",
+		"NamesENG": "Mion",
+		"TextENG": "``I mean...! Class was closed! Everyone's down with the flu!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156151,
+		"NamesJPN": "星野",
+		"PreTextTags": "@vS26/58/THOS_0090.",
+		"TextJPN": "「…開校記念日で学級閉鎖で？　…次は何…？」",
+		"NamesENG": "Hoshino",
+		"TextENG": "``...Class closed on a school's opening anniversary? ...What's next...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156152,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1290.",
+		"TextJPN": "「あ、あ、あ、…雨ですからー！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Oh, oh, oh... Because of the rain!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156153,
+		"TextJPN": "魅音と梨花を伴って星野退場。",
+		"TextENG": "Hoshino leaves accompanied by Mion and Rika."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156154,
+		"NamesJPN": "利根川",
+		"PreTextTags": "@vS26/56/TTON_0650.",
+		"TextJPN": "「……あの、……トイレに行っちゃまずいですか…？」",
+		"NamesENG": "Tonegawa",
+		"TextENG": "``...Oh...... it's kinda bad, can I use the toilet over there...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156155,
+		"NamesJPN": "岡野",
+		"PreTextTags": "@vS26/59/TOKA_0100.",
+		"TextJPN": "「構いませんよ。どうぞ」",
+		"NamesENG": "Okano",
+		"TextENG": "``I don't mind. Go ahead.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156156,
+		"NamesJPN": "利根川",
+		"PreTextTags": "@vS26/56/TTON_0660.",
+		"TextJPN": "「…ちょっと行ってくる」",
+		"NamesENG": "Tonegawa",
+		"TextENG": "``...I'll be back in a bit.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156157,
+		"TextJPN": "利根川退場。しばらくして岡野に電話が入る。",
+		"TextENG": "Tonegawa leaves. A phone call arrives for Okano a few minutes later."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156158,
+		"NamesJPN": "岡野",
+		"PreTextTags": "@vS26/59/TOKA_0110.",
+		"TextJPN": "「はい岡野です。………………はい。…………………はい」",
+		"NamesENG": "Okano",
+		"TextENG": "``Yes, this is Okano. ..................Yes. .....................Yes.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156159,
+		"TextJPN": "岡野は携帯で話をしながら退場する。",
+		"TextENG": "Okano leaves while talking on the phone."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156160,
+		"TextJPN": "ぽかんとして見送る吉村。",
+		"TextENG": "Yoshimura seems to be dumbfounded, and watches him leave."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156161,
+		"TextJPN": "荒川はまた頭痛が始まったようで頭を押さえている。",
+		"TextENG": "Arakawa begins to hold his head, his head seems to ache again."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156162,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1140.",
+		"TextJPN": "「どうしました？　…また頭痛ですか？」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``What happened? ...Is it your head?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156163,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0830.",
+		"TextJPN": "「…え…えぇ…。…また……痛くなってきた…」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``...Y-Yeah... ...The pain's coming back again...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156164,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1150.",
+		"TextJPN": "「お辛そうですねぇ。……代われるものなら代わってあげたいですよ」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``It looks really painful. ......You should seriously get some help when you can.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156165,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0840.",
+		"TextJPN": "「……くそ……。……参ったな…。……く………」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``......Damn it...... ......I'm tired of this... ......Uh.........``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156166,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1160.",
+		"TextJPN": "「頭痛の原因はたくさんあるんだそうです。風邪、眼精疲労が主なところですが他にもたくさんあります」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``There are also alot of causes for a headache. A cold and asthenopia are the main ones, but there are more.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156167,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1170.",
+		"TextJPN": "「面白い事にですね、脳自身は傷つけられても痛みを感じないんだそうですよ」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``The funny thing is, the brain itself doesn't feel pain when it hurts.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156168,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0850.",
+		"TextJPN": "「……こんなに痛いのに…？」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``......Even though it hurts so much...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156169,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1180.",
+		"TextJPN": "「自殺する時、ピストルで頭を撃つでしょう。…あれって、一番痛みを感じない死に方らしいですね」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``When you commit suicide, you shoot yourself in the head with a pistol. ...That seems to be the least painful way to die.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156170,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1190.",
+		"TextJPN": "「…反面、意外にも辛いのが切腹なんですよ。脳と違って痛みをまともに感じますからね」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...On the other hand, it would be surprisingly painful if you commit seppuku. Unlike the brain, we feel pain of other parts in a very real way..``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156171,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1200.",
+		"TextJPN": "「だからほら、介錯ってあるでしょう。…痛みに苦しむ前に首をはねてくれる人。…ははは！　面白くない話でしたかねぇ」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Therefore, you will need an assistant. Someone to behead you before you suffer from any more pain. ...Ha ha ha! Don't you think that is interesting?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156172,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0860.",
+		"TextJPN": "「………はは、………くぅ……！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``.........Ha ha......... Gh......!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156173,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1210.",
+		"TextJPN": "「辛そうですねぇ。…いっその事、介錯してあげられればいいんですけど」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``You look like you're in extreme pain. ...Preferably, I would like to be your assistant.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156174,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0870.",
+		"TextJPN": "「………冗談じゃない…。………ううッ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``.........This isn't funny... .........Uuu!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156175,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1220.",
+		"TextJPN": "「あなたの場合、頭痛の原因は睡眠不足にあるように思いますが、いかがです？」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``In your case, I think the cause of a headache is lack of sleep. Don't you think so?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156176,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1230.",
+		"TextJPN": "「…ちゃんと６時間眠ってますか？　昨夜は何時に床に就きましたか？」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...Are you sleeping properly for six hours? What time did you go to bed at last night?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156177,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0880.",
+		"TextJPN": "「……１２時前には消灯したよ。…７時間は眠ってる…！　……うぅ…ッ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``......I turned off the light before midnight. ...And I slept for seven hours...! ......Uuu...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156178,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1240.",
+		"TextJPN": "「本当にですか？　…本当にそれだけ眠れていれば、そんなに辛くはならないはずなんですがねぇ」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Really? ...Did you really sleep that long? Because if you did, it wouldn't be that painful.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156179,
+		"TextJPN": "悶え苦しむ荒川。吉村は得意そうに話すだけ。",
+		"TextENG": "Arakawa writhes in agony.@rYoshimura speaks proudly."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156180,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1250.",
+		"TextJPN": "「…本当に眠れていましたか？　…本当に」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...Were you really able to sleep? ...Really?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156181,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0890.",
+		"TextJPN": "「…寝たさ！　…寝てますよ」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``...I slept! ...I went to sleep.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156182,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1260.",
+		"TextJPN": "「灯をちゃんと消して？　…灯を点けっぱなしだと深くは眠れませんよ？」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Did you remember to turn off the lights properly? ...Because you can't sleep deeply if you leave them on.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156183,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0900.",
+		"TextJPN": "「……ちょっと……消し忘れただけです…！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``......Just one...... I only forgot to turn one off...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156184,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1270.",
+		"TextJPN": "「本当に瞼を閉じてましたか？　…横になっているだけでは睡眠とは言えませんよ」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Did you really close your eyelids? ...Because just lying in bed isn't sleeping.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156185,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0910.",
+		"TextJPN": "「閉じてた！　…ちゃんと瞼を閉じて寝ようとしましたよッ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``I closed them! ...I properly closed my eyelids and went to sleep!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156186,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1280.",
+		"TextJPN": "「…でも眠れなかった…？」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...But you were not able to sleep...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156187,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0920.",
+		"TextJPN": "「……寝ようとしましたよ！　寝ようとッ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``......I went to sleep! I went to sleep!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156188,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1290.",
+		"TextJPN": "「………どうして瞼を閉じられなかったんです？」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``.........Then why were your eyelids not closed?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156189,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0930.",
+		"TextJPN": "「……うるさいなぁッ！　…そんな事、どうでもいいじゃないですか！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``......You're being annoying! ...It doesn't matter!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156190,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1300.",
+		"TextJPN": "「…不眠で毎晩、辛いんでしょう？」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...Every night with insomnia must be painful, right?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156191,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0940.",
+		"TextJPN": "「僕は、……不眠なんかじゃ…ないッ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``I...... I don't have insomnia...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156192,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1310.",
+		"TextJPN": "「…近藤さんも言ってましたよ。……不眠で辛いって」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...Kondo-san said the same thing, too. ......Insomnia is painful.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156193,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0950.",
+		"TextJPN": "「近藤さんなんか知らない！　…僕は不眠なんかじゃないんだッ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``I don't know about Kondo-san! ...And I don't have insomnia!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156194,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1320.",
+		"TextJPN": "「…寝ようとすると、…落ち着かなくなって起きてしまう。…そうでしょう」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...But every time you try to sleep... it occurs and you become restless. ...Isn't that the case?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156195,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0960.",
+		"TextJPN": "「そんなことはないッ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``It's nothing like that!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156196,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1330.",
+		"TextJPN": "「…でもその内、感じるようになったんですよね？」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...But, among other things, haven't you begun to feel *it*?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156197,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0970.",
+		"TextJPN": "「感じるッ！？　…何も感じないですよ！　何もッ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``Feel!? ...I feel nothing! Nothing!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156198,
+		"TextJPN": "舞台は真っ赤なライトで照らし出される。",
+		"TextENG": "The stage is illuminated by a gloomy bright red light.@rThe light shines on Arakawa."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156199,
+		"NamesJPN": "柿沼の声",
+		"PreTextTags": "@vS26/00/TKAK_0120.",
+		"TextJPN": "「……………荒ちゃんは何も感じないかい。…夜とか」",
+		"NamesENG": "Kakinuma's voice",
+		"TextENG": "``...............Ara-chan, don't you feel anything... ...at night...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156200,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0980.",
+		"TextJPN": "「感じないですッ！　何にもッ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``I don't feel it! Nothing!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156201,
+		"NamesJPN": "柿沼の声",
+		"PreTextTags": "@vS26/00/TKAK_0130.",
+		"TextJPN": "「…………確かに“いる”んだよ。………“いる”」",
+		"NamesENG": "Kakinuma's voice",
+		"TextENG": "``............Definitely, 'it exists'. .........'It exists'.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156202,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0990.",
+		"TextJPN": "「“い”ないッ！　…何にも“い”ないッ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``It doesn't 'exist'! ...It can't 'exist'!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156203,
+		"NamesJPN": "柿沼の声",
+		"PreTextTags": "@vS26/00/TKAK_0140.",
+		"TextJPN": "「………近藤さんもさ。…ひと月くらい前から、そんなこと言ってたよな…」",
+		"NamesENG": "Kakinuma's voice",
+		"TextENG": "``.........Kondo-san. ...About one month ago, he also said those words...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156204,
+		"TextJPN": "真っ赤なライトが今度は青いライトに変わる。",
+		"TextENG": "Now the bright red light turns into a blue light."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156205,
+		"NamesJPN": "近藤の声",
+		"PreTextTags": "@vS26/00/TKON_0000.",
+		"TextJPN": "「…はは。…もちろん笑ってくれていいよ。……だがな…。…あいつは………“いる”んだよ…！」",
+		"NamesENG": "Kondo's voice",
+		"TextENG": "``...Ha ha. ...Of course you may laugh. ......But... that thing......... it definitely 'exists'...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156206,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_1000.",
+		"TextJPN": "「“い”ないッ！　…嘘っぱちだッ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``It doesn't 'exist'! ...It's an arrant lie!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156207,
+		"NamesJPN": "近藤の声",
+		"PreTextTags": "@vS26/00/TKON_0010.",
+		"TextJPN": "「……いいや、“いる”。……そりゃあ目に見えないものを疑うのは簡単さ」",
+		"NamesENG": "Kondo's voice",
+		"TextENG": "``......No, 'it exists'. ......It's easy to simply doubt something you can't see.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156208,
+		"NamesJPN": "近藤の声",
+		"PreTextTags": "@vS26/00/TKON_0020.",
+		"TextJPN": "「……だけど例え見えなかったとしてもやっぱり、……“いる”んだよ！」",
+		"NamesENG": "Kondo's voice",
+		"TextENG": "``......But even if you can't see it...... it still 'exists'!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156209,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_1010.",
+		"TextJPN": "「わぁあああぁあぁぁああああぁあッ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``Ahhhhhhhhhhhhhhhhh!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156210,
+		"TextJPN": "青いライトが再び真っ赤なライトに変わる。",
+		"TextENG": "The blue light turns back into a bright red light."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156211,
+		"NamesJPN": "加藤の声",
+		"PreTextTags": "@vS26/00/TKAT_0000.",
+		"TextJPN": "「…ぁああぁあぁあッ！　…触るんじゃねえ！　触るんじゃねぇッ！」",
+		"NamesENG": "Kato's voice",
+		"TextENG": "``...Ahhhhhhhhh! ...Don't touch me! Don't even try!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156212,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_1020.",
+		"TextJPN": "「加藤さんッ！　…落ち着いて下さいよ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``Kato-san! ...Please calm down!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156213,
+		"NamesJPN": "加藤の声",
+		"PreTextTags": "@vS26/00/TKAT_0010.",
+		"TextJPN": "「…なめやがって！　…どいつもこいつも俺の事を馬鹿にしてやがるッ！　…ぁああぁぁあああッ！」",
+		"NamesENG": "Kato's voice",
+		"TextENG": "``...Are you kidding me?! ...You're all just making fun of me! ...Ahhhhhhhhh!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156214,
+		"NamesJPN": "加藤の声",
+		"PreTextTags": "@vS26/00/TKAT_0020.",
+		"TextJPN": "「……上等だぜ。…そのケンカ、買ってやろうじゃねえか。…てめえなんざ怖くも何ともねえんだぞ…！」",
+		"NamesENG": "Kato's voice",
+		"TextENG": "``......This is great. ...I'll fight you all. ...Dying isn't that scary at all...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156215,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_1030.",
+		"TextJPN": "「誰もケンカなんか売ってないです！　だから落ち着いて下さい！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``Nobody's wanna fight! So please calm down!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156216,
+		"NamesJPN": "加藤の声",
+		"PreTextTags": "@vS26/00/TKAT_0030.",
+		"TextJPN": "「…くらぁッ！　…殺してやるッ！　…俺を馬鹿にするヤツはみんな殺してやる！」",
+		"NamesENG": "Kato's voice",
+		"TextENG": "``...Kura! ...I'll kill you! ...I'll kill everyone making fun of me!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156217,
+		"NamesJPN": "加藤の声",
+		"PreTextTags": "@vS26/00/TKAT_0040.",
+		"TextJPN": "「……何がオヤシロさまだ。…祟りが怖くてケンカができるかぁッ！」",
+		"NamesENG": "Kato's voice",
+		"TextENG": "``......What is Oyashiro-sama? ...Are you that afraid of fighting a curse?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156218,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_1040.",
+		"TextJPN": "「かか、加藤さんッ！　…で、電車、来ますって…ッ！　…ぁ、ぁあ…ああぁあぁああああぁああッ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``Ka-Ka-Kato-san! ...Th-The train, it's coming...! ...A-ah... ahhhhhhhhhhhh!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156219,
+		"TextJPN": "電車の入ってくる音。",
+		"TextENG": "Incoming sound of the train."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156220,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_1050.",
+		"TextJPN": "「…ぁあぁああぁあッ！　…“い”ないんだ！　…オヤシロさまなんて…！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``...Ahhhhhhhh! ...It doesn't 'exist'! ...Oyashiro-sama doesn't exist...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156221,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1340.",
+		"TextJPN": "「…嫌でしょう。…“いる”のに会えないなんて。…悔しいですよねぇ。……“いる”のに」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``,,,You must hate it. ...It 'exists' and you aren't able to see it. ...It's frustrating, isn't it? ...Even though it 'exists'.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156222,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_1060.",
+		"TextJPN": "「“い”ない！　“い”ない！　“い”ないーッ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``It doesn't 'exist'... It doesn't 'exist'! It doesn't 'exist'!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156223,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1350.",
+		"TextJPN": "「…近藤さんは会いましたよ。…柿沼さんもね」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...Kondo-san met it. ...Kakinuma-san, too.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156224,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_1070.",
+		"TextJPN": "「嫌だ！　嫌だ！　嫌だッ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``No! No! No!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156225,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1360.",
+		"TextJPN": "「森さんも会った。加藤さんも会った」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Mori-san met it. Kato-san met it.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156226,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_1080.",
+		"TextJPN": "「もうやめてくれ！　…たくさんだ！　たくさんだッ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``Stop it already! ...It's too much! It's too much!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156227,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1370.",
+		"TextJPN": "「…会いたいでしょう？　…会いたいはずだ」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...Do you want to meet it? ...I think you should meet it.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156228,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_1090.",
+		"TextJPN": "「嫌だッ！　嫌だッ！　…助けてッ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``I don't want to! I don't want to! Help!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156229,
+		"TextJPN": "地べたを這いつくばりながら、どこかへ逃げようとする荒川。頭痛がひどく、それもままならない。",
+		"TextENG": "Arakawa tries to escape to somewhere, but falls onto the ground and begins crawling. His headache is severe, it stops him from doing what he wants."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156230,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1380.",
+		"TextJPN": "「…なぜ拒むんです？　……会えば救われるのに」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...Why do you refuse? ......You will be saved if you meet it.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156231,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_1100.",
+		"TextJPN": "「ぁああぁぁああッ！　……やだ！　…やだ…ッ…！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``Ahhhhhhh! ......No! ...No......!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156232,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1390.",
+		"TextJPN": "「……いい歳した大人が、そんなに怖がる事はないじゃあないですか…。…みっともない」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``......An adult at your age shouldn't be afraid of something like this... ...Disgraceful.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156233,
+		"TextJPN": "荒川は舞台中央で腰をぬかし、がたがた震えるだけ。",
+		"TextENG": "Arakawa is unable to stand up at the stage center,@rhe trembles."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156234,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1400.",
+		"TextJPN": "「……あれ、…ひょっとして失禁しました…？　……恥ずかしいなぁ…」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``......Or perhaps... maybe it's incontinence...? ......How embarrassing...``"
+	}
+]

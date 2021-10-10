@@ -1,1045 +1,1043 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "A6 デジャヴ",
-            "ENG": "A6 Deja-vu"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4004,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiA1001.",
-            "TextJPN": "「やぁ、中川くん！@k@vS20/00/VTK1_daigiA1002.　ずいぶんの久方ぶりになるね。@k@vS20/00/VTK1_daigiA1003.最近はやってるのかい？@k@vS20/00/VTK1_daigiA1004.　アレ。@k@vS20/00/VTK1_daigiA1005.わっはははははは」",
-            "NamesENG": "Congressman",
-            "TextENG": "``Hey, Nakagawa-kun!@k@vS20/00/VTK1_daigiA1002. Long time no see!@k@vS20/00/VTK1_daigiA1003. Still at it lately?@k@vS20/00/VTK1_daigiA1004. You know, that.@k@vS20/00/VTK1_daigiA1005. Waaahahahahahaha.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4005,
-            "NamesJPN": "中川",
-            "PreTextTags": "@vS20/00/VTK1_nakagawa1001.",
-            "TextJPN": "「いえいえ、もうさっぱりです。@k@vS20/00/VTK1_nakagawa1002.歳は取りたくないもんですなぁ」",
-            "NamesENG": "Nakagawa",
-            "TextENG": "``No, no, not at all.@k@vS20/00/VTK1_nakagawa1002. It's no fun getting old.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4006,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiA1006.",
-            "TextJPN": "「クレイやる時は集中してやらないとダメだよ。@k@vS20/00/VTK1_daigiA1007.あんまり間を空けすぎると勘が鈍っちゃって意味ない意味ない！」",
-            "NamesENG": "Congressman",
-            "TextENG": "``You've gotta concentrate when you work with clay.@k@vS20/00/VTK1_daigiA1007. If you put it off for a long time, your senses get dull, and there's no point!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4007,
-            "NamesJPN": "中川",
-            "PreTextTags": "@vS20/00/VTK1_nakagawa1003.",
-            "TextJPN": "「先生、ご紹介します。@k@vS20/00/VTK1_nakagawa1004.鷹野三佐です」",
-            "NamesENG": "Nakagawa",
-            "TextENG": "``Sensei, allow me to introduce someone.@k@vS20/00/VTK1_nakagawa1004. This is Major Takano.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4008,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/VTK1_takano1054.",
-            "TextJPN": "「初めまして。@k@vS20/09/VTK1_takano1055.本日はお忙しい中、お時間をお割きくださいまして、ありがとうございます」",
-            "NamesENG": "Takano",
-            "TextENG": "``Very nice to meet you.@k@vS20/09/VTK1_takano1055. Thank you for taking time to meet with me today. I truly appreciate it.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4009,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiA1008.",
-            "TextJPN": "「あぁ、別に君のために時間を割いたわけじゃない。@k@vS20/00/VTK1_daigiA1009.うまい生ウニが食わせてもらえるって話でねぇ！」",
-            "NamesENG": "Congressman",
-            "TextENG": "``Ah, I really didn't make time for you, actually.@k@vS20/00/VTK1_daigiA1009. I was told that I could have some good raw sea urchins!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4010,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiA1010.",
-            "TextJPN": "「ウニはいいんだよ君、ビタミンＡが豊富でね、お肌に特にいいんだとか。@k@vS20/00/VTK1_daigiA1011.女性は大好きでしょ、ウニ！@k@vS20/00/VTK1_daigiA1012.　わっはははははは！」",
-            "NamesENG": "Congressman",
-            "TextENG": "Sea urchins are good for you, did you know? Rich in vitamin A, and they are good for your skin.@k@vS20/00/VTK1_daigiA1011. Women like sea urchins, right?@k@vS20/00/VTK1_daigiA1012. Waaahahahahahaha!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4011,
-            "TextJPN": "ウニにビタミンＡが豊富なのは認めるが、それでもほうれん草なんかに比べたら騒ぐほどではない。",
-            "TextENG": "It is true that sea urchins are rich in vitamin A, but compared to spinach, it's not anything that's worth making a fuss about."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4012,
-            "TextJPN": "…いや、そんなことはどうでもいいか。",
-            "TextENG": "Well, none of that matters right now."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4013,
-            "TextJPN": "…何となく不快そうな男だったので、揚げ足が取りたくなっただけだ。",
-            "TextENG": "He just seemed like an unpleasant man, so I wanted to criticize him."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4014,
-            "TextJPN": "今日の男たちは、入江機関の予算を握っている、アルファベットプロジェクトの理事。",
-            "TextENG": "These men are the directors of the Alphabet Project who control the funding for the Irie Institute."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4015,
-            "TextJPN": "もしくはその理事に意見できる立場の人間たち。",
-            "TextENG": "They are also people who are in the position of being able to offer their opinions to those directors."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4016,
-            "TextJPN": "…早い話が、入江機関の新しい飼い主たちだ。",
-            "TextENG": "To put it in a simpler way, they are the new owners of the Irie Institute."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4017,
-            "TextJPN": "…だが、それ以上に、小泉のおじいちゃんほどではないにしても、各界の重鎮たちや黒幕たちでもある。",
-            "TextENG": "Although not as much as Uncle Koizumi was, they are also leaders and influencers in various fields."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4018,
-            "TextJPN": "粗相のないよう気をつけなくてはならない…。",
-            "TextENG": "I have to be very careful not to upset them."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4019,
-            "TextJPN": "そんな相手だから、私ごときが彼らを呼びつけることなどできるはずもない。",
-            "TextENG": "And therefore, there's no way I would have had the ability to call them in."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4020,
-            "TextJPN": "かつての小泉派のツテを使って、何とかこの機会を設けてもらったのだった。",
-            "TextENG": "By using the influence that the Koizumi faction once had, I finally managed to get this chance."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4021,
-            "TextJPN": "かつて、何から何まで私の思い通りになるよう、尽力してくれた小泉のおじいちゃんはもういない。",
-            "TextENG": "Uncle Koizumi, who gave me his full support and made everything go my way, is not here anymore."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4022,
-            "TextJPN": "…ここからは、本当の意味で私ひとりで切り拓いていかなくてはならないのだ。",
-            "TextENG": "I'm on my own from this point on, and I will open up a path."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4023,
-            "TextJPN": "だが、今日とて私の独り舞台ではない。",
-            "TextENG": "But this stage just doesn't belong to me today."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4024,
-            "TextJPN": "今日の場を設けてくれた人たちの顔を潰すことはできないので、私の出番が与えられるまで、じっとお酌して待っているしかない。",
-            "TextENG": "I can't let the people who offered me this chance lose face, so I have to wait patiently until it's my turn."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4025,
-            "TextJPN": "今日の私の最大の目的は、雛見沢症候群がどれだけ優れた研究対象であることかを説明し、研究の無期延長を求めるためだ。",
-            "TextENG": "My primary objective today is to explain what a prominent research subject the Hinamizawa Syndrome is, and acquire an indefinite extension for our research."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4026,
-            "TextJPN": "彼らはカネのことしか見えていないから、雛見沢症候群がどれだけのポテンシャルを秘めるかわかっていない。",
-            "TextENG": "They only ever think about money, so they aren't even realizing the hidden potential of Hinamizawa Syndrome."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4027,
-            "TextJPN": "それだけの高額な研究費を費やすべきものだとわかっていない。",
-            "TextENG": "They don't recognize that it's worth spending a lot of money on."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4028,
-            "TextJPN": "この研究は単なる未知の寄生虫の存在だけに限らず、さらに人類学の常識すら覆しかねない。",
-            "TextENG": "This is not mere research on the existence of an unknown parasite, but something that may overthrow the basic foundations of anthropology."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4029,
-            "TextJPN": "ノーベル賞だって讃えきれないほどのものなのだ。",
-            "TextENG": "A Nobel Prize wouldn't even be enough."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4030,
-            "TextJPN": "…それを無学な彼らに説明するのは難しいかもしれないが、やらなければならない。",
-            "TextENG": "......It won't be easy trying to explain all that to men who know nothing about any of it, but I have to."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4031,
-            "TextJPN": "そのために、素人を煙に巻くことがないよう、わかりやすい資料を今日まで相当の時間をかけて作り上げてきた。",
-            "TextENG": "That's why I spent many hours making these straightforward support documents."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4032,
-            "TextJPN": "…私たちは無知との接触を嫌うため、時にわざと煙に巻く資料を作ることがあるが、今回はそうではいけない。",
-            "TextENG": "Sometimes, we make documents confusing on purpose because we don't like dealing with uneducated people, but this time, it's different."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4033,
-            "TextJPN": "彼らを見下さず、真の意味で理解を求めなくてはいけないのだから。",
-            "TextENG": "I can't look down at them. I must sincerely try to make them understand."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4034,
-            "TextJPN": "そのために、わかりやすく作った資料は相当な量になってしまった。",
-            "TextENG": "The accessible support documents are there in a huge pile."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4035,
-            "TextJPN": "…本当は、こんなのんびりと懐石料理を摘んでいる暇も惜しい。",
-            "TextENG": "It feels like we're wasting time eating traditional Japanese food in such a relaxed mood."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4036,
-            "TextJPN": "早く本題に入って、彼らに理解できるよう懇切丁寧に説明したい。",
-            "TextENG": "I want to get to the point and explain to them in detail so they can understand."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4037,
-            "TextJPN": "…だが、慌てる乞食はもらいが少ないという諺もある。",
-            "TextENG": "...But there is the saying, ``luck lies in the last helping.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4038,
-            "TextJPN": "…今はじっと伏して待つしかない。",
-            "TextENG": "...I have to be patient right now."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4039,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiA1013.",
-            "TextJPN": "「うん。@k@vS20/00/VTK1_daigiA1014.正直ねぇ、これまでのアルファベットはあまりよくないと思うのです。@k@vS20/00/VTK1_daigiA1015.結局こいつは、未だ頭ん中が時代遅れの年寄りどものね、お砂場みたいなもんだったんですな」",
-            "NamesENG": "Congressman",
-            "TextENG": "``Hmm.@k@vS20/00/VTK1_daigiA1014. To be frank, I thought the Alphabet Project we've seen wasn't that good.@k@vS20/00/VTK1_daigiA1015. In the end, it's been nothing but a sandbox for the old men with their heads still stuck in the Pacific War.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4040,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiB1001.",
-            "TextJPN": "「年寄りどもが自分のじゃないカネで、過去の栄光を取り戻す夢を描くお砂場です。@k@vS20/00/VTK1_daigiB1002.そんな年寄りどもの妄想のために、一体どれだけの公金が垂れ流されたやら！」",
-            "NamesENG": "Congressman",
-            "TextENG": "``Nothing but a sandbox for those old men to craft their dreams of Imperial Japan's revival with money that isn't theirs.@k@vS20/00/VTK1_daigiB1002. Do you know how much public funding was wasted on those delusions?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4041,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiC1001.",
-            "TextJPN": "「聞いた話じゃ、奥野先生あたりが検察を突っついて、旧理事会を横領で追わせてるらしいですなぁ」",
-            "NamesENG": "Congressman",
-            "TextENG": "``From what I've heard, there are already prosecutors poking people like Okuno-sensei and trying to pin embezzlement on the old board of directors.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4042,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiA1016.",
-            "TextJPN": "「わっははははははは。@k@vS20/00/VTK1_daigiA1017.年寄りたちをヨイショしてウマイ汁を吸っていた連中の末路ですな。@k@vS20/00/VTK1_daigiA1018.もっとも、表沙汰にゃ出来んでしょうから、別件で引責、左遷といった形になるんでしょうが」",
-            "NamesENG": "Congressman",
-            "TextENG": "``Waahahahahahahaha.@k@vS20/00/VTK1_daigiA1017. That's what you get for trying to suck up to those old men.@k@vS20/00/VTK1_daigiA1018. Of course, none of it can be made public, so I guess they'll be held responsible or demoted in another form."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4043,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiA1019.",
-            "TextJPN": "「…いやはや、これも戦前の亡霊をずっと野放しにしていた日本のツケですな！@k@vS20/00/VTK1_daigiA1020.　いやぁ、この焼きウニの汁もたまらない！@k@vS20/00/VTK1_daigiA1021.　うっはははははは！」",
-            "NamesENG": "Congressman",
-            "TextENG": "This is what the country gets for letting these ghosts of the war run around freely all this time!@k@vS20/00/VTK1_daigiA1020. Boy, these grilled sea urchins are fantastic!!@k@vS20/00/VTK1_daigiA1021. Waaahahahahahaha!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4044,
-            "NamesJPN": "中川",
-            "PreTextTags": "@vS20/00/VTK1_nakagawa1005.",
-            "TextJPN": "「これは手厳しい…。@k@vS20/00/VTK1_nakagawa1006.そんな中で先生にこんなお願いをするのは非常～に何ですが。@k@vS20/00/VTK1_nakagawa1007.ひとつ、お時間を頂戴できればと思いまして…」",
-            "NamesENG": "Nakagawa",
-            "TextENG": "``Well, this is harsh...@k@vS20/00/VTK1_nakagawa1006. I realize it's extremely difficult to ask this of you all when you feel that way, but...@k@vS20/00/VTK1_nakagawa1007. Might I have a moment of your time?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4045,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiB1003.",
-            "TextJPN": "「えっと、入江機関さんでしたっけ？@k@vS20/00/VTK1_daigiB1004.　確か、長野だか岐阜の方で風土病の研究をされてるんでしたなぁ。@k@vS20/00/VTK1_daigiB1005.えっと、どういうことになってましたっけ？」",
-            "NamesENG": "Congressman",
-            "TextENG": "``Ehh, you're from the Irie Institute, aren't you?@k@vS20/00/VTK1_daigiB1004. You're researching some kind of local disease in Nagano or Gifu, right?@k@vS20/00/VTK1_daigiB1005. Uhh, what's going on down there?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4046,
-            "NamesJPN": "中川",
-            "PreTextTags": "@vS20/00/VTK1_nakagawa1008.",
-            "TextJPN": "「理事会の決定で、軍事転用研究が中止に。@k@vS20/00/VTK1_nakagawa1009.あと、研究そのものも三年以内に段階的終了に決定しています」",
-            "NamesENG": "Nakagawa",
-            "TextENG": "``The board has decided to halt the research for military applications.@k@vS20/00/VTK1_nakagawa1009. The research project itself is to wrap up within three years as well."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4047,
-            "NamesJPN": "中川",
-            "PreTextTags": "@vS20/00/VTK1_nakagawa1010.",
-            "TextJPN": "「…あ、いえ、これは継続協議中でした。@k@vS20/00/VTK1_nakagawa1011.まぁその、いずれにしましても、数年以内に閉鎖になる予定です」",
-            "NamesENG": "Nakagawa",
-            "TextENG": "Oh, no, sorry, that's still being discussed.@k@vS20/00/VTK1_nakagawa1011. Anyhow, our work is scheduled to be shut down within a few years.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4048,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiC1002.",
-            "TextJPN": "「あぁあぁ！@k@vS20/00/VTK1_daigiC1003.　思い出した思い出した。@k@vS20/00/VTK1_daigiC1004.入江機関さんは旧理事会でも評判が悪かったみたいですなぁ。@k@vS20/00/VTK1_daigiC1005.何しろ莫大な予算をほとんど無審査で吸い取ってましたからねぇ」",
-            "NamesENG": "Congressman",
-            "TextENG": "``Ah, yes!!@k@vS20/00/VTK1_daigiC1003. I remember now.@k@vS20/00/VTK1_daigiC1004. The Irie Institute had a bad reputation even among the old board of directors.@k@vS20/00/VTK1_daigiC1005. After all, it sucked up huge funds with barely any inspections.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4049,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiA1022.",
-            "TextJPN": "「某大先生がどういうわけかこのプロジェクトをやたら後押しされてたみたいでしてね。@k@vS20/00/VTK1_daigiA1023.その絡みもあって、結局、誰も文句が言えずに放置されてきたってのが実際のようです」",
-            "NamesENG": "Congressman",
-            "TextENG": "``I don't know why, but someone high up kept pushing for it for some reason.@k@vS20/00/VTK1_daigiA1023. Because of that, nobody could really say anything about it and it was left alone.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4050,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiB1006.",
-            "TextJPN": "「…まぁでもなぁ！@k@vS20/00/VTK1_daigiB1007.　某大先生は女癖が悪かったから、それもあったのかもしれませんなぁ、わっははははははは！」",
-            "NamesENG": "Congressman",
-            "TextENG": "``But you know,@k@vS20/00/VTK1_daigiB1007. that guy loved to flirt around with women, so maybe that had something to do with it, wahahahahhahahaha!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4051,
-            "TextJPN": "小泉のおじいちゃんが、公私混同の区別もつかない下卑野郎とでも言いたいのか。",
-            "TextENG": "Is he implying that I slept with Uncle Koizumi?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4052,
-            "TextJPN": "…私たち二人に対する侮辱も同然だった。",
-            "TextENG": "He's insulting both of us."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4053,
-            "TextJPN": "…だが、それをぐっと堪える。",
-            "TextENG": "But I held my anger in."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4054,
-            "TextJPN": "この程度のことで表情に出してはいけない。",
-            "TextENG": "I can't let myself be bothered by something like this."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4055,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/VTK1_takano1056.",
-            "TextJPN": "「…それで本日は、当機関の研究内容について説明させていただき、当機関に対する理事会の決定について、どうかご再考をお願いしたいと思いまして、お時間を頂戴させていただきました」",
-            "NamesENG": "Takano",
-            "TextENG": "``......Anyway, today, I would like to explain to you the details of our Institute's research and ask you to reconsider your decision."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4056,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/VTK1_takano1057.",
-            "TextJPN": "「本日はこのような場へご多忙な中、お越しいただきましたことを深く御礼申し上げます…」",
-            "NamesENG": "Takano",
-            "TextENG": "I truly appreciate you taking the time out of your busy schedule to attend this meeting today.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4057,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiA1024.",
-            "TextJPN": "「まぁ、タダでウニが出て来るわけはないってことですな！@k@vS20/00/VTK1_daigiA1025.　わっはははははは！」",
-            "NamesENG": "Congressman",
-            "TextENG": "``Well, I guess they don't give out free sea urchins for nothing, huh?@k@vS20/00/VTK1_daigiA1025. Waahahahahahaha!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4058,
-            "TextJPN": "私は、雛見沢症候群の存在が、どれだけ重要な意味を持つかを性急にならないよう注意しながら説明した。",
-            "TextENG": "I explained to them how much the Hinamizawa Syndrome mattered while being very careful not to go too fast."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4059,
-            "TextJPN": "雛見沢症候群のポテンシャルは、軍事転用などという瑣末なレベルに囚われず、もっともっと重要な意味を持つということ。",
-            "TextENG": "I tried to let them know that the syndrome's potential is not limited to small things like military applications, but is much more meaningful than that."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4060,
-            "TextJPN": "…イデオロギーや宗教などすらも説明しかねないこと。",
-            "TextENG": "It may explain ideology and religion."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4061,
-            "TextJPN": "そもそもの人類の定義すらも揺るがしかねないということを。",
-            "TextENG": "It may even shake the very definition of a human being."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4062,
-            "TextJPN": "時間をかけてゆっくりと説明した。",
-            "TextENG": "I took my time to explain as slowly and clearly as possible."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4063,
-            "TextJPN": "それらの全てが、この品のない男たちに伝わった自信はないが、理解してくれるならば何割でも構わない。",
-            "TextENG": "I'm not confident that all of it had gotten through to those boorish men, but I'm happy if they understood even just a part of it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4064,
-            "TextJPN": "…雛見沢症候群がどれだけ偉大な発見なのかが理解してもらえればいいのだ…。",
-            "TextENG": "As long as they understand how much of a magnificent discovery Hinamizawa Syndrome really is."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4065,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiA1026.",
-            "TextJPN": "「ありがとう三佐。@k@vS20/00/VTK1_daigiA1027.……ふぅむ、なるほど。@k@vS20/00/VTK1_daigiA1028.…ふぅむ」",
-            "NamesENG": "Congressman",
-            "TextENG": "``Thank you, Major.@k@vS20/00/VTK1_daigiA1027. ...Hmmm, I see.@k@vS20/00/VTK1_daigiA1028. ...Hmm.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4066,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiB1008.",
-            "TextJPN": "「ちょっと検討をしたいので、三佐には一度下がってもらってよろしいですかな？」",
-            "NamesENG": "Congressman",
-            "TextENG": "``We would like to discuss among ourselves, so could you please excuse yourself?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4067,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/VTK1_takano1058.",
-            "TextJPN": "「…はい。@k@vS20/09/VTK1_takano1059.それでは失礼させていただきます」",
-            "NamesENG": "Takano",
-            "TextENG": "``...Yes.@k@vS20/09/VTK1_takano1059. Thank you.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4068,
-            "TextJPN": "当事者の前では議論できないのは当然だろう。",
-            "TextENG": "Obviously, they can't discuss in front of me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4069,
-            "TextJPN": "…資料は全て預けた。",
-            "TextENG": "I left all the documents with them."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4070,
-            "TextJPN": "後は彼らがそれを好意的に汲み取ってくれることを期待するだけだ。",
-            "TextENG": "All I could do now was hope they viewed them favorably."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4071,
-            "TextJPN": "私は退室して襖を閉めた。",
-            "TextENG": "I left the room and closed the sliding door."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4072,
-            "TextJPN": "…隣に控え用の部屋を取ってあるのでそちらへ行く。",
-            "TextENG": "The room next door is a preparation room, so I was to head there."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4073,
-            "TextJPN": "が、…足を止める。",
-            "TextENG": "But I stopped."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4074,
-            "TextJPN": "…本当はマナー違反なのだが、襖越しにそっと耳を澄ました…。",
-            "TextENG": "...I shouldn't have done it, but I tried to listen in through the sliding door."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4075,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiA1029.",
-            "TextJPN": "「こりゃあ…、わはははは、何と言いますか。@k@vS20/00/VTK1_daigiA1030.前理事の皆さんも気の毒としか言い様がありませんなぁ」",
-            "NamesENG": "Congressman",
-            "TextENG": "``Well... wahahahaha, I don't know what to say.@k@vS20/00/VTK1_daigiA1030. I feel sorry for everyone on the previous board of directors.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4076,
-            "NamesJPN": "中川",
-            "PreTextTags": "@vS20/00/VTK1_nakagawa1012.",
-            "TextJPN": "「…いや、はははは。@k@vS20/00/VTK1_nakagawa1013.小泉先生がですね、非常に強く推されていまして…」",
-            "NamesENG": "Nakagawa",
-            "TextENG": "``...I know how you feel, hahahaha.@k@vS20/00/VTK1_nakagawa1013. Koizumi-sensei pushed this so strongly...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4077,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiB1009.",
-            "TextJPN": "「小泉先生には、ローウェル製薬日本法人の初代顧問に就任された時に一度お会いし、とても聡明な方だなぁという印象を強く持っていたのですが、…ん～」",
-            "NamesENG": "Congressman",
-            "TextENG": "``I met him once before, when he became founding director of Lowell Pharmaceuticals. He seemed like a very intelligent person to me... Hmmm...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4078,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiC1006.",
-            "TextJPN": "「人間、歳には勝てないということですな！@k@vS20/00/VTK1_daigiC1007.　何事も、引き際が肝心だと思い知らされますよ」",
-            "NamesENG": "Congressman",
-            "TextENG": "``I guess you just can't win against age!@k@vS20/00/VTK1_daigiC1007. It makes you realize how important it is for humans to know when to pull out.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4079,
-            "NamesJPN": "中川",
-            "PreTextTags": "@vS20/00/VTK1_nakagawa1014.",
-            "TextJPN": "「ただですね、雛見沢症候群という非常に珍しい病気があるのは事実でございまして。@k@vS20/00/VTK1_nakagawa1015.決して全てが全て妄想というわけではありませんでして…」",
-            "NamesENG": "Nakagawa",
-            "TextENG": "``But it is a fact that this very rare disease called Hinamizawa Syndrome really exists.@k@vS20/00/VTK1_nakagawa1015. So not everything is a delusion...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4080,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiB1010.",
-            "TextJPN": "「入江機関はすでに病気の解明と治療薬の開発に成功しているというじゃありませんか。@k@vS20/00/VTK1_daigiB1011.それで充分ですよ」",
-            "NamesENG": "Congressman",
-            "TextENG": "``I hear the Irie Institute has already succeeded in identifying the disease and developing a treatment?@k@vS20/00/VTK1_daigiB1011. Isn't that enough?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4081,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiC1008.",
-            "TextJPN": "「現代日本にとって、周辺諸国を過敏にさせる件については厳に慎むべきです。@k@vS20/00/VTK1_daigiC1009.中でも軍事分野はもっとも敏感と言えるでしょう」",
-            "NamesENG": "Congressman",
-            "TextENG": "``In modern Japan, we have to be careful with things that might make neighboring countries nervous.@k@vS20/00/VTK1_daigiC1009. And military-related issues are the most sensitive ones."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4082,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiC1010.",
-            "TextJPN": "「少なくとも、数年間にわたり軍事目的の研究がされていた事実は直ちに抹消しなくてはなりません」",
-            "NamesENG": "Congressman",
-            "TextENG": "So, at the very least, we must erase the fact that research for military purposes has been going on for the past few years immediately.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4083,
-            "NamesJPN": "中川",
-            "PreTextTags": "@vS20/00/VTK1_nakagawa1016.",
-            "TextJPN": "「それは軍事研究の中止とは別に？」",
-            "NamesENG": "Nakagawa",
-            "TextENG": "``Is that separate from simply discontinuing the military research, then?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4084,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiC1011.",
-            "TextJPN": "「そうです。@k@vS20/00/VTK1_daigiC1012.雛見沢症候群は生物兵器開発のための研究という事実は、直ちに研究を中止したとしても残ります」",
-            "NamesENG": "Congressman",
-            "TextENG": "``Yes.@k@vS20/00/VTK1_daigiC1012. Even if we stopped it immediately, the fact that this Hinamizawa Syndrome was being researched in order to create a biological weapon remains."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4085,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiC1013.",
-            "TextJPN": "「雛見沢症候群を、目的は何であれ研究した事実は厳重に隠蔽されなければなりません。@k@vS20/00/VTK1_daigiC1014.…できれば、雛見沢症候群そのものがなくなってしまうのが好ましい」",
-            "NamesENG": "Congressman",
-            "TextENG": "We should hide that fact no matter what purpose the research ends up being used for.@k@vS20/00/VTK1_daigiC1014. If possible, it would be best if Hinamizawa Syndrome just disappears.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4086,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiB1012.",
-            "TextJPN": "「ですな。@k@vS20/00/VTK1_daigiB1013.病気が残れば、やがては関心を持つものが現れ、せっかく埋めた穴をわざわざ掘り返す輩が現れないとも限りません」",
-            "NamesENG": "Congressman",
-            "TextENG": "``That's true.@k@vS20/00/VTK1_daigiB1013. If the disease remains, then sooner or later, someone will become curious about it and dig up the hole we filled."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4087,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiB1014.",
-            "TextJPN": "「理事会の決定通り、入江機関は病気を撲滅させ次第、研究の痕跡を全て消した上で解散させるのが良いでしょう」",
-            "NamesENG": "Congressman",
-            "TextENG": "I think we should follow the decision of the board of directors, and as soon as the Irie Institute eradicates this disease, we should have them destroy all evidence of their work before disbanding.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4088,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiA1031.",
-            "TextJPN": "「ふむ。@k@vS20/00/VTK1_daigiA1032.やはりそういう結論に行き着きますな。@k@vS20/00/VTK1_daigiA1033.ノーベル賞が取れるかどうかが問題ではなく、戦後日本にとって無用な研究だということです」",
-            "NamesENG": "Congressman",
-            "TextENG": "``Hmm...@k@vS20/00/VTK1_daigiA1032. I guess that's for the best.@k@vS20/00/VTK1_daigiA1033. It's not even a matter of a Nobel Prize. It's just useless for post-war Japan.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4089,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiA1034.",
-            "TextJPN": "「そもそも、大昔から存在し、特に異常もなくやってこれたわけでしょう。@k@vS20/00/VTK1_daigiA1035.藪を突っつく研究なのではと当初から思っていました」",
-            "NamesENG": "Congressman",
-            "TextENG": "``Besides, this disease has existed for hundreds of years, right? And we've made it this far without any problems.@k@vS20/00/VTK1_daigiA1035. From the start, I thought this amounted to little more than just poking around in the bushes.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4090,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiB1015.",
-            "TextJPN": "「同感ですな。@k@vS20/00/VTK1_daigiB1016.雛見沢症候群という病気の存在自体は疑わないが、…この、高野という第一発見者は、少々この病気を脚色し過ぎですな！」",
-            "NamesENG": "Congressman",
-            "TextENG": "``Me too.@k@vS20/00/VTK1_daigiB1016. I don't doubt the existence of the syndrome, but Dr. Takano, who discovered the disease, is exaggerating more than a little!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4091,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiB1017.",
-            "TextJPN": "「私も資料を読みながら、ユニークな発想をする人だなぁと思っておりました。@k@vS20/00/VTK1_daigiB1018.第一、寄生虫で人の思想が染まるなんて、聞いたことがない。@k@vS20/00/VTK1_daigiB1019.そりゃいくらなんでも、酷すぎる」",
-            "NamesENG": "Congressman",
-            "TextENG": "``He had quite a unique interpretation of things.@k@vS20/00/VTK1_daigiB1018. First of all, I've never heard of a parasite that's capable of controlling people's thoughts.@k@vS20/00/VTK1_daigiB1019. It's just too much.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4092,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiC1015.",
-            "TextJPN": "「動物の脳に寄生する寄生虫がいるなら、たまには人間の脳に寄生する寄生虫がいてもいいとは思う」",
-            "NamesENG": "Congressman",
-            "TextENG": "``If there are parasites that live in animal brains, then I guess we can say there are parasites that live in human brains too."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4093,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiC1016.",
-            "TextJPN": "「しかし、その寄生虫が思想や人格までもコントロールする可能性なんてのは、わっははははは！@k@vS20/00/VTK1_daigiC1017.　さすがにこりゃちょっとユニーク過ぎます」",
-            "NamesENG": "Congressman",
-            "TextENG": "But for them to control human thoughts? Wahahahahaha!!@k@vS20/00/VTK1_daigiC1017. That's a bit too unique, you know.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4094,
-            "TextJPN": "…襖の隙間からそれを覗いていた私は、…不思議な既視感に囚われていた。",
-            "TextENG": "...As I peeked in through the gap in the sliding door, I became trapped within an unbelievable sense of deja vu."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4095,
-            "TextJPN": "初めて経験することのはずなのに、…初めてじゃない気がする。",
-            "TextENG": "This is my first time experiencing this, but it doesn't feel that way."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4096,
-            "TextJPN": "よくわからないけれど、その思い出はとても悲しくて、苦々しくて、…あれ、……あれあれ…？",
-            "TextENG": "I don't know why, but the memory is so sad and so painful... Huh? ......Huh?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4097,
-            "TextJPN": "なんで、…涙が…。",
-            "TextENG": "Why... tears?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4098,
-            "TextJPN": "気付けば、…襖の向こうはいつの間にか畳みの部屋じゃなく、…とてもとても懐かしい絨毯の部屋に。",
-            "TextENG": "Before I realized it, I saw a very nostalgic carpeted room on the other side of the sliding door instead of a room covered in tatami mats."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4099,
-            "TextJPN": "埃の臭いと、何かの薬品の揮発した臭いの混じった、へんてこだけど、とても居心地のいいあの空気が漏れ出してくるあの部屋に。",
-            "TextENG": "The room is filled with the smell of dust mixed with the smell of some evaporated medicine, but it's very soothing to me just the same."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4100,
-            "TextJPN": "そこには、……本当に懐かしい祖父の姿が。",
-            "TextENG": "And there...... is my grandfather."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4101,
-            "TextJPN": "心をこめて書いた論文を扱き下ろされ、…涙を見せることも許されなかった、祖父の姿が。",
-            "TextENG": "His article that he poured his heart into was made a mockery of, yet he wasn't even allowed to cry..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4102,
-            "TextJPN": "それは幻なんかじゃない。",
-            "TextENG": "This isn't a delusion."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4103,
-            "TextJPN": "…だって、今日、彼らに託した資料の中には、祖父が書いた論文の引用がたくさん含まれている。",
-            "TextENG": "Because within the documents I left with those men, there are a lot of references to the article my grandfather wrote."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4104,
-            "TextJPN": "…だから、そこに祖父がいて、彼らに説明してくれていたとしても何の不思議もなかった。",
-            "TextENG": "So I'm not surprised for my grandfather to be standing right there, explaining it to them himself."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4105,
-            "TextJPN": "…そして私は、祖父の懐かしい姿に涙すると共に、…その偉業を蔑み、馬鹿にする彼らの悲しき悪口雑言を目にした…。",
-            "TextENG": "...Together with my tears from seeing the sight of my beloved grandfather, I watched these men insult and belittle his masterpiece."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4106,
-            "TextJPN": "確かに一度あった光景。",
-            "TextENG": "I have seen this sight before."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4107,
-            "TextJPN": "そして一度で終わった光景のはず…。",
-            "TextENG": "And the sight should have ended there."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4108,
-            "TextJPN": "なのに、なぜか同じ光景が再び目の前で繰り返されていて…。",
-            "TextENG": "But why is it repeating before my eyes?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4109,
-            "TextJPN": "私は現実と幻が重なり合う、その奇妙な世界を襖越しに覗き、呆然としているしかない。",
-            "TextENG": "I can only blankly peek through the sliding door at this strange world where reality and illusion overlap."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4110,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiA1036.",
-            "TextJPN": "「あの三佐もちょいとおかしいし、@k@vS20/00/VTK1_daigiA1037.こんな世迷言を信じた小泉先生もおかしいが、…@k@vS20/00/VTK1_daigiA1038.やはりこの第一発見者の論文が一番おかしいですな」",
-            "NamesENG": "Congressman",
-            "TextENG": "``The Major is a little strange@k@vS20/00/VTK1_daigiA1037. and Koizumi-sensei, who believed in something as ridiculous as this, is a little strange too...@k@vS20/00/VTK1_daigiA1038. But the strangest one of all is the person who wrote this article in the first place.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4111,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiB1020.",
-            "TextJPN": "「期待と妄想が入り混じっていて、これは論文というより創作の次元ですな。@k@vS20/00/VTK1_daigiB1021.というか、これはこのままどこかの出版社に持ち込んで本にした方が受けると思いますよ」",
-            "NamesENG": "Congressman",
-            "TextENG": "``It blends together expectations and delusions, and looks more like fiction than a thesis.@k@vS20/00/VTK1_daigiB1021. I think this will be a big hit once it gets published, you know.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4112,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiA1039.",
-            "TextJPN": "「確かに確かに！@k@vS20/00/VTK1_daigiA1040.　私の友人に出版社の社長やってるのが居てね。@k@vS20/00/VTK1_daigiA1041.きっと面白がって読んでくれると思いますよ。@k@vS20/00/VTK1_daigiA1042.わはははははは！」",
-            "NamesENG": "Congressman",
-            "TextENG": "``You're absolutely right!@k@vS20/00/VTK1_daigiA1040. I have a friend who's the head of a publishing company.@k@vS20/00/VTK1_daigiA1041. I bet he'll love this!@k@vS20/00/VTK1_daigiA1042. Wahahahahahaha!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4113,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiC1018.",
-            "TextJPN": "「笑い事ではありませんぞ、皆様方。@k@vS20/00/VTK1_daigiC1019.このとんでもない研究がまかり通って、巨額の予算が数年間にもわたって投じられていたのですからな」",
-            "NamesENG": "Congressman",
-            "TextENG": "``This is not a laughing matter, gentlemen.@k@vS20/00/VTK1_daigiC1019. A huge amount of money was poured into this over the past few years."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4114,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiC1020.",
-            "TextJPN": "「…特に酷いのは、万一の場合に備えて相当危険な機材を用意している、という点です。@k@vS20/00/VTK1_daigiC1021.これは絶対に国民に知られてはならないことです」",
-            "NamesENG": "Congressman",
-            "TextENG": "The worst thing is that the equipment used to gas the villagers in case of an emergency have already been procured.@k@vS20/00/VTK1_daigiC1021. Our people must never learn about this.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4115,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiA1043.",
-            "TextJPN": "「計画が存在しただけでも恐ろしいのに、『終末作戦』なんて緊急措置の存在を知られてしまったら国外はおろか、国内世論も敵に回すことになるだろうねぇ！」",
-            "NamesENG": "Congressman",
-            "TextENG": "``For such a plan to exist is scary enough, but if people find out about this equipment, the whole country will turn against us."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4116,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiA1044.",
-            "TextJPN": "「しかも、その機材の維持費がすごいことになってるじゃないか…！」",
-            "NamesENG": "Congressman",
-            "TextENG": "On top of that, the cost to maintain this equipment is enormous!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4117,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiB1022.",
-            "TextJPN": "「そんなの、本当に維持費にしてるわけないじゃないですか。@k@vS20/00/VTK1_daigiB1023.そういう名目にしてトンネルしてる架空プロジェクトでしょ、どうせ」",
-            "NamesENG": "Congressman",
-            "TextENG": "``You don't really think it's being maintained, do you?@k@vS20/00/VTK1_daigiB1023. Surely this whole project is some kind of money laundering scheme."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4118,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiC1022.",
-            "TextJPN": "「大体、何でしたっけ？@k@vS20/00/VTK1_daigiC1023.　少女が１人死ぬだけで村人が一斉に異常行動を起こす病気なんてあなた、どこの漫画の話ですか」",
-            "NamesENG": "Congressman",
-            "TextENG": "What did they say, anyway?@k@vS20/00/VTK1_daigiC1023. If one girl dies, the whole village will go crazy at once? What kind of comic book is this?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4119,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiB1024.",
-            "TextJPN": "「まったくまったく！@k@vS20/00/VTK1_daigiB1025.　こんな子供騙しを鵜呑みにして巨額の予算を垂れ流すとは、つくづくイカンと思いますなぁ！@k@vS20/00/VTK1_daigiB1026.　こんな資料を真に受ける連中がいるというんだから、実に馬鹿馬鹿しいことです！」",
-            "NamesENG": "Congressman",
-            "TextENG": "``Exactly!@k@vS20/00/VTK1_daigiB1025. Someone actually believed such a childish story and put a huge amount of money into it. Now that's crazy!@k@vS20/00/VTK1_daigiB1026. What's truly ridiculous is that someone actually took these documents seriously!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4120,
-            "TextJPN": "そう言いながら、大袈裟なジェスチャーをしながら乱暴に資料を置く。",
-            "TextENG": "As he said that, he placed the documents down with an exaggerated gesture."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4121,
-            "TextJPN": "…置いたというよりは、叩き付けたというのが正解かもしれない。",
-            "TextENG": "Actually, I should say he slammed them down."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4122,
-            "TextJPN": "だって、資料の束が綺麗に置かれず、周りに舞うように散ったから。",
-            "TextENG": "Because the papers ended up scattered all over the floor."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4123,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiA1045.",
-            "TextJPN": "「ですよなぁ、わははははは！@k@vS20/00/VTK1_daigiA1046.　あ、ちょいと失礼。@k@vS20/00/VTK1_daigiA1047.お手洗いに！」",
-            "NamesENG": "Congressman",
-            "TextENG": "``You're too right, wahahahahaha!!@k@vS20/00/VTK1_daigiA1046. Ah, excuse me,@k@vS20/00/VTK1_daigiA1047. I need to use the bathroom.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4124,
-            "TextJPN": "そう言って立ち上がった男が、…ぐしゃりと、それを踏む。",
-            "TextENG": "One of the men stood up and stepped on the papers."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4125,
-            "TextJPN": "それは、畳の上の資料ではなく、……絨毯の上の、祖父の論文だった。",
-            "TextENG": "And they weren't the papers on the tatami mats, but the ones on the carpet."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4126,
-            "TextJPN": "そこには…、胸が張り裂けんばかりの悲しみで満たされた祖父がいた。",
-            "TextENG": "Right there, I can see my grandfather filled with heart-rending sadness."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4127,
-            "TextJPN": "なのに、それを表情に出せない祖父がいた。",
-            "TextENG": "Yet, he can't let it show on his face."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4128,
-            "TextJPN": "祖父の表情は、変わったようには見えなかった。",
-            "TextENG": "Grandfather's expression didn't change."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4129,
-            "TextJPN": "…でも、…私には歪んで見えた。",
-            "TextENG": "...Yet, it seemed distorted to me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4130,
-            "TextJPN": "祖父の背負う書斎の壁が、ぐにゃりと悲しく歪むのが確かに見えた。",
-            "TextENG": "I could see the walls of my grandfather's study crumpling and twisting behind him."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4131,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/VTK1_takano1060.",
-            "TextJPN": "「…………ッ！！！」",
-            "NamesENG": "Takano",
-            "TextENG": "``.........!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4132,
-            "TextJPN": "私は飛び出していた。",
-            "TextENG": "I jumped into the room."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4133,
-            "TextJPN": "…そして老紳士の足に組み付く。",
-            "TextENG": "I grabbed onto the man's legs."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4134,
-            "TextJPN": "彼が憎いんじゃない。",
-            "TextENG": "I don't hate him."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4135,
-            "TextJPN": "いや、憎いか憎くないかと言われたらもちろん憎いのだが…、そんなことじゃない、そんなことじゃない。",
-            "TextENG": "No, it's not whether I hate him or not. Sure, I hate him, but that's not it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4136,
-            "TextJPN": "祖父の論文を踏みつける足が許せなかったのだ。",
-            "TextENG": "I just can't forgive the feet stepping on my grandfather's article."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4137,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/VTK1_takano1061.",
-            "TextJPN": "「踏まないで…！！@k@vS20/09/VTK1_takano1062.　踏まないで…ッ！！@k@vS20/09/VTK1_takano1063.　おじいちゃんが頑張って書いたんだから、…足で踏んだりしないで…ッ！！」",
-            "NamesENG": "Takano",
-            "TextENG": "``Don't!!@k@vS20/09/VTK1_takano1062. Don't step on them!!@k@vS20/09/VTK1_takano1063. My grandpa wrote these. Please don't step on them!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4138,
-            "NamesJPN": "代議士",
-            "PreTextTags": "@vS20/00/VTK1_daigiA1048.",
-            "TextJPN": "「…っと、…ぅわ、…失礼……」",
-            "NamesENG": "Congressman",
-            "TextENG": "``...Uh, oh... sorry......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4139,
-            "TextJPN": "私は未だ踏みにじり続ける、その足を、散らばった紙面から退かしたかった。",
-            "TextENG": "Those feet are still stepping on the papers. I tried to make them move."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4140,
-            "TextJPN": "…でも、それは根が生えたように頑丈で、私ごときが押したり引いたりするだけでは決して退こうとはしなかった。",
-            "TextENG": "But they won't even budge, as though they've grown roots."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4141,
-            "TextJPN": "だからその足にしがみ付いて、懇願した。",
-            "TextENG": "So I begged as I grabbed onto his legs."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4142,
-            "TextJPN": "足の裏から踏まれた論文を引き抜こうとして引っ張った。",
-            "TextENG": "I tried to pull the papers from under his feet."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4143,
-            "TextJPN": "でも、足が退かせない、論文が引き抜けない…。",
-            "TextENG": "But I can't move his feet. I can't pull out the papers."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4144,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/VTK1_takano1064.",
-            "TextJPN": "「踏まないでぇ…、踏まないでぇえぇ…。@k@vS20/09/VTK1_takano1065.おじいちゃんのを、ふ、…踏まないでぇえぇぇぇ…ぇ……」",
-            "NamesENG": "Takano",
-            "TextENG": "``Don't step on them... don't step on them...@k@vS20/09/VTK1_takano1065. My grandpa's... don't ...don't step on them...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4145,
-            "TextJPN": "シンと静まり返った部屋には、私のすすり泣く声だけが響き渡っていた。",
-            "TextENG": "My sobbing echoed in that silent room."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4146,
-            "TextJPN": "…あの時と同じに…。",
-            "TextENG": "Just like it did back then..."
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "A6 デジャヴ",
+		"ENG": "A6 Deja-vu"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4004,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiA1001.",
+		"TextJPN": "「やぁ、中川くん！@k@vS20/00/VTK1_daigiA1002.　ずいぶんの久方ぶりになるね。@k@vS20/00/VTK1_daigiA1003.最近はやってるのかい？@k@vS20/00/VTK1_daigiA1004.　アレ。@k@vS20/00/VTK1_daigiA1005.わっはははははは」",
+		"NamesENG": "Congressman",
+		"TextENG": "``Hey, Nakagawa-kun!@k@vS20/00/VTK1_daigiA1002. Long time no see!@k@vS20/00/VTK1_daigiA1003. Still at it lately?@k@vS20/00/VTK1_daigiA1004. You know, that.@k@vS20/00/VTK1_daigiA1005. Waaahahahahahaha.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4005,
+		"NamesJPN": "中川",
+		"PreTextTags": "@vS20/00/VTK1_nakagawa1001.",
+		"TextJPN": "「いえいえ、もうさっぱりです。@k@vS20/00/VTK1_nakagawa1002.歳は取りたくないもんですなぁ」",
+		"NamesENG": "Nakagawa",
+		"TextENG": "``No, no, not at all.@k@vS20/00/VTK1_nakagawa1002. It's no fun getting old.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4006,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiA1006.",
+		"TextJPN": "「クレイやる時は集中してやらないとダメだよ。@k@vS20/00/VTK1_daigiA1007.あんまり間を空けすぎると勘が鈍っちゃって意味ない意味ない！」",
+		"NamesENG": "Congressman",
+		"TextENG": "``You've gotta concentrate when you work with clay.@k@vS20/00/VTK1_daigiA1007. If you put it off for a long time, your senses get dull, and there's no point!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4007,
+		"NamesJPN": "中川",
+		"PreTextTags": "@vS20/00/VTK1_nakagawa1003.",
+		"TextJPN": "「先生、ご紹介します。@k@vS20/00/VTK1_nakagawa1004.鷹野三佐です」",
+		"NamesENG": "Nakagawa",
+		"TextENG": "``Sensei, allow me to introduce someone.@k@vS20/00/VTK1_nakagawa1004. This is Major Takano.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4008,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/VTK1_takano1054.",
+		"TextJPN": "「初めまして。@k@vS20/09/VTK1_takano1055.本日はお忙しい中、お時間をお割きくださいまして、ありがとうございます」",
+		"NamesENG": "Takano",
+		"TextENG": "``Very nice to meet you.@k@vS20/09/VTK1_takano1055. Thank you for taking time to meet with me today. I truly appreciate it.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4009,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiA1008.",
+		"TextJPN": "「あぁ、別に君のために時間を割いたわけじゃない。@k@vS20/00/VTK1_daigiA1009.うまい生ウニが食わせてもらえるって話でねぇ！」",
+		"NamesENG": "Congressman",
+		"TextENG": "``Ah, I really didn't make time for you, actually.@k@vS20/00/VTK1_daigiA1009. I was told that I could have some good raw sea urchins!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4010,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiA1010.",
+		"TextJPN": "「ウニはいいんだよ君、ビタミンＡが豊富でね、お肌に特にいいんだとか。@k@vS20/00/VTK1_daigiA1011.女性は大好きでしょ、ウニ！@k@vS20/00/VTK1_daigiA1012.　わっはははははは！」",
+		"NamesENG": "Congressman",
+		"TextENG": "Sea urchins are good for you, did you know? Rich in vitamin A, and they are good for your skin.@k@vS20/00/VTK1_daigiA1011. Women like sea urchins, right?@k@vS20/00/VTK1_daigiA1012. Waaahahahahahaha!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4011,
+		"TextJPN": "ウニにビタミンＡが豊富なのは認めるが、それでもほうれん草なんかに比べたら騒ぐほどではない。",
+		"TextENG": "It is true that sea urchins are rich in vitamin A, but compared to spinach, it's not anything that's worth making a fuss about."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4012,
+		"TextJPN": "…いや、そんなことはどうでもいいか。",
+		"TextENG": "Well, none of that matters right now."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4013,
+		"TextJPN": "…何となく不快そうな男だったので、揚げ足が取りたくなっただけだ。",
+		"TextENG": "He just seemed like an unpleasant man, so I wanted to criticize him."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4014,
+		"TextJPN": "今日の男たちは、入江機関の予算を握っている、アルファベットプロジェクトの理事。",
+		"TextENG": "These men are the directors of the Alphabet Project who control the funding for the Irie Institute."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4015,
+		"TextJPN": "もしくはその理事に意見できる立場の人間たち。",
+		"TextENG": "They are also people who are in the position of being able to offer their opinions to those directors."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4016,
+		"TextJPN": "…早い話が、入江機関の新しい飼い主たちだ。",
+		"TextENG": "To put it in a simpler way, they are the new owners of the Irie Institute."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4017,
+		"TextJPN": "…だが、それ以上に、小泉のおじいちゃんほどではないにしても、各界の重鎮たちや黒幕たちでもある。",
+		"TextENG": "Although not as much as Uncle Koizumi was, they are also leaders and influencers in various fields."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4018,
+		"TextJPN": "粗相のないよう気をつけなくてはならない…。",
+		"TextENG": "I have to be very careful not to upset them."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4019,
+		"TextJPN": "そんな相手だから、私ごときが彼らを呼びつけることなどできるはずもない。",
+		"TextENG": "And therefore, there's no way I would have had the ability to call them in."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4020,
+		"TextJPN": "かつての小泉派のツテを使って、何とかこの機会を設けてもらったのだった。",
+		"TextENG": "By using the influence that the Koizumi faction once had, I finally managed to get this chance."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4021,
+		"TextJPN": "かつて、何から何まで私の思い通りになるよう、尽力してくれた小泉のおじいちゃんはもういない。",
+		"TextENG": "Uncle Koizumi, who gave me his full support and made everything go my way, is not here anymore."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4022,
+		"TextJPN": "…ここからは、本当の意味で私ひとりで切り拓いていかなくてはならないのだ。",
+		"TextENG": "I'm on my own from this point on, and I will open up a path."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4023,
+		"TextJPN": "だが、今日とて私の独り舞台ではない。",
+		"TextENG": "But this stage just doesn't belong to me today."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4024,
+		"TextJPN": "今日の場を設けてくれた人たちの顔を潰すことはできないので、私の出番が与えられるまで、じっとお酌して待っているしかない。",
+		"TextENG": "I can't let the people who offered me this chance lose face, so I have to wait patiently until it's my turn."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4025,
+		"TextJPN": "今日の私の最大の目的は、雛見沢症候群がどれだけ優れた研究対象であることかを説明し、研究の無期延長を求めるためだ。",
+		"TextENG": "My primary objective today is to explain what a prominent research subject the Hinamizawa Syndrome is, and acquire an indefinite extension for our research."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4026,
+		"TextJPN": "彼らはカネのことしか見えていないから、雛見沢症候群がどれだけのポテンシャルを秘めるかわかっていない。",
+		"TextENG": "They only ever think about money, so they aren't even realizing the hidden potential of Hinamizawa Syndrome."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4027,
+		"TextJPN": "それだけの高額な研究費を費やすべきものだとわかっていない。",
+		"TextENG": "They don't recognize that it's worth spending a lot of money on."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4028,
+		"TextJPN": "この研究は単なる未知の寄生虫の存在だけに限らず、さらに人類学の常識すら覆しかねない。",
+		"TextENG": "This is not mere research on the existence of an unknown parasite, but something that may overthrow the basic foundations of anthropology."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4029,
+		"TextJPN": "ノーベル賞だって讃えきれないほどのものなのだ。",
+		"TextENG": "A Nobel Prize wouldn't even be enough."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4030,
+		"TextJPN": "…それを無学な彼らに説明するのは難しいかもしれないが、やらなければならない。",
+		"TextENG": "......It won't be easy trying to explain all that to men who know nothing about any of it, but I have to."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4031,
+		"TextJPN": "そのために、素人を煙に巻くことがないよう、わかりやすい資料を今日まで相当の時間をかけて作り上げてきた。",
+		"TextENG": "That's why I spent many hours making these straightforward support documents."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4032,
+		"TextJPN": "…私たちは無知との接触を嫌うため、時にわざと煙に巻く資料を作ることがあるが、今回はそうではいけない。",
+		"TextENG": "Sometimes, we make documents confusing on purpose because we don't like dealing with uneducated people, but this time, it's different."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4033,
+		"TextJPN": "彼らを見下さず、真の意味で理解を求めなくてはいけないのだから。",
+		"TextENG": "I can't look down at them. I must sincerely try to make them understand."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4034,
+		"TextJPN": "そのために、わかりやすく作った資料は相当な量になってしまった。",
+		"TextENG": "The accessible support documents are there in a huge pile."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4035,
+		"TextJPN": "…本当は、こんなのんびりと懐石料理を摘んでいる暇も惜しい。",
+		"TextENG": "It feels like we're wasting time eating traditional Japanese food in such a relaxed mood."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4036,
+		"TextJPN": "早く本題に入って、彼らに理解できるよう懇切丁寧に説明したい。",
+		"TextENG": "I want to get to the point and explain to them in detail so they can understand."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4037,
+		"TextJPN": "…だが、慌てる乞食はもらいが少ないという諺もある。",
+		"TextENG": "...But there is the saying, ``luck lies in the last helping.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4038,
+		"TextJPN": "…今はじっと伏して待つしかない。",
+		"TextENG": "...I have to be patient right now."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4039,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiA1013.",
+		"TextJPN": "「うん。@k@vS20/00/VTK1_daigiA1014.正直ねぇ、これまでのアルファベットはあまりよくないと思うのです。@k@vS20/00/VTK1_daigiA1015.結局こいつは、未だ頭ん中が時代遅れの年寄りどものね、お砂場みたいなもんだったんですな」",
+		"NamesENG": "Congressman",
+		"TextENG": "``Hmm.@k@vS20/00/VTK1_daigiA1014. To be frank, I thought the Alphabet Project we've seen wasn't that good.@k@vS20/00/VTK1_daigiA1015. In the end, it's been nothing but a sandbox for the old men with their heads still stuck in the Pacific War.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4040,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiB1001.",
+		"TextJPN": "「年寄りどもが自分のじゃないカネで、過去の栄光を取り戻す夢を描くお砂場です。@k@vS20/00/VTK1_daigiB1002.そんな年寄りどもの妄想のために、一体どれだけの公金が垂れ流されたやら！」",
+		"NamesENG": "Congressman",
+		"TextENG": "``Nothing but a sandbox for those old men to craft their dreams of Imperial Japan's revival with money that isn't theirs.@k@vS20/00/VTK1_daigiB1002. Do you know how much public funding was wasted on those delusions?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4041,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiC1001.",
+		"TextJPN": "「聞いた話じゃ、奥野先生あたりが検察を突っついて、旧理事会を横領で追わせてるらしいですなぁ」",
+		"NamesENG": "Congressman",
+		"TextENG": "``From what I've heard, there are already prosecutors poking people like Okuno-sensei and trying to pin embezzlement on the old board of directors.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4042,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiA1016.",
+		"TextJPN": "「わっははははははは。@k@vS20/00/VTK1_daigiA1017.年寄りたちをヨイショしてウマイ汁を吸っていた連中の末路ですな。@k@vS20/00/VTK1_daigiA1018.もっとも、表沙汰にゃ出来んでしょうから、別件で引責、左遷といった形になるんでしょうが」",
+		"NamesENG": "Congressman",
+		"TextENG": "``Waahahahahahahaha.@k@vS20/00/VTK1_daigiA1017. That's what you get for trying to suck up to those old men.@k@vS20/00/VTK1_daigiA1018. Of course, none of it can be made public, so I guess they'll be held responsible or demoted in another form."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4043,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiA1019.",
+		"TextJPN": "「…いやはや、これも戦前の亡霊をずっと野放しにしていた日本のツケですな！@k@vS20/00/VTK1_daigiA1020.　いやぁ、この焼きウニの汁もたまらない！@k@vS20/00/VTK1_daigiA1021.　うっはははははは！」",
+		"NamesENG": "Congressman",
+		"TextENG": "This is what the country gets for letting these ghosts of the war run around freely all this time!@k@vS20/00/VTK1_daigiA1020. Boy, these grilled sea urchins are fantastic!!@k@vS20/00/VTK1_daigiA1021. Waaahahahahahaha!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4044,
+		"NamesJPN": "中川",
+		"PreTextTags": "@vS20/00/VTK1_nakagawa1005.",
+		"TextJPN": "「これは手厳しい…。@k@vS20/00/VTK1_nakagawa1006.そんな中で先生にこんなお願いをするのは非常～に何ですが。@k@vS20/00/VTK1_nakagawa1007.ひとつ、お時間を頂戴できればと思いまして…」",
+		"NamesENG": "Nakagawa",
+		"TextENG": "``Well, this is harsh...@k@vS20/00/VTK1_nakagawa1006. I realize it's extremely difficult to ask this of you all when you feel that way, but...@k@vS20/00/VTK1_nakagawa1007. Might I have a moment of your time?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4045,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiB1003.",
+		"TextJPN": "「えっと、入江機関さんでしたっけ？@k@vS20/00/VTK1_daigiB1004.　確か、長野だか岐阜の方で風土病の研究をされてるんでしたなぁ。@k@vS20/00/VTK1_daigiB1005.えっと、どういうことになってましたっけ？」",
+		"NamesENG": "Congressman",
+		"TextENG": "``Ehh, you're from the Irie Institute, aren't you?@k@vS20/00/VTK1_daigiB1004. You're researching some kind of local disease in Nagano or Gifu, right?@k@vS20/00/VTK1_daigiB1005. Uhh, what's going on down there?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4046,
+		"NamesJPN": "中川",
+		"PreTextTags": "@vS20/00/VTK1_nakagawa1008.",
+		"TextJPN": "「理事会の決定で、軍事転用研究が中止に。@k@vS20/00/VTK1_nakagawa1009.あと、研究そのものも三年以内に段階的終了に決定しています」",
+		"NamesENG": "Nakagawa",
+		"TextENG": "``The board has decided to halt the research for military applications.@k@vS20/00/VTK1_nakagawa1009. The research project itself is to wrap up within three years as well."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4047,
+		"NamesJPN": "中川",
+		"PreTextTags": "@vS20/00/VTK1_nakagawa1010.",
+		"TextJPN": "「…あ、いえ、これは継続協議中でした。@k@vS20/00/VTK1_nakagawa1011.まぁその、いずれにしましても、数年以内に閉鎖になる予定です」",
+		"NamesENG": "Nakagawa",
+		"TextENG": "Oh, no, sorry, that's still being discussed.@k@vS20/00/VTK1_nakagawa1011. Anyhow, our work is scheduled to be shut down within a few years.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4048,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiC1002.",
+		"TextJPN": "「あぁあぁ！@k@vS20/00/VTK1_daigiC1003.　思い出した思い出した。@k@vS20/00/VTK1_daigiC1004.入江機関さんは旧理事会でも評判が悪かったみたいですなぁ。@k@vS20/00/VTK1_daigiC1005.何しろ莫大な予算をほとんど無審査で吸い取ってましたからねぇ」",
+		"NamesENG": "Congressman",
+		"TextENG": "``Ah, yes!!@k@vS20/00/VTK1_daigiC1003. I remember now.@k@vS20/00/VTK1_daigiC1004. The Irie Institute had a bad reputation even among the old board of directors.@k@vS20/00/VTK1_daigiC1005. After all, it sucked up huge funds with barely any inspections.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4049,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiA1022.",
+		"TextJPN": "「某大先生がどういうわけかこのプロジェクトをやたら後押しされてたみたいでしてね。@k@vS20/00/VTK1_daigiA1023.その絡みもあって、結局、誰も文句が言えずに放置されてきたってのが実際のようです」",
+		"NamesENG": "Congressman",
+		"TextENG": "``I don't know why, but someone high up kept pushing for it for some reason.@k@vS20/00/VTK1_daigiA1023. Because of that, nobody could really say anything about it and it was left alone.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4050,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiB1006.",
+		"TextJPN": "「…まぁでもなぁ！@k@vS20/00/VTK1_daigiB1007.　某大先生は女癖が悪かったから、それもあったのかもしれませんなぁ、わっははははははは！」",
+		"NamesENG": "Congressman",
+		"TextENG": "``But you know,@k@vS20/00/VTK1_daigiB1007. that guy loved to flirt around with women, so maybe that had something to do with it, wahahahahhahahaha!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4051,
+		"TextJPN": "小泉のおじいちゃんが、公私混同の区別もつかない下卑野郎とでも言いたいのか。",
+		"TextENG": "Is he implying that I slept with Uncle Koizumi?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4052,
+		"TextJPN": "…私たち二人に対する侮辱も同然だった。",
+		"TextENG": "He's insulting both of us."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4053,
+		"TextJPN": "…だが、それをぐっと堪える。",
+		"TextENG": "But I held my anger in."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4054,
+		"TextJPN": "この程度のことで表情に出してはいけない。",
+		"TextENG": "I can't let myself be bothered by something like this."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4055,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/VTK1_takano1056.",
+		"TextJPN": "「…それで本日は、当機関の研究内容について説明させていただき、当機関に対する理事会の決定について、どうかご再考をお願いしたいと思いまして、お時間を頂戴させていただきました」",
+		"NamesENG": "Takano",
+		"TextENG": "``......Anyway, today, I would like to explain to you the details of our Institute's research and ask you to reconsider your decision."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4056,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/VTK1_takano1057.",
+		"TextJPN": "「本日はこのような場へご多忙な中、お越しいただきましたことを深く御礼申し上げます…」",
+		"NamesENG": "Takano",
+		"TextENG": "I truly appreciate you taking the time out of your busy schedule to attend this meeting today.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4057,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiA1024.",
+		"TextJPN": "「まぁ、タダでウニが出て来るわけはないってことですな！@k@vS20/00/VTK1_daigiA1025.　わっはははははは！」",
+		"NamesENG": "Congressman",
+		"TextENG": "``Well, I guess they don't give out free sea urchins for nothing, huh?@k@vS20/00/VTK1_daigiA1025. Waahahahahahaha!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4058,
+		"TextJPN": "私は、雛見沢症候群の存在が、どれだけ重要な意味を持つかを性急にならないよう注意しながら説明した。",
+		"TextENG": "I explained to them how much the Hinamizawa Syndrome mattered while being very careful not to go too fast."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4059,
+		"TextJPN": "雛見沢症候群のポテンシャルは、軍事転用などという瑣末なレベルに囚われず、もっともっと重要な意味を持つということ。",
+		"TextENG": "I tried to let them know that the syndrome's potential is not limited to small things like military applications, but is much more meaningful than that."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4060,
+		"TextJPN": "…イデオロギーや宗教などすらも説明しかねないこと。",
+		"TextENG": "It may explain ideology and religion."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4061,
+		"TextJPN": "そもそもの人類の定義すらも揺るがしかねないということを。",
+		"TextENG": "It may even shake the very definition of a human being."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4062,
+		"TextJPN": "時間をかけてゆっくりと説明した。",
+		"TextENG": "I took my time to explain as slowly and clearly as possible."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4063,
+		"TextJPN": "それらの全てが、この品のない男たちに伝わった自信はないが、理解してくれるならば何割でも構わない。",
+		"TextENG": "I'm not confident that all of it had gotten through to those boorish men, but I'm happy if they understood even just a part of it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4064,
+		"TextJPN": "…雛見沢症候群がどれだけ偉大な発見なのかが理解してもらえればいいのだ…。",
+		"TextENG": "As long as they understand how much of a magnificent discovery Hinamizawa Syndrome really is."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4065,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiA1026.",
+		"TextJPN": "「ありがとう三佐。@k@vS20/00/VTK1_daigiA1027.……ふぅむ、なるほど。@k@vS20/00/VTK1_daigiA1028.…ふぅむ」",
+		"NamesENG": "Congressman",
+		"TextENG": "``Thank you, Major.@k@vS20/00/VTK1_daigiA1027. ...Hmmm, I see.@k@vS20/00/VTK1_daigiA1028. ...Hmm.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4066,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiB1008.",
+		"TextJPN": "「ちょっと検討をしたいので、三佐には一度下がってもらってよろしいですかな？」",
+		"NamesENG": "Congressman",
+		"TextENG": "``We would like to discuss among ourselves, so could you please excuse yourself?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4067,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/VTK1_takano1058.",
+		"TextJPN": "「…はい。@k@vS20/09/VTK1_takano1059.それでは失礼させていただきます」",
+		"NamesENG": "Takano",
+		"TextENG": "``...Yes.@k@vS20/09/VTK1_takano1059. Thank you.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4068,
+		"TextJPN": "当事者の前では議論できないのは当然だろう。",
+		"TextENG": "Obviously, they can't discuss in front of me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4069,
+		"TextJPN": "…資料は全て預けた。",
+		"TextENG": "I left all the documents with them."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4070,
+		"TextJPN": "後は彼らがそれを好意的に汲み取ってくれることを期待するだけだ。",
+		"TextENG": "All I could do now was hope they viewed them favorably."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4071,
+		"TextJPN": "私は退室して襖を閉めた。",
+		"TextENG": "I left the room and closed the sliding door."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4072,
+		"TextJPN": "…隣に控え用の部屋を取ってあるのでそちらへ行く。",
+		"TextENG": "The room next door is a preparation room, so I was to head there."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4073,
+		"TextJPN": "が、…足を止める。",
+		"TextENG": "But I stopped."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4074,
+		"TextJPN": "…本当はマナー違反なのだが、襖越しにそっと耳を澄ました…。",
+		"TextENG": "...I shouldn't have done it, but I tried to listen in through the sliding door."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4075,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiA1029.",
+		"TextJPN": "「こりゃあ…、わはははは、何と言いますか。@k@vS20/00/VTK1_daigiA1030.前理事の皆さんも気の毒としか言い様がありませんなぁ」",
+		"NamesENG": "Congressman",
+		"TextENG": "``Well... wahahahaha, I don't know what to say.@k@vS20/00/VTK1_daigiA1030. I feel sorry for everyone on the previous board of directors.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4076,
+		"NamesJPN": "中川",
+		"PreTextTags": "@vS20/00/VTK1_nakagawa1012.",
+		"TextJPN": "「…いや、はははは。@k@vS20/00/VTK1_nakagawa1013.小泉先生がですね、非常に強く推されていまして…」",
+		"NamesENG": "Nakagawa",
+		"TextENG": "``...I know how you feel, hahahaha.@k@vS20/00/VTK1_nakagawa1013. Koizumi-sensei pushed this so strongly...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4077,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiB1009.",
+		"TextJPN": "「小泉先生には、ローウェル製薬日本法人の初代顧問に就任された時に一度お会いし、とても聡明な方だなぁという印象を強く持っていたのですが、…ん～」",
+		"NamesENG": "Congressman",
+		"TextENG": "``I met him once before, when he became founding director of Lowell Pharmaceuticals. He seemed like a very intelligent person to me... Hmmm...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4078,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiC1006.",
+		"TextJPN": "「人間、歳には勝てないということですな！@k@vS20/00/VTK1_daigiC1007.　何事も、引き際が肝心だと思い知らされますよ」",
+		"NamesENG": "Congressman",
+		"TextENG": "``I guess you just can't win against age!@k@vS20/00/VTK1_daigiC1007. It makes you realize how important it is for humans to know when to pull out.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4079,
+		"NamesJPN": "中川",
+		"PreTextTags": "@vS20/00/VTK1_nakagawa1014.",
+		"TextJPN": "「ただですね、雛見沢症候群という非常に珍しい病気があるのは事実でございまして。@k@vS20/00/VTK1_nakagawa1015.決して全てが全て妄想というわけではありませんでして…」",
+		"NamesENG": "Nakagawa",
+		"TextENG": "``But it is a fact that this very rare disease called Hinamizawa Syndrome really exists.@k@vS20/00/VTK1_nakagawa1015. So not everything is a delusion...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4080,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiB1010.",
+		"TextJPN": "「入江機関はすでに病気の解明と治療薬の開発に成功しているというじゃありませんか。@k@vS20/00/VTK1_daigiB1011.それで充分ですよ」",
+		"NamesENG": "Congressman",
+		"TextENG": "``I hear the Irie Institute has already succeeded in identifying the disease and developing a treatment?@k@vS20/00/VTK1_daigiB1011. Isn't that enough?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4081,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiC1008.",
+		"TextJPN": "「現代日本にとって、周辺諸国を過敏にさせる件については厳に慎むべきです。@k@vS20/00/VTK1_daigiC1009.中でも軍事分野はもっとも敏感と言えるでしょう」",
+		"NamesENG": "Congressman",
+		"TextENG": "``In modern Japan, we have to be careful with things that might make neighboring countries nervous.@k@vS20/00/VTK1_daigiC1009. And military-related issues are the most sensitive ones."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4082,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiC1010.",
+		"TextJPN": "「少なくとも、数年間にわたり軍事目的の研究がされていた事実は直ちに抹消しなくてはなりません」",
+		"NamesENG": "Congressman",
+		"TextENG": "So, at the very least, we must erase the fact that research for military purposes has been going on for the past few years immediately.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4083,
+		"NamesJPN": "中川",
+		"PreTextTags": "@vS20/00/VTK1_nakagawa1016.",
+		"TextJPN": "「それは軍事研究の中止とは別に？」",
+		"NamesENG": "Nakagawa",
+		"TextENG": "``Is that separate from simply discontinuing the military research, then?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4084,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiC1011.",
+		"TextJPN": "「そうです。@k@vS20/00/VTK1_daigiC1012.雛見沢症候群は生物兵器開発のための研究という事実は、直ちに研究を中止したとしても残ります」",
+		"NamesENG": "Congressman",
+		"TextENG": "``Yes.@k@vS20/00/VTK1_daigiC1012. Even if we stopped it immediately, the fact that this Hinamizawa Syndrome was being researched in order to create a biological weapon remains."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4085,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiC1013.",
+		"TextJPN": "「雛見沢症候群を、目的は何であれ研究した事実は厳重に隠蔽されなければなりません。@k@vS20/00/VTK1_daigiC1014.…できれば、雛見沢症候群そのものがなくなってしまうのが好ましい」",
+		"NamesENG": "Congressman",
+		"TextENG": "We should hide that fact no matter what purpose the research ends up being used for.@k@vS20/00/VTK1_daigiC1014. If possible, it would be best if Hinamizawa Syndrome just disappears.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4086,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiB1012.",
+		"TextJPN": "「ですな。@k@vS20/00/VTK1_daigiB1013.病気が残れば、やがては関心を持つものが現れ、せっかく埋めた穴をわざわざ掘り返す輩が現れないとも限りません」",
+		"NamesENG": "Congressman",
+		"TextENG": "``That's true.@k@vS20/00/VTK1_daigiB1013. If the disease remains, then sooner or later, someone will become curious about it and dig up the hole we filled."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4087,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiB1014.",
+		"TextJPN": "「理事会の決定通り、入江機関は病気を撲滅させ次第、研究の痕跡を全て消した上で解散させるのが良いでしょう」",
+		"NamesENG": "Congressman",
+		"TextENG": "I think we should follow the decision of the board of directors, and as soon as the Irie Institute eradicates this disease, we should have them destroy all evidence of their work before disbanding.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4088,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiA1031.",
+		"TextJPN": "「ふむ。@k@vS20/00/VTK1_daigiA1032.やはりそういう結論に行き着きますな。@k@vS20/00/VTK1_daigiA1033.ノーベル賞が取れるかどうかが問題ではなく、戦後日本にとって無用な研究だということです」",
+		"NamesENG": "Congressman",
+		"TextENG": "``Hmm...@k@vS20/00/VTK1_daigiA1032. I guess that's for the best.@k@vS20/00/VTK1_daigiA1033. It's not even a matter of a Nobel Prize. It's just useless for post-war Japan.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4089,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiA1034.",
+		"TextJPN": "「そもそも、大昔から存在し、特に異常もなくやってこれたわけでしょう。@k@vS20/00/VTK1_daigiA1035.藪を突っつく研究なのではと当初から思っていました」",
+		"NamesENG": "Congressman",
+		"TextENG": "``Besides, this disease has existed for hundreds of years, right? And we've made it this far without any problems.@k@vS20/00/VTK1_daigiA1035. From the start, I thought this amounted to little more than just poking around in the bushes.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4090,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiB1015.",
+		"TextJPN": "「同感ですな。@k@vS20/00/VTK1_daigiB1016.雛見沢症候群という病気の存在自体は疑わないが、…この、高野という第一発見者は、少々この病気を脚色し過ぎですな！」",
+		"NamesENG": "Congressman",
+		"TextENG": "``Me too.@k@vS20/00/VTK1_daigiB1016. I don't doubt the existence of the syndrome, but Dr. Takano, who discovered the disease, is exaggerating more than a little!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4091,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiB1017.",
+		"TextJPN": "「私も資料を読みながら、ユニークな発想をする人だなぁと思っておりました。@k@vS20/00/VTK1_daigiB1018.第一、寄生虫で人の思想が染まるなんて、聞いたことがない。@k@vS20/00/VTK1_daigiB1019.そりゃいくらなんでも、酷すぎる」",
+		"NamesENG": "Congressman",
+		"TextENG": "``He had quite a unique interpretation of things.@k@vS20/00/VTK1_daigiB1018. First of all, I've never heard of a parasite that's capable of controlling people's thoughts.@k@vS20/00/VTK1_daigiB1019. It's just too much.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4092,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiC1015.",
+		"TextJPN": "「動物の脳に寄生する寄生虫がいるなら、たまには人間の脳に寄生する寄生虫がいてもいいとは思う」",
+		"NamesENG": "Congressman",
+		"TextENG": "``If there are parasites that live in animal brains, then I guess we can say there are parasites that live in human brains too."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4093,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiC1016.",
+		"TextJPN": "「しかし、その寄生虫が思想や人格までもコントロールする可能性なんてのは、わっははははは！@k@vS20/00/VTK1_daigiC1017.　さすがにこりゃちょっとユニーク過ぎます」",
+		"NamesENG": "Congressman",
+		"TextENG": "But for them to control human thoughts? Wahahahahaha!!@k@vS20/00/VTK1_daigiC1017. That's a bit too unique, you know.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4094,
+		"TextJPN": "…襖の隙間からそれを覗いていた私は、…不思議な既視感に囚われていた。",
+		"TextENG": "...As I peeked in through the gap in the sliding door, I became trapped within an unbelievable sense of deja vu."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4095,
+		"TextJPN": "初めて経験することのはずなのに、…初めてじゃない気がする。",
+		"TextENG": "This is my first time experiencing this, but it doesn't feel that way."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4096,
+		"TextJPN": "よくわからないけれど、その思い出はとても悲しくて、苦々しくて、…あれ、……あれあれ…？",
+		"TextENG": "I don't know why, but the memory is so sad and so painful... Huh? ......Huh?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4097,
+		"TextJPN": "なんで、…涙が…。",
+		"TextENG": "Why... tears?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4098,
+		"TextJPN": "気付けば、…襖の向こうはいつの間にか畳みの部屋じゃなく、…とてもとても懐かしい絨毯の部屋に。",
+		"TextENG": "Before I realized it, I saw a very nostalgic carpeted room on the other side of the sliding door instead of a room covered in tatami mats."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4099,
+		"TextJPN": "埃の臭いと、何かの薬品の揮発した臭いの混じった、へんてこだけど、とても居心地のいいあの空気が漏れ出してくるあの部屋に。",
+		"TextENG": "The room is filled with the smell of dust mixed with the smell of some evaporated medicine, but it's very soothing to me just the same."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4100,
+		"TextJPN": "そこには、……本当に懐かしい祖父の姿が。",
+		"TextENG": "And there...... is my grandfather."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4101,
+		"TextJPN": "心をこめて書いた論文を扱き下ろされ、…涙を見せることも許されなかった、祖父の姿が。",
+		"TextENG": "His article that he poured his heart into was made a mockery of, yet he wasn't even allowed to cry..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4102,
+		"TextJPN": "それは幻なんかじゃない。",
+		"TextENG": "This isn't a delusion."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4103,
+		"TextJPN": "…だって、今日、彼らに託した資料の中には、祖父が書いた論文の引用がたくさん含まれている。",
+		"TextENG": "Because within the documents I left with those men, there are a lot of references to the article my grandfather wrote."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4104,
+		"TextJPN": "…だから、そこに祖父がいて、彼らに説明してくれていたとしても何の不思議もなかった。",
+		"TextENG": "So I'm not surprised for my grandfather to be standing right there, explaining it to them himself."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4105,
+		"TextJPN": "…そして私は、祖父の懐かしい姿に涙すると共に、…その偉業を蔑み、馬鹿にする彼らの悲しき悪口雑言を目にした…。",
+		"TextENG": "...Together with my tears from seeing the sight of my beloved grandfather, I watched these men insult and belittle his masterpiece."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4106,
+		"TextJPN": "確かに一度あった光景。",
+		"TextENG": "I have seen this sight before."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4107,
+		"TextJPN": "そして一度で終わった光景のはず…。",
+		"TextENG": "And the sight should have ended there."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4108,
+		"TextJPN": "なのに、なぜか同じ光景が再び目の前で繰り返されていて…。",
+		"TextENG": "But why is it repeating before my eyes?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4109,
+		"TextJPN": "私は現実と幻が重なり合う、その奇妙な世界を襖越しに覗き、呆然としているしかない。",
+		"TextENG": "I can only blankly peek through the sliding door at this strange world where reality and illusion overlap."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4110,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiA1036.",
+		"TextJPN": "「あの三佐もちょいとおかしいし、@k@vS20/00/VTK1_daigiA1037.こんな世迷言を信じた小泉先生もおかしいが、…@k@vS20/00/VTK1_daigiA1038.やはりこの第一発見者の論文が一番おかしいですな」",
+		"NamesENG": "Congressman",
+		"TextENG": "``The Major is a little strange@k@vS20/00/VTK1_daigiA1037. and Koizumi-sensei, who believed in something as ridiculous as this, is a little strange too...@k@vS20/00/VTK1_daigiA1038. But the strangest one of all is the person who wrote this article in the first place.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4111,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiB1020.",
+		"TextJPN": "「期待と妄想が入り混じっていて、これは論文というより創作の次元ですな。@k@vS20/00/VTK1_daigiB1021.というか、これはこのままどこかの出版社に持ち込んで本にした方が受けると思いますよ」",
+		"NamesENG": "Congressman",
+		"TextENG": "``It blends together expectations and delusions, and looks more like fiction than a thesis.@k@vS20/00/VTK1_daigiB1021. I think this will be a big hit once it gets published, you know.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4112,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiA1039.",
+		"TextJPN": "「確かに確かに！@k@vS20/00/VTK1_daigiA1040.　私の友人に出版社の社長やってるのが居てね。@k@vS20/00/VTK1_daigiA1041.きっと面白がって読んでくれると思いますよ。@k@vS20/00/VTK1_daigiA1042.わはははははは！」",
+		"NamesENG": "Congressman",
+		"TextENG": "``You're absolutely right!@k@vS20/00/VTK1_daigiA1040. I have a friend who's the head of a publishing company.@k@vS20/00/VTK1_daigiA1041. I bet he'll love this!@k@vS20/00/VTK1_daigiA1042. Wahahahahahaha!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4113,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiC1018.",
+		"TextJPN": "「笑い事ではありませんぞ、皆様方。@k@vS20/00/VTK1_daigiC1019.このとんでもない研究がまかり通って、巨額の予算が数年間にもわたって投じられていたのですからな」",
+		"NamesENG": "Congressman",
+		"TextENG": "``This is not a laughing matter, gentlemen.@k@vS20/00/VTK1_daigiC1019. A huge amount of money was poured into this over the past few years."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4114,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiC1020.",
+		"TextJPN": "「…特に酷いのは、万一の場合に備えて相当危険な機材を用意している、という点です。@k@vS20/00/VTK1_daigiC1021.これは絶対に国民に知られてはならないことです」",
+		"NamesENG": "Congressman",
+		"TextENG": "The worst thing is that the equipment used to gas the villagers in case of an emergency have already been procured.@k@vS20/00/VTK1_daigiC1021. Our people must never learn about this.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4115,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiA1043.",
+		"TextJPN": "「計画が存在しただけでも恐ろしいのに、『終末作戦』なんて緊急措置の存在を知られてしまったら国外はおろか、国内世論も敵に回すことになるだろうねぇ！」",
+		"NamesENG": "Congressman",
+		"TextENG": "``For such a plan to exist is scary enough, but if people find out about this equipment, the whole country will turn against us."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4116,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiA1044.",
+		"TextJPN": "「しかも、その機材の維持費がすごいことになってるじゃないか…！」",
+		"NamesENG": "Congressman",
+		"TextENG": "On top of that, the cost to maintain this equipment is enormous!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4117,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiB1022.",
+		"TextJPN": "「そんなの、本当に維持費にしてるわけないじゃないですか。@k@vS20/00/VTK1_daigiB1023.そういう名目にしてトンネルしてる架空プロジェクトでしょ、どうせ」",
+		"NamesENG": "Congressman",
+		"TextENG": "``You don't really think it's being maintained, do you?@k@vS20/00/VTK1_daigiB1023. Surely this whole project is some kind of money laundering scheme."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4118,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiC1022.",
+		"TextJPN": "「大体、何でしたっけ？@k@vS20/00/VTK1_daigiC1023.　少女が１人死ぬだけで村人が一斉に異常行動を起こす病気なんてあなた、どこの漫画の話ですか」",
+		"NamesENG": "Congressman",
+		"TextENG": "What did they say, anyway?@k@vS20/00/VTK1_daigiC1023. If one girl dies, the whole village will go crazy at once? What kind of comic book is this?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4119,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiB1024.",
+		"TextJPN": "「まったくまったく！@k@vS20/00/VTK1_daigiB1025.　こんな子供騙しを鵜呑みにして巨額の予算を垂れ流すとは、つくづくイカンと思いますなぁ！@k@vS20/00/VTK1_daigiB1026.　こんな資料を真に受ける連中がいるというんだから、実に馬鹿馬鹿しいことです！」",
+		"NamesENG": "Congressman",
+		"TextENG": "``Exactly!@k@vS20/00/VTK1_daigiB1025. Someone actually believed such a childish story and put a huge amount of money into it. Now that's crazy!@k@vS20/00/VTK1_daigiB1026. What's truly ridiculous is that someone actually took these documents seriously!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4120,
+		"TextJPN": "そう言いながら、大袈裟なジェスチャーをしながら乱暴に資料を置く。",
+		"TextENG": "As he said that, he placed the documents down with an exaggerated gesture."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4121,
+		"TextJPN": "…置いたというよりは、叩き付けたというのが正解かもしれない。",
+		"TextENG": "Actually, I should say he slammed them down."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4122,
+		"TextJPN": "だって、資料の束が綺麗に置かれず、周りに舞うように散ったから。",
+		"TextENG": "Because the papers ended up scattered all over the floor."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4123,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiA1045.",
+		"TextJPN": "「ですよなぁ、わははははは！@k@vS20/00/VTK1_daigiA1046.　あ、ちょいと失礼。@k@vS20/00/VTK1_daigiA1047.お手洗いに！」",
+		"NamesENG": "Congressman",
+		"TextENG": "``You're too right, wahahahahaha!!@k@vS20/00/VTK1_daigiA1046. Ah, excuse me,@k@vS20/00/VTK1_daigiA1047. I need to use the bathroom.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4124,
+		"TextJPN": "そう言って立ち上がった男が、…ぐしゃりと、それを踏む。",
+		"TextENG": "One of the men stood up and stepped on the papers."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4125,
+		"TextJPN": "それは、畳の上の資料ではなく、……絨毯の上の、祖父の論文だった。",
+		"TextENG": "And they weren't the papers on the tatami mats, but the ones on the carpet."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4126,
+		"TextJPN": "そこには…、胸が張り裂けんばかりの悲しみで満たされた祖父がいた。",
+		"TextENG": "Right there, I can see my grandfather filled with heart-rending sadness."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4127,
+		"TextJPN": "なのに、それを表情に出せない祖父がいた。",
+		"TextENG": "Yet, he can't let it show on his face."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4128,
+		"TextJPN": "祖父の表情は、変わったようには見えなかった。",
+		"TextENG": "Grandfather's expression didn't change."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4129,
+		"TextJPN": "…でも、…私には歪んで見えた。",
+		"TextENG": "...Yet, it seemed distorted to me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4130,
+		"TextJPN": "祖父の背負う書斎の壁が、ぐにゃりと悲しく歪むのが確かに見えた。",
+		"TextENG": "I could see the walls of my grandfather's study crumpling and twisting behind him."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4131,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/VTK1_takano1060.",
+		"TextJPN": "「…………ッ！！！」",
+		"NamesENG": "Takano",
+		"TextENG": "``.........!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4132,
+		"TextJPN": "私は飛び出していた。",
+		"TextENG": "I jumped into the room."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4133,
+		"TextJPN": "…そして老紳士の足に組み付く。",
+		"TextENG": "I grabbed onto the man's legs."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4134,
+		"TextJPN": "彼が憎いんじゃない。",
+		"TextENG": "I don't hate him."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4135,
+		"TextJPN": "いや、憎いか憎くないかと言われたらもちろん憎いのだが…、そんなことじゃない、そんなことじゃない。",
+		"TextENG": "No, it's not whether I hate him or not. Sure, I hate him, but that's not it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4136,
+		"TextJPN": "祖父の論文を踏みつける足が許せなかったのだ。",
+		"TextENG": "I just can't forgive the feet stepping on my grandfather's article."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4137,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/VTK1_takano1061.",
+		"TextJPN": "「踏まないで…！！@k@vS20/09/VTK1_takano1062.　踏まないで…ッ！！@k@vS20/09/VTK1_takano1063.　おじいちゃんが頑張って書いたんだから、…足で踏んだりしないで…ッ！！」",
+		"NamesENG": "Takano",
+		"TextENG": "``Don't!!@k@vS20/09/VTK1_takano1062. Don't step on them!!@k@vS20/09/VTK1_takano1063. My grandpa wrote these. Please don't step on them!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4138,
+		"NamesJPN": "代議士",
+		"PreTextTags": "@vS20/00/VTK1_daigiA1048.",
+		"TextJPN": "「…っと、…ぅわ、…失礼……」",
+		"NamesENG": "Congressman",
+		"TextENG": "``...Uh, oh... sorry......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4139,
+		"TextJPN": "私は未だ踏みにじり続ける、その足を、散らばった紙面から退かしたかった。",
+		"TextENG": "Those feet are still stepping on the papers. I tried to make them move."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4140,
+		"TextJPN": "…でも、それは根が生えたように頑丈で、私ごときが押したり引いたりするだけでは決して退こうとはしなかった。",
+		"TextENG": "But they won't even budge, as though they've grown roots."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4141,
+		"TextJPN": "だからその足にしがみ付いて、懇願した。",
+		"TextENG": "So I begged as I grabbed onto his legs."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4142,
+		"TextJPN": "足の裏から踏まれた論文を引き抜こうとして引っ張った。",
+		"TextENG": "I tried to pull the papers from under his feet."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4143,
+		"TextJPN": "でも、足が退かせない、論文が引き抜けない…。",
+		"TextENG": "But I can't move his feet. I can't pull out the papers."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4144,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/VTK1_takano1064.",
+		"TextJPN": "「踏まないでぇ…、踏まないでぇえぇ…。@k@vS20/09/VTK1_takano1065.おじいちゃんのを、ふ、…踏まないでぇえぇぇぇ…ぇ……」",
+		"NamesENG": "Takano",
+		"TextENG": "``Don't step on them... don't step on them...@k@vS20/09/VTK1_takano1065. My grandpa's... don't ...don't step on them...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4145,
+		"TextJPN": "シンと静まり返った部屋には、私のすすり泣く声だけが響き渡っていた。",
+		"TextENG": "My sobbing echoed in that silent room."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4146,
+		"TextJPN": "…あの時と同じに…。",
+		"TextENG": "Just like it did back then..."
+	}
+]

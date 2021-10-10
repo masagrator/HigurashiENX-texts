@@ -1,98 +1,96 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "申請却下",
-            "ENG": "Application Denied"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18084,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "昭和５７年４月３０日@r穀倉大学付属病院　理事長殿@r以下の薬剤の製造・販売の認可申請を却下する。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "April 30th, 1982.@rTo the director of the Gogura University Hospital.@rThe application for the manufacture and sale of the following drugs has been denied."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18085,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "１．名称@r商品名・プラシルβ@r（選択的精神伝達物質再取り込み阻害薬）",
-            "AfterTextTags": "@|@y",
-            "TextENG": "1. Nomenclature.@rProduct title: Placil β.@r(Selective psychotransmitter reuptake inhibitor.)"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18086,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "２．効能@r向精神作用、および抗パニック・不安作用",
-            "AfterTextTags": "@|@y",
-            "TextENG": "2. Active effect.@rPsychotropic and anti-panic/anxiety effect."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18087,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "３．効果と対象@r気持ちを楽にして、意欲を高める。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "3. End result."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18088,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "主にうつ病やパニック障害の治療を目的とし、その他には強迫神経症・摂食障害も治療対象とする。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Causes target to feel better and more motivated. Primarily for the treatment of depression and panic disorders, but in addition to those can be used to treat obsessive compulsive neurosis and eating disorders."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18089,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "血中に取り込まれて脳に運ばれることで、脳内の情報伝達神経に存在する精神伝達物質の再取り込みを阻害し、脳内シナプス間隙に存在する伝達物質の濃度を高める。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "By being transported to the brain through the bloodstream, it inhibits the reuptake of psychotransmitters within the signal transduction nerves, and also increases the concentration of transmitters in the synaptic cleft of the brain."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18090,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "その結果神経伝達能力が向上し、服用者の気分を沈静させ、心的負担を軽減する。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "As a result, neurotransmission ability is improved, which reduces the user's mental burden and calms their mood."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18091,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "４．却下理由@r基準値を超えて過剰投与された場合、一部の患者において激しい眠気、錯乱、幻覚、自傷行為等の症状が後期臨床試験時に確認された。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "4. Reason for rejection.@rIn cases of overdose, symptoms such as severe drowsiness, confusion, hallucinations and, in some patients, self-inflicted harm were identified in late clinical trials."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18092,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "また、影響を及ぼす成分の解析が現時点では困難である。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Additionally, analysis of the active components is still difficult at the present time."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18093,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "５．その他@r再申請の際は、４に該当する成分の解析と対処内容の説明を必須とする。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "5. Et cetera.@rIf submitting another application, analysis of the components mentioned in item 4 and a description of the active effects will be required."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18094,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "厚生省医薬安全局",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Ministry of Health and Welfare, Pharmaceutical and Medical Safety Bureau."
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "申請却下",
+		"ENG": "Application Denied"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18084,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "昭和５７年４月３０日@r穀倉大学付属病院　理事長殿@r以下の薬剤の製造・販売の認可申請を却下する。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "April 30th, 1982.@rTo the director of the Gogura University Hospital.@rThe application for the manufacture and sale of the following drugs has been denied."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18085,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "１．名称@r商品名・プラシルβ@r（選択的精神伝達物質再取り込み阻害薬）",
+		"AfterTextTags": "@|@y",
+		"TextENG": "1. Nomenclature.@rProduct title: Placil β.@r(Selective psychotransmitter reuptake inhibitor.)"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18086,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "２．効能@r向精神作用、および抗パニック・不安作用",
+		"AfterTextTags": "@|@y",
+		"TextENG": "2. Active effect.@rPsychotropic and anti-panic/anxiety effect."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18087,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "３．効果と対象@r気持ちを楽にして、意欲を高める。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "3. End result."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18088,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "主にうつ病やパニック障害の治療を目的とし、その他には強迫神経症・摂食障害も治療対象とする。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Causes target to feel better and more motivated. Primarily for the treatment of depression and panic disorders, but in addition to those can be used to treat obsessive compulsive neurosis and eating disorders."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18089,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "血中に取り込まれて脳に運ばれることで、脳内の情報伝達神経に存在する精神伝達物質の再取り込みを阻害し、脳内シナプス間隙に存在する伝達物質の濃度を高める。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "By being transported to the brain through the bloodstream, it inhibits the reuptake of psychotransmitters within the signal transduction nerves, and also increases the concentration of transmitters in the synaptic cleft of the brain."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18090,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "その結果神経伝達能力が向上し、服用者の気分を沈静させ、心的負担を軽減する。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "As a result, neurotransmission ability is improved, which reduces the user's mental burden and calms their mood."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18091,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "４．却下理由@r基準値を超えて過剰投与された場合、一部の患者において激しい眠気、錯乱、幻覚、自傷行為等の症状が後期臨床試験時に確認された。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "4. Reason for rejection.@rIn cases of overdose, symptoms such as severe drowsiness, confusion, hallucinations and, in some patients, self-inflicted harm were identified in late clinical trials."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18092,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "また、影響を及ぼす成分の解析が現時点では困難である。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Additionally, analysis of the active components is still difficult at the present time."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18093,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "５．その他@r再申請の際は、４に該当する成分の解析と対処内容の説明を必須とする。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "5. Et cetera.@rIf submitting another application, analysis of the components mentioned in item 4 and a description of the active effects will be required."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18094,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "厚生省医薬安全局",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Ministry of Health and Welfare, Pharmaceutical and Medical Safety Bureau."
+	}
+]

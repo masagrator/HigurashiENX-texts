@@ -1,560 +1,558 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "D6 戦勝会にて",
-            "ENG": "D6 Victory Party"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5803,
-            "NamesJPN": "夏美",
-            "PreTextTags": "@-@vS20/36/VTK1_natsumi1001.",
-            "TextJPN": "（…何が、そんなに愉快なんだろう）",
-            "NamesENG": "Natsumi",
-            "TextENG": "(...What's so amusing about that?)"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5804,
-            "TextJPN": "親戚のおじいちゃんに頼まれて、その宴会の給仕を手伝っていた私には、…その喜びの意味がよく、わからなかった。",
-            "TextENG": "An old relative of mine asked me to serve for a banquet... and I didn't understand the meaning behind his extreme joy."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5805,
-            "TextJPN": "いや、『わからなかった』…じゃない。",
-            "TextENG": "No, it's not that I <i>didn't</i> understand..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5806,
-            "TextJPN": "『理解できなかった』んだ。",
-            "TextENG": "It's that I <i>couldn't</i> comprehend it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5807,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS20/00/VTK1_farmMa1015.",
-            "TextJPN": "「雛見沢ダム建設阻止成功、ばんざ――い！！」",
-            "NamesENG": "Villager",
-            "TextENG": "``Cheers for successfully preventing the Hinamizawa dam project!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5808,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS20/00/VTK1_farmMb1015.",
-            "TextJPN": "「鬼ヶ淵死守同盟、ばんざ――い！！」",
-            "NamesENG": "Villager",
-            "TextENG": "``Cheers for the Onigafuchi Guardians!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5809,
-            "TextJPN": "ひたすら万歳三唱の凱歌を上げながら、顔を真っ赤にして料理に舌鼓を打ち、酒を浴びるように飲んで騒ぎたてる、村の人たち。",
-            "TextENG": "The villagers were raising three cheers with their faces bright red from drinking, enjoying the food, and making a lot of noise."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5810,
-            "TextJPN": "みんなそれぞれ、豪快な笑い声を上げながら肩を叩き合ったり、誰かれ構わずに握手を繰り返したりしている。",
-            "TextENG": "Every last one of them was patting one another on the shoulder, shaking hands, and letting out roaring laughter regardless of who they were interacting with."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5811,
-            "TextJPN": "もう、すっかり夜も更けたけど、…その熱気は鎮まるどころか、さらに高まる一方だった。",
-            "TextENG": "It was already late in the night... but the mood was hardly calming down. In fact, it was getting hotter."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5812,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS20/00/VTK1_farmMa1016.",
-            "TextJPN": "「がっはっはっはっはっ！@k@vS20/00/VTK1_farmMa1017.　ざまーみろぉ役人ども！@k@vS20/00/VTK1_farmMa1018.　わしら雛見沢全員の結束の力、思い知ったか！」",
-            "NamesENG": "Villager",
-            "TextENG": "``Ga ha ha ha ha!@k@vS20/00/VTK1_farmMa1017. Serves you right, you bureaucrats!@k@vS20/00/VTK1_farmMa1018. You underestimated the power of all of Hinamizawa united!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5813,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS20/00/VTK1_farmMb1016.",
-            "TextJPN": "「そうじゃそうじゃ！@k@vS20/00/VTK1_farmMb1017.　正義はわしらにあり！@k@vS20/00/VTK1_farmMb1018.　あんな私利私欲のお役人どもにわしらの生活の基盤を破壊されてたまるかい！」",
-            "NamesENG": "Villager",
-            "TextENG": "``Yeah, yeah!@k@vS20/00/VTK1_farmMb1017. Justice was on our side!@k@vS20/00/VTK1_farmMb1018. I've had enough of these government officials selfishly destroying the foundation of our lives!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5814,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS20/00/VTK1_farmMc1015.",
-            "TextJPN": "「わしらの正義、そしてオヤシロさまに乾杯じゃ！！」",
-            "NamesENG": "Villager",
-            "TextENG": "``Let's have a toast, to our justice and to Oyashiro-sama!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5815,
-            "NamesJPN": "村人たち",
-            "PreTextTags": "@o65.@vS20/00/VTK1_farmMa1019|S20/00/VTK1_farmMb1019|S20/00/VTK1_farmMc1016.",
-            "TextJPN": "「「かんぱ――い！！！」」",
-            "NamesENG": "Villagers",
-            "TextENG": "````Cheers!!!````"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5816,
-            "TextJPN": "そう言って年寄りたちは、もう何度目かわからない乾杯の音頭を取り、ビールを一杯にしたグラスを掲げて叫んだ。",
-            "TextENG": "The old people raised another toast for who knows how many times today, and shouted while holding up their beer glasses."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5817,
-            "TextJPN": "…さらに笑い声が大きくなって、耳が痛いくらいに鳴動が響く。",
-            "TextENG": "...Their laughter was getting louder and louder, and my ears were painfully ringing."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5818,
-            "TextJPN": "部屋の中はすっかり酒と料理の匂いでむっとなり、少し気分が悪くなった私は廊下へと出た。",
-            "TextENG": "The smell of food and alcohol in the room was completely overbearing and I was starting to feel a little sick, so I stepped out into the hallway."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5819,
-            "NamesJPN": "夏美",
-            "PreTextTags": "@vS20/36/VTK1_natsumi1002.",
-            "TextJPN": "「…はぁ」",
-            "NamesENG": "Natsumi",
-            "TextENG": "``...Haah.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5820,
-            "TextJPN": "ようやく空気のよどみから抜け出たように、私は大きく息をつく。",
-            "TextENG": "Finally managing to escape that suffocating atmosphere, I took a great big breath."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5821,
-            "TextJPN": "雛見沢地区が、ダムの底に沈まなくてすむようになった。",
-            "TextENG": "The Hinamizawa region was no longer going to be submerged by the dam."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5822,
-            "TextJPN": "生まれ故郷であるこの村を失わずにすんだことは、お年寄りたちにとって確かにめでたいことなんだろう。",
-            "TextENG": "The old folks certainly did have reason to celebrate, since they prevented the loss of their hometown."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5823,
-            "TextJPN": "だけど…本当に村の人たち『全員』が、そう思って喜んでいるのだろうか。",
-            "TextENG": "But... is <i>everyone</i> in the village actually happy about this outcome?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5824,
-            "TextJPN": "そんな疑問を抱いたのは、両親の話を立ち聞きしたからだった。",
-            "TextENG": "That question came to mind after listening to my parents."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5825,
-            "NamesJPN": "夏美の母",
-            "PreTextTags": "@vS20/00/VTK1_natsumiM1001.",
-            "TextJPN": "「…雛見沢から立ち退く家には、結構な補償金が国からあてがわれるそうよ。@k@vS20/00/VTK1_natsumiM1002.それこそちょっとした都市部でも、一戸建ての家が持てるくらいの」",
-            "NamesENG": "Natsumi's mom",
-            "TextENG": "``...The government is apparently offering hefty compensation to the families displaced from Hinamizawa.@k@vS20/00/VTK1_natsumiM1002. It's even enough to buy a single-family home in a semi-urban area.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5826,
-            "NamesJPN": "夏美の母",
-            "PreTextTags": "@vS20/00/VTK1_natsumiM1003.",
-            "TextJPN": "「あぁ…そうとわかっていたら、住民票を雛見沢に残しておいたのにね」",
-            "NamesENG": "Natsumi's mom",
-            "TextENG": "``Haah... if I had known that, I would have kept Hinamizawa listed on my residence card.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5827,
-            "NamesJPN": "夏美の父",
-            "PreTextTags": "@vS20/00/VTK1_natsumiF1001.",
-            "TextJPN": "「おい…よさないか。@k@vS20/00/VTK1_natsumiF1002.お義母さんが聞いたら、きっと怒るぞ？@k@vS20/00/VTK1_natsumiF1003.　うちは仮にも、公由家の一員じゃないか」",
-            "NamesENG": "Natsumi's dad",
-            "TextENG": "``Hey... cut it out.@k@vS20/00/VTK1_natsumiF1002. I'm sure your mother would be upset if she heard that.@k@vS20/00/VTK1_natsumiF1003. We're still members of the Kimiyoshi family, aren't we?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5828,
-            "NamesJPN": "夏美の母",
-            "PreTextTags": "@vS20/00/VTK1_natsumiM1004.",
-            "TextJPN": "「構わないわよ。@k@vS20/00/VTK1_natsumiM1005.そもそもうちは御三家のひとつといっても、分家のひとつなんだから。@k@vS20/00/VTK1_natsumiM1006.別にありがたい恩恵もないし、私にとっては不便な田舎でしかなかったわ」",
-            "NamesENG": "Natsumi's mom",
-            "TextENG": "``I don't care.@k@vS20/00/VTK1_natsumiM1005. Plus, even if we're part of the Three Families, we're only a branch family.@k@vS20/00/VTK1_natsumiM1006. It never provided us any sort of benefit, and for me it just meant I had to live way out in the countryside.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5829,
-            "TextJPN": "…わざわざ都市部の、それも全寮制の高校に進学したのも、それが理由だったそうだ。",
-            "TextENG": "...That was the reason she went to a boarding school in the city for high school."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5830,
-            "TextJPN": "大学も、就職先もその町で見つけて、夏休みでも部活だの、バイトだのと言ってほとんど実家に帰らなかったらしい。",
-            "TextENG": "She found a college and a job in that same town, and I hear she used that part-time job as an excuse not to go home over the summer."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5831,
-            "TextJPN": "だから、おばーちゃんとの仲は…今でもあまりいいほうじゃない。",
-            "TextENG": "That's why, even now... she didn't get along well with Grandma."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5832,
-            "TextJPN": "ダム建設の抗議運動が起こった時など、雛見沢に妄執するおばーちゃんと一緒に見られるのが嫌だという理由で、一切参加しなかったほどだ。",
-            "TextENG": "She didn't participate at all in the dam war, because she didn't want to be seen with Grandma who was obsessed with Hinamizawa."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5833,
-            "TextJPN": "そもそも、おかーさんは雛見沢に限らず…田舎暮らしを嫌っていた。",
-            "TextENG": "Mom never felt tied down to Hinamizawa in the first place... she hated the countryside."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5834,
-            "TextJPN": "限られた娯楽に、乏しい情報。",
-            "TextENG": "Information was scarce and entertainment options were limited."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5835,
-            "TextJPN": "不便な交通に、辛気臭い風土…。",
-            "TextENG": "Travel was inconvenient, and the climate was hot..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5836,
-            "TextJPN": "ただ、口うるさくて、時々煩わしいとすら思えるおかーさんだけど、…その気持ちだけは私にもよくわかる。",
-            "TextENG": "Mom can be loud and annoying sometimes... but I understand how she must've felt."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5837,
-            "TextJPN": "だって、私も…雛見沢があまり、好きじゃないから。",
-            "TextENG": "Because... I wasn't all that fond of Hinamizawa either."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5838,
-            "TextJPN": "そして今夜のことで、その思いは『嫌い』に大きく傾きつつあった。",
-            "TextENG": "And tonight in particular, my thoughts were leaning closer to ``hate.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5839,
-            "NamesJPN": "夏美",
-            "PreTextTags": "@vS20/36/VTK1_natsumi1003.",
-            "TextJPN": "「…。@k@vS20/36/VTK1_natsumi1004.人が、死んでるのに。@k@vS20/36/VTK1_natsumi1005.なんでこの人たちは、こんなに笑えるんだろう…」",
-            "NamesENG": "Natsumi",
-            "TextENG": "``...@k@vS20/36/VTK1_natsumi1004.Even though people have died,@k@vS20/36/VTK1_natsumi1005. how can these people smile and laugh this much...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5840,
-            "TextJPN": "つい、先月のことだ。",
-            "TextENG": "It happened just last month."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5841,
-            "TextJPN": "ダム建設現場で、そこの現場監督を務めていた人が作業員たちに惨殺されて、…バラバラ死体となって見つかった。",
-            "TextENG": "The on-site director at the dam construction site was slaughtered by his laborers... and his body was found dismembered."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5842,
-            "TextJPN": "その犯人の一人はまだ捕まっていなくて、…興宮に潜伏したという噂もある。",
-            "TextENG": "One of the culprits still hasn't been found... and there are rumors that they hid in Okinomiya."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5843,
-            "TextJPN": "それを受けて私の学校では今、集団登校と集団下校が義務付けられていた。",
-            "TextENG": "Thanks to that, my school required everyone to travel in groups when coming and going from school."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5844,
-            "TextJPN": "だけど、…最近雛見沢ダムの建設計画が再度審議にかけられることになったという話が、町会のもとに舞い込んできたらしい。",
-            "TextENG": "But... discussions about the Hinamizawa dam project are now being re-reviewed, and word of that seems to have reached the town council."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5845,
-            "TextJPN": "だから村の人たちは、現場監督さんが殺されたのは『オヤシロさま』の祟りで、…国のダム建設計画もそれを畏れて凍結になったのだ、との見解が専らになっていた。",
-            "TextENG": "That's why the villagers have been saying the curse of ``Oyashiro-sama`` killed the on-site director... and the government froze the dam construction plan out of fear."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5846,
-            "NamesJPN": "夏美",
-            "PreTextTags": "@vS20/36/VTK1_natsumi1006.",
-            "TextJPN": "「でも、…どうして、そこまで喜べるのかな。@k@vS20/36/VTK1_natsumi1007.自分たちさえよければ、誰かは不幸になってもいいの…？」",
-            "NamesENG": "Natsumi",
-            "TextENG": "``But... how can they be so happy about it?@k@vS20/36/VTK1_natsumi1007. Even if it benefits them, is it right to enjoy someone else's misfortune...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5847,
-            "TextJPN": "確かに現場監督の人は、道で見かけた時は粗暴な風貌で…最初はなんだか、怖かった。",
-            "TextENG": "The one time I saw the on-site director on the road, he certainly did have a gruff appearance... and I was scared at first."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5848,
-            "TextJPN": "だけど、道を尋ねられてその場所を教えてあげたら、『ありがとう、お嬢ちゃん』と言って缶ジュースを買って渡してくれた。",
-            "TextENG": "But when he asked me for directions and I told him the way, he said ``thanks miss`` and bought me a can of juice."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5849,
-            "TextJPN": "以前、雛見沢で何年か暮らしていた時…私は根暗な子、と皆に思われていたので、村の人たちは私に対して、どこか空々しいところがある。",
-            "TextENG": "I used to live in Hinamizawa for a few years... and everyone always thought me a gloomy girl, so the villagers were always somewhat aloof to me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5850,
-            "TextJPN": "だから、久しぶりに親切にされて、…とても、嬉しかったんだ。",
-            "TextENG": "So, having someone treat me kindly for the first time in so long... made me really happy."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5851,
-            "NamesJPN": "夏美",
-            "PreTextTags": "@-@vS20/36/VTK1_natsumi1008.",
-            "TextJPN": "（人は、見かけによらないな。@k@vS20/36/VTK1_natsumi1009.この人も、きっと本当はいい人なんだ…）",
-            "NamesENG": "Natsumi",
-            "TextENG": "(You can't judge a book by its cover.@k@vS20/36/VTK1_natsumi1009. I'm sure he's a good person...)"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5852,
-            "TextJPN": "それだけに、少し仲良くしていた魅音ちゃんたちが、やたらとその人の悪口を言っているのが嫌だった。",
-            "TextENG": "That's why I hated when the people somewhat close to me like Mion-chan and the others talked bad about him."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5853,
-            "TextJPN": "村や親族をあげての抗議デモにも、参加する気にはなれなかった。",
-            "TextENG": "So, I wasn't interested in participating in the protest demonstrations with my relatives and the villagers."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5854,
-            "TextJPN": "御三家なのに、って陰で言われていることはわかっていたけれど、…聞かなかったふりをしていた。",
-            "TextENG": "Even though people criticized us behind our backs for that due to our ties to the Three Families... I pretended not to hear it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5855,
-            "TextJPN": "だけど…その人が、…つい先月、死んだ。",
-            "TextENG": "But... that man... died just last month."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5856,
-            "TextJPN": "殺されたんだ。",
-            "TextENG": "He was killed."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5857,
-            "TextJPN": "もう、話ができない。",
-            "TextENG": "He'd never speak again."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5858,
-            "TextJPN": "道で会っても、ジュースを買ってくれることは二度とない。",
-            "TextENG": "He'd never meet me on the roadside and buy me juice again."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5859,
-            "TextJPN": "そう思うと、…胸が締め付けられるように切なくて、悲しかった。",
-            "TextENG": "Thinking about that... my chest tightened in grief."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5860,
-            "TextJPN": "なのに…それなのに、この人たちは…。",
-            "TextENG": "And yet... despite that, these people were..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5861,
-            "NamesJPN": "夏美",
-            "PreTextTags": "@vS20/36/VTK1_natsumi1010.",
-            "TextJPN": "「……」",
-            "NamesENG": "Natsumi",
-            "TextENG": "``......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5862,
-            "TextJPN": "それに、不快なのはその薄情さだけじゃない。",
-            "TextENG": "And it wasn't just the harshness making me uncomfortable."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5863,
-            "TextJPN": "お魎さんや公由のおじーちゃんは『ざまーみろ』と言わんばかりに本心から喜んでいるけど、…周りの人たちは喜んでいる『ふり』をしているだけだ。",
-            "TextENG": "Oryou-san and Uncle Kimiyoshi seemed truly happy to say ``Serves them right``... but the people around them were just <i>pretending</i> to be happy."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5864,
-            "TextJPN": "その証拠に、酒肴を取りに歓声の輪からふと抜けて、一人になった時…妙に疲れた顔でため息をしきりについている。",
-            "TextENG": "As evidence of that, whenever one of them stepped out of the ring of cheers to grab a drink on their own... they'd sigh with a slightly tired look on their face."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5865,
-            "TextJPN": "彼らが喜んでいるのは、…仲間外れにならないために、そうしているだけ。",
-            "TextENG": "They're not actually happy... they're just doing it so they don't feel left out."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5866,
-            "TextJPN": "自分たちは、殺された現場監督さんのように村の意思に逆らっていない――そう、村の誰かに対して懸命に言い訳するために、迎合しているだけなんだ。",
-            "TextENG": "Defying the will of the village would make them just like the director who was killed... That's it, they're just making excuses to be accepted by the other villagers."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5867,
-            "NamesJPN": "夏美",
-            "PreTextTags": "@vS20/36/VTK1_natsumi1011.",
-            "TextJPN": "「…バカみたい」",
-            "NamesENG": "Natsumi",
-            "TextENG": "``...How stupid.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5868,
-            "TextJPN": "本当はみんな…祟りなんて全然、信じていない。",
-            "TextENG": "Really, everyone... doesn't believe in the curse at all."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5869,
-            "TextJPN": "彼らが恐れているのは、村の総意から外れて…雛見沢の『敵』と見なされること。",
-            "TextENG": "What they actually fear is going against the will of the village... being labeled an ``enemy`` of Hinamizawa."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5870,
-            "TextJPN": "残酷な蛮行さえ平気な顔をしてやってみせる『人』に嫌われて憎まれて、…『祟り』として見せしめに殺されることだ。",
-            "TextENG": "Enough so that they'd show barbaric faces to the people they hate... and wish that a ``curse`` would kill them."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5871,
-            "TextJPN": "…そして、『祟り』を受けるべき現場監督さんは今回、殺された。",
-            "TextENG": "...And, the on-site director was the one who received the ``curse`` this time."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5872,
-            "TextJPN": "そうなると、次に『祟り』が下される可能性が一番高いのは、ダム建設推進派をまとめあげている北条家の人々ということになるだろう。",
-            "TextENG": "And if that's the case, then the next one the ``curse`` is likely to befall is the Houjou family, who organized the pro-dam movement."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5873,
-            "TextJPN": "あるいは、彼らに与した者か…それとも、敵か味方かをはっきり明言しなかった者か…。",
-            "TextENG": "Or maybe someone who defended them... or even someone who didn't come out strongly enough saying that they were an enemy..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5874,
-            "TextJPN": "そんな噂を村人たちが口にしているのを、農作業の手伝いに駆り出された時などに何度か聞いたことがある。",
-            "TextENG": "I've heard the villagers spreading rumors like that when I was out helping with farming work."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5875,
-            "TextJPN": "そのたびに、言葉にするのもはばかるほど恐れられるのは、『オヤシロさま』じゃない。",
-            "TextENG": "And every time, it's not ``Oyashiro-sama`` they're afraid of."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5876,
-            "TextJPN": "その代弁者たる『御三家』だった。",
-            "TextENG": "It's the leaders of the ``Three Families.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5877,
-            "NamesJPN": "夏美",
-            "PreTextTags": "@vS20/36/VTK1_natsumi1012.",
-            "TextJPN": "「みんな…嘘つきだ」",
-            "NamesENG": "Natsumi",
-            "TextENG": "``Everyone... is lying.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5878,
-            "TextJPN": "さかんに言い募る郷土愛と、仲間意識。",
-            "TextENG": "They speak vehemently about companionship and pride in their hometown."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5879,
-            "TextJPN": "…その根本は、『恐怖』だ。",
-            "TextENG": "...But the root of all that is ``fear.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5880,
-            "TextJPN": "そんな後ろめたい、非道なもので一つにまとまった連帯行動が、本当に正当で合法にのっとったものと胸を張っていえるのだろうか…？",
-            "TextENG": "Can such an outrageously shameful solidarity really be legitimate? Is that something to take pride in...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5881,
-            "NamesJPN": "夏美",
-            "PreTextTags": "@vS20/36/VTK1_natsumi1013.",
-            "TextJPN": "「…っ…」",
-            "AfterTextTags": "@|@y",
-            "NamesENG": "Natsumi",
-            "TextENG": "``......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5882,
-            "TextJPN": "…頭が、痛い。",
-            "TextENG": "...My head ached."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5883,
-            "TextJPN": "動悸が激しくなって、冷たい汗が頬を流れ落ちてゆく。",
-            "TextENG": "My heartbeat was getting intense, and cold sweat began flowing down my cheeks."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5884,
-            "TextJPN": "私は胸を押さえながら、もう今日は帰らせてもらおうと思い、公由のおじーちゃんの所在を探した…。",
-            "TextENG": "I clung to my chest and thought about trying to go home for the day, so I decided to go looking for Uncle Kimiyoshi..."
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "D6 戦勝会にて",
+		"ENG": "D6 Victory Party"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5803,
+		"NamesJPN": "夏美",
+		"PreTextTags": "@-@vS20/36/VTK1_natsumi1001.",
+		"TextJPN": "（…何が、そんなに愉快なんだろう）",
+		"NamesENG": "Natsumi",
+		"TextENG": "(...What's so amusing about that?)"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5804,
+		"TextJPN": "親戚のおじいちゃんに頼まれて、その宴会の給仕を手伝っていた私には、…その喜びの意味がよく、わからなかった。",
+		"TextENG": "An old relative of mine asked me to serve for a banquet... and I didn't understand the meaning behind his extreme joy."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5805,
+		"TextJPN": "いや、『わからなかった』…じゃない。",
+		"TextENG": "No, it's not that I <i>didn't</i> understand..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5806,
+		"TextJPN": "『理解できなかった』んだ。",
+		"TextENG": "It's that I <i>couldn't</i> comprehend it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5807,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS20/00/VTK1_farmMa1015.",
+		"TextJPN": "「雛見沢ダム建設阻止成功、ばんざ――い！！」",
+		"NamesENG": "Villager",
+		"TextENG": "``Cheers for successfully preventing the Hinamizawa dam project!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5808,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS20/00/VTK1_farmMb1015.",
+		"TextJPN": "「鬼ヶ淵死守同盟、ばんざ――い！！」",
+		"NamesENG": "Villager",
+		"TextENG": "``Cheers for the Onigafuchi Guardians!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5809,
+		"TextJPN": "ひたすら万歳三唱の凱歌を上げながら、顔を真っ赤にして料理に舌鼓を打ち、酒を浴びるように飲んで騒ぎたてる、村の人たち。",
+		"TextENG": "The villagers were raising three cheers with their faces bright red from drinking, enjoying the food, and making a lot of noise."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5810,
+		"TextJPN": "みんなそれぞれ、豪快な笑い声を上げながら肩を叩き合ったり、誰かれ構わずに握手を繰り返したりしている。",
+		"TextENG": "Every last one of them was patting one another on the shoulder, shaking hands, and letting out roaring laughter regardless of who they were interacting with."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5811,
+		"TextJPN": "もう、すっかり夜も更けたけど、…その熱気は鎮まるどころか、さらに高まる一方だった。",
+		"TextENG": "It was already late in the night... but the mood was hardly calming down. In fact, it was getting hotter."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5812,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS20/00/VTK1_farmMa1016.",
+		"TextJPN": "「がっはっはっはっはっ！@k@vS20/00/VTK1_farmMa1017.　ざまーみろぉ役人ども！@k@vS20/00/VTK1_farmMa1018.　わしら雛見沢全員の結束の力、思い知ったか！」",
+		"NamesENG": "Villager",
+		"TextENG": "``Ga ha ha ha ha!@k@vS20/00/VTK1_farmMa1017. Serves you right, you bureaucrats!@k@vS20/00/VTK1_farmMa1018. You underestimated the power of all of Hinamizawa united!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5813,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS20/00/VTK1_farmMb1016.",
+		"TextJPN": "「そうじゃそうじゃ！@k@vS20/00/VTK1_farmMb1017.　正義はわしらにあり！@k@vS20/00/VTK1_farmMb1018.　あんな私利私欲のお役人どもにわしらの生活の基盤を破壊されてたまるかい！」",
+		"NamesENG": "Villager",
+		"TextENG": "``Yeah, yeah!@k@vS20/00/VTK1_farmMb1017. Justice was on our side!@k@vS20/00/VTK1_farmMb1018. I've had enough of these government officials selfishly destroying the foundation of our lives!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5814,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS20/00/VTK1_farmMc1015.",
+		"TextJPN": "「わしらの正義、そしてオヤシロさまに乾杯じゃ！！」",
+		"NamesENG": "Villager",
+		"TextENG": "``Let's have a toast, to our justice and to Oyashiro-sama!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5815,
+		"NamesJPN": "村人たち",
+		"PreTextTags": "@o65.@vS20/00/VTK1_farmMa1019|S20/00/VTK1_farmMb1019|S20/00/VTK1_farmMc1016.",
+		"TextJPN": "「「かんぱ――い！！！」」",
+		"NamesENG": "Villagers",
+		"TextENG": "````Cheers!!!````"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5816,
+		"TextJPN": "そう言って年寄りたちは、もう何度目かわからない乾杯の音頭を取り、ビールを一杯にしたグラスを掲げて叫んだ。",
+		"TextENG": "The old people raised another toast for who knows how many times today, and shouted while holding up their beer glasses."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5817,
+		"TextJPN": "…さらに笑い声が大きくなって、耳が痛いくらいに鳴動が響く。",
+		"TextENG": "...Their laughter was getting louder and louder, and my ears were painfully ringing."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5818,
+		"TextJPN": "部屋の中はすっかり酒と料理の匂いでむっとなり、少し気分が悪くなった私は廊下へと出た。",
+		"TextENG": "The smell of food and alcohol in the room was completely overbearing and I was starting to feel a little sick, so I stepped out into the hallway."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5819,
+		"NamesJPN": "夏美",
+		"PreTextTags": "@vS20/36/VTK1_natsumi1002.",
+		"TextJPN": "「…はぁ」",
+		"NamesENG": "Natsumi",
+		"TextENG": "``...Haah.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5820,
+		"TextJPN": "ようやく空気のよどみから抜け出たように、私は大きく息をつく。",
+		"TextENG": "Finally managing to escape that suffocating atmosphere, I took a great big breath."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5821,
+		"TextJPN": "雛見沢地区が、ダムの底に沈まなくてすむようになった。",
+		"TextENG": "The Hinamizawa region was no longer going to be submerged by the dam."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5822,
+		"TextJPN": "生まれ故郷であるこの村を失わずにすんだことは、お年寄りたちにとって確かにめでたいことなんだろう。",
+		"TextENG": "The old folks certainly did have reason to celebrate, since they prevented the loss of their hometown."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5823,
+		"TextJPN": "だけど…本当に村の人たち『全員』が、そう思って喜んでいるのだろうか。",
+		"TextENG": "But... is <i>everyone</i> in the village actually happy about this outcome?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5824,
+		"TextJPN": "そんな疑問を抱いたのは、両親の話を立ち聞きしたからだった。",
+		"TextENG": "That question came to mind after listening to my parents."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5825,
+		"NamesJPN": "夏美の母",
+		"PreTextTags": "@vS20/00/VTK1_natsumiM1001.",
+		"TextJPN": "「…雛見沢から立ち退く家には、結構な補償金が国からあてがわれるそうよ。@k@vS20/00/VTK1_natsumiM1002.それこそちょっとした都市部でも、一戸建ての家が持てるくらいの」",
+		"NamesENG": "Natsumi's mom",
+		"TextENG": "``...The government is apparently offering hefty compensation to the families displaced from Hinamizawa.@k@vS20/00/VTK1_natsumiM1002. It's even enough to buy a single-family home in a semi-urban area.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5826,
+		"NamesJPN": "夏美の母",
+		"PreTextTags": "@vS20/00/VTK1_natsumiM1003.",
+		"TextJPN": "「あぁ…そうとわかっていたら、住民票を雛見沢に残しておいたのにね」",
+		"NamesENG": "Natsumi's mom",
+		"TextENG": "``Haah... if I had known that, I would have kept Hinamizawa listed on my residence card.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5827,
+		"NamesJPN": "夏美の父",
+		"PreTextTags": "@vS20/00/VTK1_natsumiF1001.",
+		"TextJPN": "「おい…よさないか。@k@vS20/00/VTK1_natsumiF1002.お義母さんが聞いたら、きっと怒るぞ？@k@vS20/00/VTK1_natsumiF1003.　うちは仮にも、公由家の一員じゃないか」",
+		"NamesENG": "Natsumi's dad",
+		"TextENG": "``Hey... cut it out.@k@vS20/00/VTK1_natsumiF1002. I'm sure your mother would be upset if she heard that.@k@vS20/00/VTK1_natsumiF1003. We're still members of the Kimiyoshi family, aren't we?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5828,
+		"NamesJPN": "夏美の母",
+		"PreTextTags": "@vS20/00/VTK1_natsumiM1004.",
+		"TextJPN": "「構わないわよ。@k@vS20/00/VTK1_natsumiM1005.そもそもうちは御三家のひとつといっても、分家のひとつなんだから。@k@vS20/00/VTK1_natsumiM1006.別にありがたい恩恵もないし、私にとっては不便な田舎でしかなかったわ」",
+		"NamesENG": "Natsumi's mom",
+		"TextENG": "``I don't care.@k@vS20/00/VTK1_natsumiM1005. Plus, even if we're part of the Three Families, we're only a branch family.@k@vS20/00/VTK1_natsumiM1006. It never provided us any sort of benefit, and for me it just meant I had to live way out in the countryside.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5829,
+		"TextJPN": "…わざわざ都市部の、それも全寮制の高校に進学したのも、それが理由だったそうだ。",
+		"TextENG": "...That was the reason she went to a boarding school in the city for high school."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5830,
+		"TextJPN": "大学も、就職先もその町で見つけて、夏休みでも部活だの、バイトだのと言ってほとんど実家に帰らなかったらしい。",
+		"TextENG": "She found a college and a job in that same town, and I hear she used that part-time job as an excuse not to go home over the summer."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5831,
+		"TextJPN": "だから、おばーちゃんとの仲は…今でもあまりいいほうじゃない。",
+		"TextENG": "That's why, even now... she didn't get along well with Grandma."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5832,
+		"TextJPN": "ダム建設の抗議運動が起こった時など、雛見沢に妄執するおばーちゃんと一緒に見られるのが嫌だという理由で、一切参加しなかったほどだ。",
+		"TextENG": "She didn't participate at all in the dam war, because she didn't want to be seen with Grandma who was obsessed with Hinamizawa."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5833,
+		"TextJPN": "そもそも、おかーさんは雛見沢に限らず…田舎暮らしを嫌っていた。",
+		"TextENG": "Mom never felt tied down to Hinamizawa in the first place... she hated the countryside."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5834,
+		"TextJPN": "限られた娯楽に、乏しい情報。",
+		"TextENG": "Information was scarce and entertainment options were limited."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5835,
+		"TextJPN": "不便な交通に、辛気臭い風土…。",
+		"TextENG": "Travel was inconvenient, and the climate was hot..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5836,
+		"TextJPN": "ただ、口うるさくて、時々煩わしいとすら思えるおかーさんだけど、…その気持ちだけは私にもよくわかる。",
+		"TextENG": "Mom can be loud and annoying sometimes... but I understand how she must've felt."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5837,
+		"TextJPN": "だって、私も…雛見沢があまり、好きじゃないから。",
+		"TextENG": "Because... I wasn't all that fond of Hinamizawa either."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5838,
+		"TextJPN": "そして今夜のことで、その思いは『嫌い』に大きく傾きつつあった。",
+		"TextENG": "And tonight in particular, my thoughts were leaning closer to ``hate.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5839,
+		"NamesJPN": "夏美",
+		"PreTextTags": "@vS20/36/VTK1_natsumi1003.",
+		"TextJPN": "「…。@k@vS20/36/VTK1_natsumi1004.人が、死んでるのに。@k@vS20/36/VTK1_natsumi1005.なんでこの人たちは、こんなに笑えるんだろう…」",
+		"NamesENG": "Natsumi",
+		"TextENG": "``...@k@vS20/36/VTK1_natsumi1004.Even though people have died,@k@vS20/36/VTK1_natsumi1005. how can these people smile and laugh this much...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5840,
+		"TextJPN": "つい、先月のことだ。",
+		"TextENG": "It happened just last month."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5841,
+		"TextJPN": "ダム建設現場で、そこの現場監督を務めていた人が作業員たちに惨殺されて、…バラバラ死体となって見つかった。",
+		"TextENG": "The on-site director at the dam construction site was slaughtered by his laborers... and his body was found dismembered."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5842,
+		"TextJPN": "その犯人の一人はまだ捕まっていなくて、…興宮に潜伏したという噂もある。",
+		"TextENG": "One of the culprits still hasn't been found... and there are rumors that they hid in Okinomiya."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5843,
+		"TextJPN": "それを受けて私の学校では今、集団登校と集団下校が義務付けられていた。",
+		"TextENG": "Thanks to that, my school required everyone to travel in groups when coming and going from school."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5844,
+		"TextJPN": "だけど、…最近雛見沢ダムの建設計画が再度審議にかけられることになったという話が、町会のもとに舞い込んできたらしい。",
+		"TextENG": "But... discussions about the Hinamizawa dam project are now being re-reviewed, and word of that seems to have reached the town council."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5845,
+		"TextJPN": "だから村の人たちは、現場監督さんが殺されたのは『オヤシロさま』の祟りで、…国のダム建設計画もそれを畏れて凍結になったのだ、との見解が専らになっていた。",
+		"TextENG": "That's why the villagers have been saying the curse of ``Oyashiro-sama`` killed the on-site director... and the government froze the dam construction plan out of fear."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5846,
+		"NamesJPN": "夏美",
+		"PreTextTags": "@vS20/36/VTK1_natsumi1006.",
+		"TextJPN": "「でも、…どうして、そこまで喜べるのかな。@k@vS20/36/VTK1_natsumi1007.自分たちさえよければ、誰かは不幸になってもいいの…？」",
+		"NamesENG": "Natsumi",
+		"TextENG": "``But... how can they be so happy about it?@k@vS20/36/VTK1_natsumi1007. Even if it benefits them, is it right to enjoy someone else's misfortune...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5847,
+		"TextJPN": "確かに現場監督の人は、道で見かけた時は粗暴な風貌で…最初はなんだか、怖かった。",
+		"TextENG": "The one time I saw the on-site director on the road, he certainly did have a gruff appearance... and I was scared at first."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5848,
+		"TextJPN": "だけど、道を尋ねられてその場所を教えてあげたら、『ありがとう、お嬢ちゃん』と言って缶ジュースを買って渡してくれた。",
+		"TextENG": "But when he asked me for directions and I told him the way, he said ``thanks miss`` and bought me a can of juice."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5849,
+		"TextJPN": "以前、雛見沢で何年か暮らしていた時…私は根暗な子、と皆に思われていたので、村の人たちは私に対して、どこか空々しいところがある。",
+		"TextENG": "I used to live in Hinamizawa for a few years... and everyone always thought me a gloomy girl, so the villagers were always somewhat aloof to me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5850,
+		"TextJPN": "だから、久しぶりに親切にされて、…とても、嬉しかったんだ。",
+		"TextENG": "So, having someone treat me kindly for the first time in so long... made me really happy."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5851,
+		"NamesJPN": "夏美",
+		"PreTextTags": "@-@vS20/36/VTK1_natsumi1008.",
+		"TextJPN": "（人は、見かけによらないな。@k@vS20/36/VTK1_natsumi1009.この人も、きっと本当はいい人なんだ…）",
+		"NamesENG": "Natsumi",
+		"TextENG": "(You can't judge a book by its cover.@k@vS20/36/VTK1_natsumi1009. I'm sure he's a good person...)"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5852,
+		"TextJPN": "それだけに、少し仲良くしていた魅音ちゃんたちが、やたらとその人の悪口を言っているのが嫌だった。",
+		"TextENG": "That's why I hated when the people somewhat close to me like Mion-chan and the others talked bad about him."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5853,
+		"TextJPN": "村や親族をあげての抗議デモにも、参加する気にはなれなかった。",
+		"TextENG": "So, I wasn't interested in participating in the protest demonstrations with my relatives and the villagers."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5854,
+		"TextJPN": "御三家なのに、って陰で言われていることはわかっていたけれど、…聞かなかったふりをしていた。",
+		"TextENG": "Even though people criticized us behind our backs for that due to our ties to the Three Families... I pretended not to hear it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5855,
+		"TextJPN": "だけど…その人が、…つい先月、死んだ。",
+		"TextENG": "But... that man... died just last month."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5856,
+		"TextJPN": "殺されたんだ。",
+		"TextENG": "He was killed."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5857,
+		"TextJPN": "もう、話ができない。",
+		"TextENG": "He'd never speak again."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5858,
+		"TextJPN": "道で会っても、ジュースを買ってくれることは二度とない。",
+		"TextENG": "He'd never meet me on the roadside and buy me juice again."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5859,
+		"TextJPN": "そう思うと、…胸が締め付けられるように切なくて、悲しかった。",
+		"TextENG": "Thinking about that... my chest tightened in grief."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5860,
+		"TextJPN": "なのに…それなのに、この人たちは…。",
+		"TextENG": "And yet... despite that, these people were..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5861,
+		"NamesJPN": "夏美",
+		"PreTextTags": "@vS20/36/VTK1_natsumi1010.",
+		"TextJPN": "「……」",
+		"NamesENG": "Natsumi",
+		"TextENG": "``......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5862,
+		"TextJPN": "それに、不快なのはその薄情さだけじゃない。",
+		"TextENG": "And it wasn't just the harshness making me uncomfortable."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5863,
+		"TextJPN": "お魎さんや公由のおじーちゃんは『ざまーみろ』と言わんばかりに本心から喜んでいるけど、…周りの人たちは喜んでいる『ふり』をしているだけだ。",
+		"TextENG": "Oryou-san and Uncle Kimiyoshi seemed truly happy to say ``Serves them right``... but the people around them were just <i>pretending</i> to be happy."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5864,
+		"TextJPN": "その証拠に、酒肴を取りに歓声の輪からふと抜けて、一人になった時…妙に疲れた顔でため息をしきりについている。",
+		"TextENG": "As evidence of that, whenever one of them stepped out of the ring of cheers to grab a drink on their own... they'd sigh with a slightly tired look on their face."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5865,
+		"TextJPN": "彼らが喜んでいるのは、…仲間外れにならないために、そうしているだけ。",
+		"TextENG": "They're not actually happy... they're just doing it so they don't feel left out."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5866,
+		"TextJPN": "自分たちは、殺された現場監督さんのように村の意思に逆らっていない――そう、村の誰かに対して懸命に言い訳するために、迎合しているだけなんだ。",
+		"TextENG": "Defying the will of the village would make them just like the director who was killed... That's it, they're just making excuses to be accepted by the other villagers."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5867,
+		"NamesJPN": "夏美",
+		"PreTextTags": "@vS20/36/VTK1_natsumi1011.",
+		"TextJPN": "「…バカみたい」",
+		"NamesENG": "Natsumi",
+		"TextENG": "``...How stupid.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5868,
+		"TextJPN": "本当はみんな…祟りなんて全然、信じていない。",
+		"TextENG": "Really, everyone... doesn't believe in the curse at all."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5869,
+		"TextJPN": "彼らが恐れているのは、村の総意から外れて…雛見沢の『敵』と見なされること。",
+		"TextENG": "What they actually fear is going against the will of the village... being labeled an ``enemy`` of Hinamizawa."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5870,
+		"TextJPN": "残酷な蛮行さえ平気な顔をしてやってみせる『人』に嫌われて憎まれて、…『祟り』として見せしめに殺されることだ。",
+		"TextENG": "Enough so that they'd show barbaric faces to the people they hate... and wish that a ``curse`` would kill them."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5871,
+		"TextJPN": "…そして、『祟り』を受けるべき現場監督さんは今回、殺された。",
+		"TextENG": "...And, the on-site director was the one who received the ``curse`` this time."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5872,
+		"TextJPN": "そうなると、次に『祟り』が下される可能性が一番高いのは、ダム建設推進派をまとめあげている北条家の人々ということになるだろう。",
+		"TextENG": "And if that's the case, then the next one the ``curse`` is likely to befall is the Houjou family, who organized the pro-dam movement."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5873,
+		"TextJPN": "あるいは、彼らに与した者か…それとも、敵か味方かをはっきり明言しなかった者か…。",
+		"TextENG": "Or maybe someone who defended them... or even someone who didn't come out strongly enough saying that they were an enemy..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5874,
+		"TextJPN": "そんな噂を村人たちが口にしているのを、農作業の手伝いに駆り出された時などに何度か聞いたことがある。",
+		"TextENG": "I've heard the villagers spreading rumors like that when I was out helping with farming work."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5875,
+		"TextJPN": "そのたびに、言葉にするのもはばかるほど恐れられるのは、『オヤシロさま』じゃない。",
+		"TextENG": "And every time, it's not ``Oyashiro-sama`` they're afraid of."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5876,
+		"TextJPN": "その代弁者たる『御三家』だった。",
+		"TextENG": "It's the leaders of the ``Three Families.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5877,
+		"NamesJPN": "夏美",
+		"PreTextTags": "@vS20/36/VTK1_natsumi1012.",
+		"TextJPN": "「みんな…嘘つきだ」",
+		"NamesENG": "Natsumi",
+		"TextENG": "``Everyone... is lying.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5878,
+		"TextJPN": "さかんに言い募る郷土愛と、仲間意識。",
+		"TextENG": "They speak vehemently about companionship and pride in their hometown."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5879,
+		"TextJPN": "…その根本は、『恐怖』だ。",
+		"TextENG": "...But the root of all that is ``fear.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5880,
+		"TextJPN": "そんな後ろめたい、非道なもので一つにまとまった連帯行動が、本当に正当で合法にのっとったものと胸を張っていえるのだろうか…？",
+		"TextENG": "Can such an outrageously shameful solidarity really be legitimate? Is that something to take pride in...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5881,
+		"NamesJPN": "夏美",
+		"PreTextTags": "@vS20/36/VTK1_natsumi1013.",
+		"TextJPN": "「…っ…」",
+		"AfterTextTags": "@|@y",
+		"NamesENG": "Natsumi",
+		"TextENG": "``......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5882,
+		"TextJPN": "…頭が、痛い。",
+		"TextENG": "...My head ached."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5883,
+		"TextJPN": "動悸が激しくなって、冷たい汗が頬を流れ落ちてゆく。",
+		"TextENG": "My heartbeat was getting intense, and cold sweat began flowing down my cheeks."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5884,
+		"TextJPN": "私は胸を押さえながら、もう今日は帰らせてもらおうと思い、公由のおじーちゃんの所在を探した…。",
+		"TextENG": "I clung to my chest and thought about trying to go home for the day, so I decided to go looking for Uncle Kimiyoshi..."
+	}
+]

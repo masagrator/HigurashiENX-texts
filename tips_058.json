@@ -1,109 +1,107 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "地獄の業火",
-            "ENG": "Fire from Hell"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14197,
-            "NamesJPN": "救急情報センター",
-            "PreTextTags": "@vS20/00/fireA44001.",
-            "TextJPN": "「はいもしもし。救急ですか、消防ですか」",
-            "NamesENG": "Emergency Center",
-            "TextENG": "``Hello? Do you need the hospital or the fire department?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14198,
-            "NamesJPN": "通報者",
-            "PreTextTags": "@vS20/00/watchA44001.",
-            "TextJPN": "「え、っと…消防です！」",
-            "NamesENG": "Watchman",
-            "TextENG": "``Err... the fire department!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14199,
-            "NamesJPN": "救急情報センター",
-            "PreTextTags": "@vS20/00/fireA44002.",
-            "TextJPN": "「火事ですか、事故ですか？　落ち着いて話してください」",
-            "NamesENG": "Emergency Center",
-            "TextENG": "``Is there a fire, or some other accident? Please speak slowly and calmly.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14200,
-            "NamesJPN": "通報者",
-            "PreTextTags": "@vS20/00/watchA44002.",
-            "TextJPN": "「た、多分、火事だと思います…。こちらは中部高速の垣内サービスエリアなんですけどね、…裏の山から何だかすっごい火と煙が上がってるのが見えるんですよ」",
-            "NamesENG": "Watchman",
-            "TextENG": "``I-I think it's a fire... This is the _____ rest area on the ____ Highway... I can see a ton of fire and smoke coming up from the mountains behind us."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14201,
-            "NamesJPN": "通報者",
-            "PreTextTags": "@vS20/00/watchA44003.",
-            "TextJPN": "「あんなところ、誰も立ち入らないから、何で火がついてるのかよくわかんないですけど…。とにかく、連絡した方がいいと思って…！@k@vS20/00/watchA44004.　山火事にならないとも限らないし！」",
-            "NamesENG": "Watchman",
-            "TextENG": "Nobody goes back there, so I don't know why anything got lit on fire... Anyway, I figured I should let you know...!@k@vS20/00/watchA44004. It could turn into a forest fire!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14202,
-            "NamesJPN": "救急情報センター",
-            "PreTextTags": "@vS20/00/fireA44003.",
-            "TextJPN": "「わかりました。すぐに現場を確認しますので、そちら様のお名前とすぐに連絡のつく電話番号、それから火災現場の詳細な場所をお願いします」",
-            "NamesENG": "Emergency Center",
-            "TextENG": "``I understand. I need to know exactly where you are, so please tell me your name, a phone number we can use to get in touch with you, and the exact location of the fire.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14203,
-            "NamesJPN": "消防司令部",
-            "PreTextTags": "@vS20/00/fireB44001.",
-            "TextJPN": "「消防司令部より通達。Ｇブロック西側山斜面にて不審火の通報あり。@k@vS20/00/fireB44002.街道から離れていることから、カップルの焚き火か、不法投棄のゴミに放火したかの可能性があります」",
-            "NamesENG": "Fire Department Headquarters",
-            "TextENG": "``Notice from the fire department headquarters. We have a report of a suspicious fire on the western slopes of the _____ Mountain.@k@vS20/00/fireB44002. Given its distance from the road, it could be a couple's bonfire or someone unlawfully burning trash."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14204,
-            "NamesJPN": "消防司令部",
-            "PreTextTags": "@vS20/00/fireB44003.",
-            "TextJPN": "「現場は深い森林地帯。周辺に民家はないが、延焼の可能性あり。@k@vS20/00/fireB44004.直ちに現場を確認されたし」",
-            "NamesENG": "Fire Department Headquarters",
-            "TextENG": "The location is deep in the woods. No homes in the area, but the fire could spread.@k@vS20/00/fireB44004. Immediately go to the site to verify.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14205,
-            "NamesJPN": "団員",
-            "PreTextTags": "@vS20/00/villC44001.",
-            "TextJPN": "「消防署ですか。こちらはＧブロック第三消防分団です。@k@vS20/00/villC44002.通報の現場にさっき到着。@k@vS20/00/villC44003.ドラム缶がひとつ山中に放棄され、炎上しているのを確認しました。@k@vS20/00/villC44004.火は鎮火しつつあり、延焼の可能性はなし」",
-            "NamesENG": "Group Member",
-            "TextENG": "``Is this the fire station? This is the ____ District fire department branch.@k@vS20/00/villC44002. We arrived moments ago at the reported area.@k@vS20/00/villC44003. Fire confirmed to be a burning oil drum left in the mountains.@k@vS20/00/villC44004. The fire is calming, and there is no chance it will spread."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14206,
-            "NamesJPN": "団員",
-            "PreTextTags": "@vS20/00/villC44005.",
-            "TextJPN": "「………で、……その、………ドラム缶の中に、…多分、人じゃないかと思うんです。人らしきものが灯油か何かで焼かれた…という感じで。@k@vS20/00/villC44006.……その、……警察の人にも連絡した方がいいんじゃないかと思いまして…」",
-            "NamesENG": "Group Member",
-            "TextENG": "......And... well...... in the oil drum... I think it might be a person. Like, a person burned with kerosene... or something.@k@vS20/00/villC44006. ...Well... I think maybe we should get the police over here...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14207,
-            "NamesJPN": "団員",
-            "PreTextTags": "@vS20/00/villD44001.",
-            "TextJPN": "「わ、…わ！！　まま、間違いねぇよ！！@k@vS20/00/villD44002.　これ、人だよ！！@k@vS20/00/villD44003.　ひぇえぇええ……！！」",
-            "NamesENG": "Group Member",
-            "TextENG": "``Ah... ah!! T-T-There's no mistaking it!!@k@vS20/00/villD44002. This is a person!!@k@vS20/00/villD44003. Eeeeeeek...!!``"
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "地獄の業火",
+		"ENG": "Fire from Hell"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14197,
+		"NamesJPN": "救急情報センター",
+		"PreTextTags": "@vS20/00/fireA44001.",
+		"TextJPN": "「はいもしもし。救急ですか、消防ですか」",
+		"NamesENG": "Emergency Center",
+		"TextENG": "``Hello? Do you need the hospital or the fire department?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14198,
+		"NamesJPN": "通報者",
+		"PreTextTags": "@vS20/00/watchA44001.",
+		"TextJPN": "「え、っと…消防です！」",
+		"NamesENG": "Watchman",
+		"TextENG": "``Err... the fire department!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14199,
+		"NamesJPN": "救急情報センター",
+		"PreTextTags": "@vS20/00/fireA44002.",
+		"TextJPN": "「火事ですか、事故ですか？　落ち着いて話してください」",
+		"NamesENG": "Emergency Center",
+		"TextENG": "``Is there a fire, or some other accident? Please speak slowly and calmly.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14200,
+		"NamesJPN": "通報者",
+		"PreTextTags": "@vS20/00/watchA44002.",
+		"TextJPN": "「た、多分、火事だと思います…。こちらは中部高速の垣内サービスエリアなんですけどね、…裏の山から何だかすっごい火と煙が上がってるのが見えるんですよ」",
+		"NamesENG": "Watchman",
+		"TextENG": "``I-I think it's a fire... This is the _____ rest area on the ____ Highway... I can see a ton of fire and smoke coming up from the mountains behind us."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14201,
+		"NamesJPN": "通報者",
+		"PreTextTags": "@vS20/00/watchA44003.",
+		"TextJPN": "「あんなところ、誰も立ち入らないから、何で火がついてるのかよくわかんないですけど…。とにかく、連絡した方がいいと思って…！@k@vS20/00/watchA44004.　山火事にならないとも限らないし！」",
+		"NamesENG": "Watchman",
+		"TextENG": "Nobody goes back there, so I don't know why anything got lit on fire... Anyway, I figured I should let you know...!@k@vS20/00/watchA44004. It could turn into a forest fire!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14202,
+		"NamesJPN": "救急情報センター",
+		"PreTextTags": "@vS20/00/fireA44003.",
+		"TextJPN": "「わかりました。すぐに現場を確認しますので、そちら様のお名前とすぐに連絡のつく電話番号、それから火災現場の詳細な場所をお願いします」",
+		"NamesENG": "Emergency Center",
+		"TextENG": "``I understand. I need to know exactly where you are, so please tell me your name, a phone number we can use to get in touch with you, and the exact location of the fire.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14203,
+		"NamesJPN": "消防司令部",
+		"PreTextTags": "@vS20/00/fireB44001.",
+		"TextJPN": "「消防司令部より通達。Ｇブロック西側山斜面にて不審火の通報あり。@k@vS20/00/fireB44002.街道から離れていることから、カップルの焚き火か、不法投棄のゴミに放火したかの可能性があります」",
+		"NamesENG": "Fire Department Headquarters",
+		"TextENG": "``Notice from the fire department headquarters. We have a report of a suspicious fire on the western slopes of the _____ Mountain.@k@vS20/00/fireB44002. Given its distance from the road, it could be a couple's bonfire or someone unlawfully burning trash."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14204,
+		"NamesJPN": "消防司令部",
+		"PreTextTags": "@vS20/00/fireB44003.",
+		"TextJPN": "「現場は深い森林地帯。周辺に民家はないが、延焼の可能性あり。@k@vS20/00/fireB44004.直ちに現場を確認されたし」",
+		"NamesENG": "Fire Department Headquarters",
+		"TextENG": "The location is deep in the woods. No homes in the area, but the fire could spread.@k@vS20/00/fireB44004. Immediately go to the site to verify.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14205,
+		"NamesJPN": "団員",
+		"PreTextTags": "@vS20/00/villC44001.",
+		"TextJPN": "「消防署ですか。こちらはＧブロック第三消防分団です。@k@vS20/00/villC44002.通報の現場にさっき到着。@k@vS20/00/villC44003.ドラム缶がひとつ山中に放棄され、炎上しているのを確認しました。@k@vS20/00/villC44004.火は鎮火しつつあり、延焼の可能性はなし」",
+		"NamesENG": "Group Member",
+		"TextENG": "``Is this the fire station? This is the ____ District fire department branch.@k@vS20/00/villC44002. We arrived moments ago at the reported area.@k@vS20/00/villC44003. Fire confirmed to be a burning oil drum left in the mountains.@k@vS20/00/villC44004. The fire is calming, and there is no chance it will spread."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14206,
+		"NamesJPN": "団員",
+		"PreTextTags": "@vS20/00/villC44005.",
+		"TextJPN": "「………で、……その、………ドラム缶の中に、…多分、人じゃないかと思うんです。人らしきものが灯油か何かで焼かれた…という感じで。@k@vS20/00/villC44006.……その、……警察の人にも連絡した方がいいんじゃないかと思いまして…」",
+		"NamesENG": "Group Member",
+		"TextENG": "......And... well...... in the oil drum... I think it might be a person. Like, a person burned with kerosene... or something.@k@vS20/00/villC44006. ...Well... I think maybe we should get the police over here...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14207,
+		"NamesJPN": "団員",
+		"PreTextTags": "@vS20/00/villD44001.",
+		"TextJPN": "「わ、…わ！！　まま、間違いねぇよ！！@k@vS20/00/villD44002.　これ、人だよ！！@k@vS20/00/villD44003.　ひぇえぇええ……！！」",
+		"NamesENG": "Group Member",
+		"TextENG": "``Ah... ah!! T-T-There's no mistaking it!!@k@vS20/00/villD44002. This is a person!!@k@vS20/00/villD44003. Eeeeeeek...!!``"
+	}
+]

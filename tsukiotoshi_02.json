@@ -1,2077 +1,2075 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "#2 職員室にて",
-            "ENG": "#2 / In the Staff Room"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48616,
-            "TextJPN": "俺と詩音は、まず身近な大人たちに沙都子が置かれている状況を訴えようと、職員室へ向かった。",
-            "TextENG": "Shion and I decided that the best way to handle Satoko's situation was to appeal to the adults close to us, so we headed to the teacher's lounge."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48617,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS18/22/161400001.",
-            "TextJPN": "「あら、どうしたんです、前原くん？@k@vS18/22/161400002.　委員長も一緒に、何か困りごと？」",
-            "NamesENG": "Chie",
-            "TextENG": "``Oh, what's wrong, Maebara-kun?@k@vS18/22/161400002. And you're here with the Class Representative too. Is there a problem?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48618,
-            "TextJPN": "そう言った知恵先生の前に、すっと詩音が身を乗り出した。",
-            "TextENG": "Right after Chie-sensei said that, Shion immediately cut in."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48619,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS18/06/160600080.",
-            "TextJPN": "「申し訳ありませんが、私、魅音じゃありません。@k@vS18/06/160600081.妹の詩音です」",
-            "NamesENG": "Shion",
-            "TextENG": "``I'm sorry, but I'm actually not Mion.@k@vS18/06/160600081. I'm her sister, Shion.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48620,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS18/22/161400003.",
-            "TextJPN": "「そ、そうですか……？」",
-            "NamesENG": "Chie",
-            "TextENG": "``O-oh, is that so...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48621,
-            "TextJPN": "知恵先生は戸惑いを隠せない様子だ。",
-            "TextENG": "Chie-sensei was unable to hide her confusion."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48622,
-            "TextJPN": "無理もない。俺だって以前、詩音の存在を一度ならず疑ってしまったことがあったっけ。",
-            "TextENG": "Her reaction wasn't unreasonable. Even I had my doubts about Shion's existence for a while."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48623,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS18/22/161400004.",
-            "TextJPN": "「あまりそっくりだから、間違えてしまいそうですね……」",
-            "NamesENG": "Chie",
-            "TextENG": "``You're both so similar, so I'm afraid I was mistaken...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48624,
-            "TextJPN": "しかし、そんな知恵先生の疑問には答えず、詩音は間髪入れずに切り出した。",
-            "TextENG": "However, Shion pressed forward with no regard for Chie-sensei's response."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48625,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS18/06/160600082.",
-            "TextJPN": "「聞いて欲しいことがあるんです。@k@vS18/06/160600083.一刻を争う事態なんです」",
-            "NamesENG": "Shion",
-            "TextENG": "``There is something you need to hear.@k@vS18/06/160600083. We have a dire situation, and there's no time to lose.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48626,
-            "TextJPN": "せっぱ詰まった詩音の眼差しに、知恵先生は反射的に背筋を伸ばした。",
-            "TextENG": "When she saw the passion in Shion's eyes, Chie-sensei immediately sat upright."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48627,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS18/06/160600083_1.",
-            "TextJPN": "「北条沙都子は、叔父である北条鉄平との生活に問題を抱えています」",
-            "NamesENG": "Shion",
-            "TextENG": "``Satoko Houjou is having major problems living with her uncle, Teppei Houjou.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48628,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS18/22/161400005.",
-            "TextJPN": "「穏やかではありませんね……。@k@vS18/22/161400006.断定できる根拠はあるのですか？」",
-            "NamesENG": "Chie",
-            "TextENG": "``You seem quite serious about this...@k@vS18/22/161400006. Do you have any evidence to support this allegation?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48629,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS18/06/160600085.",
-            "TextJPN": "「先生は、沙都子がずっと欠席してる理由、もちろん知ってますよね？」",
-            "NamesENG": "Shion",
-            "TextENG": "``Sensei, I'm sure you've noticed that Satoko has been absent for a while now. Do you know why?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48630,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS18/22/161400007.",
-            "TextJPN": "「それは……みなさんにお伝えしてるように病欠です。@k@vS18/22/161400008.保護者からきちんと報告を受けています」",
-            "NamesENG": "Chie",
-            "TextENG": "``That's because... she's been sick, or that's what I've been told.@k@vS18/22/161400008. I've received proper reports from her guardian saying as much.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48631,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS18/06/160600086.",
-            "TextJPN": "「あの男が保護者？@k@vS18/06/160600087.　それ、本気で言ってるんですか？！」",
-            "NamesENG": "Shion",
-            "TextENG": "``Is that man her guardian?@k@vS18/06/160600087. Is that really what you're telling me?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48632,
-            "TextJPN": "詩音の挑戦的な態度にも動揺することなく、知恵先生はあくまで理性を貫く。",
-            "TextENG": "With Shion unwilling to shake her antagonistic demeanor, Chie-sensei continued explaining her reasoning."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48633,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS18/22/161400009.",
-            "TextJPN": "「噂や憶測が流れていることは、先生も知っています。@k@vS18/22/161400010.だからこそ、現時点では冷静に状況を見極めることが適切だと考えています」",
-            "NamesENG": "Chie",
-            "TextENG": "``I'm aware that rumors have been going around.@k@vS18/22/161400010. That's why I believe the best course of action at the moment is to calmly assess the situation.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48634,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS18/06/160600088.",
-            "TextJPN": "「それじゃあ、このまま何もせずに沙都子をほったらかしってことですか？」",
-            "NamesENG": "Shion",
-            "TextENG": "``Well then, does that mean you're going to leave Satoko like this without doing anything about it?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48635,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS18/22/161400011.",
-            "TextJPN": "「いいえ。まずは北条さんのお宅にうかがって、状況を率直にうかがうつもりです」",
-            "NamesENG": "Chie",
-            "TextENG": "``No. First off, I'm going to head to Houjou-san's house and speak frankly with him about the situation.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48636,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS18/06/160600089.",
-            "TextJPN": "「保護者づらして丸め込むに決まってます！」",
-            "NamesENG": "Shion",
-            "TextENG": "``He's just going to pretend to be a proper guardian, like always!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48637,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS18/01/160100075.",
-            "TextJPN": "「詩音、落ち着け。@k@vS18/01/160100076.今は先生の話を聞こう」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Shion, calm down.@k@vS18/01/160100076. Let's listen to Sensei for now.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48638,
-            "TextJPN": "俺たちは子供じみた正義感で突っ走りすぎている。",
-            "TextENG": "We were getting carried away by our child-like notion of justice."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48639,
-            "TextJPN": "感情だけでは沙都子を救うことはできない。むしろ現実的な支えが必要な時だ。",
-            "TextENG": "Emotions alone won't help Satoko. Quite the opposite, this is the time when realistic support is necessary."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48640,
-            "TextJPN": "それに、知恵先生なら……もしかすると、少しは動いてくれるかもしれない。その思いに最後の望みを賭けたかった。",
-            "TextENG": "Besides, now that Chie-sensei is involved... maybe it will move things forward a little."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48641,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS18/01/160100077.",
-            "TextJPN": "「先生は投げやりな態度を決め込むような人じゃない。@k@vS18/01/160100078.沙都子のことを真剣に考えてくれるはずだ。@k@vS18/01/160100079.先生、そうですよね？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Sensei, you're not the sort of person to dismiss concerns so lightly.@k@vS18/01/160100078. I believe you're giving Satoko's situation proper consideration.@k@vS18/01/160100079. Right, Sensei?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48642,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS18/22/161400012.",
-            "TextJPN": "「そうですね。@k@vS18/22/161400013.今はあれこれ思い悩むような彼氏もいないわけですし、せめて可愛い生徒の将来については先生も一緒に考えさせてほしいと思っていますよ」",
-            "NamesENG": "Chie",
-            "TextENG": "``That's right.@k@vS18/22/161400013. I'm not about to let some man get in the way. It's my responsibility as a teacher to think about the future of my adorable students.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48643,
-            "TextJPN": "詩音はふっと笑みを見せると、肩の力を抜いた。",
-            "TextENG": "Shion finally started to smile and relax her shoulders."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48644,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS18/06/160600090.",
-            "TextJPN": "「解りました……」",
-            "NamesENG": "Shion",
-            "TextENG": "``I understand...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48645,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS18/22/161400014.",
-            "TextJPN": "「問題となる事実が少しでも見受けられた場合は、断固たる処置を取るつもりです」",
-            "NamesENG": "Chie",
-            "TextENG": "``If I notice any real problems, even something minor, I'm willing to take decisive action.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48646,
-            "TextJPN": "詩音は疑わしげに、露骨に眉をひそめる。そんな彼女を落ち着かせようと、知恵先生は肩に手を乗せて続けた。",
-            "TextENG": "Shion dubiously frowned. Chie-sensei put a hand on her shoulder to try and calm her."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48647,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS18/22/161400022.",
-            "TextJPN": "「時には、人に頼り信じることも大切ですよ。@k@vS18/22/161400023.私はそれも勇気だと思っています」",
-            "NamesENG": "Chie",
-            "TextENG": "``Sometimes, it's important to depend on others, and to believe in them.@k@vS18/22/161400023. I think it takes courage to do that.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48648,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS18/01/160100080.",
-            "TextJPN": "「信じていいんですよね、先生？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``We can believe in you, Sensei?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48649,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS18/22/161400024.",
-            "TextJPN": "「先生が嘘ついたことありますか？」",
-            "NamesENG": "Chie",
-            "TextENG": "``Have I ever lied to you?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48650,
-            "TextJPN": "俺はゆっくり頭を振る。まだ長い付き合いと呼べるほどではないが、それだけはなかった。……と、思う。",
-            "TextENG": "I gently shook my head. We hadn't know each other for very long, but it seemed long enough. ...I thought so, anyway."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48651,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS18/22/161400025.",
-            "TextJPN": "「この件は先生に預からせてください。@k@vS18/22/161400026.前原くんと……委員長の妹さんは心配しないこと」",
-            "NamesENG": "Chie",
-            "TextENG": "``Please, let me handle this.@k@vS18/22/161400026. Maebara-kun... and you too Shion, don't worry about this.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48652,
-            "TextJPN": "知恵先生は『任せなさい』と言わんばかりに、胸をポンと叩いた。",
-            "TextENG": "Chie-sensei pounded her chest as she said that, as if to say ``I'll take care of everything.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48653,
-            "TextJPN": "知恵先生の言葉に、一応は納得みせたものの、",
-            "TextENG": "Though I was convinced by Chie-sensei's words at first..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48654,
-            "TextJPN": "咄嗟に見せた“大人”の冷酷な反応を目の当たりにし、俺たちは失望の色を隠せなかった。",
-            "TextENG": "After witnessing the cruel response of the ``adults,`` we couldn't hide our disappointment."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48655,
-            "TextJPN": "本音と建て前を巧みに使い分ける“大人”に、全てを任せてはいられない。",
-            "TextENG": "Proper ``adults`` have developed skill at hiding their true intentions, so we can't leave everything to the adults here."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48656,
-            "TextJPN": "俺たちの手で、沙都子を救い出さなければ……。",
-            "TextENG": "We need to do something for Satoko, with our own hands..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48657,
-            "TextJPN": "いても立ってもいられず、俺と詩音は沙都子のいる北条家へと足を向けた。",
-            "TextENG": "Unable to stand idly by any longer, Shion and I set a course toward the Houjou house, where we'd find Satoko."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48658,
-            "TextJPN": "焦げ付くような焦燥感だけが俺の脳裏を満たし、もう何も考えられない。",
-            "TextENG": "Burning frustration filled my mind. I couldn't think about anything else."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48659,
-            "TextJPN": "ただ足を前に突き出すという反復運動を繰り返す機械人形のごとく、前のめりで進んでいった。",
-            "TextENG": "I moved forward like a robot, mechanically repeating the motions necessary to move my legs, driving myself forward."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48660,
-            "TextJPN": "俺は沙都子に会って、どうするつもりなんだろう……？",
-            "TextENG": "What am I going to do when I meet Satoko...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48661,
-            "TextJPN": "考えなしに計画も算段もなく、沙都子の手を取って逃げ出すつもりなのか？",
-            "TextENG": "I have no plans, no ideas. Am I going to just grab Satoko's hand and run away?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48662,
-            "TextJPN": "ヒーロー気取り……。ある意味で、魅音の言うとおりかもしれない。",
-            "TextENG": "Acting like a hero... In a sense, Mion may have been right about that."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48663,
-            "TextJPN": "軽はずみな正義を貫いたとして、末永く幸せに暮らしました……なんてハッピーエンドは待っていない。",
-            "TextENG": "I know a happy ending where rash justice prevails and we all live happily ever after won't be waiting for us."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48664,
-            "TextJPN": "……ああ、もうっ、やめろ！　今は余計なことを考えるな！",
-            "TextENG": "...Aah, enough of that! Don't go thinking unnecessary things!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48665,
-            "TextJPN": "俺にできることをする。それだけでいいはずだ。",
-            "TextENG": "I'll do what I can. That alone should be enough."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48666,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS18/06/160600095.",
-            "TextJPN": "「圭ちゃん！」",
-            "NamesENG": "Shion",
-            "TextENG": "``Kei-chan!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48667,
-            "TextJPN": "突然、名前を呼ばれて我に返る。",
-            "TextENG": "I returned to my senses after suddenly hearing my name."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48668,
-            "TextJPN": "振り返ると、遥か遠くで詩音が佇んでいた。",
-            "TextENG": "Looking back, Shion was standing far off in the distance."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48669,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS18/01/160100081.",
-            "TextJPN": "「何してんだよ、詩音？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``What are you doing, Shion?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48670,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS18/06/160600096.",
-            "TextJPN": "「あの……出鼻を挫くようで申し訳ないんですけど……」",
-            "NamesENG": "Shion",
-            "TextENG": "``Umm... I'm sorry to kill the mood, but...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48671,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS18/01/160100082.",
-            "TextJPN": "「だから、何だよ？@k@vS18/01/160100083.　こんなとこでぐずぐずやってる暇ないだろ？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``But what?@k@vS18/01/160100083. We don't have time to be stalling like this, do we?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48672,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS18/06/160600097.",
-            "TextJPN": "「あの……念のためですけど……@k@vS18/06/160600098.沙都子の家の場所をご存じですか？」",
-            "NamesENG": "Shion",
-            "TextENG": "``Um... just to make sure...@k@vS18/06/160600098. You know how to get to Satoko's house, right?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48673,
-            "TextJPN": "えっ？",
-            "TextENG": "Huh?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48674,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS18/06/160600099.",
-            "TextJPN": "「沙都子の家は、こっちですよ」",
-            "NamesENG": "Shion",
-            "TextENG": "``Satoko's house is this way.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48675,
-            "TextJPN": "詩音は俺と反対方向に指を差す。",
-            "TextENG": "Shion pointed her finger in the opposite direction."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48676,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS18/01/160100084.",
-            "TextJPN": "「……そ、そうなのか。@k@vS18/01/160100085.すまん……神社の奥のイメージが抜けなくて」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...O-oh, really?@k@vS18/01/160100085. Sorry... I just instictively thought of the shrine.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48677,
-            "TextJPN": "しどろもどろになる俺。",
-            "TextENG": "I was getting careless."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48678,
-            "TextJPN": "目的地も知らないまま歩き続けて、どこに行くつもりだったんだよ？",
-            "TextENG": "What was I thinking? Continuing to walk forward without considering my destination?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48679,
-            "TextJPN": "焦るあまり、完全に周りが見えてなかった。",
-            "TextENG": "I was so impatient that I didn't take the time to examine my surroundings."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48680,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS18/06/160600100.",
-            "TextJPN": "「くっくっくっく……」",
-            "NamesENG": "Shion",
-            "TextENG": "``Heh heh heh heh...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48681,
-            "TextJPN": "真っ赤になった俺の顔を見て、詩音が堪えきれずに笑い出す。",
-            "TextENG": "When Shion saw my face turn red, she couldn't help but laugh."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48682,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS18/01/160100086.",
-            "TextJPN": "「いや、そ、それにだ！@k@vS18/01/160100087.　一回自分の家に寄っておこうと思ってたし……」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``No, b-besides!@k@vS18/01/160100087. I was thinking about stopping at my house on the way...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48683,
-            "TextJPN": "これじゃ男としてのメンツの危機だと、止せばいいのに、言い訳を重ねてしまう。",
-            "TextENG": "I really should face my mistakes with honor, like a man, but instead I ended up making excuses."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48684,
-            "TextJPN": "この発想自体、男としてどうしたもんなんだ？　と思いつつも……。",
-            "TextENG": "What did being a man even mean in the first place? As I thought about that..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48685,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS18/01/160100088.",
-            "TextJPN": "「と、とりあえず茶でも飲んで一息入れて……。@k@vS18/01/160100089.喧嘩腰で乗り込んでもしょうがないだろ？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``F-for now, we ought to take a break and have a cup of tea...@k@vS18/01/160100089. Even if we get there, acting belligerent won't help anything, right?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48686,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS18/06/160600101.",
-            "TextJPN": "「くすくすくすくすくす……」",
-            "NamesENG": "Shion",
-            "TextENG": "``Hee hee hee hee hee...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48687,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS18/01/160100090.",
-            "TextJPN": "「な、何だよ？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``W-what is it?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48688,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS18/06/160600102.",
-            "TextJPN": "「だって、圭ちゃんのお家も、そっちじゃないですよね？」",
-            "NamesENG": "Shion",
-            "TextENG": "``Kei-chan, your house isn't that way either, is it?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48689,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS18/01/160100091.",
-            "TextJPN": "「……」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48690,
-            "TextJPN": "余計なことを言い過ぎた。",
-            "TextENG": "I took my excuses too far."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48691,
-            "TextJPN": "なに考えてるんだ、俺……気合ばっかりが空回りしてる。",
-            "TextENG": "What was I thinking...? We're losing our fighting spirit."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48692,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS18/06/160600105.",
-            "TextJPN": "「笑ってしまってごめんなさい。@k@vS18/06/160600106.でも、圭ちゃんがすごく熱い人だってことが解りました。@k@vS18/06/160600107.だから、お姉は圭ちゃんのこと……」",
-            "NamesENG": "Shion",
-            "TextENG": "``I'm sorry for laughing at you.@k@vS18/06/160600106. But I understand that you're a passionate person, Kei-chan.@k@vS18/06/160600107. That's why Sis...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48693,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS18/01/160100094.",
-            "TextJPN": "「魅音が……何だ？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Huh...? What's this about Mion?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48694,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS18/06/160600108.",
-            "TextJPN": "「何でもないです。@k@vS18/06/160600109.さぁ、沙都子の家に急ぎましょう。@k@vS18/06/160600110.私が案内しますね」",
-            "NamesENG": "Shion",
-            "TextENG": "``It's nothing.@k@vS18/06/160600109. Anyway, let's hurry to Satoko's house.@k@vS18/06/160600110. I'll show you the way.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48695,
-            "TextJPN": "取り繕うように笑顔を向けると、詩音は俺を手招く。",
-            "TextENG": "Shion beckoned me forward with a smile on her face."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48696,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS18/06/160600111.",
-            "TextJPN": "「なんなら、お手て引きましょうか？」",
-            "NamesENG": "Shion",
-            "TextENG": "``You can hold my hand, if you like?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48697,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS18/01/160100095.",
-            "TextJPN": "「もう勘弁してくれよ……」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Give me a break...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48698,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS18/06/160600112.",
-            "TextJPN": "「くすくすくすくすくす……圭ちゃんって、照れ屋ですね」",
-            "NamesENG": "Shion",
-            "TextENG": "``Hee hee hee hee hee... Kei-chan, you're so shy.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48699,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS18/01/160100096.",
-            "TextJPN": "「悪かったな、コドモで」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Well excuse me for being a little kid.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48700,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS18/06/160600113.",
-            "TextJPN": "「いいえ、圭ちゃんの純粋さとか真っ直ぐなところ、私すごく羨ましいです」",
-            "NamesENG": "Shion",
-            "TextENG": "``No, Kei-chan. You're innocent and straightforward. I envy that.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48701,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS18/01/160100097.",
-            "TextJPN": "「なんか、褒め殺しっぽいぞ」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Somehow, that seems like a backhanded compliment.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48702,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS18/06/160600114.",
-            "TextJPN": "「本心ですよ。@k@vS18/06/160600115.……でも、気をつけて下さいね」",
-            "NamesENG": "Shion",
-            "TextENG": "``I mean that sincerely.@k@vS18/06/160600115. ...But please be careful, ok?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48703,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS18/01/160100098.",
-            "TextJPN": "「気をつける……？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Be careful...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48704,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS18/06/160600116.",
-            "TextJPN": "「……後をつけられている……@k@vS18/06/160600117.ってこともありますから……」",
-            "NamesENG": "Shion",
-            "TextENG": "``...Because...@k@vS18/06/160600117. someone could be following us...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48705,
-            "TextJPN": "低音で発せられた忠告に、俺は突然不安な気持ちになる。",
-            "TextENG": "Her warning suddenly made me feel uneasy."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48706,
-            "TextJPN": "いるはずがない……。",
-            "TextENG": "It couldn't be..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48707,
-            "TextJPN": "だが……、",
-            "TextENG": "But..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48708,
-            "TextJPN": "そっと身を隠し、誰かが俺を見ている気がした。",
-            "TextENG": "It felt like someone was watching me from the shadows."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48709,
-            "TextJPN": "薄ら笑いすら浮かべて……。",
-            "TextENG": "A faint smile seemed to float out..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48710,
-            "TextJPN": "これは錯覚……？　それとも……？",
-            "TextENG": "Was that my imagination...? Or...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48711,
-            "TextJPN": "北条家は、長閑な田園風景を抜け、鬱蒼とした林の手前に、ぽつんとあった。",
-            "TextENG": "We passed through the relaxing country scenery, then found the Houjou house in a clearing before a dense forest."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48712,
-            "TextJPN": "この中で、沙都子が一人つらい目に耐えているかと思うと、俺は無性に腹が立った。",
-            "TextENG": "An intense rage welled up inside me as I thought about the hardship Satoko was enduring in there."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48713,
-            "TextJPN": "チャイムを鳴らすが、返事はない。",
-            "TextENG": "I rang the doorbell, but there was no response."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48714,
-            "TextJPN": "不気味な静寂が北条家を包み込んでいる。",
-            "TextENG": "An eerie silence surrounded the Houjou house."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48715,
-            "TextJPN": "まさか……。",
-            "TextENG": "No way..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48716,
-            "TextJPN": "不穏な胸騒ぎに駆り立てられた。",
-            "TextENG": "It felt like a disturbing premonition."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48717,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS18/06/160600118.",
-            "TextJPN": "「ちょっと……そんなに乱暴に押したら、壊れてしまいますよ」",
-            "NamesENG": "Shion",
-            "TextENG": "``Hold on... If you keep pressing it like that you'll break it.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48718,
-            "TextJPN": "詩音の忠告も耳には入らない。",
-            "TextENG": "Shion's advice went in one ear and out the other."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48719,
-            "TextJPN": "俺は怒りや不安をぶちまけるように、何度もチャイムを鳴らした。",
-            "TextENG": "My anger and restlessness drove me to ring the bell several times more."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48720,
-            "TextJPN": "だが、やはり返事は無かった。",
-            "TextENG": "But again, there was no response."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48721,
-            "TextJPN": "ここまで来て何もせずに帰るなんて、俺にはできない！",
-            "TextENG": "I came all the way here, I won't turn away without accomplishing anything!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48722,
-            "TextJPN": "俺は強攻策に打って出た。",
-            "TextENG": "I've already launched myself into a bold attack."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48723,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS18/06/160600119.",
-            "TextJPN": "「圭ちゃん。@k@vS18/06/160600120.そんなことしたら、不法侵入になりますよ」",
-            "NamesENG": "Shion",
-            "TextENG": "``Kei-chan.@k@vS18/06/160600120. If you go any farther, you'll be trespassing.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48724,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS18/01/160100099.",
-            "TextJPN": "「はん！　警察だろうが何だろうが、もう関係ないさ！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Hah! Who cares about the police? That doesn't matter anymore!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48725,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS18/06/160600121.",
-            "TextJPN": "「……ですよね。喧嘩上等！」",
-            "NamesENG": "Shion",
-            "TextENG": "``...Of course. Bring it on!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48726,
-            "TextJPN": "まるで暴走族の特攻服に刻まれているような台詞が詩音の口から飛び出すとは……。",
-            "TextENG": "The kind of line I'd expect to see engraved on a motorcycle gang member's jacket flew out of Shion's mouth."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48727,
-            "TextJPN": "見ちゃいけないものを見てしまった気分。",
-            "TextENG": "I felt like I'd seen something I shouldn't have."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48728,
-            "TextJPN": "だけど、腕まくりをし始めた詩音は頼もしく見える。",
-            "TextENG": "But when the pressure is on, Shion looks very reliable."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48729,
-            "TextJPN": "俺と詩音は息を殺し、庭へと回った。",
-            "TextENG": "Shion and I took a deep breath, then headed out toward the garden."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48730,
-            "TextJPN": "窓が開いてるのか、居間のカーテンが揺れている。",
-            "TextENG": "The living room curtains were swaying, it looked like the window was open."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48731,
-            "TextJPN": "生け垣の影に身を潜めると、ゆらゆら揺れるカーテンの先へ、目をこらした。",
-            "TextENG": "I hid myself in the shadow of a bush, then looked intently toward the swinging curtain."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48732,
-            "TextJPN": "そよ風が吹き抜け、カーテンがふわりと宙に舞った。",
-            "TextENG": "A gentle breeze blew through the air, and the curtain fluttered along with it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48733,
-            "TextJPN": "その先に……沙都子がいた！",
-            "TextENG": "Beyond that... Satoko was inside!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48734,
-            "TextJPN": "沙都子………………！",
-            "TextENG": "Satoko......!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48735,
-            "TextJPN": "これ以上もう我慢できない！",
-            "TextENG": "I couldn't take it anymore!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48736,
-            "TextJPN": "俺は立ち上がった。",
-            "TextENG": "I got up from my position."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48737,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS18/06/160600123.",
-            "TextJPN": "「待って下さい」",
-            "NamesENG": "Shion",
-            "TextENG": "``Please, wait.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48738,
-            "TextJPN": "俺の行く手を阻むように、詩音が立ちはだかった。",
-            "TextENG": "Shion stood firmly in my path to cut me off."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48739,
-            "TextJPN": "この期に及んで、俺を止める気か、詩音？",
-            "TextENG": "Are you going to stop me at the last moment, Shion?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48740,
-            "TextJPN": "俺が反論しようと口を開きかけた時……。",
-            "TextENG": "Just as I opened my mouth to protest..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48741,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS18/06/160600124.",
-            "TextJPN": "「……こういうときは、レディファーストってやつでしょうっ？！」",
-            "NamesENG": "Shion",
-            "TextENG": "``...Isn't a gentleman supposed to say ``ladies first`` at a time like this?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48742,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS18/01/160100100.",
-            "TextJPN": "「……は？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...Huh?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48743,
-            "TextJPN": "思いがけない一言に、俺は一瞬唖然となった。",
-            "TextENG": "I was stunned for a moment by her unexpected response."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48744,
-            "TextJPN": "それに対して、にやりと笑いかける詩音。……なるほど、やるなら落ち着けってことか。",
-            "TextENG": "Shion, on the other hand, wore a playful grin. ...I see, she was trying to calm me down."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48745,
-            "TextJPN": "確かに、冷静さを手放してしまっては負けだ。",
-            "TextENG": "Indeed, I'd lose control if I didn't stay calm."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48746,
-            "TextJPN": "俺は自分の心を静めようと、深呼吸した。",
-            "TextENG": "So I took a deep breath to compose myself."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48747,
-            "TextJPN": "そして気持ちを落ち着けると、生垣を飛び越えて家へと近づき、――勢いづけて中に足を踏み入れる！",
-            "TextENG": "Then, once I steadied myself, I jumped over the bush and pushed myself forward... and a moment later, I set my foot down inside!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48748,
-            "NamesJPN": "鉄平",
-            "PreTextTags": "@vS18/21/162000017.",
-            "TextJPN": "「あぁんっ？　何ねお前らッ？！@k@vS18/21/162000018.　勝手に入ってきて、なにやっとんじゃおらぁあぁっっ！！」",
-            "NamesENG": "Teppei",
-            "TextENG": "``Huuuh? What are you punks doing?!@k@vS18/21/162000018. You think you can just barge in like thaaaaat?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48749,
-            "TextJPN": "鉄平の下品な声に立ち向かうように、俺はカーテンを開け放った。",
-            "TextENG": "I was confronted by Teppei's vulgar voice the moment I stepped through the curtains."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48750,
-            "TextJPN": "もうそんな脅し文句など、恐くはなかった。",
-            "TextENG": "I wasn't afraid of his threats."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48751,
-            "TextJPN": "ただ、沙都子を救いたい。その一心だけが、俺を支えていた。",
-            "TextENG": "But I wanted to help Satoko. That was the one thing racing through my heart at the moment."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48752,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS18/04/160400002.",
-            "TextJPN": "「…………圭一さん！」",
-            "NamesENG": "Satoko",
-            "TextENG": "``......Keiichi-san!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48753,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS18/01/160100101.",
-            "TextJPN": "「沙都子……」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Satoko...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48754,
-            "TextJPN": "だがその時、隣の部屋のふすまが前触れもなく開かれた。",
-            "TextENG": "But just then, the door to the next room suddenly slid open."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48755,
-            "TextJPN": "湿気た煙草の煙が漏れてくる。",
-            "TextENG": "And moist cigarette smoke wafted in."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48756,
-            "TextJPN": "戸口に立っている男は、俺たちには目もくれずに言った。",
-            "TextENG": "The man in the doorway spoke without looking at us."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48757,
-            "NamesJPN": "男",
-            "PreTextTags": "@vS18/00/yakuA16001.",
-            "TextJPN": "「鉄っちゃん。@k@vS18/00/yakuA16002.ビールもう一本追加じゃねぁ」",
-            "NamesENG": "Man",
-            "TextENG": "``Tecchan.@k@vS18/00/yakuA16002. You need another beer?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48758,
-            "TextJPN": "中では、明らかに泥酔状態の男達が酒瓶片手に、麻雀卓を囲んでいる。",
-            "TextENG": "Inside, several clearly drunken men were sitting around a Mahjong table covered in liquor."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48759,
-            "TextJPN": "こいつらは……こいつらは……襖一枚隔てた向こう側で沙都子がこんな目に遭ってるというのに……何で無関心なんかでいられるんだ……！",
-            "TextENG": "These bastards... these bastards... even though Satoko is right here on the other side of the sliding door... why don't they care...?!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48760,
-            "TextJPN": "こいつらは人じゃねぇ……腐った奴らめ…………！",
-            "TextENG": "These bastards aren't people... they're rotten thugs...!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48761,
-            "TextJPN": "その瞬間、俺は激高した。",
-            "TextENG": "That moment, I was enraged."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48762,
-            "TextJPN": "俺は汗で滑る拳を握り直すと、一歩足を踏み出した。",
-            "TextENG": "I clenched my fists, dripping in sweat, then took a step forward."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48763,
-            "TextJPN": "鉄平を助太刀する形で、男達が居間に出てくる。",
-            "TextENG": "The men came out of the living room to help Teppei."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48764,
-            "TextJPN": "そして、俺と詩音を囲むように立つ。",
-            "TextENG": "Then, they surrounded Shion and I."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48765,
-            "NamesJPN": "男",
-            "PreTextTags": "@vS18/00/yakuB16001.",
-            "TextJPN": "「なんね、人んちにでしゃばるもんやなかぜ。@k@vS18/00/yakuB16002.ここは鉄っちゃんの家なんじゃからのぉ」",
-            "NamesENG": "Man",
-            "TextENG": "``What're y'all doin' in here?@k@vS18/00/yakuB16002. This is Tecchan's house.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48766,
-            "NamesJPN": "男",
-            "PreTextTags": "@vS18/00/yakuC16001.",
-            "TextJPN": "「キレる十代っか？@k@vS18/00/yakuC16002.　おお、恐っとおね」",
-            "NamesENG": "Man",
-            "TextENG": "``Unruly teenagers?@k@vS18/00/yakuC16002. Ohh, I'm so afraid.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48767,
-            "NamesJPN": "男",
-            "PreTextTags": "@vS18/00/yakuA16003.",
-            "TextJPN": "「世も末じゃね」",
-            "NamesENG": "Man",
-            "TextENG": "``There's no hope for the future with kids like these.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48768,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS18/01/160100107.",
-            "TextJPN": "「何が世も末だっ！！@k@vS18/01/160100108.　お前らみたいな大人がのさばってるから、この世はどんどん腐ってくんだよっ！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Where the hell do you get off?!@k@vS18/01/160100108. Adults like you are the reason the world has gone to hell!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48769,
-            "NamesJPN": "男",
-            "PreTextTags": "@vS18/00/yakuB16003.",
-            "TextJPN": "「んじゃとぉ？@k@vS18/00/yakuB16004.　ふざけた口聞ぃとっと、おじさんらも黙っとぉないね。@k@vS18/00/yakuB16005.ひとつお仕置きしてやっとおかぁっ！」",
-            "NamesENG": "Man",
-            "TextENG": "``Whaaa?@k@vS18/00/yakuB16004. You should keep yer mouth shut around yer elders.@k@vS18/00/yakuB16005. It's time for yer punishment!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48770,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS18/01/160100110.",
-            "TextJPN": "「こんの野郎！@k@vS18/01/160100111.　ただじゃおかねぇ！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``You bastards!@k@vS18/01/160100111. You'll pay for that!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48771,
-            "TextJPN": "もはや、我慢も猶予もなかった。心に燃え上がった火は体中に飛びうつって、俺は電光石火のごとく鉄平に殴りかかる。",
-            "TextENG": "By that point, my patience was completely exhausted. The fire burning in my heart spread to my entire body, and I swung at Teppei with lightning speed."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48772,
-            "TextJPN": "しかし、相手は多勢。",
-            "TextENG": "However, I was outnumbered here."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48773,
-            "TextJPN": "４人がかりで一斉に俺を殴り飛ばす。",
-            "TextENG": "The four of them came at me all at once."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48774,
-            "TextJPN": "この時ばかりは体格も、力もオトナに劣る『子供』でしかない自分の身体が、ただただ恨めしかった。",
-            "TextENG": "Right then, I lamented that my frail ``child-like`` physique was no match for the power of these adults."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48775,
-            "TextJPN": "グホッ！！",
-            "TextENG": "Guh!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48776,
-            "NamesJPN": "鉄平",
-            "PreTextTags": "@vS18/21/162000032.",
-            "TextJPN": "「偉そうことほえっとぉ……！」",
-            "NamesENG": "Teppei",
-            "TextENG": "``Self-righteous puuunk...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48777,
-            "NamesJPN": "鉄平",
-            "PreTextTags": "@vS18/21/162000033.",
-            "TextJPN": "「ワシに楯突いたらどんな目に遭うか、とことん解らせてやっとね……！」",
-            "NamesENG": "Teppei",
-            "TextENG": "``Lemme show you what happens to punks like you who fuck with me...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48778,
-            "TextJPN": "嫌らしい笑い声が俺の耳を劈く。",
-            "TextENG": "Repulsive laughter filled my ears."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48779,
-            "TextJPN": "薄目を開けると、",
-            "TextENG": "I opened my eyes a crack..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48780,
-            "TextJPN": "鉄平が勿体つけた素振りで、拳を振りかざしている。",
-            "TextENG": "Teppei swung his fist around wildly."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48781,
-            "TextJPN": "こんなところで負けるな！　男を見せろ、前原圭一！！",
-            "TextENG": "Don't admit defeat in a place like this! Show them you're a man, Keiichi Maebara!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48782,
-            "TextJPN": "俺は上体を反らすと、渾身の力を込めて鉄平を突き飛ばした。",
-            "TextENG": "I twisted my body and put all my strength into pushing Teppei away."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48783,
-            "TextJPN": "勢い余って、鉄平の体は食器棚に激突する。",
-            "TextENG": "The force caused Teppei's body to crash into the cupboard."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48784,
-            "TextJPN": "打ち所が悪かったのか、痛そうにもがきながら、鉄平は怒りに目をむいて起き上がってきた。",
-            "TextENG": "Teppei seemed to take a bad blow from that, he struggled with a look of rage in his eyes as he got back up."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48785,
-            "NamesJPN": "男",
-            "PreTextTags": "@vS18/00/yakuA16006.",
-            "TextJPN": "「この野郎がぁ……！！@k@vS18/00/yakuA16007.　ぶっ殺じゃろがぁっっ！！！」",
-            "NamesENG": "Man",
-            "TextENG": "``You bastaaard...!!@k@vS18/00/yakuA16007. I'll kill yoooou!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48786,
-            "TextJPN": "何とか立ち上がった俺だが、腕を捕まれ引き戻される。",
-            "TextENG": "I managed to stand up somehow, but someone caught my arm and pulled me back."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48787,
-            "TextJPN": "床に押しつけられ、男達の袋叩きが止まらない。",
-            "TextENG": "He tossed me down to the floor and continued beating me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48788,
-            "TextJPN": "苦しさに、視線をそらす。",
-            "TextENG": "I turned to look away from the source of my suffering."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48789,
-            "TextJPN": "部屋の隅っこで、詩音が沙都子の肩を抱き、『大丈夫。大丈夫』と背中をさすっている。",
-            "TextENG": "In the corner of the room, Shion had her arms around Satoko's shoulders, saying ``It's all right, it's all right`` as she rubbed her back."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48790,
-            "TextJPN": "沙都子は虚ろな目で遠くを見つめている。口をぽかーんと開けたままで……。",
-            "TextENG": "Satoko was staring off in the distance with a vacant look in her eyes. And her mouth was hanging open..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48791,
-            "TextJPN": "玄関の扉を誰かが激しく叩いている。",
-            "TextENG": "Someone was furiously knocking at the front door."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48792,
-            "TextJPN": "沙都子はカッと目を見開き、扉の方向を向いた。",
-            "TextENG": "Satoko's eyes opened wide as she turned toward the door."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48793,
-            "TextJPN": "そして、鍵のかかったノブをこじ開けようとしている。",
-            "TextENG": "It sounded like the lock on the door was about to break open."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48794,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS18/10/161000001.",
-            "TextJPN": "「入江です。@k@vS18/10/161000002.大丈夫ですか？@k@vS18/10/161000003.　誰かいるんですか？」",
-            "NamesENG": "Irie",
-            "TextENG": "``It's Irie.@k@vS18/10/161000002. Is everything all right?@k@vS18/10/161000003. Is anyone there?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48795,
-            "TextJPN": "……監督の声……？　どうやら訪問者は、監督のようだ。",
-            "TextENG": "...Was that the coach's voice...? I guess that must be Irie at the door."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48796,
-            "TextJPN": "詩音はさっと立ち上がると、玄関へ走った。",
-            "TextENG": "Shion quickly got up and ran to the front door."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48797,
-            "NamesJPN": "鉄平",
-            "PreTextTags": "@vS18/21/162000034.",
-            "TextJPN": "「待たんかごらぁぁっ！@k@vS18/21/162000035.　勝手に開けたらぶち殺すぞおらぁぁっ！！」",
-            "NamesENG": "Teppei",
-            "TextENG": "``Hold iiiit!@k@vS18/21/162000035. If you open that, I'll kill yooooou!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48798,
-            "TextJPN": "鉄平の吐く捨て台詞が空しく響く。",
-            "TextENG": "Teppei's vile voice filled the room, but his cry was in vain."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48799,
-            "TextJPN": "が、それよりも早く詩音はドアの鍵を手早く開けて、外にいた訪問者を中に招き入れた。",
-            "TextENG": "Shion hastily unlocked the front door and invited the visitor inside."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48800,
-            "TextJPN": "詩音に連れられ、監督が姿を現す。",
-            "TextENG": "Then, Shion escorted Irie into the room."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48801,
-            "TextJPN": "監督は、目の前に広がる光景に呆然としている。",
-            "TextENG": "Irie was stunned by the spectacle before his eyes."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48802,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS18/10/161000004.",
-            "TextJPN": "「こ、これは……」",
-            "NamesENG": "Irie",
-            "TextENG": "``W-what is this...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48803,
-            "NamesJPN": "鉄平",
-            "PreTextTags": "@vS18/21/162000036.",
-            "TextJPN": "「……おんやぁ、入江先生ですかいね。@k@vS18/21/162000037.何かご用でも？@k@vS18/21/162000038.　わざわざこんなむさ苦しいところにお出でなすって、すんませんねぇ」",
-            "NamesENG": "Teppei",
-            "TextENG": "``...Oh, well if it isn't Dr. Irie.@k@vS18/21/162000037. Do you need something?@k@vS18/21/162000038. It must be such a pain to come all the way out here, sorry about that.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48804,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS18/10/161000005.",
-            "TextJPN": "「車で通りかかったのですが……お宅から物凄い音が聞こえてきまして……。@k@vS18/10/161000006.これはいったい……どういうことですか？」",
-            "NamesENG": "Irie",
-            "TextENG": "``I was just driving by... when I heard terrible noises coming from your house...@k@vS18/10/161000006. What on earth... is going on in here?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48805,
-            "NamesJPN": "鉄平",
-            "PreTextTags": "@vS18/21/162000039.",
-            "TextJPN": "「おみ足、汚れちまったらいかんね。@k@vS18/21/162000040.おらぁ、沙都子！@k@vS18/21/162000041.　ボサッとしてねぇで、スリッパでも何でも持ってこいや！」",
-            "NamesENG": "Teppei",
-            "TextENG": "``Your shoes are making a mess of the place.@k@vS18/21/162000040. Heeey, Satoko!@k@vS18/21/162000041. Bring this man some slippers!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48806,
-            "NamesJPN": "鉄平",
-            "PreTextTags": "@vS18/21/162000042.",
-            "TextJPN": "「うちには、先生のお口に合うような、スタイリッシュって言うんですか？@k@vS18/21/162000043.　おハイソなものはありぁせんけどね、遠慮なくくつろいでってくださいな」",
-            "NamesENG": "Teppei",
-            "TextENG": "``Something stylish to match the doctor's way of speaking.@k@vS18/21/162000043. This place isn't very classy, but please make yourself comfortable.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48807,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS18/10/161000007.",
-            "TextJPN": "「お気遣いは結構です。@k@vS18/10/161000008.それより、事情を聞かせて頂きたい」",
-            "NamesENG": "Irie",
-            "TextENG": "``I appreciate your concern.@k@vS18/10/161000008. But more than that, I'd like to hear your explanation for all this.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48808,
-            "NamesJPN": "鉄平",
-            "PreTextTags": "@vS18/21/162000044.",
-            "TextJPN": "「……いやねぇ、ちょいとこいつらが勝手に押しかけてきよって、やんちゃしでかしてたんですわ。@k@vS18/21/162000045.最近のガキは礼儀を知らんと言うか、いっぱしにしゃらくせー口聞いて、けったいな世の中になったもんですなぁ」",
-            "NamesENG": "Teppei",
-            "TextENG": "``...It's nothing, these kids snuck in without my permission and caused a ruckus.@k@vS18/21/162000045. Kids these days have no manners. Barging in saying whatever shit they want. What a messed up world we're living in now.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48809,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS18/10/161000009.",
-            "TextJPN": "「彼らが部屋を荒らしたとは、私には考えられませんね……」",
-            "NamesENG": "Irie",
-            "TextENG": "``I can't imagine that they would vandalize the room like this...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48810,
-            "NamesJPN": "鉄平",
-            "PreTextTags": "@vS18/21/162000046.",
-            "TextJPN": "「いや、こっちもね、かっとなったと言いますか、@k@vS18/21/162000047.昔気質の男なもんで、手が出ちまうってこともねぇ……？@k@vS18/21/162000048.　ちょっとこらしめてやっただけですわ～」",
-            "NamesENG": "Teppei",
-            "TextENG": "``No, I just gave them a harsh scolding.@k@vS18/21/162000047. I'm an old-fashioned man, I never even lifted a hand to them, ok...?@k@vS18/21/162000048. I just wanted them to learn their lesson~.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48811,
-            "TextJPN": "一歩も引けを取らない毅然とした監督の態度に、鉄平は口ごもり出した。",
-            "TextENG": "Teppei hesitated as he said that, not wanting to make Irie upset."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48812,
-            "TextJPN": "俺はほっと胸をなで下ろした。",
-            "TextENG": "The fire in my chest finally started to cool off."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48813,
-            "TextJPN": "監督が来てくれたからには、きっと沙都子を助け出してくれるに違いない。",
-            "TextENG": "Now that Irie is here, surely Satoko will be ok."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48814,
-            "TextJPN": "監督は他の“大人達”とは違う。",
-            "TextENG": "Irie was different from the other ``adults.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48815,
-            "TextJPN": "沙都子のことを親身になって考えてくれる人だ。",
-            "TextENG": "He was the kind of person who cared deeply about Satoko."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48816,
-            "TextJPN": "そう思った直後、信じられない言葉が俺を凍り付かせた。",
-            "TextENG": "Just as I thought that, I heard an unexpected word that caused me to freeze over."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48817,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS18/04/160400007.",
-            "TextJPN": "「何でもないんです」",
-            "NamesENG": "Satoko",
-            "TextENG": "``It's nothing.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48818,
-            "TextJPN": "沙都子だった。そして、唖然とする俺を、焦点の定まった目でじっと見つめ返す。",
-            "TextENG": "It was Satoko. Then, as I stood there in astonishment, she gazed at me with a focused expression."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48819,
-            "TextJPN": "余計なことは言うなと言わんばかりに……。",
-            "TextENG": "As if to convey that nothing else needed to be said..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48820,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS18/01/160100112.",
-            "TextJPN": "「沙都子……お前、何でそんなデタラメ言うんだ……」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Satoko... why are you saying this nonsense...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48821,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS18/04/160400008.",
-            "TextJPN": "「圭一さんと詩音さんは誤解をしていましてよ。@k@vS18/04/160400009.心配なさっているようなことは一切ございませんの。@k@vS18/04/160400010.だから、もうお帰りになって下さいな」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Keiichi-san, Shion-san, it was just a misunderstanding.@k@vS18/04/160400009. There is nothing to worry about.@k@vS18/04/160400010. So please, go home now.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48822,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS18/01/160100113.",
-            "TextJPN": "「沙都子！@k@vS18/01/160100114.　お前、そんな強がり言ってる場合じゃないだろ！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Satoko!@k@vS18/01/160100114. You don't have to put on a courageous front!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48823,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS18/04/160400011.",
-            "TextJPN": "「聞こえませんでした？@k@vS18/04/160400012.　お帰りになって下さいと、申し上げているのでございますわ！」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Did you not hear me?@k@vS18/04/160400012. Please, I asked you to go home!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48824,
-            "TextJPN": "より一層の強さと輝きを放って、沙都子の目は俺に訴えかけた。",
-            "TextENG": "Satoko's eyes were shining with even more strength as she said that to me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48825,
-            "TextJPN": "それは言葉とは裏腹な思いだった。",
-            "TextENG": "Her words were the complete opposite of what I expected."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48826,
-            "TextJPN": "圭一さん、ありがとうございますですわ。でも、もう充分ですの……。",
-            "TextENG": "Thank you very much, Keiichi-san. But enough already..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48827,
-            "TextJPN": "沙都子の口端が、微笑むように少しだけ上がった。",
-            "TextENG": "The corner of Satoko's mouth rose just enough to offer a vague smile."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48828,
-            "TextJPN": "俺は、お前にしてあげられることは何一つないのか……？",
-            "TextENG": "Is there nothing I can do for you...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48829,
-            "TextJPN": "お前が頷いてくれさえすれば、俺は火の中にだって飛び込める。",
-            "TextENG": "All you have to do is nod, and I'll jump right into the fire."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48830,
-            "TextJPN": "だから、お前を救い出すことを諦めろなんて悲しいこと、言わないでくれよ……。",
-            "TextENG": "So don't ask me to stop helping you..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48831,
-            "TextJPN": "ゴリゴリゴリゴリ……。",
-            "TextENG": "*scrape* *scrape*"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48832,
-            "TextJPN": "微かに聞こえてくる。不穏な音。",
-            "TextENG": "I faintly heard a noise. A disturbing sound."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48833,
-            "TextJPN": "ハッとして振り返ると、詩音が立っていた。",
-            "TextENG": "When I looked back, I noticed Shion standing there."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48834,
-            "TextJPN": "ゴリゴリゴリゴリ……ガリッ！",
-            "TextENG": "*scrape* *scrape* ... *scrape*"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48835,
-            "TextJPN": "詩音が歯を食いしばっていたのだ。",
-            "TextENG": "Shion was clenching her teeth."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48836,
-            "TextJPN": "今にも歯が欠けてしまいそうなほどの力を込めて……。",
-            "TextENG": "With an incredible amount of force..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48837,
-            "TextJPN": "まるで、切れ味の悪いナイフで、分厚い肉の塊を強引に切り刻むような……。",
-            "TextENG": "Like trying to slice through thick cuts of meat with a butcher's knife..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48838,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS18/10/161000010.",
-            "TextJPN": "「前原さん、詩音さん。@k@vS18/10/161000011.今日の所はお暇しましょう。ね？」",
-            "NamesENG": "Irie",
-            "TextENG": "``Maebara-san, Shion-san.@k@vS18/10/161000011. That's enough for today. Ok?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48839,
-            "TextJPN": "監督に促され、俺たちは渋々北条家を後にした。",
-            "TextENG": "On Irie's suggestion, we reluctantly left the Houjou house."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48840,
-            "TextJPN": "そんな俺たちをあざ笑うかのごとく、響き渡る鉄平の品を欠いた笑い声。",
-            "TextENG": "Teppei's boorish laugh echoed as though to mock us."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48841,
-            "TextJPN": "この時、俺は生まれて初めて、人を憎んだ。",
-            "TextENG": "In that moment, for the first time in my entire life, I knew what it meant to hate another person."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48842,
-            "TextJPN": "思いだけで、呪い殺してしまうほどに、憎んだ。",
-            "TextENG": "All I could think about was wishing death upon the person I hated."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48843,
-            "TextJPN": "憎しみ、悔しさ、絶望……そして、何とも言えない悲しみが俺の心をかき乱した。",
-            "TextENG": "My heart was filled with hatred, regret, despair... and an indescribable sorrow."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48844,
-            "TextJPN": "俺と詩音は監督の車で送ってもらうことになった。",
-            "TextENG": "Shion and I were riding in Irie's car."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48845,
-            "TextJPN": "ラジオからは、アルファ波を誘うクラシック音楽が流れている。",
-            "TextENG": "Relaxing classical music was playing on the radio."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48846,
-            "TextJPN": "だが、そんなメロディーなど聞こえはしない。",
-            "TextENG": "Yet, I couldn't hear those melodies."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48847,
-            "TextJPN": "何でもない、と言い切った沙都子の声が、俺の耳元で、止んでは流れ止んでは流れと、繰り返していた。",
-            "TextENG": "The only sound that echoed in my ear was Satoko's voice, saying ``It's nothing`` over and over."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48848,
-            "TextJPN": "詩音も押し黙ったままだ。",
-            "TextENG": "Shion was also sitting silently."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48849,
-            "TextJPN": "窓の外の風景を眺めてはいるが、どこか遠くの昔を回想しているように見えた。",
-            "TextENG": "I looked at the scenery out the window, but it felt like I was seeing it for the first time in a long time."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48850,
-            "TextJPN": "……沙都子はこれから、どうなってしまうんだろう。@kそして、それに対してなにもできない俺たちも、この先どう変わっていくんだろうか。",
-            "TextENG": "...What will happen to Satoko from now on?@k And if we're powerless to do anything about this, how will that change the future?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48851,
-            "TextJPN": "沙都子に救いの手が必要なことくらい、わかっている。@k……でも、無理やりに助け出したところで、それは一時しのぎにしかならない。",
-            "TextENG": "I know that Satoko needs help.@k ...But if we force anything on her, it would only be a temporary solution."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48852,
-            "TextJPN": "腹立たしくて不本意だが、家庭問題に他人である俺たちが介入できる余地は非常に小さいのだ。",
-            "TextENG": "Though it was frustrating and difficult to accept, there was little room for us to intervene in another family's problems."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48853,
-            "TextJPN": "ましてレナたちの話では、沙都子は以前虚偽をでっち上げたことがあったために、本来なら力に乗ってくれるはずの興宮の相談所が二の足を踏んでしまっているという。",
-            "TextENG": "Plus, according to Rena, Satoko had lied to the Okinomiya child consultation center in the past, which made it difficult for them to exercise any of their power."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48854,
-            "TextJPN": "一度嘘をついた人間の言うことを、次に信用するのは難しい……それは、よくわかっている。@k……でも、このままじゃ何の解決も、進展すら期待できないじゃないか……！",
-            "TextENG": "It's difficult to trust a person who has lied to you... That much is easy to understand.@k ...But without any sort of solution, no progress will ever be made...!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48855,
-            "TextJPN": "……いやな気分が、まるで責め立てるように俺の心を蝕んでゆく。考えれば考えるほど、……暗い結末しか思いつかなかった。",
-            "TextENG": "...An unpleasant sensation ate at my heart as I blamed myself. The more I thought about it... the more I believed this would end in tragedy."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48856,
-            "TextJPN": "……さっきから、誰も言葉を発しない。@kいや、言葉にしたところで、……それが何にもならないことを痛いくらいに、悟ってしまっているからなのか。",
-            "TextENG": "...No one had spoken a word for a while now.@k There was no sense putting it into words... because it hurt to remind ourselves how little we could do."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48857,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS18/02/160200016.",
-            "TextJPN": "「やるだけ無駄……。@k@vS18/02/160200017.そう思ってるんだよね？@k@vS18/02/160200018.　魅ぃちゃんは」",
-            "NamesENG": "Rena",
-            "TextENG": "``Anything we try would be useless...@k@vS18/02/160200017. You feel the same way, don't you?@k@vS18/02/160200018. Mii-chan?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48858,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS18/03/160300001.",
-            "TextJPN": "「……そこまでは思ってないけど、状況は易しくないよ……」",
-            "NamesENG": "Mion",
-            "TextENG": "``...I wouldn't go quite that far, but the situation isn't so simple...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48859,
-            "TextJPN": "さっき、レナと魅音の言っていたことが、脳裏に蘇る。@k投げやりに苛立ちを言葉にしていたレナと、諦めたように消極的な意見を口にする魅音。",
-            "TextENG": "That earlier conversation with Rena and Mion came to mind.@k Rena was throwing out harsh words in frustration, and Mion was speaking negatively like she had already given up."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48860,
-            "TextJPN": "あの時は、二人のそんな態度をただ嫌悪し、反発して、――詩音とともに、北条家へと乗り込んだ。@k……でも、結局それで、何ができた？@k　何が変えられた？",
-            "TextENG": "At the time, I was offended by the way both of them were acting... so I went with Shion to the Houjou house.@k ...But in the end, what could I do?@k What difference did it make?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48861,
-            "TextJPN": "俺たちがやったことは、……むしろ、沙都子にとっては役立たずの、あまりにも一方的な好意の押し付けでしかなかったのか……？",
-            "TextENG": "What if... what we did wasn't actually helpful for Satoko at all, and only a way of forcing our one-sided notion of goodwill upon her...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48862,
-            "TextJPN": "……そんな俺の問いかけに対し、監督は複雑な表情で否定してくれる。@k……だが、そのあいまいで無難に選んだ言葉の羅列が、本音が違うところにあることを如実に示していた。",
-            "TextENG": "...As I thought that, I saw an expression of mixed feelings on Irie's face.@k ...The words he chose earlier were safe and ambiguous, clearly demonstrating that his real intentions lied elsewhere."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48863,
-            "TextJPN": "そして、……無言でうつむく俺たちをみて、そんな建前の修辞が無意味であることに途中で気がついたのだろう。@k監督はため息をひとつついてから、俺たちをいたわるようにやさしく言った。",
-            "TextENG": "Then... he silently looked down toward us, probably realizing that any attempt to debate it with us would be useless.@k After a sigh, Irie tried to console us with a few kind words."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48864,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS18/10/161000020_1.",
-            "TextJPN": "「……悲しく、…あまりに残酷な話ですが……。@k@vS18/10/161000020_2.………私たちの決意や努力、尽力には…………限界があります。@k@vS18/10/161000020_3.………残酷ですが、……それが事実です」",
-            "NamesENG": "Irie",
-            "TextENG": "``...It's so sad... It's such a cruel story...@k@vS18/10/161000020_2. ...Despite all our strength, determination, and effort... there's a limit to what we can do.@k@vS18/10/161000020_3. ...It's cruel, but... it's a fact.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48865,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS18/10/161000020.",
-            "TextJPN": "「納得できないという前原さんの気持ちは解ります。@k@vS18/10/161000021.私だって、沙都子ちゃんはかわいい。@k@vS18/10/161000022.誰よりも幸せになってほしいと思っています」",
-            "NamesENG": "Irie",
-            "TextENG": "``I know how you feel, Maebara-san. I understand that you can't accept it.@k@vS18/10/161000021. It's the same for me. Satoko-chan is so cute.@k@vS18/10/161000022. I want her to be happier than anyone in the world.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48866,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS18/01/160100119.",
-            "TextJPN": "「沙都子の幸せを願うなら、あの男から引き離そうとするんじゃないんですか？@k@vS18/01/160100120.　監督の言ってることは滅茶苦茶です！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``If you want Satoko to be happy, why don't you take her away from that man?@k@vS18/01/160100120. What you're saying doesn't add up!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48867,
-            "TextJPN": "つい激情を押さえられずに、理不尽とわかりながらそう言い返してしまう。@kが、監督はなおも冷静な態度のまま、静かな口調で続けた。",
-            "TextENG": "Unable to suppress my raging emotions, I blurted out an unreasonable response.@k But Irie remained calm and continued in a quiet tone."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48868,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS18/10/161000023.",
-            "TextJPN": "「ですが……何が彼女にとっての幸せなのか……。@k@vS18/10/161000024.それを他人である私たちが決めてかかるということはおこがましい。@k@vS18/10/161000025.それこそ、神の領域です」",
-            "NamesENG": "Irie",
-            "TextENG": "``But... would that actually make her happy...?@k@vS18/10/161000024. It's impossible for us to decide that on our own.@k@vS18/10/161000025. That's squarely in the purview of the gods.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48869,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS18/01/160100121.",
-            "TextJPN": "「神頼みなんて悠長なこと言ってらん……ごほっ…うぐっ……っごほっっ！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Are you suggesting we leave this in the hands of the gods...? Guh... ugh... urgh!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48870,
-            "TextJPN": "興奮のあまり咳き込んだ俺に、監督は真っ白なハンカチを手渡してくれる。@k……それを握り締めながら、咳と同時に喉の奥を叩き潰すような悔しさと悲しさが、胸のうちから競りあがってくるのを止められなかった。",
-            "TextENG": "My excitement drove me to a coughing fit, so Irie handed me a white handkerchief.@k ...As I held it close and coughed into it, the sadness and regret coalescing in my chest burned at the back of my throat."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48871,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS18/10/161000026.",
-            "TextJPN": "「大丈夫。大丈夫ですよ……」",
-            "NamesENG": "Irie",
-            "TextENG": "``It's all right. It'll be all right...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48872,
-            "TextJPN": "……そんな気遣いさえ、今の俺には煩わしく、そして惨めな気分だった。",
-            "TextENG": "...Even that thought irked me, making me feel more miserable."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48873,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS18/01/160100122.",
-            "TextJPN": "「俺は沙都子に、何もしてやれない……。@k@vS18/01/160100123.っうっくっ……それが悔しくて……」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``There's nothing I can do for Satoko...@k@vS18/01/160100123. Uugh... This is so frustrating...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48874,
-            "TextJPN": "俺は不本意にも涙を流してしまった。",
-            "TextENG": "I suddenly began to shed tears."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48875,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS18/10/161000027.",
-            "TextJPN": "「大丈夫。大丈夫ですよ……。@k@vS18/10/161000028.理不尽な痛みに対して、人間ができる唯一の癒しは感情的になることだけです……。@k@vS18/10/161000029.……前原さんが羨ましいです……。@k@vS18/10/161000030.許されるなら、私のこの手で全てを……」",
-            "NamesENG": "Irie",
-            "TextENG": "``It's all right. It's all right...@k@vS18/10/161000028. Becoming emotional is the only way humans can cope with unreasonable pain...@k@vS18/10/161000029. ...I envy you, Maebara-san...@k@vS18/10/161000030. If I could, I'd settle this all with my own hands...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48876,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS18/01/160100124.",
-            "TextJPN": "「監督……？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Irie...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48877,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS18/10/161000031.",
-            "TextJPN": "「何を言ってるんだろう……。@k@vS18/10/161000032.私にはそんな資格など、すでにないと言うのに……」",
-            "NamesENG": "Irie",
-            "TextENG": "``What am I saying...@k@vS18/10/161000032. I no longer have the right to do something like that, yet I...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48878,
-            "TextJPN": "監督は自虐的な笑みを浮かべる。",
-            "TextENG": "Irie made a self-tortured smile."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48879,
-            "TextJPN": "眼鏡の奥の瞳が鋭い光を放ったように見えた。",
-            "TextENG": "I thought I could see a sharp glimmer in his eyes through his glasses."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48880,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS18/01/160100125.",
-            "TextJPN": "「何の話をしてるんですか……？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``What are you talking about...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48881,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS18/10/161000033.",
-            "TextJPN": "「……前原さんには、真実を打ち明けます」",
-            "NamesENG": "Irie",
-            "TextENG": "``...I'll tell you the truth, Maebara-san.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48882,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS18/01/160100126.",
-            "TextJPN": "「えっ……？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Huh...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48883,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS18/10/161000034.",
-            "TextJPN": "「沙都子ちゃんがあのような環境に置かれながらそれを排除する努力をしない理由。@k@vS18/10/161000035.……それは、贖罪なんです」",
-            "NamesENG": "Irie",
-            "TextENG": "``The reason Satoko-chan doesn't make any effort to escape her hostile environment.@k@vS18/10/161000035. ...She sees it as her atonement.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48884,
-            "TextJPN": "贖罪？！",
-            "TextENG": "Atonement?!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48885,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS18/10/161000036.",
-            "TextJPN": "「沙都子ちゃんは、悟史くんがいなくなってしまったことを自分のせいだと思っています。@k@vS18/10/161000037.だから、叔父との生活を耐え忍ぶことで、罪に対する罰を受けていると考えてしまっているんです」",
-            "NamesENG": "Irie",
-            "TextENG": "``Satoko-chan believes that she was responsible for Satoshi-kun's disappearance.@k@vS18/10/161000037. So she thinks that being forced to endure this life with her uncle is her punishment for that sin.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48886,
-            "TextJPN": "何、言ってんだよ……。",
-            "TextENG": "What are you saying...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48887,
-            "TextJPN": "悟史がいなくなったのは、アイツの好き勝手じゃねぇか。",
-            "TextENG": "Now that Satoshi has disappeared, that bastard can just do whatever he pleases?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48888,
-            "TextJPN": "何で、沙都子が犯してもない罪なんか背負わなきゃいけないんだよ。",
-            "TextENG": "Why should Satoko have to shoulder that sin? She didn't do anything."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48889,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS18/06/160600130.",
-            "TextJPN": "「……そんなことをしても、誰も喜ばないッ！！」",
-            "NamesENG": "Shion",
-            "TextENG": "``...That doesn't help anyone!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48890,
-            "TextJPN": "突然、詩音が叫んだ。",
-            "TextENG": "Suddenly, Shion cried out."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48891,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS18/06/160600131.",
-            "TextJPN": "「……誰一人、喜ばない……。@k@vS18/06/160600132.悟史くんがいれば……悟史くんさえっ……！」",
-            "NamesENG": "Shion",
-            "TextENG": "``...Nobody is happy with this...@k@vS18/06/160600132. If only Satoshi-kun was still here... Satoshi-kun was...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48892,
-            "TextJPN": "大粒の涙をボロボロと零しながら、悔しそうに泣きじゃくる詩音。",
-            "TextENG": "Huge teardrops scattered as Shion began sobbing."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48893,
-            "TextJPN": "そんな詩音にかけてやる言葉も思いつかない俺……。",
-            "TextENG": "I couldn't think of anything to say to her..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48894,
-            "TextJPN": "偉そうなことも言っても、俺は結局何一つできなかった。",
-            "TextENG": "Even if I said something supportive, there was nothing I could do to back it up."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48895,
-            "TextJPN": "何も言わずに静観を決め込んだ大人達や、無駄だと一言で言い切った魅音と、どこが違うって言うんだよ？",
-            "TextENG": "How are we any different from the adults who refused to say anything, or Mion who declared it all to be useless?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48896,
-            "TextJPN": "気持ちだけじゃダメだ……。実行に移さなければ意味はない。",
-            "TextENG": "Feelings alone are useless... They have no meaning unless they lead to action."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48897,
-            "TextJPN": "力づくで確実に沙都子を救い出すたった一つの方法がある。",
-            "TextENG": "The only reliable way to help Satoko is by raw force."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48898,
-            "TextJPN": "だけど、その方法は危険すぎる。",
-            "TextENG": "However that would be an extremely dangerous method."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48899,
-            "TextJPN": "それこそ、ハンパな気持ちじゃ挑めない。",
-            "TextENG": "Still, emotions alone aren't sufficient to fight this."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48900,
-            "TextJPN": "しかし、賽はとうに投げられた。",
-            "TextENG": "The dice have already been thrown."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48901,
-            "TextJPN": "誰かが投げるサイコロの目に、沙都子の運命を託すなんてできない。",
-            "TextENG": "I can't leave Satoko's fate in the hands of dice thrown by someone else."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48902,
-            "TextJPN": "ならば、俺自身がサイコロを振る以外ないはずだ。",
-            "TextENG": "In that case, I should shake the dice myself."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48903,
-            "TextJPN": "前原圭一の一は、一かバチかの一！",
-            "TextENG": "It's do or die, Keiichi Maebara!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48904,
-            "TextJPN": "俺は目に見えないサイコロを手のひらの上で転がすと、ギュッと握り締めた。",
-            "TextENG": "I rolled an invisible die inside my hand, then held it tight."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48905,
-            "TextJPN": "一かバチかの大博打。",
-            "TextENG": "I'm going all in. Do or die."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48906,
-            "TextJPN": "たとえ運良く一が出ても、あるいは運悪くバチが出ても、死人が出るかもしれない……。",
-            "TextENG": "Whether I get lucky, or whether things go poorly... this may end with a dead man..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 48907,
-            "TextJPN": "それを思うと、俺は思わず身震いした。得体の知れない恐怖に晒され、俺の心臓は高鳴っていく……。",
-            "TextENG": "As that thought filled my mind, I couldn't help but tremble. My heart pounded, exposed to a mysterious fear..."
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "#2 職員室にて",
+		"ENG": "#2 / In the Staff Room"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48616,
+		"TextJPN": "俺と詩音は、まず身近な大人たちに沙都子が置かれている状況を訴えようと、職員室へ向かった。",
+		"TextENG": "Shion and I decided that the best way to handle Satoko's situation was to appeal to the adults close to us, so we headed to the teacher's lounge."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48617,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS18/22/161400001.",
+		"TextJPN": "「あら、どうしたんです、前原くん？@k@vS18/22/161400002.　委員長も一緒に、何か困りごと？」",
+		"NamesENG": "Chie",
+		"TextENG": "``Oh, what's wrong, Maebara-kun?@k@vS18/22/161400002. And you're here with the Class Representative too. Is there a problem?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48618,
+		"TextJPN": "そう言った知恵先生の前に、すっと詩音が身を乗り出した。",
+		"TextENG": "Right after Chie-sensei said that, Shion immediately cut in."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48619,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS18/06/160600080.",
+		"TextJPN": "「申し訳ありませんが、私、魅音じゃありません。@k@vS18/06/160600081.妹の詩音です」",
+		"NamesENG": "Shion",
+		"TextENG": "``I'm sorry, but I'm actually not Mion.@k@vS18/06/160600081. I'm her sister, Shion.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48620,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS18/22/161400003.",
+		"TextJPN": "「そ、そうですか……？」",
+		"NamesENG": "Chie",
+		"TextENG": "``O-oh, is that so...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48621,
+		"TextJPN": "知恵先生は戸惑いを隠せない様子だ。",
+		"TextENG": "Chie-sensei was unable to hide her confusion."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48622,
+		"TextJPN": "無理もない。俺だって以前、詩音の存在を一度ならず疑ってしまったことがあったっけ。",
+		"TextENG": "Her reaction wasn't unreasonable. Even I had my doubts about Shion's existence for a while."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48623,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS18/22/161400004.",
+		"TextJPN": "「あまりそっくりだから、間違えてしまいそうですね……」",
+		"NamesENG": "Chie",
+		"TextENG": "``You're both so similar, so I'm afraid I was mistaken...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48624,
+		"TextJPN": "しかし、そんな知恵先生の疑問には答えず、詩音は間髪入れずに切り出した。",
+		"TextENG": "However, Shion pressed forward with no regard for Chie-sensei's response."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48625,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS18/06/160600082.",
+		"TextJPN": "「聞いて欲しいことがあるんです。@k@vS18/06/160600083.一刻を争う事態なんです」",
+		"NamesENG": "Shion",
+		"TextENG": "``There is something you need to hear.@k@vS18/06/160600083. We have a dire situation, and there's no time to lose.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48626,
+		"TextJPN": "せっぱ詰まった詩音の眼差しに、知恵先生は反射的に背筋を伸ばした。",
+		"TextENG": "When she saw the passion in Shion's eyes, Chie-sensei immediately sat upright."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48627,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS18/06/160600083_1.",
+		"TextJPN": "「北条沙都子は、叔父である北条鉄平との生活に問題を抱えています」",
+		"NamesENG": "Shion",
+		"TextENG": "``Satoko Houjou is having major problems living with her uncle, Teppei Houjou.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48628,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS18/22/161400005.",
+		"TextJPN": "「穏やかではありませんね……。@k@vS18/22/161400006.断定できる根拠はあるのですか？」",
+		"NamesENG": "Chie",
+		"TextENG": "``You seem quite serious about this...@k@vS18/22/161400006. Do you have any evidence to support this allegation?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48629,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS18/06/160600085.",
+		"TextJPN": "「先生は、沙都子がずっと欠席してる理由、もちろん知ってますよね？」",
+		"NamesENG": "Shion",
+		"TextENG": "``Sensei, I'm sure you've noticed that Satoko has been absent for a while now. Do you know why?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48630,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS18/22/161400007.",
+		"TextJPN": "「それは……みなさんにお伝えしてるように病欠です。@k@vS18/22/161400008.保護者からきちんと報告を受けています」",
+		"NamesENG": "Chie",
+		"TextENG": "``That's because... she's been sick, or that's what I've been told.@k@vS18/22/161400008. I've received proper reports from her guardian saying as much.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48631,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS18/06/160600086.",
+		"TextJPN": "「あの男が保護者？@k@vS18/06/160600087.　それ、本気で言ってるんですか？！」",
+		"NamesENG": "Shion",
+		"TextENG": "``Is that man her guardian?@k@vS18/06/160600087. Is that really what you're telling me?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48632,
+		"TextJPN": "詩音の挑戦的な態度にも動揺することなく、知恵先生はあくまで理性を貫く。",
+		"TextENG": "With Shion unwilling to shake her antagonistic demeanor, Chie-sensei continued explaining her reasoning."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48633,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS18/22/161400009.",
+		"TextJPN": "「噂や憶測が流れていることは、先生も知っています。@k@vS18/22/161400010.だからこそ、現時点では冷静に状況を見極めることが適切だと考えています」",
+		"NamesENG": "Chie",
+		"TextENG": "``I'm aware that rumors have been going around.@k@vS18/22/161400010. That's why I believe the best course of action at the moment is to calmly assess the situation.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48634,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS18/06/160600088.",
+		"TextJPN": "「それじゃあ、このまま何もせずに沙都子をほったらかしってことですか？」",
+		"NamesENG": "Shion",
+		"TextENG": "``Well then, does that mean you're going to leave Satoko like this without doing anything about it?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48635,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS18/22/161400011.",
+		"TextJPN": "「いいえ。まずは北条さんのお宅にうかがって、状況を率直にうかがうつもりです」",
+		"NamesENG": "Chie",
+		"TextENG": "``No. First off, I'm going to head to Houjou-san's house and speak frankly with him about the situation.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48636,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS18/06/160600089.",
+		"TextJPN": "「保護者づらして丸め込むに決まってます！」",
+		"NamesENG": "Shion",
+		"TextENG": "``He's just going to pretend to be a proper guardian, like always!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48637,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS18/01/160100075.",
+		"TextJPN": "「詩音、落ち着け。@k@vS18/01/160100076.今は先生の話を聞こう」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Shion, calm down.@k@vS18/01/160100076. Let's listen to Sensei for now.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48638,
+		"TextJPN": "俺たちは子供じみた正義感で突っ走りすぎている。",
+		"TextENG": "We were getting carried away by our child-like notion of justice."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48639,
+		"TextJPN": "感情だけでは沙都子を救うことはできない。むしろ現実的な支えが必要な時だ。",
+		"TextENG": "Emotions alone won't help Satoko. Quite the opposite, this is the time when realistic support is necessary."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48640,
+		"TextJPN": "それに、知恵先生なら……もしかすると、少しは動いてくれるかもしれない。その思いに最後の望みを賭けたかった。",
+		"TextENG": "Besides, now that Chie-sensei is involved... maybe it will move things forward a little."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48641,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS18/01/160100077.",
+		"TextJPN": "「先生は投げやりな態度を決め込むような人じゃない。@k@vS18/01/160100078.沙都子のことを真剣に考えてくれるはずだ。@k@vS18/01/160100079.先生、そうですよね？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Sensei, you're not the sort of person to dismiss concerns so lightly.@k@vS18/01/160100078. I believe you're giving Satoko's situation proper consideration.@k@vS18/01/160100079. Right, Sensei?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48642,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS18/22/161400012.",
+		"TextJPN": "「そうですね。@k@vS18/22/161400013.今はあれこれ思い悩むような彼氏もいないわけですし、せめて可愛い生徒の将来については先生も一緒に考えさせてほしいと思っていますよ」",
+		"NamesENG": "Chie",
+		"TextENG": "``That's right.@k@vS18/22/161400013. I'm not about to let some man get in the way. It's my responsibility as a teacher to think about the future of my adorable students.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48643,
+		"TextJPN": "詩音はふっと笑みを見せると、肩の力を抜いた。",
+		"TextENG": "Shion finally started to smile and relax her shoulders."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48644,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS18/06/160600090.",
+		"TextJPN": "「解りました……」",
+		"NamesENG": "Shion",
+		"TextENG": "``I understand...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48645,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS18/22/161400014.",
+		"TextJPN": "「問題となる事実が少しでも見受けられた場合は、断固たる処置を取るつもりです」",
+		"NamesENG": "Chie",
+		"TextENG": "``If I notice any real problems, even something minor, I'm willing to take decisive action.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48646,
+		"TextJPN": "詩音は疑わしげに、露骨に眉をひそめる。そんな彼女を落ち着かせようと、知恵先生は肩に手を乗せて続けた。",
+		"TextENG": "Shion dubiously frowned. Chie-sensei put a hand on her shoulder to try and calm her."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48647,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS18/22/161400022.",
+		"TextJPN": "「時には、人に頼り信じることも大切ですよ。@k@vS18/22/161400023.私はそれも勇気だと思っています」",
+		"NamesENG": "Chie",
+		"TextENG": "``Sometimes, it's important to depend on others, and to believe in them.@k@vS18/22/161400023. I think it takes courage to do that.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48648,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS18/01/160100080.",
+		"TextJPN": "「信じていいんですよね、先生？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``We can believe in you, Sensei?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48649,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS18/22/161400024.",
+		"TextJPN": "「先生が嘘ついたことありますか？」",
+		"NamesENG": "Chie",
+		"TextENG": "``Have I ever lied to you?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48650,
+		"TextJPN": "俺はゆっくり頭を振る。まだ長い付き合いと呼べるほどではないが、それだけはなかった。……と、思う。",
+		"TextENG": "I gently shook my head. We hadn't know each other for very long, but it seemed long enough. ...I thought so, anyway."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48651,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS18/22/161400025.",
+		"TextJPN": "「この件は先生に預からせてください。@k@vS18/22/161400026.前原くんと……委員長の妹さんは心配しないこと」",
+		"NamesENG": "Chie",
+		"TextENG": "``Please, let me handle this.@k@vS18/22/161400026. Maebara-kun... and you too Shion, don't worry about this.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48652,
+		"TextJPN": "知恵先生は『任せなさい』と言わんばかりに、胸をポンと叩いた。",
+		"TextENG": "Chie-sensei pounded her chest as she said that, as if to say ``I'll take care of everything.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48653,
+		"TextJPN": "知恵先生の言葉に、一応は納得みせたものの、",
+		"TextENG": "Though I was convinced by Chie-sensei's words at first..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48654,
+		"TextJPN": "咄嗟に見せた“大人”の冷酷な反応を目の当たりにし、俺たちは失望の色を隠せなかった。",
+		"TextENG": "After witnessing the cruel response of the ``adults,`` we couldn't hide our disappointment."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48655,
+		"TextJPN": "本音と建て前を巧みに使い分ける“大人”に、全てを任せてはいられない。",
+		"TextENG": "Proper ``adults`` have developed skill at hiding their true intentions, so we can't leave everything to the adults here."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48656,
+		"TextJPN": "俺たちの手で、沙都子を救い出さなければ……。",
+		"TextENG": "We need to do something for Satoko, with our own hands..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48657,
+		"TextJPN": "いても立ってもいられず、俺と詩音は沙都子のいる北条家へと足を向けた。",
+		"TextENG": "Unable to stand idly by any longer, Shion and I set a course toward the Houjou house, where we'd find Satoko."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48658,
+		"TextJPN": "焦げ付くような焦燥感だけが俺の脳裏を満たし、もう何も考えられない。",
+		"TextENG": "Burning frustration filled my mind. I couldn't think about anything else."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48659,
+		"TextJPN": "ただ足を前に突き出すという反復運動を繰り返す機械人形のごとく、前のめりで進んでいった。",
+		"TextENG": "I moved forward like a robot, mechanically repeating the motions necessary to move my legs, driving myself forward."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48660,
+		"TextJPN": "俺は沙都子に会って、どうするつもりなんだろう……？",
+		"TextENG": "What am I going to do when I meet Satoko...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48661,
+		"TextJPN": "考えなしに計画も算段もなく、沙都子の手を取って逃げ出すつもりなのか？",
+		"TextENG": "I have no plans, no ideas. Am I going to just grab Satoko's hand and run away?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48662,
+		"TextJPN": "ヒーロー気取り……。ある意味で、魅音の言うとおりかもしれない。",
+		"TextENG": "Acting like a hero... In a sense, Mion may have been right about that."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48663,
+		"TextJPN": "軽はずみな正義を貫いたとして、末永く幸せに暮らしました……なんてハッピーエンドは待っていない。",
+		"TextENG": "I know a happy ending where rash justice prevails and we all live happily ever after won't be waiting for us."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48664,
+		"TextJPN": "……ああ、もうっ、やめろ！　今は余計なことを考えるな！",
+		"TextENG": "...Aah, enough of that! Don't go thinking unnecessary things!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48665,
+		"TextJPN": "俺にできることをする。それだけでいいはずだ。",
+		"TextENG": "I'll do what I can. That alone should be enough."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48666,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS18/06/160600095.",
+		"TextJPN": "「圭ちゃん！」",
+		"NamesENG": "Shion",
+		"TextENG": "``Kei-chan!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48667,
+		"TextJPN": "突然、名前を呼ばれて我に返る。",
+		"TextENG": "I returned to my senses after suddenly hearing my name."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48668,
+		"TextJPN": "振り返ると、遥か遠くで詩音が佇んでいた。",
+		"TextENG": "Looking back, Shion was standing far off in the distance."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48669,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS18/01/160100081.",
+		"TextJPN": "「何してんだよ、詩音？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``What are you doing, Shion?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48670,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS18/06/160600096.",
+		"TextJPN": "「あの……出鼻を挫くようで申し訳ないんですけど……」",
+		"NamesENG": "Shion",
+		"TextENG": "``Umm... I'm sorry to kill the mood, but...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48671,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS18/01/160100082.",
+		"TextJPN": "「だから、何だよ？@k@vS18/01/160100083.　こんなとこでぐずぐずやってる暇ないだろ？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``But what?@k@vS18/01/160100083. We don't have time to be stalling like this, do we?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48672,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS18/06/160600097.",
+		"TextJPN": "「あの……念のためですけど……@k@vS18/06/160600098.沙都子の家の場所をご存じですか？」",
+		"NamesENG": "Shion",
+		"TextENG": "``Um... just to make sure...@k@vS18/06/160600098. You know how to get to Satoko's house, right?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48673,
+		"TextJPN": "えっ？",
+		"TextENG": "Huh?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48674,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS18/06/160600099.",
+		"TextJPN": "「沙都子の家は、こっちですよ」",
+		"NamesENG": "Shion",
+		"TextENG": "``Satoko's house is this way.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48675,
+		"TextJPN": "詩音は俺と反対方向に指を差す。",
+		"TextENG": "Shion pointed her finger in the opposite direction."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48676,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS18/01/160100084.",
+		"TextJPN": "「……そ、そうなのか。@k@vS18/01/160100085.すまん……神社の奥のイメージが抜けなくて」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...O-oh, really?@k@vS18/01/160100085. Sorry... I just instictively thought of the shrine.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48677,
+		"TextJPN": "しどろもどろになる俺。",
+		"TextENG": "I was getting careless."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48678,
+		"TextJPN": "目的地も知らないまま歩き続けて、どこに行くつもりだったんだよ？",
+		"TextENG": "What was I thinking? Continuing to walk forward without considering my destination?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48679,
+		"TextJPN": "焦るあまり、完全に周りが見えてなかった。",
+		"TextENG": "I was so impatient that I didn't take the time to examine my surroundings."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48680,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS18/06/160600100.",
+		"TextJPN": "「くっくっくっく……」",
+		"NamesENG": "Shion",
+		"TextENG": "``Heh heh heh heh...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48681,
+		"TextJPN": "真っ赤になった俺の顔を見て、詩音が堪えきれずに笑い出す。",
+		"TextENG": "When Shion saw my face turn red, she couldn't help but laugh."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48682,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS18/01/160100086.",
+		"TextJPN": "「いや、そ、それにだ！@k@vS18/01/160100087.　一回自分の家に寄っておこうと思ってたし……」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``No, b-besides!@k@vS18/01/160100087. I was thinking about stopping at my house on the way...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48683,
+		"TextJPN": "これじゃ男としてのメンツの危機だと、止せばいいのに、言い訳を重ねてしまう。",
+		"TextENG": "I really should face my mistakes with honor, like a man, but instead I ended up making excuses."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48684,
+		"TextJPN": "この発想自体、男としてどうしたもんなんだ？　と思いつつも……。",
+		"TextENG": "What did being a man even mean in the first place? As I thought about that..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48685,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS18/01/160100088.",
+		"TextJPN": "「と、とりあえず茶でも飲んで一息入れて……。@k@vS18/01/160100089.喧嘩腰で乗り込んでもしょうがないだろ？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``F-for now, we ought to take a break and have a cup of tea...@k@vS18/01/160100089. Even if we get there, acting belligerent won't help anything, right?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48686,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS18/06/160600101.",
+		"TextJPN": "「くすくすくすくすくす……」",
+		"NamesENG": "Shion",
+		"TextENG": "``Hee hee hee hee hee...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48687,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS18/01/160100090.",
+		"TextJPN": "「な、何だよ？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``W-what is it?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48688,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS18/06/160600102.",
+		"TextJPN": "「だって、圭ちゃんのお家も、そっちじゃないですよね？」",
+		"NamesENG": "Shion",
+		"TextENG": "``Kei-chan, your house isn't that way either, is it?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48689,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS18/01/160100091.",
+		"TextJPN": "「……」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48690,
+		"TextJPN": "余計なことを言い過ぎた。",
+		"TextENG": "I took my excuses too far."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48691,
+		"TextJPN": "なに考えてるんだ、俺……気合ばっかりが空回りしてる。",
+		"TextENG": "What was I thinking...? We're losing our fighting spirit."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48692,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS18/06/160600105.",
+		"TextJPN": "「笑ってしまってごめんなさい。@k@vS18/06/160600106.でも、圭ちゃんがすごく熱い人だってことが解りました。@k@vS18/06/160600107.だから、お姉は圭ちゃんのこと……」",
+		"NamesENG": "Shion",
+		"TextENG": "``I'm sorry for laughing at you.@k@vS18/06/160600106. But I understand that you're a passionate person, Kei-chan.@k@vS18/06/160600107. That's why Sis...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48693,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS18/01/160100094.",
+		"TextJPN": "「魅音が……何だ？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Huh...? What's this about Mion?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48694,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS18/06/160600108.",
+		"TextJPN": "「何でもないです。@k@vS18/06/160600109.さぁ、沙都子の家に急ぎましょう。@k@vS18/06/160600110.私が案内しますね」",
+		"NamesENG": "Shion",
+		"TextENG": "``It's nothing.@k@vS18/06/160600109. Anyway, let's hurry to Satoko's house.@k@vS18/06/160600110. I'll show you the way.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48695,
+		"TextJPN": "取り繕うように笑顔を向けると、詩音は俺を手招く。",
+		"TextENG": "Shion beckoned me forward with a smile on her face."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48696,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS18/06/160600111.",
+		"TextJPN": "「なんなら、お手て引きましょうか？」",
+		"NamesENG": "Shion",
+		"TextENG": "``You can hold my hand, if you like?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48697,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS18/01/160100095.",
+		"TextJPN": "「もう勘弁してくれよ……」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Give me a break...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48698,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS18/06/160600112.",
+		"TextJPN": "「くすくすくすくすくす……圭ちゃんって、照れ屋ですね」",
+		"NamesENG": "Shion",
+		"TextENG": "``Hee hee hee hee hee... Kei-chan, you're so shy.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48699,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS18/01/160100096.",
+		"TextJPN": "「悪かったな、コドモで」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Well excuse me for being a little kid.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48700,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS18/06/160600113.",
+		"TextJPN": "「いいえ、圭ちゃんの純粋さとか真っ直ぐなところ、私すごく羨ましいです」",
+		"NamesENG": "Shion",
+		"TextENG": "``No, Kei-chan. You're innocent and straightforward. I envy that.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48701,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS18/01/160100097.",
+		"TextJPN": "「なんか、褒め殺しっぽいぞ」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Somehow, that seems like a backhanded compliment.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48702,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS18/06/160600114.",
+		"TextJPN": "「本心ですよ。@k@vS18/06/160600115.……でも、気をつけて下さいね」",
+		"NamesENG": "Shion",
+		"TextENG": "``I mean that sincerely.@k@vS18/06/160600115. ...But please be careful, ok?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48703,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS18/01/160100098.",
+		"TextJPN": "「気をつける……？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Be careful...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48704,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS18/06/160600116.",
+		"TextJPN": "「……後をつけられている……@k@vS18/06/160600117.ってこともありますから……」",
+		"NamesENG": "Shion",
+		"TextENG": "``...Because...@k@vS18/06/160600117. someone could be following us...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48705,
+		"TextJPN": "低音で発せられた忠告に、俺は突然不安な気持ちになる。",
+		"TextENG": "Her warning suddenly made me feel uneasy."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48706,
+		"TextJPN": "いるはずがない……。",
+		"TextENG": "It couldn't be..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48707,
+		"TextJPN": "だが……、",
+		"TextENG": "But..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48708,
+		"TextJPN": "そっと身を隠し、誰かが俺を見ている気がした。",
+		"TextENG": "It felt like someone was watching me from the shadows."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48709,
+		"TextJPN": "薄ら笑いすら浮かべて……。",
+		"TextENG": "A faint smile seemed to float out..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48710,
+		"TextJPN": "これは錯覚……？　それとも……？",
+		"TextENG": "Was that my imagination...? Or...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48711,
+		"TextJPN": "北条家は、長閑な田園風景を抜け、鬱蒼とした林の手前に、ぽつんとあった。",
+		"TextENG": "We passed through the relaxing country scenery, then found the Houjou house in a clearing before a dense forest."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48712,
+		"TextJPN": "この中で、沙都子が一人つらい目に耐えているかと思うと、俺は無性に腹が立った。",
+		"TextENG": "An intense rage welled up inside me as I thought about the hardship Satoko was enduring in there."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48713,
+		"TextJPN": "チャイムを鳴らすが、返事はない。",
+		"TextENG": "I rang the doorbell, but there was no response."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48714,
+		"TextJPN": "不気味な静寂が北条家を包み込んでいる。",
+		"TextENG": "An eerie silence surrounded the Houjou house."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48715,
+		"TextJPN": "まさか……。",
+		"TextENG": "No way..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48716,
+		"TextJPN": "不穏な胸騒ぎに駆り立てられた。",
+		"TextENG": "It felt like a disturbing premonition."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48717,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS18/06/160600118.",
+		"TextJPN": "「ちょっと……そんなに乱暴に押したら、壊れてしまいますよ」",
+		"NamesENG": "Shion",
+		"TextENG": "``Hold on... If you keep pressing it like that you'll break it.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48718,
+		"TextJPN": "詩音の忠告も耳には入らない。",
+		"TextENG": "Shion's advice went in one ear and out the other."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48719,
+		"TextJPN": "俺は怒りや不安をぶちまけるように、何度もチャイムを鳴らした。",
+		"TextENG": "My anger and restlessness drove me to ring the bell several times more."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48720,
+		"TextJPN": "だが、やはり返事は無かった。",
+		"TextENG": "But again, there was no response."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48721,
+		"TextJPN": "ここまで来て何もせずに帰るなんて、俺にはできない！",
+		"TextENG": "I came all the way here, I won't turn away without accomplishing anything!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48722,
+		"TextJPN": "俺は強攻策に打って出た。",
+		"TextENG": "I've already launched myself into a bold attack."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48723,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS18/06/160600119.",
+		"TextJPN": "「圭ちゃん。@k@vS18/06/160600120.そんなことしたら、不法侵入になりますよ」",
+		"NamesENG": "Shion",
+		"TextENG": "``Kei-chan.@k@vS18/06/160600120. If you go any farther, you'll be trespassing.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48724,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS18/01/160100099.",
+		"TextJPN": "「はん！　警察だろうが何だろうが、もう関係ないさ！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Hah! Who cares about the police? That doesn't matter anymore!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48725,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS18/06/160600121.",
+		"TextJPN": "「……ですよね。喧嘩上等！」",
+		"NamesENG": "Shion",
+		"TextENG": "``...Of course. Bring it on!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48726,
+		"TextJPN": "まるで暴走族の特攻服に刻まれているような台詞が詩音の口から飛び出すとは……。",
+		"TextENG": "The kind of line I'd expect to see engraved on a motorcycle gang member's jacket flew out of Shion's mouth."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48727,
+		"TextJPN": "見ちゃいけないものを見てしまった気分。",
+		"TextENG": "I felt like I'd seen something I shouldn't have."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48728,
+		"TextJPN": "だけど、腕まくりをし始めた詩音は頼もしく見える。",
+		"TextENG": "But when the pressure is on, Shion looks very reliable."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48729,
+		"TextJPN": "俺と詩音は息を殺し、庭へと回った。",
+		"TextENG": "Shion and I took a deep breath, then headed out toward the garden."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48730,
+		"TextJPN": "窓が開いてるのか、居間のカーテンが揺れている。",
+		"TextENG": "The living room curtains were swaying, it looked like the window was open."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48731,
+		"TextJPN": "生け垣の影に身を潜めると、ゆらゆら揺れるカーテンの先へ、目をこらした。",
+		"TextENG": "I hid myself in the shadow of a bush, then looked intently toward the swinging curtain."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48732,
+		"TextJPN": "そよ風が吹き抜け、カーテンがふわりと宙に舞った。",
+		"TextENG": "A gentle breeze blew through the air, and the curtain fluttered along with it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48733,
+		"TextJPN": "その先に……沙都子がいた！",
+		"TextENG": "Beyond that... Satoko was inside!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48734,
+		"TextJPN": "沙都子………………！",
+		"TextENG": "Satoko......!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48735,
+		"TextJPN": "これ以上もう我慢できない！",
+		"TextENG": "I couldn't take it anymore!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48736,
+		"TextJPN": "俺は立ち上がった。",
+		"TextENG": "I got up from my position."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48737,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS18/06/160600123.",
+		"TextJPN": "「待って下さい」",
+		"NamesENG": "Shion",
+		"TextENG": "``Please, wait.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48738,
+		"TextJPN": "俺の行く手を阻むように、詩音が立ちはだかった。",
+		"TextENG": "Shion stood firmly in my path to cut me off."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48739,
+		"TextJPN": "この期に及んで、俺を止める気か、詩音？",
+		"TextENG": "Are you going to stop me at the last moment, Shion?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48740,
+		"TextJPN": "俺が反論しようと口を開きかけた時……。",
+		"TextENG": "Just as I opened my mouth to protest..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48741,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS18/06/160600124.",
+		"TextJPN": "「……こういうときは、レディファーストってやつでしょうっ？！」",
+		"NamesENG": "Shion",
+		"TextENG": "``...Isn't a gentleman supposed to say ``ladies first`` at a time like this?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48742,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS18/01/160100100.",
+		"TextJPN": "「……は？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...Huh?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48743,
+		"TextJPN": "思いがけない一言に、俺は一瞬唖然となった。",
+		"TextENG": "I was stunned for a moment by her unexpected response."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48744,
+		"TextJPN": "それに対して、にやりと笑いかける詩音。……なるほど、やるなら落ち着けってことか。",
+		"TextENG": "Shion, on the other hand, wore a playful grin. ...I see, she was trying to calm me down."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48745,
+		"TextJPN": "確かに、冷静さを手放してしまっては負けだ。",
+		"TextENG": "Indeed, I'd lose control if I didn't stay calm."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48746,
+		"TextJPN": "俺は自分の心を静めようと、深呼吸した。",
+		"TextENG": "So I took a deep breath to compose myself."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48747,
+		"TextJPN": "そして気持ちを落ち着けると、生垣を飛び越えて家へと近づき、――勢いづけて中に足を踏み入れる！",
+		"TextENG": "Then, once I steadied myself, I jumped over the bush and pushed myself forward... and a moment later, I set my foot down inside!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48748,
+		"NamesJPN": "鉄平",
+		"PreTextTags": "@vS18/21/162000017.",
+		"TextJPN": "「あぁんっ？　何ねお前らッ？！@k@vS18/21/162000018.　勝手に入ってきて、なにやっとんじゃおらぁあぁっっ！！」",
+		"NamesENG": "Teppei",
+		"TextENG": "``Huuuh? What are you punks doing?!@k@vS18/21/162000018. You think you can just barge in like thaaaaat?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48749,
+		"TextJPN": "鉄平の下品な声に立ち向かうように、俺はカーテンを開け放った。",
+		"TextENG": "I was confronted by Teppei's vulgar voice the moment I stepped through the curtains."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48750,
+		"TextJPN": "もうそんな脅し文句など、恐くはなかった。",
+		"TextENG": "I wasn't afraid of his threats."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48751,
+		"TextJPN": "ただ、沙都子を救いたい。その一心だけが、俺を支えていた。",
+		"TextENG": "But I wanted to help Satoko. That was the one thing racing through my heart at the moment."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48752,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS18/04/160400002.",
+		"TextJPN": "「…………圭一さん！」",
+		"NamesENG": "Satoko",
+		"TextENG": "``......Keiichi-san!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48753,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS18/01/160100101.",
+		"TextJPN": "「沙都子……」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Satoko...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48754,
+		"TextJPN": "だがその時、隣の部屋のふすまが前触れもなく開かれた。",
+		"TextENG": "But just then, the door to the next room suddenly slid open."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48755,
+		"TextJPN": "湿気た煙草の煙が漏れてくる。",
+		"TextENG": "And moist cigarette smoke wafted in."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48756,
+		"TextJPN": "戸口に立っている男は、俺たちには目もくれずに言った。",
+		"TextENG": "The man in the doorway spoke without looking at us."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48757,
+		"NamesJPN": "男",
+		"PreTextTags": "@vS18/00/yakuA16001.",
+		"TextJPN": "「鉄っちゃん。@k@vS18/00/yakuA16002.ビールもう一本追加じゃねぁ」",
+		"NamesENG": "Man",
+		"TextENG": "``Tecchan.@k@vS18/00/yakuA16002. You need another beer?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48758,
+		"TextJPN": "中では、明らかに泥酔状態の男達が酒瓶片手に、麻雀卓を囲んでいる。",
+		"TextENG": "Inside, several clearly drunken men were sitting around a Mahjong table covered in liquor."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48759,
+		"TextJPN": "こいつらは……こいつらは……襖一枚隔てた向こう側で沙都子がこんな目に遭ってるというのに……何で無関心なんかでいられるんだ……！",
+		"TextENG": "These bastards... these bastards... even though Satoko is right here on the other side of the sliding door... why don't they care...?!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48760,
+		"TextJPN": "こいつらは人じゃねぇ……腐った奴らめ…………！",
+		"TextENG": "These bastards aren't people... they're rotten thugs...!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48761,
+		"TextJPN": "その瞬間、俺は激高した。",
+		"TextENG": "That moment, I was enraged."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48762,
+		"TextJPN": "俺は汗で滑る拳を握り直すと、一歩足を踏み出した。",
+		"TextENG": "I clenched my fists, dripping in sweat, then took a step forward."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48763,
+		"TextJPN": "鉄平を助太刀する形で、男達が居間に出てくる。",
+		"TextENG": "The men came out of the living room to help Teppei."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48764,
+		"TextJPN": "そして、俺と詩音を囲むように立つ。",
+		"TextENG": "Then, they surrounded Shion and I."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48765,
+		"NamesJPN": "男",
+		"PreTextTags": "@vS18/00/yakuB16001.",
+		"TextJPN": "「なんね、人んちにでしゃばるもんやなかぜ。@k@vS18/00/yakuB16002.ここは鉄っちゃんの家なんじゃからのぉ」",
+		"NamesENG": "Man",
+		"TextENG": "``What're y'all doin' in here?@k@vS18/00/yakuB16002. This is Tecchan's house.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48766,
+		"NamesJPN": "男",
+		"PreTextTags": "@vS18/00/yakuC16001.",
+		"TextJPN": "「キレる十代っか？@k@vS18/00/yakuC16002.　おお、恐っとおね」",
+		"NamesENG": "Man",
+		"TextENG": "``Unruly teenagers?@k@vS18/00/yakuC16002. Ohh, I'm so afraid.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48767,
+		"NamesJPN": "男",
+		"PreTextTags": "@vS18/00/yakuA16003.",
+		"TextJPN": "「世も末じゃね」",
+		"NamesENG": "Man",
+		"TextENG": "``There's no hope for the future with kids like these.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48768,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS18/01/160100107.",
+		"TextJPN": "「何が世も末だっ！！@k@vS18/01/160100108.　お前らみたいな大人がのさばってるから、この世はどんどん腐ってくんだよっ！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Where the hell do you get off?!@k@vS18/01/160100108. Adults like you are the reason the world has gone to hell!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48769,
+		"NamesJPN": "男",
+		"PreTextTags": "@vS18/00/yakuB16003.",
+		"TextJPN": "「んじゃとぉ？@k@vS18/00/yakuB16004.　ふざけた口聞ぃとっと、おじさんらも黙っとぉないね。@k@vS18/00/yakuB16005.ひとつお仕置きしてやっとおかぁっ！」",
+		"NamesENG": "Man",
+		"TextENG": "``Whaaa?@k@vS18/00/yakuB16004. You should keep yer mouth shut around yer elders.@k@vS18/00/yakuB16005. It's time for yer punishment!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48770,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS18/01/160100110.",
+		"TextJPN": "「こんの野郎！@k@vS18/01/160100111.　ただじゃおかねぇ！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``You bastards!@k@vS18/01/160100111. You'll pay for that!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48771,
+		"TextJPN": "もはや、我慢も猶予もなかった。心に燃え上がった火は体中に飛びうつって、俺は電光石火のごとく鉄平に殴りかかる。",
+		"TextENG": "By that point, my patience was completely exhausted. The fire burning in my heart spread to my entire body, and I swung at Teppei with lightning speed."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48772,
+		"TextJPN": "しかし、相手は多勢。",
+		"TextENG": "However, I was outnumbered here."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48773,
+		"TextJPN": "４人がかりで一斉に俺を殴り飛ばす。",
+		"TextENG": "The four of them came at me all at once."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48774,
+		"TextJPN": "この時ばかりは体格も、力もオトナに劣る『子供』でしかない自分の身体が、ただただ恨めしかった。",
+		"TextENG": "Right then, I lamented that my frail ``child-like`` physique was no match for the power of these adults."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48775,
+		"TextJPN": "グホッ！！",
+		"TextENG": "Guh!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48776,
+		"NamesJPN": "鉄平",
+		"PreTextTags": "@vS18/21/162000032.",
+		"TextJPN": "「偉そうことほえっとぉ……！」",
+		"NamesENG": "Teppei",
+		"TextENG": "``Self-righteous puuunk...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48777,
+		"NamesJPN": "鉄平",
+		"PreTextTags": "@vS18/21/162000033.",
+		"TextJPN": "「ワシに楯突いたらどんな目に遭うか、とことん解らせてやっとね……！」",
+		"NamesENG": "Teppei",
+		"TextENG": "``Lemme show you what happens to punks like you who fuck with me...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48778,
+		"TextJPN": "嫌らしい笑い声が俺の耳を劈く。",
+		"TextENG": "Repulsive laughter filled my ears."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48779,
+		"TextJPN": "薄目を開けると、",
+		"TextENG": "I opened my eyes a crack..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48780,
+		"TextJPN": "鉄平が勿体つけた素振りで、拳を振りかざしている。",
+		"TextENG": "Teppei swung his fist around wildly."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48781,
+		"TextJPN": "こんなところで負けるな！　男を見せろ、前原圭一！！",
+		"TextENG": "Don't admit defeat in a place like this! Show them you're a man, Keiichi Maebara!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48782,
+		"TextJPN": "俺は上体を反らすと、渾身の力を込めて鉄平を突き飛ばした。",
+		"TextENG": "I twisted my body and put all my strength into pushing Teppei away."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48783,
+		"TextJPN": "勢い余って、鉄平の体は食器棚に激突する。",
+		"TextENG": "The force caused Teppei's body to crash into the cupboard."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48784,
+		"TextJPN": "打ち所が悪かったのか、痛そうにもがきながら、鉄平は怒りに目をむいて起き上がってきた。",
+		"TextENG": "Teppei seemed to take a bad blow from that, he struggled with a look of rage in his eyes as he got back up."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48785,
+		"NamesJPN": "男",
+		"PreTextTags": "@vS18/00/yakuA16006.",
+		"TextJPN": "「この野郎がぁ……！！@k@vS18/00/yakuA16007.　ぶっ殺じゃろがぁっっ！！！」",
+		"NamesENG": "Man",
+		"TextENG": "``You bastaaard...!!@k@vS18/00/yakuA16007. I'll kill yoooou!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48786,
+		"TextJPN": "何とか立ち上がった俺だが、腕を捕まれ引き戻される。",
+		"TextENG": "I managed to stand up somehow, but someone caught my arm and pulled me back."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48787,
+		"TextJPN": "床に押しつけられ、男達の袋叩きが止まらない。",
+		"TextENG": "He tossed me down to the floor and continued beating me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48788,
+		"TextJPN": "苦しさに、視線をそらす。",
+		"TextENG": "I turned to look away from the source of my suffering."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48789,
+		"TextJPN": "部屋の隅っこで、詩音が沙都子の肩を抱き、『大丈夫。大丈夫』と背中をさすっている。",
+		"TextENG": "In the corner of the room, Shion had her arms around Satoko's shoulders, saying ``It's all right, it's all right`` as she rubbed her back."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48790,
+		"TextJPN": "沙都子は虚ろな目で遠くを見つめている。口をぽかーんと開けたままで……。",
+		"TextENG": "Satoko was staring off in the distance with a vacant look in her eyes. And her mouth was hanging open..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48791,
+		"TextJPN": "玄関の扉を誰かが激しく叩いている。",
+		"TextENG": "Someone was furiously knocking at the front door."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48792,
+		"TextJPN": "沙都子はカッと目を見開き、扉の方向を向いた。",
+		"TextENG": "Satoko's eyes opened wide as she turned toward the door."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48793,
+		"TextJPN": "そして、鍵のかかったノブをこじ開けようとしている。",
+		"TextENG": "It sounded like the lock on the door was about to break open."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48794,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS18/10/161000001.",
+		"TextJPN": "「入江です。@k@vS18/10/161000002.大丈夫ですか？@k@vS18/10/161000003.　誰かいるんですか？」",
+		"NamesENG": "Irie",
+		"TextENG": "``It's Irie.@k@vS18/10/161000002. Is everything all right?@k@vS18/10/161000003. Is anyone there?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48795,
+		"TextJPN": "……監督の声……？　どうやら訪問者は、監督のようだ。",
+		"TextENG": "...Was that the coach's voice...? I guess that must be Irie at the door."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48796,
+		"TextJPN": "詩音はさっと立ち上がると、玄関へ走った。",
+		"TextENG": "Shion quickly got up and ran to the front door."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48797,
+		"NamesJPN": "鉄平",
+		"PreTextTags": "@vS18/21/162000034.",
+		"TextJPN": "「待たんかごらぁぁっ！@k@vS18/21/162000035.　勝手に開けたらぶち殺すぞおらぁぁっ！！」",
+		"NamesENG": "Teppei",
+		"TextENG": "``Hold iiiit!@k@vS18/21/162000035. If you open that, I'll kill yooooou!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48798,
+		"TextJPN": "鉄平の吐く捨て台詞が空しく響く。",
+		"TextENG": "Teppei's vile voice filled the room, but his cry was in vain."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48799,
+		"TextJPN": "が、それよりも早く詩音はドアの鍵を手早く開けて、外にいた訪問者を中に招き入れた。",
+		"TextENG": "Shion hastily unlocked the front door and invited the visitor inside."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48800,
+		"TextJPN": "詩音に連れられ、監督が姿を現す。",
+		"TextENG": "Then, Shion escorted Irie into the room."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48801,
+		"TextJPN": "監督は、目の前に広がる光景に呆然としている。",
+		"TextENG": "Irie was stunned by the spectacle before his eyes."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48802,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS18/10/161000004.",
+		"TextJPN": "「こ、これは……」",
+		"NamesENG": "Irie",
+		"TextENG": "``W-what is this...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48803,
+		"NamesJPN": "鉄平",
+		"PreTextTags": "@vS18/21/162000036.",
+		"TextJPN": "「……おんやぁ、入江先生ですかいね。@k@vS18/21/162000037.何かご用でも？@k@vS18/21/162000038.　わざわざこんなむさ苦しいところにお出でなすって、すんませんねぇ」",
+		"NamesENG": "Teppei",
+		"TextENG": "``...Oh, well if it isn't Dr. Irie.@k@vS18/21/162000037. Do you need something?@k@vS18/21/162000038. It must be such a pain to come all the way out here, sorry about that.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48804,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS18/10/161000005.",
+		"TextJPN": "「車で通りかかったのですが……お宅から物凄い音が聞こえてきまして……。@k@vS18/10/161000006.これはいったい……どういうことですか？」",
+		"NamesENG": "Irie",
+		"TextENG": "``I was just driving by... when I heard terrible noises coming from your house...@k@vS18/10/161000006. What on earth... is going on in here?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48805,
+		"NamesJPN": "鉄平",
+		"PreTextTags": "@vS18/21/162000039.",
+		"TextJPN": "「おみ足、汚れちまったらいかんね。@k@vS18/21/162000040.おらぁ、沙都子！@k@vS18/21/162000041.　ボサッとしてねぇで、スリッパでも何でも持ってこいや！」",
+		"NamesENG": "Teppei",
+		"TextENG": "``Your shoes are making a mess of the place.@k@vS18/21/162000040. Heeey, Satoko!@k@vS18/21/162000041. Bring this man some slippers!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48806,
+		"NamesJPN": "鉄平",
+		"PreTextTags": "@vS18/21/162000042.",
+		"TextJPN": "「うちには、先生のお口に合うような、スタイリッシュって言うんですか？@k@vS18/21/162000043.　おハイソなものはありぁせんけどね、遠慮なくくつろいでってくださいな」",
+		"NamesENG": "Teppei",
+		"TextENG": "``Something stylish to match the doctor's way of speaking.@k@vS18/21/162000043. This place isn't very classy, but please make yourself comfortable.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48807,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS18/10/161000007.",
+		"TextJPN": "「お気遣いは結構です。@k@vS18/10/161000008.それより、事情を聞かせて頂きたい」",
+		"NamesENG": "Irie",
+		"TextENG": "``I appreciate your concern.@k@vS18/10/161000008. But more than that, I'd like to hear your explanation for all this.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48808,
+		"NamesJPN": "鉄平",
+		"PreTextTags": "@vS18/21/162000044.",
+		"TextJPN": "「……いやねぇ、ちょいとこいつらが勝手に押しかけてきよって、やんちゃしでかしてたんですわ。@k@vS18/21/162000045.最近のガキは礼儀を知らんと言うか、いっぱしにしゃらくせー口聞いて、けったいな世の中になったもんですなぁ」",
+		"NamesENG": "Teppei",
+		"TextENG": "``...It's nothing, these kids snuck in without my permission and caused a ruckus.@k@vS18/21/162000045. Kids these days have no manners. Barging in saying whatever shit they want. What a messed up world we're living in now.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48809,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS18/10/161000009.",
+		"TextJPN": "「彼らが部屋を荒らしたとは、私には考えられませんね……」",
+		"NamesENG": "Irie",
+		"TextENG": "``I can't imagine that they would vandalize the room like this...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48810,
+		"NamesJPN": "鉄平",
+		"PreTextTags": "@vS18/21/162000046.",
+		"TextJPN": "「いや、こっちもね、かっとなったと言いますか、@k@vS18/21/162000047.昔気質の男なもんで、手が出ちまうってこともねぇ……？@k@vS18/21/162000048.　ちょっとこらしめてやっただけですわ～」",
+		"NamesENG": "Teppei",
+		"TextENG": "``No, I just gave them a harsh scolding.@k@vS18/21/162000047. I'm an old-fashioned man, I never even lifted a hand to them, ok...?@k@vS18/21/162000048. I just wanted them to learn their lesson~.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48811,
+		"TextJPN": "一歩も引けを取らない毅然とした監督の態度に、鉄平は口ごもり出した。",
+		"TextENG": "Teppei hesitated as he said that, not wanting to make Irie upset."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48812,
+		"TextJPN": "俺はほっと胸をなで下ろした。",
+		"TextENG": "The fire in my chest finally started to cool off."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48813,
+		"TextJPN": "監督が来てくれたからには、きっと沙都子を助け出してくれるに違いない。",
+		"TextENG": "Now that Irie is here, surely Satoko will be ok."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48814,
+		"TextJPN": "監督は他の“大人達”とは違う。",
+		"TextENG": "Irie was different from the other ``adults.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48815,
+		"TextJPN": "沙都子のことを親身になって考えてくれる人だ。",
+		"TextENG": "He was the kind of person who cared deeply about Satoko."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48816,
+		"TextJPN": "そう思った直後、信じられない言葉が俺を凍り付かせた。",
+		"TextENG": "Just as I thought that, I heard an unexpected word that caused me to freeze over."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48817,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS18/04/160400007.",
+		"TextJPN": "「何でもないんです」",
+		"NamesENG": "Satoko",
+		"TextENG": "``It's nothing.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48818,
+		"TextJPN": "沙都子だった。そして、唖然とする俺を、焦点の定まった目でじっと見つめ返す。",
+		"TextENG": "It was Satoko. Then, as I stood there in astonishment, she gazed at me with a focused expression."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48819,
+		"TextJPN": "余計なことは言うなと言わんばかりに……。",
+		"TextENG": "As if to convey that nothing else needed to be said..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48820,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS18/01/160100112.",
+		"TextJPN": "「沙都子……お前、何でそんなデタラメ言うんだ……」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Satoko... why are you saying this nonsense...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48821,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS18/04/160400008.",
+		"TextJPN": "「圭一さんと詩音さんは誤解をしていましてよ。@k@vS18/04/160400009.心配なさっているようなことは一切ございませんの。@k@vS18/04/160400010.だから、もうお帰りになって下さいな」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Keiichi-san, Shion-san, it was just a misunderstanding.@k@vS18/04/160400009. There is nothing to worry about.@k@vS18/04/160400010. So please, go home now.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48822,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS18/01/160100113.",
+		"TextJPN": "「沙都子！@k@vS18/01/160100114.　お前、そんな強がり言ってる場合じゃないだろ！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Satoko!@k@vS18/01/160100114. You don't have to put on a courageous front!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48823,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS18/04/160400011.",
+		"TextJPN": "「聞こえませんでした？@k@vS18/04/160400012.　お帰りになって下さいと、申し上げているのでございますわ！」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Did you not hear me?@k@vS18/04/160400012. Please, I asked you to go home!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48824,
+		"TextJPN": "より一層の強さと輝きを放って、沙都子の目は俺に訴えかけた。",
+		"TextENG": "Satoko's eyes were shining with even more strength as she said that to me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48825,
+		"TextJPN": "それは言葉とは裏腹な思いだった。",
+		"TextENG": "Her words were the complete opposite of what I expected."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48826,
+		"TextJPN": "圭一さん、ありがとうございますですわ。でも、もう充分ですの……。",
+		"TextENG": "Thank you very much, Keiichi-san. But enough already..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48827,
+		"TextJPN": "沙都子の口端が、微笑むように少しだけ上がった。",
+		"TextENG": "The corner of Satoko's mouth rose just enough to offer a vague smile."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48828,
+		"TextJPN": "俺は、お前にしてあげられることは何一つないのか……？",
+		"TextENG": "Is there nothing I can do for you...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48829,
+		"TextJPN": "お前が頷いてくれさえすれば、俺は火の中にだって飛び込める。",
+		"TextENG": "All you have to do is nod, and I'll jump right into the fire."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48830,
+		"TextJPN": "だから、お前を救い出すことを諦めろなんて悲しいこと、言わないでくれよ……。",
+		"TextENG": "So don't ask me to stop helping you..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48831,
+		"TextJPN": "ゴリゴリゴリゴリ……。",
+		"TextENG": "*scrape* *scrape*"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48832,
+		"TextJPN": "微かに聞こえてくる。不穏な音。",
+		"TextENG": "I faintly heard a noise. A disturbing sound."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48833,
+		"TextJPN": "ハッとして振り返ると、詩音が立っていた。",
+		"TextENG": "When I looked back, I noticed Shion standing there."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48834,
+		"TextJPN": "ゴリゴリゴリゴリ……ガリッ！",
+		"TextENG": "*scrape* *scrape* ... *scrape*"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48835,
+		"TextJPN": "詩音が歯を食いしばっていたのだ。",
+		"TextENG": "Shion was clenching her teeth."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48836,
+		"TextJPN": "今にも歯が欠けてしまいそうなほどの力を込めて……。",
+		"TextENG": "With an incredible amount of force..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48837,
+		"TextJPN": "まるで、切れ味の悪いナイフで、分厚い肉の塊を強引に切り刻むような……。",
+		"TextENG": "Like trying to slice through thick cuts of meat with a butcher's knife..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48838,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS18/10/161000010.",
+		"TextJPN": "「前原さん、詩音さん。@k@vS18/10/161000011.今日の所はお暇しましょう。ね？」",
+		"NamesENG": "Irie",
+		"TextENG": "``Maebara-san, Shion-san.@k@vS18/10/161000011. That's enough for today. Ok?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48839,
+		"TextJPN": "監督に促され、俺たちは渋々北条家を後にした。",
+		"TextENG": "On Irie's suggestion, we reluctantly left the Houjou house."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48840,
+		"TextJPN": "そんな俺たちをあざ笑うかのごとく、響き渡る鉄平の品を欠いた笑い声。",
+		"TextENG": "Teppei's boorish laugh echoed as though to mock us."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48841,
+		"TextJPN": "この時、俺は生まれて初めて、人を憎んだ。",
+		"TextENG": "In that moment, for the first time in my entire life, I knew what it meant to hate another person."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48842,
+		"TextJPN": "思いだけで、呪い殺してしまうほどに、憎んだ。",
+		"TextENG": "All I could think about was wishing death upon the person I hated."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48843,
+		"TextJPN": "憎しみ、悔しさ、絶望……そして、何とも言えない悲しみが俺の心をかき乱した。",
+		"TextENG": "My heart was filled with hatred, regret, despair... and an indescribable sorrow."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48844,
+		"TextJPN": "俺と詩音は監督の車で送ってもらうことになった。",
+		"TextENG": "Shion and I were riding in Irie's car."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48845,
+		"TextJPN": "ラジオからは、アルファ波を誘うクラシック音楽が流れている。",
+		"TextENG": "Relaxing classical music was playing on the radio."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48846,
+		"TextJPN": "だが、そんなメロディーなど聞こえはしない。",
+		"TextENG": "Yet, I couldn't hear those melodies."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48847,
+		"TextJPN": "何でもない、と言い切った沙都子の声が、俺の耳元で、止んでは流れ止んでは流れと、繰り返していた。",
+		"TextENG": "The only sound that echoed in my ear was Satoko's voice, saying ``It's nothing`` over and over."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48848,
+		"TextJPN": "詩音も押し黙ったままだ。",
+		"TextENG": "Shion was also sitting silently."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48849,
+		"TextJPN": "窓の外の風景を眺めてはいるが、どこか遠くの昔を回想しているように見えた。",
+		"TextENG": "I looked at the scenery out the window, but it felt like I was seeing it for the first time in a long time."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48850,
+		"TextJPN": "……沙都子はこれから、どうなってしまうんだろう。@kそして、それに対してなにもできない俺たちも、この先どう変わっていくんだろうか。",
+		"TextENG": "...What will happen to Satoko from now on?@k And if we're powerless to do anything about this, how will that change the future?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48851,
+		"TextJPN": "沙都子に救いの手が必要なことくらい、わかっている。@k……でも、無理やりに助け出したところで、それは一時しのぎにしかならない。",
+		"TextENG": "I know that Satoko needs help.@k ...But if we force anything on her, it would only be a temporary solution."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48852,
+		"TextJPN": "腹立たしくて不本意だが、家庭問題に他人である俺たちが介入できる余地は非常に小さいのだ。",
+		"TextENG": "Though it was frustrating and difficult to accept, there was little room for us to intervene in another family's problems."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48853,
+		"TextJPN": "ましてレナたちの話では、沙都子は以前虚偽をでっち上げたことがあったために、本来なら力に乗ってくれるはずの興宮の相談所が二の足を踏んでしまっているという。",
+		"TextENG": "Plus, according to Rena, Satoko had lied to the Okinomiya child consultation center in the past, which made it difficult for them to exercise any of their power."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48854,
+		"TextJPN": "一度嘘をついた人間の言うことを、次に信用するのは難しい……それは、よくわかっている。@k……でも、このままじゃ何の解決も、進展すら期待できないじゃないか……！",
+		"TextENG": "It's difficult to trust a person who has lied to you... That much is easy to understand.@k ...But without any sort of solution, no progress will ever be made...!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48855,
+		"TextJPN": "……いやな気分が、まるで責め立てるように俺の心を蝕んでゆく。考えれば考えるほど、……暗い結末しか思いつかなかった。",
+		"TextENG": "...An unpleasant sensation ate at my heart as I blamed myself. The more I thought about it... the more I believed this would end in tragedy."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48856,
+		"TextJPN": "……さっきから、誰も言葉を発しない。@kいや、言葉にしたところで、……それが何にもならないことを痛いくらいに、悟ってしまっているからなのか。",
+		"TextENG": "...No one had spoken a word for a while now.@k There was no sense putting it into words... because it hurt to remind ourselves how little we could do."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48857,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS18/02/160200016.",
+		"TextJPN": "「やるだけ無駄……。@k@vS18/02/160200017.そう思ってるんだよね？@k@vS18/02/160200018.　魅ぃちゃんは」",
+		"NamesENG": "Rena",
+		"TextENG": "``Anything we try would be useless...@k@vS18/02/160200017. You feel the same way, don't you?@k@vS18/02/160200018. Mii-chan?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48858,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS18/03/160300001.",
+		"TextJPN": "「……そこまでは思ってないけど、状況は易しくないよ……」",
+		"NamesENG": "Mion",
+		"TextENG": "``...I wouldn't go quite that far, but the situation isn't so simple...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48859,
+		"TextJPN": "さっき、レナと魅音の言っていたことが、脳裏に蘇る。@k投げやりに苛立ちを言葉にしていたレナと、諦めたように消極的な意見を口にする魅音。",
+		"TextENG": "That earlier conversation with Rena and Mion came to mind.@k Rena was throwing out harsh words in frustration, and Mion was speaking negatively like she had already given up."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48860,
+		"TextJPN": "あの時は、二人のそんな態度をただ嫌悪し、反発して、――詩音とともに、北条家へと乗り込んだ。@k……でも、結局それで、何ができた？@k　何が変えられた？",
+		"TextENG": "At the time, I was offended by the way both of them were acting... so I went with Shion to the Houjou house.@k ...But in the end, what could I do?@k What difference did it make?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48861,
+		"TextJPN": "俺たちがやったことは、……むしろ、沙都子にとっては役立たずの、あまりにも一方的な好意の押し付けでしかなかったのか……？",
+		"TextENG": "What if... what we did wasn't actually helpful for Satoko at all, and only a way of forcing our one-sided notion of goodwill upon her...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48862,
+		"TextJPN": "……そんな俺の問いかけに対し、監督は複雑な表情で否定してくれる。@k……だが、そのあいまいで無難に選んだ言葉の羅列が、本音が違うところにあることを如実に示していた。",
+		"TextENG": "...As I thought that, I saw an expression of mixed feelings on Irie's face.@k ...The words he chose earlier were safe and ambiguous, clearly demonstrating that his real intentions lied elsewhere."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48863,
+		"TextJPN": "そして、……無言でうつむく俺たちをみて、そんな建前の修辞が無意味であることに途中で気がついたのだろう。@k監督はため息をひとつついてから、俺たちをいたわるようにやさしく言った。",
+		"TextENG": "Then... he silently looked down toward us, probably realizing that any attempt to debate it with us would be useless.@k After a sigh, Irie tried to console us with a few kind words."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48864,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS18/10/161000020_1.",
+		"TextJPN": "「……悲しく、…あまりに残酷な話ですが……。@k@vS18/10/161000020_2.………私たちの決意や努力、尽力には…………限界があります。@k@vS18/10/161000020_3.………残酷ですが、……それが事実です」",
+		"NamesENG": "Irie",
+		"TextENG": "``...It's so sad... It's such a cruel story...@k@vS18/10/161000020_2. ...Despite all our strength, determination, and effort... there's a limit to what we can do.@k@vS18/10/161000020_3. ...It's cruel, but... it's a fact.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48865,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS18/10/161000020.",
+		"TextJPN": "「納得できないという前原さんの気持ちは解ります。@k@vS18/10/161000021.私だって、沙都子ちゃんはかわいい。@k@vS18/10/161000022.誰よりも幸せになってほしいと思っています」",
+		"NamesENG": "Irie",
+		"TextENG": "``I know how you feel, Maebara-san. I understand that you can't accept it.@k@vS18/10/161000021. It's the same for me. Satoko-chan is so cute.@k@vS18/10/161000022. I want her to be happier than anyone in the world.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48866,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS18/01/160100119.",
+		"TextJPN": "「沙都子の幸せを願うなら、あの男から引き離そうとするんじゃないんですか？@k@vS18/01/160100120.　監督の言ってることは滅茶苦茶です！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``If you want Satoko to be happy, why don't you take her away from that man?@k@vS18/01/160100120. What you're saying doesn't add up!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48867,
+		"TextJPN": "つい激情を押さえられずに、理不尽とわかりながらそう言い返してしまう。@kが、監督はなおも冷静な態度のまま、静かな口調で続けた。",
+		"TextENG": "Unable to suppress my raging emotions, I blurted out an unreasonable response.@k But Irie remained calm and continued in a quiet tone."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48868,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS18/10/161000023.",
+		"TextJPN": "「ですが……何が彼女にとっての幸せなのか……。@k@vS18/10/161000024.それを他人である私たちが決めてかかるということはおこがましい。@k@vS18/10/161000025.それこそ、神の領域です」",
+		"NamesENG": "Irie",
+		"TextENG": "``But... would that actually make her happy...?@k@vS18/10/161000024. It's impossible for us to decide that on our own.@k@vS18/10/161000025. That's squarely in the purview of the gods.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48869,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS18/01/160100121.",
+		"TextJPN": "「神頼みなんて悠長なこと言ってらん……ごほっ…うぐっ……っごほっっ！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Are you suggesting we leave this in the hands of the gods...? Guh... ugh... urgh!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48870,
+		"TextJPN": "興奮のあまり咳き込んだ俺に、監督は真っ白なハンカチを手渡してくれる。@k……それを握り締めながら、咳と同時に喉の奥を叩き潰すような悔しさと悲しさが、胸のうちから競りあがってくるのを止められなかった。",
+		"TextENG": "My excitement drove me to a coughing fit, so Irie handed me a white handkerchief.@k ...As I held it close and coughed into it, the sadness and regret coalescing in my chest burned at the back of my throat."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48871,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS18/10/161000026.",
+		"TextJPN": "「大丈夫。大丈夫ですよ……」",
+		"NamesENG": "Irie",
+		"TextENG": "``It's all right. It'll be all right...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48872,
+		"TextJPN": "……そんな気遣いさえ、今の俺には煩わしく、そして惨めな気分だった。",
+		"TextENG": "...Even that thought irked me, making me feel more miserable."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48873,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS18/01/160100122.",
+		"TextJPN": "「俺は沙都子に、何もしてやれない……。@k@vS18/01/160100123.っうっくっ……それが悔しくて……」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``There's nothing I can do for Satoko...@k@vS18/01/160100123. Uugh... This is so frustrating...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48874,
+		"TextJPN": "俺は不本意にも涙を流してしまった。",
+		"TextENG": "I suddenly began to shed tears."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48875,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS18/10/161000027.",
+		"TextJPN": "「大丈夫。大丈夫ですよ……。@k@vS18/10/161000028.理不尽な痛みに対して、人間ができる唯一の癒しは感情的になることだけです……。@k@vS18/10/161000029.……前原さんが羨ましいです……。@k@vS18/10/161000030.許されるなら、私のこの手で全てを……」",
+		"NamesENG": "Irie",
+		"TextENG": "``It's all right. It's all right...@k@vS18/10/161000028. Becoming emotional is the only way humans can cope with unreasonable pain...@k@vS18/10/161000029. ...I envy you, Maebara-san...@k@vS18/10/161000030. If I could, I'd settle this all with my own hands...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48876,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS18/01/160100124.",
+		"TextJPN": "「監督……？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Irie...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48877,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS18/10/161000031.",
+		"TextJPN": "「何を言ってるんだろう……。@k@vS18/10/161000032.私にはそんな資格など、すでにないと言うのに……」",
+		"NamesENG": "Irie",
+		"TextENG": "``What am I saying...@k@vS18/10/161000032. I no longer have the right to do something like that, yet I...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48878,
+		"TextJPN": "監督は自虐的な笑みを浮かべる。",
+		"TextENG": "Irie made a self-tortured smile."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48879,
+		"TextJPN": "眼鏡の奥の瞳が鋭い光を放ったように見えた。",
+		"TextENG": "I thought I could see a sharp glimmer in his eyes through his glasses."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48880,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS18/01/160100125.",
+		"TextJPN": "「何の話をしてるんですか……？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``What are you talking about...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48881,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS18/10/161000033.",
+		"TextJPN": "「……前原さんには、真実を打ち明けます」",
+		"NamesENG": "Irie",
+		"TextENG": "``...I'll tell you the truth, Maebara-san.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48882,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS18/01/160100126.",
+		"TextJPN": "「えっ……？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Huh...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48883,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS18/10/161000034.",
+		"TextJPN": "「沙都子ちゃんがあのような環境に置かれながらそれを排除する努力をしない理由。@k@vS18/10/161000035.……それは、贖罪なんです」",
+		"NamesENG": "Irie",
+		"TextENG": "``The reason Satoko-chan doesn't make any effort to escape her hostile environment.@k@vS18/10/161000035. ...She sees it as her atonement.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48884,
+		"TextJPN": "贖罪？！",
+		"TextENG": "Atonement?!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48885,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS18/10/161000036.",
+		"TextJPN": "「沙都子ちゃんは、悟史くんがいなくなってしまったことを自分のせいだと思っています。@k@vS18/10/161000037.だから、叔父との生活を耐え忍ぶことで、罪に対する罰を受けていると考えてしまっているんです」",
+		"NamesENG": "Irie",
+		"TextENG": "``Satoko-chan believes that she was responsible for Satoshi-kun's disappearance.@k@vS18/10/161000037. So she thinks that being forced to endure this life with her uncle is her punishment for that sin.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48886,
+		"TextJPN": "何、言ってんだよ……。",
+		"TextENG": "What are you saying...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48887,
+		"TextJPN": "悟史がいなくなったのは、アイツの好き勝手じゃねぇか。",
+		"TextENG": "Now that Satoshi has disappeared, that bastard can just do whatever he pleases?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48888,
+		"TextJPN": "何で、沙都子が犯してもない罪なんか背負わなきゃいけないんだよ。",
+		"TextENG": "Why should Satoko have to shoulder that sin? She didn't do anything."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48889,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS18/06/160600130.",
+		"TextJPN": "「……そんなことをしても、誰も喜ばないッ！！」",
+		"NamesENG": "Shion",
+		"TextENG": "``...That doesn't help anyone!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48890,
+		"TextJPN": "突然、詩音が叫んだ。",
+		"TextENG": "Suddenly, Shion cried out."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48891,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS18/06/160600131.",
+		"TextJPN": "「……誰一人、喜ばない……。@k@vS18/06/160600132.悟史くんがいれば……悟史くんさえっ……！」",
+		"NamesENG": "Shion",
+		"TextENG": "``...Nobody is happy with this...@k@vS18/06/160600132. If only Satoshi-kun was still here... Satoshi-kun was...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48892,
+		"TextJPN": "大粒の涙をボロボロと零しながら、悔しそうに泣きじゃくる詩音。",
+		"TextENG": "Huge teardrops scattered as Shion began sobbing."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48893,
+		"TextJPN": "そんな詩音にかけてやる言葉も思いつかない俺……。",
+		"TextENG": "I couldn't think of anything to say to her..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48894,
+		"TextJPN": "偉そうなことも言っても、俺は結局何一つできなかった。",
+		"TextENG": "Even if I said something supportive, there was nothing I could do to back it up."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48895,
+		"TextJPN": "何も言わずに静観を決め込んだ大人達や、無駄だと一言で言い切った魅音と、どこが違うって言うんだよ？",
+		"TextENG": "How are we any different from the adults who refused to say anything, or Mion who declared it all to be useless?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48896,
+		"TextJPN": "気持ちだけじゃダメだ……。実行に移さなければ意味はない。",
+		"TextENG": "Feelings alone are useless... They have no meaning unless they lead to action."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48897,
+		"TextJPN": "力づくで確実に沙都子を救い出すたった一つの方法がある。",
+		"TextENG": "The only reliable way to help Satoko is by raw force."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48898,
+		"TextJPN": "だけど、その方法は危険すぎる。",
+		"TextENG": "However that would be an extremely dangerous method."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48899,
+		"TextJPN": "それこそ、ハンパな気持ちじゃ挑めない。",
+		"TextENG": "Still, emotions alone aren't sufficient to fight this."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48900,
+		"TextJPN": "しかし、賽はとうに投げられた。",
+		"TextENG": "The dice have already been thrown."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48901,
+		"TextJPN": "誰かが投げるサイコロの目に、沙都子の運命を託すなんてできない。",
+		"TextENG": "I can't leave Satoko's fate in the hands of dice thrown by someone else."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48902,
+		"TextJPN": "ならば、俺自身がサイコロを振る以外ないはずだ。",
+		"TextENG": "In that case, I should shake the dice myself."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48903,
+		"TextJPN": "前原圭一の一は、一かバチかの一！",
+		"TextENG": "It's do or die, Keiichi Maebara!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48904,
+		"TextJPN": "俺は目に見えないサイコロを手のひらの上で転がすと、ギュッと握り締めた。",
+		"TextENG": "I rolled an invisible die inside my hand, then held it tight."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48905,
+		"TextJPN": "一かバチかの大博打。",
+		"TextENG": "I'm going all in. Do or die."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48906,
+		"TextJPN": "たとえ運良く一が出ても、あるいは運悪くバチが出ても、死人が出るかもしれない……。",
+		"TextENG": "Whether I get lucky, or whether things go poorly... this may end with a dead man..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 48907,
+		"TextJPN": "それを思うと、俺は思わず身震いした。得体の知れない恐怖に晒され、俺の心臓は高鳴っていく……。",
+		"TextENG": "As that thought filled my mind, I couldn't help but tremble. My heart pounded, exposed to a mysterious fear..."
+	}
+]

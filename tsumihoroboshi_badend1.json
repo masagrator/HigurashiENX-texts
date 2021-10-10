@@ -1,1354 +1,1352 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "BADEND1 (レナのたくらみ)",
-            "ENG": "BAD END 1 (Rena's Plan)"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89775,
-            "NamesJPN": "興宮ＰＳ",
-            "PreTextTags": "@vS09/00/VTP_OkeijiA_1001.",
-            "TextJPN": "「興宮ＰＳより全車へ。@k@vS09/00/VTP_OkeijiA_1002.興宮ＰＳより全車へ。@k@vS09/00/VTP_OkeijiA_1003.雛見沢営林署にて篭城事件発生。@k@vS09/00/VTP_OkeijiA_1004.人質多数。@k@vS09/00/VTP_OkeijiA_1005.全車は至急、雛見沢営林署へ向かわれたし」",
-            "NamesENG": "Okinomiya PS",
-            "TextENG": "``Okinomiya PS to all vehicles.@k@vS09/00/VTP_OkeijiA_1002. Okinomiya PS to all vehicles.@k@vS09/00/VTP_OkeijiA_1003. A hostage situation has broken out at the Hinamizawa forestry service building.@k@vS09/00/VTP_OkeijiA_1004. There are reportedly multiple hostages.@k@vS09/00/VTP_OkeijiA_1005. All vehicles are to head to the forestry service building immediately.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89776,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/170700308.",
-            "TextJPN": "「熊ちゃん！！@k@vS09/11/170700309.　遅れて申し訳ない！@k@vS09/11/170700310.　状況は？！」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Kuma-chan!!@k@vS09/11/170700309. Sorry I'm late!@k@vS09/11/170700340. What's going on?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89777,
-            "NamesJPN": "熊谷",
-            "PreTextTags": "@vS09/19/173100071.",
-            "TextJPN": "「ご苦労さまっす！@k@vS09/19/173100072.　本日午後１時頃、雛見沢営林署内の雛見沢分校区画にて教室占拠が発生しました」",
-            "NamesENG": "Kumagai",
-            "TextENG": "``Hello, sir!@k@vS09/19/173100072. Today around one PM, the Hinamizawa branch school's classroom was taken over."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89778,
-            "NamesJPN": "熊谷",
-            "PreTextTags": "@vS09/19/173100074.",
-            "TextJPN": "「犯人側の第一要求は、営林署敷地内への一切の立ち入りの禁止と、当方へのホットラインの確保です」",
-            "NamesENG": "Kumagai",
-            "TextENG": "The suspect's initial demands were to prohibit all entry to the branch school's property and to secure a hotline to us.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89779,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/170700311.",
-            "TextJPN": "「……ってことは、初めっから警察と交渉する気ってことですか。@k@vS09/11/170700312.…どういうつもりだ…」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``...So they're willing to negotiate with us from the start?@k@vS09/11/170700312. What's going on?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89780,
-            "NamesJPN": "熊谷",
-            "PreTextTags": "@vS09/19/173100075.",
-            "TextJPN": "「……あと、犯人は交渉人に大石さんを指名してます。@k@vS09/19/173100076.犯人は、竜宮礼奈」",
-            "NamesENG": "Kumagai",
-            "TextENG": "``Also, the suspect is asking for you, Ooishi-san.@k@vS09/19/173100076. It's Reina Ryuugu.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89781,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/170700313.",
-            "TextJPN": "「竜宮さんが…？！」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Ryuugu-san?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89782,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/170700314.",
-            "TextJPN": "「……わかりました。@k@vS09/11/170700315.いいですよぅ、こうなりゃ腐れ縁です。@k@vS09/11/170700316.とことんお付き合いさせてもらいましょ」",
-            "NamesENG": "Ooishi",
-            "TextENG": "............Very well.@k@vS09/11/170700315. We seem to be inseparable, huh?@k@vS09/11/170700316. I'll be dealing with her until the end.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89783,
-            "TextJPN": "大石は苦々しく笑うのだった。",
-            "TextENG": "Ooishi gave a crooked smile."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89784,
-            "NamesJPN": "熊谷",
-            "PreTextTags": "@vS09/19/173100077.",
-            "TextJPN": "「竜宮礼奈以外に犯人がいるかは不明です。@k@vS09/19/173100078.カーテンが閉められているので、状況も一切確認できていません」",
-            "NamesENG": "Kumagai",
-            "TextENG": "``We don't know if she has any accomplices.@k@vS09/19/173100078. The curtains are closed, so we can't confirm the situation.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89785,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/170700317.",
-            "TextJPN": "「通報者に占拠時の様子は聞いてませんか」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Have you asked whoever told us about this?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89786,
-            "NamesJPN": "熊谷",
-            "PreTextTags": "@vS09/19/VT3_kuma1001.",
-            "TextJPN": "「いえ、竜宮礼奈からの直接の犯行声明でした。@k@vS09/19/VT3_kuma1002.よって内部の状況は一切不明。@k@vS09/19/VT3_kuma1003.担任と生徒の一名は犯行直前に、竜宮礼奈の電話呼び出しを受け、遠方に呼び出された間の犯行でした」",
-            "NamesENG": "Kumagai",
-            "TextENG": "``No, Reina Ryuugu declared it herself.@k@vS09/19/VT3_kuma1002. Therefore, we don't know what's going on inside.@k@vS09/19/VT3_kuma1003. Right before the crime, the teacher in-charge and one of the students had received a phone call from Reina Ryuugu, and the crime took place while they were away.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89787,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/170700318.",
-            "TextJPN": "「…計画的ですねぇ。@k@vS09/11/170700319.営林署側の人間は人質には？」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``This has been well planned, huh?@k@vS09/11/170700319. Has anyone from the forestry service been taken hostage?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89788,
-            "NamesJPN": "熊谷",
-            "PreTextTags": "@vS09/19/VT3_kuma1004.",
-            "TextJPN": "「今日は営林署職員は不在でした。@k@vS09/19/VT3_kuma1005.よって、生徒２４名のみ。@k@vS09/19/VT3_kuma1006.生徒数は担任が出席簿で確認した人数です」",
-            "NamesENG": "Kumagai",
-            "TextENG": "``Nobody from the service was there today.@k@vS09/19/VT3_kuma1005. All twenty-four hostages are students.@k@vS09/19/VT3_kuma1006. That number matches with the attendance the teacher took this morning.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89789,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/170700320.",
-            "TextJPN": "「それプラス犯人ってわけか。@k@vS09/11/170700321.竜宮礼奈以外に犯人らしき人影は？」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Plus the suspect, right?@k@vS09/11/170700321. Have you seen anyone else suspicious other than Reina Ryuugu?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89790,
-            "NamesJPN": "熊谷",
-            "PreTextTags": "@vS09/19/173100085.",
-            "TextJPN": "「いえ、何度かカーテンから覗く人影がありましたが、いずれも竜宮礼奈本人でした。@k@vS09/19/173100086.…ですが規模他を考えて、おそらく最低でも、もう１、２人はいると予想されます」",
-            "NamesENG": "Kumagai",
-            "TextENG": "``No. We've seen someone peeking out from behind the curtain, but it was the suspect herself.@k@vS09/19/173100086. We're guessing there must be at least one or two more of them, though.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89791,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS09/22/171400072.",
-            "TextJPN": "「……レナちゃんはとても真面目ないい子なんです…！@k@vS09/22/171400073.　こんなことをするなんて…何かの間違いに決まっています…！@k@vS09/22/171400074.　うううぅぅぅぅ！」",
-            "NamesENG": "Chie",
-            "TextENG": "``Rena-chan is a good girl...!@k@vS09/22/171400073. For her to do something like this, there must be some mistake...!@k@vS09/22/171400074. Oooh!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89792,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/170700321_2.",
-            "TextJPN": "「だ、大丈夫ですか…」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Are you okay?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89793,
-            "TextJPN": "ハンカチを目に当てながら泣き崩れる知恵先生に大石が駆け寄る…。",
-            "TextENG": "Ooishi ran up to Chie-sensei, who was crying with a handkerchief held up to her face."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89794,
-            "TextJPN": "知恵先生はすっかりしゃがみ込んでしまって、それ以上の話はできそうになかった。",
-            "TextENG": "Chie-sensei was huddled over, and Ooishi didn't think he could say anything else to her."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89795,
-            "NamesJPN": "校長",
-            "PreTextTags": "@vS09/00/173200020.",
-            "TextJPN": "「大石殿、よろしくお頼みしますぞ。@k@vS09/00/173200021.……もしできるなら、人質の交換を申し出たい。@k@vS09/00/173200022.ぜひ私と子どもたちを交換していただきたい！」",
-            "NamesENG": "Principal",
-            "TextENG": "``Mr. Ooishi, please...@k@vS09/00/173200021. If possible, I would like to request to be a hostage myself.@k@vS09/00/173200022. I will take the place of the children.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89796,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS09/22/171400075.",
-            "TextJPN": "「校長先生、それは私がやります！！@k@vS09/22/171400076.　私が悪いんです、ああああぁぁあぁぁぁぁ…！！」",
-            "NamesENG": "Chie",
-            "TextENG": "``Let me do that instead!!@k@vS09/22/171400076. It's all my fault, ahhhhhhhhhhh!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89797,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/170700328.",
-            "TextJPN": "「先生方、どうかご自分を責められないでください。@k@vS09/11/170700329.…先生方には校内の状況についていろいろとお聞きしたいことがありますので、ご協力をお願いいたします」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Please, don't blame yourselves.@k@vS09/11/170700329. I have things I want to ask you, so I'd appreciate it if you cooperated."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89798,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/170700330.",
-            "TextJPN": "「盆地くん！@k@vS09/11/170700331.　図面の方で話を聞いてあげてください」",
-            "NamesENG": "Ooishi",
-            "TextENG": "Bonchi-kun!@k@vS09/11/170700331. Please show them the blueprints.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89799,
-            "NamesJPN": "熊谷",
-            "PreTextTags": "@vS09/19/173100088.",
-            "TextJPN": "「失礼します！@k@vS09/19/173100089.　１号車の無線に高杉課長です！」",
-            "NamesENG": "Kumagai",
-            "TextENG": "``Excuse me, sir!@k@vS09/19/173100089. Section Chief Takasugi is on the radio!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89800,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/170700332.",
-            "TextJPN": "「はいはいもしもし、……大石です」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Hello, this is Ooishi.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89801,
-            "NamesJPN": "高杉",
-            "PreTextTags": "@vS09/00/taka17003.",
-            "TextJPN": "「大石さん、ご苦労さん！@k@vS09/00/taka17004.　状況の大体は熊谷くんに聞いたよ。@k@vS09/00/taka17005.犯人は未成年だそうだね？@k@vS09/00/taka17006.　マスコミ規制の方を厳重に頼むよ！」",
-            "NamesENG": "Takasugi",
-            "TextENG": "``Ooishi-san, how goes things?@k@vS09/00/taka17004. Kumagai-kun informed me of the situation.@k@vS09/00/taka17005. The suspect is underage, huh?@k@vS09/00/taka17006. Please keep strict control of the press!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89802,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/170700333.",
-            "TextJPN": "「わかってます。@k@vS09/11/170700334.……あと、犯人側が私を交渉人に指定してきてるようですが、問題ありませんかね」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``I understand.@k@vS09/11/170700334. Also, the suspect is requesting me as a negotiator. Is that okay with you?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89803,
-            "NamesJPN": "高杉",
-            "PreTextTags": "@vS09/00/VX_takasugi_0001.",
-            "TextJPN": "「とりあえず、犯人の要求ならいたしかたが無い。@k@vS09/00/VX_takasugi_0002.…頼んだよ」",
-            "NamesENG": "Takasugi",
-            "TextENG": "``For now, if that's the suspect's demand, we have no choice.@k@vS09/00/VX_takasugi_0002. ...It's up to you.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89804,
-            "NamesJPN": "熊谷",
-            "PreTextTags": "@vS09/19/173100090.",
-            "TextJPN": "「大石さん……！@k@vS09/19/173100091.　車載電話に、……犯人です、竜宮礼奈です……！」",
-            "NamesENG": "Kumagai",
-            "TextENG": "``Ooishi-san...!@k@vS09/19/173100091. Reina Ryuugu's on the car phone!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89805,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/170700336.",
-            "TextJPN": "「…さっそくご指名の電話が来ました。@k@vS09/11/170700337.さっそく出ることにします」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``That was faster than expected.@k@vS09/11/170700337. I'll go get it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89806,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/170700338.",
-            "TextJPN": "「………ありがとう。@k@vS09/11/170700339.……ハイもしもし、大石です」",
-            "NamesENG": "Ooishi",
-            "TextENG": ".........Thank you.@k@vS09/11/170700339. ......Hello, this is Ooishi.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89807,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS09/01/430200033.",
-            "TextJPN": "「くっ…！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Ugh...!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89808,
-            "TextJPN": "ぎりっ、と怒りと悔しさで歯を食いしばり、こぶしを握り締める。",
-            "TextENG": "I clenched my teeth in frustration and rolled up my fists into a ball."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89809,
-            "TextJPN": "おびただしい数の警官たちの壁に阻まれて、警察や先生たちの様子を遠巻きに見守ることしかできない自分が情けなかった。",
-            "TextENG": "An overwhelming wall of police officers blocked my way, and I felt pathetic for only being able to watch the teachers and the detectives from afar."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89810,
-            "TextJPN": "知恵先生が呼び出された、電話の意味。",
-            "TextENG": "The reason behind why Chie-sensei had been phoned and summoned out of the school."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89811,
-            "TextJPN": "…レナが教室を占拠する上で、一番邪魔な存在が知恵先生だったのだ。",
-            "TextENG": "...For Rena who wanted to hijack to classroom, the biggest obstacle was Chie-sensei."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89812,
-            "TextJPN": "正義感の強い人だもんな。",
-            "TextENG": "She was someone who had a strong sense of justice."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89813,
-            "TextJPN": "たとえレナが拳銃を持っていたって、知恵先生は怯まないだろう。",
-            "TextENG": "Even if Rena had held a pistol to her, Chie-sensei probably wouldn't have hesitated."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89814,
-            "TextJPN": "生徒のためなら体を張れる、…そんな先生をいかに摘出するかが、教室占拠の最初の鍵だったんだ。",
-            "TextENG": "For the welfare of her students, she would put herself in danger... getting rid of someone like her was the primary step in order to hijack the classroom."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89815,
-            "TextJPN": "背後から襲い掛かるという手も、もちろん一番最初に考えただろうが、@kやはり大人を敵に回すリスクを考えた結果、直接襲うのは適当ではないと考えたに違いない。",
-            "TextENG": "Attacking her from behind would have been her very first line of thought but,@k I'm sure she decided taking on an adult directly was a risky affair."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89816,
-            "TextJPN": "…なら、どこかへ誘き出してしまえばいいんだ…！",
-            "TextENG": "...In that case, it was better to lure her away to someplace..!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89817,
-            "TextJPN": "レナは知恵先生に電話をかけ、誰にも内緒で相談したいことがある…と言って、あの吊り橋にまで呼び寄せたに違いない。",
-            "TextENG": "Rena had then phoned Chie-sensei, and then told her she wished to seek her advice in someplace private... and asked to meet her near that suspension bridge."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89818,
-            "TextJPN": "先生も含め、ほとんどの人たちはレナが家出しただけだとしか思っていない。",
-            "TextENG": "Including Chie-sensei, a good majority of the people thought that Rena had merely run away from home."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89819,
-            "TextJPN": "…だから知恵先生は、レナに何か悩み事があって、それを打ち明けたがっているのだろう、そう解釈するに違いない。@k……騙すのはあまりに簡単だ。",
-            "TextENG": "...So Chie-sensei probably thought Rena merely had some troubles she wished to discuss.@k ......Fooling her was that easy."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89820,
-            "TextJPN": "じゃあ…レナは、電話をどこから…？",
-            "TextENG": "So... where did Rena make the call from...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89821,
-            "TextJPN": "そう、学校の中からだ。@kいや、厳密には違う。",
-            "TextENG": "Yes, it was from within the school.@k Well, not exactly."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89822,
-            "TextJPN": "多分、学校の２階、……営林署の事務室からだ。",
-            "TextENG": "It was most likely from the second floor of the school building, .......from the office room of the Forestry Service."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89823,
-            "TextJPN": "この学校の入っている営林署は出張所みたいなもので、いつも職員が常駐しているわけではない。@k日によってはいないこともある。",
-            "TextENG": "The Forestry Service at our school was more like a branch office, so it wasn't like the staff were always present.@k Depending on the day, they might not even be there."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89824,
-            "TextJPN": "レナはそれを知っていて、ずっと２階に隠れていたのだ。",
-            "TextENG": "Rena had known this, and had been hiding on the second floor all this time."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89825,
-            "TextJPN": "そして、２階から１階に電話して、……知恵先生を遠方に遠ざけたのだ。",
-            "TextENG": "And then, she had made a call to the ground floor from up there, ......and sent Chie-sensei to a faraway place."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89826,
-            "TextJPN": "今日が校長の出張の日だというのも偶然ではないだろう。",
-            "TextENG": "It probably wasn't a coincidence that the principal had also been away on a business trip today."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89827,
-            "TextJPN": "……多分、レナはこの学校に昨日から忍び込んでいた。",
-            "TextENG": "......Rena had most likely snuck into the school yesterday itself."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89828,
-            "TextJPN": "それで、校長の日程も内線電話のことも全て把握した上で実行に及んでいるのだ。",
-            "TextENG": "And then, she had discerned the principal's itinerary and the workings of the internal phone line before she put her plan into action."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89829,
-            "TextJPN": "……なんて狡猾な……。",
-            "TextENG": "......How cunning it all was......"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89830,
-            "TextJPN": "……いや、…わかる。",
-            "TextENG": "......No, I understood."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89831,
-            "TextJPN": "…今レナは、殺意に心を奪われながらも、…実はひどく冷静なのだ。",
-            "TextENG": "...Right now, even as she was possessed by a murderous rage, ...Rena was keeping her composure."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89832,
-            "TextJPN": "…自分が取り憑かれている妄想に対して、信じられないくらい冷静なのだ。",
-            "TextENG": "...She was unbelievably calm despite being plagued by her delusion that controlled her."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89833,
-            "TextJPN": "…だから、…信じられないくらいに頭が回る。",
-            "TextENG": "...And so, just thinking about it made my head spin."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89834,
-            "TextJPN": "…それは自分にも身に覚えがあったからよくわかった。",
-            "TextENG": "...Because I had even personally experienced what she was going through before."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89835,
-            "TextJPN": "あと、…さらについてないのは、魅音の護衛のために校門前にいた園崎家のボディーガードまでもいなくなってしまってることだ。",
-            "TextENG": "Also, what was even more unlucky was the absence of the Sonozaki Family bodyguard who had been standing by the gate."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89836,
-            "TextJPN": "……知恵先生がレナに会いに行くと思って、魅音が尾行するように言ってしまったから。",
-            "TextENG": "......It was because Mion had sent him to follow Chie-sensei who had set out to meet Rena."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89837,
-            "TextJPN": "……畜生、……何から何まで……、……やってくれるぜ………。",
-            "TextENG": ".........Fuck, everything was so screwed up... on so many levels........."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89838,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/170700374.",
-            "TextJPN": "「……今ですね、県警の暴対と公安部で一斉捜査作戦を準備中なんです。@k@vS09/11/170700375.何しろ、市内全域を一斉にやりますからねぇ、調整に多少の時間が、」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``We're trying to come up with a plan for the simultaneous raids as we speak. We're talking to the prefectural police as well as the Public Safety Division.@k@vS09/11/170700375. We're talking about the entire city, so we need a little more time to prepare for it...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89839,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS09/02/170201482.",
-            "TextJPN": "「遅すぎるッ！！！@k@vS09/02/170201483.　大石さん、私たちは今、鹿骨市が置かれている緊急的危機について、よく理解し合っているんじゃなかったでしたっけ？！」",
-            "NamesENG": "Rena",
-            "TextENG": "``You're taking too long!!!@k@vS09/02/170201483. Ooishi-san, don't you realize what kind of emergency situation Shishibone City is in right now?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89840,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS09/02/170201484.",
-            "TextJPN": "「何をのんびりとしたことを！！@k@vS09/02/170201485.　……大石さん、本当に私の話を信じてくれているんですよね？！@k@vS09/02/170201486.　私の味方なんですよね？！@k@vS09/02/170201487.　味方ですよねッ？！@k@vS09/02/170201488.　答えてください！！！」",
-            "NamesENG": "Rena",
-            "TextENG": "What are you doing?@k@vS09/02/170201485. Ooishi-san...... you do believe me, don't you?@k@vS09/02/170201486. You're my ally, right?@k@vS09/02/170201487. Right?@k@vS09/02/170201488. Please answer me!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89841,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/170700376.",
-            "TextJPN": "「も、もちろんですとも…！@k@vS09/11/170700377.　ですが警察組織ってやつは簡単じゃないんです。@k@vS09/11/170700378.私も最大限、努力をしてるんですよ、えぇ本当です！@k@vS09/11/170700379.　……ただですね、やはり話の規模があまりに大き過ぎるもので、」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``O-Of course, I am!@k@vS09/11/170700377. But the police department is a little more complicated than you think...@k@vS09/11/170700378. I'm doing my best, I really am!@k@vS09/11/170700379. The thing is this is on a really big scale...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89842,
-            "TextJPN": "…交渉はお世辞にも、順調とはいえなかった。",
-            "TextENG": "...The negotiations weren't that satisfactory, to be honest."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89843,
-            "TextJPN": "話している間にも竜宮レナの焦燥と、今にも爆発しそうな緊張がびりびりと伝わってくる。",
-            "TextENG": "Even as they spoke, it was clear from the overwhelming tension that Rena's patience was wearing thinner and thinner."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89844,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS09/02/430400001.",
-            "TextJPN": "「…じゃあ、圭一くんを呼んで」",
-            "NamesENG": "Rena",
-            "TextENG": "``...Okay, call Keiichi-kun over here.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89845,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/430500001.",
-            "TextJPN": "「は？@k@vS09/11/430500002.　いま、何とおっしゃいました？」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``What?@k@vS09/11/430500002. Could you say that again?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89846,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS09/02/430400002.",
-            "TextJPN": "「そっちにいるんでしょう、圭一くん？@k@vS09/02/430400003.　彼と話をするから、早く呼び出して！」",
-            "NamesENG": "Rena",
-            "TextENG": "``Isn't Keiichi-kun there right now?@k@vS09/02/430400003. I'd like to talk to him now so please call him over immediately!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89847,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/430500003.",
-            "TextJPN": "「…わ、わかりました」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``...I-I understand.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89848,
-            "TextJPN": "大石は部下の刑事に、バリケードで足止めした人だかりの最前列にいる少年を呼んでくるように命令する。",
-            "TextENG": "Ooishi asked one of his subordinates to summon the boy who stood in the front line of the crowd gathered at the barricade."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89849,
-            "TextJPN": "ほどなく彼は小走りで車のそばにやってきた。",
-            "TextENG": "He immediately jogged over to the car as soon as he was called."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89850,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/430500004.",
-            "TextJPN": "「前原圭一さんですね？」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``You must be Keiichi Maebara, I assume?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89851,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS09/01/430200034.",
-            "TextJPN": "「は、はい…」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Y-Yes...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89852,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/430500005.",
-            "TextJPN": "「竜宮レナさんが、あなたと話がしたいそうです。@k@vS09/11/430500006.通話、代わってもらえますか？」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Miss Rena Ryuugu would like to have a word with you.@k@vS09/11/430500006. Could you please take the call?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89853,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS09/01/430200035.",
-            "TextJPN": "「…わかりました」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...I understand.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89854,
-            "TextJPN": "そして大石は受話器を圭一に渡し、外の様子に目を向けて何かに気付いたのか、車を出て行った。",
-            "TextENG": "Ooishi then handed over the receiver to Keiichi and he noticed something happening outside and left the car."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89855,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS09/01/430200036.",
-            "TextJPN": "「…もしもし」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...Hello?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89856,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS09/02/430400004.",
-            "TextJPN": "「あ、圭一くん…？@k@vS09/02/430400005.　よかった、戻ってきてくれたんだね」",
-            "NamesENG": "Rena",
-            "TextENG": "``Ah, Keiichi-kun...?@k@vS09/02/430400005. It's good that you came back here.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89857,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS09/01/430200037.",
-            "TextJPN": "「レナ…」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Rena...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89858,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS09/02/430400006.",
-            "TextJPN": "「警察がね、レナの言うことを信じてくれないの。@k@vS09/02/430400007.レナの言ってることが本当で、…レナがやろうとしてることが本気だって圭一くんからも言ってくれないかな。…かな？」",
-            "NamesENG": "Rena",
-            "TextENG": "``The police isn't believing what I'm telling them.@k@vS09/02/430400007. Could you please tell them that the things I'm saying are true, and that I'm very serious about what I'm about to do... could you?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89859,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS09/01/430200038.",
-            "TextJPN": "「……。@k@vS09/01/430200039.やろうとしてることって、なんだよ…？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``.........@k@vS09/01/430200039. What do you mean by... 'what I'm about to do'...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89860,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS09/02/430400008.",
-            "TextJPN": "「今、この教室にね、ガソリンをまいたの。@k@vS09/02/430400009.だから、レナが持ってるライターでちょっと火をつければ、ここにいる人質はみんな死んじゃう。@k@vS09/02/430400010.…それを、大石さんに教えてくれないかな」",
-            "NamesENG": "Rena",
-            "TextENG": "``I've just finished pouring gasoline all over this classroom.@k@vS09/02/430400009. So, if I just ignite the lighter I have on hand, all the hostages here will die.@k@vS09/02/430400010. ...Could you please let Ooishi-san know about that?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89861,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS09/01/430200040.",
-            "TextJPN": "「なっ？！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Wha-?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89862,
-            "NamesJPN": "熊谷",
-            "PreTextTags": "@vS09/19/173100171.",
-            "TextJPN": "「な、何ですかあんたたちは…！」",
-            "NamesENG": "Kumagai",
-            "TextENG": "``Wh-Who are you people?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89863,
-            "NamesJPN": "大高",
-            "PreTextTags": "@vS09/00/VT3_ootaka1001.",
-            "TextJPN": "「退きたまえ。@k@vS09/00/VT3_ootaka1002.ここの責任者は誰だね」",
-            "NamesENG": "Ootaka",
-            "TextENG": "``Move over.@k@vS09/00/VT3_ootaka1002. Who's in charge here?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89864,
-            "TextJPN": "何台かの車が次々にのりつけ、興宮署の刑事でない男たちが何人も現れた。",
-            "TextENG": "Several cars had arrived, producing several men. They weren't from the Okinomiya station."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89865,
-            "TextJPN": "この暑いのにスーツをきっちり着こなした細身の男が、制止しようとする熊谷を払いのけて、大石のところへやって来た。",
-            "TextENG": "One of the men was wearing a suit, despite the hot weather. He approached me, pushing Kumagai aside."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89866,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/170700522.",
-            "TextJPN": "「…おや、これはこれは。@k@vS09/11/170700523.お久しぶりですねぇ、県警本部の大高くんじゃありませんか」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``...Hey, look who's here.@k@vS09/11/170700523. Good to see you again, Ootaka-kun from the prefectural headquarters.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89867,
-            "NamesJPN": "大高",
-            "PreTextTags": "@vS09/00/VT3_ootaka1003.",
-            "TextJPN": "「言葉を慎みたまえ。@k@vS09/00/VT3_ootaka1004.もう、君に『くん』と呼ばれる階級ではない」",
-            "NamesENG": "Ootaka",
-            "TextENG": "``Watch your mouth.@k@vS09/00/VT3_ootaka1004. I'm ranked much higher than you now, so don't address me so casually.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89868,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/170700524.",
-            "TextJPN": "「何か御用ですかね大高『くん』。@k@|@y@vS09/11/170700525.今、非常に立て込んでいます。@k@vS09/11/170700526.まさか県警がこの現場を乗っ取るおつもりで？@k@vS09/11/170700527.　誰の了解で！」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Can I help you with something, Ootaka-<i>kun</i>?@k@|@y@vS09/11/170700525. I'm rather busy at the moment.@k@vS09/11/170700526. You can't possibly be thinking about taking over this case?@k@vS09/11/170700527. Who approved that, exactly?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89869,
-            "NamesJPN": "署長",
-            "PreTextTags": "@vS09/00/syocho17001.",
-            "TextJPN": "「私が許可した、大石くん！」",
-            "NamesENG": "Chief of Police",
-            "TextENG": "``I did, Ooishi-kun!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89870,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/170700528.",
-            "TextJPN": "「しょ、署長！」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Ch-Chief...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89871,
-            "NamesJPN": "署長",
-            "PreTextTags": "@vS09/00/syocho17002.",
-            "TextJPN": "「高杉くんから事情は聞いている。@k@vS09/00/syocho17003.君が蒔いたタネだという話も聞いているぞ。@k@vS09/00/syocho17004.君はもう下がってあとは機動隊に任せるんだ！」",
-            "NamesENG": "Chief of Police",
-            "TextENG": "``Takasugi-kun has informed me of the situation.@k@vS09/00/syocho17003. He also told me that you started all this.@k@vS09/00/syocho17004. You can go now. The troops will take over!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89872,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/170700529.",
-            "TextJPN": "「機動隊って、…大高くん、あんたまさか急襲する気ですか！」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``The troops? ...Ootaka-kun, you aren't going to storm the building, are you?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89873,
-            "NamesJPN": "大高",
-            "PreTextTags": "@vS09/00/VT3_ootaka1005.",
-            "TextJPN": "「危険は重々承知だ。@k@vS09/00/VT3_ootaka1006.だが、現状では埒が明かず、いたずらに時間を費やしているだけじゃないか。@k@vS09/00/VT3_ootaka1007.君は腰を据えてかかりすぎだ。@k@vS09/00/VT3_ootaka1008.その尻拭いを我々がしようと言うんだ。@k@vS09/00/VT3_ootaka1009.君らは引き継いで後方に下がりたまえ」",
-            "NamesENG": "Ootaka",
-            "TextENG": "``I understand the risk.@k@vS09/00/VT3_ootaka1006. But we don't have any time left before the bomb goes off.@k@vS09/00/VT3_ootaka1007. You've taken too long.@k@vS09/00/VT3_ootaka1008. We're here to take care of the mess you left behind.@k@vS09/00/VT3_ootaka1009. Just step back for a minute.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89874,
-            "TextJPN": "署長と県警本部の人間に凄まれては、立場上、大石は譲らざるを得ない。",
-            "TextENG": "I couldn't talk back if both the chief and a guy from the prefectural headquarters gave me an order."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89875,
-            "NamesJPN": "熊谷",
-            "PreTextTags": "@vS09/19/173100172.",
-            "TextJPN": "「お、…大石さん、何者っすかあいつは…！」",
-            "NamesENG": "Kumagai",
-            "TextENG": "``O...Ooishi-san, who the heck is he?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89876,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/170700530.",
-            "TextJPN": "「大高くん。@k@vS09/11/170700531.んっふっふ、昔、麻雀がクソ弱いくせに粋がってたから、ちょいと叩き潰してやったことがありましてねー」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``That's Ootaka-kun.@k@vS09/11/170700531. Nfu fu, a long time ago, he was showing off even though he was bad at mahjong, so I taught him a lesson."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89877,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/170700532.",
-            "TextJPN": "「それともあれかな、剣道大会で偉そうにしてやがったから、面食らわして失神させたのを根に持ってるのかなぁ」",
-            "NamesENG": "Ooishi",
-            "TextENG": "Or maybe he's still holding a grudge from when I knocked him unconscious in that kendo tournament.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89878,
-            "TextJPN": "それ以上を聞かなくても、二人が犬猿の仲であることは容易に想像できた。",
-            "TextENG": "Obviously, we didn't get along."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89879,
-            "NamesJPN": "大高",
-            "PreTextTags": "@vS09/00/VT3_ootaka1010.",
-            "TextJPN": "「大石くん、現在の最新の状況を説明したまえ」",
-            "NamesENG": "Ootaka",
-            "TextENG": "``Give me the latest update, Ooishi-kun.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89880,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/170700533.",
-            "TextJPN": "「あんた、本気で突入する気で？」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Are you serious about storming the school?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89881,
-            "NamesJPN": "大高",
-            "PreTextTags": "@vS09/00/VT3_ootaka1011.",
-            "TextJPN": "「突入は府警の専門部隊が担当する。@k@vS09/00/VT3_ootaka1012.君はバックアップに回りたまえ」",
-            "NamesENG": "Ootaka",
-            "TextENG": "``A special unit from the prefectural police department will handle the infiltration.@k@vS09/00/VT3_ootaka1012. Your unit will be their backup.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89882,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/170700536.",
-            "TextJPN": "「……署長」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``...Chief.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89883,
-            "NamesJPN": "署長",
-            "PreTextTags": "@vS09/00/syocho17005.",
-            "TextJPN": "「大石くん。@k@vS09/00/syocho17006.府警の専門部隊はただの機動隊じゃないぞ。@k@vS09/00/syocho17007.第２機動隊と言えば、君ほどの男なら噂くらい聞いてるだろう？」",
-            "NamesENG": "Chief of Police",
-            "TextENG": "``Ooishi-kun,@k@vS09/00/syocho17006. the special unit from the prefectural police department isn't just any old unit.@k@vS09/00/syocho17007. You've heard about the Second Company, haven't you?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89884,
-            "NamesJPN": "熊谷",
-            "PreTextTags": "@vS09/19/173100173.",
-            "TextJPN": "「………なんすか大石さん。@k@vS09/19/173100174.第２機動隊って有名なんですか…？」",
-            "NamesENG": "Kumagai",
-            "TextENG": "``What's that, Ooishi-san?@k@vS09/19/173100174. Is this ``Second Company`` that well known?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89885,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/170700547.",
-            "TextJPN": "「５年くらい前だっけ、…空港の飛行機に犯人が立て篭もった事件があったでしょ。@k@vS09/11/170700548.あれを切っ掛けに、東京と大阪にハイジャック専門の特殊部隊が組織されたって噂は聞いてましたがね。@k@vS09/11/170700549.………実在してましたか…」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Do you remember, about five years ago, when the JRA hijacked that airplane? Flight 472?@k@vS09/11/170700548. I've heard that special counter-terrorist units were put together in Tokyo and Osaka after that incident.@k@vS09/11/170700549. So they really do exist...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89886,
-            "NamesJPN": "熊谷",
-            "PreTextTags": "@vS09/19/173100175.",
-            "TextJPN": "「で、でも、何だって府警の機動隊がこんなところに…」",
-            "NamesENG": "Kumagai",
-            "TextENG": "``B-But why would a special unit from Osaka be here?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89887,
-            "TextJPN": "大高が得意げにニヤリと笑った。",
-            "TextENG": "Ootaka smiled proudly."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89888,
-            "NamesJPN": "大高",
-            "PreTextTags": "@vS09/00/VT3_ootaka1013.",
-            "TextJPN": "「たまたま県警機動隊との交流訓練があってね。@k@vS09/00/VT3_ootaka1014.特別に応援を要請したのだよ」",
-            "NamesENG": "Ootaka",
-            "TextENG": "``We just happened to be holding a training session with your prefectural police unit.@k@vS09/00/VT3_ootaka1014. We requested their help.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89889,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/170700550.",
-            "TextJPN": "「なっはっは、……相変わらずですねぇ。@k@|@y@vS09/11/170700551.…話をすぐ派手にしたがる、その癖は」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Na ha ha... you haven't changed, have you?@k@|@y@vS09/11/170700551. ...You have a bad tendency to escalate matters quickly.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89890,
-            "TextJPN": "とても日本的とは思えない武装をした黒装束の機動隊員たちが次々と降車しては、予め決められたらしい位置に散っていく。",
-            "TextENG": "The Company members exited the vehicles one after another and took position."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89891,
-            "TextJPN": "その動きはとても警察的とは思えなかった。",
-            "TextENG": "They didn't move like policemen..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89892,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/170700552.",
-            "TextJPN": "「大高くん！@k@vS09/11/170700553.　あんた学校で銃撃戦をやる気かい！」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Ootaka-kun!@k@vS09/11/170700553. Are you really going to have a gunfight here?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89893,
-            "NamesJPN": "大高",
-            "PreTextTags": "@vS09/00/VT3_ootaka1015.",
-            "TextJPN": "「安心したまえ。@k@vS09/00/VT3_ootaka1016.突入班が使うのは火器じゃない。@k@vS09/00/VT3_ootaka1017.暴徒鎮圧用の最新武装だ。@k@vS09/00/VT3_ootaka1018.高圧ガスで催涙ガスを噴出する。@k@vS09/00/VT3_ootaka1019.何の問題もない」",
-            "NamesENG": "Ootaka",
-            "TextENG": "``Don't worry.@k@vS09/00/VT3_ootaka1016. They won't use firearms.@k@vS09/00/VT3_ootaka1017. They're using riot shields and riot guns.@k@vS09/00/VT3_ootaka1018. These guns send out tear gas at high pressures.@k@vS09/00/VT3_ootaka1019. There will be no issue with explosions.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89894,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/170700555.",
-            "TextJPN": "「………へぇ～、そりゃ便利な水鉄砲があったもんで。@k@vS09/11/170700556.ところで、その玩具は校庭を横断して教室まで届くほど便利なものなんで？」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``......Wow, I've never heard of such convenient water guns.@k@vS09/11/170700556. By the way, can that toy reach the classroom from across the schoolyard?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89895,
-            "NamesJPN": "大高",
-            "PreTextTags": "@vS09/00/VT3_ootaka1020.",
-            "TextJPN": "「それは君が心配することではない。@k@vS09/00/VT3_ootaka1021.後は我々に任せて下がりたまえ」",
-            "NamesENG": "Ootaka",
-            "TextENG": "``You don't need to worry about that.@k@vS09/00/VT3_ootaka1021. You just move over and let us do our job.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89896,
-            "TextJPN": "そして、大高の指示のもと機動隊員たちは学校の窓から見える死角へと回り込んで、突入命令に備えて身構える。",
-            "TextENG": "And then, following Ootaka's orders, the special forces took positions at a blind spot visible from the school window and prepared to infiltrate."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89897,
-            "TextJPN": "その物々しさと反論を許さぬ傲岸さに大石は鼻白みながら、レナと圭一がいま会話をしている最中であることを思い出して、車のほうへと足を向けた。",
-            "TextENG": "Ooishi wrinkled his nose at Ootaka's arrogance and pretentious attitude that didn't give way for counterarguments. Remembering that Rena and Keiichi were having a conversation, he turned on his heel heading over to the patrol car."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89898,
-            "TextJPN": "そこへ。",
-            "TextENG": "And there..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89899,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS09/01/430200041.",
-            "TextJPN": "「――た、大変だ刑事さんっ！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Detective, we have an emergency!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89900,
-            "TextJPN": "突然車のドアが勢いよく開いて、大声を上げながら圭一が飛び出してくる。",
-            "TextENG": "At once, the door to the car swung open and Keiichi rushed over to him screaming."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89901,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/430500007.",
-            "TextJPN": "「どうしました、前原さん？」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``What's the matter, Maebara-san?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89902,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS09/01/430200042.",
-            "TextJPN": "「れ、レナが教室内に、が、ガソリンをまいたって…！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Re-Rena just told me she's poured gasoline all over the classroom...!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89903,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/430500008.",
-            "TextJPN": "「んなっ？！」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Whaaa?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89904,
-            "TextJPN": "ガソリンだと…？！　そんな揮発性の危険物があるなんて話は聞いていないぞ！！　いや、そんなことよりも、だったら今は――！！",
-            "TextENG": "Gasoline...?! I didn't hear that there was something so inflammable in the vicinity!! No, it's not about that, right now—!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89905,
-            "NamesJPN": "大高",
-            "PreTextTags": "@vS09/00/VT3_ootaka1022.",
-            "TextJPN": "「射撃用意、構え――」",
-            "NamesENG": "Ootaka",
-            "TextENG": "``Preparing to shoot, steady—``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89906,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS09/11/430500009.",
-            "TextJPN": "「ま、待ってください！@k@vS09/11/430500010.　やめろ、撃つなっ！！」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``P-Please wait!@k@vS09/11/430500010. Stop, don't shoot!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89907,
-            "NamesJPN": "大高",
-            "PreTextTags": "@vS09/00/VT3_ootaka1023.",
-            "TextJPN": "「撃てっ！！」",
-            "NamesENG": "Ootaka",
-            "TextENG": "``Fire~!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89908,
-            "NamesJPN": "大石＆圭一",
-            "PreTextTags": "@o75.@vS09/11/430500011|S09/01/430200043.",
-            "TextJPN": "「「うわぁぁっっ！！」」",
-            "NamesENG": "Ooishi & Keiichi",
-            "TextENG": "``Uwaaaahhhh!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89909,
-            "TextJPN": "…………。",
-            "TextENG": "............"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89910,
-            "TextJPN": "……。",
-            "TextENG": "......"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89911,
-            "TextJPN": "突然、身体が吹き飛ばされて地面に叩きつけられ、…一瞬、何が起こったのかわからなかった。",
-            "TextENG": "Our bodies were promptly blown away and hit the ground, we didn't understand what had happened for a moment."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89912,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS09/01/430200044.",
-            "TextJPN": "「……。@k@vS09/01/430200045.…っ…？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``.........@k@vS09/01/430200045. ...gh...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89913,
-            "TextJPN": "耳鳴りが頭に激しく響きわたり、くらくらとした@bめまい.@<眩暈@>で意識が遠のきそうになる。",
-            "TextENG": "A high pitched tinnitus violently reverberated within my skull, and an overwhelming dizziness distanced me from my consciousness."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89914,
-            "TextJPN": "たち込める砂埃と焼け焦げた空気を感じて、喉と鼻の奥が…痛い。",
-            "TextENG": "My throat and nasal passage felt irritated from the suspended dust particles and smoldered air."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89915,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS09/01/430200046.",
-            "TextJPN": "「……っ」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``.....gh.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89916,
-            "TextJPN": "口の中のじゃりじゃりとしたものを唾とともに吐き出しながら、俺は痛む身体を起こして立ち上がり、…顔を前に、向けた。",
-            "TextENG": "Spitting out the crunchy debris from my mouth, I dragged my beaten body up into a stance, and faced forward, looking ahead of me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89917,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS09/01/430200047.",
-            "TextJPN": "「…………。@k@vS09/01/430200048.…………。@k@vS09/01/430200049.……あ…………？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``............@k@vS09/01/430200048..........@k@vS09/01/430200049....Ah.........?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89918,
-            "TextJPN": "グラウンドには、たくさんの警察官が転がって、呻いている。",
-            "TextENG": "There were many police officers scattered about on the ground, groaning from the impact."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89919,
-            "TextJPN": "…すぐそばで、苦悶の声。…目を向けると、さっきまで話していた刑事だった。",
-            "TextENG": "...A voice of agony filled the air next to me. ...As I faced it, it turned out to be the detective I'd been talking to just now."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89920,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS09/01/430200050.",
-            "TextJPN": "「ぐ…っ…！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Ugh... ...!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89921,
-            "TextJPN": "顔も、服も、全身を泥と埃にまみれさせて、…頭からは血を流している。",
-            "TextENG": "His entire body was covered in dirt and debris, and he was bleeding from his head."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89922,
-            "TextJPN": "それを気遣おうと膝を折りかけて、…俺は、レナや魅音たちの安否を思い出す。",
-            "TextENG": "As I began to sit down in concern for him, I suddenly remembered Mion and Rena's safety."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89923,
-            "TextJPN": "そして、校舎の方向に目を向けて、",
-            "TextENG": "And then, I turned towards the direction of the school."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89924,
-            "TextJPN": "…俺は、@k…自分の見ている光景が、@k…信じられなかった。",
-            "TextENG": "...I@k ...couldn't believe@k ...what I was seeing."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89925,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS09/01/430200051.",
-            "TextJPN": "「…………」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``............``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89926,
-            "TextJPN": "そこにあったのは木材と、石材と、それ以外の何かがいびつに入り混じった…まるで巨大な、崩れたばかりのキャンプファイアーの焚き木。",
-            "TextENG": "What stood before me was a disordered conglomerate of wood, bricks and other distorted articles mixed in... crudely resembling an enormous camping bonfire."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89927,
-            "TextJPN": "その中で燃え盛る炎は、夕焼けの空に突き上がるほど高く。",
-            "TextENG": "The flames that had risen up in between that mass burned so high they seemed to reach up into the evening twilight."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89928,
-            "TextJPN": "かなり離れたこの場所にいても、その熱気と焦臭ははっきりと伝わってきた。",
-            "TextENG": "Even from this faraway distance, I could perceive the heat and the scorching smell."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89929,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS09/01/430200052.",
-            "TextJPN": "「…………」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``............``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89930,
-            "TextJPN": "…違う。",
-            "TextENG": "...No."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89931,
-            "TextJPN": "違う、これは夢だ。",
-            "TextENG": "No, this had to be a dream."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89932,
-            "TextJPN": "これは、俺たちの学校じゃ、ない。",
-            "TextENG": "This couldn't be our school."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89933,
-            "TextJPN": "俺はどこか、別の方向を見ているだけだ。",
-            "TextENG": "..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89934,
-            "TextJPN": "いや、ここがそもそも、学校じゃないんだ…。",
-            "TextENG": "No, this wasn't even a school in the first place..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89935,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS09/01/430200053.",
-            "TextJPN": "「…………」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``............``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89936,
-            "TextJPN": "ふらふら、…と。",
-            "TextENG": "I staggered over."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89937,
-            "TextJPN": "俺は、頼りない足取りで何度も躓きながら、それに向かって歩いていく。",
-            "TextENG": "Fumbling forward with my useless legs, I walked over to that monstrosity."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89938,
-            "TextJPN": "そして、ふと目を向けた先の崩れて折り重なった木材の中に見知った顔を見つけ、はっ、と息をのんで駆け寄った。",
-            "TextENG": "And then before me, amidst the crumbled remains of timber, I discovered a face I recognized and drew a breath before I rushed over."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89939,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS09/01/430200054.",
-            "TextJPN": "「――魅音っ…！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Mion...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89940,
-            "TextJPN": "魅音は目を見開いたまま、こちらに顔を向けて右腕を伸ばしている。",
-            "TextENG": "Mion's eyes were wide open, facing my way, with her right arm raised."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89941,
-            "TextJPN": "わずかに開いた口。…きっと、声が出ないんだろう。",
-            "TextENG": "Her mouth was slightly open... she probably couldn't speak."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89942,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS09/01/430200055.",
-            "TextJPN": "「よかった…魅音っ…！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Thank god... Mion...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89943,
-            "TextJPN": "とにかく、今は助け出すことが先だ！",
-            "TextENG": "I had to get her out here first!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89944,
-            "TextJPN": "そう思って俺は、その右腕をつかみ――。",
-            "TextENG": "Thinking that, I tightly grasped that right arm—."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89945,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS09/01/430200056.",
-            "TextJPN": "「…………」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``............``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89946,
-            "TextJPN": "手応えのない、軽い感触。@kそれは瓦礫の中から、@k@|@yすぽりと『抜けた』。",
-            "TextENG": "It felt light, there was no resistance.@k And then, from within the rubble,@k@|@y 'it' came out."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89947,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS09/01/430200057.",
-            "TextJPN": "「……あ…」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``......Ah...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89948,
-            "TextJPN": "そして、ごろり、と@k小さな塊が、足元に転がる。",
-            "TextENG": "And then, a small mass rolled over,@k and touched my feet."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89949,
-            "TextJPN": "魅@w600.音@w600.の@w600.首@w600.か@w600.ら@w600.下@w600.は@w600.、@w600.な@w600.に@w600.も@w600.、@w600.な@w600.か@w600.っ@w600.た@w600.。",
-            "TextENG": "Mi@w600.on's@w600. head@w600. had@w600. co@w600.me@w600. a@w600.part@w600. from@w600. her@w600. body@w600...."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 89950,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS09/01/430200058.",
-            "TextJPN": "「う、うわぁぁぁああああぁぁぁぁぁっっっ！！@k@vS09/01/430200059.　ああぁぁあああぁぁぁぁっっっ！！！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``U-Uwaaaaaaaaaaaahhhhhhhhh!!@k@vS09/01/430200059. Aaaaahhhhhhhhh!!!!``"
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "BADEND1 (レナのたくらみ)",
+		"ENG": "BAD END 1 (Rena's Plan)"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89775,
+		"NamesJPN": "興宮ＰＳ",
+		"PreTextTags": "@vS09/00/VTP_OkeijiA_1001.",
+		"TextJPN": "「興宮ＰＳより全車へ。@k@vS09/00/VTP_OkeijiA_1002.興宮ＰＳより全車へ。@k@vS09/00/VTP_OkeijiA_1003.雛見沢営林署にて篭城事件発生。@k@vS09/00/VTP_OkeijiA_1004.人質多数。@k@vS09/00/VTP_OkeijiA_1005.全車は至急、雛見沢営林署へ向かわれたし」",
+		"NamesENG": "Okinomiya PS",
+		"TextENG": "``Okinomiya PS to all vehicles.@k@vS09/00/VTP_OkeijiA_1002. Okinomiya PS to all vehicles.@k@vS09/00/VTP_OkeijiA_1003. A hostage situation has broken out at the Hinamizawa forestry service building.@k@vS09/00/VTP_OkeijiA_1004. There are reportedly multiple hostages.@k@vS09/00/VTP_OkeijiA_1005. All vehicles are to head to the forestry service building immediately.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89776,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/170700308.",
+		"TextJPN": "「熊ちゃん！！@k@vS09/11/170700309.　遅れて申し訳ない！@k@vS09/11/170700310.　状況は？！」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Kuma-chan!!@k@vS09/11/170700309. Sorry I'm late!@k@vS09/11/170700340. What's going on?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89777,
+		"NamesJPN": "熊谷",
+		"PreTextTags": "@vS09/19/173100071.",
+		"TextJPN": "「ご苦労さまっす！@k@vS09/19/173100072.　本日午後１時頃、雛見沢営林署内の雛見沢分校区画にて教室占拠が発生しました」",
+		"NamesENG": "Kumagai",
+		"TextENG": "``Hello, sir!@k@vS09/19/173100072. Today around one PM, the Hinamizawa branch school's classroom was taken over."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89778,
+		"NamesJPN": "熊谷",
+		"PreTextTags": "@vS09/19/173100074.",
+		"TextJPN": "「犯人側の第一要求は、営林署敷地内への一切の立ち入りの禁止と、当方へのホットラインの確保です」",
+		"NamesENG": "Kumagai",
+		"TextENG": "The suspect's initial demands were to prohibit all entry to the branch school's property and to secure a hotline to us.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89779,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/170700311.",
+		"TextJPN": "「……ってことは、初めっから警察と交渉する気ってことですか。@k@vS09/11/170700312.…どういうつもりだ…」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``...So they're willing to negotiate with us from the start?@k@vS09/11/170700312. What's going on?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89780,
+		"NamesJPN": "熊谷",
+		"PreTextTags": "@vS09/19/173100075.",
+		"TextJPN": "「……あと、犯人は交渉人に大石さんを指名してます。@k@vS09/19/173100076.犯人は、竜宮礼奈」",
+		"NamesENG": "Kumagai",
+		"TextENG": "``Also, the suspect is asking for you, Ooishi-san.@k@vS09/19/173100076. It's Reina Ryuugu.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89781,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/170700313.",
+		"TextJPN": "「竜宮さんが…？！」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Ryuugu-san?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89782,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/170700314.",
+		"TextJPN": "「……わかりました。@k@vS09/11/170700315.いいですよぅ、こうなりゃ腐れ縁です。@k@vS09/11/170700316.とことんお付き合いさせてもらいましょ」",
+		"NamesENG": "Ooishi",
+		"TextENG": "............Very well.@k@vS09/11/170700315. We seem to be inseparable, huh?@k@vS09/11/170700316. I'll be dealing with her until the end.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89783,
+		"TextJPN": "大石は苦々しく笑うのだった。",
+		"TextENG": "Ooishi gave a crooked smile."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89784,
+		"NamesJPN": "熊谷",
+		"PreTextTags": "@vS09/19/173100077.",
+		"TextJPN": "「竜宮礼奈以外に犯人がいるかは不明です。@k@vS09/19/173100078.カーテンが閉められているので、状況も一切確認できていません」",
+		"NamesENG": "Kumagai",
+		"TextENG": "``We don't know if she has any accomplices.@k@vS09/19/173100078. The curtains are closed, so we can't confirm the situation.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89785,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/170700317.",
+		"TextJPN": "「通報者に占拠時の様子は聞いてませんか」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Have you asked whoever told us about this?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89786,
+		"NamesJPN": "熊谷",
+		"PreTextTags": "@vS09/19/VT3_kuma1001.",
+		"TextJPN": "「いえ、竜宮礼奈からの直接の犯行声明でした。@k@vS09/19/VT3_kuma1002.よって内部の状況は一切不明。@k@vS09/19/VT3_kuma1003.担任と生徒の一名は犯行直前に、竜宮礼奈の電話呼び出しを受け、遠方に呼び出された間の犯行でした」",
+		"NamesENG": "Kumagai",
+		"TextENG": "``No, Reina Ryuugu declared it herself.@k@vS09/19/VT3_kuma1002. Therefore, we don't know what's going on inside.@k@vS09/19/VT3_kuma1003. Right before the crime, the teacher in-charge and one of the students had received a phone call from Reina Ryuugu, and the crime took place while they were away.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89787,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/170700318.",
+		"TextJPN": "「…計画的ですねぇ。@k@vS09/11/170700319.営林署側の人間は人質には？」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``This has been well planned, huh?@k@vS09/11/170700319. Has anyone from the forestry service been taken hostage?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89788,
+		"NamesJPN": "熊谷",
+		"PreTextTags": "@vS09/19/VT3_kuma1004.",
+		"TextJPN": "「今日は営林署職員は不在でした。@k@vS09/19/VT3_kuma1005.よって、生徒２４名のみ。@k@vS09/19/VT3_kuma1006.生徒数は担任が出席簿で確認した人数です」",
+		"NamesENG": "Kumagai",
+		"TextENG": "``Nobody from the service was there today.@k@vS09/19/VT3_kuma1005. All twenty-four hostages are students.@k@vS09/19/VT3_kuma1006. That number matches with the attendance the teacher took this morning.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89789,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/170700320.",
+		"TextJPN": "「それプラス犯人ってわけか。@k@vS09/11/170700321.竜宮礼奈以外に犯人らしき人影は？」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Plus the suspect, right?@k@vS09/11/170700321. Have you seen anyone else suspicious other than Reina Ryuugu?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89790,
+		"NamesJPN": "熊谷",
+		"PreTextTags": "@vS09/19/173100085.",
+		"TextJPN": "「いえ、何度かカーテンから覗く人影がありましたが、いずれも竜宮礼奈本人でした。@k@vS09/19/173100086.…ですが規模他を考えて、おそらく最低でも、もう１、２人はいると予想されます」",
+		"NamesENG": "Kumagai",
+		"TextENG": "``No. We've seen someone peeking out from behind the curtain, but it was the suspect herself.@k@vS09/19/173100086. We're guessing there must be at least one or two more of them, though.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89791,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS09/22/171400072.",
+		"TextJPN": "「……レナちゃんはとても真面目ないい子なんです…！@k@vS09/22/171400073.　こんなことをするなんて…何かの間違いに決まっています…！@k@vS09/22/171400074.　うううぅぅぅぅ！」",
+		"NamesENG": "Chie",
+		"TextENG": "``Rena-chan is a good girl...!@k@vS09/22/171400073. For her to do something like this, there must be some mistake...!@k@vS09/22/171400074. Oooh!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89792,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/170700321_2.",
+		"TextJPN": "「だ、大丈夫ですか…」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Are you okay?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89793,
+		"TextJPN": "ハンカチを目に当てながら泣き崩れる知恵先生に大石が駆け寄る…。",
+		"TextENG": "Ooishi ran up to Chie-sensei, who was crying with a handkerchief held up to her face."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89794,
+		"TextJPN": "知恵先生はすっかりしゃがみ込んでしまって、それ以上の話はできそうになかった。",
+		"TextENG": "Chie-sensei was huddled over, and Ooishi didn't think he could say anything else to her."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89795,
+		"NamesJPN": "校長",
+		"PreTextTags": "@vS09/00/173200020.",
+		"TextJPN": "「大石殿、よろしくお頼みしますぞ。@k@vS09/00/173200021.……もしできるなら、人質の交換を申し出たい。@k@vS09/00/173200022.ぜひ私と子どもたちを交換していただきたい！」",
+		"NamesENG": "Principal",
+		"TextENG": "``Mr. Ooishi, please...@k@vS09/00/173200021. If possible, I would like to request to be a hostage myself.@k@vS09/00/173200022. I will take the place of the children.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89796,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS09/22/171400075.",
+		"TextJPN": "「校長先生、それは私がやります！！@k@vS09/22/171400076.　私が悪いんです、ああああぁぁあぁぁぁぁ…！！」",
+		"NamesENG": "Chie",
+		"TextENG": "``Let me do that instead!!@k@vS09/22/171400076. It's all my fault, ahhhhhhhhhhh!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89797,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/170700328.",
+		"TextJPN": "「先生方、どうかご自分を責められないでください。@k@vS09/11/170700329.…先生方には校内の状況についていろいろとお聞きしたいことがありますので、ご協力をお願いいたします」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Please, don't blame yourselves.@k@vS09/11/170700329. I have things I want to ask you, so I'd appreciate it if you cooperated."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89798,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/170700330.",
+		"TextJPN": "「盆地くん！@k@vS09/11/170700331.　図面の方で話を聞いてあげてください」",
+		"NamesENG": "Ooishi",
+		"TextENG": "Bonchi-kun!@k@vS09/11/170700331. Please show them the blueprints.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89799,
+		"NamesJPN": "熊谷",
+		"PreTextTags": "@vS09/19/173100088.",
+		"TextJPN": "「失礼します！@k@vS09/19/173100089.　１号車の無線に高杉課長です！」",
+		"NamesENG": "Kumagai",
+		"TextENG": "``Excuse me, sir!@k@vS09/19/173100089. Section Chief Takasugi is on the radio!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89800,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/170700332.",
+		"TextJPN": "「はいはいもしもし、……大石です」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Hello, this is Ooishi.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89801,
+		"NamesJPN": "高杉",
+		"PreTextTags": "@vS09/00/taka17003.",
+		"TextJPN": "「大石さん、ご苦労さん！@k@vS09/00/taka17004.　状況の大体は熊谷くんに聞いたよ。@k@vS09/00/taka17005.犯人は未成年だそうだね？@k@vS09/00/taka17006.　マスコミ規制の方を厳重に頼むよ！」",
+		"NamesENG": "Takasugi",
+		"TextENG": "``Ooishi-san, how goes things?@k@vS09/00/taka17004. Kumagai-kun informed me of the situation.@k@vS09/00/taka17005. The suspect is underage, huh?@k@vS09/00/taka17006. Please keep strict control of the press!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89802,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/170700333.",
+		"TextJPN": "「わかってます。@k@vS09/11/170700334.……あと、犯人側が私を交渉人に指定してきてるようですが、問題ありませんかね」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``I understand.@k@vS09/11/170700334. Also, the suspect is requesting me as a negotiator. Is that okay with you?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89803,
+		"NamesJPN": "高杉",
+		"PreTextTags": "@vS09/00/VX_takasugi_0001.",
+		"TextJPN": "「とりあえず、犯人の要求ならいたしかたが無い。@k@vS09/00/VX_takasugi_0002.…頼んだよ」",
+		"NamesENG": "Takasugi",
+		"TextENG": "``For now, if that's the suspect's demand, we have no choice.@k@vS09/00/VX_takasugi_0002. ...It's up to you.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89804,
+		"NamesJPN": "熊谷",
+		"PreTextTags": "@vS09/19/173100090.",
+		"TextJPN": "「大石さん……！@k@vS09/19/173100091.　車載電話に、……犯人です、竜宮礼奈です……！」",
+		"NamesENG": "Kumagai",
+		"TextENG": "``Ooishi-san...!@k@vS09/19/173100091. Reina Ryuugu's on the car phone!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89805,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/170700336.",
+		"TextJPN": "「…さっそくご指名の電話が来ました。@k@vS09/11/170700337.さっそく出ることにします」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``That was faster than expected.@k@vS09/11/170700337. I'll go get it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89806,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/170700338.",
+		"TextJPN": "「………ありがとう。@k@vS09/11/170700339.……ハイもしもし、大石です」",
+		"NamesENG": "Ooishi",
+		"TextENG": ".........Thank you.@k@vS09/11/170700339. ......Hello, this is Ooishi.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89807,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS09/01/430200033.",
+		"TextJPN": "「くっ…！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Ugh...!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89808,
+		"TextJPN": "ぎりっ、と怒りと悔しさで歯を食いしばり、こぶしを握り締める。",
+		"TextENG": "I clenched my teeth in frustration and rolled up my fists into a ball."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89809,
+		"TextJPN": "おびただしい数の警官たちの壁に阻まれて、警察や先生たちの様子を遠巻きに見守ることしかできない自分が情けなかった。",
+		"TextENG": "An overwhelming wall of police officers blocked my way, and I felt pathetic for only being able to watch the teachers and the detectives from afar."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89810,
+		"TextJPN": "知恵先生が呼び出された、電話の意味。",
+		"TextENG": "The reason behind why Chie-sensei had been phoned and summoned out of the school."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89811,
+		"TextJPN": "…レナが教室を占拠する上で、一番邪魔な存在が知恵先生だったのだ。",
+		"TextENG": "...For Rena who wanted to hijack to classroom, the biggest obstacle was Chie-sensei."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89812,
+		"TextJPN": "正義感の強い人だもんな。",
+		"TextENG": "She was someone who had a strong sense of justice."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89813,
+		"TextJPN": "たとえレナが拳銃を持っていたって、知恵先生は怯まないだろう。",
+		"TextENG": "Even if Rena had held a pistol to her, Chie-sensei probably wouldn't have hesitated."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89814,
+		"TextJPN": "生徒のためなら体を張れる、…そんな先生をいかに摘出するかが、教室占拠の最初の鍵だったんだ。",
+		"TextENG": "For the welfare of her students, she would put herself in danger... getting rid of someone like her was the primary step in order to hijack the classroom."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89815,
+		"TextJPN": "背後から襲い掛かるという手も、もちろん一番最初に考えただろうが、@kやはり大人を敵に回すリスクを考えた結果、直接襲うのは適当ではないと考えたに違いない。",
+		"TextENG": "Attacking her from behind would have been her very first line of thought but,@k I'm sure she decided taking on an adult directly was a risky affair."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89816,
+		"TextJPN": "…なら、どこかへ誘き出してしまえばいいんだ…！",
+		"TextENG": "...In that case, it was better to lure her away to someplace..!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89817,
+		"TextJPN": "レナは知恵先生に電話をかけ、誰にも内緒で相談したいことがある…と言って、あの吊り橋にまで呼び寄せたに違いない。",
+		"TextENG": "Rena had then phoned Chie-sensei, and then told her she wished to seek her advice in someplace private... and asked to meet her near that suspension bridge."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89818,
+		"TextJPN": "先生も含め、ほとんどの人たちはレナが家出しただけだとしか思っていない。",
+		"TextENG": "Including Chie-sensei, a good majority of the people thought that Rena had merely run away from home."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89819,
+		"TextJPN": "…だから知恵先生は、レナに何か悩み事があって、それを打ち明けたがっているのだろう、そう解釈するに違いない。@k……騙すのはあまりに簡単だ。",
+		"TextENG": "...So Chie-sensei probably thought Rena merely had some troubles she wished to discuss.@k ......Fooling her was that easy."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89820,
+		"TextJPN": "じゃあ…レナは、電話をどこから…？",
+		"TextENG": "So... where did Rena make the call from...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89821,
+		"TextJPN": "そう、学校の中からだ。@kいや、厳密には違う。",
+		"TextENG": "Yes, it was from within the school.@k Well, not exactly."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89822,
+		"TextJPN": "多分、学校の２階、……営林署の事務室からだ。",
+		"TextENG": "It was most likely from the second floor of the school building, .......from the office room of the Forestry Service."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89823,
+		"TextJPN": "この学校の入っている営林署は出張所みたいなもので、いつも職員が常駐しているわけではない。@k日によってはいないこともある。",
+		"TextENG": "The Forestry Service at our school was more like a branch office, so it wasn't like the staff were always present.@k Depending on the day, they might not even be there."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89824,
+		"TextJPN": "レナはそれを知っていて、ずっと２階に隠れていたのだ。",
+		"TextENG": "Rena had known this, and had been hiding on the second floor all this time."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89825,
+		"TextJPN": "そして、２階から１階に電話して、……知恵先生を遠方に遠ざけたのだ。",
+		"TextENG": "And then, she had made a call to the ground floor from up there, ......and sent Chie-sensei to a faraway place."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89826,
+		"TextJPN": "今日が校長の出張の日だというのも偶然ではないだろう。",
+		"TextENG": "It probably wasn't a coincidence that the principal had also been away on a business trip today."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89827,
+		"TextJPN": "……多分、レナはこの学校に昨日から忍び込んでいた。",
+		"TextENG": "......Rena had most likely snuck into the school yesterday itself."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89828,
+		"TextJPN": "それで、校長の日程も内線電話のことも全て把握した上で実行に及んでいるのだ。",
+		"TextENG": "And then, she had discerned the principal's itinerary and the workings of the internal phone line before she put her plan into action."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89829,
+		"TextJPN": "……なんて狡猾な……。",
+		"TextENG": "......How cunning it all was......"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89830,
+		"TextJPN": "……いや、…わかる。",
+		"TextENG": "......No, I understood."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89831,
+		"TextJPN": "…今レナは、殺意に心を奪われながらも、…実はひどく冷静なのだ。",
+		"TextENG": "...Right now, even as she was possessed by a murderous rage, ...Rena was keeping her composure."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89832,
+		"TextJPN": "…自分が取り憑かれている妄想に対して、信じられないくらい冷静なのだ。",
+		"TextENG": "...She was unbelievably calm despite being plagued by her delusion that controlled her."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89833,
+		"TextJPN": "…だから、…信じられないくらいに頭が回る。",
+		"TextENG": "...And so, just thinking about it made my head spin."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89834,
+		"TextJPN": "…それは自分にも身に覚えがあったからよくわかった。",
+		"TextENG": "...Because I had even personally experienced what she was going through before."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89835,
+		"TextJPN": "あと、…さらについてないのは、魅音の護衛のために校門前にいた園崎家のボディーガードまでもいなくなってしまってることだ。",
+		"TextENG": "Also, what was even more unlucky was the absence of the Sonozaki Family bodyguard who had been standing by the gate."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89836,
+		"TextJPN": "……知恵先生がレナに会いに行くと思って、魅音が尾行するように言ってしまったから。",
+		"TextENG": "......It was because Mion had sent him to follow Chie-sensei who had set out to meet Rena."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89837,
+		"TextJPN": "……畜生、……何から何まで……、……やってくれるぜ………。",
+		"TextENG": ".........Fuck, everything was so screwed up... on so many levels........."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89838,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/170700374.",
+		"TextJPN": "「……今ですね、県警の暴対と公安部で一斉捜査作戦を準備中なんです。@k@vS09/11/170700375.何しろ、市内全域を一斉にやりますからねぇ、調整に多少の時間が、」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``We're trying to come up with a plan for the simultaneous raids as we speak. We're talking to the prefectural police as well as the Public Safety Division.@k@vS09/11/170700375. We're talking about the entire city, so we need a little more time to prepare for it...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89839,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS09/02/170201482.",
+		"TextJPN": "「遅すぎるッ！！！@k@vS09/02/170201483.　大石さん、私たちは今、鹿骨市が置かれている緊急的危機について、よく理解し合っているんじゃなかったでしたっけ？！」",
+		"NamesENG": "Rena",
+		"TextENG": "``You're taking too long!!!@k@vS09/02/170201483. Ooishi-san, don't you realize what kind of emergency situation Shishibone City is in right now?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89840,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS09/02/170201484.",
+		"TextJPN": "「何をのんびりとしたことを！！@k@vS09/02/170201485.　……大石さん、本当に私の話を信じてくれているんですよね？！@k@vS09/02/170201486.　私の味方なんですよね？！@k@vS09/02/170201487.　味方ですよねッ？！@k@vS09/02/170201488.　答えてください！！！」",
+		"NamesENG": "Rena",
+		"TextENG": "What are you doing?@k@vS09/02/170201485. Ooishi-san...... you do believe me, don't you?@k@vS09/02/170201486. You're my ally, right?@k@vS09/02/170201487. Right?@k@vS09/02/170201488. Please answer me!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89841,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/170700376.",
+		"TextJPN": "「も、もちろんですとも…！@k@vS09/11/170700377.　ですが警察組織ってやつは簡単じゃないんです。@k@vS09/11/170700378.私も最大限、努力をしてるんですよ、えぇ本当です！@k@vS09/11/170700379.　……ただですね、やはり話の規模があまりに大き過ぎるもので、」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``O-Of course, I am!@k@vS09/11/170700377. But the police department is a little more complicated than you think...@k@vS09/11/170700378. I'm doing my best, I really am!@k@vS09/11/170700379. The thing is this is on a really big scale...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89842,
+		"TextJPN": "…交渉はお世辞にも、順調とはいえなかった。",
+		"TextENG": "...The negotiations weren't that satisfactory, to be honest."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89843,
+		"TextJPN": "話している間にも竜宮レナの焦燥と、今にも爆発しそうな緊張がびりびりと伝わってくる。",
+		"TextENG": "Even as they spoke, it was clear from the overwhelming tension that Rena's patience was wearing thinner and thinner."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89844,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS09/02/430400001.",
+		"TextJPN": "「…じゃあ、圭一くんを呼んで」",
+		"NamesENG": "Rena",
+		"TextENG": "``...Okay, call Keiichi-kun over here.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89845,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/430500001.",
+		"TextJPN": "「は？@k@vS09/11/430500002.　いま、何とおっしゃいました？」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``What?@k@vS09/11/430500002. Could you say that again?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89846,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS09/02/430400002.",
+		"TextJPN": "「そっちにいるんでしょう、圭一くん？@k@vS09/02/430400003.　彼と話をするから、早く呼び出して！」",
+		"NamesENG": "Rena",
+		"TextENG": "``Isn't Keiichi-kun there right now?@k@vS09/02/430400003. I'd like to talk to him now so please call him over immediately!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89847,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/430500003.",
+		"TextJPN": "「…わ、わかりました」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``...I-I understand.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89848,
+		"TextJPN": "大石は部下の刑事に、バリケードで足止めした人だかりの最前列にいる少年を呼んでくるように命令する。",
+		"TextENG": "Ooishi asked one of his subordinates to summon the boy who stood in the front line of the crowd gathered at the barricade."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89849,
+		"TextJPN": "ほどなく彼は小走りで車のそばにやってきた。",
+		"TextENG": "He immediately jogged over to the car as soon as he was called."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89850,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/430500004.",
+		"TextJPN": "「前原圭一さんですね？」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``You must be Keiichi Maebara, I assume?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89851,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS09/01/430200034.",
+		"TextJPN": "「は、はい…」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Y-Yes...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89852,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/430500005.",
+		"TextJPN": "「竜宮レナさんが、あなたと話がしたいそうです。@k@vS09/11/430500006.通話、代わってもらえますか？」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Miss Rena Ryuugu would like to have a word with you.@k@vS09/11/430500006. Could you please take the call?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89853,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS09/01/430200035.",
+		"TextJPN": "「…わかりました」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...I understand.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89854,
+		"TextJPN": "そして大石は受話器を圭一に渡し、外の様子に目を向けて何かに気付いたのか、車を出て行った。",
+		"TextENG": "Ooishi then handed over the receiver to Keiichi and he noticed something happening outside and left the car."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89855,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS09/01/430200036.",
+		"TextJPN": "「…もしもし」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...Hello?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89856,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS09/02/430400004.",
+		"TextJPN": "「あ、圭一くん…？@k@vS09/02/430400005.　よかった、戻ってきてくれたんだね」",
+		"NamesENG": "Rena",
+		"TextENG": "``Ah, Keiichi-kun...?@k@vS09/02/430400005. It's good that you came back here.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89857,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS09/01/430200037.",
+		"TextJPN": "「レナ…」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Rena...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89858,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS09/02/430400006.",
+		"TextJPN": "「警察がね、レナの言うことを信じてくれないの。@k@vS09/02/430400007.レナの言ってることが本当で、…レナがやろうとしてることが本気だって圭一くんからも言ってくれないかな。…かな？」",
+		"NamesENG": "Rena",
+		"TextENG": "``The police isn't believing what I'm telling them.@k@vS09/02/430400007. Could you please tell them that the things I'm saying are true, and that I'm very serious about what I'm about to do... could you?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89859,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS09/01/430200038.",
+		"TextJPN": "「……。@k@vS09/01/430200039.やろうとしてることって、なんだよ…？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``.........@k@vS09/01/430200039. What do you mean by... 'what I'm about to do'...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89860,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS09/02/430400008.",
+		"TextJPN": "「今、この教室にね、ガソリンをまいたの。@k@vS09/02/430400009.だから、レナが持ってるライターでちょっと火をつければ、ここにいる人質はみんな死んじゃう。@k@vS09/02/430400010.…それを、大石さんに教えてくれないかな」",
+		"NamesENG": "Rena",
+		"TextENG": "``I've just finished pouring gasoline all over this classroom.@k@vS09/02/430400009. So, if I just ignite the lighter I have on hand, all the hostages here will die.@k@vS09/02/430400010. ...Could you please let Ooishi-san know about that?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89861,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS09/01/430200040.",
+		"TextJPN": "「なっ？！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Wha-?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89862,
+		"NamesJPN": "熊谷",
+		"PreTextTags": "@vS09/19/173100171.",
+		"TextJPN": "「な、何ですかあんたたちは…！」",
+		"NamesENG": "Kumagai",
+		"TextENG": "``Wh-Who are you people?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89863,
+		"NamesJPN": "大高",
+		"PreTextTags": "@vS09/00/VT3_ootaka1001.",
+		"TextJPN": "「退きたまえ。@k@vS09/00/VT3_ootaka1002.ここの責任者は誰だね」",
+		"NamesENG": "Ootaka",
+		"TextENG": "``Move over.@k@vS09/00/VT3_ootaka1002. Who's in charge here?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89864,
+		"TextJPN": "何台かの車が次々にのりつけ、興宮署の刑事でない男たちが何人も現れた。",
+		"TextENG": "Several cars had arrived, producing several men. They weren't from the Okinomiya station."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89865,
+		"TextJPN": "この暑いのにスーツをきっちり着こなした細身の男が、制止しようとする熊谷を払いのけて、大石のところへやって来た。",
+		"TextENG": "One of the men was wearing a suit, despite the hot weather. He approached me, pushing Kumagai aside."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89866,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/170700522.",
+		"TextJPN": "「…おや、これはこれは。@k@vS09/11/170700523.お久しぶりですねぇ、県警本部の大高くんじゃありませんか」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``...Hey, look who's here.@k@vS09/11/170700523. Good to see you again, Ootaka-kun from the prefectural headquarters.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89867,
+		"NamesJPN": "大高",
+		"PreTextTags": "@vS09/00/VT3_ootaka1003.",
+		"TextJPN": "「言葉を慎みたまえ。@k@vS09/00/VT3_ootaka1004.もう、君に『くん』と呼ばれる階級ではない」",
+		"NamesENG": "Ootaka",
+		"TextENG": "``Watch your mouth.@k@vS09/00/VT3_ootaka1004. I'm ranked much higher than you now, so don't address me so casually.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89868,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/170700524.",
+		"TextJPN": "「何か御用ですかね大高『くん』。@k@|@y@vS09/11/170700525.今、非常に立て込んでいます。@k@vS09/11/170700526.まさか県警がこの現場を乗っ取るおつもりで？@k@vS09/11/170700527.　誰の了解で！」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Can I help you with something, Ootaka-<i>kun</i>?@k@|@y@vS09/11/170700525. I'm rather busy at the moment.@k@vS09/11/170700526. You can't possibly be thinking about taking over this case?@k@vS09/11/170700527. Who approved that, exactly?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89869,
+		"NamesJPN": "署長",
+		"PreTextTags": "@vS09/00/syocho17001.",
+		"TextJPN": "「私が許可した、大石くん！」",
+		"NamesENG": "Chief of Police",
+		"TextENG": "``I did, Ooishi-kun!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89870,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/170700528.",
+		"TextJPN": "「しょ、署長！」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Ch-Chief...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89871,
+		"NamesJPN": "署長",
+		"PreTextTags": "@vS09/00/syocho17002.",
+		"TextJPN": "「高杉くんから事情は聞いている。@k@vS09/00/syocho17003.君が蒔いたタネだという話も聞いているぞ。@k@vS09/00/syocho17004.君はもう下がってあとは機動隊に任せるんだ！」",
+		"NamesENG": "Chief of Police",
+		"TextENG": "``Takasugi-kun has informed me of the situation.@k@vS09/00/syocho17003. He also told me that you started all this.@k@vS09/00/syocho17004. You can go now. The troops will take over!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89872,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/170700529.",
+		"TextJPN": "「機動隊って、…大高くん、あんたまさか急襲する気ですか！」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``The troops? ...Ootaka-kun, you aren't going to storm the building, are you?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89873,
+		"NamesJPN": "大高",
+		"PreTextTags": "@vS09/00/VT3_ootaka1005.",
+		"TextJPN": "「危険は重々承知だ。@k@vS09/00/VT3_ootaka1006.だが、現状では埒が明かず、いたずらに時間を費やしているだけじゃないか。@k@vS09/00/VT3_ootaka1007.君は腰を据えてかかりすぎだ。@k@vS09/00/VT3_ootaka1008.その尻拭いを我々がしようと言うんだ。@k@vS09/00/VT3_ootaka1009.君らは引き継いで後方に下がりたまえ」",
+		"NamesENG": "Ootaka",
+		"TextENG": "``I understand the risk.@k@vS09/00/VT3_ootaka1006. But we don't have any time left before the bomb goes off.@k@vS09/00/VT3_ootaka1007. You've taken too long.@k@vS09/00/VT3_ootaka1008. We're here to take care of the mess you left behind.@k@vS09/00/VT3_ootaka1009. Just step back for a minute.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89874,
+		"TextJPN": "署長と県警本部の人間に凄まれては、立場上、大石は譲らざるを得ない。",
+		"TextENG": "I couldn't talk back if both the chief and a guy from the prefectural headquarters gave me an order."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89875,
+		"NamesJPN": "熊谷",
+		"PreTextTags": "@vS09/19/173100172.",
+		"TextJPN": "「お、…大石さん、何者っすかあいつは…！」",
+		"NamesENG": "Kumagai",
+		"TextENG": "``O...Ooishi-san, who the heck is he?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89876,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/170700530.",
+		"TextJPN": "「大高くん。@k@vS09/11/170700531.んっふっふ、昔、麻雀がクソ弱いくせに粋がってたから、ちょいと叩き潰してやったことがありましてねー」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``That's Ootaka-kun.@k@vS09/11/170700531. Nfu fu, a long time ago, he was showing off even though he was bad at mahjong, so I taught him a lesson."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89877,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/170700532.",
+		"TextJPN": "「それともあれかな、剣道大会で偉そうにしてやがったから、面食らわして失神させたのを根に持ってるのかなぁ」",
+		"NamesENG": "Ooishi",
+		"TextENG": "Or maybe he's still holding a grudge from when I knocked him unconscious in that kendo tournament.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89878,
+		"TextJPN": "それ以上を聞かなくても、二人が犬猿の仲であることは容易に想像できた。",
+		"TextENG": "Obviously, we didn't get along."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89879,
+		"NamesJPN": "大高",
+		"PreTextTags": "@vS09/00/VT3_ootaka1010.",
+		"TextJPN": "「大石くん、現在の最新の状況を説明したまえ」",
+		"NamesENG": "Ootaka",
+		"TextENG": "``Give me the latest update, Ooishi-kun.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89880,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/170700533.",
+		"TextJPN": "「あんた、本気で突入する気で？」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Are you serious about storming the school?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89881,
+		"NamesJPN": "大高",
+		"PreTextTags": "@vS09/00/VT3_ootaka1011.",
+		"TextJPN": "「突入は府警の専門部隊が担当する。@k@vS09/00/VT3_ootaka1012.君はバックアップに回りたまえ」",
+		"NamesENG": "Ootaka",
+		"TextENG": "``A special unit from the prefectural police department will handle the infiltration.@k@vS09/00/VT3_ootaka1012. Your unit will be their backup.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89882,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/170700536.",
+		"TextJPN": "「……署長」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``...Chief.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89883,
+		"NamesJPN": "署長",
+		"PreTextTags": "@vS09/00/syocho17005.",
+		"TextJPN": "「大石くん。@k@vS09/00/syocho17006.府警の専門部隊はただの機動隊じゃないぞ。@k@vS09/00/syocho17007.第２機動隊と言えば、君ほどの男なら噂くらい聞いてるだろう？」",
+		"NamesENG": "Chief of Police",
+		"TextENG": "``Ooishi-kun,@k@vS09/00/syocho17006. the special unit from the prefectural police department isn't just any old unit.@k@vS09/00/syocho17007. You've heard about the Second Company, haven't you?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89884,
+		"NamesJPN": "熊谷",
+		"PreTextTags": "@vS09/19/173100173.",
+		"TextJPN": "「………なんすか大石さん。@k@vS09/19/173100174.第２機動隊って有名なんですか…？」",
+		"NamesENG": "Kumagai",
+		"TextENG": "``What's that, Ooishi-san?@k@vS09/19/173100174. Is this ``Second Company`` that well known?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89885,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/170700547.",
+		"TextJPN": "「５年くらい前だっけ、…空港の飛行機に犯人が立て篭もった事件があったでしょ。@k@vS09/11/170700548.あれを切っ掛けに、東京と大阪にハイジャック専門の特殊部隊が組織されたって噂は聞いてましたがね。@k@vS09/11/170700549.………実在してましたか…」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Do you remember, about five years ago, when the JRA hijacked that airplane? Flight 472?@k@vS09/11/170700548. I've heard that special counter-terrorist units were put together in Tokyo and Osaka after that incident.@k@vS09/11/170700549. So they really do exist...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89886,
+		"NamesJPN": "熊谷",
+		"PreTextTags": "@vS09/19/173100175.",
+		"TextJPN": "「で、でも、何だって府警の機動隊がこんなところに…」",
+		"NamesENG": "Kumagai",
+		"TextENG": "``B-But why would a special unit from Osaka be here?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89887,
+		"TextJPN": "大高が得意げにニヤリと笑った。",
+		"TextENG": "Ootaka smiled proudly."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89888,
+		"NamesJPN": "大高",
+		"PreTextTags": "@vS09/00/VT3_ootaka1013.",
+		"TextJPN": "「たまたま県警機動隊との交流訓練があってね。@k@vS09/00/VT3_ootaka1014.特別に応援を要請したのだよ」",
+		"NamesENG": "Ootaka",
+		"TextENG": "``We just happened to be holding a training session with your prefectural police unit.@k@vS09/00/VT3_ootaka1014. We requested their help.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89889,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/170700550.",
+		"TextJPN": "「なっはっは、……相変わらずですねぇ。@k@|@y@vS09/11/170700551.…話をすぐ派手にしたがる、その癖は」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Na ha ha... you haven't changed, have you?@k@|@y@vS09/11/170700551. ...You have a bad tendency to escalate matters quickly.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89890,
+		"TextJPN": "とても日本的とは思えない武装をした黒装束の機動隊員たちが次々と降車しては、予め決められたらしい位置に散っていく。",
+		"TextENG": "The Company members exited the vehicles one after another and took position."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89891,
+		"TextJPN": "その動きはとても警察的とは思えなかった。",
+		"TextENG": "They didn't move like policemen..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89892,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/170700552.",
+		"TextJPN": "「大高くん！@k@vS09/11/170700553.　あんた学校で銃撃戦をやる気かい！」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Ootaka-kun!@k@vS09/11/170700553. Are you really going to have a gunfight here?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89893,
+		"NamesJPN": "大高",
+		"PreTextTags": "@vS09/00/VT3_ootaka1015.",
+		"TextJPN": "「安心したまえ。@k@vS09/00/VT3_ootaka1016.突入班が使うのは火器じゃない。@k@vS09/00/VT3_ootaka1017.暴徒鎮圧用の最新武装だ。@k@vS09/00/VT3_ootaka1018.高圧ガスで催涙ガスを噴出する。@k@vS09/00/VT3_ootaka1019.何の問題もない」",
+		"NamesENG": "Ootaka",
+		"TextENG": "``Don't worry.@k@vS09/00/VT3_ootaka1016. They won't use firearms.@k@vS09/00/VT3_ootaka1017. They're using riot shields and riot guns.@k@vS09/00/VT3_ootaka1018. These guns send out tear gas at high pressures.@k@vS09/00/VT3_ootaka1019. There will be no issue with explosions.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89894,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/170700555.",
+		"TextJPN": "「………へぇ～、そりゃ便利な水鉄砲があったもんで。@k@vS09/11/170700556.ところで、その玩具は校庭を横断して教室まで届くほど便利なものなんで？」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``......Wow, I've never heard of such convenient water guns.@k@vS09/11/170700556. By the way, can that toy reach the classroom from across the schoolyard?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89895,
+		"NamesJPN": "大高",
+		"PreTextTags": "@vS09/00/VT3_ootaka1020.",
+		"TextJPN": "「それは君が心配することではない。@k@vS09/00/VT3_ootaka1021.後は我々に任せて下がりたまえ」",
+		"NamesENG": "Ootaka",
+		"TextENG": "``You don't need to worry about that.@k@vS09/00/VT3_ootaka1021. You just move over and let us do our job.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89896,
+		"TextJPN": "そして、大高の指示のもと機動隊員たちは学校の窓から見える死角へと回り込んで、突入命令に備えて身構える。",
+		"TextENG": "And then, following Ootaka's orders, the special forces took positions at a blind spot visible from the school window and prepared to infiltrate."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89897,
+		"TextJPN": "その物々しさと反論を許さぬ傲岸さに大石は鼻白みながら、レナと圭一がいま会話をしている最中であることを思い出して、車のほうへと足を向けた。",
+		"TextENG": "Ooishi wrinkled his nose at Ootaka's arrogance and pretentious attitude that didn't give way for counterarguments. Remembering that Rena and Keiichi were having a conversation, he turned on his heel heading over to the patrol car."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89898,
+		"TextJPN": "そこへ。",
+		"TextENG": "And there..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89899,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS09/01/430200041.",
+		"TextJPN": "「――た、大変だ刑事さんっ！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Detective, we have an emergency!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89900,
+		"TextJPN": "突然車のドアが勢いよく開いて、大声を上げながら圭一が飛び出してくる。",
+		"TextENG": "At once, the door to the car swung open and Keiichi rushed over to him screaming."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89901,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/430500007.",
+		"TextJPN": "「どうしました、前原さん？」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``What's the matter, Maebara-san?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89902,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS09/01/430200042.",
+		"TextJPN": "「れ、レナが教室内に、が、ガソリンをまいたって…！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Re-Rena just told me she's poured gasoline all over the classroom...!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89903,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/430500008.",
+		"TextJPN": "「んなっ？！」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Whaaa?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89904,
+		"TextJPN": "ガソリンだと…？！　そんな揮発性の危険物があるなんて話は聞いていないぞ！！　いや、そんなことよりも、だったら今は――！！",
+		"TextENG": "Gasoline...?! I didn't hear that there was something so inflammable in the vicinity!! No, it's not about that, right now—!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89905,
+		"NamesJPN": "大高",
+		"PreTextTags": "@vS09/00/VT3_ootaka1022.",
+		"TextJPN": "「射撃用意、構え――」",
+		"NamesENG": "Ootaka",
+		"TextENG": "``Preparing to shoot, steady—``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89906,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS09/11/430500009.",
+		"TextJPN": "「ま、待ってください！@k@vS09/11/430500010.　やめろ、撃つなっ！！」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``P-Please wait!@k@vS09/11/430500010. Stop, don't shoot!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89907,
+		"NamesJPN": "大高",
+		"PreTextTags": "@vS09/00/VT3_ootaka1023.",
+		"TextJPN": "「撃てっ！！」",
+		"NamesENG": "Ootaka",
+		"TextENG": "``Fire~!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89908,
+		"NamesJPN": "大石＆圭一",
+		"PreTextTags": "@o75.@vS09/11/430500011|S09/01/430200043.",
+		"TextJPN": "「「うわぁぁっっ！！」」",
+		"NamesENG": "Ooishi & Keiichi",
+		"TextENG": "``Uwaaaahhhh!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89909,
+		"TextJPN": "…………。",
+		"TextENG": "............"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89910,
+		"TextJPN": "……。",
+		"TextENG": "......"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89911,
+		"TextJPN": "突然、身体が吹き飛ばされて地面に叩きつけられ、…一瞬、何が起こったのかわからなかった。",
+		"TextENG": "Our bodies were promptly blown away and hit the ground, we didn't understand what had happened for a moment."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89912,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS09/01/430200044.",
+		"TextJPN": "「……。@k@vS09/01/430200045.…っ…？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``.........@k@vS09/01/430200045. ...gh...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89913,
+		"TextJPN": "耳鳴りが頭に激しく響きわたり、くらくらとした@bめまい.@<眩暈@>で意識が遠のきそうになる。",
+		"TextENG": "A high pitched tinnitus violently reverberated within my skull, and an overwhelming dizziness distanced me from my consciousness."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89914,
+		"TextJPN": "たち込める砂埃と焼け焦げた空気を感じて、喉と鼻の奥が…痛い。",
+		"TextENG": "My throat and nasal passage felt irritated from the suspended dust particles and smoldered air."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89915,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS09/01/430200046.",
+		"TextJPN": "「……っ」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``.....gh.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89916,
+		"TextJPN": "口の中のじゃりじゃりとしたものを唾とともに吐き出しながら、俺は痛む身体を起こして立ち上がり、…顔を前に、向けた。",
+		"TextENG": "Spitting out the crunchy debris from my mouth, I dragged my beaten body up into a stance, and faced forward, looking ahead of me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89917,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS09/01/430200047.",
+		"TextJPN": "「…………。@k@vS09/01/430200048.…………。@k@vS09/01/430200049.……あ…………？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``............@k@vS09/01/430200048..........@k@vS09/01/430200049....Ah.........?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89918,
+		"TextJPN": "グラウンドには、たくさんの警察官が転がって、呻いている。",
+		"TextENG": "There were many police officers scattered about on the ground, groaning from the impact."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89919,
+		"TextJPN": "…すぐそばで、苦悶の声。…目を向けると、さっきまで話していた刑事だった。",
+		"TextENG": "...A voice of agony filled the air next to me. ...As I faced it, it turned out to be the detective I'd been talking to just now."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89920,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS09/01/430200050.",
+		"TextJPN": "「ぐ…っ…！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Ugh... ...!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89921,
+		"TextJPN": "顔も、服も、全身を泥と埃にまみれさせて、…頭からは血を流している。",
+		"TextENG": "His entire body was covered in dirt and debris, and he was bleeding from his head."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89922,
+		"TextJPN": "それを気遣おうと膝を折りかけて、…俺は、レナや魅音たちの安否を思い出す。",
+		"TextENG": "As I began to sit down in concern for him, I suddenly remembered Mion and Rena's safety."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89923,
+		"TextJPN": "そして、校舎の方向に目を向けて、",
+		"TextENG": "And then, I turned towards the direction of the school."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89924,
+		"TextJPN": "…俺は、@k…自分の見ている光景が、@k…信じられなかった。",
+		"TextENG": "...I@k ...couldn't believe@k ...what I was seeing."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89925,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS09/01/430200051.",
+		"TextJPN": "「…………」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``............``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89926,
+		"TextJPN": "そこにあったのは木材と、石材と、それ以外の何かがいびつに入り混じった…まるで巨大な、崩れたばかりのキャンプファイアーの焚き木。",
+		"TextENG": "What stood before me was a disordered conglomerate of wood, bricks and other distorted articles mixed in... crudely resembling an enormous camping bonfire."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89927,
+		"TextJPN": "その中で燃え盛る炎は、夕焼けの空に突き上がるほど高く。",
+		"TextENG": "The flames that had risen up in between that mass burned so high they seemed to reach up into the evening twilight."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89928,
+		"TextJPN": "かなり離れたこの場所にいても、その熱気と焦臭ははっきりと伝わってきた。",
+		"TextENG": "Even from this faraway distance, I could perceive the heat and the scorching smell."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89929,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS09/01/430200052.",
+		"TextJPN": "「…………」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``............``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89930,
+		"TextJPN": "…違う。",
+		"TextENG": "...No."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89931,
+		"TextJPN": "違う、これは夢だ。",
+		"TextENG": "No, this had to be a dream."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89932,
+		"TextJPN": "これは、俺たちの学校じゃ、ない。",
+		"TextENG": "This couldn't be our school."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89933,
+		"TextJPN": "俺はどこか、別の方向を見ているだけだ。",
+		"TextENG": "..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89934,
+		"TextJPN": "いや、ここがそもそも、学校じゃないんだ…。",
+		"TextENG": "No, this wasn't even a school in the first place..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89935,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS09/01/430200053.",
+		"TextJPN": "「…………」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``............``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89936,
+		"TextJPN": "ふらふら、…と。",
+		"TextENG": "I staggered over."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89937,
+		"TextJPN": "俺は、頼りない足取りで何度も躓きながら、それに向かって歩いていく。",
+		"TextENG": "Fumbling forward with my useless legs, I walked over to that monstrosity."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89938,
+		"TextJPN": "そして、ふと目を向けた先の崩れて折り重なった木材の中に見知った顔を見つけ、はっ、と息をのんで駆け寄った。",
+		"TextENG": "And then before me, amidst the crumbled remains of timber, I discovered a face I recognized and drew a breath before I rushed over."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89939,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS09/01/430200054.",
+		"TextJPN": "「――魅音っ…！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Mion...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89940,
+		"TextJPN": "魅音は目を見開いたまま、こちらに顔を向けて右腕を伸ばしている。",
+		"TextENG": "Mion's eyes were wide open, facing my way, with her right arm raised."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89941,
+		"TextJPN": "わずかに開いた口。…きっと、声が出ないんだろう。",
+		"TextENG": "Her mouth was slightly open... she probably couldn't speak."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89942,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS09/01/430200055.",
+		"TextJPN": "「よかった…魅音っ…！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Thank god... Mion...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89943,
+		"TextJPN": "とにかく、今は助け出すことが先だ！",
+		"TextENG": "I had to get her out here first!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89944,
+		"TextJPN": "そう思って俺は、その右腕をつかみ――。",
+		"TextENG": "Thinking that, I tightly grasped that right arm—."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89945,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS09/01/430200056.",
+		"TextJPN": "「…………」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``............``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89946,
+		"TextJPN": "手応えのない、軽い感触。@kそれは瓦礫の中から、@k@|@yすぽりと『抜けた』。",
+		"TextENG": "It felt light, there was no resistance.@k And then, from within the rubble,@k@|@y 'it' came out."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89947,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS09/01/430200057.",
+		"TextJPN": "「……あ…」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``......Ah...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89948,
+		"TextJPN": "そして、ごろり、と@k小さな塊が、足元に転がる。",
+		"TextENG": "And then, a small mass rolled over,@k and touched my feet."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89949,
+		"TextJPN": "魅@w600.音@w600.の@w600.首@w600.か@w600.ら@w600.下@w600.は@w600.、@w600.な@w600.に@w600.も@w600.、@w600.な@w600.か@w600.っ@w600.た@w600.。",
+		"TextENG": "Mi@w600.on's@w600. head@w600. had@w600. co@w600.me@w600. a@w600.part@w600. from@w600. her@w600. body@w600...."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 89950,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS09/01/430200058.",
+		"TextJPN": "「う、うわぁぁぁああああぁぁぁぁぁっっっ！！@k@vS09/01/430200059.　ああぁぁあああぁぁぁぁっっっ！！！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``U-Uwaaaaaaaaaaaahhhhhhhhh!!@k@vS09/01/430200059. Aaaaahhhhhhhhh!!!!``"
+	}
+]

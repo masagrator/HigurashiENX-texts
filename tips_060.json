@@ -1,190 +1,188 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "照会要請",
-            "ENG": "Inquiry Request"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14223,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "興宮警察署　指令センター通信記録",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Okinomiya Police Station Command Center Transmission Recording"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14224,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "６月２０日２０時８分",
-            "AfterTextTags": "@|@y",
-            "TextENG": "June 20, 8:08 PM"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14225,
-            "NamesJPN": "興宮ＰＳ",
-            "PreTextTags": "@vS20/00/VTP_OkeijiA_3001.",
-            "TextJPN": "「こちら興宮ＰＳ、感度良好でーす」",
-            "NamesENG": "Okinomiya PS",
-            "TextENG": "``This is Okinomiya police station, we read you loud and clear.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14226,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700232.",
-            "TextJPN": "『あー、車両ナンバー照会をお願いします。鹿骨、はの４３４４』",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Hello, we'd like you to look up a license plate for us. Shishibone @bHa.@<は@> 43-44.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14227,
-            "NamesJPN": "興宮ＰＳ",
-            "PreTextTags": "@vS20/00/VTP_OkeijiA_3002.",
-            "TextJPN": "「復唱、鹿骨、はの４３４４。少々お時間もらいますがよろしいですかー？」",
-            "NamesENG": "Okinomiya PS",
-            "TextENG": "``Shishibone @bHa.@<は@> 43-44, all right. Please give us just a moment to look it up.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14228,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700233.",
-            "TextJPN": "『お願いします』",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Thank you.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14229,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "ナンバー照会",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Number Match"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14230,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "鹿骨　はの４３４４",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Shishibone @bHa.@<は@> 43-44"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14231,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "所有者コード　６０３４３４４",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Owner: _____ _____"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14232,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "＜鹿骨市雛見沢村在住の一般人・前科なし＞",
-            "AfterTextTags": "@|@y",
-            "TextENG": "(Address: _-____ Hinamizawa Village, Shishibone)"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14233,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "車種：ステーションワゴン",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Vehicle make and model: _____ ______"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14234,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "盗難届け：無",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Theft reports: None"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14235,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "特記事項：特に無し",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Special mentions: Nothing of note"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14236,
-            "NamesJPN": "興宮ＰＳ",
-            "PreTextTags": "@vS20/00/VTP_OkeijiA_3003.",
-            "TextJPN": "「興宮ＰＳより大石車どうぞー。先ほどのナンバーが判明しましたー。@k@vS20/00/VTP_OkeijiA_3004.……………………大石車どうぞー？@k@vS20/00/VTP_OkeijiA_3005.　……………………………大石車、応答願います」",
-            "NamesENG": "Okinomiya PS",
-            "TextENG": "``Okinomiya Security Police to Ooishi. We found the license plate from earlier.@k@vS20/00/VTP_OkeijiA_3004. ............Ooishi, do you read?@k@vS20/00/VTP_OkeijiA_3005. ...............Ooishi, please respond."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14237,
-            "NamesJPN": "興宮ＰＳ",
-            "PreTextTags": "@vS20/00/VTP_OkeijiA_3006.",
-            "TextJPN": "「………………あれ？　…………電波、悪いのかな…………………。@k@vS20/00/VTP_OkeijiA_3007.……大石車応答ねが………………」",
-            "NamesENG": "Okinomiya PS",
-            "TextENG": ".........Hmm? ......Am I getting a bad signal.........?@k@vS20/00/VTP_OkeijiA_3007. ...Anyone in Ooishi's car, please re—``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14238,
-            "NamesJPN": "興宮ＰＳ",
-            "PreTextTags": "@vS20/00/VTP_OkeijiA_3008.",
-            "TextJPN": "「出ませんね」",
-            "NamesENG": "Okinomiya PS",
-            "TextENG": "``Nothing, eh?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14239,
-            "NamesJPN": "刑事",
-            "PreTextTags": "@vS20/00/VTP_OkeijiB_3001.",
-            "TextJPN": "「大石さんが車両照会？　誰の車だよ」",
-            "NamesENG": "Detective",
-            "TextENG": "``Ooishi-san wanted a license plate check? Whose car was it?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14240,
-            "NamesJPN": "興宮ＰＳ",
-            "PreTextTags": "@vS20/00/VTP_OkeijiA_3009.",
-            "TextJPN": "「村人の車ですね。……至って平凡な」",
-            "NamesENG": "Okinomiya PS",
-            "TextENG": "``Someone from the village. ...A completely average car.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14241,
-            "NamesJPN": "刑事",
-            "PreTextTags": "@vS20/00/VTP_OkeijiB_3002.",
-            "TextJPN": "「…何者だよ。大石さんが聞いてくるからには、只者じゃないんだろ？」",
-            "NamesENG": "Detective",
-            "TextENG": "``...Who was it? If Ooishi-san was asking, then it can't be anyone good, right?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14242,
-            "NamesJPN": "興宮ＰＳ",
-            "PreTextTags": "@vS20/00/VTP_OkeijiA_3010.",
-            "TextJPN": "「特記事項欄は完全に空欄ですね。Ｓ号指定もなし。@k@vS20/00/VTP_OkeijiA_3011.減点もなしだし」",
-            "NamesENG": "Okinomiya PS",
-            "TextENG": "``The special mentions column is completely blank. No indication it's related to the S-group, either.@k@vS20/00/VTP_OkeijiA_3011. And no demerits on it.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14243,
-            "NamesJPN": "刑事",
-            "PreTextTags": "@vS20/00/VTP_OkeijiC_3001.",
-            "TextJPN": "「…ははは、パッシングでもされて腹が立ったんじゃないの？　あの人、根に持つとなかなか忘れないタイプなんだよ」",
-            "NamesENG": "Detective",
-            "TextENG": "``...Hahaha. Maybe it passed him on the road and he got mad. That guy isn't the type to forget a grudge.``"
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "照会要請",
+		"ENG": "Inquiry Request"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14223,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "興宮警察署　指令センター通信記録",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Okinomiya Police Station Command Center Transmission Recording"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14224,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "６月２０日２０時８分",
+		"AfterTextTags": "@|@y",
+		"TextENG": "June 20, 8:08 PM"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14225,
+		"NamesJPN": "興宮ＰＳ",
+		"PreTextTags": "@vS20/00/VTP_OkeijiA_3001.",
+		"TextJPN": "「こちら興宮ＰＳ、感度良好でーす」",
+		"NamesENG": "Okinomiya PS",
+		"TextENG": "``This is Okinomiya police station, we read you loud and clear.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14226,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700232.",
+		"TextJPN": "『あー、車両ナンバー照会をお願いします。鹿骨、はの４３４４』",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Hello, we'd like you to look up a license plate for us. Shishibone @bHa.@<は@> 43-44.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14227,
+		"NamesJPN": "興宮ＰＳ",
+		"PreTextTags": "@vS20/00/VTP_OkeijiA_3002.",
+		"TextJPN": "「復唱、鹿骨、はの４３４４。少々お時間もらいますがよろしいですかー？」",
+		"NamesENG": "Okinomiya PS",
+		"TextENG": "``Shishibone @bHa.@<は@> 43-44, all right. Please give us just a moment to look it up.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14228,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700233.",
+		"TextJPN": "『お願いします』",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Thank you.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14229,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "ナンバー照会",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Number Match"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14230,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "鹿骨　はの４３４４",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Shishibone @bHa.@<は@> 43-44"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14231,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "所有者コード　６０３４３４４",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Owner: _____ _____"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14232,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "＜鹿骨市雛見沢村在住の一般人・前科なし＞",
+		"AfterTextTags": "@|@y",
+		"TextENG": "(Address: _-____ Hinamizawa Village, Shishibone)"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14233,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "車種：ステーションワゴン",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Vehicle make and model: _____ ______"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14234,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "盗難届け：無",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Theft reports: None"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14235,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "特記事項：特に無し",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Special mentions: Nothing of note"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14236,
+		"NamesJPN": "興宮ＰＳ",
+		"PreTextTags": "@vS20/00/VTP_OkeijiA_3003.",
+		"TextJPN": "「興宮ＰＳより大石車どうぞー。先ほどのナンバーが判明しましたー。@k@vS20/00/VTP_OkeijiA_3004.……………………大石車どうぞー？@k@vS20/00/VTP_OkeijiA_3005.　……………………………大石車、応答願います」",
+		"NamesENG": "Okinomiya PS",
+		"TextENG": "``Okinomiya Security Police to Ooishi. We found the license plate from earlier.@k@vS20/00/VTP_OkeijiA_3004. ............Ooishi, do you read?@k@vS20/00/VTP_OkeijiA_3005. ...............Ooishi, please respond."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14237,
+		"NamesJPN": "興宮ＰＳ",
+		"PreTextTags": "@vS20/00/VTP_OkeijiA_3006.",
+		"TextJPN": "「………………あれ？　…………電波、悪いのかな…………………。@k@vS20/00/VTP_OkeijiA_3007.……大石車応答ねが………………」",
+		"NamesENG": "Okinomiya PS",
+		"TextENG": ".........Hmm? ......Am I getting a bad signal.........?@k@vS20/00/VTP_OkeijiA_3007. ...Anyone in Ooishi's car, please re—``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14238,
+		"NamesJPN": "興宮ＰＳ",
+		"PreTextTags": "@vS20/00/VTP_OkeijiA_3008.",
+		"TextJPN": "「出ませんね」",
+		"NamesENG": "Okinomiya PS",
+		"TextENG": "``Nothing, eh?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14239,
+		"NamesJPN": "刑事",
+		"PreTextTags": "@vS20/00/VTP_OkeijiB_3001.",
+		"TextJPN": "「大石さんが車両照会？　誰の車だよ」",
+		"NamesENG": "Detective",
+		"TextENG": "``Ooishi-san wanted a license plate check? Whose car was it?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14240,
+		"NamesJPN": "興宮ＰＳ",
+		"PreTextTags": "@vS20/00/VTP_OkeijiA_3009.",
+		"TextJPN": "「村人の車ですね。……至って平凡な」",
+		"NamesENG": "Okinomiya PS",
+		"TextENG": "``Someone from the village. ...A completely average car.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14241,
+		"NamesJPN": "刑事",
+		"PreTextTags": "@vS20/00/VTP_OkeijiB_3002.",
+		"TextJPN": "「…何者だよ。大石さんが聞いてくるからには、只者じゃないんだろ？」",
+		"NamesENG": "Detective",
+		"TextENG": "``...Who was it? If Ooishi-san was asking, then it can't be anyone good, right?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14242,
+		"NamesJPN": "興宮ＰＳ",
+		"PreTextTags": "@vS20/00/VTP_OkeijiA_3010.",
+		"TextJPN": "「特記事項欄は完全に空欄ですね。Ｓ号指定もなし。@k@vS20/00/VTP_OkeijiA_3011.減点もなしだし」",
+		"NamesENG": "Okinomiya PS",
+		"TextENG": "``The special mentions column is completely blank. No indication it's related to the S-group, either.@k@vS20/00/VTP_OkeijiA_3011. And no demerits on it.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14243,
+		"NamesJPN": "刑事",
+		"PreTextTags": "@vS20/00/VTP_OkeijiC_3001.",
+		"TextJPN": "「…ははは、パッシングでもされて腹が立ったんじゃないの？　あの人、根に持つとなかなか忘れないタイプなんだよ」",
+		"NamesENG": "Detective",
+		"TextENG": "``...Hahaha. Maybe it passed him on the road and he got mad. That guy isn't the type to forget a grudge.``"
+	}
+]

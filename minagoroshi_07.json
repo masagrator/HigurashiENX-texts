@@ -1,2201 +1,2199 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "#7 祭具殿開放",
-            "ENG": "#7 / Opening Ritual Storehouse"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101940,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS12/10/181000064.",
-            "TextJPN": "「やぁ、梨花ちゃんが日曜日以外に診療所にいらっしゃるなんて珍しいですね」",
-            "NamesENG": "Irie",
-            "TextENG": "``Hello. I'm surprised to see you here on a day other than Sunday.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101941,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500309.",
-            "TextJPN": "「……鷹野とお話ししたいことがありますのです。@k@vS12/05/180500310.今日はいますですか？」",
-            "NamesENG": "Rika",
-            "TextENG": "``......I have something I want to ask Takano.@k@vS12/05/180500310. Is she here today?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101942,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS12/10/181000065.",
-            "TextJPN": "「いえ。@k@vS12/10/181000066.多分、リサさんとデートじゃないでしょうか。@k@vS12/10/181000067.いやいや、お羨ましい」",
-            "NamesENG": "Irie",
-            "TextENG": "``No.@k@vS12/10/181000066. She must be on a date with Risa-san.@k@vS12/10/181000067. Ahhh, I wish I had a date too.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101943,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500311.",
-            "TextJPN": "「……どうしてリサなのですか？@k@vS12/05/180500312.　よくわからない名前なのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Why do you call him Risa?@k@vS12/05/180500312. I don't understand.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101944,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS12/10/181000068.",
-            "TextJPN": "「はっはっは、それは本人に聞いてみてください。@k@vS12/10/181000069.初対面の時のちょっとした認識ミスなんですがね。@k@vS12/10/181000070.その時の先方の対応がとても面白かったもので」",
-            "NamesENG": "Irie",
-            "TextENG": "``Ha ha ha. You should ask him yourself.@k@vS12/10/181000069. It was a small mistake I made when we first met.@k@vS12/10/181000070. It was funny how he reacted.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101945,
-            "TextJPN": "よくわからない。@kあだ名なんてそんなものだ。",
-            "TextENG": "I don't get it.@k That's what nicknames are all about, though..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101946,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS12/10/181000071.",
-            "TextJPN": "「どんなご用件ですか？@k@vS12/10/181000072.　伝言でよければ、今夜、ミーティングがありますからその席上で伝えておきますよ」",
-            "NamesENG": "Irie",
-            "TextENG": "``What did you want to talk to her about?@k@vS12/10/181000072. I'll see her at the meeting tonight, so I'll take a message if you want.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101947,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500313.",
-            "TextJPN": "「……ありがとうなのです。@k@vS12/05/180500314.でも直接、言いますのでいいのですよ」",
-            "NamesENG": "Rika",
-            "TextENG": "``...Thank you very much.@k@vS12/05/180500314. But I'd rather talk to her directly.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101948,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS12/10/181000073.",
-            "TextJPN": "「そうですか、わかりました。@k@vS12/10/181000074.では私は書類事務に戻ります」",
-            "NamesENG": "Irie",
-            "TextENG": "``I see. Alright.@k@vS12/10/181000074. I should get back to my work now, then.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101949,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500315.",
-            "TextJPN": "「……今日は入江は診察はしていないですか？」",
-            "NamesENG": "Rika",
-            "TextENG": "``Are you not seeing any patients today...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101950,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS12/10/181000075.",
-            "TextJPN": "「今夜のミーティングの資料作りで大忙しです。@k@vS12/10/181000076.普段から準備はしているんですがね、日々の本業に圧迫されてなかなか時間が…。@k@vS12/10/181000077.なんて言うと、準備がなってないと怒られてしまいますね」",
-            "NamesENG": "Irie",
-            "TextENG": "``I've been busy with paperwork for the meeting tonight.@k@vS12/10/181000076. I've been preparing it for a while, but I didn't have enough time.@k@vS12/10/181000077. I'll get in trouble if it's not finished in time.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101951,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500316.",
-            "TextJPN": "「……それに加えて野球までやっているのですから、つくづく入江は元気だなと思いますです」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Aren't you busy coaching the baseball team too? You have so much energy.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101952,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS12/10/181000078.",
-            "TextJPN": "「はっはっは、本当に忙しいですよ。@k@vS12/10/181000079.家事や秘書を代行してくれる可愛いメイドさんを常時募集中なのですが、なかなか応募がありません」",
-            "NamesENG": "Irie",
-            "TextENG": "``Ha ha ha. I'm such a busy guy.@k@vS12/10/181000079. I've been looking for a cute maid who would take care of the chores and help me with other work, but I've had no such luck.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101953,
-            "TextJPN": "入江はそう言って笑いながら、腕時計を見る仕草をした。",
-            "TextENG": "He laughed and looked at his watch."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101954,
-            "TextJPN": "あまり時間を割けないというアピールなのだろう。",
-            "TextENG": "He seemed to be in a hurry."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101955,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500317.",
-            "TextJPN": "「……鷹野たちはどこへ行っているか、想像はつきますですか？」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Do you have any idea where Takano is right now?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101956,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS12/10/181000080.",
-            "TextJPN": "「村の中を色々と回るだろうと思います。@k@vS12/10/181000081.あ、でも、いつも待ち合わせは神社の境内なんだそうですよ。@k@vS12/10/181000082.鷹野さんは半ドンで帰られましたから、…ひょっとするとまだ境内にいるかもしれませんね」",
-            "NamesENG": "Irie",
-            "TextENG": "``They're probably going around to different places in the village.@k@vS12/10/181000081. I know that they always meet at the shrine.@k@vS12/10/181000082. She left not too long ago, so she might still be somewhere near there...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101957,
-            "TextJPN": "びっくりして壁時計を見上げる。",
-            "TextENG": "I looked at the clock on the wall."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101958,
-            "TextJPN": "…何だ、私と鷹野は入れ違いだったのか。",
-            "TextENG": "I must have just missed her."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101959,
-            "TextJPN": "ここで立ち話なんてしてる場合ではないようだ。",
-            "TextENG": "This was no time to be chatting with Irie."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101960,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500318.",
-            "TextJPN": "「……ありがとうなのですよ。@k@vS12/05/180500319.神社に戻ってみますです」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Thank you very much.@k@vS12/05/180500319. I'll try the shrine.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101961,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS12/10/181000083.",
-            "TextJPN": "「年に四度しかない逢瀬なんですから、あまり邪魔をしない方がいいと思いますよー？」",
-            "NamesENG": "Irie",
-            "TextENG": "``You shouldn't bother those lovers, since they only see each other four times a year!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101962,
-            "TextJPN": "とか言いながら、入江は悪戯っぽく笑って、いってらっしゃいと手を振るのだった。",
-            "TextENG": "He smiled mischievously and waved his hand in goodbye."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101963,
-            "TextJPN": "神社に戻ってくる。",
-            "TextENG": "I headed back to the shrine."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101964,
-            "TextJPN": "境内へ上がる階段の脇の、いつもの駐輪場所に自転車を停めようとした。",
-            "TextENG": "I was going to park my bike by the stairs that lead to the shrine grounds."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101965,
-            "TextJPN": "普段は私と沙都子の２台の自転車しか停められていない寂しい場所には、１０台くらいの自転車が停められていた。",
-            "TextENG": "Satoko and I are the only people who park our bikes there normally, but I saw more than ten bikes there today."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101966,
-            "TextJPN": "多分、集会所に会合に来ている人たちの自転車だろう。",
-            "TextENG": "People must be gathering at the convention room."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101967,
-            "TextJPN": "綿流しが近付くと会合も多くなるから、自転車もまた賑わうことになる。",
-            "TextENG": "There are more and more meetings when the Watanagashi festival draws closer."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101968,
-            "TextJPN": "そんな駐輪場の様子から夏の近付きを感じるのも乙なものだった。",
-            "TextENG": "Seeing all these bikes reminded me that summer is nearly here."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101969,
-            "TextJPN": "そんな１０台の自転車は、どれも煤けたオンボロ自転車ばかりなのだが、その中に明らかに目立つ、見慣れない２台の自転車が停められていた。",
-            "TextENG": "Most of the bikes were old and beat up. However, I saw two unfamiliar ones parked there."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101970,
-            "TextJPN": "スポーティな折り畳み式の自転車で、２台とも同じ車種の色違いで見るからにお揃いだ。",
-            "TextENG": "They were sporty mountain bikes with the same design but different colors."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101971,
-            "TextJPN": "富竹と鷹野の自転車に間違いない。",
-            "TextENG": "They must belong to Takano and Tomitake."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101972,
-            "TextJPN": "私は境内へ駆け上がり、二人の姿を探すが、簡単には見つけられなかった。",
-            "TextENG": "I went up the stairs to look for the two of them, but I couldn't find either."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101973,
-            "TextJPN": "他に写真を撮るのが面白そうな場所があったろうか……？",
-            "TextENG": "Was there any place with a great view for taking pictures...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101974,
-            "TextJPN": "富竹のセンスで探すが、どうしても見つけられない。",
-            "TextENG": "I tried looking in places like that, but I still couldn't find them."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101975,
-            "TextJPN": "…なので鷹野のセンスで探すことにした。",
-            "TextENG": "So I started looking based on what Takano might be interested in."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101976,
-            "TextJPN": "そうなると、行きそうな場所は一箇所しか思いつかなかった。",
-            "TextENG": "I could only think of one place."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101977,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900040.",
-            "TextJPN": "「どう？@k@vS12/09/180900041.　ジロウさん」",
-            "NamesENG": "Takano",
-            "TextENG": "``How is it?@k@vS12/09/180900041. Jirou-san?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101978,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS12/08/180800001.",
-            "TextJPN": "「うん。@k@vS12/08/180800002.シンプルなタイプだと思うよ。@k@vS12/08/180800003.道具があれば、多分、１分とかからないよ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Mm...@k@vS12/08/180800002. It's a pretty simple lock.@k@vS12/08/180800003. All I need is the right tool. I should be able to open it in a minute.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101979,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900042.",
-            "TextJPN": "「さすがね。@k@vS12/09/180900043.ジロウさんが得意なのは心の奥の錠前外しだけじゃないのね。@k@vS12/09/180900044.くすくす」",
-            "NamesENG": "Takano",
-            "TextENG": "``You can do that?@k@vS12/09/180900043. You opened the lock to my heart, but that's not the only thing you're good at, huh?@k@vS12/09/180900044. Hee hee.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101980,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500320.",
-            "TextJPN": "「……祟～りじゃ～～～～～」",
-            "NamesENG": "Rika",
-            "TextENG": "``......I'm going to cuuuuurse youuuuu.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101981,
-            "TextJPN": "私が祭具殿の裏から突然現れると、二人は飛び上がって驚いた。",
-            "TextENG": "The two of them jumped in surprise as I suddenly appeared in front of them."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101982,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900045.",
-            "TextJPN": "「あら、梨花ちゃん、こんにちは。@k@vS12/09/180900046.急に驚かすなんて人が悪いわね」",
-            "NamesENG": "Takano",
-            "TextENG": "``Hello, Rika-chan.@k@vS12/09/180900046. It wasn't nice of you to scare us like that.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101983,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500321.",
-            "TextJPN": "「……開かずの祭具殿の鍵を開けちゃおうとする人の方が、もっと悪いのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``......It's not nice to try and open the ritual storehouse's lock either.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101984,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS12/08/180800004.",
-            "TextJPN": "「あははははは…、駄目だよ鷹野さん。@k@vS12/08/180800005.やっぱり悪いことはするもんじゃないよ…」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Ahahahahaha... She's right, Takano-san.@k@vS12/08/180800005. We can't do something like that...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101985,
-            "TextJPN": "富竹は後ろめたい気持ちでいたらしく、あっさりと罪を認めて降参するが、やはり鷹野は素直じゃない。",
-            "TextENG": "Tomitake conceded right away, but Takano was stubborn."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101986,
-            "TextJPN": "あれこれと下らない言い訳をして誤魔化そうと頑張っていた。",
-            "TextENG": "She made up excuses to try and fool me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101987,
-            "TextJPN": "数多の世界から、鷹野が祭具殿の中に並々ならぬ関心を持っていることは知っている。",
-            "TextENG": "Based on my previous lives, I knew just how much interest she had in this storehouse."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101988,
-            "TextJPN": "だからこそ、よくもまぁ、ここまでいけしゃあしゃあと言い訳ができるものだと感心してしまう。",
-            "TextENG": "It was actually rather impressive how hard she tried to cover that up."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101989,
-            "TextJPN": "…祭具殿の中には、かつての鬼ヶ淵村の暗黒史が納められている。",
-            "TextENG": "The ritual storehouse is full of the remainder of the dark history of Onigafuchi."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101990,
-            "TextJPN": "早い話が、鷹野の大好きな血生臭くて物騒な、拷問道具の類が眠っているということだ。",
-            "TextENG": "It contains bloody and vicious tools that Takano is fascinated with."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101991,
-            "TextJPN": "鷹野だって、そういうものが納められていることを、様々な研究から薄々知っているはずだ。",
-            "TextENG": "She should have a good idea as to what those things are inside of this storehouse, based on what she has been researching."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101992,
-            "TextJPN": "だからこそ、貴重な文化遺産がどうこうなんてのは、この場を逃れるためだけの鷹野の言い訳に過ぎない。",
-            "TextENG": "She was making up some story about cultural treasures and such, but it was obvious that she was just making excuses."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101993,
-            "TextJPN": "そんな苦し紛れの、にも拘らず実に涼やかに並べていく鷹野の様子を、富竹も別の意味で感心しているようだった。",
-            "TextENG": "Tomitake also seemed impressed, listening to Takano's phony justifications."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101994,
-            "TextJPN": "私が鷹野に祭具殿の中を見せるのを渋るのは、……この村にとっては神聖な意味合いのある鬼ヶ淵村の歴史を、猟奇趣味丸出しで関心を持つからだ。@kそれはある意味で冒涜的だ。",
-            "TextENG": "In the past, I've tried to conceal what was inside of this storehouse from Takano because I don't want her spreading information about the holy and brutal traditions they used to have in Onigafuchi Village.@k It would be a disgrace."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101995,
-            "TextJPN": "もはや滅びかけているとはいえ、御三家のひとつ、古手家に生まれた自分にとって、それを許すいわれはない。",
-            "TextENG": "As a member of the Furude family, I can't let that happen."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101996,
-            "TextJPN": "それに、鬼ヶ淵村が辿って来た歴史を鷹野風に解釈することは、羽入にとって苦々しいことでしかないのだ。",
-            "TextENG": "Looking at the history of Onigafuchi in the way Takano does is a painful thing for Hanyuu as well."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101997,
-            "TextJPN": "また、羽入にとって祭具殿は少し特別な場所なのだ。",
-            "TextENG": "For Hanyuu, the ritual storehouse is a special place."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101998,
-            "TextJPN": "あんな拷問道具だらけの物騒な場所の何がいいのか、私には最初わからなかったが、@k羽入に言わせると、昔の空気が残る唯一の場所で非常に居心地がいいのだという。",
-            "TextENG": "I don't know what's so nice about being surrounded by those scary ritual tools,@k but she feels cozy when she's surrounded by the smell of old times."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 101999,
-            "TextJPN": "だから祭具殿は、実は羽入の隠れ家みたいなものだった。",
-            "TextENG": "This storage is like Hanyuu's hideout."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102000,
-            "TextJPN": "姿が見えない時は、祭具殿でくつろいでいるのだという。",
-            "TextENG": "When I can't see her, she's usually relaxing in here."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102001,
-            "TextJPN": "そんな、羽入にとっての居場所を、鷹野の血生臭い趣味で穢してほしくない。",
-            "TextENG": "I don't want Hanyuu's happy place to be turned into the bloody, horrifying den of evil Takano believes it to be."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102002,
-            "TextJPN": "そう思い、私は鷹野に中を見せないよう、意地悪をしてきた。",
-            "TextENG": "That's why I've been keeping Takano away from the ritual storehouse."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102003,
-            "TextJPN": "……鷹野にどうして私は意地悪をするのだろう。",
-            "TextENG": "...Come to think of it, why am I so mean to her?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102004,
-            "TextJPN": "私の毛嫌いからだ。",
-            "TextENG": "Is it because I hate her?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102005,
-            "TextJPN": "でも、それはもうやめよう。",
-            "TextENG": "I should stop feeling that way."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102006,
-            "TextJPN": "鷹野や富竹と、私は連携を密にしなければならないのだ。",
-            "TextENG": "I have to keep in close contact with Takano and Tomitake."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102007,
-            "TextJPN": "今までも駄目だったから今回も駄目というのはなしだ。",
-            "TextENG": "I won't give up just because it didn't work before."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102008,
-            "TextJPN": "とにかく、もう一度挑戦してみよう。",
-            "TextENG": "I'm going to try one more time."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102009,
-            "TextJPN": "今回は色々と幸運が重なる世界なのだ。",
-            "TextENG": "This world is different from the other ones."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102010,
-            "TextJPN": "ひょっとすると、彼らの運命を変え、連鎖的に私の運命に変化をもたらすこともできるかもしれないのだから。",
-            "TextENG": "I might be able to change their fate, which in turn might change my own."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102011,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500322.",
-            "TextJPN": "「羽入。@k@vS12/05/180500323.……鷹野に、祭具殿の中を見せてあげようと思うの」",
-            "NamesENG": "Rika",
-            "TextENG": "``Hanyuu.@k@vS12/05/180500323. ......I'm thinking about showing the ritual storehouse to Takano...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102012,
-            "NamesJPN": "羽入",
-            "PreTextTags": "@vS12/12/181100097.",
-            "TextJPN": "「……あぅあぅ」",
-            "NamesENG": "Hanyuu",
-            "TextENG": "``.........Au au.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102013,
-            "TextJPN": "羽入が露骨に嫌そうな顔をした。@k…鷹野は中を見ればきっと狂喜する。",
-            "TextENG": "Hanyuu made an irritated face.@k Takano will lose herself in ecstasy if she sees what's inside of there."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102014,
-            "TextJPN": "そして鬼ヶ淵村の血まみれの暗黒史を、尾ひれたっぷりに語り始めるに違いない。",
-            "TextENG": "She'll run around spreading rumors of the bloody history of Onigafuchi."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102015,
-            "TextJPN": "それは羽入にとって心地よいものではない。",
-            "TextENG": "Hanyuu wasn't too excited about that prospect."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102016,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500324.",
-            "TextJPN": "「……鷹野にごまをするわけじゃない。@k@vS12/05/180500325.でも、話を聞いてもらう切っ掛けにはなるんじゃないかと思うの。@k@vS12/05/180500326.鷹野は根に持つから、ここで意地悪をすると、私の話をちゃんと聞いてくれないかもしれない」",
-            "NamesENG": "Rika",
-            "TextENG": "``I'm not trying to curry favor with Takano.@k@vS12/05/180500325. But I think it might give me a chance to talk to her.@k@vS12/05/180500326. Takano holds onto grudges, so if I'm mean to her now, she might not listen to me later.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102017,
-            "NamesJPN": "羽入",
-            "PreTextTags": "@vS12/12/181100098.",
-            "TextJPN": "「あぅあぅあぅ……」",
-            "NamesENG": "Hanyuu",
-            "TextENG": "``Au au au...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102018,
-            "TextJPN": "…ごますり程度で、自分の神聖な場所を暴かれたくないという気持ちはよくわかる。",
-            "TextENG": "I understand that Hanyuu doesn't want her inside this holy place."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102019,
-            "TextJPN": "だが羽入は、あぅあぅ言う以上の反論はできない。@k…結局、全ての主導権は私にある。",
-            "TextENG": "But she can't do anything more than be irritated about it.@k I'm the only one who can make the ultimate decision."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102020,
-            "TextJPN": "後できっと甘いものをご馳走する約束で、ようやく羽入は納得するのだった。",
-            "TextENG": "Besides, she'll forgive me if I promise to eat something sweet later."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102021,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500327.",
-            "TextJPN": "「……鷹野。@k@vS12/05/180500328.もしも約束を守ってくれるのでしたら、中に入れてあげてもいいのですよ」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Takano.@k@vS12/05/180500328. If you will keep a secret, I'll let you in.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102022,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900047.",
-            "TextJPN": "「ほッ、本当に…？！@k@vS12/09/180900048.　祭具殿の中よ？@k@vS12/09/180900049.　中は中でも防災倉庫の中とかはなしよ？！」",
-            "NamesENG": "Takano",
-            "TextENG": "``R-Really...?!@k@vS12/09/180900048. Inside the ritual storehouse?@k@vS12/09/180900049. You don't mean inside an emergency shelter, right?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102023,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500329.",
-            "TextJPN": "「……本当ですよ。@k@vS12/05/180500330.ちゃんと祭具殿の中なのですよ」",
-            "NamesENG": "Rika",
-            "TextENG": "``......I mean it.@k@vS12/05/180500330. I'll let you into the ritual storehouse.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102024,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900050.",
-            "TextJPN": "「祭具殿って、ここよ？！@k@vS12/09/180900051.　この建物の中なのよ？！」",
-            "NamesENG": "Takano",
-            "TextENG": "``You mean this storehouse?!@k@vS12/09/180900051. Inside of this building?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102025,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500331.",
-            "TextJPN": "「……別に誤魔化す気はありませんですよ。@k@vS12/05/180500332.ちゃんとこの中に入れてあげますです。@k@vS12/05/180500333.にぱ～☆」",
-            "NamesENG": "Rika",
-            "TextENG": "``......I'm not trying to trick you or anything.@k@vS12/05/180500332. I'll let you inside.@k@vS12/05/180500333. Nipah~☆``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102026,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900052.",
-            "TextJPN": "「に……、にぱ――@r丶（＞▽＜）ノ――！」",
-            "NamesENG": "Takano",
-            "TextENG": "``N... Nipah――@r丶（＞▽＜）ノ――!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102027,
-            "TextJPN": "こ、こんなにも乙女顔で満面な笑みを浮かべる鷹野を、私は初めて見た。",
-            "TextENG": "I had never seen such a big smile on her face before."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102028,
-            "TextJPN": "…百年を超える長い時間の中で本当に初めて見る笑顔なのだから、ある意味、圭一の奇跡と同等クラスの価値のあるレア表情に違いない…。",
-            "TextENG": "...Now this is a miracle. I'm seeing this face for the first time in a hundred years..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102029,
-            "TextJPN": "私ですらそうなのだから、それは富竹にとっても同じだったようだ。",
-            "TextENG": "Tomitake must be feeling the same way."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102030,
-            "TextJPN": "おそらく、富竹の中の、知性的な鷹野像が豪快な音を立てて崩壊中に違いない。",
-            "TextENG": "His image of Takano was slowly falling apart as we spoke, I'm sure."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102031,
-            "TextJPN": "……いや、新しい魅力を新発見というところだろうか…？",
-            "TextENG": "...No, maybe he just found a new side of her to love, instead."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102032,
-            "NamesJPN": "羽入",
-            "PreTextTags": "@vS12/12/181100099.",
-            "TextJPN": "「………鷹野って、結構面白い人だったのでびっくりなのです…」",
-            "NamesENG": "Hanyuu",
-            "TextENG": "``......I'm surprised that Takano is actually such a funny person.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102033,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500334.",
-            "TextJPN": "「…やっぱりコミュニケーションって大事ね。@k@vS12/05/180500335.人を知るのってつくづく難しいと思い知るわ…」",
-            "NamesENG": "Rika",
-            "TextENG": "``Communication is important.@k@vS12/05/180500335. It's sometimes so hard to tell what people are all about...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102034,
-            "TextJPN": "私たちはしばらくの間、バラの花びらをばら撒きながら、くるくると踊り続けて、無上の喜びを表現する鷹野を見守っているのだった。",
-            "TextENG": "We remained there and watched Takano spinning in delight for a while."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102035,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500336.",
-            "TextJPN": "「……中には内緒で入れるのですから、他の人に見つかってはいけませんですよ」",
-            "NamesENG": "Rika",
-            "TextENG": "``......This is a secret, so no one can see us going inside.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102036,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS12/08/180800006.",
-            "TextJPN": "「あ、あぁ、そうだよね。@k@vS12/08/180800007.鷹野さんを正気に戻しておくよ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Ah, aah, you're right.@k@vS12/08/180800007. I'll try and calm her down.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102037,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500337.",
-            "TextJPN": "「……ボクはその間に鍵を持ってきますです」",
-            "NamesENG": "Rika",
-            "TextENG": "``......I'll go get the keys now.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102038,
-            "TextJPN": "鍵を持って帰る頃には、鷹野はすっかりいつもの落ち着いた様子に戻っていた。",
-            "TextENG": "By the time I came back with the key, Takano was totally calm again."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102039,
-            "TextJPN": "でも、堪え切れなくなるのか、たまに表情が崩れて、だらしなくエヘヘと笑い出す。",
-            "TextENG": "She was obviously trying to hide how gleeful she was, though."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102040,
-            "TextJPN": "……一見、ものすごく大人っぽく見えるのに、実は一番子供っぽい人なのかもしれない。",
-            "TextENG": "I thought she was a mature lady, but she might still be a kid at heart."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102041,
-            "TextJPN": "こういうギャップを萌えと言うんだっけ？",
-            "TextENG": "I think they called that something like 'gap moe'."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102042,
-            "TextJPN": "圭一にどこかで習ったが、用法がいまいちよくわからない…。",
-            "TextENG": "I picked that term up at some point from Keiichi, but I'm still not sure how it's used..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102043,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500338.",
-            "TextJPN": "「……では鷹野、富竹。@k@vS12/05/180500339.中に入る前に、いくつか約束がありますです。@k@vS12/05/180500340.ちゃんと誓ってくれないと駄目なのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Well then, Takano and Tomitake.@k@vS12/05/180500339. Before we go inside, you must promise me something.@k@vS12/05/180500340. Otherwise, you can't go in.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102044,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900053.",
-            "TextJPN": "「もちろんよ。@k@vS12/09/180900054.開かずの祭具殿を、古手家頭首が自ら開けてくれる禁を犯すのだもの。@k@vS12/09/180900055.約束は守るわ。@k@vS12/09/180900056.………うふふふふふふふ！」",
-            "NamesENG": "Takano",
-            "TextENG": "``Of course.@k@vS12/09/180900054. You're willing to break the rules to open the forbidden storehouse for us.@k@vS12/09/180900055. We'll keep our promises.@k@vS12/09/180900056. Hee hee hee hee hee hee!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102045,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS12/08/180800008.",
-            "TextJPN": "「…駄目だよ鷹野さん、ちゃんと真面目にやらなきゃ…」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Takano-san, you have to take this seriously...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102046,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900057.",
-            "TextJPN": "「失礼ね、私はとても真面目よ？！@k@vS12/09/180900058.　うふうふうふふふ…！」",
-            "NamesENG": "Takano",
-            "TextENG": "``I am taking it seriously!@k@vS12/09/180900058. Hee hee hee hee hee hee...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102047,
-            "NamesJPN": "羽入",
-            "PreTextTags": "@vS12/12/181100100.",
-            "TextJPN": "「……僕の中の鷹野のイメージが、今、大変なことになっていますのです」",
-            "NamesENG": "Hanyuu",
-            "TextENG": "``My image of Takano is falling to pieces right now...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102048,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500341.",
-            "TextJPN": "「私もよ。@k@vS12/05/180500342.鷹野の株価が世界恐慌で大暴落って感じ……」",
-            "NamesENG": "Rika",
-            "TextENG": "``Same here...@k@vS12/05/180500342. Her market is crashing all over the world...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102049,
-            "TextJPN": "…レナが言ったんだっけ。",
-            "TextENG": "Rena said it before..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102050,
-            "TextJPN": "……やはりひとりでうじうじと考えてると駄目だなと思った。",
-            "TextENG": "It's not a good idea to think about problems all on your own..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102051,
-            "TextJPN": "私は鷹野の猟奇趣味的なところが嫌いで、どこか冷たそうな雰囲気に近寄りがたいものを感じていたのだが…。",
-            "TextENG": "I always hated the crazy part of Takano, and I didn't want to be close to her...."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102052,
-            "TextJPN": "………こういう人だったとは夢にも思わなかった。",
-            "TextENG": "But I never thought she could act this way..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102053,
-            "TextJPN": "これじゃその、何ていうのか、お持ち帰りモードのレナと似たようなもんだ。",
-            "TextENG": "She was acting almost like Rena does when in her Kyute Mode."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102054,
-            "TextJPN": "こんな面白い人だともっと早く知っていたなら、私は鷹野に一方的な苦手意識など持たなかったかもしれない。",
-            "TextENG": "Had I known that she was as funny a person as this, I wouldn't have felt resentment toward her."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102055,
-            "TextJPN": "……やはりコミュニケーションは大事なんだなぁ…。",
-            "TextENG": "I realize how important communicating can be..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102056,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500343.",
-            "TextJPN": "「……まず、祭具殿へ入ったことは内緒なのですよ。@k@vS12/05/180500344.誰にも教えてはいけませんです」",
-            "NamesENG": "Rika",
-            "TextENG": "``......First of all, you have to promise you won't tell anybody that you went inside the storehouse.@k@vS12/05/180500344. Do not tell anyone.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102057,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900059.",
-            "TextJPN": "「もちろんよ、誓うわ」",
-            "NamesENG": "Takano",
-            "TextENG": "``Of course I won't. I'll promise.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102058,
-            "TextJPN": "鷹野は頼んでもいないのに、胸に手を当て、宣誓のポーズをする。",
-            "TextENG": "Takano put her hands to her chest."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102059,
-            "TextJPN": "そして同じポーズを富竹にも要求するのだった。",
-            "TextENG": "She also forced Tomitake to do the same."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102060,
-            "TextJPN": "…何とか鷹野のテンションに追いつこうと頑張る富竹のささやかな努力が滑稽で笑える。",
-            "TextENG": "It was funny to watch Tomitake trying to keep up with Takano too."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102061,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500345.",
-            "TextJPN": "「中はとても大切な場所ですから、汚したり傷つけたりしちゃ駄目なのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``Also, you can't damage anything inside the storehouse.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102062,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900060.",
-            "TextJPN": "「もちろんわかってるわ。@k@vS12/09/180900061.それで、撮影は可能なの？！」",
-            "NamesENG": "Takano",
-            "TextENG": "``Of course not.@k@vS12/09/180900061. Is it okay if I take pictures?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102063,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500346.",
-            "TextJPN": "「……みー。@k@vS12/05/180500347.可能ですが１枚１００円なのですよ」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Meep.@k@vS12/05/180500347. You can, but I'll charge a hundred yen per picture.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102064,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900062.",
-            "TextJPN": "「えええぇえぇ！！」",
-            "NamesENG": "Takano",
-            "TextENG": "``Whaaaat?!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102065,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900063.",
-            "TextJPN": "「ジロウさん、あなた今いくら持ってるかしら？！」",
-            "NamesENG": "Takano",
-            "TextENG": "How much money do you have on you right now, Jirou-san?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102066,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500348.",
-            "TextJPN": "「……１万円払うと、お得な一日撮り放題券になりますです」",
-            "NamesENG": "Rika",
-            "TextENG": "``If you pay me 10,000 yen, you can take all the photos you want.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102067,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900064.",
-            "TextJPN": "「安い！！」",
-            "NamesENG": "Takano",
-            "TextENG": "``That's a good deal!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102068,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900065.",
-            "TextJPN": "「払うわ！！」",
-            "NamesENG": "Takano",
-            "TextENG": "I'll take it!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102069,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900066.",
-            "TextJPN": "「ジロウさん！」",
-            "NamesENG": "Takano",
-            "TextENG": "Jirou-san!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102070,
-            "TextJPN": "本当に払ってくれた…。",
-            "TextENG": "They paid me the money for real..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102071,
-            "TextJPN": "金銭欲のない羽入でも、お金がデザートに化けることは理解できているので、目をきらきらと輝かせる。",
-            "TextENG": "Hanyuu seemed excited, knowing that the money could be used for buying desserts."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102072,
-            "NamesJPN": "羽入",
-            "PreTextTags": "@vS12/12/181100101.",
-            "TextJPN": "「あぅあぅあぅ☆@k@vS12/12/181100102.　鷹野はとてもいい人なのです…！」",
-            "NamesENG": "Hanyuu",
-            "TextENG": "``Au au au☆@k@vS12/12/181100102. Takano is such a nice person...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102073,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500349.",
-            "TextJPN": "「……あんたも現金ねぇ」",
-            "NamesENG": "Rika",
-            "TextENG": "``You're so greedy...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102074,
-            "TextJPN": "まぁ、祭具殿の主である『オヤシロさま』のご許可も取れたようだ。@k三方丸く収まれば問題はない。",
-            "TextENG": "I finally got approval from ``Oyashiro-sama``, the master of the storehouse.@k We'd have no more problems now."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102075,
-            "TextJPN": "祭具殿は集会所の裏にある。",
-            "TextENG": "The ritual storehouse is behind the building with the convention room."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102076,
-            "TextJPN": "集会所の中は禁煙になっているので、たまに外へ出てタバコを吸う人もいた。",
-            "TextENG": "Sometimes, people come out for a cigarette break."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102077,
-            "TextJPN": "そういう人に見られるわけにはいかない。",
-            "TextENG": "I can't let anybody see us entering."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102078,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS12/08/180800009.",
-            "TextJPN": "「………大丈夫。@k@vS12/08/180800010.誰もいないよ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``......You're good.@k@vS12/08/180800010. No one is around.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102079,
-            "TextJPN": "富竹が周辺の様子をうかがい、ＯＫサインを出した。",
-            "TextENG": "Tomitake checked out the scene and gave me the signal to go ahead."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102080,
-            "TextJPN": "私は頷き返し、錠前を外した。",
-            "TextENG": "I nodded at him and unlocked the door."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102081,
-            "TextJPN": "重い観音扉を、体を滑り込ませられる程度だけ開き、私は中に誘った。",
-            "TextENG": "I pushed open the heavy door just far enough for us to sneak inside."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102082,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500350.",
-            "TextJPN": "「……富竹が表で待っていると不審に思われますです」",
-            "NamesENG": "Rika",
-            "TextENG": "``......It'll look suspicious if you wait outside like that.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102083,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS12/08/180800011.",
-            "TextJPN": "「え？！@k@vS12/08/180800012.　ぼ、僕も入るのかい？」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``What?@k@vS12/08/180800012. I can come inside too...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102084,
-            "TextJPN": "富竹は表でタバコでも吸って待ってるつもりだったらしく、急に振られて面食らっているようだった。",
-            "TextENG": "He seemed surprised that I was asking him to come inside with us."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102085,
-            "TextJPN": "……富竹に、鷹野のような変な趣味がないことは知っている。@kそれを思えば当然の反応だった。",
-            "TextENG": "Tomitake, of course, wasn't particularly interested in what was inside the storehouse.@k I expected his surprised reaction."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102086,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900067.",
-            "TextJPN": "「ジロウさん！@k@vS12/09/180900068.　梨花ちゃんが入れって言ってるのよ！@k@vS12/09/180900069.　早く入って？！」",
-            "NamesENG": "Takano",
-            "TextENG": "``Jirou-san!@k@vS12/09/180900068. Rika-chan is telling you to come inside!@k@vS12/09/180900069. Come on now!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102087,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS12/08/180800013.",
-            "TextJPN": "「わわ、わかったよ…！」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``A-All right...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102088,
-            "TextJPN": "鷹野に凄まれて、富竹は慌てて飛び込んできた。",
-            "TextENG": "Tomitake squeezed inside as Takano urged him."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102089,
-            "TextJPN": "私は灯りのスイッチを入れると扉を閉めた。@kそして、内側からかんぬきを掛ける。",
-            "TextENG": "I turned the light on and closed the door.@k Then I put the chain on from inside."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102090,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900070.",
-            "TextJPN": "「…厳重なのね」",
-            "NamesENG": "Takano",
-            "TextENG": "``You're locking us in...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102091,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500351.",
-            "TextJPN": "「錠前が外れていることに気付いた、悪い猫さんが入ってくると困りますのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``Just so that a bad kitty cat won't sneak inside, you know.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102092,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900071.",
-            "TextJPN": "「くすくす、悪い猫さんで申し訳ないわね」",
-            "NamesENG": "Takano",
-            "TextENG": "``Hee hee, are you talking about me?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102093,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500352.",
-            "TextJPN": "「……鷹野、猫は猫らしく、にゃーにゃー鳴かないと駄目なのですよ。@k@vS12/05/180500353.にぱ～☆」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Takano, a cat is supposed to go all 'meow, meow'...@k@vS12/05/180500353. Nipah~☆``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102094,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900072.",
-            "TextJPN": "「そ、それはどういうことかしら…？」",
-            "NamesENG": "Takano",
-            "TextENG": "``What do you mean?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102095,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500354.",
-            "TextJPN": "「……鷹野がちゃんと猫さんじゃないと見せてあげないのです。@k@vS12/05/180500355.ちゃんと鈴付き首輪と猫耳も持ってきましたですよ」",
-            "NamesENG": "Rika",
-            "TextENG": "``......If you don't act like a cat, I'm not going to let you see what's in here.@k@vS12/05/180500355. I brought cat ears and a collar with a bell for you too."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102096,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500356.",
-            "TextJPN": "「これをつけて、四つん這いになってにゃーにゃー言ってくれなかったら、次の扉を開けてあげませんです」",
-            "NamesENG": "Rika",
-            "TextENG": "If you don't put them on, get on all fours, and meow, then I won't open the next door.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102097,
-            "TextJPN": "祭具殿は、外から内部が見えないよう、前室が設けてあって、二重扉の構造になっている。",
-            "TextENG": "The shrine storehouse has two doors so that people can't see inside when the first door is opened."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102098,
-            "TextJPN": "今、私たちがいるのはこの前室なのだ。@k祭具殿は次の扉の向こうになる。",
-            "TextENG": "At the moment, we were inside the entry chamber.@k The real storehouse is in the room beyond."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102099,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS12/08/180800014.",
-            "TextJPN": "「え、えぇ？！」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``W-Whaat?!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102100,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS12/08/180800015.",
-            "TextJPN": "「あ、あははは、梨花ちゃんもキツイなぁ…！@k@vS12/08/180800016.　いくらなんでもそんなの…、」",
-            "NamesENG": "Tomitake",
-            "TextENG": "Ah, ahahaha, that's a bad joke, Rika-chan...!@k@vS12/08/180800016. You wouldn't really...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102101,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900073.",
-            "TextJPN": "「え、………えぇ、それが試練ならやるわ…！」",
-            "NamesENG": "Takano",
-            "TextENG": "``Huh? What the hell. I'll do it if I have to!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102102,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900074.",
-            "TextJPN": "「これは梨花ちゃんが、私の知的探究心がどれだけ一途で高貴か試しているのよ…！」",
-            "NamesENG": "Takano",
-            "TextENG": "You're testing me to see how devoted I am to my research, aren't you, Rika-chan?!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102103,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900075.",
-            "TextJPN": "「いいわ、あなたが望むなら、猫耳と尻尾付きで、四つん這いになって前足で顔を洗いながら、『ご主人様大好きだにゃ～♪』だって言ってみせる！！」",
-            "NamesENG": "Takano",
-            "TextENG": "Fine! If that's what you want, then I'll wear cat ears, bloomers, and a tail, crawl on all on fours before an empty milk bowl, and beg, 'Please let me drink your milk, Master!!'``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102104,
-            "NamesJPN": "羽入",
-            "PreTextTags": "@vS12/12/181100103.",
-            "TextJPN": "「………鷹野って、みんなと同じくらいの歳だったら、きっと部活メンバーに混じっていたと思いますのです」",
-            "NamesENG": "Hanyuu",
-            "TextENG": "``She definitely would've joined our club if she was around our age...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102105,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500357.",
-            "TextJPN": "「そうね……。@k@vS12/05/180500358.ほら、世界恐慌の時、ウォール街で紙切れになった株券が雪のように舞ったというじゃない？@k@vS12/05/180500359.　何かそういう感じよ、鷹野の株……」",
-            "NamesENG": "Rika",
-            "TextENG": "``I agree...@k@vS12/05/180500358. Hey, remember how they said shredded stocks fell like snow on Wall Street during the Great Crash?@k@vS12/05/180500359. Takano's value right now reminds me of that...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102106,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900076.",
-            "TextJPN": "「さぁさぁ、梨花ちゃん、やり遂げてみせるわよ！@k@vS12/09/180900077.　猫耳と首輪だけでいいの？！」",
-            "NamesENG": "Takano",
-            "TextENG": "``Bring it on, Rika-chan!@k@vS12/09/180900077. Are you sure I only have to wear the ears and the collar?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102107,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS12/08/180800017.",
-            "TextJPN": "「あ、……あのぅ、鷹野さん。@k@vS12/08/180800018.そもそもこの扉、鍵なんかないよ…？@k@vS12/08/180800019.　ほら、押せば開く」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Uh... Umm, Takano-san?@k@vS12/08/180800018. This door isn't even locked...@k@vS12/08/180800019. See, push and it opens.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102108,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900078.",
-            "TextJPN": "「そ、そうなの？！@k@vS12/09/180900079.　くすくすくすくす、あら嫌だ私ったらみっともない…。@k@vS12/09/180900080.くすくすくすくす」",
-            "NamesENG": "Takano",
-            "TextENG": "``R-Really?!@k@vS12/09/180900079. Hee hee hee, my dear, how shameful of me...@k@vS12/09/180900080. Hee hee hee hee hee...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102109,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500360_1.",
-            "TextJPN": "「……ち」",
-            "NamesENG": "Rika",
-            "TextENG": "``Tsk...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102110,
-            "TextJPN": "富竹め、案外面白くないヤツー！@k　ブラウン管の向こうの神さまを今、どれだけ敵に回したと思ってやがるー。",
-            "TextENG": "Tomitake has no sense of humor!@k He just turned off a lot of viewers who were looking forward to seeing Takano in the cat outfit."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102111,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500361.",
-            "TextJPN": "「……と、冗談はこのくらいにして、押せば開きますのです。@k@vS12/05/180500362.にぱ～☆」",
-            "NamesENG": "Rika",
-            "TextENG": "``Anyway, he's right. You just have to push it.@k@vS12/05/180500362. Nipah~☆``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102112,
-            "TextJPN": "開けば、そここそ祭具殿の内部だった。",
-            "TextENG": "Once we went through the door, we found ourselves inside the storage area."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102113,
-            "TextJPN": "採光の窓などないから昼間でも中は真っ暗だ。",
-            "TextENG": "There were no windows in there, so it was completely dark, even during the day."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102114,
-            "TextJPN": "内部を照らす電球がいくつも吊り下げられているが、その灯りは弱々しく、かえって暗さを引き立てているようにさえ見えた。",
-            "TextENG": "There were several light bulbs hanging from the ceiling, but they were dim, and their light only exaggerated the darkness inside."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102115,
-            "TextJPN": "その薄暗い中に、中央にはオヤシロさまのご神体と祭壇があり、@kその周りには、オヤシロさまを埋めてしまおうというくらいに、たくさんの古代の道具類があった。",
-            "TextENG": "Oyashiro-sama's statue and the altar dominated the center of the room.@k They were surrounded by tons of ancient torture implements."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102116,
-            "TextJPN": "床には所狭しと置かれ、壁という壁に掛けられ、天井という天井にぶら下げられている。",
-            "TextENG": "They were all over the floor, walls, and ceiling."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102117,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS12/08/180800020.",
-            "TextJPN": "「…………こ、………これは、……すごいねぇ……ははは…」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``This... is... ...amazing... hahaha...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102118,
-            "TextJPN": "さすがの富竹も絶句する。",
-            "TextENG": "Tomitake was rendered speechless."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102119,
-            "TextJPN": "お化け屋敷などの模造品なんかとは訳が違う。",
-            "TextENG": "They were nothing like those fake torture implements that they might have seen in a wax museum or someplace like that."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102120,
-            "TextJPN": "ここにあるのは正真正銘、本物なのだ。",
-            "TextENG": "The tools in this room are the genuine articles."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102121,
-            "TextJPN": "模造品には到底宿りえない、鬼気迫る迫力がここにはあるはずで、……妙なリアル感が目に映る以上のものを想像せずにはいられない。",
-            "TextENG": "These authentic tools always have a big impact on the people who see them."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102122,
-            "TextJPN": "……でも、そういう迫力に絶句しているのは、正常な神経を持つ富竹だけかもしれない。",
-            "TextENG": "But Tomitake was the only one who was shocked, since he was the only normal person in the room."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102123,
-            "TextJPN": "鷹野は目をらんらんと輝かせて、頼んでもいないのに、にゃーにゃー言いながら、カメラのフラッシュをたき続けていた。",
-            "TextENG": "Takano's eyes were sparkling. She was taking pictures while meowing like a cat."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102124,
-            "TextJPN": "私にとっては、…ここは特別な感情を抱く場所ではない。",
-            "TextENG": "This place... isn't special to me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102125,
-            "TextJPN": "もちろん、神聖な意味があり、厳重に守らなければならない場所であることは十分知っている。",
-            "TextENG": "Of course, I know I'm supposed to treat it as a holy place, but..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102126,
-            "TextJPN": "でも、小さい頃から色々な神事がある度に出入りしていたので、見慣れている。",
-            "TextENG": "I'm so used to seeing all these things after coming here countless times since I was little."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102127,
-            "TextJPN": "古臭い過去の遺物がいつまでも仕舞い込まれた、封印された倉庫でしかない。",
-            "TextENG": "To me, it's nothing but a storehouse with a lot of old stuff inside."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102128,
-            "TextJPN": "羽入に至っては、古い時代の空気を現代に残す唯一の場所と思い、むしろ居心地がいいと思っているくらいだ。",
-            "TextENG": "As for Hanyuu, she says it's the only place the air from times past lingers in this present day, so she actually finds it comforting."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102129,
-            "TextJPN": "だから、羽入とここへ来ると、羽入の上機嫌に釣られて私も機嫌がよくなる。",
-            "TextENG": "I get in a good mood when I come here, because Hanyuu gets in a good mood."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102130,
-            "TextJPN": "……そういう、居心地のよい場所なのだった。",
-            "TextENG": "This is a relaxing place for her..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102131,
-            "TextJPN": "だから富竹が絶句する、いわゆる正常な反応を見ていると、自分たちがいかに世間ずれしているかを思い知らされてしまう。",
-            "TextENG": "As I watched Tomitake's reaction, I notice how totally off my values are from normal people's."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102132,
-            "TextJPN": "その意味においてだけ、鷹野のような反応を示してくれた方が、むしろ気にならなくてよかった。",
-            "TextENG": "Takano's reaction seemed more natural to me, in a sense."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102133,
-            "TextJPN": "羽入も、富竹の表情が気になるようで、少し俯き気味なようだった。",
-            "TextENG": "Hanyuu seemed to be bothered by Tomitake's reaction too."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102134,
-            "TextJPN": "……無理に富竹を中に誘ったのは失敗だったかもしれない。@k…今さら出て行けとも言えないか。",
-            "TextENG": "Maybe it was a bad idea to let him come inside after all.@k Not like I could kick him out at this point..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102135,
-            "TextJPN": "私と羽入は祭壇の前にある座布団に座り、嬉々として跳ね回る鷹野と、何とか付いて行こうと涙ぐましい努力をする富竹の二人を眺めていた。",
-            "TextENG": "Hanyuu and I sat on a cushion in front of the altar, and watched Takano dance with childish glee while Tomitake made touching efforts to keep up."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102136,
-            "TextJPN": "とりあえず、黙っていると恐ろしさが増すと思ったのか、さっきから富竹がさかんに変わった形の道具を見つけては、隣の鷹野に尋ねている。",
-            "TextENG": "At any rate, as if he thought that keeping quiet would make him more frightening, Tomitake had been asking Takano next to him about the unusual shaped tools he had found earlier."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102137,
-            "TextJPN": "……そのたびに、ご機嫌状態で興奮している彼女からその残酷な用途、そして血と闇に彩られた裏話を聞かされて、余計に震えあがる様子がおかしくて、見ていて飽きなかった。",
-            "TextENG": "......Each time she was in a good mood and excited, she told him about its cruel uses and the backstory colored by blood and darkness, which made him shiver even more, which was funny and I never got tired of watching it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102138,
-            "TextJPN": "富竹は、鷹野と会話を合わせようと頑張っているが、どう頑張っても口調に怯えが混じってしまい、かえって怖がっているように聞こえてしまう。",
-            "TextENG": "Tomitake acted like he's having a conversation with Takano, but his voice was obviously unsteady."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102139,
-            "TextJPN": "そして鷹野もそれをわかっているのか、時折からかうように妖しげな笑みを浮かべて流し目を送りながら、その反応を楽しんでいるようだった。",
-            "TextENG": "And Takano knew it, too, and seemed to be enjoying his reaction, occasionally teasing him with a bewitching smile and sending him streaming eyes."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102140,
-            "TextJPN": "元々、ここにしまわれている道具は村の指導者たちがその支配力を強めて、その枠から逃れようとする人を従え、屈服させるために作り出されたもの。",
-            "TextENG": "Originally, the tools stored here were created by the village leaders to strengthen their control and to subdue and humiliate those who tried to escape from their confines."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102141,
-            "TextJPN": "……だから見る人が怯えるのは当然で、その役割通りの効能を果たしているだけのことなのです。@k……なんて、鷹野の言葉を聞きながらそう補足する自分は、むしろ冷めすぎているのだろうか。",
-            "TextENG": "So it is natural for the viewer to be frightened, and it is just fulfilling its efficacy as per its role.@k ...As I listened to Takano's words, I wondered if I was being too cold."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102142,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS12/08/180800026.",
-            "TextJPN": "「じゃ、じゃあ、……昔の人たちは何を屈服させようとしていたんだい…？」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Let, let me ask you... What were they trying to gain from the victims by using these tools...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102143,
-            "TextJPN": "これ以上、鷹野に振るとますます恐ろしい話をされると思ったのか、これ幸いとばかりに富竹は私に矛先を向けてたずねた。",
-            "TextENG": "Tomitake asked me that. He must have thought that Takano would say something far more scary if he asked her."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102144,
-            "TextJPN": "………富竹め、私が何歳の女の子なのか、容姿をすっかり失念しているらしい。",
-            "TextENG": "He's forgetting that I'm just a little innocent girl..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102145,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900090.",
-            "TextJPN": "「私は、鬼ヶ淵村の独自の戒律を厳重に守らせるためだった、と思ってるんだけど、……正解？」",
-            "NamesENG": "Takano",
-            "TextENG": "``I think they were forcing their victims to obey the rules of Onigafuchi Village. That's what I believe......... am I right?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102146,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500363.",
-            "TextJPN": "「……正解なのです。@k@vS12/05/180500364.これらの祭具は、実際に使用するためでなく、むしろ、展示して村人を怖がらせて戒律を遵守させることを主眼に置いたものだと言われてますです」",
-            "NamesENG": "Rika",
-            "TextENG": "``...Yes, you are...@k@vS12/05/180500364. Most of these tools were never built for actual use. They were simply displayed in front of the villagers to intimidate them.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102147,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS12/08/180800027.",
-            "TextJPN": "「で、でも、実際に使用することもあったんだろう？@k@vS12/08/180800028.　……や、やっぱり穏便な話じゃないね…」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``S-So they really did use some of them, then?@k@vS12/08/180800028. ...Th-That's not a pleasant story.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102148,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500366.",
-            "TextJPN": "「戒律を守らないとオヤシロさまの祟りがある、だけでは、大人しくルールに従ってくれない人たちもたまにはいたということなのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``Some people were just not obedient, despite the threat of Oyashiro-sama's curse.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102149,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900091.",
-            "TextJPN": "「ねぇ梨花ちゃん。@k@vS12/09/180900092.ではこれらの道具は、基本的に村人を威圧するために用意されているのかしら？」",
-            "NamesENG": "Takano",
-            "TextENG": "``Hey. Rika-chan...@k@vS12/09/180900092. Are you sure that these tools were mainly used to intimidate people in the village?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102150,
-            "TextJPN": "鷹野は期待に目を輝かせながら、私に問いかける。……おそらく、本当の意味での『綿流し』をある程度知っている彼女にとって、一番聞きたいのはその部分なんだろう。",
-            "TextENG": "Perhaps, for her, who knows some of the true meaning of ``cotton-drifting,`` that is the part she wants to hear the most."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102151,
-            "TextJPN": "羽入はさっきから痛々しい表情を浮かべていた。",
-            "TextENG": "Hanyuu was making a frustrated face."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102152,
-            "TextJPN": "羽入にとって、鬼ヶ淵村の暗黒史は、思い出したくない話なのだ。",
-            "TextENG": "She didn't want to remember the dark history of Onigafuchi Village."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102153,
-            "TextJPN": "オヤシロさまという名の神に祭り上げられ、自分の名の下に、@bあびきょうかん.@<阿鼻叫喚@>の拷問を何度も目の前で繰り広げられた。",
-            "TextENG": "People performed countless torture ceremonies in front of her, claiming that they were doing it in her name... the name of Oyashiro-sama."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102154,
-            "TextJPN": "それに対し羽入が抗議しても、誰にも見えず、聞こえなかったのだからどうしようもない…。",
-            "TextENG": "She asked them not to do that, but no one was able to hear or see her...."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102155,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500367.",
-            "TextJPN": "「……ノーコメントなのですよ、にぱ～☆」",
-            "NamesENG": "Rika",
-            "TextENG": "``......No comment, nipah~☆``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102156,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS12/08/180800029.",
-            "TextJPN": "「鷹野さんによく僕も聞かされるよ。@k@vS12/08/180800030.大昔の鬼ヶ淵村の人たちは、どうしてそんなことをしたんだろう。@k@vS12/08/180800032.@bふもと.@<麓@>の人々に対する何かの見せしめなのかい？」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``She always talks to me about it too.@k@vS12/08/180800030. I wonder why the people of Onigafuchi Village did such a thing a long time ago.@k@vS12/08/180800032. Was it a display of force or something?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102157,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900094.",
-            "TextJPN": "「私はそこは、一種の儀式だと思っているわ」",
-            "NamesENG": "Takano",
-            "TextENG": "``I think of it as a sort of ritual."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102158,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900095.",
-            "TextJPN": "「鬼ヶ淵村が外部との交流を禁ずる最大の建前が、自分たちは仙人で、村は聖地。@k@vS12/09/180900096.人間と交流するとケガレを持ち込む……、そういう風に言われてた」",
-            "NamesENG": "Takano",
-            "TextENG": "The greatest outspoken reasons Onigafuchi forbade intermingling with outsiders were that the village was a holy land, and they were 'transcendents', greater beings than humans.@k@vS12/09/180900096. It was said that when they interact with humans, they are sulled."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102159,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900097.",
-            "TextJPN": "「だから定期的に、自分たちは人間以上の存在であることを、自覚し直す必要があったんじゃないかしら」",
-            "NamesENG": "Takano",
-            "TextENG": "So they probably needed to reaffirm their idea that they were above humans at regular intervals.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102160,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS12/08/180800033.",
-            "TextJPN": "「……日本にも晒し首があったしね。@k@vS12/08/180800034.見せしめは非人道的ではあるけど、抑止効果は極めて大だったというわけだ…」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``...In Japan, there was a tradition of displaying severed heads on pikes.@k@vS12/08/180800034. While such a warning is inhumane, it's an extremely good deterrent.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102161,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900098.",
-            "TextJPN": "「見せしめの犠牲者が、酷い方法で拷問されて……絶命する。@k@vS12/09/180900099.そんなのを見せ付けられたら、………くすくす」",
-            "NamesENG": "Takano",
-            "TextENG": "``The victim was brutally tortured in public, and die.@k@vS12/09/180900099. See something like that... Hee hee."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102162,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900100.",
-            "TextJPN": "「絶対に自分はああされたくないって誰もが思うわよねぇ。@k@vS12/09/180900101.日本には晒し首だけでなく、磔だってあったでしょう？」",
-            "NamesENG": "Takano",
-            "TextENG": "Anyone would simply think that they wouldn't want to be in that same situation.@k@vS12/09/180900101. There's also a history of crucifixion in this country."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102163,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900103.",
-            "TextJPN": "「……ジロウさんもわかると思うけど、槍でほんの一突き二突きされた程度じゃ人は絶命なんてできない」",
-            "NamesENG": "Takano",
-            "TextENG": "You probably know this already Jirou-san, but people don't really die from being stabbed once or twice."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102164,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900106.",
-            "TextJPN": "「くすくす、そんな緩慢な死を思えば、ギロチンなんて人道的な発明よね」",
-            "NamesENG": "Takano",
-            "TextENG": "Hee hee, in that sense, a guillotine is such a merciful tool."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102165,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900107.",
-            "TextJPN": "「そうそう知ってる？@k@vS12/09/180900108.　ギロチンってね、貴族のために生み出されたんですってよ？」",
-            "NamesENG": "Takano",
-            "TextENG": "Did you know?@k@vS12/09/180900108. The guillotine was invented for the nobility."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102166,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900109.",
-            "TextJPN": "「銃殺や絞首刑よりも、もっともっと綺麗にあっさりすっぱりと死ねるように生み出した、死の際まで特別扱いしてもらえる貴族のための処刑道具」",
-            "NamesENG": "Takano",
-            "TextENG": "It was invented because they were able to die instantly, which wasn't the case with shooting or hanging. The nobles got special treatment all the way up to death."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102167,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900115.",
-            "TextJPN": "「神父のお祈りも最期に言い残す言葉も何もなしよ？@k@vS12/09/180900121.　くすくすくすくす」",
-            "NamesENG": "Takano",
-            "TextENG": "There's no last words or prayers or anything!@k@vS12/09/180900121. Hee hee hee hee."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102168,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900122.",
-            "TextJPN": "「そんな濃密な死と拷問で飾り立てられたのが、このオヤシロさまという存在なわけ！」",
-            "NamesENG": "Takano",
-            "TextENG": "Oyashiro-sama here was the one who made this brutal torture possible...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102169,
-            "TextJPN": "鷹野は芝居がかった身振りで、ご神体の像を仰いで見せた。",
-            "TextENG": "Takano raises her hand to honor the statue of Oyashiro-sama."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102170,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900123.",
-            "TextJPN": "「オヤシロさまという存在は結局、人間が生み出した偶像なの。@k@vS12/09/180900124.その偶像は、恐怖で祭り上げられることで神聖化した。@k@vS12/09/180900125.そう、人が法則や戒律で石垣を組み上げ、呪いや祟り、奇跡や恐怖の漆喰でそれを固める」",
-            "NamesENG": "Takano",
-            "TextENG": "``Oyashiro-sama is just an idol created by human beings.@k@vS12/09/180900124. That idol was worshiped with fear and made divine.@k@vS12/09/180900125. Yes, people laid the bricks of his church with rules and doctrines, strengthening it with the mortar of curses and malediction."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102171,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900126.",
-            "TextJPN": "「それらを積み上げて積み上げて雲の上にまで届く高みを作り、その上に立てられるのが神という存在なの。@k@vS12/09/180900127.神は人が欲するゆえに人が生んだ人の手による存在」",
-            "NamesENG": "Takano",
-            "TextENG": "As they stacked and stacked those bricks up high, its height reached up to heaven and their god was placed above it all.@k@vS12/09/180900127. Gods are born because people desire them."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102172,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900129.",
-            "TextJPN": "「それがここではオヤシロさまという存在になるのよ！@k@vS12/09/180900130.　つまり、神の世界へ至る階段は神ではなく人の手で作られていたことの証左であり私たち人間をさらなる高みへ誘う指針を示して、」",
-            "NamesENG": "Takano",
-            "TextENG": "And here, they call that god Oyashiro-sama!!!@k@vS12/09/180900130. In other words, this proves that the stairs to godhood are built not by gods, but by human hands, and shows the way for us humans to attain further heights, and...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102173,
-            "TextJPN": "鷹野の妄想的演説は、ドタンドタンという騒々しい音に遮られた。",
-            "TextENG": "Her passionate lecture was interrupted by a loud noise."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102174,
-            "TextJPN": "振り返れば、…………両目いっぱいに涙を溜めて、固くまぶたを閉じてぼろぼろとこぼしながら、飛び跳ねて抗議する羽入がいた…。",
-            "TextENG": "As I looked back, Hanyuu was jumping up and down with her eyes full of tears..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102175,
-            "TextJPN": "ドタン、@|@y@kドタン、@|@y@k…ドタン。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "*Thud*@|@y@k *Thud*@|@y@k ...*Thud*"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102176,
-            "TextJPN": "あらん限りの力で踵を力強く踏み鳴らし、届かぬ声に代わって、最大限の抗議を示していた。",
-            "TextENG": "She was stomping the floor as hard as she could, making a loud noise instead of screaming out with her unheard voice."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102177,
-            "TextJPN": "……もっとも、声でも音でも同じだ。",
-            "TextENG": "However, it all amounted to the same thing..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102178,
-            "TextJPN": "羽入は人に何も伝えることはできないのだ。",
-            "TextENG": "Hanyuu cannot be heard by people."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102179,
-            "NamesJPN": "羽入",
-            "PreTextTags": "@vS12/12/181100104.",
-            "TextJPN": "「……違うのです…。@k@vS12/12/181100105.……違うのです…。@k@vS12/12/181100106.……僕は……そんなのじゃないのです……」",
-            "NamesENG": "Hanyuu",
-            "TextENG": "``That's not right...@k@vS12/12/181100105. That's not right...@k@vS12/12/181100106. I'm not... like that...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102180,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500368.",
-            "TextJPN": "「……………………羽入…」",
-            "NamesENG": "Rika",
-            "TextENG": "``............Hanyuu...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102181,
-            "NamesJPN": "羽入",
-            "PreTextTags": "@vS12/12/181100108.",
-            "TextJPN": "「みんなで一緒に、仲良く楽しく暮らしてくれればいいのです……。@k@vS12/12/181100109.もちろん、僕たちが悪いところもいっぱいありますです」",
-            "NamesENG": "Hanyuu",
-            "TextENG": "``I want people to be happy together...@k@vS12/12/181100109. Of course, not everything is perfect..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102182,
-            "NamesJPN": "羽入",
-            "PreTextTags": "@vS12/12/181100110.",
-            "TextJPN": "「でもでも、……そんなのを望んだことなんて一度もないのです………！！」",
-            "NamesENG": "Hanyuu",
-            "TextENG": "But I never asked people to do such horrible things...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102183,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500369.",
-            "TextJPN": "「…………羽入。@k@vS12/05/180500370.…羽入は羽入よ。@k@vS12/05/180500371.…オヤシロさまなんて、あなたとは関係のないことでしょう……」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Hanyuu.@k@vS12/05/180500370. ...You are who you are.@k@vS12/05/180500371. Oyashiro-sama has nothing to do with you...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102184,
-            "NamesJPN": "羽入",
-            "PreTextTags": "@vS12/12/181100111.",
-            "TextJPN": "「…違うのです…、…違うのです………。@k@vS12/12/181100112.…あうあうあぅあぅ…、あうあぅあぅあぅ！」",
-            "NamesENG": "Hanyuu",
-            "TextENG": "``That's not right... that's not right...@k@vS12/12/181100112. Au au au au... Au au au au!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102185,
-            "NamesJPN": "羽入",
-            "PreTextTags": "@vS12/12/181100113.",
-            "TextJPN": "「鷹野は嫌いです、嫌いなのです…！！@k@vS12/12/181100114.　いっつも僕のことを酷く言いますのです、酷く言いますのです……、言いますのです…………！！」",
-            "NamesENG": "Hanyuu",
-            "TextENG": "I hate Takano... I hate her...!!@k@vS12/12/181100114. She always says horrible things about me... She's a bully...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102186,
-            "TextJPN": "…………やっぱり、鷹野を入れるべきではなかったのだろう。",
-            "TextENG": "Was it a bad idea for me to bring Takano in here...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102187,
-            "TextJPN": "…鷹野がこういう話を始めることは想像のついていたことだ。",
-            "TextENG": "I knew that Takano would get overstimulated and say something like this..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102188,
-            "TextJPN": "ひとつだけ幸運なことは、羽入の抗議が間接的に伝わり、鷹野の演説を中断できたことだった。",
-            "TextENG": "Fortunately, Hanyuu's rejection indirectly reached Takano, and she stopped lecturing."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102189,
-            "TextJPN": "どういうわけか、……富竹には羽入の抗議の音が聞こえたらしいのだ。",
-            "TextENG": "Somehow, Tomitake had heard the noise that Hanyuu made."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102190,
-            "TextJPN": "富竹は唇の前に人差し指を立て、沈黙を促していた。",
-            "TextENG": "He pressed his finger in front of his lips and told Takano to be quiet."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102191,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900131.",
-            "TextJPN": "「……何事なの？」",
-            "NamesENG": "Takano",
-            "TextENG": "``What is it...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102192,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS12/08/180800035.",
-            "TextJPN": "「うん…。@k@vS12/08/180800036.……さっき、子どもが遠くで飛び跳ねるような音が聞こえたんだよ。@k@vS12/08/180800037.……この建物の周りで子どもが遊んでいるのかもしれない」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Well...@k@vS12/08/180800036. I just heard a sound like a child was jumping around...@k@vS12/08/180800037. There might be a child somewhere near this building.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102193,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900132.",
-            "TextJPN": "「…………………そう………？@k@vS12/09/180900133.　私には何の気配も感じないけれど…？」",
-            "NamesENG": "Takano",
-            "TextENG": "``..........Really......?@k@vS12/09/180900133. I didn't hear anything...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102194,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS12/08/180800038.",
-            "TextJPN": "「…いや、確かに聞こえたよ。@k@vS12/08/180800039.……鷹野さん、ここへはお忍びで入れてもらってるんだ。@k@vS12/08/180800040.梨花ちゃんの立場にも配慮して、もう少し静かに見学しないと悪いよ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``I'm sure I heard it...@k@vS12/08/180800039. Takano-san, we're in here in secret.@k@vS12/08/180800040. I think you should look around without making any noise.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102195,
-            "TextJPN": "せっかくいい気持ちで喋っていたのに、とでも言いたそうな顔で憮然となる鷹野だったが、富竹の言う方が正しい。大人しく口を噤んでくれた。",
-            "TextENG": "Takano seemed disappointed, but Tomitake was right. She had no choice but to be quiet."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102196,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500372.",
-            "TextJPN": "「………富竹。@k@vS12/05/180500373.周りに子どもなんて居ませんですよ」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Tomitake.@k@vS12/05/180500373. There are no children around this place.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102197,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS12/08/180800041.",
-            "TextJPN": "「そうかい？@k@vS12/08/180800042.　梨花ちゃんには聞こえなかったかい？@k@vS12/08/180800043.　僕は確かに飛び跳ねるような音を聞いたんだけどなぁ…」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Are you sure?@k@vS12/08/180800042. You didn't hear it either?@k@vS12/08/180800043. I'm sure I heard a noise...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102198,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500374.",
-            "TextJPN": "「もちろん、ボクも聞きましたですよ。@k@vS12/05/180500375.……遠くではなく、僕のすぐ後でドタンドタン跳ねていましたです。@k@vS12/05/180500376.富竹には遠くに聞こえたでしょうが、ボクにはすぐ後だったので、うるさいくらいでしたですよ」",
-            "NamesENG": "Rika",
-            "TextENG": "``I heard it too.@k@vS12/05/180500375. But it wasn't coming from outside the building... It was jumping right behind me.@k@vS12/05/180500376. I guess you heard it from far away, but it was very loud to me.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102199,
-            "TextJPN": "私の後には祭壇があり、…そこにはオヤシロさまのご神体が立っている。",
-            "TextENG": "I was standing in front of the altar, and the statue of Oyashiro-sama was right behind me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102200,
-            "TextJPN": "富竹は私の言う意味を、薄気味悪く捉えたようだった。",
-            "TextENG": "Tomitake seemed freaked out after hearing what I just told him."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102201,
-            "TextJPN": "苦笑いを浮かべるが表情が見る見る青ざめていく。",
-            "TextENG": "Although he was trying to fake a smile, his face was turning pale."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102202,
-            "TextJPN": "…だが、一番怖がってほしい肝心の鷹野は、こういう時に限って鈍感で、全然怖がってはくれなかった。",
-            "TextENG": "However, Takano didn't seem scared at all..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102203,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500377.",
-            "TextJPN": "「………鷹野。@k@vS12/05/180500378.祭具殿の中でオヤシロさまを怒らせるようなことを言うのは禁止なのです。@k@vS12/05/180500379.オヤシロさまがとても怒っていますのです。@k@vS12/05/180500380.その声が聞こえませんか…？」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Takano.@k@vS12/05/180500378. You can't say things that would upset Oyashiro-sama in front of him.@k@vS12/05/180500379. Oyashiro-sama is very angry now.@k@vS12/05/180500380. Can't you hear his voice...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102204,
-            "TextJPN": "まぁ、聞こえなくて幸いだ。",
-            "TextENG": "It's fortunate that she can't, to be honest."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102205,
-            "TextJPN": "聞こえたとしても、ベソと、あぅあぅしか聞こえない。",
-            "TextENG": "Even if she heard it, it would be nothing but tears."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102206,
-            "TextJPN": "……そもそも、オヤシロさまの怒りを、人間にもわかるように伝えるのが、オヤシロさまの巫女の役目だ。",
-            "TextENG": "My job as a shrine maiden to begin with is to tell humans what Oyashiro-sama is feeling."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102207,
-            "TextJPN": "……私は羽入の意志を代弁するのが生まれながらの務めなのだから。",
-            "TextENG": "I'm responsible for speaking on Hanyuu's behalf."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102208,
-            "TextJPN": "私の口調がいつになく真面目なのを汲み取ってくれたのだろうか。",
-            "TextENG": "Takano must have realized that I was very serious about what I just said."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102209,
-            "TextJPN": "…鷹野は普段からは想像もつかないくらいあっさりと謝ってくれた。",
-            "TextENG": "She apologized to me right away."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102210,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900134.",
-            "TextJPN": "「…ごめんなさい。@k@vS12/09/180900135.いささか調子に乗りすぎたわ。@k@vS12/09/180900136.オヤシロさまもごめんなさい。@k@vS12/09/180900137.人が崇めればそれは神。@k@vS12/09/180900138.たとえ私が崇めなくても神聖は犯されない。@k@vS12/09/180900139.面白半分に冒涜したことを謝るわ」",
-            "NamesENG": "Takano",
-            "TextENG": "``I'm sorry...@k@vS12/09/180900135. I took it too far.@k@vS12/09/180900136. I'm sorry, Oyashiro-sama.@k@vS12/09/180900137. You are a god, as long as people worship you.@k@vS12/09/180900138. Even though I may not worship you, you are still holy.@k@vS12/09/180900139. I'm sorry for disrespecting you.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102211,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500381.",
-            "TextJPN": "「………オヤシロさまは甘いものが大好きなのです。@k@vS12/05/180500382.ボクを経由してお供えしないと、祟りがありますですよ」",
-            "NamesENG": "Rika",
-            "TextENG": "``Oyashiro-sama loves sweet food.@k@vS12/05/180500382. You'll get cursed, unless you offer something sweet through me.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102212,
-            "TextJPN": "富竹が苦笑する。@k鷹野も一瞬笑ったが、神妙に頭を下げて、今度シュークリームを買ってきてお供えしますと言ってくれた。",
-            "TextENG": "Tomitake couldn't help but smile.@k Takano also smiled. She bowed to me, promising to bring over some cream puffs soon."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102213,
-            "TextJPN": "とりあえず、鷹野は話をやめてくれたし、やめてほしいという意思も伝わった。",
-            "TextENG": "Takano finally stopped saying bad things about Oyashiro-sama."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102214,
-            "TextJPN": "甘いものも今度買って来てくれるという。",
-            "TextENG": "She also promised to bring me something sweet."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102215,
-            "TextJPN": "……まだ半ベソをかいている羽入だったが、とりあえず納得をしたようだ。",
-            "TextENG": "Hanyuu was still upset, but she was probably satisfied for the moment."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102216,
-            "TextJPN": "……だが、羽入が立てている三本の指の意味が気になる。",
-            "TextENG": "But I didn't know what she meant by the three fingers she was showing to me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102217,
-            "TextJPN": "…それも伝えろというのか。@k………巫女っていうのはつくづく因果な役目だ。",
-            "TextENG": "Was she telling me to ask Takano for that too...?@k Being her shrine maiden is not an easy thing..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102218,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500383.",
-            "TextJPN": "「オヤシロさまは、シュークリームは最低でも３つ欲しいと言ってますですよ。@k@vS12/05/180500384.………ボクが食べたいわけではないので誤解しないで欲しいのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``Oyashiro-sama is saying that he wants at least three cream puffs.@k@vS12/05/180500384. ......I just want to make it clear that it's not me asking for that.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102219,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900139_1.",
-            "TextJPN": "「ぷ、…あははは、あっはっはっはっはっは！」",
-            "NamesENG": "Takano",
-            "TextENG": "``Pff, ahahaha, ah ha ha ha ha ha!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102220,
-            "TextJPN": "場を和ませるための私の冗談だと受け取ったのだろう。@k鷹野は腹を抱えて大笑いする。",
-            "TextENG": "They took it as a joke I made to reduce the tension.@k Tomitake and Takano cracked up, holding their stomachs."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102221,
-            "TextJPN": "羽入は何で二人が笑い転げるのかわからず、目を白黒させていた。",
-            "TextENG": "Hanyuu was looking at them with surprise, not knowing why they were laughing."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102222,
-            "TextJPN": "私は赤面して恥ずかしさに耐えているのみだ。",
-            "TextENG": "My face, meanwhile, was turning red with embarrassment."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102223,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900140.",
-            "TextJPN": "「わかったわ。@k@vS12/09/180900141.オヤシロさまのためにおいしいシュークリームを３つ買ってくるわね。@k@vS12/09/180900142.梨花ちゃんや沙都子ちゃんの分もいくつか買った方がいいのかしら？」",
-            "NamesENG": "Takano",
-            "TextENG": "``Fine.@k@vS12/09/180900141. I'll get three delicious cream puffs for Oyashiro-sama.@k@vS12/09/180900142. Should I get some for you and Satoko-chan too?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102224,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500385.",
-            "TextJPN": "「いえ、ボクの分はいいのです。@k@vS12/05/180500386.……………その代わり、どうしても聞いてもらいたい話がありますのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``No, I don't need any.@k@vS12/05/180500386. .........But there is something that I want to tell you...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102225,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS12/09/180900143.",
-            "TextJPN": "「何かしら。@k@vS12/09/180900144.……今日は祭具殿に入れてもらえるというわがままを聞いてもらえたんだから、それに見合うわがままには応えるつもりよ」",
-            "NamesENG": "Takano",
-            "TextENG": "``What is it...?@k@vS12/09/180900144. Since you let me inside the storehouse today, I'm willing to do anything for you now.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102226,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/180500387.",
-            "TextJPN": "「…………ボクが今から話すことを、絶対に信じて欲しいのです。@k@vS12/05/180500388.どうして、とか、そんな馬鹿な、とかはなしなのです。@k@vS12/05/180500389.だから、絶対に信じて、運命に打ち勝って、……私を助けてほしいのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``Then...... I want you to believe what I am about to tell you now.@k@vS12/05/180500388. Please don't ask me why, or make fun of me.@k@vS12/05/180500389. Please believe me, and change fate to save me...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102227,
-            "TextJPN": "富竹も鷹野も、多分、初めて見るだろう私の真剣な様子に、驚きを感じているようだった。",
-            "TextENG": "Both of them are surprised to see such a serious look on my face."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102228,
-            "TextJPN": "だが、彼らはきっと驚くだろう。",
-            "TextENG": "I was sure they'd be surprised."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102229,
-            "TextJPN": "…私が今から、二人が後日迎えることになる逃れえぬ死について説明するからだ。",
-            "TextENG": "After all, I was about to explain to them that they were going to die in two days."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102230,
-            "TextJPN": "彼らはそんな馬鹿なと否定したがるだろう。",
-            "TextENG": "I'm sure they'd want to deny that."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102231,
-            "TextJPN": "でも、私は少なくともこの二人の死についてだけは、かなり具体的に知っている。",
-            "TextENG": "But I knew a fair bit about their deaths."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102232,
-            "TextJPN": "だから、簡単に笑い捨てられないくらい細かく説明できるだろう。",
-            "TextENG": "If I could explain it to them in detail, they wouldn't be able to laugh it off."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102233,
-            "TextJPN": "……………もちろん、以前にも同じように、彼らに死の運命を告げたことはある。@k信じてはもらえなかった。",
-            "TextENG": "I'd talked to them about it several times in previous lives,@k but they never took it seriously."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102234,
-            "TextJPN": "信じてもらえる確率が極少であることは覚悟している…。",
-            "TextENG": "I only had that slight possibility that they might believe me..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102235,
-            "TextJPN": "でも、信じてもらえる顛末は、奇跡というほどのレベルじゃない。",
-            "TextENG": "Hopefully, the possibility is as small as a miracle."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102236,
-            "TextJPN": "サイコロの何れか一面には刻まれている程度のものだ。",
-            "TextENG": "It should be engraved on the side of a die."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102237,
-            "TextJPN": "仲間たちがみんな運命に打ち勝ち、次々と６の目を出す幸運の連続。",
-            "TextENG": "My friends overcame their fates, and they all rolled a six."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102238,
-            "TextJPN": "もしそれを奇跡と呼んでもいいならば。",
-            "TextENG": "Should I call that a miracle...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102239,
-            "TextJPN": "どうか神さま、…ここでもう一度サイコロに６の目を。",
-            "TextENG": "Please, God... Let me roll a six again..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 102240,
-            "TextJPN": "彼らに眼前に迫りつつある死の運命を信じさせてください…。",
-            "TextENG": "Please let them believe that death is upon them..."
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "#7 祭具殿開放",
+		"ENG": "#7 / Opening Ritual Storehouse"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101940,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS12/10/181000064.",
+		"TextJPN": "「やぁ、梨花ちゃんが日曜日以外に診療所にいらっしゃるなんて珍しいですね」",
+		"NamesENG": "Irie",
+		"TextENG": "``Hello. I'm surprised to see you here on a day other than Sunday.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101941,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500309.",
+		"TextJPN": "「……鷹野とお話ししたいことがありますのです。@k@vS12/05/180500310.今日はいますですか？」",
+		"NamesENG": "Rika",
+		"TextENG": "``......I have something I want to ask Takano.@k@vS12/05/180500310. Is she here today?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101942,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS12/10/181000065.",
+		"TextJPN": "「いえ。@k@vS12/10/181000066.多分、リサさんとデートじゃないでしょうか。@k@vS12/10/181000067.いやいや、お羨ましい」",
+		"NamesENG": "Irie",
+		"TextENG": "``No.@k@vS12/10/181000066. She must be on a date with Risa-san.@k@vS12/10/181000067. Ahhh, I wish I had a date too.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101943,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500311.",
+		"TextJPN": "「……どうしてリサなのですか？@k@vS12/05/180500312.　よくわからない名前なのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Why do you call him Risa?@k@vS12/05/180500312. I don't understand.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101944,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS12/10/181000068.",
+		"TextJPN": "「はっはっは、それは本人に聞いてみてください。@k@vS12/10/181000069.初対面の時のちょっとした認識ミスなんですがね。@k@vS12/10/181000070.その時の先方の対応がとても面白かったもので」",
+		"NamesENG": "Irie",
+		"TextENG": "``Ha ha ha. You should ask him yourself.@k@vS12/10/181000069. It was a small mistake I made when we first met.@k@vS12/10/181000070. It was funny how he reacted.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101945,
+		"TextJPN": "よくわからない。@kあだ名なんてそんなものだ。",
+		"TextENG": "I don't get it.@k That's what nicknames are all about, though..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101946,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS12/10/181000071.",
+		"TextJPN": "「どんなご用件ですか？@k@vS12/10/181000072.　伝言でよければ、今夜、ミーティングがありますからその席上で伝えておきますよ」",
+		"NamesENG": "Irie",
+		"TextENG": "``What did you want to talk to her about?@k@vS12/10/181000072. I'll see her at the meeting tonight, so I'll take a message if you want.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101947,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500313.",
+		"TextJPN": "「……ありがとうなのです。@k@vS12/05/180500314.でも直接、言いますのでいいのですよ」",
+		"NamesENG": "Rika",
+		"TextENG": "``...Thank you very much.@k@vS12/05/180500314. But I'd rather talk to her directly.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101948,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS12/10/181000073.",
+		"TextJPN": "「そうですか、わかりました。@k@vS12/10/181000074.では私は書類事務に戻ります」",
+		"NamesENG": "Irie",
+		"TextENG": "``I see. Alright.@k@vS12/10/181000074. I should get back to my work now, then.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101949,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500315.",
+		"TextJPN": "「……今日は入江は診察はしていないですか？」",
+		"NamesENG": "Rika",
+		"TextENG": "``Are you not seeing any patients today...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101950,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS12/10/181000075.",
+		"TextJPN": "「今夜のミーティングの資料作りで大忙しです。@k@vS12/10/181000076.普段から準備はしているんですがね、日々の本業に圧迫されてなかなか時間が…。@k@vS12/10/181000077.なんて言うと、準備がなってないと怒られてしまいますね」",
+		"NamesENG": "Irie",
+		"TextENG": "``I've been busy with paperwork for the meeting tonight.@k@vS12/10/181000076. I've been preparing it for a while, but I didn't have enough time.@k@vS12/10/181000077. I'll get in trouble if it's not finished in time.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101951,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500316.",
+		"TextJPN": "「……それに加えて野球までやっているのですから、つくづく入江は元気だなと思いますです」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Aren't you busy coaching the baseball team too? You have so much energy.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101952,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS12/10/181000078.",
+		"TextJPN": "「はっはっは、本当に忙しいですよ。@k@vS12/10/181000079.家事や秘書を代行してくれる可愛いメイドさんを常時募集中なのですが、なかなか応募がありません」",
+		"NamesENG": "Irie",
+		"TextENG": "``Ha ha ha. I'm such a busy guy.@k@vS12/10/181000079. I've been looking for a cute maid who would take care of the chores and help me with other work, but I've had no such luck.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101953,
+		"TextJPN": "入江はそう言って笑いながら、腕時計を見る仕草をした。",
+		"TextENG": "He laughed and looked at his watch."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101954,
+		"TextJPN": "あまり時間を割けないというアピールなのだろう。",
+		"TextENG": "He seemed to be in a hurry."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101955,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500317.",
+		"TextJPN": "「……鷹野たちはどこへ行っているか、想像はつきますですか？」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Do you have any idea where Takano is right now?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101956,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS12/10/181000080.",
+		"TextJPN": "「村の中を色々と回るだろうと思います。@k@vS12/10/181000081.あ、でも、いつも待ち合わせは神社の境内なんだそうですよ。@k@vS12/10/181000082.鷹野さんは半ドンで帰られましたから、…ひょっとするとまだ境内にいるかもしれませんね」",
+		"NamesENG": "Irie",
+		"TextENG": "``They're probably going around to different places in the village.@k@vS12/10/181000081. I know that they always meet at the shrine.@k@vS12/10/181000082. She left not too long ago, so she might still be somewhere near there...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101957,
+		"TextJPN": "びっくりして壁時計を見上げる。",
+		"TextENG": "I looked at the clock on the wall."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101958,
+		"TextJPN": "…何だ、私と鷹野は入れ違いだったのか。",
+		"TextENG": "I must have just missed her."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101959,
+		"TextJPN": "ここで立ち話なんてしてる場合ではないようだ。",
+		"TextENG": "This was no time to be chatting with Irie."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101960,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500318.",
+		"TextJPN": "「……ありがとうなのですよ。@k@vS12/05/180500319.神社に戻ってみますです」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Thank you very much.@k@vS12/05/180500319. I'll try the shrine.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101961,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS12/10/181000083.",
+		"TextJPN": "「年に四度しかない逢瀬なんですから、あまり邪魔をしない方がいいと思いますよー？」",
+		"NamesENG": "Irie",
+		"TextENG": "``You shouldn't bother those lovers, since they only see each other four times a year!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101962,
+		"TextJPN": "とか言いながら、入江は悪戯っぽく笑って、いってらっしゃいと手を振るのだった。",
+		"TextENG": "He smiled mischievously and waved his hand in goodbye."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101963,
+		"TextJPN": "神社に戻ってくる。",
+		"TextENG": "I headed back to the shrine."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101964,
+		"TextJPN": "境内へ上がる階段の脇の、いつもの駐輪場所に自転車を停めようとした。",
+		"TextENG": "I was going to park my bike by the stairs that lead to the shrine grounds."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101965,
+		"TextJPN": "普段は私と沙都子の２台の自転車しか停められていない寂しい場所には、１０台くらいの自転車が停められていた。",
+		"TextENG": "Satoko and I are the only people who park our bikes there normally, but I saw more than ten bikes there today."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101966,
+		"TextJPN": "多分、集会所に会合に来ている人たちの自転車だろう。",
+		"TextENG": "People must be gathering at the convention room."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101967,
+		"TextJPN": "綿流しが近付くと会合も多くなるから、自転車もまた賑わうことになる。",
+		"TextENG": "There are more and more meetings when the Watanagashi festival draws closer."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101968,
+		"TextJPN": "そんな駐輪場の様子から夏の近付きを感じるのも乙なものだった。",
+		"TextENG": "Seeing all these bikes reminded me that summer is nearly here."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101969,
+		"TextJPN": "そんな１０台の自転車は、どれも煤けたオンボロ自転車ばかりなのだが、その中に明らかに目立つ、見慣れない２台の自転車が停められていた。",
+		"TextENG": "Most of the bikes were old and beat up. However, I saw two unfamiliar ones parked there."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101970,
+		"TextJPN": "スポーティな折り畳み式の自転車で、２台とも同じ車種の色違いで見るからにお揃いだ。",
+		"TextENG": "They were sporty mountain bikes with the same design but different colors."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101971,
+		"TextJPN": "富竹と鷹野の自転車に間違いない。",
+		"TextENG": "They must belong to Takano and Tomitake."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101972,
+		"TextJPN": "私は境内へ駆け上がり、二人の姿を探すが、簡単には見つけられなかった。",
+		"TextENG": "I went up the stairs to look for the two of them, but I couldn't find either."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101973,
+		"TextJPN": "他に写真を撮るのが面白そうな場所があったろうか……？",
+		"TextENG": "Was there any place with a great view for taking pictures...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101974,
+		"TextJPN": "富竹のセンスで探すが、どうしても見つけられない。",
+		"TextENG": "I tried looking in places like that, but I still couldn't find them."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101975,
+		"TextJPN": "…なので鷹野のセンスで探すことにした。",
+		"TextENG": "So I started looking based on what Takano might be interested in."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101976,
+		"TextJPN": "そうなると、行きそうな場所は一箇所しか思いつかなかった。",
+		"TextENG": "I could only think of one place."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101977,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900040.",
+		"TextJPN": "「どう？@k@vS12/09/180900041.　ジロウさん」",
+		"NamesENG": "Takano",
+		"TextENG": "``How is it?@k@vS12/09/180900041. Jirou-san?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101978,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS12/08/180800001.",
+		"TextJPN": "「うん。@k@vS12/08/180800002.シンプルなタイプだと思うよ。@k@vS12/08/180800003.道具があれば、多分、１分とかからないよ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Mm...@k@vS12/08/180800002. It's a pretty simple lock.@k@vS12/08/180800003. All I need is the right tool. I should be able to open it in a minute.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101979,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900042.",
+		"TextJPN": "「さすがね。@k@vS12/09/180900043.ジロウさんが得意なのは心の奥の錠前外しだけじゃないのね。@k@vS12/09/180900044.くすくす」",
+		"NamesENG": "Takano",
+		"TextENG": "``You can do that?@k@vS12/09/180900043. You opened the lock to my heart, but that's not the only thing you're good at, huh?@k@vS12/09/180900044. Hee hee.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101980,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500320.",
+		"TextJPN": "「……祟～りじゃ～～～～～」",
+		"NamesENG": "Rika",
+		"TextENG": "``......I'm going to cuuuuurse youuuuu.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101981,
+		"TextJPN": "私が祭具殿の裏から突然現れると、二人は飛び上がって驚いた。",
+		"TextENG": "The two of them jumped in surprise as I suddenly appeared in front of them."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101982,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900045.",
+		"TextJPN": "「あら、梨花ちゃん、こんにちは。@k@vS12/09/180900046.急に驚かすなんて人が悪いわね」",
+		"NamesENG": "Takano",
+		"TextENG": "``Hello, Rika-chan.@k@vS12/09/180900046. It wasn't nice of you to scare us like that.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101983,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500321.",
+		"TextJPN": "「……開かずの祭具殿の鍵を開けちゃおうとする人の方が、もっと悪いのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``......It's not nice to try and open the ritual storehouse's lock either.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101984,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS12/08/180800004.",
+		"TextJPN": "「あははははは…、駄目だよ鷹野さん。@k@vS12/08/180800005.やっぱり悪いことはするもんじゃないよ…」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Ahahahahaha... She's right, Takano-san.@k@vS12/08/180800005. We can't do something like that...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101985,
+		"TextJPN": "富竹は後ろめたい気持ちでいたらしく、あっさりと罪を認めて降参するが、やはり鷹野は素直じゃない。",
+		"TextENG": "Tomitake conceded right away, but Takano was stubborn."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101986,
+		"TextJPN": "あれこれと下らない言い訳をして誤魔化そうと頑張っていた。",
+		"TextENG": "She made up excuses to try and fool me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101987,
+		"TextJPN": "数多の世界から、鷹野が祭具殿の中に並々ならぬ関心を持っていることは知っている。",
+		"TextENG": "Based on my previous lives, I knew just how much interest she had in this storehouse."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101988,
+		"TextJPN": "だからこそ、よくもまぁ、ここまでいけしゃあしゃあと言い訳ができるものだと感心してしまう。",
+		"TextENG": "It was actually rather impressive how hard she tried to cover that up."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101989,
+		"TextJPN": "…祭具殿の中には、かつての鬼ヶ淵村の暗黒史が納められている。",
+		"TextENG": "The ritual storehouse is full of the remainder of the dark history of Onigafuchi."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101990,
+		"TextJPN": "早い話が、鷹野の大好きな血生臭くて物騒な、拷問道具の類が眠っているということだ。",
+		"TextENG": "It contains bloody and vicious tools that Takano is fascinated with."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101991,
+		"TextJPN": "鷹野だって、そういうものが納められていることを、様々な研究から薄々知っているはずだ。",
+		"TextENG": "She should have a good idea as to what those things are inside of this storehouse, based on what she has been researching."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101992,
+		"TextJPN": "だからこそ、貴重な文化遺産がどうこうなんてのは、この場を逃れるためだけの鷹野の言い訳に過ぎない。",
+		"TextENG": "She was making up some story about cultural treasures and such, but it was obvious that she was just making excuses."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101993,
+		"TextJPN": "そんな苦し紛れの、にも拘らず実に涼やかに並べていく鷹野の様子を、富竹も別の意味で感心しているようだった。",
+		"TextENG": "Tomitake also seemed impressed, listening to Takano's phony justifications."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101994,
+		"TextJPN": "私が鷹野に祭具殿の中を見せるのを渋るのは、……この村にとっては神聖な意味合いのある鬼ヶ淵村の歴史を、猟奇趣味丸出しで関心を持つからだ。@kそれはある意味で冒涜的だ。",
+		"TextENG": "In the past, I've tried to conceal what was inside of this storehouse from Takano because I don't want her spreading information about the holy and brutal traditions they used to have in Onigafuchi Village.@k It would be a disgrace."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101995,
+		"TextJPN": "もはや滅びかけているとはいえ、御三家のひとつ、古手家に生まれた自分にとって、それを許すいわれはない。",
+		"TextENG": "As a member of the Furude family, I can't let that happen."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101996,
+		"TextJPN": "それに、鬼ヶ淵村が辿って来た歴史を鷹野風に解釈することは、羽入にとって苦々しいことでしかないのだ。",
+		"TextENG": "Looking at the history of Onigafuchi in the way Takano does is a painful thing for Hanyuu as well."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101997,
+		"TextJPN": "また、羽入にとって祭具殿は少し特別な場所なのだ。",
+		"TextENG": "For Hanyuu, the ritual storehouse is a special place."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101998,
+		"TextJPN": "あんな拷問道具だらけの物騒な場所の何がいいのか、私には最初わからなかったが、@k羽入に言わせると、昔の空気が残る唯一の場所で非常に居心地がいいのだという。",
+		"TextENG": "I don't know what's so nice about being surrounded by those scary ritual tools,@k but she feels cozy when she's surrounded by the smell of old times."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 101999,
+		"TextJPN": "だから祭具殿は、実は羽入の隠れ家みたいなものだった。",
+		"TextENG": "This storage is like Hanyuu's hideout."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102000,
+		"TextJPN": "姿が見えない時は、祭具殿でくつろいでいるのだという。",
+		"TextENG": "When I can't see her, she's usually relaxing in here."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102001,
+		"TextJPN": "そんな、羽入にとっての居場所を、鷹野の血生臭い趣味で穢してほしくない。",
+		"TextENG": "I don't want Hanyuu's happy place to be turned into the bloody, horrifying den of evil Takano believes it to be."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102002,
+		"TextJPN": "そう思い、私は鷹野に中を見せないよう、意地悪をしてきた。",
+		"TextENG": "That's why I've been keeping Takano away from the ritual storehouse."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102003,
+		"TextJPN": "……鷹野にどうして私は意地悪をするのだろう。",
+		"TextENG": "...Come to think of it, why am I so mean to her?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102004,
+		"TextJPN": "私の毛嫌いからだ。",
+		"TextENG": "Is it because I hate her?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102005,
+		"TextJPN": "でも、それはもうやめよう。",
+		"TextENG": "I should stop feeling that way."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102006,
+		"TextJPN": "鷹野や富竹と、私は連携を密にしなければならないのだ。",
+		"TextENG": "I have to keep in close contact with Takano and Tomitake."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102007,
+		"TextJPN": "今までも駄目だったから今回も駄目というのはなしだ。",
+		"TextENG": "I won't give up just because it didn't work before."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102008,
+		"TextJPN": "とにかく、もう一度挑戦してみよう。",
+		"TextENG": "I'm going to try one more time."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102009,
+		"TextJPN": "今回は色々と幸運が重なる世界なのだ。",
+		"TextENG": "This world is different from the other ones."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102010,
+		"TextJPN": "ひょっとすると、彼らの運命を変え、連鎖的に私の運命に変化をもたらすこともできるかもしれないのだから。",
+		"TextENG": "I might be able to change their fate, which in turn might change my own."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102011,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500322.",
+		"TextJPN": "「羽入。@k@vS12/05/180500323.……鷹野に、祭具殿の中を見せてあげようと思うの」",
+		"NamesENG": "Rika",
+		"TextENG": "``Hanyuu.@k@vS12/05/180500323. ......I'm thinking about showing the ritual storehouse to Takano...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102012,
+		"NamesJPN": "羽入",
+		"PreTextTags": "@vS12/12/181100097.",
+		"TextJPN": "「……あぅあぅ」",
+		"NamesENG": "Hanyuu",
+		"TextENG": "``.........Au au.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102013,
+		"TextJPN": "羽入が露骨に嫌そうな顔をした。@k…鷹野は中を見ればきっと狂喜する。",
+		"TextENG": "Hanyuu made an irritated face.@k Takano will lose herself in ecstasy if she sees what's inside of there."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102014,
+		"TextJPN": "そして鬼ヶ淵村の血まみれの暗黒史を、尾ひれたっぷりに語り始めるに違いない。",
+		"TextENG": "She'll run around spreading rumors of the bloody history of Onigafuchi."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102015,
+		"TextJPN": "それは羽入にとって心地よいものではない。",
+		"TextENG": "Hanyuu wasn't too excited about that prospect."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102016,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500324.",
+		"TextJPN": "「……鷹野にごまをするわけじゃない。@k@vS12/05/180500325.でも、話を聞いてもらう切っ掛けにはなるんじゃないかと思うの。@k@vS12/05/180500326.鷹野は根に持つから、ここで意地悪をすると、私の話をちゃんと聞いてくれないかもしれない」",
+		"NamesENG": "Rika",
+		"TextENG": "``I'm not trying to curry favor with Takano.@k@vS12/05/180500325. But I think it might give me a chance to talk to her.@k@vS12/05/180500326. Takano holds onto grudges, so if I'm mean to her now, she might not listen to me later.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102017,
+		"NamesJPN": "羽入",
+		"PreTextTags": "@vS12/12/181100098.",
+		"TextJPN": "「あぅあぅあぅ……」",
+		"NamesENG": "Hanyuu",
+		"TextENG": "``Au au au...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102018,
+		"TextJPN": "…ごますり程度で、自分の神聖な場所を暴かれたくないという気持ちはよくわかる。",
+		"TextENG": "I understand that Hanyuu doesn't want her inside this holy place."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102019,
+		"TextJPN": "だが羽入は、あぅあぅ言う以上の反論はできない。@k…結局、全ての主導権は私にある。",
+		"TextENG": "But she can't do anything more than be irritated about it.@k I'm the only one who can make the ultimate decision."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102020,
+		"TextJPN": "後できっと甘いものをご馳走する約束で、ようやく羽入は納得するのだった。",
+		"TextENG": "Besides, she'll forgive me if I promise to eat something sweet later."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102021,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500327.",
+		"TextJPN": "「……鷹野。@k@vS12/05/180500328.もしも約束を守ってくれるのでしたら、中に入れてあげてもいいのですよ」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Takano.@k@vS12/05/180500328. If you will keep a secret, I'll let you in.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102022,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900047.",
+		"TextJPN": "「ほッ、本当に…？！@k@vS12/09/180900048.　祭具殿の中よ？@k@vS12/09/180900049.　中は中でも防災倉庫の中とかはなしよ？！」",
+		"NamesENG": "Takano",
+		"TextENG": "``R-Really...?!@k@vS12/09/180900048. Inside the ritual storehouse?@k@vS12/09/180900049. You don't mean inside an emergency shelter, right?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102023,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500329.",
+		"TextJPN": "「……本当ですよ。@k@vS12/05/180500330.ちゃんと祭具殿の中なのですよ」",
+		"NamesENG": "Rika",
+		"TextENG": "``......I mean it.@k@vS12/05/180500330. I'll let you into the ritual storehouse.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102024,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900050.",
+		"TextJPN": "「祭具殿って、ここよ？！@k@vS12/09/180900051.　この建物の中なのよ？！」",
+		"NamesENG": "Takano",
+		"TextENG": "``You mean this storehouse?!@k@vS12/09/180900051. Inside of this building?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102025,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500331.",
+		"TextJPN": "「……別に誤魔化す気はありませんですよ。@k@vS12/05/180500332.ちゃんとこの中に入れてあげますです。@k@vS12/05/180500333.にぱ～☆」",
+		"NamesENG": "Rika",
+		"TextENG": "``......I'm not trying to trick you or anything.@k@vS12/05/180500332. I'll let you inside.@k@vS12/05/180500333. Nipah~☆``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102026,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900052.",
+		"TextJPN": "「に……、にぱ――@r丶（＞▽＜）ノ――！」",
+		"NamesENG": "Takano",
+		"TextENG": "``N... Nipah――@r丶（＞▽＜）ノ――!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102027,
+		"TextJPN": "こ、こんなにも乙女顔で満面な笑みを浮かべる鷹野を、私は初めて見た。",
+		"TextENG": "I had never seen such a big smile on her face before."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102028,
+		"TextJPN": "…百年を超える長い時間の中で本当に初めて見る笑顔なのだから、ある意味、圭一の奇跡と同等クラスの価値のあるレア表情に違いない…。",
+		"TextENG": "...Now this is a miracle. I'm seeing this face for the first time in a hundred years..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102029,
+		"TextJPN": "私ですらそうなのだから、それは富竹にとっても同じだったようだ。",
+		"TextENG": "Tomitake must be feeling the same way."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102030,
+		"TextJPN": "おそらく、富竹の中の、知性的な鷹野像が豪快な音を立てて崩壊中に違いない。",
+		"TextENG": "His image of Takano was slowly falling apart as we spoke, I'm sure."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102031,
+		"TextJPN": "……いや、新しい魅力を新発見というところだろうか…？",
+		"TextENG": "...No, maybe he just found a new side of her to love, instead."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102032,
+		"NamesJPN": "羽入",
+		"PreTextTags": "@vS12/12/181100099.",
+		"TextJPN": "「………鷹野って、結構面白い人だったのでびっくりなのです…」",
+		"NamesENG": "Hanyuu",
+		"TextENG": "``......I'm surprised that Takano is actually such a funny person.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102033,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500334.",
+		"TextJPN": "「…やっぱりコミュニケーションって大事ね。@k@vS12/05/180500335.人を知るのってつくづく難しいと思い知るわ…」",
+		"NamesENG": "Rika",
+		"TextENG": "``Communication is important.@k@vS12/05/180500335. It's sometimes so hard to tell what people are all about...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102034,
+		"TextJPN": "私たちはしばらくの間、バラの花びらをばら撒きながら、くるくると踊り続けて、無上の喜びを表現する鷹野を見守っているのだった。",
+		"TextENG": "We remained there and watched Takano spinning in delight for a while."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102035,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500336.",
+		"TextJPN": "「……中には内緒で入れるのですから、他の人に見つかってはいけませんですよ」",
+		"NamesENG": "Rika",
+		"TextENG": "``......This is a secret, so no one can see us going inside.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102036,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS12/08/180800006.",
+		"TextJPN": "「あ、あぁ、そうだよね。@k@vS12/08/180800007.鷹野さんを正気に戻しておくよ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Ah, aah, you're right.@k@vS12/08/180800007. I'll try and calm her down.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102037,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500337.",
+		"TextJPN": "「……ボクはその間に鍵を持ってきますです」",
+		"NamesENG": "Rika",
+		"TextENG": "``......I'll go get the keys now.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102038,
+		"TextJPN": "鍵を持って帰る頃には、鷹野はすっかりいつもの落ち着いた様子に戻っていた。",
+		"TextENG": "By the time I came back with the key, Takano was totally calm again."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102039,
+		"TextJPN": "でも、堪え切れなくなるのか、たまに表情が崩れて、だらしなくエヘヘと笑い出す。",
+		"TextENG": "She was obviously trying to hide how gleeful she was, though."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102040,
+		"TextJPN": "……一見、ものすごく大人っぽく見えるのに、実は一番子供っぽい人なのかもしれない。",
+		"TextENG": "I thought she was a mature lady, but she might still be a kid at heart."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102041,
+		"TextJPN": "こういうギャップを萌えと言うんだっけ？",
+		"TextENG": "I think they called that something like 'gap moe'."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102042,
+		"TextJPN": "圭一にどこかで習ったが、用法がいまいちよくわからない…。",
+		"TextENG": "I picked that term up at some point from Keiichi, but I'm still not sure how it's used..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102043,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500338.",
+		"TextJPN": "「……では鷹野、富竹。@k@vS12/05/180500339.中に入る前に、いくつか約束がありますです。@k@vS12/05/180500340.ちゃんと誓ってくれないと駄目なのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Well then, Takano and Tomitake.@k@vS12/05/180500339. Before we go inside, you must promise me something.@k@vS12/05/180500340. Otherwise, you can't go in.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102044,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900053.",
+		"TextJPN": "「もちろんよ。@k@vS12/09/180900054.開かずの祭具殿を、古手家頭首が自ら開けてくれる禁を犯すのだもの。@k@vS12/09/180900055.約束は守るわ。@k@vS12/09/180900056.………うふふふふふふふ！」",
+		"NamesENG": "Takano",
+		"TextENG": "``Of course.@k@vS12/09/180900054. You're willing to break the rules to open the forbidden storehouse for us.@k@vS12/09/180900055. We'll keep our promises.@k@vS12/09/180900056. Hee hee hee hee hee hee!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102045,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS12/08/180800008.",
+		"TextJPN": "「…駄目だよ鷹野さん、ちゃんと真面目にやらなきゃ…」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Takano-san, you have to take this seriously...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102046,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900057.",
+		"TextJPN": "「失礼ね、私はとても真面目よ？！@k@vS12/09/180900058.　うふうふうふふふ…！」",
+		"NamesENG": "Takano",
+		"TextENG": "``I am taking it seriously!@k@vS12/09/180900058. Hee hee hee hee hee hee...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102047,
+		"NamesJPN": "羽入",
+		"PreTextTags": "@vS12/12/181100100.",
+		"TextJPN": "「……僕の中の鷹野のイメージが、今、大変なことになっていますのです」",
+		"NamesENG": "Hanyuu",
+		"TextENG": "``My image of Takano is falling to pieces right now...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102048,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500341.",
+		"TextJPN": "「私もよ。@k@vS12/05/180500342.鷹野の株価が世界恐慌で大暴落って感じ……」",
+		"NamesENG": "Rika",
+		"TextENG": "``Same here...@k@vS12/05/180500342. Her market is crashing all over the world...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102049,
+		"TextJPN": "…レナが言ったんだっけ。",
+		"TextENG": "Rena said it before..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102050,
+		"TextJPN": "……やはりひとりでうじうじと考えてると駄目だなと思った。",
+		"TextENG": "It's not a good idea to think about problems all on your own..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102051,
+		"TextJPN": "私は鷹野の猟奇趣味的なところが嫌いで、どこか冷たそうな雰囲気に近寄りがたいものを感じていたのだが…。",
+		"TextENG": "I always hated the crazy part of Takano, and I didn't want to be close to her...."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102052,
+		"TextJPN": "………こういう人だったとは夢にも思わなかった。",
+		"TextENG": "But I never thought she could act this way..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102053,
+		"TextJPN": "これじゃその、何ていうのか、お持ち帰りモードのレナと似たようなもんだ。",
+		"TextENG": "She was acting almost like Rena does when in her Kyute Mode."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102054,
+		"TextJPN": "こんな面白い人だともっと早く知っていたなら、私は鷹野に一方的な苦手意識など持たなかったかもしれない。",
+		"TextENG": "Had I known that she was as funny a person as this, I wouldn't have felt resentment toward her."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102055,
+		"TextJPN": "……やはりコミュニケーションは大事なんだなぁ…。",
+		"TextENG": "I realize how important communicating can be..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102056,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500343.",
+		"TextJPN": "「……まず、祭具殿へ入ったことは内緒なのですよ。@k@vS12/05/180500344.誰にも教えてはいけませんです」",
+		"NamesENG": "Rika",
+		"TextENG": "``......First of all, you have to promise you won't tell anybody that you went inside the storehouse.@k@vS12/05/180500344. Do not tell anyone.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102057,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900059.",
+		"TextJPN": "「もちろんよ、誓うわ」",
+		"NamesENG": "Takano",
+		"TextENG": "``Of course I won't. I'll promise.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102058,
+		"TextJPN": "鷹野は頼んでもいないのに、胸に手を当て、宣誓のポーズをする。",
+		"TextENG": "Takano put her hands to her chest."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102059,
+		"TextJPN": "そして同じポーズを富竹にも要求するのだった。",
+		"TextENG": "She also forced Tomitake to do the same."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102060,
+		"TextJPN": "…何とか鷹野のテンションに追いつこうと頑張る富竹のささやかな努力が滑稽で笑える。",
+		"TextENG": "It was funny to watch Tomitake trying to keep up with Takano too."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102061,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500345.",
+		"TextJPN": "「中はとても大切な場所ですから、汚したり傷つけたりしちゃ駄目なのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``Also, you can't damage anything inside the storehouse.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102062,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900060.",
+		"TextJPN": "「もちろんわかってるわ。@k@vS12/09/180900061.それで、撮影は可能なの？！」",
+		"NamesENG": "Takano",
+		"TextENG": "``Of course not.@k@vS12/09/180900061. Is it okay if I take pictures?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102063,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500346.",
+		"TextJPN": "「……みー。@k@vS12/05/180500347.可能ですが１枚１００円なのですよ」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Meep.@k@vS12/05/180500347. You can, but I'll charge a hundred yen per picture.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102064,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900062.",
+		"TextJPN": "「えええぇえぇ！！」",
+		"NamesENG": "Takano",
+		"TextENG": "``Whaaaat?!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102065,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900063.",
+		"TextJPN": "「ジロウさん、あなた今いくら持ってるかしら？！」",
+		"NamesENG": "Takano",
+		"TextENG": "How much money do you have on you right now, Jirou-san?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102066,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500348.",
+		"TextJPN": "「……１万円払うと、お得な一日撮り放題券になりますです」",
+		"NamesENG": "Rika",
+		"TextENG": "``If you pay me 10,000 yen, you can take all the photos you want.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102067,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900064.",
+		"TextJPN": "「安い！！」",
+		"NamesENG": "Takano",
+		"TextENG": "``That's a good deal!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102068,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900065.",
+		"TextJPN": "「払うわ！！」",
+		"NamesENG": "Takano",
+		"TextENG": "I'll take it!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102069,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900066.",
+		"TextJPN": "「ジロウさん！」",
+		"NamesENG": "Takano",
+		"TextENG": "Jirou-san!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102070,
+		"TextJPN": "本当に払ってくれた…。",
+		"TextENG": "They paid me the money for real..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102071,
+		"TextJPN": "金銭欲のない羽入でも、お金がデザートに化けることは理解できているので、目をきらきらと輝かせる。",
+		"TextENG": "Hanyuu seemed excited, knowing that the money could be used for buying desserts."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102072,
+		"NamesJPN": "羽入",
+		"PreTextTags": "@vS12/12/181100101.",
+		"TextJPN": "「あぅあぅあぅ☆@k@vS12/12/181100102.　鷹野はとてもいい人なのです…！」",
+		"NamesENG": "Hanyuu",
+		"TextENG": "``Au au au☆@k@vS12/12/181100102. Takano is such a nice person...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102073,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500349.",
+		"TextJPN": "「……あんたも現金ねぇ」",
+		"NamesENG": "Rika",
+		"TextENG": "``You're so greedy...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102074,
+		"TextJPN": "まぁ、祭具殿の主である『オヤシロさま』のご許可も取れたようだ。@k三方丸く収まれば問題はない。",
+		"TextENG": "I finally got approval from ``Oyashiro-sama``, the master of the storehouse.@k We'd have no more problems now."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102075,
+		"TextJPN": "祭具殿は集会所の裏にある。",
+		"TextENG": "The ritual storehouse is behind the building with the convention room."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102076,
+		"TextJPN": "集会所の中は禁煙になっているので、たまに外へ出てタバコを吸う人もいた。",
+		"TextENG": "Sometimes, people come out for a cigarette break."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102077,
+		"TextJPN": "そういう人に見られるわけにはいかない。",
+		"TextENG": "I can't let anybody see us entering."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102078,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS12/08/180800009.",
+		"TextJPN": "「………大丈夫。@k@vS12/08/180800010.誰もいないよ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``......You're good.@k@vS12/08/180800010. No one is around.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102079,
+		"TextJPN": "富竹が周辺の様子をうかがい、ＯＫサインを出した。",
+		"TextENG": "Tomitake checked out the scene and gave me the signal to go ahead."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102080,
+		"TextJPN": "私は頷き返し、錠前を外した。",
+		"TextENG": "I nodded at him and unlocked the door."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102081,
+		"TextJPN": "重い観音扉を、体を滑り込ませられる程度だけ開き、私は中に誘った。",
+		"TextENG": "I pushed open the heavy door just far enough for us to sneak inside."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102082,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500350.",
+		"TextJPN": "「……富竹が表で待っていると不審に思われますです」",
+		"NamesENG": "Rika",
+		"TextENG": "``......It'll look suspicious if you wait outside like that.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102083,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS12/08/180800011.",
+		"TextJPN": "「え？！@k@vS12/08/180800012.　ぼ、僕も入るのかい？」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``What?@k@vS12/08/180800012. I can come inside too...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102084,
+		"TextJPN": "富竹は表でタバコでも吸って待ってるつもりだったらしく、急に振られて面食らっているようだった。",
+		"TextENG": "He seemed surprised that I was asking him to come inside with us."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102085,
+		"TextJPN": "……富竹に、鷹野のような変な趣味がないことは知っている。@kそれを思えば当然の反応だった。",
+		"TextENG": "Tomitake, of course, wasn't particularly interested in what was inside the storehouse.@k I expected his surprised reaction."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102086,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900067.",
+		"TextJPN": "「ジロウさん！@k@vS12/09/180900068.　梨花ちゃんが入れって言ってるのよ！@k@vS12/09/180900069.　早く入って？！」",
+		"NamesENG": "Takano",
+		"TextENG": "``Jirou-san!@k@vS12/09/180900068. Rika-chan is telling you to come inside!@k@vS12/09/180900069. Come on now!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102087,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS12/08/180800013.",
+		"TextJPN": "「わわ、わかったよ…！」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``A-All right...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102088,
+		"TextJPN": "鷹野に凄まれて、富竹は慌てて飛び込んできた。",
+		"TextENG": "Tomitake squeezed inside as Takano urged him."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102089,
+		"TextJPN": "私は灯りのスイッチを入れると扉を閉めた。@kそして、内側からかんぬきを掛ける。",
+		"TextENG": "I turned the light on and closed the door.@k Then I put the chain on from inside."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102090,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900070.",
+		"TextJPN": "「…厳重なのね」",
+		"NamesENG": "Takano",
+		"TextENG": "``You're locking us in...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102091,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500351.",
+		"TextJPN": "「錠前が外れていることに気付いた、悪い猫さんが入ってくると困りますのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``Just so that a bad kitty cat won't sneak inside, you know.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102092,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900071.",
+		"TextJPN": "「くすくす、悪い猫さんで申し訳ないわね」",
+		"NamesENG": "Takano",
+		"TextENG": "``Hee hee, are you talking about me?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102093,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500352.",
+		"TextJPN": "「……鷹野、猫は猫らしく、にゃーにゃー鳴かないと駄目なのですよ。@k@vS12/05/180500353.にぱ～☆」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Takano, a cat is supposed to go all 'meow, meow'...@k@vS12/05/180500353. Nipah~☆``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102094,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900072.",
+		"TextJPN": "「そ、それはどういうことかしら…？」",
+		"NamesENG": "Takano",
+		"TextENG": "``What do you mean?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102095,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500354.",
+		"TextJPN": "「……鷹野がちゃんと猫さんじゃないと見せてあげないのです。@k@vS12/05/180500355.ちゃんと鈴付き首輪と猫耳も持ってきましたですよ」",
+		"NamesENG": "Rika",
+		"TextENG": "``......If you don't act like a cat, I'm not going to let you see what's in here.@k@vS12/05/180500355. I brought cat ears and a collar with a bell for you too."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102096,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500356.",
+		"TextJPN": "「これをつけて、四つん這いになってにゃーにゃー言ってくれなかったら、次の扉を開けてあげませんです」",
+		"NamesENG": "Rika",
+		"TextENG": "If you don't put them on, get on all fours, and meow, then I won't open the next door.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102097,
+		"TextJPN": "祭具殿は、外から内部が見えないよう、前室が設けてあって、二重扉の構造になっている。",
+		"TextENG": "The shrine storehouse has two doors so that people can't see inside when the first door is opened."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102098,
+		"TextJPN": "今、私たちがいるのはこの前室なのだ。@k祭具殿は次の扉の向こうになる。",
+		"TextENG": "At the moment, we were inside the entry chamber.@k The real storehouse is in the room beyond."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102099,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS12/08/180800014.",
+		"TextJPN": "「え、えぇ？！」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``W-Whaat?!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102100,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS12/08/180800015.",
+		"TextJPN": "「あ、あははは、梨花ちゃんもキツイなぁ…！@k@vS12/08/180800016.　いくらなんでもそんなの…、」",
+		"NamesENG": "Tomitake",
+		"TextENG": "Ah, ahahaha, that's a bad joke, Rika-chan...!@k@vS12/08/180800016. You wouldn't really...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102101,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900073.",
+		"TextJPN": "「え、………えぇ、それが試練ならやるわ…！」",
+		"NamesENG": "Takano",
+		"TextENG": "``Huh? What the hell. I'll do it if I have to!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102102,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900074.",
+		"TextJPN": "「これは梨花ちゃんが、私の知的探究心がどれだけ一途で高貴か試しているのよ…！」",
+		"NamesENG": "Takano",
+		"TextENG": "You're testing me to see how devoted I am to my research, aren't you, Rika-chan?!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102103,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900075.",
+		"TextJPN": "「いいわ、あなたが望むなら、猫耳と尻尾付きで、四つん這いになって前足で顔を洗いながら、『ご主人様大好きだにゃ～♪』だって言ってみせる！！」",
+		"NamesENG": "Takano",
+		"TextENG": "Fine! If that's what you want, then I'll wear cat ears, bloomers, and a tail, crawl on all on fours before an empty milk bowl, and beg, 'Please let me drink your milk, Master!!'``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102104,
+		"NamesJPN": "羽入",
+		"PreTextTags": "@vS12/12/181100103.",
+		"TextJPN": "「………鷹野って、みんなと同じくらいの歳だったら、きっと部活メンバーに混じっていたと思いますのです」",
+		"NamesENG": "Hanyuu",
+		"TextENG": "``She definitely would've joined our club if she was around our age...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102105,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500357.",
+		"TextJPN": "「そうね……。@k@vS12/05/180500358.ほら、世界恐慌の時、ウォール街で紙切れになった株券が雪のように舞ったというじゃない？@k@vS12/05/180500359.　何かそういう感じよ、鷹野の株……」",
+		"NamesENG": "Rika",
+		"TextENG": "``I agree...@k@vS12/05/180500358. Hey, remember how they said shredded stocks fell like snow on Wall Street during the Great Crash?@k@vS12/05/180500359. Takano's value right now reminds me of that...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102106,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900076.",
+		"TextJPN": "「さぁさぁ、梨花ちゃん、やり遂げてみせるわよ！@k@vS12/09/180900077.　猫耳と首輪だけでいいの？！」",
+		"NamesENG": "Takano",
+		"TextENG": "``Bring it on, Rika-chan!@k@vS12/09/180900077. Are you sure I only have to wear the ears and the collar?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102107,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS12/08/180800017.",
+		"TextJPN": "「あ、……あのぅ、鷹野さん。@k@vS12/08/180800018.そもそもこの扉、鍵なんかないよ…？@k@vS12/08/180800019.　ほら、押せば開く」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Uh... Umm, Takano-san?@k@vS12/08/180800018. This door isn't even locked...@k@vS12/08/180800019. See, push and it opens.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102108,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900078.",
+		"TextJPN": "「そ、そうなの？！@k@vS12/09/180900079.　くすくすくすくす、あら嫌だ私ったらみっともない…。@k@vS12/09/180900080.くすくすくすくす」",
+		"NamesENG": "Takano",
+		"TextENG": "``R-Really?!@k@vS12/09/180900079. Hee hee hee, my dear, how shameful of me...@k@vS12/09/180900080. Hee hee hee hee hee...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102109,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500360_1.",
+		"TextJPN": "「……ち」",
+		"NamesENG": "Rika",
+		"TextENG": "``Tsk...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102110,
+		"TextJPN": "富竹め、案外面白くないヤツー！@k　ブラウン管の向こうの神さまを今、どれだけ敵に回したと思ってやがるー。",
+		"TextENG": "Tomitake has no sense of humor!@k He just turned off a lot of viewers who were looking forward to seeing Takano in the cat outfit."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102111,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500361.",
+		"TextJPN": "「……と、冗談はこのくらいにして、押せば開きますのです。@k@vS12/05/180500362.にぱ～☆」",
+		"NamesENG": "Rika",
+		"TextENG": "``Anyway, he's right. You just have to push it.@k@vS12/05/180500362. Nipah~☆``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102112,
+		"TextJPN": "開けば、そここそ祭具殿の内部だった。",
+		"TextENG": "Once we went through the door, we found ourselves inside the storage area."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102113,
+		"TextJPN": "採光の窓などないから昼間でも中は真っ暗だ。",
+		"TextENG": "There were no windows in there, so it was completely dark, even during the day."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102114,
+		"TextJPN": "内部を照らす電球がいくつも吊り下げられているが、その灯りは弱々しく、かえって暗さを引き立てているようにさえ見えた。",
+		"TextENG": "There were several light bulbs hanging from the ceiling, but they were dim, and their light only exaggerated the darkness inside."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102115,
+		"TextJPN": "その薄暗い中に、中央にはオヤシロさまのご神体と祭壇があり、@kその周りには、オヤシロさまを埋めてしまおうというくらいに、たくさんの古代の道具類があった。",
+		"TextENG": "Oyashiro-sama's statue and the altar dominated the center of the room.@k They were surrounded by tons of ancient torture implements."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102116,
+		"TextJPN": "床には所狭しと置かれ、壁という壁に掛けられ、天井という天井にぶら下げられている。",
+		"TextENG": "They were all over the floor, walls, and ceiling."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102117,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS12/08/180800020.",
+		"TextJPN": "「…………こ、………これは、……すごいねぇ……ははは…」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``This... is... ...amazing... hahaha...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102118,
+		"TextJPN": "さすがの富竹も絶句する。",
+		"TextENG": "Tomitake was rendered speechless."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102119,
+		"TextJPN": "お化け屋敷などの模造品なんかとは訳が違う。",
+		"TextENG": "They were nothing like those fake torture implements that they might have seen in a wax museum or someplace like that."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102120,
+		"TextJPN": "ここにあるのは正真正銘、本物なのだ。",
+		"TextENG": "The tools in this room are the genuine articles."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102121,
+		"TextJPN": "模造品には到底宿りえない、鬼気迫る迫力がここにはあるはずで、……妙なリアル感が目に映る以上のものを想像せずにはいられない。",
+		"TextENG": "These authentic tools always have a big impact on the people who see them."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102122,
+		"TextJPN": "……でも、そういう迫力に絶句しているのは、正常な神経を持つ富竹だけかもしれない。",
+		"TextENG": "But Tomitake was the only one who was shocked, since he was the only normal person in the room."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102123,
+		"TextJPN": "鷹野は目をらんらんと輝かせて、頼んでもいないのに、にゃーにゃー言いながら、カメラのフラッシュをたき続けていた。",
+		"TextENG": "Takano's eyes were sparkling. She was taking pictures while meowing like a cat."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102124,
+		"TextJPN": "私にとっては、…ここは特別な感情を抱く場所ではない。",
+		"TextENG": "This place... isn't special to me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102125,
+		"TextJPN": "もちろん、神聖な意味があり、厳重に守らなければならない場所であることは十分知っている。",
+		"TextENG": "Of course, I know I'm supposed to treat it as a holy place, but..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102126,
+		"TextJPN": "でも、小さい頃から色々な神事がある度に出入りしていたので、見慣れている。",
+		"TextENG": "I'm so used to seeing all these things after coming here countless times since I was little."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102127,
+		"TextJPN": "古臭い過去の遺物がいつまでも仕舞い込まれた、封印された倉庫でしかない。",
+		"TextENG": "To me, it's nothing but a storehouse with a lot of old stuff inside."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102128,
+		"TextJPN": "羽入に至っては、古い時代の空気を現代に残す唯一の場所と思い、むしろ居心地がいいと思っているくらいだ。",
+		"TextENG": "As for Hanyuu, she says it's the only place the air from times past lingers in this present day, so she actually finds it comforting."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102129,
+		"TextJPN": "だから、羽入とここへ来ると、羽入の上機嫌に釣られて私も機嫌がよくなる。",
+		"TextENG": "I get in a good mood when I come here, because Hanyuu gets in a good mood."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102130,
+		"TextJPN": "……そういう、居心地のよい場所なのだった。",
+		"TextENG": "This is a relaxing place for her..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102131,
+		"TextJPN": "だから富竹が絶句する、いわゆる正常な反応を見ていると、自分たちがいかに世間ずれしているかを思い知らされてしまう。",
+		"TextENG": "As I watched Tomitake's reaction, I notice how totally off my values are from normal people's."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102132,
+		"TextJPN": "その意味においてだけ、鷹野のような反応を示してくれた方が、むしろ気にならなくてよかった。",
+		"TextENG": "Takano's reaction seemed more natural to me, in a sense."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102133,
+		"TextJPN": "羽入も、富竹の表情が気になるようで、少し俯き気味なようだった。",
+		"TextENG": "Hanyuu seemed to be bothered by Tomitake's reaction too."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102134,
+		"TextJPN": "……無理に富竹を中に誘ったのは失敗だったかもしれない。@k…今さら出て行けとも言えないか。",
+		"TextENG": "Maybe it was a bad idea to let him come inside after all.@k Not like I could kick him out at this point..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102135,
+		"TextJPN": "私と羽入は祭壇の前にある座布団に座り、嬉々として跳ね回る鷹野と、何とか付いて行こうと涙ぐましい努力をする富竹の二人を眺めていた。",
+		"TextENG": "Hanyuu and I sat on a cushion in front of the altar, and watched Takano dance with childish glee while Tomitake made touching efforts to keep up."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102136,
+		"TextJPN": "とりあえず、黙っていると恐ろしさが増すと思ったのか、さっきから富竹がさかんに変わった形の道具を見つけては、隣の鷹野に尋ねている。",
+		"TextENG": "At any rate, as if he thought that keeping quiet would make him more frightening, Tomitake had been asking Takano next to him about the unusual shaped tools he had found earlier."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102137,
+		"TextJPN": "……そのたびに、ご機嫌状態で興奮している彼女からその残酷な用途、そして血と闇に彩られた裏話を聞かされて、余計に震えあがる様子がおかしくて、見ていて飽きなかった。",
+		"TextENG": "......Each time she was in a good mood and excited, she told him about its cruel uses and the backstory colored by blood and darkness, which made him shiver even more, which was funny and I never got tired of watching it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102138,
+		"TextJPN": "富竹は、鷹野と会話を合わせようと頑張っているが、どう頑張っても口調に怯えが混じってしまい、かえって怖がっているように聞こえてしまう。",
+		"TextENG": "Tomitake acted like he's having a conversation with Takano, but his voice was obviously unsteady."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102139,
+		"TextJPN": "そして鷹野もそれをわかっているのか、時折からかうように妖しげな笑みを浮かべて流し目を送りながら、その反応を楽しんでいるようだった。",
+		"TextENG": "And Takano knew it, too, and seemed to be enjoying his reaction, occasionally teasing him with a bewitching smile and sending him streaming eyes."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102140,
+		"TextJPN": "元々、ここにしまわれている道具は村の指導者たちがその支配力を強めて、その枠から逃れようとする人を従え、屈服させるために作り出されたもの。",
+		"TextENG": "Originally, the tools stored here were created by the village leaders to strengthen their control and to subdue and humiliate those who tried to escape from their confines."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102141,
+		"TextJPN": "……だから見る人が怯えるのは当然で、その役割通りの効能を果たしているだけのことなのです。@k……なんて、鷹野の言葉を聞きながらそう補足する自分は、むしろ冷めすぎているのだろうか。",
+		"TextENG": "So it is natural for the viewer to be frightened, and it is just fulfilling its efficacy as per its role.@k ...As I listened to Takano's words, I wondered if I was being too cold."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102142,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS12/08/180800026.",
+		"TextJPN": "「じゃ、じゃあ、……昔の人たちは何を屈服させようとしていたんだい…？」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Let, let me ask you... What were they trying to gain from the victims by using these tools...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102143,
+		"TextJPN": "これ以上、鷹野に振るとますます恐ろしい話をされると思ったのか、これ幸いとばかりに富竹は私に矛先を向けてたずねた。",
+		"TextENG": "Tomitake asked me that. He must have thought that Takano would say something far more scary if he asked her."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102144,
+		"TextJPN": "………富竹め、私が何歳の女の子なのか、容姿をすっかり失念しているらしい。",
+		"TextENG": "He's forgetting that I'm just a little innocent girl..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102145,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900090.",
+		"TextJPN": "「私は、鬼ヶ淵村の独自の戒律を厳重に守らせるためだった、と思ってるんだけど、……正解？」",
+		"NamesENG": "Takano",
+		"TextENG": "``I think they were forcing their victims to obey the rules of Onigafuchi Village. That's what I believe......... am I right?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102146,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500363.",
+		"TextJPN": "「……正解なのです。@k@vS12/05/180500364.これらの祭具は、実際に使用するためでなく、むしろ、展示して村人を怖がらせて戒律を遵守させることを主眼に置いたものだと言われてますです」",
+		"NamesENG": "Rika",
+		"TextENG": "``...Yes, you are...@k@vS12/05/180500364. Most of these tools were never built for actual use. They were simply displayed in front of the villagers to intimidate them.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102147,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS12/08/180800027.",
+		"TextJPN": "「で、でも、実際に使用することもあったんだろう？@k@vS12/08/180800028.　……や、やっぱり穏便な話じゃないね…」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``S-So they really did use some of them, then?@k@vS12/08/180800028. ...Th-That's not a pleasant story.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102148,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500366.",
+		"TextJPN": "「戒律を守らないとオヤシロさまの祟りがある、だけでは、大人しくルールに従ってくれない人たちもたまにはいたということなのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``Some people were just not obedient, despite the threat of Oyashiro-sama's curse.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102149,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900091.",
+		"TextJPN": "「ねぇ梨花ちゃん。@k@vS12/09/180900092.ではこれらの道具は、基本的に村人を威圧するために用意されているのかしら？」",
+		"NamesENG": "Takano",
+		"TextENG": "``Hey. Rika-chan...@k@vS12/09/180900092. Are you sure that these tools were mainly used to intimidate people in the village?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102150,
+		"TextJPN": "鷹野は期待に目を輝かせながら、私に問いかける。……おそらく、本当の意味での『綿流し』をある程度知っている彼女にとって、一番聞きたいのはその部分なんだろう。",
+		"TextENG": "Perhaps, for her, who knows some of the true meaning of ``cotton-drifting,`` that is the part she wants to hear the most."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102151,
+		"TextJPN": "羽入はさっきから痛々しい表情を浮かべていた。",
+		"TextENG": "Hanyuu was making a frustrated face."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102152,
+		"TextJPN": "羽入にとって、鬼ヶ淵村の暗黒史は、思い出したくない話なのだ。",
+		"TextENG": "She didn't want to remember the dark history of Onigafuchi Village."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102153,
+		"TextJPN": "オヤシロさまという名の神に祭り上げられ、自分の名の下に、@bあびきょうかん.@<阿鼻叫喚@>の拷問を何度も目の前で繰り広げられた。",
+		"TextENG": "People performed countless torture ceremonies in front of her, claiming that they were doing it in her name... the name of Oyashiro-sama."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102154,
+		"TextJPN": "それに対し羽入が抗議しても、誰にも見えず、聞こえなかったのだからどうしようもない…。",
+		"TextENG": "She asked them not to do that, but no one was able to hear or see her...."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102155,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500367.",
+		"TextJPN": "「……ノーコメントなのですよ、にぱ～☆」",
+		"NamesENG": "Rika",
+		"TextENG": "``......No comment, nipah~☆``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102156,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS12/08/180800029.",
+		"TextJPN": "「鷹野さんによく僕も聞かされるよ。@k@vS12/08/180800030.大昔の鬼ヶ淵村の人たちは、どうしてそんなことをしたんだろう。@k@vS12/08/180800032.@bふもと.@<麓@>の人々に対する何かの見せしめなのかい？」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``She always talks to me about it too.@k@vS12/08/180800030. I wonder why the people of Onigafuchi Village did such a thing a long time ago.@k@vS12/08/180800032. Was it a display of force or something?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102157,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900094.",
+		"TextJPN": "「私はそこは、一種の儀式だと思っているわ」",
+		"NamesENG": "Takano",
+		"TextENG": "``I think of it as a sort of ritual."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102158,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900095.",
+		"TextJPN": "「鬼ヶ淵村が外部との交流を禁ずる最大の建前が、自分たちは仙人で、村は聖地。@k@vS12/09/180900096.人間と交流するとケガレを持ち込む……、そういう風に言われてた」",
+		"NamesENG": "Takano",
+		"TextENG": "The greatest outspoken reasons Onigafuchi forbade intermingling with outsiders were that the village was a holy land, and they were 'transcendents', greater beings than humans.@k@vS12/09/180900096. It was said that when they interact with humans, they are sulled."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102159,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900097.",
+		"TextJPN": "「だから定期的に、自分たちは人間以上の存在であることを、自覚し直す必要があったんじゃないかしら」",
+		"NamesENG": "Takano",
+		"TextENG": "So they probably needed to reaffirm their idea that they were above humans at regular intervals.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102160,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS12/08/180800033.",
+		"TextJPN": "「……日本にも晒し首があったしね。@k@vS12/08/180800034.見せしめは非人道的ではあるけど、抑止効果は極めて大だったというわけだ…」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``...In Japan, there was a tradition of displaying severed heads on pikes.@k@vS12/08/180800034. While such a warning is inhumane, it's an extremely good deterrent.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102161,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900098.",
+		"TextJPN": "「見せしめの犠牲者が、酷い方法で拷問されて……絶命する。@k@vS12/09/180900099.そんなのを見せ付けられたら、………くすくす」",
+		"NamesENG": "Takano",
+		"TextENG": "``The victim was brutally tortured in public, and die.@k@vS12/09/180900099. See something like that... Hee hee."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102162,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900100.",
+		"TextJPN": "「絶対に自分はああされたくないって誰もが思うわよねぇ。@k@vS12/09/180900101.日本には晒し首だけでなく、磔だってあったでしょう？」",
+		"NamesENG": "Takano",
+		"TextENG": "Anyone would simply think that they wouldn't want to be in that same situation.@k@vS12/09/180900101. There's also a history of crucifixion in this country."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102163,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900103.",
+		"TextJPN": "「……ジロウさんもわかると思うけど、槍でほんの一突き二突きされた程度じゃ人は絶命なんてできない」",
+		"NamesENG": "Takano",
+		"TextENG": "You probably know this already Jirou-san, but people don't really die from being stabbed once or twice."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102164,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900106.",
+		"TextJPN": "「くすくす、そんな緩慢な死を思えば、ギロチンなんて人道的な発明よね」",
+		"NamesENG": "Takano",
+		"TextENG": "Hee hee, in that sense, a guillotine is such a merciful tool."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102165,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900107.",
+		"TextJPN": "「そうそう知ってる？@k@vS12/09/180900108.　ギロチンってね、貴族のために生み出されたんですってよ？」",
+		"NamesENG": "Takano",
+		"TextENG": "Did you know?@k@vS12/09/180900108. The guillotine was invented for the nobility."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102166,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900109.",
+		"TextJPN": "「銃殺や絞首刑よりも、もっともっと綺麗にあっさりすっぱりと死ねるように生み出した、死の際まで特別扱いしてもらえる貴族のための処刑道具」",
+		"NamesENG": "Takano",
+		"TextENG": "It was invented because they were able to die instantly, which wasn't the case with shooting or hanging. The nobles got special treatment all the way up to death."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102167,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900115.",
+		"TextJPN": "「神父のお祈りも最期に言い残す言葉も何もなしよ？@k@vS12/09/180900121.　くすくすくすくす」",
+		"NamesENG": "Takano",
+		"TextENG": "There's no last words or prayers or anything!@k@vS12/09/180900121. Hee hee hee hee."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102168,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900122.",
+		"TextJPN": "「そんな濃密な死と拷問で飾り立てられたのが、このオヤシロさまという存在なわけ！」",
+		"NamesENG": "Takano",
+		"TextENG": "Oyashiro-sama here was the one who made this brutal torture possible...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102169,
+		"TextJPN": "鷹野は芝居がかった身振りで、ご神体の像を仰いで見せた。",
+		"TextENG": "Takano raises her hand to honor the statue of Oyashiro-sama."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102170,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900123.",
+		"TextJPN": "「オヤシロさまという存在は結局、人間が生み出した偶像なの。@k@vS12/09/180900124.その偶像は、恐怖で祭り上げられることで神聖化した。@k@vS12/09/180900125.そう、人が法則や戒律で石垣を組み上げ、呪いや祟り、奇跡や恐怖の漆喰でそれを固める」",
+		"NamesENG": "Takano",
+		"TextENG": "``Oyashiro-sama is just an idol created by human beings.@k@vS12/09/180900124. That idol was worshiped with fear and made divine.@k@vS12/09/180900125. Yes, people laid the bricks of his church with rules and doctrines, strengthening it with the mortar of curses and malediction."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102171,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900126.",
+		"TextJPN": "「それらを積み上げて積み上げて雲の上にまで届く高みを作り、その上に立てられるのが神という存在なの。@k@vS12/09/180900127.神は人が欲するゆえに人が生んだ人の手による存在」",
+		"NamesENG": "Takano",
+		"TextENG": "As they stacked and stacked those bricks up high, its height reached up to heaven and their god was placed above it all.@k@vS12/09/180900127. Gods are born because people desire them."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102172,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900129.",
+		"TextJPN": "「それがここではオヤシロさまという存在になるのよ！@k@vS12/09/180900130.　つまり、神の世界へ至る階段は神ではなく人の手で作られていたことの証左であり私たち人間をさらなる高みへ誘う指針を示して、」",
+		"NamesENG": "Takano",
+		"TextENG": "And here, they call that god Oyashiro-sama!!!@k@vS12/09/180900130. In other words, this proves that the stairs to godhood are built not by gods, but by human hands, and shows the way for us humans to attain further heights, and...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102173,
+		"TextJPN": "鷹野の妄想的演説は、ドタンドタンという騒々しい音に遮られた。",
+		"TextENG": "Her passionate lecture was interrupted by a loud noise."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102174,
+		"TextJPN": "振り返れば、…………両目いっぱいに涙を溜めて、固くまぶたを閉じてぼろぼろとこぼしながら、飛び跳ねて抗議する羽入がいた…。",
+		"TextENG": "As I looked back, Hanyuu was jumping up and down with her eyes full of tears..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102175,
+		"TextJPN": "ドタン、@|@y@kドタン、@|@y@k…ドタン。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "*Thud*@|@y@k *Thud*@|@y@k ...*Thud*"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102176,
+		"TextJPN": "あらん限りの力で踵を力強く踏み鳴らし、届かぬ声に代わって、最大限の抗議を示していた。",
+		"TextENG": "She was stomping the floor as hard as she could, making a loud noise instead of screaming out with her unheard voice."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102177,
+		"TextJPN": "……もっとも、声でも音でも同じだ。",
+		"TextENG": "However, it all amounted to the same thing..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102178,
+		"TextJPN": "羽入は人に何も伝えることはできないのだ。",
+		"TextENG": "Hanyuu cannot be heard by people."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102179,
+		"NamesJPN": "羽入",
+		"PreTextTags": "@vS12/12/181100104.",
+		"TextJPN": "「……違うのです…。@k@vS12/12/181100105.……違うのです…。@k@vS12/12/181100106.……僕は……そんなのじゃないのです……」",
+		"NamesENG": "Hanyuu",
+		"TextENG": "``That's not right...@k@vS12/12/181100105. That's not right...@k@vS12/12/181100106. I'm not... like that...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102180,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500368.",
+		"TextJPN": "「……………………羽入…」",
+		"NamesENG": "Rika",
+		"TextENG": "``............Hanyuu...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102181,
+		"NamesJPN": "羽入",
+		"PreTextTags": "@vS12/12/181100108.",
+		"TextJPN": "「みんなで一緒に、仲良く楽しく暮らしてくれればいいのです……。@k@vS12/12/181100109.もちろん、僕たちが悪いところもいっぱいありますです」",
+		"NamesENG": "Hanyuu",
+		"TextENG": "``I want people to be happy together...@k@vS12/12/181100109. Of course, not everything is perfect..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102182,
+		"NamesJPN": "羽入",
+		"PreTextTags": "@vS12/12/181100110.",
+		"TextJPN": "「でもでも、……そんなのを望んだことなんて一度もないのです………！！」",
+		"NamesENG": "Hanyuu",
+		"TextENG": "But I never asked people to do such horrible things...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102183,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500369.",
+		"TextJPN": "「…………羽入。@k@vS12/05/180500370.…羽入は羽入よ。@k@vS12/05/180500371.…オヤシロさまなんて、あなたとは関係のないことでしょう……」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Hanyuu.@k@vS12/05/180500370. ...You are who you are.@k@vS12/05/180500371. Oyashiro-sama has nothing to do with you...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102184,
+		"NamesJPN": "羽入",
+		"PreTextTags": "@vS12/12/181100111.",
+		"TextJPN": "「…違うのです…、…違うのです………。@k@vS12/12/181100112.…あうあうあぅあぅ…、あうあぅあぅあぅ！」",
+		"NamesENG": "Hanyuu",
+		"TextENG": "``That's not right... that's not right...@k@vS12/12/181100112. Au au au au... Au au au au!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102185,
+		"NamesJPN": "羽入",
+		"PreTextTags": "@vS12/12/181100113.",
+		"TextJPN": "「鷹野は嫌いです、嫌いなのです…！！@k@vS12/12/181100114.　いっつも僕のことを酷く言いますのです、酷く言いますのです……、言いますのです…………！！」",
+		"NamesENG": "Hanyuu",
+		"TextENG": "I hate Takano... I hate her...!!@k@vS12/12/181100114. She always says horrible things about me... She's a bully...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102186,
+		"TextJPN": "…………やっぱり、鷹野を入れるべきではなかったのだろう。",
+		"TextENG": "Was it a bad idea for me to bring Takano in here...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102187,
+		"TextJPN": "…鷹野がこういう話を始めることは想像のついていたことだ。",
+		"TextENG": "I knew that Takano would get overstimulated and say something like this..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102188,
+		"TextJPN": "ひとつだけ幸運なことは、羽入の抗議が間接的に伝わり、鷹野の演説を中断できたことだった。",
+		"TextENG": "Fortunately, Hanyuu's rejection indirectly reached Takano, and she stopped lecturing."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102189,
+		"TextJPN": "どういうわけか、……富竹には羽入の抗議の音が聞こえたらしいのだ。",
+		"TextENG": "Somehow, Tomitake had heard the noise that Hanyuu made."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102190,
+		"TextJPN": "富竹は唇の前に人差し指を立て、沈黙を促していた。",
+		"TextENG": "He pressed his finger in front of his lips and told Takano to be quiet."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102191,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900131.",
+		"TextJPN": "「……何事なの？」",
+		"NamesENG": "Takano",
+		"TextENG": "``What is it...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102192,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS12/08/180800035.",
+		"TextJPN": "「うん…。@k@vS12/08/180800036.……さっき、子どもが遠くで飛び跳ねるような音が聞こえたんだよ。@k@vS12/08/180800037.……この建物の周りで子どもが遊んでいるのかもしれない」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Well...@k@vS12/08/180800036. I just heard a sound like a child was jumping around...@k@vS12/08/180800037. There might be a child somewhere near this building.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102193,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900132.",
+		"TextJPN": "「…………………そう………？@k@vS12/09/180900133.　私には何の気配も感じないけれど…？」",
+		"NamesENG": "Takano",
+		"TextENG": "``..........Really......?@k@vS12/09/180900133. I didn't hear anything...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102194,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS12/08/180800038.",
+		"TextJPN": "「…いや、確かに聞こえたよ。@k@vS12/08/180800039.……鷹野さん、ここへはお忍びで入れてもらってるんだ。@k@vS12/08/180800040.梨花ちゃんの立場にも配慮して、もう少し静かに見学しないと悪いよ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``I'm sure I heard it...@k@vS12/08/180800039. Takano-san, we're in here in secret.@k@vS12/08/180800040. I think you should look around without making any noise.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102195,
+		"TextJPN": "せっかくいい気持ちで喋っていたのに、とでも言いたそうな顔で憮然となる鷹野だったが、富竹の言う方が正しい。大人しく口を噤んでくれた。",
+		"TextENG": "Takano seemed disappointed, but Tomitake was right. She had no choice but to be quiet."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102196,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500372.",
+		"TextJPN": "「………富竹。@k@vS12/05/180500373.周りに子どもなんて居ませんですよ」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Tomitake.@k@vS12/05/180500373. There are no children around this place.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102197,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS12/08/180800041.",
+		"TextJPN": "「そうかい？@k@vS12/08/180800042.　梨花ちゃんには聞こえなかったかい？@k@vS12/08/180800043.　僕は確かに飛び跳ねるような音を聞いたんだけどなぁ…」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Are you sure?@k@vS12/08/180800042. You didn't hear it either?@k@vS12/08/180800043. I'm sure I heard a noise...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102198,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500374.",
+		"TextJPN": "「もちろん、ボクも聞きましたですよ。@k@vS12/05/180500375.……遠くではなく、僕のすぐ後でドタンドタン跳ねていましたです。@k@vS12/05/180500376.富竹には遠くに聞こえたでしょうが、ボクにはすぐ後だったので、うるさいくらいでしたですよ」",
+		"NamesENG": "Rika",
+		"TextENG": "``I heard it too.@k@vS12/05/180500375. But it wasn't coming from outside the building... It was jumping right behind me.@k@vS12/05/180500376. I guess you heard it from far away, but it was very loud to me.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102199,
+		"TextJPN": "私の後には祭壇があり、…そこにはオヤシロさまのご神体が立っている。",
+		"TextENG": "I was standing in front of the altar, and the statue of Oyashiro-sama was right behind me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102200,
+		"TextJPN": "富竹は私の言う意味を、薄気味悪く捉えたようだった。",
+		"TextENG": "Tomitake seemed freaked out after hearing what I just told him."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102201,
+		"TextJPN": "苦笑いを浮かべるが表情が見る見る青ざめていく。",
+		"TextENG": "Although he was trying to fake a smile, his face was turning pale."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102202,
+		"TextJPN": "…だが、一番怖がってほしい肝心の鷹野は、こういう時に限って鈍感で、全然怖がってはくれなかった。",
+		"TextENG": "However, Takano didn't seem scared at all..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102203,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500377.",
+		"TextJPN": "「………鷹野。@k@vS12/05/180500378.祭具殿の中でオヤシロさまを怒らせるようなことを言うのは禁止なのです。@k@vS12/05/180500379.オヤシロさまがとても怒っていますのです。@k@vS12/05/180500380.その声が聞こえませんか…？」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Takano.@k@vS12/05/180500378. You can't say things that would upset Oyashiro-sama in front of him.@k@vS12/05/180500379. Oyashiro-sama is very angry now.@k@vS12/05/180500380. Can't you hear his voice...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102204,
+		"TextJPN": "まぁ、聞こえなくて幸いだ。",
+		"TextENG": "It's fortunate that she can't, to be honest."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102205,
+		"TextJPN": "聞こえたとしても、ベソと、あぅあぅしか聞こえない。",
+		"TextENG": "Even if she heard it, it would be nothing but tears."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102206,
+		"TextJPN": "……そもそも、オヤシロさまの怒りを、人間にもわかるように伝えるのが、オヤシロさまの巫女の役目だ。",
+		"TextENG": "My job as a shrine maiden to begin with is to tell humans what Oyashiro-sama is feeling."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102207,
+		"TextJPN": "……私は羽入の意志を代弁するのが生まれながらの務めなのだから。",
+		"TextENG": "I'm responsible for speaking on Hanyuu's behalf."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102208,
+		"TextJPN": "私の口調がいつになく真面目なのを汲み取ってくれたのだろうか。",
+		"TextENG": "Takano must have realized that I was very serious about what I just said."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102209,
+		"TextJPN": "…鷹野は普段からは想像もつかないくらいあっさりと謝ってくれた。",
+		"TextENG": "She apologized to me right away."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102210,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900134.",
+		"TextJPN": "「…ごめんなさい。@k@vS12/09/180900135.いささか調子に乗りすぎたわ。@k@vS12/09/180900136.オヤシロさまもごめんなさい。@k@vS12/09/180900137.人が崇めればそれは神。@k@vS12/09/180900138.たとえ私が崇めなくても神聖は犯されない。@k@vS12/09/180900139.面白半分に冒涜したことを謝るわ」",
+		"NamesENG": "Takano",
+		"TextENG": "``I'm sorry...@k@vS12/09/180900135. I took it too far.@k@vS12/09/180900136. I'm sorry, Oyashiro-sama.@k@vS12/09/180900137. You are a god, as long as people worship you.@k@vS12/09/180900138. Even though I may not worship you, you are still holy.@k@vS12/09/180900139. I'm sorry for disrespecting you.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102211,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500381.",
+		"TextJPN": "「………オヤシロさまは甘いものが大好きなのです。@k@vS12/05/180500382.ボクを経由してお供えしないと、祟りがありますですよ」",
+		"NamesENG": "Rika",
+		"TextENG": "``Oyashiro-sama loves sweet food.@k@vS12/05/180500382. You'll get cursed, unless you offer something sweet through me.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102212,
+		"TextJPN": "富竹が苦笑する。@k鷹野も一瞬笑ったが、神妙に頭を下げて、今度シュークリームを買ってきてお供えしますと言ってくれた。",
+		"TextENG": "Tomitake couldn't help but smile.@k Takano also smiled. She bowed to me, promising to bring over some cream puffs soon."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102213,
+		"TextJPN": "とりあえず、鷹野は話をやめてくれたし、やめてほしいという意思も伝わった。",
+		"TextENG": "Takano finally stopped saying bad things about Oyashiro-sama."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102214,
+		"TextJPN": "甘いものも今度買って来てくれるという。",
+		"TextENG": "She also promised to bring me something sweet."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102215,
+		"TextJPN": "……まだ半ベソをかいている羽入だったが、とりあえず納得をしたようだ。",
+		"TextENG": "Hanyuu was still upset, but she was probably satisfied for the moment."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102216,
+		"TextJPN": "……だが、羽入が立てている三本の指の意味が気になる。",
+		"TextENG": "But I didn't know what she meant by the three fingers she was showing to me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102217,
+		"TextJPN": "…それも伝えろというのか。@k………巫女っていうのはつくづく因果な役目だ。",
+		"TextENG": "Was she telling me to ask Takano for that too...?@k Being her shrine maiden is not an easy thing..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102218,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500383.",
+		"TextJPN": "「オヤシロさまは、シュークリームは最低でも３つ欲しいと言ってますですよ。@k@vS12/05/180500384.………ボクが食べたいわけではないので誤解しないで欲しいのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``Oyashiro-sama is saying that he wants at least three cream puffs.@k@vS12/05/180500384. ......I just want to make it clear that it's not me asking for that.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102219,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900139_1.",
+		"TextJPN": "「ぷ、…あははは、あっはっはっはっはっは！」",
+		"NamesENG": "Takano",
+		"TextENG": "``Pff, ahahaha, ah ha ha ha ha ha!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102220,
+		"TextJPN": "場を和ませるための私の冗談だと受け取ったのだろう。@k鷹野は腹を抱えて大笑いする。",
+		"TextENG": "They took it as a joke I made to reduce the tension.@k Tomitake and Takano cracked up, holding their stomachs."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102221,
+		"TextJPN": "羽入は何で二人が笑い転げるのかわからず、目を白黒させていた。",
+		"TextENG": "Hanyuu was looking at them with surprise, not knowing why they were laughing."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102222,
+		"TextJPN": "私は赤面して恥ずかしさに耐えているのみだ。",
+		"TextENG": "My face, meanwhile, was turning red with embarrassment."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102223,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900140.",
+		"TextJPN": "「わかったわ。@k@vS12/09/180900141.オヤシロさまのためにおいしいシュークリームを３つ買ってくるわね。@k@vS12/09/180900142.梨花ちゃんや沙都子ちゃんの分もいくつか買った方がいいのかしら？」",
+		"NamesENG": "Takano",
+		"TextENG": "``Fine.@k@vS12/09/180900141. I'll get three delicious cream puffs for Oyashiro-sama.@k@vS12/09/180900142. Should I get some for you and Satoko-chan too?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102224,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500385.",
+		"TextJPN": "「いえ、ボクの分はいいのです。@k@vS12/05/180500386.……………その代わり、どうしても聞いてもらいたい話がありますのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``No, I don't need any.@k@vS12/05/180500386. .........But there is something that I want to tell you...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102225,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS12/09/180900143.",
+		"TextJPN": "「何かしら。@k@vS12/09/180900144.……今日は祭具殿に入れてもらえるというわがままを聞いてもらえたんだから、それに見合うわがままには応えるつもりよ」",
+		"NamesENG": "Takano",
+		"TextENG": "``What is it...?@k@vS12/09/180900144. Since you let me inside the storehouse today, I'm willing to do anything for you now.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102226,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/180500387.",
+		"TextJPN": "「…………ボクが今から話すことを、絶対に信じて欲しいのです。@k@vS12/05/180500388.どうして、とか、そんな馬鹿な、とかはなしなのです。@k@vS12/05/180500389.だから、絶対に信じて、運命に打ち勝って、……私を助けてほしいのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``Then...... I want you to believe what I am about to tell you now.@k@vS12/05/180500388. Please don't ask me why, or make fun of me.@k@vS12/05/180500389. Please believe me, and change fate to save me...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102227,
+		"TextJPN": "富竹も鷹野も、多分、初めて見るだろう私の真剣な様子に、驚きを感じているようだった。",
+		"TextENG": "Both of them are surprised to see such a serious look on my face."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102228,
+		"TextJPN": "だが、彼らはきっと驚くだろう。",
+		"TextENG": "I was sure they'd be surprised."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102229,
+		"TextJPN": "…私が今から、二人が後日迎えることになる逃れえぬ死について説明するからだ。",
+		"TextENG": "After all, I was about to explain to them that they were going to die in two days."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102230,
+		"TextJPN": "彼らはそんな馬鹿なと否定したがるだろう。",
+		"TextENG": "I'm sure they'd want to deny that."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102231,
+		"TextJPN": "でも、私は少なくともこの二人の死についてだけは、かなり具体的に知っている。",
+		"TextENG": "But I knew a fair bit about their deaths."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102232,
+		"TextJPN": "だから、簡単に笑い捨てられないくらい細かく説明できるだろう。",
+		"TextENG": "If I could explain it to them in detail, they wouldn't be able to laugh it off."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102233,
+		"TextJPN": "……………もちろん、以前にも同じように、彼らに死の運命を告げたことはある。@k信じてはもらえなかった。",
+		"TextENG": "I'd talked to them about it several times in previous lives,@k but they never took it seriously."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102234,
+		"TextJPN": "信じてもらえる確率が極少であることは覚悟している…。",
+		"TextENG": "I only had that slight possibility that they might believe me..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102235,
+		"TextJPN": "でも、信じてもらえる顛末は、奇跡というほどのレベルじゃない。",
+		"TextENG": "Hopefully, the possibility is as small as a miracle."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102236,
+		"TextJPN": "サイコロの何れか一面には刻まれている程度のものだ。",
+		"TextENG": "It should be engraved on the side of a die."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102237,
+		"TextJPN": "仲間たちがみんな運命に打ち勝ち、次々と６の目を出す幸運の連続。",
+		"TextENG": "My friends overcame their fates, and they all rolled a six."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102238,
+		"TextJPN": "もしそれを奇跡と呼んでもいいならば。",
+		"TextENG": "Should I call that a miracle...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102239,
+		"TextJPN": "どうか神さま、…ここでもう一度サイコロに６の目を。",
+		"TextENG": "Please, God... Let me roll a six again..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 102240,
+		"TextJPN": "彼らに眼前に迫りつつある死の運命を信じさせてください…。",
+		"TextENG": "Please let them believe that death is upon them..."
+	}
+]

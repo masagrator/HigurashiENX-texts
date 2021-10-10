@@ -1,430 +1,428 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "箱選びゲーム",
-            "ENG": "What's in the Box?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14580,
-            "TextJPN": "人生に選択肢なんて、あると思う？",
-            "TextENG": "Do you believe that there are choices in life?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14581,
-            "TextJPN": "よく嘆く人がいる。",
-            "TextENG": "There are many people who lament the following:"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14582,
-            "TextJPN": "人生の節々で、明確な選択肢が設けられていたならば、それを吟味し、よりよい未来へ自分を誘えるのに、と。",
-            "TextENG": "If there only existed points in life where there were clear choices to make, we would be able to scrutinize those carefully and make decisions that would lead us to a better future."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14583,
-            "TextJPN": "…私はそういう嘆きを漏れ聞く度に、下らない悩みだな、と思うのだ。",
-            "TextENG": "Every time I hear people lament as such, I cast it off as a rather trivial worry."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14584,
-            "TextJPN": "選択肢を与えられたって、どうせ何の意味もないし、よりよい未来へ自分を誘えることなんて何もない。",
-            "TextENG": "Even if you were given a clear choice, it wouldn't be meaningful at all, and there wouldn't be any such path to a better future."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14585,
-            "TextJPN": "……話がわかりにくい？",
-            "TextENG": "...Is this hard to understand?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14586,
-            "TextJPN": "じゃあ仮に、あなたの目の前に２つの怪しげな箱を置いてあげよう。",
-            "TextENG": "Then let's pretend that in front of you there are two strange boxes."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14587,
-            "TextJPN": "そして、そこに２つだけの選択肢を与えてやるとする。",
-            "TextENG": "In other words, you have two clear choices."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14588,
-            "TextJPN": "曰く、赤い箱を開けるか、青い箱を開けるか。",
-            "TextENG": "Do you open the red box, or the blue box?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14589,
-            "TextJPN": "あなたはいろいろと迷うだろう。",
-            "TextENG": "A lot of things would be uncertain even with that choice, wouldn't they?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14590,
-            "TextJPN": "開けなくてはならないなら、赤か青か、自分にとってよりよい方を開けたいと願うのは自然な欲求だ。",
-            "TextENG": "If you don't have the option of opening neither, then your choice boils down to the natural impulse of opening the box that holds the better result for you."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14591,
-            "TextJPN": "そして、箱の形状や気配、諸々を勘案し、やがて苦慮の末、赤か青か、どちらかを選択するに違いない。",
-            "TextENG": "Then, after examining the shape and features of each, and pondering a great many things, you have to pick either the red or the blue."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14592,
-            "TextJPN": "………あなたなら、どっちの箱を選ぶ？",
-            "TextENG": "...If this was you, which box would you open?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14593,
-            "TextJPN": "赤と青。",
-            "TextENG": "Red or blue?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14594,
-            "TextJPN": "…刷り込まれた信号機の法則に従うなら、赤は危険を意味する色。",
-            "TextENG": "...If you were to go by their traditional meanings, then red would be a dangerous, threatening color."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14595,
-            "TextJPN": "でも、だからといって、青という色が安全を保証するものでもない。",
-            "TextENG": "However, that doesn't automatically mean that it would be calm and relaxing inside the blue box, either."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14596,
-            "TextJPN": "むしろ、赤を警戒させて、青を開けさせようという罠かもしれない。",
-            "TextENG": "In fact, it might even be that the colors are a trap, make you wary of the red box and have you open the blue."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14597,
-            "TextJPN": "罠？",
-            "TextENG": "A trap?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14598,
-            "TextJPN": "…この中身には得をするものでなく、損をさせるものが入っているかもしれない…？",
-            "TextENG": "...Could it be the contents of the box aren't a reward, but rather a penalty?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14599,
-            "TextJPN": "さぁさぁ…あなたは迷ってきた。",
-            "TextENG": "See...? Now you're at a loss."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14600,
-            "TextJPN": "赤か青かの選択に葛藤し、…箱を開けずにここから立ち去るという選択肢も欲しくなってきたに違いない。",
-            "TextENG": "You're so conflicted over the choice between red and blue that you've started wishing there was an option to open neither and just leave."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14601,
-            "TextJPN": "でもだめ。@k赤か青のどちらかを開けなくてはならない。",
-            "TextENG": "But there isn't.@k You have to open either the red box or the blue box."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14602,
-            "TextJPN": "あ、言い忘れたけれども、あなたが片方を選ぶと、もう片方の箱は消えてしまう。",
-            "TextENG": "Oh, I forgot to say this, but if you choose one box, the other will disappear."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14603,
-            "TextJPN": "だから、選ばなかった方の箱の中身は知ることができない。@kそういうルールがあることを、最後に付け加えておくね？",
-            "TextENG": "So you'll never know the contents of the box you don't open.@k I'll just put that rule at the end there for you."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14604,
-            "TextJPN": "さぁ。@k選んでごらん？",
-            "TextENG": "Now.@k Why don't you choose?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14605,
-            "TextJPN": "赤い箱か、青い箱。",
-            "TextENG": "The red box, or the blue box?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14606,
-            "TextJPN": "…大丈夫、どっちも損なものは入っていないから。@k…ほら。",
-            "TextENG": "...It's all right, you won't lose anything by picking either one.@k ...Come on now."
-        },
-        {
-            "type": "SELECT",
-            "metadata": "1s, 1s, @0x0000, 4095n,",
-            "count": 2,
-            "titleJPN": "赤い箱、青い箱",
-            "choice1JPN": "赤い箱を開ける",
-            "choice2JPN": "青い箱を開ける",
-            "titleENG": "Red box / Blue box",
-            "choice1ENG": "Open the red box",
-            "choice2ENG": "Open the blue box",
-            "Explanation": "On first play: After choice1 from 14613 it will jump to 14615. After choice2 from 14612 it will jump to 14614. On every next play: After choice1 from 14613 it will jump to 14615 and next to 14632. After choice2 from 14612 it will jump to 14614 and next to 14632."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14607,
-            "TextJPN": "よく考えた？",
-            "TextENG": "Have you thought about it?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14608,
-            "TextJPN": "その結果、この色を選んだのね？",
-            "TextENG": "In the end, you chose this color, didn't you?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14609,
-            "TextJPN": "…あなたが選んだ時点で、もう片方の色の箱はパッと消えてしまった。",
-            "TextENG": "...As soon as you chose, the other box disappeared."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14610,
-            "TextJPN": "そっちの箱の中身はもう諦めてね？",
-            "TextENG": "So you can give up on the contents of that one, okay?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14611,
-            "TextJPN": "そういうルールなんだから。",
-            "TextENG": "That's the rule."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14612,
-            "TextJPN": "さ、あなたの選んだ箱を開けてみよう。",
-            "TextENG": "Now, open up the box you chose."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14613,
-            "TextJPN": "箱の中からは、……キャラメルが１つぶ。",
-            "TextENG": "Inside the box there was... a piece of caramel."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14614,
-            "TextJPN": "箱の中からは、……チューイングガムが１枚。",
-            "TextENG": "Inside the box there was... a stick of chewing gum."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14615,
-            "TextJPN": "……あなたが少しがっかりしてるのが分かる。",
-            "TextENG": "...I know you're a little disappointed."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14616,
-            "TextJPN": "そりゃそうよね。",
-            "TextENG": "Well that's only natural."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14617,
-            "TextJPN": "どう見ても、ハズレっぽいものね。",
-            "TextENG": "No matter how you look at it, it looks like you drew the dud."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14618,
-            "TextJPN": "正解の箱には、ひょっとすると、板チョコが１枚くらいは入ってたかもしれないものね。",
-            "TextENG": "The correct box might have had a bar of chocolate in it, for all you know."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14619,
-            "TextJPN": "いや、ひょっとすると、ハワイにペアでご招待なんていう、もっともっとすごいものが入っていたかもしれない。",
-            "TextENG": "No, in fact, something incredible like a pair of tickets to Hawaii might have been in there."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14620,
-            "TextJPN": "でも、それを確かめたくても、もうひとつの箱はもう消えてしまっている。",
-            "TextENG": "But even if you wanted to verify that, the other box has already disappeared."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14621,
-            "TextJPN": "それを確かめる術はない。",
-            "TextENG": "There's no way you can check now."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14622,
-            "TextJPN": "だからあなたはプラス思考で考えてみることにするの。",
-            "TextENG": "But if you think about it from an optimistic point of view..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14623,
-            "TextJPN": "ひょっとすると…もう片方の箱は空っぽで、むしろこの箱はアタリだったのかもしれない、と。",
-            "TextENG": "Just maybe... the other box was empty, and this box was the winner."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14624,
-            "TextJPN": "そしてその安っぽい賞品に満足して（あるいは不満でもいい）、それをポイ！と口に放り込んで、もぐもぐとやって満足してしまうのだ。",
-            "TextENG": "And being satisfied (or perhaps not) with such a cheap prize, you pop it into your mouth and start chewing it happily."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14625,
-            "TextJPN": "で、最後にあなたは思うのかしら？",
-            "TextENG": "So, what do you think in the end?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14626,
-            "TextJPN": "次に同じ選択肢が与えられたら、反対の箱を開けてみようって？",
-            "TextENG": "If you were given a second chance, would you try to open the other box?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14627,
-            "TextJPN": "……でも、お気の毒だけど、赤い箱と青い箱を選ぶなんてゲームは二度とあなたには訪れない。",
-            "TextENG": "...But unfortunately, the chance to choose between the red box or the blue box has come and gone, never to be seen again."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14628,
-            "TextJPN": "だから、選択肢を選びなおす機会など、一生訪れない。",
-            "TextENG": "The chance to change your selection will never come."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14629,
-            "TextJPN": "人生の選択は一度しかないから、慎重にって、よく親に言われるでしょう？",
-            "TextENG": "Don't your parents often say: Every choice you make in life only happens once, so choose carefully?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14630,
-            "TextJPN": "くすくすくすくす……。",
-            "TextENG": "Hee hee hee..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14631,
-            "TextJPN": "ね？@k　選択肢なんて、大したものじゃない。@k…ちょっと幻滅した？@k　あっはははははは……。",
-            "TextENG": "See?@k Choices aren't that great after all.@k ...Aren't you a little disillusioned now?@k Ahhahahahahaha..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14632,
-            "TextJPN": "……あなたは今、なぁんだと思ってる。",
-            "TextENG": "...Right now you're thinking: ``That's it?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14633,
-            "TextJPN": "そう、赤と青の箱の中身は、キャラメル１つぶと、チューイングガム１枚。",
-            "TextENG": "That's right, the contents of the red box and the blue box were a piece of caramel and a stick of chewing gum."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14634,
-            "TextJPN": "さっきはハズレだと思ってたかもしれないけど、こうして並べると、どっちがハズレとも言い難いのがわかるでしょ。",
-            "TextENG": "You might have thought you made the wrong choice before, but now seeing them together like this, you can't really say that either choice was the wrong one."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14635,
-            "TextJPN": "まぁ、でも、人の好みもあるもんね。",
-            "TextENG": "Well, I guess everybody has their personal preferences."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14636,
-            "TextJPN": "キャラメルの方が好きだとか、ガムの方が好きだとか。",
-            "TextENG": "If you prefer caramel to gum, for example."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14637,
-            "TextJPN": "…あなたの好みによって、あなたはきっと開ける箱を選びなおそうと思うに違いない。",
-            "TextENG": "...You're definitely thinking of choosing to open the box again based on that preference."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14638,
-            "TextJPN": "…あなたが欲しがっている選択肢ってのは、つまりそういうもの。",
-            "TextENG": "...The clear choices you wanted were basically this."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14639,
-            "TextJPN": "両方の箱の中身を見比べて、良い方を選びたいっていうわがままのこと。",
-            "TextENG": "The selfish desire to open up both boxes and compare the contents, then pick the one most suited to you."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14640,
-            "TextJPN": "でもね？@k　現実の世の中は今のゲームと同じ。",
-            "TextENG": "But you see,@k reality is the same as this game."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14641,
-            "TextJPN": "片方を選んだら、選ばなかった方は消えてしまう。@kだから確かめられない。",
-            "TextENG": "If you pick one, the one you didn't choose disappears.@k So there's no way you could check the result."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14642,
-            "TextJPN": "もしもあの時、@k××をしていたら、@kもしくはしていなかったら、@k…きっと今よりも幸福に（もしくは不幸に）なっていたはずだ、なんて、わかりようもない。",
-            "TextENG": "If at that time,@k if you had done this,@k or perhaps if you had done that...@k then it wouldn't be hard to imagine that you could be happier (or perhaps less happy) than you are right now."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14643,
-            "TextJPN": "結局、選んだ選択肢に納得し、あるいはがっかりし、一応の満足をする他ないのだ。",
-            "TextENG": "In the end, you only have the pleasure of approving of or being disappointed by the choice that you did make."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14644,
-            "TextJPN": "でもいいじゃない。",
-            "TextENG": "But that's fine."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14645,
-            "TextJPN": "選択肢というスリルは、一応、楽しめたでしょ？",
-            "TextENG": "After all, didn't you enjoy the thrill of making the choice?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14646,
-            "TextJPN": "こうして、２つの箱の中身を知ってしまったなら。@k赤か青かの選択なんて、暇潰しにもなりゃしない。",
-            "TextENG": "If, like now, you knew the contents of both boxes,@k then the choice between the red box or the blue box would just be a waste of time."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 14647,
-            "TextJPN": "こんなつまらない箱遊びよりも、変わりやすい夏の夕暮れの空を見上げて、遠雷に耳を澄ませながら、夕立が降るか降らないかを迷う方が、ずっと楽しいんだから。",
-            "TextENG": "Because instead of this boring game about boxes, you could be looking at the quickly-changing evening summer sky, listening for the distant sound of thunder, and pondering if it's going to rain or not... that would be much more fun."
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "箱選びゲーム",
+		"ENG": "What's in the Box?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14580,
+		"TextJPN": "人生に選択肢なんて、あると思う？",
+		"TextENG": "Do you believe that there are choices in life?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14581,
+		"TextJPN": "よく嘆く人がいる。",
+		"TextENG": "There are many people who lament the following:"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14582,
+		"TextJPN": "人生の節々で、明確な選択肢が設けられていたならば、それを吟味し、よりよい未来へ自分を誘えるのに、と。",
+		"TextENG": "If there only existed points in life where there were clear choices to make, we would be able to scrutinize those carefully and make decisions that would lead us to a better future."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14583,
+		"TextJPN": "…私はそういう嘆きを漏れ聞く度に、下らない悩みだな、と思うのだ。",
+		"TextENG": "Every time I hear people lament as such, I cast it off as a rather trivial worry."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14584,
+		"TextJPN": "選択肢を与えられたって、どうせ何の意味もないし、よりよい未来へ自分を誘えることなんて何もない。",
+		"TextENG": "Even if you were given a clear choice, it wouldn't be meaningful at all, and there wouldn't be any such path to a better future."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14585,
+		"TextJPN": "……話がわかりにくい？",
+		"TextENG": "...Is this hard to understand?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14586,
+		"TextJPN": "じゃあ仮に、あなたの目の前に２つの怪しげな箱を置いてあげよう。",
+		"TextENG": "Then let's pretend that in front of you there are two strange boxes."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14587,
+		"TextJPN": "そして、そこに２つだけの選択肢を与えてやるとする。",
+		"TextENG": "In other words, you have two clear choices."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14588,
+		"TextJPN": "曰く、赤い箱を開けるか、青い箱を開けるか。",
+		"TextENG": "Do you open the red box, or the blue box?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14589,
+		"TextJPN": "あなたはいろいろと迷うだろう。",
+		"TextENG": "A lot of things would be uncertain even with that choice, wouldn't they?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14590,
+		"TextJPN": "開けなくてはならないなら、赤か青か、自分にとってよりよい方を開けたいと願うのは自然な欲求だ。",
+		"TextENG": "If you don't have the option of opening neither, then your choice boils down to the natural impulse of opening the box that holds the better result for you."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14591,
+		"TextJPN": "そして、箱の形状や気配、諸々を勘案し、やがて苦慮の末、赤か青か、どちらかを選択するに違いない。",
+		"TextENG": "Then, after examining the shape and features of each, and pondering a great many things, you have to pick either the red or the blue."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14592,
+		"TextJPN": "………あなたなら、どっちの箱を選ぶ？",
+		"TextENG": "...If this was you, which box would you open?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14593,
+		"TextJPN": "赤と青。",
+		"TextENG": "Red or blue?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14594,
+		"TextJPN": "…刷り込まれた信号機の法則に従うなら、赤は危険を意味する色。",
+		"TextENG": "...If you were to go by their traditional meanings, then red would be a dangerous, threatening color."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14595,
+		"TextJPN": "でも、だからといって、青という色が安全を保証するものでもない。",
+		"TextENG": "However, that doesn't automatically mean that it would be calm and relaxing inside the blue box, either."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14596,
+		"TextJPN": "むしろ、赤を警戒させて、青を開けさせようという罠かもしれない。",
+		"TextENG": "In fact, it might even be that the colors are a trap, make you wary of the red box and have you open the blue."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14597,
+		"TextJPN": "罠？",
+		"TextENG": "A trap?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14598,
+		"TextJPN": "…この中身には得をするものでなく、損をさせるものが入っているかもしれない…？",
+		"TextENG": "...Could it be the contents of the box aren't a reward, but rather a penalty?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14599,
+		"TextJPN": "さぁさぁ…あなたは迷ってきた。",
+		"TextENG": "See...? Now you're at a loss."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14600,
+		"TextJPN": "赤か青かの選択に葛藤し、…箱を開けずにここから立ち去るという選択肢も欲しくなってきたに違いない。",
+		"TextENG": "You're so conflicted over the choice between red and blue that you've started wishing there was an option to open neither and just leave."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14601,
+		"TextJPN": "でもだめ。@k赤か青のどちらかを開けなくてはならない。",
+		"TextENG": "But there isn't.@k You have to open either the red box or the blue box."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14602,
+		"TextJPN": "あ、言い忘れたけれども、あなたが片方を選ぶと、もう片方の箱は消えてしまう。",
+		"TextENG": "Oh, I forgot to say this, but if you choose one box, the other will disappear."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14603,
+		"TextJPN": "だから、選ばなかった方の箱の中身は知ることができない。@kそういうルールがあることを、最後に付け加えておくね？",
+		"TextENG": "So you'll never know the contents of the box you don't open.@k I'll just put that rule at the end there for you."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14604,
+		"TextJPN": "さぁ。@k選んでごらん？",
+		"TextENG": "Now.@k Why don't you choose?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14605,
+		"TextJPN": "赤い箱か、青い箱。",
+		"TextENG": "The red box, or the blue box?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14606,
+		"TextJPN": "…大丈夫、どっちも損なものは入っていないから。@k…ほら。",
+		"TextENG": "...It's all right, you won't lose anything by picking either one.@k ...Come on now."
+	},
+	{
+		"type": "SELECT",
+		"metadata": "1s, 1s, @0x0000, 4095n,",
+		"count": 2,
+		"titleJPN": "赤い箱、青い箱",
+		"choice1JPN": "赤い箱を開ける",
+		"choice2JPN": "青い箱を開ける",
+		"titleENG": "Red box / Blue box",
+		"choice1ENG": "Open the red box",
+		"choice2ENG": "Open the blue box",
+		"Explanation": "On first play: After choice1 from 14613 it will jump to 14615. After choice2 from 14612 it will jump to 14614. On every next play: After choice1 from 14613 it will jump to 14615 and next to 14632. After choice2 from 14612 it will jump to 14614 and next to 14632."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14607,
+		"TextJPN": "よく考えた？",
+		"TextENG": "Have you thought about it?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14608,
+		"TextJPN": "その結果、この色を選んだのね？",
+		"TextENG": "In the end, you chose this color, didn't you?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14609,
+		"TextJPN": "…あなたが選んだ時点で、もう片方の色の箱はパッと消えてしまった。",
+		"TextENG": "...As soon as you chose, the other box disappeared."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14610,
+		"TextJPN": "そっちの箱の中身はもう諦めてね？",
+		"TextENG": "So you can give up on the contents of that one, okay?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14611,
+		"TextJPN": "そういうルールなんだから。",
+		"TextENG": "That's the rule."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14612,
+		"TextJPN": "さ、あなたの選んだ箱を開けてみよう。",
+		"TextENG": "Now, open up the box you chose."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14613,
+		"TextJPN": "箱の中からは、……キャラメルが１つぶ。",
+		"TextENG": "Inside the box there was... a piece of caramel."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14614,
+		"TextJPN": "箱の中からは、……チューイングガムが１枚。",
+		"TextENG": "Inside the box there was... a stick of chewing gum."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14615,
+		"TextJPN": "……あなたが少しがっかりしてるのが分かる。",
+		"TextENG": "...I know you're a little disappointed."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14616,
+		"TextJPN": "そりゃそうよね。",
+		"TextENG": "Well that's only natural."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14617,
+		"TextJPN": "どう見ても、ハズレっぽいものね。",
+		"TextENG": "No matter how you look at it, it looks like you drew the dud."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14618,
+		"TextJPN": "正解の箱には、ひょっとすると、板チョコが１枚くらいは入ってたかもしれないものね。",
+		"TextENG": "The correct box might have had a bar of chocolate in it, for all you know."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14619,
+		"TextJPN": "いや、ひょっとすると、ハワイにペアでご招待なんていう、もっともっとすごいものが入っていたかもしれない。",
+		"TextENG": "No, in fact, something incredible like a pair of tickets to Hawaii might have been in there."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14620,
+		"TextJPN": "でも、それを確かめたくても、もうひとつの箱はもう消えてしまっている。",
+		"TextENG": "But even if you wanted to verify that, the other box has already disappeared."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14621,
+		"TextJPN": "それを確かめる術はない。",
+		"TextENG": "There's no way you can check now."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14622,
+		"TextJPN": "だからあなたはプラス思考で考えてみることにするの。",
+		"TextENG": "But if you think about it from an optimistic point of view..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14623,
+		"TextJPN": "ひょっとすると…もう片方の箱は空っぽで、むしろこの箱はアタリだったのかもしれない、と。",
+		"TextENG": "Just maybe... the other box was empty, and this box was the winner."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14624,
+		"TextJPN": "そしてその安っぽい賞品に満足して（あるいは不満でもいい）、それをポイ！と口に放り込んで、もぐもぐとやって満足してしまうのだ。",
+		"TextENG": "And being satisfied (or perhaps not) with such a cheap prize, you pop it into your mouth and start chewing it happily."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14625,
+		"TextJPN": "で、最後にあなたは思うのかしら？",
+		"TextENG": "So, what do you think in the end?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14626,
+		"TextJPN": "次に同じ選択肢が与えられたら、反対の箱を開けてみようって？",
+		"TextENG": "If you were given a second chance, would you try to open the other box?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14627,
+		"TextJPN": "……でも、お気の毒だけど、赤い箱と青い箱を選ぶなんてゲームは二度とあなたには訪れない。",
+		"TextENG": "...But unfortunately, the chance to choose between the red box or the blue box has come and gone, never to be seen again."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14628,
+		"TextJPN": "だから、選択肢を選びなおす機会など、一生訪れない。",
+		"TextENG": "The chance to change your selection will never come."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14629,
+		"TextJPN": "人生の選択は一度しかないから、慎重にって、よく親に言われるでしょう？",
+		"TextENG": "Don't your parents often say: Every choice you make in life only happens once, so choose carefully?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14630,
+		"TextJPN": "くすくすくすくす……。",
+		"TextENG": "Hee hee hee..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14631,
+		"TextJPN": "ね？@k　選択肢なんて、大したものじゃない。@k…ちょっと幻滅した？@k　あっはははははは……。",
+		"TextENG": "See?@k Choices aren't that great after all.@k ...Aren't you a little disillusioned now?@k Ahhahahahahaha..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14632,
+		"TextJPN": "……あなたは今、なぁんだと思ってる。",
+		"TextENG": "...Right now you're thinking: ``That's it?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14633,
+		"TextJPN": "そう、赤と青の箱の中身は、キャラメル１つぶと、チューイングガム１枚。",
+		"TextENG": "That's right, the contents of the red box and the blue box were a piece of caramel and a stick of chewing gum."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14634,
+		"TextJPN": "さっきはハズレだと思ってたかもしれないけど、こうして並べると、どっちがハズレとも言い難いのがわかるでしょ。",
+		"TextENG": "You might have thought you made the wrong choice before, but now seeing them together like this, you can't really say that either choice was the wrong one."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14635,
+		"TextJPN": "まぁ、でも、人の好みもあるもんね。",
+		"TextENG": "Well, I guess everybody has their personal preferences."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14636,
+		"TextJPN": "キャラメルの方が好きだとか、ガムの方が好きだとか。",
+		"TextENG": "If you prefer caramel to gum, for example."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14637,
+		"TextJPN": "…あなたの好みによって、あなたはきっと開ける箱を選びなおそうと思うに違いない。",
+		"TextENG": "...You're definitely thinking of choosing to open the box again based on that preference."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14638,
+		"TextJPN": "…あなたが欲しがっている選択肢ってのは、つまりそういうもの。",
+		"TextENG": "...The clear choices you wanted were basically this."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14639,
+		"TextJPN": "両方の箱の中身を見比べて、良い方を選びたいっていうわがままのこと。",
+		"TextENG": "The selfish desire to open up both boxes and compare the contents, then pick the one most suited to you."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14640,
+		"TextJPN": "でもね？@k　現実の世の中は今のゲームと同じ。",
+		"TextENG": "But you see,@k reality is the same as this game."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14641,
+		"TextJPN": "片方を選んだら、選ばなかった方は消えてしまう。@kだから確かめられない。",
+		"TextENG": "If you pick one, the one you didn't choose disappears.@k So there's no way you could check the result."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14642,
+		"TextJPN": "もしもあの時、@k××をしていたら、@kもしくはしていなかったら、@k…きっと今よりも幸福に（もしくは不幸に）なっていたはずだ、なんて、わかりようもない。",
+		"TextENG": "If at that time,@k if you had done this,@k or perhaps if you had done that...@k then it wouldn't be hard to imagine that you could be happier (or perhaps less happy) than you are right now."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14643,
+		"TextJPN": "結局、選んだ選択肢に納得し、あるいはがっかりし、一応の満足をする他ないのだ。",
+		"TextENG": "In the end, you only have the pleasure of approving of or being disappointed by the choice that you did make."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14644,
+		"TextJPN": "でもいいじゃない。",
+		"TextENG": "But that's fine."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14645,
+		"TextJPN": "選択肢というスリルは、一応、楽しめたでしょ？",
+		"TextENG": "After all, didn't you enjoy the thrill of making the choice?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14646,
+		"TextJPN": "こうして、２つの箱の中身を知ってしまったなら。@k赤か青かの選択なんて、暇潰しにもなりゃしない。",
+		"TextENG": "If, like now, you knew the contents of both boxes,@k then the choice between the red box or the blue box would just be a waste of time."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 14647,
+		"TextJPN": "こんなつまらない箱遊びよりも、変わりやすい夏の夕暮れの空を見上げて、遠雷に耳を澄ませながら、夕立が降るか降らないかを迷う方が、ずっと楽しいんだから。",
+		"TextENG": "Because instead of this boring game about boxes, you could be looking at the quickly-changing evening summer sky, listening for the distant sound of thunder, and pondering if it's going to rain or not... that would be much more fun."
+	}
+]

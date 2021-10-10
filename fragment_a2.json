@@ -1,691 +1,689 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "A2 定期監査",
-            "ENG": "A2 A Routine Inspection"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3677,
-            "TextJPN": "スライドによる説明が終わり、会議室に灯りが点くと、監査スタッフたちは誰からともなく拍手を始め、入江機関の劇的快挙を讃えたのだった。",
-            "TextENG": "The lights came on in the meeting room as the slideshow ended, and all the auditors began to applaud, praising the Irie Institution's dramatic accomplishments."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3678,
-            "NamesJPN": "官僚",
-            "PreTextTags": "@vS20/00/VTK1_kanryouA1007.",
-            "TextJPN": "「素晴らしい、実に素晴らしい！@k@vS20/00/VTK1_kanryouA1008.　本音を言わせてもらえば、私はこの雛見沢症候群の研究はあまり期待していませんでした」",
-            "NamesENG": "Kanryou",
-            "TextENG": "``Wonderful, absolutely wonderful!!@k@vS20/00/VTK1_kanryouA1008. To be honest with you, I wasn't expecting too much from this Hinamizawa Syndrome research.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3679,
-            "NamesJPN": "官僚",
-            "PreTextTags": "@vS20/00/VTK1_kanryouB1006.",
-            "TextJPN": "「仮に進むとしても１０年単位で三歩進んで二歩下がるような研究になると思っていました」",
-            "NamesENG": "Kanryou",
-            "TextENG": "``I figured that even if there was progress, it would be three steps forward and two steps back every decade.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3680,
-            "NamesJPN": "官僚",
-            "PreTextTags": "@vS20/00/VTK1_kanryouC1005.",
-            "TextJPN": "「いやいや！@k@vS20/00/VTK1_kanryouC1006.　それが短期間の間にこれだけの成果を挙げられるとは！@k@vS20/00/VTK1_kanryouC1007.　入江所長の努力と指導の賜物です！」",
-            "NamesENG": "Kanryou",
-            "TextENG": "``Oh my!@k@vS20/00/VTK1_kanryouC1006. How impressive it is to achieve so much in such a short period of time!@k@vS20/00/VTK1_kanryouC1007. This is all thanks to you, Director Irie!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3681,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS20/10/VTK1_irie1001.",
-            "TextJPN": "「そんなことはありません。@k@vS20/10/VTK1_irie1002.私を支えてくださる優秀なスタッフと、そちらの鷹野さんのお陰です」",
-            "NamesENG": "Irie",
-            "TextENG": "``Oh, no.@k@vS20/10/VTK1_irie1002. This is all because of the staff that supported me, and Takano-san too.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3682,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/VTK1_takano1009.",
-            "TextJPN": "「ご謙遜を。@k@vS20/09/VTK1_takano1010.くすくすくす。@k@vS20/09/VTK1_takano1011.やはり脳に関しては入江所長は天才ですわ。@k@vS20/09/VTK1_takano1012.何しろ、脳に関しては誰も及ばない実績をお持ちなのですから」",
-            "NamesENG": "Takano",
-            "TextENG": "``Don't be so humble.@k@vS20/09/VTK1_takano1010. Hee hee hee.@k@vS20/09/VTK1_takano1011. Director Irie is a genius in the field of neurology.@k@vS20/09/VTK1_takano1012. After all, he's also produced greater achievements than any other doctor when it comes to the brain.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3683,
-            "NamesJPN": "官僚",
-            "PreTextTags": "@vS20/00/VTK1_kanryouA1009.",
-            "TextJPN": "「そうですなぁ！@k@vS20/00/VTK1_kanryouA1010.　あなたと同じ歳の医者で、あなたほど大勢の脳みそをご覧になってきた方はおりますまい！」",
-            "NamesENG": "Kanryou",
-            "TextENG": "``That's true!@k@vS20/00/VTK1_kanryouA1010. Not many doctors as young as you have nearly as much experience operating on brains.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3684,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/VTK1_tomitake1001.",
-            "TextJPN": "「おめでとうございます、入江二佐。@k@vS20/08/VTK1_tomitake1002.私もこれで『東京』に胸を張って報告に帰れます」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Congratulations, Lieutenant Colonel Irie!@k@vS20/08/VTK1_tomitake1002. Now I can go back to Tokyo with my head held high.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3685,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS20/10/VTK1_irie1003.",
-            "TextJPN": "「富竹さんによいお土産が持たせられて光栄です。@k@vS20/10/VTK1_irie1004.あと、二佐というのはご勘弁を、どうしても馴染めませんので…。@k@vS20/10/VTK1_irie1005.というか、リサさんって聞こえるんですよね」",
-            "NamesENG": "Irie",
-            "TextENG": "``I'm honored we gave you something good to take back with you, Tomitake-san.@k@vS20/10/VTK1_irie1004. By the way, could you please stop calling me Lieutenant Colonel? I just can't get used to it...@k@vS20/10/VTK1_irie1005. I almost prefer 'Risa-san' at this point.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3686,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/VTK1_tomitake1003.",
-            "TextJPN": "「あっはっはっは！@k@vS20/08/VTK1_tomitake1004.　まるで女性の名前みたいに聞こえますねぇ！」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Ah ha ha ha!@k@vS20/08/VTK1_tomitake1004. I bet you do, huh?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3687,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/VTK1_takano1013.",
-            "TextJPN": "「くすくす。@k@vS20/09/VTK1_takano1014.でも、ジロウさんも影の立役者ですわね。@k@vS20/09/VTK1_takano1015.なかなか成果の出せない私たちの予算を、ジロウさんが懸命に努力して維持してくださったお陰ですわ」",
-            "NamesENG": "Takano",
-            "TextENG": "``Hee hee.@k@vS20/09/VTK1_takano1014. You sure were a huge help.@k@vS20/09/VTK1_takano1015. You're the one who secured funding for our research, even when we couldn't produce feasible results. We couldn't have done this without you.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3688,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/VTK1_tomitake1005.",
-            "TextJPN": "「いや、…はっはっはっは…！@k@vS20/08/VTK1_tomitake1006.　でも、今回の成果は劇的です。@k@vS20/08/VTK1_tomitake1007.雛見沢症候群の病原体を特定し、今後の研究計画に具体的道筋をつけることができました。@k@vS20/08/VTK1_tomitake1008.以後の進捗監査がとても楽しみになります」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``It wasn't any trouble... ha ha ha ha...!@k@vS20/08/VTK1_tomitake1006. But really, the results you've presented today are just brilliant!@k@vS20/08/VTK1_tomitake1007. Not only have you found the cause of the syndrome, you've also provided a clear path towards future research.@k@vS20/08/VTK1_tomitake1008. We're looking forward to hearing more progress when we come again next time.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3689,
-            "NamesJPN": "官僚",
-            "PreTextTags": "@vS20/00/VTK1_kanryouA1011.",
-            "TextJPN": "「これだけの成果があれば、『東京』はねちっこく予算を削減しろとは言いますまい」",
-            "NamesENG": "Kanryou",
-            "TextENG": "``I'm sure the Tokyo office will quit bothering us about cutting your budget with these sorts of results.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3690,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/VTK1_takano1016.",
-            "TextJPN": "「くすくす。@k@vS20/09/VTK1_takano1017.何しろ、皆さんにお出ししている缶コーヒーの予算まで削られそうになったんですものねぇ？」",
-            "NamesENG": "Takano",
-            "TextENG": "``Hee hee.@k@vS20/09/VTK1_takano1017. After all, we nearly lost our budget for the canned coffee we provided to you all, didn't we?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3691,
-            "NamesJPN": "官僚たち",
-            "PreTextTags": "@o65.@vS20/00/VTK1_kanryouA1012|S20/00/VTK1_kanryouB1007|S20/00/VTK1_kanryouC1008.",
-            "TextJPN": "「「どわっはっはっはっはっは！」」",
-            "NamesENG": "Bureaucrats",
-            "TextENG": "``````Bwaaa ha ha ha ha ha!!!``````"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3692,
-            "NamesJPN": "官僚",
-            "PreTextTags": "@vS20/00/VTK1_kanryouA1013.",
-            "TextJPN": "「富竹くん、『東京』にしっかり報告して祝杯が挙げられるくらいの予算はつけるよう具申してあげなさい」",
-            "NamesENG": "Kanryou",
-            "TextENG": "``Tomitake-kun, make sure you report our progress to Tokyo well enough that they give us enough funding to hold a party!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3693,
-            "NamesJPN": "官僚",
-            "PreTextTags": "@vS20/00/VTK1_kanryouB1008.",
-            "TextJPN": "「ムチばっかりではいかんね、アメもないとね！」",
-            "NamesENG": "Kanryou",
-            "TextENG": "``We've been getting nothing but the stick, it's time for the carrot!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3694,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/VTK1_tomitake1009.",
-            "TextJPN": "「ははははは、そのアメは予算で還元していただけると一番嬉しいのですが」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Hahahaha, we'll be happiest if that carrot comes back in the shape of funding.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3695,
-            "NamesJPN": "官僚たち",
-            "PreTextTags": "@o65.@vS20/00/VTK1_kanryouA1014|S20/00/VTK1_kanryouB1009|S20/00/VTK1_kanryouC1009.",
-            "TextJPN": "「「うわっはっはっはっはっは！！！」」",
-            "NamesENG": "Bureaucrats",
-            "TextENG": "``````Waa ha ha ha ha ha!!!``````"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3696,
-            "TextJPN": "そんな和気藹々とした雰囲気の中、定期監査は終了した。",
-            "TextENG": "And with that congenial atmosphere, our routine audit was over."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3697,
-            "TextJPN": "監査スタッフに混じっている国立研究所の人間たちは、入江を取り囲んで質問攻めを続けていた。",
-            "TextENG": "Irie was surrounded and being questioned by National Institute of Infectious Diseases workers who had joined the auditors."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3698,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/VTK1_tomitake1010.",
-            "TextJPN": "「鷹野さん、おめでとう。@k@|@y@vS20/08/VTK1_tomitake1011.みんなの前では言えないけれど、今日の成果は全て鷹野さんの積み重ねによるものだよ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Takano-san, congratulations!@k@|@y@vS20/08/VTK1_tomitake1011. I can't really say this out loud, but all the progress I've seen tonight is thanks to your hard work.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3699,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/VTK1_takano1018.",
-            "TextJPN": "「くす。@k@vS20/09/VTK1_takano1019.ありがとう、ジロウさん」",
-            "NamesENG": "Takano",
-            "TextENG": "``Hee hee.@k@vS20/09/VTK1_takano1019. Thank you, Jirou-san.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3700,
-            "TextJPN": "今この場にいる人間の中には、入江機関設立を巡って黒幕たちが人事で暗躍していたことを知るのは鷹野と富竹しかいない。",
-            "TextENG": "Jirou-san and I are the only ones here who know that strings were pulled in order to create the Irie Institute."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3701,
-            "TextJPN": "…だから、富竹だけが鷹野の苦労をねぎらってくれた。",
-            "TextENG": "...So only Jirou-san can understand what I had to go through."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3702,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/VTK1_takano1020.",
-            "TextJPN": "「でも、これでようやく研究の舞台に立てたというところね。@k@vS20/09/VTK1_takano1021.私の挑むべき相手がようやく同じ土俵に上がってくれただけ。@k@vS20/09/VTK1_takano1022.正念場はこれからよ」",
-            "NamesENG": "Takano",
-            "TextENG": "``But I've only just risen to the stage for my research.@k@vS20/09/VTK1_takano1021. My opponent and I are finally in the same arena, that's all.@k@vS20/09/VTK1_takano1022. The critical fight comes after this."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3703,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/VTK1_takano1023.",
-            "TextJPN": "「そして、ここからがもっとも楽しいところになりそうだけど」",
-            "NamesENG": "Takano",
-            "TextENG": "And it should be getting even more exciting in the future.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3704,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/VTK1_tomitake1012.",
-            "TextJPN": "「あはははは。@k@vS20/08/VTK1_tomitake1013.それでね、今回の件で中川本部長の方から、ぜひ『東京』で報告会をしてほしいと伝言を託ってるんだ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Aha ha ha.@k@vS20/08/VTK1_tomitake1013. By the way, Manager Nakagawa told me to tell you that he wants you to hold a presentation in Tokyo."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3705,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/VTK1_tomitake1014.",
-            "TextJPN": "「アルファベットの理事会も、ぜひ君と会合を設けたいって言ってたよ。@k@vS20/08/VTK1_tomitake1015.みんな君に直接話を聞いてみたいようだねぇ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "Even the Alphabet board wants you to come meet with them.@k@vS20/08/VTK1_tomitake1015. I guess they all want to hear this directly from you.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3706,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/VTK1_takano1024.",
-            "TextJPN": "「あらあら、ジロウさんを経由した報告じゃあ物足りないのかしら？」",
-            "NamesENG": "Takano",
-            "TextENG": "``Oh my, isn't having you explain enough?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3707,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/VTK1_tomitake1016.",
-            "TextJPN": "「いや、あっはっはっは！@k@vS20/08/VTK1_tomitake1017.　そ、そういう意味じゃないとは思うけどなぁ…！@k@vS20/08/VTK1_tomitake1018.　き、きっと噂の美人研究員を直接見てみたいんじゃないかなぁ、なんて、あっはっはっは…！」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Nah, ah ha ha ha!@k@vS20/08/VTK1_tomitake1017. I-I don't think that's what they mean...!@k@vS20/08/VTK1_tomitake1018. I-I bet they want to meet such a pretty researcher in person, maybe, ah ha ha ha...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3708,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/VTK1_takano1025.",
-            "TextJPN": "「あらいやだ、ジロウさんったら。@k@vS20/09/VTK1_takano1026.くすくすくす」",
-            "NamesENG": "Takano",
-            "TextENG": "``My my, aren't you being silly, Jirou-san?@k@vS20/09/VTK1_takano1026. Hee hee hee.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3709,
-            "NamesJPN": "山狗",
-            "PreTextTags": "@vS20/00/VTK1_yamaB1001.",
-            "TextJPN": "「失礼します。@k@vS20/00/VTK1_yamaB1002.鷹野三佐、『東京』からお電話です」",
-            "NamesENG": "Mountain Dog",
-            "TextENG": "``Excuse me.@k@vS20/00/VTK1_yamaB1002. Major Takano, there's a phone call for you from Tokyo.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3710,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/VTK1_takano1027.",
-            "TextJPN": "「お待たせしました。@k@vS20/09/VTK1_takano1028.鷹野です」",
-            "NamesENG": "Takano",
-            "TextENG": "``Thank you for holding,@k@vS20/09/VTK1_takano1028. this is Takano.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3711,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS20/00/VTK1_koizumi1001.",
-            "TextJPN": "「お～～～、元気にやってるかの～？！」",
-            "NamesENG": "???",
-            "TextENG": "``Heeey, how are you doing?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3712,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/VTK1_takano1029.",
-            "TextJPN": "「こ、小泉先生！！@k@vS20/09/VTK1_takano1030.　わざわざお電話をいただけるなんて、とても恐縮でございます…！」",
-            "NamesENG": "Takano",
-            "TextENG": "``K-Koizumi-sensei!!@k@vS20/09/VTK1_takano1030. Thank you for taking time to call me...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3713,
-            "NamesJPN": "小泉",
-            "PreTextTags": "@vS20/00/VTK1_koizumi1002.",
-            "TextJPN": "「わっはっはっは！@k@vS20/00/VTK1_koizumi1003.　いやぁな、三四ちゃんの研究が大金星を挙げたという話が来てなぁ～。@k@vS20/00/VTK1_koizumi1004.お祝いを言おうと思って電話したんだ」",
-            "NamesENG": "Koizumi",
-            "TextENG": "``Wa ha ha ha!@k@vS20/00/VTK1_koizumi1003. You know, I heard you made a significant breakthrough, Miyo-chan,@k@vS20/00/VTK1_koizumi1004. so I had to call to congratulate you!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3714,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/VTK1_takano1031.",
-            "TextJPN": "「ありがとうございます…！！@k@vS20/09/VTK1_takano1032.　はい、お陰様で研究の第一段階であり、最大の目標でもあった雛見沢症候群の病原体特定に成功しました」",
-            "NamesENG": "Takano",
-            "TextENG": "``Thank you very much!!@k@vS20/09/VTK1_takano1032. Yes, thanks to your support, we've been able to accomplish the first step of identifying the microbe that causes Hinamizawa Syndrome.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3715,
-            "NamesJPN": "小泉",
-            "PreTextTags": "@vS20/00/VTK1_koizumi1005.",
-            "TextJPN": "「ん～～ん～～、そうかそうか～！！@k@vS20/00/VTK1_koizumi1006.　ついにやったなぁ、三四ちゃん。@k@vS20/00/VTK1_koizumi1007.天国で高野くんもきっと大喜びしているだろうの！」",
-            "NamesENG": "Koizumi",
-            "TextENG": "``Mmm-hmm, I see, I see!!@k@vS20/00/VTK1_koizumi1006. Great job, Miyo-chan!@k@vS20/00/VTK1_koizumi1007. I'm sure Takano-kun is very happy in Heaven right now!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3716,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/VTK1_takano1033.",
-            "TextJPN": "「まだまだですわ。@k@vS20/09/VTK1_takano1034.祖父は、雛見沢症候群の病原体特定などという段階を超えて研究していました。@k@vS20/09/VTK1_takano1035.人の思想や意思が、実は人以外の寄生的存在によって支配されていた可能性」",
-            "NamesENG": "Takano",
-            "TextENG": "``That's a little too early to say.@k@vS20/09/VTK1_takano1034. My grandfather was attempting to go beyond merely identifying the cause of the syndrome.@k@vS20/09/VTK1_takano1035. His work was about showing the possibility of human thoughts actually being controlled by parasitic agents in our bodies."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3717,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/VTK1_takano1036.",
-            "TextJPN": "「…それを暴いて初めて祖父の研究は偉業と讃えられるのです。@k@vS20/09/VTK1_takano1037.くすくす。@k@vS20/09/VTK1_takano1038.世界中の思想や宗教が、全て寄生虫で説明できたなら、くすくす、世界は引っ繰り返るくらいの大騒ぎになるでしょうね」",
-            "NamesENG": "Takano",
-            "TextENG": "...Only when that is proven will his research be recognized for the great achievement it is.@k@vS20/09/VTK1_takano1037. Hee hee.@k@vS20/09/VTK1_takano1038. When we're able to explain all thoughts and religions with parasites, heehee, the world is going to be tossed into chaos.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3718,
-            "NamesJPN": "小泉",
-            "PreTextTags": "@vS20/00/VTK1_koizumi1008.",
-            "TextJPN": "「わっはっはっは。それは愉快だの～！！@k@vS20/00/VTK1_koizumi1009.　偉そうに振舞っとる宗教家連中が、単なる寄生虫の親玉に過ぎんと立証されたら、それは本当に愉快だろうの～！」",
-            "NamesENG": "Koizumi",
-            "TextENG": "``Wa ha ha ha ha. How interesting!!@k@vS20/00/VTK1_koizumi1009. I can just imagine how those religious big shots will react once they find out that their leaders are parasites!! How interesting!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3719,
-            "NamesJPN": "小泉",
-            "PreTextTags": "@vS20/00/VTK1_koizumi1010.",
-            "TextJPN": "「ぜひ、そんな愉快なのを見せてくれ。@k@vS20/00/VTK1_koizumi1011.三四ちゃんがそれを見せてくれるまで、私ゃ天国のお迎えを断り続けてるからな」",
-            "NamesENG": "Koizumi",
-            "TextENG": "I would love to see that.@k@vS20/00/VTK1_koizumi1011. I won't die until you show that to me, Miyo-chan.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3720,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/VTK1_takano1039.",
-            "TextJPN": "「縁起でもありませんわ。@k@vS20/09/VTK1_takano1040.でも楽しみにしていてくださいね。@k@vS20/09/VTK1_takano1041.きっと、世界中があっと驚く発表をして見せますから」",
-            "NamesENG": "Takano",
-            "TextENG": "``Please don't say that.@k@vS20/09/VTK1_takano1040. Do look forward to it, though.@k@vS20/09/VTK1_takano1041. I'll make sure that this research will spread shock throughout the world."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3721,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/VTK1_takano1042.",
-            "TextJPN": "「その時に初めて、世界中が祖父の偉業を知り、祖父が残した資料を奪い合って読み合うことになるでしょう。@k@vS20/09/VTK1_takano1043.…そこまで至って、私はようやく祖父への恩返しを終えるのです」",
-            "NamesENG": "Takano",
-            "TextENG": "Then the whole world will finally realize how great my grandfather was, and they'll be fighting each other to read over the documents he left behind.@k@vS20/09/VTK1_takano1043. Only then can I say that I've repaid my debt to him.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3722,
-            "NamesJPN": "小泉",
-            "PreTextTags": "@vS20/00/VTK1_koizumi1012.",
-            "TextJPN": "「…高野くんが羨ましいの～。@k@vS20/00/VTK1_koizumi1013.私ゃな、カネなんかこんなにいらんかった。@k@vS20/00/VTK1_koizumi1014.この半分は捨ててもいい。@k@vS20/00/VTK1_koizumi1015.あんたみたいな、自分の志を継いでくれる孫がひとりいてくれたらと思うよ」",
-            "NamesENG": "Koizumi",
-            "TextENG": "``...I'm a little envious of Takano-kun~.@k@vS20/00/VTK1_koizumi1013. I don't want money, you know.@k@vS20/00/VTK1_koizumi1014. I don't mind getting rid of half of what I have.@k@vS20/00/VTK1_koizumi1015. I just wish I had a grandchild who would carry on my legacy.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3723,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/VTK1_takano1044.",
-            "TextJPN": "「ありがとうございます。@k@vS20/09/VTK1_takano1045.身に余るお言葉です」",
-            "NamesENG": "Takano",
-            "TextENG": "``Thank you so much.@k@vS20/09/VTK1_takano1045. Those words mean so much to me.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3724,
-            "NamesJPN": "小泉",
-            "PreTextTags": "@vS20/00/VTK1_koizumi1016.",
-            "TextJPN": "「あとな、小泉のおじいちゃんからのプレゼントだ。@k@vS20/00/VTK1_koizumi1017.三四ちゃん宛てにな、祝杯用のワインを一本送らせた。@k@vS20/00/VTK1_koizumi1018.三四ちゃんの家の住所がわからんかったから、診療所宛てにしてある」",
-            "NamesENG": "Koizumi",
-            "TextENG": "``By the way, I sent you a present.@k@vS20/00/VTK1_koizumi1017. It's a nice bottle of wine for you to celebrate with.@k@vS20/00/VTK1_koizumi1018. I didn't know your address, so I sent it to the clinic."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3725,
-            "NamesJPN": "小泉",
-            "PreTextTags": "@vS20/00/VTK1_koizumi1019.",
-            "TextJPN": "「取り寄せに手間が掛かってるらしいからちょっと時間が掛かるかもしれんが、届いたら、三四ちゃんの研究を手伝ってくれた人たちを集めて、それを振舞ってあげなさい」",
-            "NamesENG": "Koizumi",
-            "TextENG": "However, they told me they're having a difficult time importing it, so it may take a little while. But when it comes, please have a party with the people who helped you.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3726,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/VTK1_takano1046.",
-            "TextJPN": "「祝杯用にワインなんて。@k@vS20/09/VTK1_takano1047.はてさて、小泉先生からどんな高級ワインが届くやら！」",
-            "NamesENG": "Takano",
-            "TextENG": "``Celebratory wine?@k@vS20/09/VTK1_takano1047. Well then, I wonder what expensive sort of drink Koizumi-sensei'll be sending us!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3727,
-            "NamesJPN": "小泉",
-            "PreTextTags": "@vS20/00/VTK1_koizumi1020.",
-            "TextJPN": "「そんな高級酒と違う。@k@vS20/00/VTK1_koizumi1021.三四ちゃんも覚えとらんかね。@k@vS20/00/VTK1_koizumi1022.高野くんが、いつも一本のワインを大切にしておったのを」",
-            "NamesENG": "Koizumi",
-            "TextENG": "``Oh, it's not that kind of expensive.@k@vS20/00/VTK1_koizumi1021. Don't you remember, Miyo-chan?@k@vS20/00/VTK1_koizumi1022. Takano-kun used to keep a particular bottle of wine.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3728,
-            "TextJPN": "…鷹野ははっとする…。",
-            "TextENG": "...I remember..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3729,
-            "TextJPN": "そうだ。",
-            "TextENG": "That's right."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3730,
-            "TextJPN": "祖父は一本の古いワインをとても大事にしていた。",
-            "TextENG": "My grandfather kept a certain bottle of wine."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3731,
-            "TextJPN": "買った物なのか、もらった物なのかはわからないけれど、@kとても大事にしていて、自分の研究が認められたらそれを開けようと日頃から言っていた気がする。",
-            "TextENG": "I don't know if he bought it himself or if someone gave it to him,@k but he treasured it, and he always said he'd open it when his research finally gained recognition."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3732,
-            "TextJPN": "当時は幼かったから、それが何というワインなのかわからないけれど、…その話を聞いていた小泉氏なら知っているはずだ…。",
-            "TextENG": "I was a child then, so I don't even remember what brand it was, but Mr. Koizumi would know."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3733,
-            "TextJPN": "…その、祖父縁のワインを、この記念すべき節目に贈ってくれるその心遣いに。",
-            "TextENG": "He went through all the trouble to find the same bottle of wine for this special occasion."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3734,
-            "TextJPN": "…鷹野は久し振りに、祖父と一緒だった頃に感じていた日溜りのような温かさを感じるのだった。",
-            "TextENG": "...For the first time in a while, Takano felt the same sunny warmth she experienced during her time with her grandfather."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3735,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/VTK1_takano1048.",
-            "TextJPN": "「ありがとうございます…。@k@vS20/09/VTK1_takano1049.…小泉のおじいちゃん…」",
-            "NamesENG": "Takano",
-            "TextENG": "``Thank you very much...@k@vS20/09/VTK1_takano1049. ...Uncle Koizumi...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3736,
-            "NamesJPN": "小泉",
-            "PreTextTags": "@vS20/00/VTK1_koizumi1023.",
-            "TextJPN": "「うむうむ。@k@vS20/00/VTK1_koizumi1024.やっぱり三四ちゃんにはそう呼ばれた方がしっくりくるの～！@k@vS20/00/VTK1_koizumi1025a.　どうも三四ちゃんに先生と言われても自分のことだと思えなくてな！　わっはっはっは！」",
-            "NamesENG": "Koizumi",
-            "TextENG": "``Hmmmm.@k@vS20/00/VTK1_koizumi1024. I like it when you call me that, Miyo-chan!!@k@vS20/00/VTK1_koizumi1025a. I don't feel like you're speaking to me when you say 'Koizumi-sensei'. Wa ha ha ha!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3737,
-            "TextJPN": "自分まで一緒に苦笑いしてしまう。",
-            "TextENG": "I can't help but smile along with him..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3738,
-            "TextJPN": "ついさっきも、富竹と入江がそんなやり取りをしていたように思うから。",
-            "TextENG": "Because I think Tomitake and Irie were just having a similar exchange."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3739,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/VTK1_takano1050.",
-            "TextJPN": "「そう呼ばれる方がお好きでしたら、人前以外ではそう呼んでも結構ですわよ。@k@vS20/09/VTK1_takano1051.くすくす」",
-            "NamesENG": "Takano",
-            "TextENG": "``If you like it that way, then I'll be happy to call you that when there's nobody around.@k@vS20/09/VTK1_takano1051. Hee hee.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3740,
-            "NamesJPN": "小泉",
-            "PreTextTags": "@vS20/00/VTK1_koizumi1027a.",
-            "TextJPN": "「う～～む、できれば人前でもそう呼んでもらえると喜ぶんだがの～！　わっはっはっは」",
-            "NamesENG": "Koizumi",
-            "TextENG": "``Hmm, I'll be happier if you'd call me that even in front of people! Wa ha ha ha.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3741,
-            "TextJPN": "今年でいくつになるんやら。",
-            "TextENG": "I don't know exactly how old he is."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3742,
-            "TextJPN": "未だにこれだけ快活にしゃべって笑うことができるなら、お迎えなんか当分来ないだろう。",
-            "TextENG": "But if he can laugh so energetically, he'll live for many more years to come."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3743,
-            "TextJPN": "…何とかは長生きするというのはどうも本当らしい。",
-            "TextENG": "...I guess the saying about living a long life is true after all."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3744,
-            "NamesJPN": "小泉",
-            "PreTextTags": "@vS20/00/VTK1_koizumi1029.",
-            "TextJPN": "「私も高野くんも、三四ちゃんのような子が本当の家族だったらと思うよ。@k@vS20/00/VTK1_koizumi1030.本当になぁ…」",
-            "NamesENG": "Koizumi",
-            "TextENG": "``Takano-kun and I both wished you were truly part of our family.@k@vS20/00/VTK1_koizumi1030. We really did...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3745,
-            "TextJPN": "…祖父にももちろん、家族はいた。",
-            "TextENG": "...My grandfather had his own family, of course."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3746,
-            "TextJPN": "だが、研究に打ち込むあまり、別居状態になり、籍だけは残している半離婚状態にあった。",
-            "TextENG": "But because he was so into his research, he became estranged from his wife. They were legally married, but they lived separately."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3747,
-            "TextJPN": "その家族とは私は少女時代に一度も会ったことはない。",
-            "TextENG": "I never met his family when I was a child."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3748,
-            "TextJPN": "…会ったのは、祖父が自殺してからだった。",
-            "TextENG": "I only met them... after my grandfather committed suicide."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3749,
-            "TextJPN": "晩年の祖父は心が弱っていて、自分の人生について非常に悲観的だった。",
-            "TextENG": "During his latter years, my grandfather went into psychological despair, and began to look at his life with cynicism."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3750,
-            "TextJPN": "さらに急激に進みだした呆けにショックを受け、自分の意識が次第に薄れていくのを恐れていた。",
-            "TextENG": "His condition became worse over time, and he was shocked at his own dementia. He was afraid of living while his consciousness degraded."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3751,
-            "TextJPN": "そして…、病院の屋上から飛び降りて死んだ。",
-            "TextENG": "So... he jumped off the rooftop of the hospital."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3752,
-            "TextJPN": "遺書にあった名は私だけ。",
-            "TextENG": "Only my name was in his suicide note."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3753,
-            "TextJPN": "そこには実の家族の名などなかった。",
-            "TextENG": "None of his family members' names were in it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3754,
-            "TextJPN": "その段階になって初めて家族や親類と称する一団が現れ、祖父の残した全てを奪い去っていった。",
-            "TextENG": "That's when all his relatives showed up and took everything my grandfather left behind."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3755,
-            "TextJPN": "連中は、私に遺産が持っていかれるのを非常に嫌がっていたっけ。",
-            "TextENG": "They were afraid I was going to get his estate."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3756,
-            "TextJPN": "弁護士やら何やらを立てて嫌らしく争ってきそうな雰囲気だったので、私から辞退したのだ。",
-            "TextENG": "They had lawyers and all that, so I backed down."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3757,
-            "TextJPN": "その代わり、祖父の書斎に残した物だけは全て引き継ぎたいと言った。",
-            "TextENG": "I asked for everything in his study in return."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3758,
-            "TextJPN": "凡庸な連中は祖父の研究の価値など知りもしない。",
-            "TextENG": "Those idiots don't understand the value of my grandfather's research."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3759,
-            "TextJPN": "書物の山や気持ち悪い標本瓶を片付けてくれた上に相続権を放棄してくれるならと大喜びで手を打ってくれたっけ。",
-            "TextENG": "They were actually happy to strike a deal out of court, and they could also get rid of the piles of papers and jars with human organs in them."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3760,
-            "TextJPN": "あれだけの長い間、一度も祖父の前に現れず、その死後にだけ現れるハイエナのような連中に、…祖父の魂である研究を、たとえメモ１枚とて許したくなかった。",
-            "TextENG": "They never even showed up once when he was alive, yet, like hyenas, they appeared after his death. I'd never let them put their hands all over my grandfather's research."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3761,
-            "TextJPN": "だから祖父の魂は、連中にわずかほども穢されずに済んだのだ…。",
-            "TextENG": "Fortunately, I was able to protect my grandfather's soul from their tainted hands."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3762,
-            "NamesJPN": "小泉",
-            "PreTextTags": "@vS20/00/VTK1_koizumi1031.",
-            "TextJPN": "「うむ。@k@vS20/00/VTK1_koizumi1032.それでは長くなると悪いからこれで切るな。@k@vS20/00/VTK1_koizumi1033.困ったことがあったら、いつでもおじいちゃんに頼りなさい。@k@vS20/00/VTK1_koizumi1034.孫娘のために、いくらでも一肌脱ぐからの～！」",
-            "NamesENG": "Koizumi",
-            "TextENG": "``Hmm.@k@vS20/00/VTK1_koizumi1032. Okay, I'll get going here.@k@vS20/00/VTK1_koizumi1033. If there's anything you need, be sure to call Uncle Koizumi, okay?@k@vS20/00/VTK1_koizumi1034. I'll do anything for my granddaughter!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3763,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/VTK1_takano1052.",
-            "TextJPN": "「ありがとう、小泉のおじいちゃん。@k@vS20/09/VTK1_takano1053.三四はもっともっと頑張りますね」",
-            "NamesENG": "Takano",
-            "TextENG": "``Thank you, Uncle Koizumi.@k@vS20/09/VTK1_takano1053. I'll work even harder!!``"
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "A2 定期監査",
+		"ENG": "A2 A Routine Inspection"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3677,
+		"TextJPN": "スライドによる説明が終わり、会議室に灯りが点くと、監査スタッフたちは誰からともなく拍手を始め、入江機関の劇的快挙を讃えたのだった。",
+		"TextENG": "The lights came on in the meeting room as the slideshow ended, and all the auditors began to applaud, praising the Irie Institution's dramatic accomplishments."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3678,
+		"NamesJPN": "官僚",
+		"PreTextTags": "@vS20/00/VTK1_kanryouA1007.",
+		"TextJPN": "「素晴らしい、実に素晴らしい！@k@vS20/00/VTK1_kanryouA1008.　本音を言わせてもらえば、私はこの雛見沢症候群の研究はあまり期待していませんでした」",
+		"NamesENG": "Kanryou",
+		"TextENG": "``Wonderful, absolutely wonderful!!@k@vS20/00/VTK1_kanryouA1008. To be honest with you, I wasn't expecting too much from this Hinamizawa Syndrome research.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3679,
+		"NamesJPN": "官僚",
+		"PreTextTags": "@vS20/00/VTK1_kanryouB1006.",
+		"TextJPN": "「仮に進むとしても１０年単位で三歩進んで二歩下がるような研究になると思っていました」",
+		"NamesENG": "Kanryou",
+		"TextENG": "``I figured that even if there was progress, it would be three steps forward and two steps back every decade.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3680,
+		"NamesJPN": "官僚",
+		"PreTextTags": "@vS20/00/VTK1_kanryouC1005.",
+		"TextJPN": "「いやいや！@k@vS20/00/VTK1_kanryouC1006.　それが短期間の間にこれだけの成果を挙げられるとは！@k@vS20/00/VTK1_kanryouC1007.　入江所長の努力と指導の賜物です！」",
+		"NamesENG": "Kanryou",
+		"TextENG": "``Oh my!@k@vS20/00/VTK1_kanryouC1006. How impressive it is to achieve so much in such a short period of time!@k@vS20/00/VTK1_kanryouC1007. This is all thanks to you, Director Irie!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3681,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS20/10/VTK1_irie1001.",
+		"TextJPN": "「そんなことはありません。@k@vS20/10/VTK1_irie1002.私を支えてくださる優秀なスタッフと、そちらの鷹野さんのお陰です」",
+		"NamesENG": "Irie",
+		"TextENG": "``Oh, no.@k@vS20/10/VTK1_irie1002. This is all because of the staff that supported me, and Takano-san too.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3682,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/VTK1_takano1009.",
+		"TextJPN": "「ご謙遜を。@k@vS20/09/VTK1_takano1010.くすくすくす。@k@vS20/09/VTK1_takano1011.やはり脳に関しては入江所長は天才ですわ。@k@vS20/09/VTK1_takano1012.何しろ、脳に関しては誰も及ばない実績をお持ちなのですから」",
+		"NamesENG": "Takano",
+		"TextENG": "``Don't be so humble.@k@vS20/09/VTK1_takano1010. Hee hee hee.@k@vS20/09/VTK1_takano1011. Director Irie is a genius in the field of neurology.@k@vS20/09/VTK1_takano1012. After all, he's also produced greater achievements than any other doctor when it comes to the brain.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3683,
+		"NamesJPN": "官僚",
+		"PreTextTags": "@vS20/00/VTK1_kanryouA1009.",
+		"TextJPN": "「そうですなぁ！@k@vS20/00/VTK1_kanryouA1010.　あなたと同じ歳の医者で、あなたほど大勢の脳みそをご覧になってきた方はおりますまい！」",
+		"NamesENG": "Kanryou",
+		"TextENG": "``That's true!@k@vS20/00/VTK1_kanryouA1010. Not many doctors as young as you have nearly as much experience operating on brains.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3684,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/VTK1_tomitake1001.",
+		"TextJPN": "「おめでとうございます、入江二佐。@k@vS20/08/VTK1_tomitake1002.私もこれで『東京』に胸を張って報告に帰れます」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Congratulations, Lieutenant Colonel Irie!@k@vS20/08/VTK1_tomitake1002. Now I can go back to Tokyo with my head held high.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3685,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS20/10/VTK1_irie1003.",
+		"TextJPN": "「富竹さんによいお土産が持たせられて光栄です。@k@vS20/10/VTK1_irie1004.あと、二佐というのはご勘弁を、どうしても馴染めませんので…。@k@vS20/10/VTK1_irie1005.というか、リサさんって聞こえるんですよね」",
+		"NamesENG": "Irie",
+		"TextENG": "``I'm honored we gave you something good to take back with you, Tomitake-san.@k@vS20/10/VTK1_irie1004. By the way, could you please stop calling me Lieutenant Colonel? I just can't get used to it...@k@vS20/10/VTK1_irie1005. I almost prefer 'Risa-san' at this point.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3686,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/VTK1_tomitake1003.",
+		"TextJPN": "「あっはっはっは！@k@vS20/08/VTK1_tomitake1004.　まるで女性の名前みたいに聞こえますねぇ！」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Ah ha ha ha!@k@vS20/08/VTK1_tomitake1004. I bet you do, huh?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3687,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/VTK1_takano1013.",
+		"TextJPN": "「くすくす。@k@vS20/09/VTK1_takano1014.でも、ジロウさんも影の立役者ですわね。@k@vS20/09/VTK1_takano1015.なかなか成果の出せない私たちの予算を、ジロウさんが懸命に努力して維持してくださったお陰ですわ」",
+		"NamesENG": "Takano",
+		"TextENG": "``Hee hee.@k@vS20/09/VTK1_takano1014. You sure were a huge help.@k@vS20/09/VTK1_takano1015. You're the one who secured funding for our research, even when we couldn't produce feasible results. We couldn't have done this without you.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3688,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/VTK1_tomitake1005.",
+		"TextJPN": "「いや、…はっはっはっは…！@k@vS20/08/VTK1_tomitake1006.　でも、今回の成果は劇的です。@k@vS20/08/VTK1_tomitake1007.雛見沢症候群の病原体を特定し、今後の研究計画に具体的道筋をつけることができました。@k@vS20/08/VTK1_tomitake1008.以後の進捗監査がとても楽しみになります」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``It wasn't any trouble... ha ha ha ha...!@k@vS20/08/VTK1_tomitake1006. But really, the results you've presented today are just brilliant!@k@vS20/08/VTK1_tomitake1007. Not only have you found the cause of the syndrome, you've also provided a clear path towards future research.@k@vS20/08/VTK1_tomitake1008. We're looking forward to hearing more progress when we come again next time.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3689,
+		"NamesJPN": "官僚",
+		"PreTextTags": "@vS20/00/VTK1_kanryouA1011.",
+		"TextJPN": "「これだけの成果があれば、『東京』はねちっこく予算を削減しろとは言いますまい」",
+		"NamesENG": "Kanryou",
+		"TextENG": "``I'm sure the Tokyo office will quit bothering us about cutting your budget with these sorts of results.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3690,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/VTK1_takano1016.",
+		"TextJPN": "「くすくす。@k@vS20/09/VTK1_takano1017.何しろ、皆さんにお出ししている缶コーヒーの予算まで削られそうになったんですものねぇ？」",
+		"NamesENG": "Takano",
+		"TextENG": "``Hee hee.@k@vS20/09/VTK1_takano1017. After all, we nearly lost our budget for the canned coffee we provided to you all, didn't we?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3691,
+		"NamesJPN": "官僚たち",
+		"PreTextTags": "@o65.@vS20/00/VTK1_kanryouA1012|S20/00/VTK1_kanryouB1007|S20/00/VTK1_kanryouC1008.",
+		"TextJPN": "「「どわっはっはっはっはっは！」」",
+		"NamesENG": "Bureaucrats",
+		"TextENG": "``````Bwaaa ha ha ha ha ha!!!``````"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3692,
+		"NamesJPN": "官僚",
+		"PreTextTags": "@vS20/00/VTK1_kanryouA1013.",
+		"TextJPN": "「富竹くん、『東京』にしっかり報告して祝杯が挙げられるくらいの予算はつけるよう具申してあげなさい」",
+		"NamesENG": "Kanryou",
+		"TextENG": "``Tomitake-kun, make sure you report our progress to Tokyo well enough that they give us enough funding to hold a party!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3693,
+		"NamesJPN": "官僚",
+		"PreTextTags": "@vS20/00/VTK1_kanryouB1008.",
+		"TextJPN": "「ムチばっかりではいかんね、アメもないとね！」",
+		"NamesENG": "Kanryou",
+		"TextENG": "``We've been getting nothing but the stick, it's time for the carrot!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3694,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/VTK1_tomitake1009.",
+		"TextJPN": "「ははははは、そのアメは予算で還元していただけると一番嬉しいのですが」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Hahahaha, we'll be happiest if that carrot comes back in the shape of funding.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3695,
+		"NamesJPN": "官僚たち",
+		"PreTextTags": "@o65.@vS20/00/VTK1_kanryouA1014|S20/00/VTK1_kanryouB1009|S20/00/VTK1_kanryouC1009.",
+		"TextJPN": "「「うわっはっはっはっはっは！！！」」",
+		"NamesENG": "Bureaucrats",
+		"TextENG": "``````Waa ha ha ha ha ha!!!``````"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3696,
+		"TextJPN": "そんな和気藹々とした雰囲気の中、定期監査は終了した。",
+		"TextENG": "And with that congenial atmosphere, our routine audit was over."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3697,
+		"TextJPN": "監査スタッフに混じっている国立研究所の人間たちは、入江を取り囲んで質問攻めを続けていた。",
+		"TextENG": "Irie was surrounded and being questioned by National Institute of Infectious Diseases workers who had joined the auditors."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3698,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/VTK1_tomitake1010.",
+		"TextJPN": "「鷹野さん、おめでとう。@k@|@y@vS20/08/VTK1_tomitake1011.みんなの前では言えないけれど、今日の成果は全て鷹野さんの積み重ねによるものだよ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Takano-san, congratulations!@k@|@y@vS20/08/VTK1_tomitake1011. I can't really say this out loud, but all the progress I've seen tonight is thanks to your hard work.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3699,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/VTK1_takano1018.",
+		"TextJPN": "「くす。@k@vS20/09/VTK1_takano1019.ありがとう、ジロウさん」",
+		"NamesENG": "Takano",
+		"TextENG": "``Hee hee.@k@vS20/09/VTK1_takano1019. Thank you, Jirou-san.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3700,
+		"TextJPN": "今この場にいる人間の中には、入江機関設立を巡って黒幕たちが人事で暗躍していたことを知るのは鷹野と富竹しかいない。",
+		"TextENG": "Jirou-san and I are the only ones here who know that strings were pulled in order to create the Irie Institute."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3701,
+		"TextJPN": "…だから、富竹だけが鷹野の苦労をねぎらってくれた。",
+		"TextENG": "...So only Jirou-san can understand what I had to go through."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3702,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/VTK1_takano1020.",
+		"TextJPN": "「でも、これでようやく研究の舞台に立てたというところね。@k@vS20/09/VTK1_takano1021.私の挑むべき相手がようやく同じ土俵に上がってくれただけ。@k@vS20/09/VTK1_takano1022.正念場はこれからよ」",
+		"NamesENG": "Takano",
+		"TextENG": "``But I've only just risen to the stage for my research.@k@vS20/09/VTK1_takano1021. My opponent and I are finally in the same arena, that's all.@k@vS20/09/VTK1_takano1022. The critical fight comes after this."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3703,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/VTK1_takano1023.",
+		"TextJPN": "「そして、ここからがもっとも楽しいところになりそうだけど」",
+		"NamesENG": "Takano",
+		"TextENG": "And it should be getting even more exciting in the future.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3704,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/VTK1_tomitake1012.",
+		"TextJPN": "「あはははは。@k@vS20/08/VTK1_tomitake1013.それでね、今回の件で中川本部長の方から、ぜひ『東京』で報告会をしてほしいと伝言を託ってるんだ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Aha ha ha.@k@vS20/08/VTK1_tomitake1013. By the way, Manager Nakagawa told me to tell you that he wants you to hold a presentation in Tokyo."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3705,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/VTK1_tomitake1014.",
+		"TextJPN": "「アルファベットの理事会も、ぜひ君と会合を設けたいって言ってたよ。@k@vS20/08/VTK1_tomitake1015.みんな君に直接話を聞いてみたいようだねぇ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "Even the Alphabet board wants you to come meet with them.@k@vS20/08/VTK1_tomitake1015. I guess they all want to hear this directly from you.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3706,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/VTK1_takano1024.",
+		"TextJPN": "「あらあら、ジロウさんを経由した報告じゃあ物足りないのかしら？」",
+		"NamesENG": "Takano",
+		"TextENG": "``Oh my, isn't having you explain enough?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3707,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/VTK1_tomitake1016.",
+		"TextJPN": "「いや、あっはっはっは！@k@vS20/08/VTK1_tomitake1017.　そ、そういう意味じゃないとは思うけどなぁ…！@k@vS20/08/VTK1_tomitake1018.　き、きっと噂の美人研究員を直接見てみたいんじゃないかなぁ、なんて、あっはっはっは…！」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Nah, ah ha ha ha!@k@vS20/08/VTK1_tomitake1017. I-I don't think that's what they mean...!@k@vS20/08/VTK1_tomitake1018. I-I bet they want to meet such a pretty researcher in person, maybe, ah ha ha ha...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3708,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/VTK1_takano1025.",
+		"TextJPN": "「あらいやだ、ジロウさんったら。@k@vS20/09/VTK1_takano1026.くすくすくす」",
+		"NamesENG": "Takano",
+		"TextENG": "``My my, aren't you being silly, Jirou-san?@k@vS20/09/VTK1_takano1026. Hee hee hee.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3709,
+		"NamesJPN": "山狗",
+		"PreTextTags": "@vS20/00/VTK1_yamaB1001.",
+		"TextJPN": "「失礼します。@k@vS20/00/VTK1_yamaB1002.鷹野三佐、『東京』からお電話です」",
+		"NamesENG": "Mountain Dog",
+		"TextENG": "``Excuse me.@k@vS20/00/VTK1_yamaB1002. Major Takano, there's a phone call for you from Tokyo.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3710,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/VTK1_takano1027.",
+		"TextJPN": "「お待たせしました。@k@vS20/09/VTK1_takano1028.鷹野です」",
+		"NamesENG": "Takano",
+		"TextENG": "``Thank you for holding,@k@vS20/09/VTK1_takano1028. this is Takano.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3711,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS20/00/VTK1_koizumi1001.",
+		"TextJPN": "「お～～～、元気にやってるかの～？！」",
+		"NamesENG": "???",
+		"TextENG": "``Heeey, how are you doing?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3712,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/VTK1_takano1029.",
+		"TextJPN": "「こ、小泉先生！！@k@vS20/09/VTK1_takano1030.　わざわざお電話をいただけるなんて、とても恐縮でございます…！」",
+		"NamesENG": "Takano",
+		"TextENG": "``K-Koizumi-sensei!!@k@vS20/09/VTK1_takano1030. Thank you for taking time to call me...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3713,
+		"NamesJPN": "小泉",
+		"PreTextTags": "@vS20/00/VTK1_koizumi1002.",
+		"TextJPN": "「わっはっはっは！@k@vS20/00/VTK1_koizumi1003.　いやぁな、三四ちゃんの研究が大金星を挙げたという話が来てなぁ～。@k@vS20/00/VTK1_koizumi1004.お祝いを言おうと思って電話したんだ」",
+		"NamesENG": "Koizumi",
+		"TextENG": "``Wa ha ha ha!@k@vS20/00/VTK1_koizumi1003. You know, I heard you made a significant breakthrough, Miyo-chan,@k@vS20/00/VTK1_koizumi1004. so I had to call to congratulate you!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3714,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/VTK1_takano1031.",
+		"TextJPN": "「ありがとうございます…！！@k@vS20/09/VTK1_takano1032.　はい、お陰様で研究の第一段階であり、最大の目標でもあった雛見沢症候群の病原体特定に成功しました」",
+		"NamesENG": "Takano",
+		"TextENG": "``Thank you very much!!@k@vS20/09/VTK1_takano1032. Yes, thanks to your support, we've been able to accomplish the first step of identifying the microbe that causes Hinamizawa Syndrome.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3715,
+		"NamesJPN": "小泉",
+		"PreTextTags": "@vS20/00/VTK1_koizumi1005.",
+		"TextJPN": "「ん～～ん～～、そうかそうか～！！@k@vS20/00/VTK1_koizumi1006.　ついにやったなぁ、三四ちゃん。@k@vS20/00/VTK1_koizumi1007.天国で高野くんもきっと大喜びしているだろうの！」",
+		"NamesENG": "Koizumi",
+		"TextENG": "``Mmm-hmm, I see, I see!!@k@vS20/00/VTK1_koizumi1006. Great job, Miyo-chan!@k@vS20/00/VTK1_koizumi1007. I'm sure Takano-kun is very happy in Heaven right now!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3716,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/VTK1_takano1033.",
+		"TextJPN": "「まだまだですわ。@k@vS20/09/VTK1_takano1034.祖父は、雛見沢症候群の病原体特定などという段階を超えて研究していました。@k@vS20/09/VTK1_takano1035.人の思想や意思が、実は人以外の寄生的存在によって支配されていた可能性」",
+		"NamesENG": "Takano",
+		"TextENG": "``That's a little too early to say.@k@vS20/09/VTK1_takano1034. My grandfather was attempting to go beyond merely identifying the cause of the syndrome.@k@vS20/09/VTK1_takano1035. His work was about showing the possibility of human thoughts actually being controlled by parasitic agents in our bodies."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3717,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/VTK1_takano1036.",
+		"TextJPN": "「…それを暴いて初めて祖父の研究は偉業と讃えられるのです。@k@vS20/09/VTK1_takano1037.くすくす。@k@vS20/09/VTK1_takano1038.世界中の思想や宗教が、全て寄生虫で説明できたなら、くすくす、世界は引っ繰り返るくらいの大騒ぎになるでしょうね」",
+		"NamesENG": "Takano",
+		"TextENG": "...Only when that is proven will his research be recognized for the great achievement it is.@k@vS20/09/VTK1_takano1037. Hee hee.@k@vS20/09/VTK1_takano1038. When we're able to explain all thoughts and religions with parasites, heehee, the world is going to be tossed into chaos.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3718,
+		"NamesJPN": "小泉",
+		"PreTextTags": "@vS20/00/VTK1_koizumi1008.",
+		"TextJPN": "「わっはっはっは。それは愉快だの～！！@k@vS20/00/VTK1_koizumi1009.　偉そうに振舞っとる宗教家連中が、単なる寄生虫の親玉に過ぎんと立証されたら、それは本当に愉快だろうの～！」",
+		"NamesENG": "Koizumi",
+		"TextENG": "``Wa ha ha ha ha. How interesting!!@k@vS20/00/VTK1_koizumi1009. I can just imagine how those religious big shots will react once they find out that their leaders are parasites!! How interesting!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3719,
+		"NamesJPN": "小泉",
+		"PreTextTags": "@vS20/00/VTK1_koizumi1010.",
+		"TextJPN": "「ぜひ、そんな愉快なのを見せてくれ。@k@vS20/00/VTK1_koizumi1011.三四ちゃんがそれを見せてくれるまで、私ゃ天国のお迎えを断り続けてるからな」",
+		"NamesENG": "Koizumi",
+		"TextENG": "I would love to see that.@k@vS20/00/VTK1_koizumi1011. I won't die until you show that to me, Miyo-chan.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3720,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/VTK1_takano1039.",
+		"TextJPN": "「縁起でもありませんわ。@k@vS20/09/VTK1_takano1040.でも楽しみにしていてくださいね。@k@vS20/09/VTK1_takano1041.きっと、世界中があっと驚く発表をして見せますから」",
+		"NamesENG": "Takano",
+		"TextENG": "``Please don't say that.@k@vS20/09/VTK1_takano1040. Do look forward to it, though.@k@vS20/09/VTK1_takano1041. I'll make sure that this research will spread shock throughout the world."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3721,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/VTK1_takano1042.",
+		"TextJPN": "「その時に初めて、世界中が祖父の偉業を知り、祖父が残した資料を奪い合って読み合うことになるでしょう。@k@vS20/09/VTK1_takano1043.…そこまで至って、私はようやく祖父への恩返しを終えるのです」",
+		"NamesENG": "Takano",
+		"TextENG": "Then the whole world will finally realize how great my grandfather was, and they'll be fighting each other to read over the documents he left behind.@k@vS20/09/VTK1_takano1043. Only then can I say that I've repaid my debt to him.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3722,
+		"NamesJPN": "小泉",
+		"PreTextTags": "@vS20/00/VTK1_koizumi1012.",
+		"TextJPN": "「…高野くんが羨ましいの～。@k@vS20/00/VTK1_koizumi1013.私ゃな、カネなんかこんなにいらんかった。@k@vS20/00/VTK1_koizumi1014.この半分は捨ててもいい。@k@vS20/00/VTK1_koizumi1015.あんたみたいな、自分の志を継いでくれる孫がひとりいてくれたらと思うよ」",
+		"NamesENG": "Koizumi",
+		"TextENG": "``...I'm a little envious of Takano-kun~.@k@vS20/00/VTK1_koizumi1013. I don't want money, you know.@k@vS20/00/VTK1_koizumi1014. I don't mind getting rid of half of what I have.@k@vS20/00/VTK1_koizumi1015. I just wish I had a grandchild who would carry on my legacy.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3723,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/VTK1_takano1044.",
+		"TextJPN": "「ありがとうございます。@k@vS20/09/VTK1_takano1045.身に余るお言葉です」",
+		"NamesENG": "Takano",
+		"TextENG": "``Thank you so much.@k@vS20/09/VTK1_takano1045. Those words mean so much to me.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3724,
+		"NamesJPN": "小泉",
+		"PreTextTags": "@vS20/00/VTK1_koizumi1016.",
+		"TextJPN": "「あとな、小泉のおじいちゃんからのプレゼントだ。@k@vS20/00/VTK1_koizumi1017.三四ちゃん宛てにな、祝杯用のワインを一本送らせた。@k@vS20/00/VTK1_koizumi1018.三四ちゃんの家の住所がわからんかったから、診療所宛てにしてある」",
+		"NamesENG": "Koizumi",
+		"TextENG": "``By the way, I sent you a present.@k@vS20/00/VTK1_koizumi1017. It's a nice bottle of wine for you to celebrate with.@k@vS20/00/VTK1_koizumi1018. I didn't know your address, so I sent it to the clinic."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3725,
+		"NamesJPN": "小泉",
+		"PreTextTags": "@vS20/00/VTK1_koizumi1019.",
+		"TextJPN": "「取り寄せに手間が掛かってるらしいからちょっと時間が掛かるかもしれんが、届いたら、三四ちゃんの研究を手伝ってくれた人たちを集めて、それを振舞ってあげなさい」",
+		"NamesENG": "Koizumi",
+		"TextENG": "However, they told me they're having a difficult time importing it, so it may take a little while. But when it comes, please have a party with the people who helped you.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3726,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/VTK1_takano1046.",
+		"TextJPN": "「祝杯用にワインなんて。@k@vS20/09/VTK1_takano1047.はてさて、小泉先生からどんな高級ワインが届くやら！」",
+		"NamesENG": "Takano",
+		"TextENG": "``Celebratory wine?@k@vS20/09/VTK1_takano1047. Well then, I wonder what expensive sort of drink Koizumi-sensei'll be sending us!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3727,
+		"NamesJPN": "小泉",
+		"PreTextTags": "@vS20/00/VTK1_koizumi1020.",
+		"TextJPN": "「そんな高級酒と違う。@k@vS20/00/VTK1_koizumi1021.三四ちゃんも覚えとらんかね。@k@vS20/00/VTK1_koizumi1022.高野くんが、いつも一本のワインを大切にしておったのを」",
+		"NamesENG": "Koizumi",
+		"TextENG": "``Oh, it's not that kind of expensive.@k@vS20/00/VTK1_koizumi1021. Don't you remember, Miyo-chan?@k@vS20/00/VTK1_koizumi1022. Takano-kun used to keep a particular bottle of wine.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3728,
+		"TextJPN": "…鷹野ははっとする…。",
+		"TextENG": "...I remember..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3729,
+		"TextJPN": "そうだ。",
+		"TextENG": "That's right."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3730,
+		"TextJPN": "祖父は一本の古いワインをとても大事にしていた。",
+		"TextENG": "My grandfather kept a certain bottle of wine."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3731,
+		"TextJPN": "買った物なのか、もらった物なのかはわからないけれど、@kとても大事にしていて、自分の研究が認められたらそれを開けようと日頃から言っていた気がする。",
+		"TextENG": "I don't know if he bought it himself or if someone gave it to him,@k but he treasured it, and he always said he'd open it when his research finally gained recognition."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3732,
+		"TextJPN": "当時は幼かったから、それが何というワインなのかわからないけれど、…その話を聞いていた小泉氏なら知っているはずだ…。",
+		"TextENG": "I was a child then, so I don't even remember what brand it was, but Mr. Koizumi would know."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3733,
+		"TextJPN": "…その、祖父縁のワインを、この記念すべき節目に贈ってくれるその心遣いに。",
+		"TextENG": "He went through all the trouble to find the same bottle of wine for this special occasion."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3734,
+		"TextJPN": "…鷹野は久し振りに、祖父と一緒だった頃に感じていた日溜りのような温かさを感じるのだった。",
+		"TextENG": "...For the first time in a while, Takano felt the same sunny warmth she experienced during her time with her grandfather."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3735,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/VTK1_takano1048.",
+		"TextJPN": "「ありがとうございます…。@k@vS20/09/VTK1_takano1049.…小泉のおじいちゃん…」",
+		"NamesENG": "Takano",
+		"TextENG": "``Thank you very much...@k@vS20/09/VTK1_takano1049. ...Uncle Koizumi...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3736,
+		"NamesJPN": "小泉",
+		"PreTextTags": "@vS20/00/VTK1_koizumi1023.",
+		"TextJPN": "「うむうむ。@k@vS20/00/VTK1_koizumi1024.やっぱり三四ちゃんにはそう呼ばれた方がしっくりくるの～！@k@vS20/00/VTK1_koizumi1025a.　どうも三四ちゃんに先生と言われても自分のことだと思えなくてな！　わっはっはっは！」",
+		"NamesENG": "Koizumi",
+		"TextENG": "``Hmmmm.@k@vS20/00/VTK1_koizumi1024. I like it when you call me that, Miyo-chan!!@k@vS20/00/VTK1_koizumi1025a. I don't feel like you're speaking to me when you say 'Koizumi-sensei'. Wa ha ha ha!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3737,
+		"TextJPN": "自分まで一緒に苦笑いしてしまう。",
+		"TextENG": "I can't help but smile along with him..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3738,
+		"TextJPN": "ついさっきも、富竹と入江がそんなやり取りをしていたように思うから。",
+		"TextENG": "Because I think Tomitake and Irie were just having a similar exchange."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3739,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/VTK1_takano1050.",
+		"TextJPN": "「そう呼ばれる方がお好きでしたら、人前以外ではそう呼んでも結構ですわよ。@k@vS20/09/VTK1_takano1051.くすくす」",
+		"NamesENG": "Takano",
+		"TextENG": "``If you like it that way, then I'll be happy to call you that when there's nobody around.@k@vS20/09/VTK1_takano1051. Hee hee.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3740,
+		"NamesJPN": "小泉",
+		"PreTextTags": "@vS20/00/VTK1_koizumi1027a.",
+		"TextJPN": "「う～～む、できれば人前でもそう呼んでもらえると喜ぶんだがの～！　わっはっはっは」",
+		"NamesENG": "Koizumi",
+		"TextENG": "``Hmm, I'll be happier if you'd call me that even in front of people! Wa ha ha ha.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3741,
+		"TextJPN": "今年でいくつになるんやら。",
+		"TextENG": "I don't know exactly how old he is."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3742,
+		"TextJPN": "未だにこれだけ快活にしゃべって笑うことができるなら、お迎えなんか当分来ないだろう。",
+		"TextENG": "But if he can laugh so energetically, he'll live for many more years to come."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3743,
+		"TextJPN": "…何とかは長生きするというのはどうも本当らしい。",
+		"TextENG": "...I guess the saying about living a long life is true after all."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3744,
+		"NamesJPN": "小泉",
+		"PreTextTags": "@vS20/00/VTK1_koizumi1029.",
+		"TextJPN": "「私も高野くんも、三四ちゃんのような子が本当の家族だったらと思うよ。@k@vS20/00/VTK1_koizumi1030.本当になぁ…」",
+		"NamesENG": "Koizumi",
+		"TextENG": "``Takano-kun and I both wished you were truly part of our family.@k@vS20/00/VTK1_koizumi1030. We really did...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3745,
+		"TextJPN": "…祖父にももちろん、家族はいた。",
+		"TextENG": "...My grandfather had his own family, of course."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3746,
+		"TextJPN": "だが、研究に打ち込むあまり、別居状態になり、籍だけは残している半離婚状態にあった。",
+		"TextENG": "But because he was so into his research, he became estranged from his wife. They were legally married, but they lived separately."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3747,
+		"TextJPN": "その家族とは私は少女時代に一度も会ったことはない。",
+		"TextENG": "I never met his family when I was a child."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3748,
+		"TextJPN": "…会ったのは、祖父が自殺してからだった。",
+		"TextENG": "I only met them... after my grandfather committed suicide."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3749,
+		"TextJPN": "晩年の祖父は心が弱っていて、自分の人生について非常に悲観的だった。",
+		"TextENG": "During his latter years, my grandfather went into psychological despair, and began to look at his life with cynicism."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3750,
+		"TextJPN": "さらに急激に進みだした呆けにショックを受け、自分の意識が次第に薄れていくのを恐れていた。",
+		"TextENG": "His condition became worse over time, and he was shocked at his own dementia. He was afraid of living while his consciousness degraded."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3751,
+		"TextJPN": "そして…、病院の屋上から飛び降りて死んだ。",
+		"TextENG": "So... he jumped off the rooftop of the hospital."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3752,
+		"TextJPN": "遺書にあった名は私だけ。",
+		"TextENG": "Only my name was in his suicide note."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3753,
+		"TextJPN": "そこには実の家族の名などなかった。",
+		"TextENG": "None of his family members' names were in it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3754,
+		"TextJPN": "その段階になって初めて家族や親類と称する一団が現れ、祖父の残した全てを奪い去っていった。",
+		"TextENG": "That's when all his relatives showed up and took everything my grandfather left behind."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3755,
+		"TextJPN": "連中は、私に遺産が持っていかれるのを非常に嫌がっていたっけ。",
+		"TextENG": "They were afraid I was going to get his estate."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3756,
+		"TextJPN": "弁護士やら何やらを立てて嫌らしく争ってきそうな雰囲気だったので、私から辞退したのだ。",
+		"TextENG": "They had lawyers and all that, so I backed down."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3757,
+		"TextJPN": "その代わり、祖父の書斎に残した物だけは全て引き継ぎたいと言った。",
+		"TextENG": "I asked for everything in his study in return."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3758,
+		"TextJPN": "凡庸な連中は祖父の研究の価値など知りもしない。",
+		"TextENG": "Those idiots don't understand the value of my grandfather's research."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3759,
+		"TextJPN": "書物の山や気持ち悪い標本瓶を片付けてくれた上に相続権を放棄してくれるならと大喜びで手を打ってくれたっけ。",
+		"TextENG": "They were actually happy to strike a deal out of court, and they could also get rid of the piles of papers and jars with human organs in them."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3760,
+		"TextJPN": "あれだけの長い間、一度も祖父の前に現れず、その死後にだけ現れるハイエナのような連中に、…祖父の魂である研究を、たとえメモ１枚とて許したくなかった。",
+		"TextENG": "They never even showed up once when he was alive, yet, like hyenas, they appeared after his death. I'd never let them put their hands all over my grandfather's research."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3761,
+		"TextJPN": "だから祖父の魂は、連中にわずかほども穢されずに済んだのだ…。",
+		"TextENG": "Fortunately, I was able to protect my grandfather's soul from their tainted hands."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3762,
+		"NamesJPN": "小泉",
+		"PreTextTags": "@vS20/00/VTK1_koizumi1031.",
+		"TextJPN": "「うむ。@k@vS20/00/VTK1_koizumi1032.それでは長くなると悪いからこれで切るな。@k@vS20/00/VTK1_koizumi1033.困ったことがあったら、いつでもおじいちゃんに頼りなさい。@k@vS20/00/VTK1_koizumi1034.孫娘のために、いくらでも一肌脱ぐからの～！」",
+		"NamesENG": "Koizumi",
+		"TextENG": "``Hmm.@k@vS20/00/VTK1_koizumi1032. Okay, I'll get going here.@k@vS20/00/VTK1_koizumi1033. If there's anything you need, be sure to call Uncle Koizumi, okay?@k@vS20/00/VTK1_koizumi1034. I'll do anything for my granddaughter!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3763,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/VTK1_takano1052.",
+		"TextJPN": "「ありがとう、小泉のおじいちゃん。@k@vS20/09/VTK1_takano1053.三四はもっともっと頑張りますね」",
+		"NamesENG": "Takano",
+		"TextENG": "``Thank you, Uncle Koizumi.@k@vS20/09/VTK1_takano1053. I'll work even harder!!``"
+	}
+]

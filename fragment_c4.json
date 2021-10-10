@@ -1,529 +1,527 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "C4 神主の憂鬱",
-            "ENG": "C4 Depression of a Shinto Priest"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5009,
-            "TextJPN": "古手神社の境内の中にある集会所こそ、鬼ヶ淵死守同盟の本部事務所であった。",
-            "TextENG": "The gathering place inside of the Furude Shrine is in fact the headquarters of the Onigafuchi Guardians."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5010,
-            "TextJPN": "本来は閑静であるべき境内の中は、あちこちに『ダム反対！』と書かれたノボリが立てられており、まさに反ダム勢力の本陣であることを物語っている。",
-            "TextENG": "Normally, a shrine should be a calm and quiet place, but there are anti-dam signs everywhere, making it very obvious what this location has become."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5011,
-            "TextJPN": "事務所内には、死守同盟の幹部たちが３０人以上、ぎっしりと座っており、今後の方針などについて熱心な意見交換をしていた。",
-            "TextENG": "There are over thirty members of the Guardians here at the moment, and they are having a heated conversation about their plans for the future."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5012,
-            "TextJPN": "集会所は古手家の敷地内にあるとは言え、村人共有の施設なので、使用時間は午後の９時までという規則が定められていた。",
-            "TextENG": "Although this meeting place is on the Furude family's property, it's a community facility, so it closes at nine PM."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5013,
-            "TextJPN": "もちろん、議論が過熱すれば、それを超えてしまうこともあるが、基本的には会合は午後の９時で終えるのが流れになっていた。",
-            "TextENG": "Of course, sometimes a discussion gets so heated that it goes on past closing time, but meetings are supposed to end by nine."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5014,
-            "TextJPN": "もし話し合いが早くに終わってしまえば、午後の９時までは雑談をして過ごす。",
-            "TextENG": "If a discussion ends early, they usually chitchat until that time."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5015,
-            "TextJPN": "それが彼らの基本的な流れだった。",
-            "TextENG": "That's what usually happens."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5016,
-            "TextJPN": "もっとも雑談と言っても、ダム戦争の真っ最中であり、その内容は大抵、ダムに関わるもの。",
-            "TextENG": "Of course, they mostly talk about the dam even when they chitchat."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5017,
-            "TextJPN": "…どこどこへ陳情に行って門前払いにされたとか、誰々が警察に不当逮捕されたとか、ダム現場事務所の対応が乱暴であるとか、そんなものばかりだった。",
-            "TextENG": "They talk about someone's mistreatment at the government office, or someone getting arrested unjustly, or complain that people at the dam construction site are too violent."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5018,
-            "TextJPN": "雑談のため、やや感情的な話も多く、そのためか、北条家に対する陰口も少なくなかった。",
-            "TextENG": "Since it's idle chatter, the topics are slightly emotional, and because of that, there was a good deal of badmouthing the Houjous."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5019,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS20/00/VTK1_farmMa1001.",
-            "TextJPN": "「…そしたらさぁ、回覧板捨てちゃったっとか言い出すんだよ！@k@vS20/00/VTK1_farmMa1002.　普通に考えてそんなことするかねぇ？！」",
-            "NamesENG": "Villager",
-            "TextENG": "``...Then she threw the circulation notes away!!@k@vS20/00/VTK1_farmMa1002. Can you believe that?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5020,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS20/00/VTK1_farmMb1001.",
-            "TextJPN": "「あそこの奥さんはさ、ちょっと勝ち気が過ぎて攻撃的なんだよ。@k@vS20/00/VTK1_farmMb1002.この間もさ、ゴミ置き場で牧野さんとこの婆さんとすんげー口論してて！」",
-            "NamesENG": "Villager",
-            "TextENG": "``That woman is crazy.@k@vS20/00/VTK1_farmMb1002. Just the other day, she got into a huge argument with Makino-san's grandmother at the trash pickup!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5021,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS20/00/VTK1_farmMc1001.",
-            "TextJPN": "「大体、何て言うかね。@k@vS20/00/VTK1_farmMc1002.本当に粗暴だよね、あそこのご主人は。@k@vS20/00/VTK1_farmMc1003.理性がないというか！」",
-            "NamesENG": "Villager",
-            "TextENG": "``You know,@k@vS20/00/VTK1_farmMc1002. the husband is rude too!@k@vS20/00/VTK1_farmMc1003. He's so irrational!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5022,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS20/00/VTK1_farmMa1003.",
-            "TextJPN": "「あぁ、お前さんは地元説明会の時を見てないのかい？@k@vS20/00/VTK1_farmMa1004.　あれはすごかったよ、なぁ？！@k@vS20/00/VTK1_farmMa1005.　あそこまで言うからにゃもう村にはおれんよ。@k@vS20/00/VTK1_farmMa1006.さっさと出てけばいいのにさ！」",
-            "NamesENG": "Villager",
-            "TextENG": "``Ah, did you see him at the explanatory meeting?@k@vS20/00/VTK1_farmMa1004. That was bad, huh?@k@vS20/00/VTK1_farmMa1005. I can't believe they're still here.@k@vS20/00/VTK1_farmMa1006. I wish they'd just leave!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5023,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS20/00/VTK1_farmMc1004.",
-            "TextJPN": "「カネがもらえないのどうのこうの！@k@vS20/00/VTK1_farmMc1005.　浅ましいったらありゃしないね！」",
-            "NamesENG": "Villager",
-            "TextENG": "He said something about money.@k@vS20/00/VTK1_farmMc1005. He has absolutely no shame!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5024,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS20/00/VTK1_farmMb1003.",
-            "TextJPN": "「いやいやいやいや！@k@vS20/00/VTK1_farmMb1004.　理性のなさで言ったらあそこの奥さんも相当のもんだよ！@k@vS20/00/VTK1_farmMb1005.　わはははははは！」",
-            "NamesENG": "Villager",
-            "TextENG": "``No, no, no!!@k@vS20/00/VTK1_farmMb1004. If you talk about being irrational, his wife is the same or even worse!!!@k@vS20/00/VTK1_farmMb1005. Wahahahahahaha!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5025,
-            "NamesJPN": "村人女",
-            "PreTextTags": "@vS20/00/VTK1_farmFa1001.",
-            "TextJPN": "「それでやっぱり遺伝なのかしらね！@k@vS20/00/VTK1_farmFa1002.　あそこのお嬢さん、買い物によく見掛けるんで挨拶するんだけど、向こうから挨拶は絶対に返さないのよ？」",
-            "NamesENG": "Woman Villager",
-            "TextENG": "``It must be hereditary!!@k@vS20/00/VTK1_farmFa1002. I see their daughter shopping quite often, so I used to say hello to her, but she never replied. Can you believe that?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5026,
-            "NamesJPN": "村人女",
-            "PreTextTags": "@vS20/00/VTK1_farmFa1003.",
-            "TextJPN": "「だから私たち馬鹿馬鹿しくなっちゃって、以来、見掛けても知らないふりしてんだから」",
-            "NamesENG": "Woman Villager",
-            "TextENG": "So I got tired of it and I don't say anything to her anymore.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5027,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS20/00/VTK1_farmMb1006.",
-            "TextJPN": "「それ言ったら、あそこの坊主も、いーっつも暗そうな顔してるよなー！@k@vS20/00/VTK1_farmMb1007.　うっははははは！」",
-            "NamesENG": "Villager",
-            "TextENG": "``Hey, their son always looks sooooo depressed, doesn't he?@k@vS20/00/VTK1_farmMb1007. Hahahahahaha!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5028,
-            "TextJPN": "いつの間にか、北条家は村の敵、裏切り者という図式が出来上がってしまい、@k北条家の陰口話なら、誰もが気軽に乗れる最大公約数的話題になってしまっている。",
-            "TextENG": "By now, the Houjou family has become the enemy of the whole village.@k Badmouthing the Houjou family was the greatest shared topic that anyone could easily contribute to."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5029,
-            "TextJPN": "…この村で御三家、特に今や園崎家がどれだけの影響力を持つのか。",
-            "TextENG": "...If he had known how powerful the Three Families were, especially the Sonozaki family..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5030,
-            "TextJPN": "そしてお魎さんがどういう気性の人かを理解していたなら、ああいう喧嘩を吹っかけることは絶対にない。",
-            "TextENG": "And if he had known Oryou-san's character, he wouldn't have said the things he did."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5031,
-            "TextJPN": "北条夫妻とて村の住人。",
-            "TextENG": "The Houjou couple are residents here."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5032,
-            "TextJPN": "町会活動にそれほど熱心でなかったとはいえ、お魎さんがどういう人か知らなかったはずはない。",
-            "TextENG": "Though they were never very enthusiastic about the council activities, they should've known what kind of person Oryou-san is."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5033,
-            "TextJPN": "…それを公衆の面前で罵倒するようなことをすれば、必ずや何倍にもなって跳ね返ってくることが想像できたはずだ。",
-            "TextENG": "He could have imagined just what would happen to him if he talked to her that way."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5034,
-            "TextJPN": "…にもかかわらず、一時の感情に任せて暴言を口にしてしまった。",
-            "TextENG": "Yet, he let his anger take over and voiced his unpleasant feelings."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5035,
-            "TextJPN": "その意味で、今日の北条家の孤立は、気の毒だとするよりも自業自得だとする論調の方が強い。",
-            "TextENG": "So most people think the Houjou family brought their isolation upon themselves."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5036,
-            "TextJPN": "…立ち退きで国と交渉したければ、水面下でこっそり個人的にやればよかったのだ。",
-            "TextENG": "If they wanted to negotiate with the government regarding the move, they should have done so privately."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5037,
-            "TextJPN": "あのような場で堂々と口にしたこと事態が愚かしいと言えば愚かしい。",
-            "TextENG": "Yet he was foolish enough to express himself at a public gathering like that."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5038,
-            "TextJPN": "そういう意味でも、北条家に対して同情する者は少なかった。",
-            "TextENG": "So not too many sympathize with the Houjou family."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5039,
-            "TextJPN": "あの説明会の大喧嘩のせいで、園崎家は北条家を目の仇にし、徹底的な攻撃を加え始めた。",
-            "TextENG": "Ever since the big fight at the explanatory meeting, the Sonozaki family has looked at the Houjou family as their enemy, and started to go after them."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5040,
-            "TextJPN": "…そのせいで、北条家以外にもいた立ち退き派は声を大にできなくなり、自分もスケープゴートにされることを恐れて、渋々、立ち退きを諦めなければならなかった。",
-            "TextENG": "...That caused the other pro-dam families to go quiet, fearing they'd be made into scapegoats too, and those who wanted to leave were bitterly forced to give up."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5041,
-            "TextJPN": "…そんな人たちにとっても、あそこで北条夫妻が軽率な喧嘩をしなければ、立ち退きの補償金をもらい損ねることはなかったのだと批判する声もあるという。",
-            "TextENG": "...Even those people started criticizing the Houjou couple, saying they could've gotten their compensation to leave if the two hadn't picked that reckless fight."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5042,
-            "TextJPN": "ダム反対派からも、元立ち退き派からも嫌われ、文字通り村で孤立を深める北条家…。",
-            "TextENG": "Both the anti-dam and pro-dam people hate the Houjous now, and the family has become even more isolated."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5043,
-            "TextJPN": "しかも、北条夫妻は気性が荒く、嵐が過ぎ去るまで頭を垂れていればよかったものを、",
-            "TextENG": "Moreover, the Houjous are both very aggressive. They should have stayed quiet at least until things settled down, but they didn't."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5044,
-            "TextJPN": "売られた喧嘩は買うとばかりに息巻いたため、わずかにいた同情する人たちもいなくなってしまい、…今や北条家批判に対し異論を挟む者はひとりもいない。",
-            "TextENG": "That alienated the handful of people who took pity on them as well, so now nobody even says anything to them."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5045,
-            "TextJPN": "それは、この集会所の中のあちこちでされている陰口を聞けば一目瞭然だった…。",
-            "TextENG": "All of that was immediately obvious by listening to the foul talk here and there at the gathering place."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5046,
-            "TextJPN": "梨花は、湯呑み茶碗の後片付けを手伝っているが、その陰口はきっと耳に入っている。",
-            "TextENG": "Rika always helps out by putting the tea cups away, so I'm sure she hears what they say as well."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5047,
-            "TextJPN": "…彼らが陰口を叩く内の１人は、梨花の友達の沙都子ちゃんでもあるのだ。",
-            "TextENG": "One of the Houjou family members they're bad-mouthing is Rika's friend, Satoko-chan."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5048,
-            "TextJPN": "…梨花がどんな思いでそれらを耳にしているか想像すると、胸が痛む…。",
-            "TextENG": "It hurts to think about what Rika feels while hearing that."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5049,
-            "TextJPN": "…古手神社の神主として、私はこれらを放置していていいのだろうか。",
-            "TextENG": "As priest of the Furude Shrine, should I let this continue?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5050,
-            "TextJPN": "オヤシロさまは本来は、敵対する者すらも融和し仲を取り持つ縁結びの神さまだ。",
-            "TextENG": "Oyashiro-sama is a god who makes peace between enemies."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5051,
-            "TextJPN": "相容れぬ存在である人と鬼が戦った時、天より降臨されて、その仲を取り持ったはず。",
-            "TextENG": "When the humans and demons fought, Oyashiro-sama descended from heaven and mediated between both sides."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5052,
-            "TextJPN": "…その神社を祀る自分がこのような状態を放置していることは許されないのでは…。",
-            "TextENG": "As the caretaker of this shrine, I must do something before it goes too far."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5053,
-            "TextJPN": "私は、唾を散らしながら口汚く北条家批判をしているお魎さんの脇に座った。",
-            "TextENG": "I'm sitting next to Oryou-san, who is spitefully disparaging the Houjou family."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5054,
-            "NamesJPN": "お魎",
-            "PreTextTags": "@vS20/17/VTK1_oryou1001.",
-            "TextJPN": "「すったらん、だぁほが抜かしよるんよ、あのボケはッ！！」",
-            "NamesENG": "Oryou",
-            "TextENG": "``So that ass was talking shit to me!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5055,
-            "NamesJPN": "お魎",
-            "PreTextTags": "@vS20/17/VTK1_oryou1002.",
-            "TextJPN": "「ならんしゃもあーもないんかいね、ほんまに恩を知らんやっちゃいな！！@k@vS20/17/VTK1_oryou1003.　あんの裏切者には絶対、オヤシロさまの祟りが下るんね、許されなかといな！！！」",
-            "NamesENG": "Oryou",
-            "TextENG": "Who the hell cares!!@k@vS20/17/VTK1_oryou1003. He'll be cursed by Oyashiro-sama, that's for sure!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5056,
-            "TextJPN": "そうだそうだと持ち上げる老人たち。",
-            "TextENG": "The elderly people cheer her on as they listen to her speak."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5057,
-            "TextJPN": "……これだけ気持ち良さそうに話しているところに割り込むのだ。",
-            "TextENG": "......If I barge in now,"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5058,
-            "TextJPN": "穏便な話にはならないかもしれない…。",
-            "TextENG": "I have a feeling it won't be a peaceful conversation."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5059,
-            "TextJPN": "でも私は覚悟を決める。",
-            "TextENG": "But I have to make up my mind."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5060,
-            "TextJPN": "…古手神社の神主として。",
-            "TextENG": "As the priest of the Furude Shrine."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5061,
-            "TextJPN": "そして、梨花の友達である沙都子ちゃんのために。",
-            "TextENG": "Also for the sake of Rika's friend, Satoko-chan."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5062,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1119.",
-            "TextJPN": "「…お魎さん。@k@vS20/00/VTK1_rikaF1120.…北条さんの悪口を言うのはそろそろこれくらいにしませんかね…？」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "``...Oryou-san,@k@vS20/00/VTK1_rikaF1120. don't you think you've said enough by now?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5063,
-            "NamesJPN": "お魎",
-            "PreTextTags": "@vS20/17/VTK1_oryou1004.",
-            "TextJPN": "「はぁあぁあ？！@k@vS20/17/VTK1_oryou1005.　何ね、何ば言いよりおるんかいな…！！」",
-            "NamesENG": "Oryou",
-            "TextENG": "``Huh?@k@vS20/17/VTK1_oryou1005. What the hell are you trying to tell me?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5064,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1121.",
-            "TextJPN": "「…いや。@k@vS20/00/VTK1_rikaF1122.北条さんもそんな悪気はなかったと思うんだが。@k@vS20/00/VTK1_rikaF1123.あまりいつまでも尾を引くのは可哀想だと…、」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "``Well,@k@vS20/00/VTK1_rikaF1122. I'm sure Houjou-san really didn't mean what he said.@k@vS20/00/VTK1_rikaF1123. Isn't it a bit much for this kind of treatment to go on for so long...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5065,
-            "NamesJPN": "お魎",
-            "PreTextTags": "@vS20/17/VTK1_oryou1006.",
-            "TextJPN": "「しゃあらしいんね！！！@|@y@k@vS20/17/VTK1_oryou1007.　おんめ、あれを聞いちゃらどんなすったらん、思わんとね？！@k@vS20/17/VTK1_oryou1008.　なぁんをしゃあらしい！！@k@vS20/17/VTK1_oryou1009.　あぁ、しゃあらしいしゃあらしい！！」",
-            "NamesENG": "Oryou",
-            "TextENG": "``SHUT UP!!!@|@y@k@vS20/17/VTK1_oryou1007. You heard what he said, didn't you?@k@vS20/17/VTK1_oryou1008. Weren't you pissed? He pissed me off!!@k@vS20/17/VTK1_oryou1009. Shit, shit!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5066,
-            "TextJPN": "…お魎さんは園崎家頭首。",
-            "TextENG": "Oryou-san is the head of the Sonozaki family."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5067,
-            "TextJPN": "鬼を継ぐ者だ。",
-            "TextENG": "The heir to the demons."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5068,
-            "TextJPN": "自分に敵対した者は絶対に許さない。",
-            "TextENG": "She never forgives anyone who stands against her."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5069,
-            "TextJPN": "その耳に、もう許してやったらなんて言葉は届くはずもない…。",
-            "TextENG": "So there's no way she would even listen to what I'm trying to say."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5070,
-            "TextJPN": "お魎さんたちは、もうすっかり激昂してしまい、話は聞いてくれそうになかった。",
-            "TextENG": "Oryou-san and the others became furious and refused to listen to me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5071,
-            "TextJPN": "また、私は話の中で、ダム計画などその内なくなってしまうから、もう少し落ち着いたらどうか、ということを口にしてしまった。",
-            "TextENG": "I also mentioned that the dam construction plan will be cancelled soon, so they should calm down already."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5072,
-            "TextJPN": "…これは、入江診療所の人たちから、政府の裏側ですでに圧力が掛けられていて、ダム計画は近いうちに必ず中止されるのを聞かされていたからである。",
-            "TextENG": "I said that because the staff at the Irie Clinic told me that the government is putting some kind of pressure on the Ministry of Construction."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5073,
-            "TextJPN": "それが、彼らには私が日和見的に見えたらしい。",
-            "TextENG": "But thinking that I'm being an opportunist,"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5074,
-            "TextJPN": "…いつの間にか、私に対する批判も始まっていたようだった。",
-            "TextENG": "soon criticism of me began to circulate the room."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5075,
-            "TextJPN": "…この日以降、私はいつの間にか、日和見主義者の烙印をもらっていることに気付く…。",
-            "TextENG": "...After that, I realize that I've become branded as a fence-sitter."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5076,
-            "TextJPN": "……鬼とて、話を聞いてくれる余地があるならば仲も取り持てよう。",
-            "TextENG": "...If the demons are willing to listen, then there's a chance to make peace."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5077,
-            "TextJPN": "…だが、聞く耳を持たない人々の仲を、どうやって取り持つというのか。",
-            "TextENG": "But how can I make peace with people who refuse to listen?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5078,
-            "TextJPN": "すっかり彼らの機嫌を損ねてしまい、私は諦め顔で口をつぐむしかない…。",
-            "TextENG": "I destroyed their mood... so I just have to give up and shut my mouth."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5079,
-            "TextJPN": "そんな私の背中に、そっと掛かる小さな手があった。",
-            "TextENG": "Then I felt a little hand on my back."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5080,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1124.",
-            "TextJPN": "「梨花か。@k@vS20/00/VTK1_rikaF1125.……もう遅い時間だから家に戻っていなさい」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "``Rika...@k@vS20/00/VTK1_rikaF1125. It's getting late, why don't you go home?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5081,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/VTK1_rika1064.",
-            "TextJPN": "「……私たちがいくら努力しても、…届かない」",
-            "NamesENG": "Rika",
-            "TextENG": "``......No matter how hard we try, we can't reach them.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5082,
-            "TextJPN": "梨花は遠い目をしながら、そう言った。",
-            "TextENG": "Rika looked into the distance while she spoke."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5083,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/VTK1_rika1065.",
-            "TextJPN": "「…この澱みきった村の悪弊は、その澱みに住まう私たちにはどうしようもないのかもしれない…。@k@vS20/05/VTK1_rika1066.でも、…希望をなくすものか」",
-            "NamesENG": "Rika",
-            "TextENG": "``...The evil of this corrupted village is probably beyond the means of those of us living in that muck...@k@vS20/05/VTK1_rika1066. But... I won't lose hope."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5084,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/VTK1_rika1067.",
-            "TextJPN": "「…今にきっと、…こいつらを打ち破ってくれる人がやってくる。@k@vS20/05/VTK1_rika1068.今に、…きっと…」",
-            "NamesENG": "Rika",
-            "TextENG": "...Surely... someone who will destroy this stagnation will arrive.@k@vS20/05/VTK1_rika1068. Very soon... I know...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5085,
-            "TextJPN": "その目には、…古手の巫女にしか見えない未来が映っているようだった…。",
-            "TextENG": "Her eyes shone as if seeing a future that only the maiden of the Furude Shrine could see."
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "C4 神主の憂鬱",
+		"ENG": "C4 Depression of a Shinto Priest"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5009,
+		"TextJPN": "古手神社の境内の中にある集会所こそ、鬼ヶ淵死守同盟の本部事務所であった。",
+		"TextENG": "The gathering place inside of the Furude Shrine is in fact the headquarters of the Onigafuchi Guardians."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5010,
+		"TextJPN": "本来は閑静であるべき境内の中は、あちこちに『ダム反対！』と書かれたノボリが立てられており、まさに反ダム勢力の本陣であることを物語っている。",
+		"TextENG": "Normally, a shrine should be a calm and quiet place, but there are anti-dam signs everywhere, making it very obvious what this location has become."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5011,
+		"TextJPN": "事務所内には、死守同盟の幹部たちが３０人以上、ぎっしりと座っており、今後の方針などについて熱心な意見交換をしていた。",
+		"TextENG": "There are over thirty members of the Guardians here at the moment, and they are having a heated conversation about their plans for the future."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5012,
+		"TextJPN": "集会所は古手家の敷地内にあるとは言え、村人共有の施設なので、使用時間は午後の９時までという規則が定められていた。",
+		"TextENG": "Although this meeting place is on the Furude family's property, it's a community facility, so it closes at nine PM."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5013,
+		"TextJPN": "もちろん、議論が過熱すれば、それを超えてしまうこともあるが、基本的には会合は午後の９時で終えるのが流れになっていた。",
+		"TextENG": "Of course, sometimes a discussion gets so heated that it goes on past closing time, but meetings are supposed to end by nine."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5014,
+		"TextJPN": "もし話し合いが早くに終わってしまえば、午後の９時までは雑談をして過ごす。",
+		"TextENG": "If a discussion ends early, they usually chitchat until that time."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5015,
+		"TextJPN": "それが彼らの基本的な流れだった。",
+		"TextENG": "That's what usually happens."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5016,
+		"TextJPN": "もっとも雑談と言っても、ダム戦争の真っ最中であり、その内容は大抵、ダムに関わるもの。",
+		"TextENG": "Of course, they mostly talk about the dam even when they chitchat."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5017,
+		"TextJPN": "…どこどこへ陳情に行って門前払いにされたとか、誰々が警察に不当逮捕されたとか、ダム現場事務所の対応が乱暴であるとか、そんなものばかりだった。",
+		"TextENG": "They talk about someone's mistreatment at the government office, or someone getting arrested unjustly, or complain that people at the dam construction site are too violent."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5018,
+		"TextJPN": "雑談のため、やや感情的な話も多く、そのためか、北条家に対する陰口も少なくなかった。",
+		"TextENG": "Since it's idle chatter, the topics are slightly emotional, and because of that, there was a good deal of badmouthing the Houjous."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5019,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS20/00/VTK1_farmMa1001.",
+		"TextJPN": "「…そしたらさぁ、回覧板捨てちゃったっとか言い出すんだよ！@k@vS20/00/VTK1_farmMa1002.　普通に考えてそんなことするかねぇ？！」",
+		"NamesENG": "Villager",
+		"TextENG": "``...Then she threw the circulation notes away!!@k@vS20/00/VTK1_farmMa1002. Can you believe that?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5020,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS20/00/VTK1_farmMb1001.",
+		"TextJPN": "「あそこの奥さんはさ、ちょっと勝ち気が過ぎて攻撃的なんだよ。@k@vS20/00/VTK1_farmMb1002.この間もさ、ゴミ置き場で牧野さんとこの婆さんとすんげー口論してて！」",
+		"NamesENG": "Villager",
+		"TextENG": "``That woman is crazy.@k@vS20/00/VTK1_farmMb1002. Just the other day, she got into a huge argument with Makino-san's grandmother at the trash pickup!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5021,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS20/00/VTK1_farmMc1001.",
+		"TextJPN": "「大体、何て言うかね。@k@vS20/00/VTK1_farmMc1002.本当に粗暴だよね、あそこのご主人は。@k@vS20/00/VTK1_farmMc1003.理性がないというか！」",
+		"NamesENG": "Villager",
+		"TextENG": "``You know,@k@vS20/00/VTK1_farmMc1002. the husband is rude too!@k@vS20/00/VTK1_farmMc1003. He's so irrational!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5022,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS20/00/VTK1_farmMa1003.",
+		"TextJPN": "「あぁ、お前さんは地元説明会の時を見てないのかい？@k@vS20/00/VTK1_farmMa1004.　あれはすごかったよ、なぁ？！@k@vS20/00/VTK1_farmMa1005.　あそこまで言うからにゃもう村にはおれんよ。@k@vS20/00/VTK1_farmMa1006.さっさと出てけばいいのにさ！」",
+		"NamesENG": "Villager",
+		"TextENG": "``Ah, did you see him at the explanatory meeting?@k@vS20/00/VTK1_farmMa1004. That was bad, huh?@k@vS20/00/VTK1_farmMa1005. I can't believe they're still here.@k@vS20/00/VTK1_farmMa1006. I wish they'd just leave!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5023,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS20/00/VTK1_farmMc1004.",
+		"TextJPN": "「カネがもらえないのどうのこうの！@k@vS20/00/VTK1_farmMc1005.　浅ましいったらありゃしないね！」",
+		"NamesENG": "Villager",
+		"TextENG": "He said something about money.@k@vS20/00/VTK1_farmMc1005. He has absolutely no shame!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5024,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS20/00/VTK1_farmMb1003.",
+		"TextJPN": "「いやいやいやいや！@k@vS20/00/VTK1_farmMb1004.　理性のなさで言ったらあそこの奥さんも相当のもんだよ！@k@vS20/00/VTK1_farmMb1005.　わはははははは！」",
+		"NamesENG": "Villager",
+		"TextENG": "``No, no, no!!@k@vS20/00/VTK1_farmMb1004. If you talk about being irrational, his wife is the same or even worse!!!@k@vS20/00/VTK1_farmMb1005. Wahahahahahaha!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5025,
+		"NamesJPN": "村人女",
+		"PreTextTags": "@vS20/00/VTK1_farmFa1001.",
+		"TextJPN": "「それでやっぱり遺伝なのかしらね！@k@vS20/00/VTK1_farmFa1002.　あそこのお嬢さん、買い物によく見掛けるんで挨拶するんだけど、向こうから挨拶は絶対に返さないのよ？」",
+		"NamesENG": "Woman Villager",
+		"TextENG": "``It must be hereditary!!@k@vS20/00/VTK1_farmFa1002. I see their daughter shopping quite often, so I used to say hello to her, but she never replied. Can you believe that?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5026,
+		"NamesJPN": "村人女",
+		"PreTextTags": "@vS20/00/VTK1_farmFa1003.",
+		"TextJPN": "「だから私たち馬鹿馬鹿しくなっちゃって、以来、見掛けても知らないふりしてんだから」",
+		"NamesENG": "Woman Villager",
+		"TextENG": "So I got tired of it and I don't say anything to her anymore.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5027,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS20/00/VTK1_farmMb1006.",
+		"TextJPN": "「それ言ったら、あそこの坊主も、いーっつも暗そうな顔してるよなー！@k@vS20/00/VTK1_farmMb1007.　うっははははは！」",
+		"NamesENG": "Villager",
+		"TextENG": "``Hey, their son always looks sooooo depressed, doesn't he?@k@vS20/00/VTK1_farmMb1007. Hahahahahaha!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5028,
+		"TextJPN": "いつの間にか、北条家は村の敵、裏切り者という図式が出来上がってしまい、@k北条家の陰口話なら、誰もが気軽に乗れる最大公約数的話題になってしまっている。",
+		"TextENG": "By now, the Houjou family has become the enemy of the whole village.@k Badmouthing the Houjou family was the greatest shared topic that anyone could easily contribute to."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5029,
+		"TextJPN": "…この村で御三家、特に今や園崎家がどれだけの影響力を持つのか。",
+		"TextENG": "...If he had known how powerful the Three Families were, especially the Sonozaki family..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5030,
+		"TextJPN": "そしてお魎さんがどういう気性の人かを理解していたなら、ああいう喧嘩を吹っかけることは絶対にない。",
+		"TextENG": "And if he had known Oryou-san's character, he wouldn't have said the things he did."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5031,
+		"TextJPN": "北条夫妻とて村の住人。",
+		"TextENG": "The Houjou couple are residents here."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5032,
+		"TextJPN": "町会活動にそれほど熱心でなかったとはいえ、お魎さんがどういう人か知らなかったはずはない。",
+		"TextENG": "Though they were never very enthusiastic about the council activities, they should've known what kind of person Oryou-san is."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5033,
+		"TextJPN": "…それを公衆の面前で罵倒するようなことをすれば、必ずや何倍にもなって跳ね返ってくることが想像できたはずだ。",
+		"TextENG": "He could have imagined just what would happen to him if he talked to her that way."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5034,
+		"TextJPN": "…にもかかわらず、一時の感情に任せて暴言を口にしてしまった。",
+		"TextENG": "Yet, he let his anger take over and voiced his unpleasant feelings."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5035,
+		"TextJPN": "その意味で、今日の北条家の孤立は、気の毒だとするよりも自業自得だとする論調の方が強い。",
+		"TextENG": "So most people think the Houjou family brought their isolation upon themselves."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5036,
+		"TextJPN": "…立ち退きで国と交渉したければ、水面下でこっそり個人的にやればよかったのだ。",
+		"TextENG": "If they wanted to negotiate with the government regarding the move, they should have done so privately."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5037,
+		"TextJPN": "あのような場で堂々と口にしたこと事態が愚かしいと言えば愚かしい。",
+		"TextENG": "Yet he was foolish enough to express himself at a public gathering like that."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5038,
+		"TextJPN": "そういう意味でも、北条家に対して同情する者は少なかった。",
+		"TextENG": "So not too many sympathize with the Houjou family."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5039,
+		"TextJPN": "あの説明会の大喧嘩のせいで、園崎家は北条家を目の仇にし、徹底的な攻撃を加え始めた。",
+		"TextENG": "Ever since the big fight at the explanatory meeting, the Sonozaki family has looked at the Houjou family as their enemy, and started to go after them."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5040,
+		"TextJPN": "…そのせいで、北条家以外にもいた立ち退き派は声を大にできなくなり、自分もスケープゴートにされることを恐れて、渋々、立ち退きを諦めなければならなかった。",
+		"TextENG": "...That caused the other pro-dam families to go quiet, fearing they'd be made into scapegoats too, and those who wanted to leave were bitterly forced to give up."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5041,
+		"TextJPN": "…そんな人たちにとっても、あそこで北条夫妻が軽率な喧嘩をしなければ、立ち退きの補償金をもらい損ねることはなかったのだと批判する声もあるという。",
+		"TextENG": "...Even those people started criticizing the Houjou couple, saying they could've gotten their compensation to leave if the two hadn't picked that reckless fight."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5042,
+		"TextJPN": "ダム反対派からも、元立ち退き派からも嫌われ、文字通り村で孤立を深める北条家…。",
+		"TextENG": "Both the anti-dam and pro-dam people hate the Houjous now, and the family has become even more isolated."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5043,
+		"TextJPN": "しかも、北条夫妻は気性が荒く、嵐が過ぎ去るまで頭を垂れていればよかったものを、",
+		"TextENG": "Moreover, the Houjous are both very aggressive. They should have stayed quiet at least until things settled down, but they didn't."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5044,
+		"TextJPN": "売られた喧嘩は買うとばかりに息巻いたため、わずかにいた同情する人たちもいなくなってしまい、…今や北条家批判に対し異論を挟む者はひとりもいない。",
+		"TextENG": "That alienated the handful of people who took pity on them as well, so now nobody even says anything to them."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5045,
+		"TextJPN": "それは、この集会所の中のあちこちでされている陰口を聞けば一目瞭然だった…。",
+		"TextENG": "All of that was immediately obvious by listening to the foul talk here and there at the gathering place."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5046,
+		"TextJPN": "梨花は、湯呑み茶碗の後片付けを手伝っているが、その陰口はきっと耳に入っている。",
+		"TextENG": "Rika always helps out by putting the tea cups away, so I'm sure she hears what they say as well."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5047,
+		"TextJPN": "…彼らが陰口を叩く内の１人は、梨花の友達の沙都子ちゃんでもあるのだ。",
+		"TextENG": "One of the Houjou family members they're bad-mouthing is Rika's friend, Satoko-chan."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5048,
+		"TextJPN": "…梨花がどんな思いでそれらを耳にしているか想像すると、胸が痛む…。",
+		"TextENG": "It hurts to think about what Rika feels while hearing that."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5049,
+		"TextJPN": "…古手神社の神主として、私はこれらを放置していていいのだろうか。",
+		"TextENG": "As priest of the Furude Shrine, should I let this continue?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5050,
+		"TextJPN": "オヤシロさまは本来は、敵対する者すらも融和し仲を取り持つ縁結びの神さまだ。",
+		"TextENG": "Oyashiro-sama is a god who makes peace between enemies."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5051,
+		"TextJPN": "相容れぬ存在である人と鬼が戦った時、天より降臨されて、その仲を取り持ったはず。",
+		"TextENG": "When the humans and demons fought, Oyashiro-sama descended from heaven and mediated between both sides."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5052,
+		"TextJPN": "…その神社を祀る自分がこのような状態を放置していることは許されないのでは…。",
+		"TextENG": "As the caretaker of this shrine, I must do something before it goes too far."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5053,
+		"TextJPN": "私は、唾を散らしながら口汚く北条家批判をしているお魎さんの脇に座った。",
+		"TextENG": "I'm sitting next to Oryou-san, who is spitefully disparaging the Houjou family."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5054,
+		"NamesJPN": "お魎",
+		"PreTextTags": "@vS20/17/VTK1_oryou1001.",
+		"TextJPN": "「すったらん、だぁほが抜かしよるんよ、あのボケはッ！！」",
+		"NamesENG": "Oryou",
+		"TextENG": "``So that ass was talking shit to me!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5055,
+		"NamesJPN": "お魎",
+		"PreTextTags": "@vS20/17/VTK1_oryou1002.",
+		"TextJPN": "「ならんしゃもあーもないんかいね、ほんまに恩を知らんやっちゃいな！！@k@vS20/17/VTK1_oryou1003.　あんの裏切者には絶対、オヤシロさまの祟りが下るんね、許されなかといな！！！」",
+		"NamesENG": "Oryou",
+		"TextENG": "Who the hell cares!!@k@vS20/17/VTK1_oryou1003. He'll be cursed by Oyashiro-sama, that's for sure!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5056,
+		"TextJPN": "そうだそうだと持ち上げる老人たち。",
+		"TextENG": "The elderly people cheer her on as they listen to her speak."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5057,
+		"TextJPN": "……これだけ気持ち良さそうに話しているところに割り込むのだ。",
+		"TextENG": "......If I barge in now,"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5058,
+		"TextJPN": "穏便な話にはならないかもしれない…。",
+		"TextENG": "I have a feeling it won't be a peaceful conversation."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5059,
+		"TextJPN": "でも私は覚悟を決める。",
+		"TextENG": "But I have to make up my mind."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5060,
+		"TextJPN": "…古手神社の神主として。",
+		"TextENG": "As the priest of the Furude Shrine."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5061,
+		"TextJPN": "そして、梨花の友達である沙都子ちゃんのために。",
+		"TextENG": "Also for the sake of Rika's friend, Satoko-chan."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5062,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1119.",
+		"TextJPN": "「…お魎さん。@k@vS20/00/VTK1_rikaF1120.…北条さんの悪口を言うのはそろそろこれくらいにしませんかね…？」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "``...Oryou-san,@k@vS20/00/VTK1_rikaF1120. don't you think you've said enough by now?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5063,
+		"NamesJPN": "お魎",
+		"PreTextTags": "@vS20/17/VTK1_oryou1004.",
+		"TextJPN": "「はぁあぁあ？！@k@vS20/17/VTK1_oryou1005.　何ね、何ば言いよりおるんかいな…！！」",
+		"NamesENG": "Oryou",
+		"TextENG": "``Huh?@k@vS20/17/VTK1_oryou1005. What the hell are you trying to tell me?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5064,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1121.",
+		"TextJPN": "「…いや。@k@vS20/00/VTK1_rikaF1122.北条さんもそんな悪気はなかったと思うんだが。@k@vS20/00/VTK1_rikaF1123.あまりいつまでも尾を引くのは可哀想だと…、」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "``Well,@k@vS20/00/VTK1_rikaF1122. I'm sure Houjou-san really didn't mean what he said.@k@vS20/00/VTK1_rikaF1123. Isn't it a bit much for this kind of treatment to go on for so long...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5065,
+		"NamesJPN": "お魎",
+		"PreTextTags": "@vS20/17/VTK1_oryou1006.",
+		"TextJPN": "「しゃあらしいんね！！！@|@y@k@vS20/17/VTK1_oryou1007.　おんめ、あれを聞いちゃらどんなすったらん、思わんとね？！@k@vS20/17/VTK1_oryou1008.　なぁんをしゃあらしい！！@k@vS20/17/VTK1_oryou1009.　あぁ、しゃあらしいしゃあらしい！！」",
+		"NamesENG": "Oryou",
+		"TextENG": "``SHUT UP!!!@|@y@k@vS20/17/VTK1_oryou1007. You heard what he said, didn't you?@k@vS20/17/VTK1_oryou1008. Weren't you pissed? He pissed me off!!@k@vS20/17/VTK1_oryou1009. Shit, shit!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5066,
+		"TextJPN": "…お魎さんは園崎家頭首。",
+		"TextENG": "Oryou-san is the head of the Sonozaki family."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5067,
+		"TextJPN": "鬼を継ぐ者だ。",
+		"TextENG": "The heir to the demons."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5068,
+		"TextJPN": "自分に敵対した者は絶対に許さない。",
+		"TextENG": "She never forgives anyone who stands against her."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5069,
+		"TextJPN": "その耳に、もう許してやったらなんて言葉は届くはずもない…。",
+		"TextENG": "So there's no way she would even listen to what I'm trying to say."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5070,
+		"TextJPN": "お魎さんたちは、もうすっかり激昂してしまい、話は聞いてくれそうになかった。",
+		"TextENG": "Oryou-san and the others became furious and refused to listen to me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5071,
+		"TextJPN": "また、私は話の中で、ダム計画などその内なくなってしまうから、もう少し落ち着いたらどうか、ということを口にしてしまった。",
+		"TextENG": "I also mentioned that the dam construction plan will be cancelled soon, so they should calm down already."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5072,
+		"TextJPN": "…これは、入江診療所の人たちから、政府の裏側ですでに圧力が掛けられていて、ダム計画は近いうちに必ず中止されるのを聞かされていたからである。",
+		"TextENG": "I said that because the staff at the Irie Clinic told me that the government is putting some kind of pressure on the Ministry of Construction."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5073,
+		"TextJPN": "それが、彼らには私が日和見的に見えたらしい。",
+		"TextENG": "But thinking that I'm being an opportunist,"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5074,
+		"TextJPN": "…いつの間にか、私に対する批判も始まっていたようだった。",
+		"TextENG": "soon criticism of me began to circulate the room."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5075,
+		"TextJPN": "…この日以降、私はいつの間にか、日和見主義者の烙印をもらっていることに気付く…。",
+		"TextENG": "...After that, I realize that I've become branded as a fence-sitter."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5076,
+		"TextJPN": "……鬼とて、話を聞いてくれる余地があるならば仲も取り持てよう。",
+		"TextENG": "...If the demons are willing to listen, then there's a chance to make peace."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5077,
+		"TextJPN": "…だが、聞く耳を持たない人々の仲を、どうやって取り持つというのか。",
+		"TextENG": "But how can I make peace with people who refuse to listen?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5078,
+		"TextJPN": "すっかり彼らの機嫌を損ねてしまい、私は諦め顔で口をつぐむしかない…。",
+		"TextENG": "I destroyed their mood... so I just have to give up and shut my mouth."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5079,
+		"TextJPN": "そんな私の背中に、そっと掛かる小さな手があった。",
+		"TextENG": "Then I felt a little hand on my back."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5080,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1124.",
+		"TextJPN": "「梨花か。@k@vS20/00/VTK1_rikaF1125.……もう遅い時間だから家に戻っていなさい」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "``Rika...@k@vS20/00/VTK1_rikaF1125. It's getting late, why don't you go home?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5081,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/VTK1_rika1064.",
+		"TextJPN": "「……私たちがいくら努力しても、…届かない」",
+		"NamesENG": "Rika",
+		"TextENG": "``......No matter how hard we try, we can't reach them.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5082,
+		"TextJPN": "梨花は遠い目をしながら、そう言った。",
+		"TextENG": "Rika looked into the distance while she spoke."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5083,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/VTK1_rika1065.",
+		"TextJPN": "「…この澱みきった村の悪弊は、その澱みに住まう私たちにはどうしようもないのかもしれない…。@k@vS20/05/VTK1_rika1066.でも、…希望をなくすものか」",
+		"NamesENG": "Rika",
+		"TextENG": "``...The evil of this corrupted village is probably beyond the means of those of us living in that muck...@k@vS20/05/VTK1_rika1066. But... I won't lose hope."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5084,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/VTK1_rika1067.",
+		"TextJPN": "「…今にきっと、…こいつらを打ち破ってくれる人がやってくる。@k@vS20/05/VTK1_rika1068.今に、…きっと…」",
+		"NamesENG": "Rika",
+		"TextENG": "...Surely... someone who will destroy this stagnation will arrive.@k@vS20/05/VTK1_rika1068. Very soon... I know...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5085,
+		"TextJPN": "その目には、…古手の巫女にしか見えない未来が映っているようだった…。",
+		"TextENG": "Her eyes shone as if seeing a future that only the maiden of the Furude Shrine could see."
+	}
+]

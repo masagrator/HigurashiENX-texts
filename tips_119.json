@@ -1,34 +1,32 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "受付メモ",
-            "ENG": "Receptionist's Note"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15910,
-            "TextJPN": "Ｎｏ．@k@r昭和　　年　　月　　日（　　）",
-            "TextENG": "No.@k@rDate:      Year:"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15911,
-            "TextJPN": "件　名　　北条サトコさんの件@k@r来訪者　　前原圭一　他４名（関係：友人）",
-            "TextENG": "Subject: About Satoko Houjou-san.@k@rVisitor: Keiichi Maebara and four other friends."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15912,
-            "TextJPN": "・北条サトコさんの家庭に問題があるとのことで、担当者の派出をしてほしい旨、訴えがありました。@k（対応中？）",
-            "TextENG": "・They are requesting protection for Satoko-Houjou-san, to save her from being abused by her uncle.@k (Already being dealt with?)"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15913,
-            "TextJPN": "・冷蔵庫の掃除をしますので、私物は今夕までに片付けてください。",
-            "TextENG": "・I'm cleaning out the refrigerator, so please remove your personal belongings by this evening."
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "受付メモ",
+		"ENG": "Receptionist's Note"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15910,
+		"TextJPN": "Ｎｏ．@k@r昭和　　年　　月　　日（　　）",
+		"TextENG": "No.@k@rDate:      Year:"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15911,
+		"TextJPN": "件　名　　北条サトコさんの件@k@r来訪者　　前原圭一　他４名（関係：友人）",
+		"TextENG": "Subject: About Satoko Houjou-san.@k@rVisitor: Keiichi Maebara and four other friends."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15912,
+		"TextJPN": "・北条サトコさんの家庭に問題があるとのことで、担当者の派出をしてほしい旨、訴えがありました。@k（対応中？）",
+		"TextENG": "・They are requesting protection for Satoko-Houjou-san, to save her from being abused by her uncle.@k (Already being dealt with?)"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15913,
+		"TextJPN": "・冷蔵庫の掃除をしますので、私物は今夕までに片付けてください。",
+		"TextENG": "・I'm cleaning out the refrigerator, so please remove your personal belongings by this evening."
+	}
+]

@@ -1,277 +1,275 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 0,
-            "JPN": "ひぐらしアウトブレイク～神姦し編～",
-            "ENG": "Higurashi Outbreak ～Kamikashimashi-hen～"
-        },
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "#1",
-            "ENG": "#1"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154028,
-            "TextJPN": "彼方に見える興宮の街からは、火事のような煙があちこちから立ち上っている。",
-            "TextENG": "From the town of Okinomiya and beyond in sight, smoke from fires can be seen rising up everywhere."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154029,
-            "TextJPN": "それらが煙り、街全体を不穏に覆っているのが一望できる。",
-            "TextENG": "The smoke, and unrest disturbingly covers the entire town."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154030,
-            "TextJPN": "風は時折、静寂な街に木霊する奇声や怒声、あるいは見当もつかない不気味な音を運んでくる。",
-            "TextENG": "The wind occasionally echoes across the silent town with an angry and strange voice, carrying an eerie sound nobody understands."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154031,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS25/03/NMIO_0770.",
-            "TextJPN": "「……まるで、街の断末魔が聞こえるようだよ」",
-            "NamesENG": "Mion",
-            "TextENG": "``......It's as if we can hear the town's death agony.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154032,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS25/02/NREN_0600.",
-            "TextJPN": "「このおかしな騒ぎは雛見沢だけじゃないんだね……」",
-            "NamesENG": "Rena",
-            "TextENG": "``So this strange disturbance isn't only in Hinamizawa......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154033,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS25/01/NKEI_0730.",
-            "TextJPN": "「ウィルスがとうとう、興宮にまで広がった、……ということなのか……？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``It seems this virus has finally spread itself to Okinomiya...... I am right......?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154034,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS25/04/NSAT_0060.",
-            "TextJPN": "「…………梨花……」",
-            "NamesENG": "Satoko",
-            "TextENG": "``............Rika......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154035,
-            "TextJPN": "雛見沢に残ると言って、ひとり残った梨花。",
-            "TextENG": "Remaining in Hinamizawa, Rika stayed there alone."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154036,
-            "TextJPN": "それは危険ではないかと止めたが、この光景を見ては、勝手の知れた雛見沢の方がまだマシかもしれない。",
-            "TextENG": "She stopped us when we told her it was dangerous, but to see this scene, and arbitrary to what one may think, the state of things in Hinamizawa will improve."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154037,
-            "TextJPN": "怪我をしている魅音だが、ひとまずは落ち着いているように見える。",
-            "TextENG": "Mion is also injured, but it seems she has calmed down for the time being."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154038,
-            "TextJPN": "しかし、所詮は応急手当だ。医者に見せる必要がある。",
-            "TextENG": "However, first aid treatment is needed after all. So it's necessary for her to see a doctor."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154039,
-            "TextJPN": "入江診療所は暴徒に荒らされ、すでに無人で、入江は消息不明だ。",
-            "TextENG": "Although the Irie Clinic was invaded by a mob, and is currently unmanned, Irie's whereabouts are also unknown."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154040,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS25/01/NKEI_0740.",
-            "TextJPN": "「とにかく、医者を見つけないとな」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``At any rate, we have to find you a doctor.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154041,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS25/03/NMIO_0780.",
-            "TextJPN": "「おじさんは平気だよ。痛いには痛いけど、だいぶ落ち着いてきた」",
-            "NamesENG": "Mion",
-            "TextENG": "``This old man is fine. Though it was painful and hurt, it's calmed down alot.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154042,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS25/02/NREN_0610.",
-            "TextJPN": "「駄目。ちゃんとした手当てを受けないと、あとから膿んでくることもあるんだから」",
-            "NamesENG": "Rena",
-            "TextENG": "``No. If you don't receive proper treatment, it will come to fester soon enough.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154043,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS25/04/NSAT_0070.",
-            "TextJPN": "「お医者を探す他ありませんですわ」",
-            "NamesENG": "Satoko",
-            "TextENG": "``I don't think we'll find a doctor.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154044,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS25/01/NKEI_0750.",
-            "TextJPN": "「この状況で、医者が開いてるとは思い難いけどな」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``In this situation, it's hard to think a doctor would even be open.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154045,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS25/03/NMIO_0790.",
-            "TextJPN": "「……園崎組の事務所を目指そう。母さんたちなら、きっと何とかしてくれるはず……」",
-            "NamesENG": "Mion",
-            "TextENG": "``......Let's head for the office of the Sonozaki family. If my mom's there, I'm sure she'll be able to do something......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154046,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS25/02/NREN_0620.",
-            "TextJPN": "「詩ぃちゃんもそこかな」",
-            "NamesENG": "Rena",
-            "TextENG": "``I wonder if Shii-chan will be there.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154047,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS25/03/NMIO_0800.",
-            "TextJPN": "「こんな事態になったら、あそこが一番安全だろうからね」",
-            "NamesENG": "Mion",
-            "TextENG": "``In these circumstances, she's probably there and safe.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154048,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS25/04/NSAT_0080.",
-            "TextJPN": "「……魅音さんのお母さんたちが、冷静でいてくれればいいんですけれど……」",
-            "NamesENG": "Satoko",
-            "TextENG": "``......I hope Mion's mom will be able to help......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154049,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS25/01/NKEI_0760.",
-            "TextJPN": "「とにかく、街の様子を見てみよう。いつまでもここにはいられない」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Anyway, let's look at the state of the town. We can't wait up here forever.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154050,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS25/02/NREN_0630.",
-            "TextJPN": "「……そうだね。この騒ぎが、ここだけなのか。それとも日本中にまで及ぶのか、……雛見沢じゃ何もわからない」",
-            "NamesENG": "Rena",
-            "TextENG": "``......You're right. This uproar is not something we can check on from here. ......It may have spread to the rest of Japan...... although, we'll understand nothing if we stay in Hinamizawa.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154051,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS25/04/NSAT_0090.",
-            "TextJPN": "「こんなのが、世界中で起こっていたらなんて……。考えたくもありませんわ……」",
-            "NamesENG": "Satoko",
-            "TextENG": "``What if this is happening all over the world...... I don't want to think about it......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154052,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS25/03/NMIO_0810.",
-            "TextJPN": "「行こう。……大丈夫、自分の足で歩けるよ」",
-            "NamesENG": "Mion",
-            "TextENG": "``Let's go. ......We'll be fine, we can walk on foot.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154053,
-            "TextJPN": "普段なら、興宮までは自転車でいく。",
-            "TextENG": "Usually, we'd go by bicycle to Okinomiya."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154054,
-            "TextJPN": "しかし、雛見沢同様に興宮にも自警団気取りの暴徒がいるだろうことは想像がつく。",
-            "TextENG": "However, it's easy to imagine that the panache mobs of the vigilance committee have similarly headed to Okinomiya."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154055,
-            "TextJPN": "例のウィルス騒ぎは、雛見沢が発信源なのだ。興宮の人間からしてみれば、雛見沢から来る人間は全て敵も同然のはずだ。",
-            "TextENG": "It is also said that the source of this virus uproar is none other than Hinamizawa. So all the people in Okinomiya will be considering anyone coming from Hinamizawa their enemy."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154056,
-            "TextJPN": "そんな連中が待ち受けているだろう普通の道では危険だと判断し、徒歩で裏道から向かうことに決める。",
-            "TextENG": "Taking this into consideration, I judged it dangerous for us to head our usual way as such people would be waiting for us, so we decided to use a secret path on foot."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154057,
-            "TextJPN": "山菜取りの年寄りか、野原を駆け回る雛見沢の子供たちしか知らないようなルートが、もっとも安全だろう。",
-            "TextENG": "Only old people who collect edible wild plants, and children running around the fields know about this route, so it should be safe."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154058,
-            "TextJPN": "圭一たちは、興宮を目指す……。",
-            "TextENG": "Keiichi and company now aim for Okinomiya......"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154059,
-            "TextJPN": "圭一の両親には、園崎家の秘密の地下道に避難してもらっている。",
-            "TextENG": "Keiichi's parents were asked to take refuge in the secret underpass owned by the Sonozaki family."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154060,
-            "TextJPN": "そこには多少の蓄えもあるので、しばらくは安全だろう。",
-            "TextENG": "Also, because there is some stock there, they will be safe for the time being."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154061,
-            "TextJPN": "しかし、より安全でより医療や食料の充実した場所が必要だ。",
-            "TextENG": "However, it is necessary to find a location with substantial medical care and food than security."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154062,
-            "TextJPN": "そのような安全地帯が存在するかどうかを確認するのが、興宮探索の最大の目的だった……。",
-            "TextENG": "So, to confirm whether such safety zones exist, searching Okinomiya has become their greatest objective......"
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 0,
+		"JPN": "ひぐらしアウトブレイク～神姦し編～",
+		"ENG": "Higurashi Outbreak ～Kamikashimashi-hen～"
+	},
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "#1",
+		"ENG": "#1"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154028,
+		"TextJPN": "彼方に見える興宮の街からは、火事のような煙があちこちから立ち上っている。",
+		"TextENG": "From the town of Okinomiya and beyond in sight, smoke from fires can be seen rising up everywhere."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154029,
+		"TextJPN": "それらが煙り、街全体を不穏に覆っているのが一望できる。",
+		"TextENG": "The smoke, and unrest disturbingly covers the entire town."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154030,
+		"TextJPN": "風は時折、静寂な街に木霊する奇声や怒声、あるいは見当もつかない不気味な音を運んでくる。",
+		"TextENG": "The wind occasionally echoes across the silent town with an angry and strange voice, carrying an eerie sound nobody understands."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154031,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS25/03/NMIO_0770.",
+		"TextJPN": "「……まるで、街の断末魔が聞こえるようだよ」",
+		"NamesENG": "Mion",
+		"TextENG": "``......It's as if we can hear the town's death agony.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154032,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS25/02/NREN_0600.",
+		"TextJPN": "「このおかしな騒ぎは雛見沢だけじゃないんだね……」",
+		"NamesENG": "Rena",
+		"TextENG": "``So this strange disturbance isn't only in Hinamizawa......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154033,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS25/01/NKEI_0730.",
+		"TextJPN": "「ウィルスがとうとう、興宮にまで広がった、……ということなのか……？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``It seems this virus has finally spread itself to Okinomiya...... I am right......?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154034,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS25/04/NSAT_0060.",
+		"TextJPN": "「…………梨花……」",
+		"NamesENG": "Satoko",
+		"TextENG": "``............Rika......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154035,
+		"TextJPN": "雛見沢に残ると言って、ひとり残った梨花。",
+		"TextENG": "Remaining in Hinamizawa, Rika stayed there alone."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154036,
+		"TextJPN": "それは危険ではないかと止めたが、この光景を見ては、勝手の知れた雛見沢の方がまだマシかもしれない。",
+		"TextENG": "She stopped us when we told her it was dangerous, but to see this scene, and arbitrary to what one may think, the state of things in Hinamizawa will improve."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154037,
+		"TextJPN": "怪我をしている魅音だが、ひとまずは落ち着いているように見える。",
+		"TextENG": "Mion is also injured, but it seems she has calmed down for the time being."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154038,
+		"TextJPN": "しかし、所詮は応急手当だ。医者に見せる必要がある。",
+		"TextENG": "However, first aid treatment is needed after all. So it's necessary for her to see a doctor."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154039,
+		"TextJPN": "入江診療所は暴徒に荒らされ、すでに無人で、入江は消息不明だ。",
+		"TextENG": "Although the Irie Clinic was invaded by a mob, and is currently unmanned, Irie's whereabouts are also unknown."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154040,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS25/01/NKEI_0740.",
+		"TextJPN": "「とにかく、医者を見つけないとな」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``At any rate, we have to find you a doctor.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154041,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS25/03/NMIO_0780.",
+		"TextJPN": "「おじさんは平気だよ。痛いには痛いけど、だいぶ落ち着いてきた」",
+		"NamesENG": "Mion",
+		"TextENG": "``This old man is fine. Though it was painful and hurt, it's calmed down alot.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154042,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS25/02/NREN_0610.",
+		"TextJPN": "「駄目。ちゃんとした手当てを受けないと、あとから膿んでくることもあるんだから」",
+		"NamesENG": "Rena",
+		"TextENG": "``No. If you don't receive proper treatment, it will come to fester soon enough.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154043,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS25/04/NSAT_0070.",
+		"TextJPN": "「お医者を探す他ありませんですわ」",
+		"NamesENG": "Satoko",
+		"TextENG": "``I don't think we'll find a doctor.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154044,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS25/01/NKEI_0750.",
+		"TextJPN": "「この状況で、医者が開いてるとは思い難いけどな」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``In this situation, it's hard to think a doctor would even be open.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154045,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS25/03/NMIO_0790.",
+		"TextJPN": "「……園崎組の事務所を目指そう。母さんたちなら、きっと何とかしてくれるはず……」",
+		"NamesENG": "Mion",
+		"TextENG": "``......Let's head for the office of the Sonozaki family. If my mom's there, I'm sure she'll be able to do something......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154046,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS25/02/NREN_0620.",
+		"TextJPN": "「詩ぃちゃんもそこかな」",
+		"NamesENG": "Rena",
+		"TextENG": "``I wonder if Shii-chan will be there.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154047,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS25/03/NMIO_0800.",
+		"TextJPN": "「こんな事態になったら、あそこが一番安全だろうからね」",
+		"NamesENG": "Mion",
+		"TextENG": "``In these circumstances, she's probably there and safe.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154048,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS25/04/NSAT_0080.",
+		"TextJPN": "「……魅音さんのお母さんたちが、冷静でいてくれればいいんですけれど……」",
+		"NamesENG": "Satoko",
+		"TextENG": "``......I hope Mion's mom will be able to help......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154049,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS25/01/NKEI_0760.",
+		"TextJPN": "「とにかく、街の様子を見てみよう。いつまでもここにはいられない」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Anyway, let's look at the state of the town. We can't wait up here forever.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154050,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS25/02/NREN_0630.",
+		"TextJPN": "「……そうだね。この騒ぎが、ここだけなのか。それとも日本中にまで及ぶのか、……雛見沢じゃ何もわからない」",
+		"NamesENG": "Rena",
+		"TextENG": "``......You're right. This uproar is not something we can check on from here. ......It may have spread to the rest of Japan...... although, we'll understand nothing if we stay in Hinamizawa.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154051,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS25/04/NSAT_0090.",
+		"TextJPN": "「こんなのが、世界中で起こっていたらなんて……。考えたくもありませんわ……」",
+		"NamesENG": "Satoko",
+		"TextENG": "``What if this is happening all over the world...... I don't want to think about it......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154052,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS25/03/NMIO_0810.",
+		"TextJPN": "「行こう。……大丈夫、自分の足で歩けるよ」",
+		"NamesENG": "Mion",
+		"TextENG": "``Let's go. ......We'll be fine, we can walk on foot.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154053,
+		"TextJPN": "普段なら、興宮までは自転車でいく。",
+		"TextENG": "Usually, we'd go by bicycle to Okinomiya."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154054,
+		"TextJPN": "しかし、雛見沢同様に興宮にも自警団気取りの暴徒がいるだろうことは想像がつく。",
+		"TextENG": "However, it's easy to imagine that the panache mobs of the vigilance committee have similarly headed to Okinomiya."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154055,
+		"TextJPN": "例のウィルス騒ぎは、雛見沢が発信源なのだ。興宮の人間からしてみれば、雛見沢から来る人間は全て敵も同然のはずだ。",
+		"TextENG": "It is also said that the source of this virus uproar is none other than Hinamizawa. So all the people in Okinomiya will be considering anyone coming from Hinamizawa their enemy."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154056,
+		"TextJPN": "そんな連中が待ち受けているだろう普通の道では危険だと判断し、徒歩で裏道から向かうことに決める。",
+		"TextENG": "Taking this into consideration, I judged it dangerous for us to head our usual way as such people would be waiting for us, so we decided to use a secret path on foot."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154057,
+		"TextJPN": "山菜取りの年寄りか、野原を駆け回る雛見沢の子供たちしか知らないようなルートが、もっとも安全だろう。",
+		"TextENG": "Only old people who collect edible wild plants, and children running around the fields know about this route, so it should be safe."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154058,
+		"TextJPN": "圭一たちは、興宮を目指す……。",
+		"TextENG": "Keiichi and company now aim for Okinomiya......"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154059,
+		"TextJPN": "圭一の両親には、園崎家の秘密の地下道に避難してもらっている。",
+		"TextENG": "Keiichi's parents were asked to take refuge in the secret underpass owned by the Sonozaki family."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154060,
+		"TextJPN": "そこには多少の蓄えもあるので、しばらくは安全だろう。",
+		"TextENG": "Also, because there is some stock there, they will be safe for the time being."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154061,
+		"TextJPN": "しかし、より安全でより医療や食料の充実した場所が必要だ。",
+		"TextENG": "However, it is necessary to find a location with substantial medical care and food than security."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154062,
+		"TextJPN": "そのような安全地帯が存在するかどうかを確認するのが、興宮探索の最大の目的だった……。",
+		"TextENG": "So, to confirm whether such safety zones exist, searching Okinomiya has become their greatest objective......"
+	}
+]

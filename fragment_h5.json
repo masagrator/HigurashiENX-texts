@@ -1,787 +1,785 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "H5 古手梨花",
-            "ENG": "H5 Rika Furude"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8136,
-            "TextJPN": "お母さんに買い物を頼まれ、スーパーへ買い物に行く途中、沙都子に出会った。",
-            "TextENG": "I ran into Satoko while on my way to the grocery store for my mother."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8137,
-            "TextJPN": "聞けば、沙都子も同じような買い物を頼まれたという。",
-            "TextENG": "Satoko said she was going there too,"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8138,
-            "TextJPN": "ならば一緒に行こうということになった。",
-            "TextENG": "so we decided to go together."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8139,
-            "TextJPN": "買い物メモを見せっこすると、お互いの家の今晩のメニューが想像できて楽しい。",
-            "TextENG": "After exchanging our shopping lists, it became easy to guess what the other family would be having for dinner."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8140,
-            "TextJPN": "沙都子の家はどうやら魚と煮物らしい。",
-            "TextENG": "Satoko's family is having grilled fish and cooked vegetables."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8141,
-            "TextJPN": "ちなみに私のうちはハンバーグのようだった。",
-            "TextENG": "We're having Salisbury steak."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8142,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/VTK2_satoko2001.",
-            "TextJPN": "「あら、ハンバーグとは羨ましいですわね…！@k@|@y@vS20/04/VTK2_satoko2002.　私、魚はともかく、煮物というのがちょっと怖いんですのよ？@k@vS20/04/VTK2_satoko2003.　先日買ったカボチャがまだ、だいぶ残ってるみたいなんですもの」",
-            "NamesENG": "Satoko",
-            "TextENG": "``My, that sounds so very good!@k@|@y@vS20/04/VTK2_satoko2002. I don't mind the grilled fish, but it's the vegetables I'm less fond of.@k@vS20/04/VTK2_satoko2003. I'm certain there's still plenty of pumpkin left from the other day.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8143,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/VTK2_rika2065.",
-            "TextJPN": "「…きっと今夜もカボチャの煮物三昧なのです。@k@vS20/05/VTK2_rika2066.かわいそかわいそなのです☆」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Then I bet you'll be getting a lot tonight.@k@vS20/05/VTK2_rika2066. Poor, poor Satoko☆.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8144,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/VTK2_satoko2004.",
-            "TextJPN": "「予めカボチャが出て来るとわかってるのも憂鬱でございますわね。@k@vS20/04/VTK2_satoko2005.はぁ」",
-            "NamesENG": "Satoko",
-            "TextENG": "``I don't appreciate knowing that pumpkin is going to show up on the dinner table...@k@vS20/04/VTK2_satoko2005. Haahh...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8145,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/VTK2_rika2067.",
-            "TextJPN": "「…み～☆@k@vS20/05/VTK2_rika2068.　突然カボチャを出されても怒るくせに贅沢な沙都子なのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Meep~☆.@k@vS20/05/VTK2_rika2068. You don't like pumpkin, no matter how it shows up.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8146,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/VTK2_satoko2006.",
-            "TextJPN": "「り、梨花にだって少しは嫌いな食べ物があるはずですわよ？！@k@vS20/04/VTK2_satoko2007.　そういえば梨花、大福とかシュークリームとか、甘い物が嫌いだったんではございませんこと？！」",
-            "NamesENG": "Satoko",
-            "TextENG": "``R-Rika, you have some food you're not fond of, don't you?@k@vS20/04/VTK2_satoko2007. That's right, you don't like daifuku, cream puffs, or anything sweet, don't you!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8147,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/VTK2_rika2069.",
-            "TextJPN": "「…別に嫌いではないのです。@k@vS20/05/VTK2_rika2070.意地悪で食べないだけなのですよ。@k@vS20/05/VTK2_rika2071.食べる気なら何個でも食べられちゃいますのです。@k@vS20/05/VTK2_rika2072.パンプキンパイだっておいしくいただけますのですよ、にぱ～☆」",
-            "NamesENG": "Rika",
-            "TextENG": "``......It's not that I don't like those things.@k@vS20/05/VTK2_rika2070. I just choose not to eat them.@k@vS20/05/VTK2_rika2071. If I wanted to, I could eat sweets forever.@k@vS20/05/VTK2_rika2072. I could even eat pumpkin pie too. Nipah~☆.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8148,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/VTK2_satoko2008.",
-            "TextJPN": "「ぅうぅぅ、梨花だけ好き嫌いがないなんてずるいですわー！！」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Oooh, it's not fair that you aren't a picky eater!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8149,
-            "TextJPN": "そんなやり取りがとても楽しい。",
-            "TextENG": "Conversations like this are how I have fun."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8150,
-            "TextJPN": "沙都子はボクにとっての一番の親友。",
-            "TextENG": "Satoko is my best friend."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8151,
-            "TextJPN": "面倒臭いと思っていたお買い物も、沙都子と一緒になれただけで、楽しい夕方のお散歩に早変りするのだった。",
-            "TextENG": "I usually don't like grocery shopping, but if I'm with Satoko, I can make it into an enjoyable evening stroll."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8152,
-            "TextJPN": "スーパーの近くは他にもお惣菜屋さんとかが並び、雛見沢のちょっとした商店街になっていた。",
-            "TextENG": "Near the supermarket, there's a grocers and other shops, forming a little shopping district."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8153,
-            "TextJPN": "夕飯の買い物に一番繁盛する時間だ。",
-            "TextENG": "The grocery store is busy this time of day."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8154,
-            "TextJPN": "雛見沢の主婦たちが集まり、賑やかな買い物をしていた。",
-            "TextENG": "All the housewives in Hinamizawa gather here to shop."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8155,
-            "TextJPN": "とりあえず、私と沙都子では買うものが違うので、それぞれ分かれて目的の物を買うことにする。",
-            "TextENG": "Since Satoko and I have different things to buy, we decide to do our shopping separately."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8156,
-            "NamesJPN": "惣菜屋",
-            "PreTextTags": "@vS20/00/VTK2_souzai2001.",
-            "TextJPN": "「ぇい、いらっしゃいいらっしゃい！！@k@vS20/00/VTK2_souzai2002.　おや、梨花ちゃま、いらっしゃい！@k@vS20/00/VTK2_souzai2003.　お買い物かい？@k@vS20/00/VTK2_souzai2004.　偉いねぇ！」",
-            "NamesENG": "Vendor",
-            "TextENG": "``Welcome, welcome!!@k@vS20/00/VTK2_souzai2002. Oh, Rika-chama!@k@vS20/00/VTK2_souzai2003. Are you shopping for your mother?@k@vS20/00/VTK2_souzai2004. What a good girl!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8157,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/VTK2_rika2073.",
-            "TextJPN": "「…にぱ～☆@k@vS20/05/VTK2_rika2074.　ボクはお買い物ができる偉い子なのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Nipah~☆.@k@vS20/05/VTK2_rika2074. I'm a good girl who can go shopping by herself.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8158,
-            "NamesJPN": "惣菜屋",
-            "PreTextTags": "@vS20/00/VTK2_souzai2005.",
-            "TextJPN": "「そうかそうか、梨花ちゃまは偉いなぁ！@k@vS20/00/VTK2_souzai2006.　ほら偉い子のご褒美にこれをあげよう」",
-            "NamesENG": "Vendor",
-            "TextENG": "``Wow, you really are a good girl!@k@vS20/00/VTK2_souzai2006. Here, I'll give you this.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8159,
-            "TextJPN": "軒先に吊るしてあるお釣り用の小銭入れのザルの中には、時折咳き込む主人のために飴がいくつか入れてあった。",
-            "TextENG": "There were several candies for the owner's occasional asthma attack inside a sieve full of change hanging in the front."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8160,
-            "TextJPN": "それを１つ取り、ボクに放ってくれる。",
-            "TextENG": "He picked out a sweet from there and gave it to me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8161,
-            "TextJPN": "苺ミルクの味がする、ボクの大好きな飴だった。",
-            "TextENG": "It was my favorite flavor, strawberry milk."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8162,
-            "TextJPN": "あとで沙都子の前で、自分だけがもらえたと自慢するために、今は食べず、わざわざポケットにしまう。",
-            "TextENG": "I put it in my pocket so I can brag about it to Satoko later."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8163,
-            "TextJPN": "ボクにとって、沙都子をからかったり、羨ましがらせたりするのはとても楽しいこと。",
-            "TextENG": "I get a lot of fun out of teasing Satoko and making her jealous."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8164,
-            "TextJPN": "沙都子はそれらに対して、いつも過剰なまでにリアクションをしてくれる。",
-            "TextENG": "She always overreacts,"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8165,
-            "TextJPN": "一緒にいれば退屈に感じることなどない、最高の友人だった。",
-            "TextENG": "so I never get bored when I'm with her."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8166,
-            "NamesJPN": "肉屋",
-            "PreTextTags": "@vS20/00/VTK2_nikuya2001.",
-            "TextJPN": "「おや、梨花ちゃまのところは今日は何だい。@k@vS20/00/VTK2_nikuya2002.豚の挽き肉だと、う～ん、」",
-            "NamesENG": "Butcher",
-            "TextENG": "``What are you having for dinner tonight, Rika-chama?@k@vS20/00/VTK2_nikuya2002. Ground pork... hmmm...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8167,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/VTK2_rika2075.",
-            "TextJPN": "「…ハンバーグなのですよ。@k@vS20/05/VTK2_rika2076.お花の形の目玉焼きを乗っけて、ケチャップでお絵描きをするのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``...We're making Salisbury steak.@k@vS20/05/VTK2_rika2076. We're going to put flower-shaped fried eggs on top and draw pictures on them with ketchup.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8168,
-            "NamesJPN": "肉屋",
-            "PreTextTags": "@vS20/00/VTK2_nikuya2003.",
-            "TextJPN": "「おっほっほっほ！　それはいいねぇ！」",
-            "NamesENG": "Butcher",
-            "TextENG": "``Oh ho ho ho! That sounds like fun!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8169,
-            "TextJPN": "そんなやり取りを楽しみながら、私は買い物袋の中を少しずつ満たしてく。",
-            "TextENG": "I enjoyed that conversation while filling my shopping basket."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8170,
-            "TextJPN": "…その時、主婦たちのひそひそ話がふと耳に入った。",
-            "TextENG": "...But then I overheard some women whispering."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8171,
-            "TextJPN": "それは、…少しだけ冷たい内容。",
-            "TextENG": "They're talking about something that's a little harsh."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8172,
-            "TextJPN": "……買い物に訪れている沙都子に対するものだった。",
-            "TextENG": "......They're talking about Satoko."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8173,
-            "TextJPN": "村を国に売る裏切り者のくせにいつまで村に居座るつもりなのか。",
-            "TextENG": "``How long do those village traitors plan to stay here?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8174,
-            "TextJPN": "早く出て行けばいいのに。",
-            "TextENG": "``They should just leave.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8175,
-            "TextJPN": "そして、堂々と買い物に来る度胸もなく、娘に買い物をやらせるとは。",
-            "TextENG": "``They don't even have the guts to go shopping themselves and make their daughter do it instead.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8176,
-            "TextJPN": "…ぐちぐち、ぐちぐち…。",
-            "TextENG": "The women went on and on..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8177,
-            "TextJPN": "…ダム計画の地元説明会で、北条家と園崎本家が徹底的に対立することになる大喧嘩をして以来。",
-            "TextENG": "Ever since the Houjou family and the Sonozaki family got into a huge fight at the explanatory meeting for the dam project,"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8178,
-            "TextJPN": "北条家は村の中での孤立を深めていた。",
-            "TextENG": "the Houjou family has been ostracized within the village."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8179,
-            "TextJPN": "当初こそ、北条家に同調する立ち退き派も少なからずいたのだが。",
-            "TextENG": "At first, there were a significant number of families in favor of leaving like the Houjous."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8180,
-            "TextJPN": "園崎本家が主導で村中の徹底的な意見調整が図られ、全体主義的な論調に固められていくと、徐々に立ち退き派は鳴りを潜めていった。",
-            "TextENG": "But the main branch of the Sonozakis led a push to completely solidify the village's opinion, and as that tone of unified resistance grew stronger, the pro-evacuation families steadily grew quiet."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8181,
-            "TextJPN": "また、園崎家や公由家などの、村に大きな影響力を持つ御三家筋からの露骨な嫌がらせも大きく作用していた。",
-            "TextENG": "The public harassment led by the Sonozakis and Kimiyoshis, two of the Three Families with powerful influence on the village, also played an effect too."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8182,
-            "TextJPN": "園崎本家は、北条家を見せしめにすることで、同調する立ち退き派が現れないようにする戦略に出たらしい。",
-            "TextENG": "The Sonozaki family made the Houjou family into an example, to ensure there would be no more pro-evacuation supporters."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8183,
-            "TextJPN": "それは、先祖から何代にもわたって住み続け、そして自分たちも恐らくはこの村で骨を埋めることになるだろう住民たちにとって、とても圧力のある嫌がらせだった。",
-            "TextENG": "The ancestors of the villagers have lived here for generations, and the villagers also know that they themselves will be buried in this village, so this harassment put a lot of pressure on them."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8184,
-            "TextJPN": "かつて地元説明会で、鼻息荒く北条家に同調し、立ち退き派のリーダーとして煽り立てるような威勢のいいことを言ったのはどこの誰だったやら…。",
-            "TextENG": "Who was it that agreed to make the Houjou family the leader of the pro-evacuation group at the explanatory meeting?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8185,
-            "TextJPN": "そのような者はすっかり鳴りを潜めてしまい、踏み絵的に北条家への冷遇に参加していった…。",
-            "TextENG": "Those same people no longer said anything, and they even joined in on harassing the Houjou family."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8186,
-            "TextJPN": "北条家への仕打ちは、今や村全体からかけられる圧力となっていた。",
-            "TextENG": "The harassment they faced then became pressure from the entire village."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8187,
-            "TextJPN": "北条家の反応も村の雰囲気が雰囲気だけに、どうしても極端なものになった。",
-            "TextENG": "The reaction of the Houjou family was also inevitably extreme because of the atmosphere of the village."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8188,
-            "TextJPN": "そして、しばらくして彼ら一家は挑発に乗るように、町会を脱退してしまう。",
-            "TextENG": "And after a while, their family leaved the town council as if provoked."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8189,
-            "TextJPN": "そのきっかけは、本当に些細なものだったと聞くが…それが、北条家の立場をますます悪くしていった。",
-            "TextENG": "I heard that the trigger was something really trivial, but it made the Houjou family's position worse and worse."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8190,
-            "TextJPN": "さらに、そんな一悶着があってからは…陰湿な村ぐるみの冷遇が、北条家に対してあの手この手と重ねられた。",
-            "TextENG": "In addition, after such a dispute, the entire village took an insidious approach to the Hojo family."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8191,
-            "TextJPN": "その仕打ちの恐ろしさが村中に蔓延し、@k…北条家に同調すれば同じ目に遭わされるかもしれないと怯えさせ、@k…ますます彼ら一家を孤立させていく。",
-            "TextENG": "The horror of their treatment spread throughout the village,@k frightening them that they might be subjected to the same treatment if they sympathized with the Hojo family,@k and increasingly isolating their family."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8192,
-            "TextJPN": "…大人たちは、そういう裏事情を子どもたちには話さなかったから、沙都子が学校で酷い目に遭うということだけはなかったが。",
-            "TextENG": "The adults didn't tell the children what was going on behind the scenes, so Satoko didn't get into any trouble at school."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8193,
-            "TextJPN": "…窒息しそうなぐらいの緊張感を毎日強いられていただろうことは想像に難しくない…。",
-            "TextENG": "But it wasn't hard to imagine she probably spent her days feeling so anxious she could hardly breathe."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8194,
-            "TextJPN": "今、ぼそぼそ陰口を言っている主婦たちも、別に沙都子に直接言ってるわけではない。",
-            "TextENG": "Even the women whispering in here aren't saying anything directly to Satoko."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8195,
-            "TextJPN": "…でも、だからといって、時折零れて聞こえる内容と、冷たい目線に沙都子がまったく気付かないわけもない。",
-            "TextENG": "But it's not like she doesn't notice their muttering and the cold stares."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8196,
-            "TextJPN": "…いつから村は、こんなにも沙都子に冷たくなったのか。",
-            "TextENG": "...When did this village become so cold towards her?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8197,
-            "TextJPN": "…沙都子の親友としてとても悲しかった。",
-            "TextENG": "...As her best friend, it's very sad for me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8198,
-            "TextJPN": "こうして見てみれば、沙都子の買い物はボクの和気藹々としたものとは全然違う。",
-            "TextENG": "Satoko's shopping experience is nothing like mine."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8199,
-            "TextJPN": "私が挨拶したり買い物したりすれば、オマケがもらえたりお得にしてもらったり、色々あるのに、…沙都子にはない。",
-            "TextENG": "When I say hello or buy things, I usually get treats or a discount. But that doesn't happen to Satoko."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8200,
-            "TextJPN": "いや、それどころか、……わざと後回しにされたり、聞こえないふりをされたり、@k…沙都子に関わりたくないという気配が充満しているのがわかった。",
-            "TextENG": "On the contrary, she's served last on purpose, and sometimes shop owners even pretend they don't hear her.@k Obviously, people don't want to have anything to do with her."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8201,
-            "TextJPN": "…ごった返す主婦たちの合間を縫って、ずっと魚屋の主人にほしいものを言っていたはずなのに、最後の最後まで後回しにされた沙都子。",
-            "TextENG": "...Satoko had been weaving through the housewives crowding the shop, telling the fishmonger what she wanted, but she kept getting ignored."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8202,
-            "TextJPN": "…沙都子は強気な笑顔を浮かべて、全然気にしない風を装っているが、…ボクにはわかる。",
-            "TextENG": "...She's decided to keep her smile and pretend she doesn't mind... but I know."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8203,
-            "TextJPN": "それはあまりに痛々しい痩せ我慢…。",
-            "TextENG": "It was far too painful for her to endure..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8204,
-            "TextJPN": "その時、沙都子が小銭を地面にばらまいてしまった。",
-            "TextENG": "At that point, Satoko dropped her coins on the ground."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8205,
-            "TextJPN": "渡されたお釣りを財布に戻そうとして、ちょっと指に引っ掛かったのかもしれない。",
-            "TextENG": "Maybe her finger got stuck on something when she was trying to put the change back into her wallet."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8206,
-            "TextJPN": "ボクは沙都子から少し離れていたので、主婦たちの間を潜り抜けて、一緒に小銭を拾ってやろうとする。",
-            "TextENG": "I ran through the crowd to help her pick them up."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8207,
-            "TextJPN": "……でも、そこではっとした。",
-            "TextENG": "......But as I did, I noticed something."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8208,
-            "TextJPN": "…沙都子が、たくさんの小銭を落としてしまって、右往左往しながらそれを拾っているのに、……誰もそれを手伝わない。",
-            "TextENG": "Satoko dropped a lot of coins, and is struggling to pick all of them up,"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8209,
-            "TextJPN": "いや、手伝わないというより、…まるで沙都子がそこにいないかのように振舞っているのだ。",
-            "TextENG": "but nobody is helping her."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8210,
-            "TextJPN": "…自分のミスで落とした小銭なのだから、沙都子も誰かが拾うのを手伝ってくれるのを期待しているわけじゃない。",
-            "TextENG": "It's not just that... it's almost like they're acting like they don't even see her there."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8211,
-            "TextJPN": "……でも、…それでも…。",
-            "TextENG": "Satoko isn't expecting anyone to help her, since she's the one who dropped them."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8212,
-            "TextJPN": "…これだけの人が行き来しているのに、……ただの一人も手伝おうとしないなんて…。",
-            "TextENG": "......But... but... there are so many people around and not even one is trying to aid her..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8213,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/VTK2_rika2077.",
-            "TextJPN": "「…沙都子、ボクも拾いますですよ」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Satoko, I'll help you.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8214,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/VTK2_satoko2009.",
-            "TextJPN": "「あ、……ぁ、だ、大丈夫ですわよ梨花…」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Ah... ah... I'm okay, Rika...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8215,
-            "TextJPN": "そのわずかな仕草だけで、私には彼女の傷ついた心の痛みがわかる。",
-            "TextENG": "That reaction is all I need to tell how hurt she is."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8216,
-            "TextJPN": "しかも、…私が沙都子の小銭拾いを始めたら、他の主婦も一緒に小銭を拾い出したのだ。",
-            "TextENG": "Furthermore, when I started to help Satoko, other housewives started to pick up the coins too."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8217,
-            "TextJPN": "そうするのが当然であるとでも言うような顔で。",
-            "TextENG": "As if it's the natural thing to do."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8218,
-            "TextJPN": "…古手家の巫女のボクが拾い出したなら手伝ってもいいのか。",
-            "TextENG": "...So they can only help if a shrine maiden of the Furude family does?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8219,
-            "TextJPN": "ボクが拾わなかったら、最後まで見て見ぬふりをしていたくせに…。",
-            "TextENG": "If I didn't help, they would have disregarded her completely."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8220,
-            "TextJPN": "そして、…『ボク』が拾えばみんなが手伝ってくれるというのが、沙都子の心をどれだけ傷つけているというのか…。",
-            "TextENG": "And the fact that other people helped only because I did hurts Satoko even more."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8221,
-            "TextJPN": "私は主婦たちが拾ってくれた小銭を礼も言わずに奪い取る。",
-            "TextENG": "I grabbed the coins from the housewives without thanking them."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8222,
-            "TextJPN": "…礼どころか唾を吐いてやりたいくらいの気持ち。",
-            "TextENG": "...I'd rather spit at them than do that."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8223,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/VTK2_satoko2010.",
-            "TextJPN": "「ぁ、…ぁりがとうございますわ。@k@vS20/04/VTK2_satoko2011.梨花。@k@vS20/04/VTK2_satoko2012.皆さん」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Th... Thank you very much.@k@vS20/04/VTK2_satoko2011. Rika.@k@vS20/04/VTK2_satoko2012. Everyone.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8224,
-            "TextJPN": "…感謝の言葉を述べないと、またどこかで、北条の娘は礼儀知らずだ、みたいなことを言われかねないのだろう。",
-            "TextENG": "If she didn't thank them, people would talk about that too."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8225,
-            "TextJPN": "沙都子は、苦々しくその感謝の言葉を口にした。",
-            "TextENG": "Satoko forced out her words of gratitude."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8226,
-            "TextJPN": "それを見下ろす主婦たちの、さもどうでもいいような淡白な表情が、…私にはとにかく耐えられない。",
-            "TextENG": "The housewives looked down at her with blank expressions. ...I can't stand this."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8227,
-            "TextJPN": "…沙都子が今、負っている心の痛みが、耐えられない…。",
-            "TextENG": "...I can't stand what Satoko is going through right now..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8228,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/VTK2_rika2078.",
-            "TextJPN": "「…お買い物が終わりましたら行きましょうです、沙都子」",
-            "NamesENG": "Rika",
-            "TextENG": "``...If we're done, let's go, Satoko.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8229,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/VTK2_satoko2013.",
-            "TextJPN": "「え、…えぇ…」",
-            "NamesENG": "Satoko",
-            "TextENG": "``S-Sure...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8230,
-            "TextJPN": "私は沙都子の腕を掴んで、そこを抜け出す。",
-            "TextENG": "I grabbed Satoko's arm and pulled her away."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8231,
-            "TextJPN": "…悔しい、@k悲しい、@k辛い。",
-            "TextENG": "...I was frustrated,@k sad,@k and bitter."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8232,
-            "TextJPN": "沙都子に何の罪があるというのか…。",
-            "TextENG": "What has Satoko done?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8233,
-            "TextJPN": "その冷たい現実が、悔しくて悲しい。",
-            "TextENG": "Reality is just too cruel."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8234,
-            "TextJPN": "自分はマスコットのように可愛がられている。",
-            "TextENG": "Everyone loves me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8235,
-            "TextJPN": "でも、それと同じものを沙都子に分け与えることができない…。",
-            "TextENG": "But can I share that love with Satoko?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8236,
-            "TextJPN": "…沙都子は今頃、…どうして同い年の自分と梨花で、ここまで対応が違うのかと呆然としているに違いない…。",
-            "TextENG": "...Satoko must be wondering why people treat me so differently."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8237,
-            "TextJPN": "……こんな思いを沙都子にさせるくらいなら、一緒にお買い物になんて来なければ…、@kいや違う。",
-            "TextENG": "...I shouldn't come shopping with her...@k or rather,"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8238,
-            "TextJPN": "私が沙都子の分まで一緒にお買い物をしてあげればよかった…。",
-            "TextENG": "I should have done her shopping instead."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8239,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/VTK2_rika2079.",
-            "TextJPN": "「…沙都子」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Satoko.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8240,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/VTK2_satoko2014.",
-            "TextJPN": "「…な、…なんですの、梨花」",
-            "NamesENG": "Satoko",
-            "TextENG": "``...Wh... What is it, Rika?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8241,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/VTK2_rika2080.",
-            "TextJPN": "「…小銭をばらまいてしまって、かわいそかわいそなのです。@k@vS20/05/VTK2_rika2081.…なので、これは沙都子への残念賞なのですよ」",
-            "NamesENG": "Rika",
-            "TextENG": "``......I feel bad that you dropped your coins.@k@vS20/05/VTK2_rika2081. So here's something that'll make you happy.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8242,
-            "TextJPN": "私は、せめて沙都子の心の傷を、ほんのわずかでも癒してあげたくて、…さっきもらった苺ミルクの飴を取り出す。",
-            "TextENG": "I wanted to at least ease her pain a little bit... ...so I pulled out the strawberry milk candy I just received."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8243,
-            "TextJPN": "でも、…沙都子は受け取らなかった。",
-            "TextENG": "But... Satoko refused to take it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8244,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/VTK2_satoko2015.",
-            "TextJPN": "「…その飴は、梨花がもらったものではありませんの」",
-            "NamesENG": "Satoko",
-            "TextENG": "``That candy was given to you.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8245,
-            "TextJPN": "私の手が、びくっと凍える…。",
-            "TextENG": "My hand froze."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8246,
-            "TextJPN": "…沙都子は見ていたのだ。",
-            "TextENG": "...She saw."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8247,
-            "TextJPN": "この飴を私が受け取るところを…。",
-            "TextENG": "She saw me getting this candy..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8248,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/VTK2_satoko2016.",
-            "TextJPN": "「…渡した人だって、梨花に食べてほしいと思って渡したんですわ。@k@vS20/04/VTK2_satoko2017.……だから、私が食べたら失礼ですわよ…」",
-            "NamesENG": "Satoko",
-            "TextENG": "``...That person wanted you to eat it.@k@vS20/04/VTK2_satoko2017. ...So if I did, it'd be rude...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8249,
-            "TextJPN": "…沙都子は私に背を向け、別れ道に至るまで、ずっとそのままだった…。",
-            "TextENG": "...Satoko turned her back on me and kept walking..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8250,
-            "TextJPN": "別れの挨拶すらなく、…沙都子は買い物袋を持ってとぼとぼと去っていく。",
-            "TextENG": "Without even saying goodbye... she continued on to her house with the shopping bags in her hands."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8251,
-            "TextJPN": "…私は、…沙都子の心を癒したいつもりだったのに、…最後の最後で塩を塗るような真似まで……。",
-            "TextENG": "...I... I only wanted to ease her pain. But I ended up rubbing salt in her wound."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8252,
-            "TextJPN": "こんな自分がどうして沙都子の親友だなんて？",
-            "TextENG": "How can I call myself her best friend?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 8253,
-            "TextJPN": "もし私に握力があったなら、…そのまま飴を手の中で握り潰してしまいたかった……。",
-            "TextENG": "If I could, I would have crushed the candy right there."
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "H5 古手梨花",
+		"ENG": "H5 Rika Furude"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8136,
+		"TextJPN": "お母さんに買い物を頼まれ、スーパーへ買い物に行く途中、沙都子に出会った。",
+		"TextENG": "I ran into Satoko while on my way to the grocery store for my mother."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8137,
+		"TextJPN": "聞けば、沙都子も同じような買い物を頼まれたという。",
+		"TextENG": "Satoko said she was going there too,"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8138,
+		"TextJPN": "ならば一緒に行こうということになった。",
+		"TextENG": "so we decided to go together."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8139,
+		"TextJPN": "買い物メモを見せっこすると、お互いの家の今晩のメニューが想像できて楽しい。",
+		"TextENG": "After exchanging our shopping lists, it became easy to guess what the other family would be having for dinner."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8140,
+		"TextJPN": "沙都子の家はどうやら魚と煮物らしい。",
+		"TextENG": "Satoko's family is having grilled fish and cooked vegetables."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8141,
+		"TextJPN": "ちなみに私のうちはハンバーグのようだった。",
+		"TextENG": "We're having Salisbury steak."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8142,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/VTK2_satoko2001.",
+		"TextJPN": "「あら、ハンバーグとは羨ましいですわね…！@k@|@y@vS20/04/VTK2_satoko2002.　私、魚はともかく、煮物というのがちょっと怖いんですのよ？@k@vS20/04/VTK2_satoko2003.　先日買ったカボチャがまだ、だいぶ残ってるみたいなんですもの」",
+		"NamesENG": "Satoko",
+		"TextENG": "``My, that sounds so very good!@k@|@y@vS20/04/VTK2_satoko2002. I don't mind the grilled fish, but it's the vegetables I'm less fond of.@k@vS20/04/VTK2_satoko2003. I'm certain there's still plenty of pumpkin left from the other day.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8143,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/VTK2_rika2065.",
+		"TextJPN": "「…きっと今夜もカボチャの煮物三昧なのです。@k@vS20/05/VTK2_rika2066.かわいそかわいそなのです☆」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Then I bet you'll be getting a lot tonight.@k@vS20/05/VTK2_rika2066. Poor, poor Satoko☆.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8144,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/VTK2_satoko2004.",
+		"TextJPN": "「予めカボチャが出て来るとわかってるのも憂鬱でございますわね。@k@vS20/04/VTK2_satoko2005.はぁ」",
+		"NamesENG": "Satoko",
+		"TextENG": "``I don't appreciate knowing that pumpkin is going to show up on the dinner table...@k@vS20/04/VTK2_satoko2005. Haahh...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8145,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/VTK2_rika2067.",
+		"TextJPN": "「…み～☆@k@vS20/05/VTK2_rika2068.　突然カボチャを出されても怒るくせに贅沢な沙都子なのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Meep~☆.@k@vS20/05/VTK2_rika2068. You don't like pumpkin, no matter how it shows up.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8146,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/VTK2_satoko2006.",
+		"TextJPN": "「り、梨花にだって少しは嫌いな食べ物があるはずですわよ？！@k@vS20/04/VTK2_satoko2007.　そういえば梨花、大福とかシュークリームとか、甘い物が嫌いだったんではございませんこと？！」",
+		"NamesENG": "Satoko",
+		"TextENG": "``R-Rika, you have some food you're not fond of, don't you?@k@vS20/04/VTK2_satoko2007. That's right, you don't like daifuku, cream puffs, or anything sweet, don't you!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8147,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/VTK2_rika2069.",
+		"TextJPN": "「…別に嫌いではないのです。@k@vS20/05/VTK2_rika2070.意地悪で食べないだけなのですよ。@k@vS20/05/VTK2_rika2071.食べる気なら何個でも食べられちゃいますのです。@k@vS20/05/VTK2_rika2072.パンプキンパイだっておいしくいただけますのですよ、にぱ～☆」",
+		"NamesENG": "Rika",
+		"TextENG": "``......It's not that I don't like those things.@k@vS20/05/VTK2_rika2070. I just choose not to eat them.@k@vS20/05/VTK2_rika2071. If I wanted to, I could eat sweets forever.@k@vS20/05/VTK2_rika2072. I could even eat pumpkin pie too. Nipah~☆.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8148,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/VTK2_satoko2008.",
+		"TextJPN": "「ぅうぅぅ、梨花だけ好き嫌いがないなんてずるいですわー！！」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Oooh, it's not fair that you aren't a picky eater!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8149,
+		"TextJPN": "そんなやり取りがとても楽しい。",
+		"TextENG": "Conversations like this are how I have fun."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8150,
+		"TextJPN": "沙都子はボクにとっての一番の親友。",
+		"TextENG": "Satoko is my best friend."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8151,
+		"TextJPN": "面倒臭いと思っていたお買い物も、沙都子と一緒になれただけで、楽しい夕方のお散歩に早変りするのだった。",
+		"TextENG": "I usually don't like grocery shopping, but if I'm with Satoko, I can make it into an enjoyable evening stroll."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8152,
+		"TextJPN": "スーパーの近くは他にもお惣菜屋さんとかが並び、雛見沢のちょっとした商店街になっていた。",
+		"TextENG": "Near the supermarket, there's a grocers and other shops, forming a little shopping district."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8153,
+		"TextJPN": "夕飯の買い物に一番繁盛する時間だ。",
+		"TextENG": "The grocery store is busy this time of day."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8154,
+		"TextJPN": "雛見沢の主婦たちが集まり、賑やかな買い物をしていた。",
+		"TextENG": "All the housewives in Hinamizawa gather here to shop."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8155,
+		"TextJPN": "とりあえず、私と沙都子では買うものが違うので、それぞれ分かれて目的の物を買うことにする。",
+		"TextENG": "Since Satoko and I have different things to buy, we decide to do our shopping separately."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8156,
+		"NamesJPN": "惣菜屋",
+		"PreTextTags": "@vS20/00/VTK2_souzai2001.",
+		"TextJPN": "「ぇい、いらっしゃいいらっしゃい！！@k@vS20/00/VTK2_souzai2002.　おや、梨花ちゃま、いらっしゃい！@k@vS20/00/VTK2_souzai2003.　お買い物かい？@k@vS20/00/VTK2_souzai2004.　偉いねぇ！」",
+		"NamesENG": "Vendor",
+		"TextENG": "``Welcome, welcome!!@k@vS20/00/VTK2_souzai2002. Oh, Rika-chama!@k@vS20/00/VTK2_souzai2003. Are you shopping for your mother?@k@vS20/00/VTK2_souzai2004. What a good girl!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8157,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/VTK2_rika2073.",
+		"TextJPN": "「…にぱ～☆@k@vS20/05/VTK2_rika2074.　ボクはお買い物ができる偉い子なのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Nipah~☆.@k@vS20/05/VTK2_rika2074. I'm a good girl who can go shopping by herself.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8158,
+		"NamesJPN": "惣菜屋",
+		"PreTextTags": "@vS20/00/VTK2_souzai2005.",
+		"TextJPN": "「そうかそうか、梨花ちゃまは偉いなぁ！@k@vS20/00/VTK2_souzai2006.　ほら偉い子のご褒美にこれをあげよう」",
+		"NamesENG": "Vendor",
+		"TextENG": "``Wow, you really are a good girl!@k@vS20/00/VTK2_souzai2006. Here, I'll give you this.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8159,
+		"TextJPN": "軒先に吊るしてあるお釣り用の小銭入れのザルの中には、時折咳き込む主人のために飴がいくつか入れてあった。",
+		"TextENG": "There were several candies for the owner's occasional asthma attack inside a sieve full of change hanging in the front."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8160,
+		"TextJPN": "それを１つ取り、ボクに放ってくれる。",
+		"TextENG": "He picked out a sweet from there and gave it to me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8161,
+		"TextJPN": "苺ミルクの味がする、ボクの大好きな飴だった。",
+		"TextENG": "It was my favorite flavor, strawberry milk."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8162,
+		"TextJPN": "あとで沙都子の前で、自分だけがもらえたと自慢するために、今は食べず、わざわざポケットにしまう。",
+		"TextENG": "I put it in my pocket so I can brag about it to Satoko later."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8163,
+		"TextJPN": "ボクにとって、沙都子をからかったり、羨ましがらせたりするのはとても楽しいこと。",
+		"TextENG": "I get a lot of fun out of teasing Satoko and making her jealous."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8164,
+		"TextJPN": "沙都子はそれらに対して、いつも過剰なまでにリアクションをしてくれる。",
+		"TextENG": "She always overreacts,"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8165,
+		"TextJPN": "一緒にいれば退屈に感じることなどない、最高の友人だった。",
+		"TextENG": "so I never get bored when I'm with her."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8166,
+		"NamesJPN": "肉屋",
+		"PreTextTags": "@vS20/00/VTK2_nikuya2001.",
+		"TextJPN": "「おや、梨花ちゃまのところは今日は何だい。@k@vS20/00/VTK2_nikuya2002.豚の挽き肉だと、う～ん、」",
+		"NamesENG": "Butcher",
+		"TextENG": "``What are you having for dinner tonight, Rika-chama?@k@vS20/00/VTK2_nikuya2002. Ground pork... hmmm...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8167,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/VTK2_rika2075.",
+		"TextJPN": "「…ハンバーグなのですよ。@k@vS20/05/VTK2_rika2076.お花の形の目玉焼きを乗っけて、ケチャップでお絵描きをするのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``...We're making Salisbury steak.@k@vS20/05/VTK2_rika2076. We're going to put flower-shaped fried eggs on top and draw pictures on them with ketchup.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8168,
+		"NamesJPN": "肉屋",
+		"PreTextTags": "@vS20/00/VTK2_nikuya2003.",
+		"TextJPN": "「おっほっほっほ！　それはいいねぇ！」",
+		"NamesENG": "Butcher",
+		"TextENG": "``Oh ho ho ho! That sounds like fun!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8169,
+		"TextJPN": "そんなやり取りを楽しみながら、私は買い物袋の中を少しずつ満たしてく。",
+		"TextENG": "I enjoyed that conversation while filling my shopping basket."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8170,
+		"TextJPN": "…その時、主婦たちのひそひそ話がふと耳に入った。",
+		"TextENG": "...But then I overheard some women whispering."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8171,
+		"TextJPN": "それは、…少しだけ冷たい内容。",
+		"TextENG": "They're talking about something that's a little harsh."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8172,
+		"TextJPN": "……買い物に訪れている沙都子に対するものだった。",
+		"TextENG": "......They're talking about Satoko."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8173,
+		"TextJPN": "村を国に売る裏切り者のくせにいつまで村に居座るつもりなのか。",
+		"TextENG": "``How long do those village traitors plan to stay here?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8174,
+		"TextJPN": "早く出て行けばいいのに。",
+		"TextENG": "``They should just leave.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8175,
+		"TextJPN": "そして、堂々と買い物に来る度胸もなく、娘に買い物をやらせるとは。",
+		"TextENG": "``They don't even have the guts to go shopping themselves and make their daughter do it instead.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8176,
+		"TextJPN": "…ぐちぐち、ぐちぐち…。",
+		"TextENG": "The women went on and on..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8177,
+		"TextJPN": "…ダム計画の地元説明会で、北条家と園崎本家が徹底的に対立することになる大喧嘩をして以来。",
+		"TextENG": "Ever since the Houjou family and the Sonozaki family got into a huge fight at the explanatory meeting for the dam project,"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8178,
+		"TextJPN": "北条家は村の中での孤立を深めていた。",
+		"TextENG": "the Houjou family has been ostracized within the village."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8179,
+		"TextJPN": "当初こそ、北条家に同調する立ち退き派も少なからずいたのだが。",
+		"TextENG": "At first, there were a significant number of families in favor of leaving like the Houjous."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8180,
+		"TextJPN": "園崎本家が主導で村中の徹底的な意見調整が図られ、全体主義的な論調に固められていくと、徐々に立ち退き派は鳴りを潜めていった。",
+		"TextENG": "But the main branch of the Sonozakis led a push to completely solidify the village's opinion, and as that tone of unified resistance grew stronger, the pro-evacuation families steadily grew quiet."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8181,
+		"TextJPN": "また、園崎家や公由家などの、村に大きな影響力を持つ御三家筋からの露骨な嫌がらせも大きく作用していた。",
+		"TextENG": "The public harassment led by the Sonozakis and Kimiyoshis, two of the Three Families with powerful influence on the village, also played an effect too."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8182,
+		"TextJPN": "園崎本家は、北条家を見せしめにすることで、同調する立ち退き派が現れないようにする戦略に出たらしい。",
+		"TextENG": "The Sonozaki family made the Houjou family into an example, to ensure there would be no more pro-evacuation supporters."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8183,
+		"TextJPN": "それは、先祖から何代にもわたって住み続け、そして自分たちも恐らくはこの村で骨を埋めることになるだろう住民たちにとって、とても圧力のある嫌がらせだった。",
+		"TextENG": "The ancestors of the villagers have lived here for generations, and the villagers also know that they themselves will be buried in this village, so this harassment put a lot of pressure on them."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8184,
+		"TextJPN": "かつて地元説明会で、鼻息荒く北条家に同調し、立ち退き派のリーダーとして煽り立てるような威勢のいいことを言ったのはどこの誰だったやら…。",
+		"TextENG": "Who was it that agreed to make the Houjou family the leader of the pro-evacuation group at the explanatory meeting?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8185,
+		"TextJPN": "そのような者はすっかり鳴りを潜めてしまい、踏み絵的に北条家への冷遇に参加していった…。",
+		"TextENG": "Those same people no longer said anything, and they even joined in on harassing the Houjou family."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8186,
+		"TextJPN": "北条家への仕打ちは、今や村全体からかけられる圧力となっていた。",
+		"TextENG": "The harassment they faced then became pressure from the entire village."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8187,
+		"TextJPN": "北条家の反応も村の雰囲気が雰囲気だけに、どうしても極端なものになった。",
+		"TextENG": "The reaction of the Houjou family was also inevitably extreme because of the atmosphere of the village."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8188,
+		"TextJPN": "そして、しばらくして彼ら一家は挑発に乗るように、町会を脱退してしまう。",
+		"TextENG": "And after a while, their family leaved the town council as if provoked."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8189,
+		"TextJPN": "そのきっかけは、本当に些細なものだったと聞くが…それが、北条家の立場をますます悪くしていった。",
+		"TextENG": "I heard that the trigger was something really trivial, but it made the Houjou family's position worse and worse."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8190,
+		"TextJPN": "さらに、そんな一悶着があってからは…陰湿な村ぐるみの冷遇が、北条家に対してあの手この手と重ねられた。",
+		"TextENG": "In addition, after such a dispute, the entire village took an insidious approach to the Hojo family."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8191,
+		"TextJPN": "その仕打ちの恐ろしさが村中に蔓延し、@k…北条家に同調すれば同じ目に遭わされるかもしれないと怯えさせ、@k…ますます彼ら一家を孤立させていく。",
+		"TextENG": "The horror of their treatment spread throughout the village,@k frightening them that they might be subjected to the same treatment if they sympathized with the Hojo family,@k and increasingly isolating their family."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8192,
+		"TextJPN": "…大人たちは、そういう裏事情を子どもたちには話さなかったから、沙都子が学校で酷い目に遭うということだけはなかったが。",
+		"TextENG": "The adults didn't tell the children what was going on behind the scenes, so Satoko didn't get into any trouble at school."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8193,
+		"TextJPN": "…窒息しそうなぐらいの緊張感を毎日強いられていただろうことは想像に難しくない…。",
+		"TextENG": "But it wasn't hard to imagine she probably spent her days feeling so anxious she could hardly breathe."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8194,
+		"TextJPN": "今、ぼそぼそ陰口を言っている主婦たちも、別に沙都子に直接言ってるわけではない。",
+		"TextENG": "Even the women whispering in here aren't saying anything directly to Satoko."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8195,
+		"TextJPN": "…でも、だからといって、時折零れて聞こえる内容と、冷たい目線に沙都子がまったく気付かないわけもない。",
+		"TextENG": "But it's not like she doesn't notice their muttering and the cold stares."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8196,
+		"TextJPN": "…いつから村は、こんなにも沙都子に冷たくなったのか。",
+		"TextENG": "...When did this village become so cold towards her?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8197,
+		"TextJPN": "…沙都子の親友としてとても悲しかった。",
+		"TextENG": "...As her best friend, it's very sad for me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8198,
+		"TextJPN": "こうして見てみれば、沙都子の買い物はボクの和気藹々としたものとは全然違う。",
+		"TextENG": "Satoko's shopping experience is nothing like mine."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8199,
+		"TextJPN": "私が挨拶したり買い物したりすれば、オマケがもらえたりお得にしてもらったり、色々あるのに、…沙都子にはない。",
+		"TextENG": "When I say hello or buy things, I usually get treats or a discount. But that doesn't happen to Satoko."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8200,
+		"TextJPN": "いや、それどころか、……わざと後回しにされたり、聞こえないふりをされたり、@k…沙都子に関わりたくないという気配が充満しているのがわかった。",
+		"TextENG": "On the contrary, she's served last on purpose, and sometimes shop owners even pretend they don't hear her.@k Obviously, people don't want to have anything to do with her."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8201,
+		"TextJPN": "…ごった返す主婦たちの合間を縫って、ずっと魚屋の主人にほしいものを言っていたはずなのに、最後の最後まで後回しにされた沙都子。",
+		"TextENG": "...Satoko had been weaving through the housewives crowding the shop, telling the fishmonger what she wanted, but she kept getting ignored."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8202,
+		"TextJPN": "…沙都子は強気な笑顔を浮かべて、全然気にしない風を装っているが、…ボクにはわかる。",
+		"TextENG": "...She's decided to keep her smile and pretend she doesn't mind... but I know."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8203,
+		"TextJPN": "それはあまりに痛々しい痩せ我慢…。",
+		"TextENG": "It was far too painful for her to endure..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8204,
+		"TextJPN": "その時、沙都子が小銭を地面にばらまいてしまった。",
+		"TextENG": "At that point, Satoko dropped her coins on the ground."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8205,
+		"TextJPN": "渡されたお釣りを財布に戻そうとして、ちょっと指に引っ掛かったのかもしれない。",
+		"TextENG": "Maybe her finger got stuck on something when she was trying to put the change back into her wallet."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8206,
+		"TextJPN": "ボクは沙都子から少し離れていたので、主婦たちの間を潜り抜けて、一緒に小銭を拾ってやろうとする。",
+		"TextENG": "I ran through the crowd to help her pick them up."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8207,
+		"TextJPN": "……でも、そこではっとした。",
+		"TextENG": "......But as I did, I noticed something."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8208,
+		"TextJPN": "…沙都子が、たくさんの小銭を落としてしまって、右往左往しながらそれを拾っているのに、……誰もそれを手伝わない。",
+		"TextENG": "Satoko dropped a lot of coins, and is struggling to pick all of them up,"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8209,
+		"TextJPN": "いや、手伝わないというより、…まるで沙都子がそこにいないかのように振舞っているのだ。",
+		"TextENG": "but nobody is helping her."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8210,
+		"TextJPN": "…自分のミスで落とした小銭なのだから、沙都子も誰かが拾うのを手伝ってくれるのを期待しているわけじゃない。",
+		"TextENG": "It's not just that... it's almost like they're acting like they don't even see her there."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8211,
+		"TextJPN": "……でも、…それでも…。",
+		"TextENG": "Satoko isn't expecting anyone to help her, since she's the one who dropped them."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8212,
+		"TextJPN": "…これだけの人が行き来しているのに、……ただの一人も手伝おうとしないなんて…。",
+		"TextENG": "......But... but... there are so many people around and not even one is trying to aid her..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8213,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/VTK2_rika2077.",
+		"TextJPN": "「…沙都子、ボクも拾いますですよ」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Satoko, I'll help you.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8214,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/VTK2_satoko2009.",
+		"TextJPN": "「あ、……ぁ、だ、大丈夫ですわよ梨花…」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Ah... ah... I'm okay, Rika...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8215,
+		"TextJPN": "そのわずかな仕草だけで、私には彼女の傷ついた心の痛みがわかる。",
+		"TextENG": "That reaction is all I need to tell how hurt she is."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8216,
+		"TextJPN": "しかも、…私が沙都子の小銭拾いを始めたら、他の主婦も一緒に小銭を拾い出したのだ。",
+		"TextENG": "Furthermore, when I started to help Satoko, other housewives started to pick up the coins too."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8217,
+		"TextJPN": "そうするのが当然であるとでも言うような顔で。",
+		"TextENG": "As if it's the natural thing to do."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8218,
+		"TextJPN": "…古手家の巫女のボクが拾い出したなら手伝ってもいいのか。",
+		"TextENG": "...So they can only help if a shrine maiden of the Furude family does?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8219,
+		"TextJPN": "ボクが拾わなかったら、最後まで見て見ぬふりをしていたくせに…。",
+		"TextENG": "If I didn't help, they would have disregarded her completely."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8220,
+		"TextJPN": "そして、…『ボク』が拾えばみんなが手伝ってくれるというのが、沙都子の心をどれだけ傷つけているというのか…。",
+		"TextENG": "And the fact that other people helped only because I did hurts Satoko even more."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8221,
+		"TextJPN": "私は主婦たちが拾ってくれた小銭を礼も言わずに奪い取る。",
+		"TextENG": "I grabbed the coins from the housewives without thanking them."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8222,
+		"TextJPN": "…礼どころか唾を吐いてやりたいくらいの気持ち。",
+		"TextENG": "...I'd rather spit at them than do that."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8223,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/VTK2_satoko2010.",
+		"TextJPN": "「ぁ、…ぁりがとうございますわ。@k@vS20/04/VTK2_satoko2011.梨花。@k@vS20/04/VTK2_satoko2012.皆さん」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Th... Thank you very much.@k@vS20/04/VTK2_satoko2011. Rika.@k@vS20/04/VTK2_satoko2012. Everyone.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8224,
+		"TextJPN": "…感謝の言葉を述べないと、またどこかで、北条の娘は礼儀知らずだ、みたいなことを言われかねないのだろう。",
+		"TextENG": "If she didn't thank them, people would talk about that too."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8225,
+		"TextJPN": "沙都子は、苦々しくその感謝の言葉を口にした。",
+		"TextENG": "Satoko forced out her words of gratitude."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8226,
+		"TextJPN": "それを見下ろす主婦たちの、さもどうでもいいような淡白な表情が、…私にはとにかく耐えられない。",
+		"TextENG": "The housewives looked down at her with blank expressions. ...I can't stand this."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8227,
+		"TextJPN": "…沙都子が今、負っている心の痛みが、耐えられない…。",
+		"TextENG": "...I can't stand what Satoko is going through right now..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8228,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/VTK2_rika2078.",
+		"TextJPN": "「…お買い物が終わりましたら行きましょうです、沙都子」",
+		"NamesENG": "Rika",
+		"TextENG": "``...If we're done, let's go, Satoko.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8229,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/VTK2_satoko2013.",
+		"TextJPN": "「え、…えぇ…」",
+		"NamesENG": "Satoko",
+		"TextENG": "``S-Sure...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8230,
+		"TextJPN": "私は沙都子の腕を掴んで、そこを抜け出す。",
+		"TextENG": "I grabbed Satoko's arm and pulled her away."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8231,
+		"TextJPN": "…悔しい、@k悲しい、@k辛い。",
+		"TextENG": "...I was frustrated,@k sad,@k and bitter."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8232,
+		"TextJPN": "沙都子に何の罪があるというのか…。",
+		"TextENG": "What has Satoko done?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8233,
+		"TextJPN": "その冷たい現実が、悔しくて悲しい。",
+		"TextENG": "Reality is just too cruel."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8234,
+		"TextJPN": "自分はマスコットのように可愛がられている。",
+		"TextENG": "Everyone loves me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8235,
+		"TextJPN": "でも、それと同じものを沙都子に分け与えることができない…。",
+		"TextENG": "But can I share that love with Satoko?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8236,
+		"TextJPN": "…沙都子は今頃、…どうして同い年の自分と梨花で、ここまで対応が違うのかと呆然としているに違いない…。",
+		"TextENG": "...Satoko must be wondering why people treat me so differently."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8237,
+		"TextJPN": "……こんな思いを沙都子にさせるくらいなら、一緒にお買い物になんて来なければ…、@kいや違う。",
+		"TextENG": "...I shouldn't come shopping with her...@k or rather,"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8238,
+		"TextJPN": "私が沙都子の分まで一緒にお買い物をしてあげればよかった…。",
+		"TextENG": "I should have done her shopping instead."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8239,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/VTK2_rika2079.",
+		"TextJPN": "「…沙都子」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Satoko.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8240,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/VTK2_satoko2014.",
+		"TextJPN": "「…な、…なんですの、梨花」",
+		"NamesENG": "Satoko",
+		"TextENG": "``...Wh... What is it, Rika?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8241,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/VTK2_rika2080.",
+		"TextJPN": "「…小銭をばらまいてしまって、かわいそかわいそなのです。@k@vS20/05/VTK2_rika2081.…なので、これは沙都子への残念賞なのですよ」",
+		"NamesENG": "Rika",
+		"TextENG": "``......I feel bad that you dropped your coins.@k@vS20/05/VTK2_rika2081. So here's something that'll make you happy.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8242,
+		"TextJPN": "私は、せめて沙都子の心の傷を、ほんのわずかでも癒してあげたくて、…さっきもらった苺ミルクの飴を取り出す。",
+		"TextENG": "I wanted to at least ease her pain a little bit... ...so I pulled out the strawberry milk candy I just received."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8243,
+		"TextJPN": "でも、…沙都子は受け取らなかった。",
+		"TextENG": "But... Satoko refused to take it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8244,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/VTK2_satoko2015.",
+		"TextJPN": "「…その飴は、梨花がもらったものではありませんの」",
+		"NamesENG": "Satoko",
+		"TextENG": "``That candy was given to you.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8245,
+		"TextJPN": "私の手が、びくっと凍える…。",
+		"TextENG": "My hand froze."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8246,
+		"TextJPN": "…沙都子は見ていたのだ。",
+		"TextENG": "...She saw."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8247,
+		"TextJPN": "この飴を私が受け取るところを…。",
+		"TextENG": "She saw me getting this candy..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8248,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/VTK2_satoko2016.",
+		"TextJPN": "「…渡した人だって、梨花に食べてほしいと思って渡したんですわ。@k@vS20/04/VTK2_satoko2017.……だから、私が食べたら失礼ですわよ…」",
+		"NamesENG": "Satoko",
+		"TextENG": "``...That person wanted you to eat it.@k@vS20/04/VTK2_satoko2017. ...So if I did, it'd be rude...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8249,
+		"TextJPN": "…沙都子は私に背を向け、別れ道に至るまで、ずっとそのままだった…。",
+		"TextENG": "...Satoko turned her back on me and kept walking..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8250,
+		"TextJPN": "別れの挨拶すらなく、…沙都子は買い物袋を持ってとぼとぼと去っていく。",
+		"TextENG": "Without even saying goodbye... she continued on to her house with the shopping bags in her hands."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8251,
+		"TextJPN": "…私は、…沙都子の心を癒したいつもりだったのに、…最後の最後で塩を塗るような真似まで……。",
+		"TextENG": "...I... I only wanted to ease her pain. But I ended up rubbing salt in her wound."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8252,
+		"TextJPN": "こんな自分がどうして沙都子の親友だなんて？",
+		"TextENG": "How can I call myself her best friend?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 8253,
+		"TextJPN": "もし私に握力があったなら、…そのまま飴を手の中で握り潰してしまいたかった……。",
+		"TextENG": "If I could, I would have crushed the candy right there."
+	}
+]

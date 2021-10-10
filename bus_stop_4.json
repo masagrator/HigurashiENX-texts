@@ -1,979 +1,977 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "#4 誰カ見テタノ？",
-            "ENG": "#4 / Who was Watching?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156031,
-            "TextJPN": "落雷の音。@k@r徐々に舞台明るくなる。@k@rどしゃぶりの音、遠くなっていく。@k@r荒川だけ依然トイレから戻らない。",
-            "TextENG": "The sound of lightning.@k@rThe stage gradually becomes brighter.@k@rThe sound of the downpour has now distanced itself.@k@rArakawa has still not returned from the restroom."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156032,
-            "NamesJPN": "利根川",
-            "PreTextTags": "@vS26/56/TTON_0590.",
-            "TextJPN": "「…遅いな。荒川君。………また調子でも悪くなったのかな…？」",
-            "NamesENG": "Tonegawa",
-            "TextENG": "``...Arakawa-kun is late. .........I wonder if his condition has worsened...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156033,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_0850.",
-            "TextJPN": "「……荒川さん、体調悪いの？」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Is Arakawa'san's condition bad?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156034,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1010.",
-            "TextJPN": "「あー、梨花さんいなかったんですよね。…さっき梨花さんがお手洗に行ってる時、頭ガンガンするって、のたうち回ってたんですよー」",
-            "NamesENG": "Mion",
-            "TextENG": "``Oh, you didn't see him before, Rika-san. ...A little while ago, when you were in the bathroom, Rika-san, his head was pounding, he writhed and was in a great deal of pain.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156035,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1020.",
-            "TextJPN": "「発作とか言ってましたけど。えーとえーと……@k@|@y@vS26/53/TMIO_1021.モウカリマッカ出血！」",
-            "NamesENG": "Mion",
-            "TextENG": "``He said it was a spasm attack. Well, umm......@k@|@y@vS26/53/TMIO_1021. It was a subarachnoid hemorrhage!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156036,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_0860.",
-            "TextJPN": "「クモ膜下出血…」",
-            "NamesENG": "Rika",
-            "TextENG": "``A subarachnoid hemorrhage...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156037,
-            "NamesJPN": "利根川",
-            "PreTextTags": "@vS26/56/TTON_0600.",
-            "TextJPN": "「………ちょっと様子を見て来ます」",
-            "NamesENG": "Tonegawa",
-            "TextENG": "``.........I'll go check up on him.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156038,
-            "TextJPN": "利根川退場。@k@rしばらくしてから梨花も立ち上がる。",
-            "TextENG": "Tonegawa leaves.@k@rRika stands up after a while."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156039,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_0870.",
-            "TextJPN": "「…頭痛に効く薬、持ってるのよ。……ちょっと私も行ってくるわね。…すぐ戻るから」",
-            "NamesENG": "Rika",
-            "TextENG": "``...I have medicine effective against headaches with me, he can use it. ......I'll go after him. But I'll come back right away.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156040,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1030.",
-            "TextJPN": "「あ、はい。…行ってらっしゃーい…」",
-            "NamesENG": "Mion",
-            "TextENG": "``Oh, yes. ...See you soon...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156041,
-            "TextJPN": "取り残される魅音と吉村。@k@r雨の音と沈黙。@k@r魅音は軽い頭痛を終始気にしている。",
-            "TextENG": "Now only Mion and Yoshimura are left behind.@k@rTogether with silence and the sound of the rain.@k@rMion begins to caress her mild headache."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156042,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1040.",
-            "TextJPN": "「……ふぁぁあ～…。……なんか眠くなって来ちゃったし…。何となく頭も痛いし。…私も風邪かなー…」",
-            "NamesENG": "Mion",
-            "TextENG": "``......*Yawn*... ......Somehow, I'm getting sleepy... And for some reason, my head hurts too. ...I wonder if I got cold...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156043,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0720.",
-            "TextJPN": "「…先日、東京観光に行ってね。…もっとも観光っていってもねずみーランドに遊びに行っただけなんだけど」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...The other day, I went sightseeing in Tokyo. ...And even though I was meant to sight-see, I only went to play in Mouse Land.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156044,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1050.",
-            "TextJPN": "「え！？　…あ、そーなんですかぁ！？」",
-            "NamesENG": "Mion",
-            "TextENG": "``Eh!? ...Oh, is that so!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156045,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1060.",
-            "TextJPN": "「…私も行ったんですよ東京観光ッ！　ねずみーランドに行きましたハイ！　…って言っても私もそこしか行ってないんですけどねぇ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``...I've been to Tokyo for sightseeing, too! And I even went to Mouse Land! ...Although, that's the only place I went to play, too!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156046,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0730.",
-            "TextJPN": "「ホテルシーサイド江戸海って所に泊まったんだよ。ランドの近くにある@bしょうしゃ.@<瀟洒@>なホテルでねぇ」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``I stayed at a seaside hotel called Edo Umi. A simple and elegant hotel located in Kasai Coastal Park.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156047,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1070.",
-            "TextJPN": "「え！？　え！？　えーッ！？　ウチもですよ！　ウチもそこに泊まったんですよーッ！　すっごい偶然ーッ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Eh!? Eh!? Ehh!? Me too! My family stayed there as well! What a coincidence!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156048,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0740.",
-            "TextJPN": "「夜、公園の周りを散歩したんだが、すごいね。アベックの聖域だよ。独り者には肩身が狭いね」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``At night, I took a walk around the park, and saw something amazing. It was a sanctuary for couples. It made me feel ashamed being single.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156049,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1080.",
-            "TextJPN": "「あっはははははは！　同感同感ー！　私も思いましたー！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Ah ha ha ha ha ha ha! I agree, I agree! I thought so, too!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156050,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0750.",
-            "TextJPN": "「食事も想像してたよりずっと素晴らしかった」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``The meal was also much greater than I had imagined.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156051,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0760.",
-            "TextJPN": "「でも両親に合わせて和食を選んだのは失敗だったね。…結局煮魚は口に合わず丸ごと残してしまった」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``But I made the mistake of choosing Japanese food to suit my parents. ...In the end, the boiled fish was not to my taste and I left the whole thing behind.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156052,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1090.",
-            "TextJPN": "「あはははは！　吉村さんもですかー？　私もなんですよー！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Ah ha ha ha ha ha! Yoshimura-san, too? It was the same for me!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156053,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0770.",
-            "TextJPN": "「それで夜中、どうしてもお腹が空いて眠れないんだ」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Then, in the middle of the night, I couldn't sleep at all since my stomach was empty.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156054,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0780.",
-            "TextJPN": "「仕方なくホテルを抜け出して、交番の近くにあったカップめんの自販機までやって来た。…ところが困った事に小銭がないんだよ」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``So I had no choice but to leave the hotel, and then I came to a vending machine of cup noodles that was near a koban. ...However, it unfortunately wouldn't accept small change.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156055,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0790.",
-            "TextJPN": "「…あの時はひもじかったねぇ」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...I was so hungry at that time.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156056,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1100.",
-            "TextJPN": "「あっははははは！　吉村さんもですかー？　私もなんですよー！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Ah ha ha ha ha ha! Yoshimura-san, too? It was the same for me!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156057,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0800.",
-            "TextJPN": "「翌朝。お父さんに借りた携帯をポケットに入れたままトイレで用を足そうとしたら、うっかり便器に落としてしまって大変だ」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``The following morning. I borrowed my dad's cellphone, put it in my pocket and went to the toilet, then I accidentally dropped it in the toilet.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156058,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0810.",
-            "TextJPN": "「汚いのも構わず慌てて拾って、ドライヤーで乾かしたんだよな」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``I grabbed it in a hurry without minding it was dirty, and dried it with the dryer.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156059,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0820.",
-            "TextJPN": "「…お父さんには電池が切れたみたいだよって言って誤魔化したけど。駄目だったんだよね」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...I lied to my dad and said the battery seemed to have run out. But it was useless.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156060,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1110.",
-            "TextJPN": "「あはははは！　吉村さんもですかー？　私もなん、」",
-            "NamesENG": "Mion",
-            "TextENG": "``Ah ha ha ha ha! Yoshimura-san, too? It was the...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156061,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0830.",
-            "TextJPN": "「ねずみーランドではとにかく色々なものに乗ったね。大はしゃぎだったよ。笑えるのはエリカは海賊ってヤツだ」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``I got on a variety of rides in Mouse Land. What a romp. That Caliph of Pirates guy was hilarious.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156062,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0840.",
-            "TextJPN": "「宝の山があったんでゴンドラから身を乗りだして触ろうとしたら放送で怒られただろ。ランドの人ってちゃんと見てるもんなんだよなぁ」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Then there was a mountain of treasure, but I got shouted at by the broadcaster when I leaned out from the gondola and tried to touch it. The people in that amusement park watch you very strictly.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156063,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1120.",
-            "TextJPN": "「あはははは！　吉村さんも…、」",
-            "NamesENG": "Mion",
-            "TextENG": "``Ah ha ha ha ha! Yoshimura-san...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156064,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0850.",
-            "TextJPN": "「閉園時間ぎりぎりまで遊び倒したよね。閉園時間ぎりぎりで、アイスクリーム屋さんに飛び込んで、お母さんにラムレーズンをねだったんだ」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``I used all of energy to play until very last moment before closing time. But just before closing time, I jumped into an ice cream shop in the nick of time and begged my mom for a rum raisin.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156065,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0860.",
-            "TextJPN": "「ボタボタ垂らしながら食べてるとそれをじっと見ている清掃のお兄さんがいたよね。手を振ったらプイと横を向かれたんでムッとしたっけ」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Then I saw a young man who was cleaning, stare at me while I ate as it started dripping. You waved your hand at him but he turned away, I guess he was annoyed.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156066,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0870.",
-            "TextJPN": "「…それで目線を戻したら、自分のスカートに垂らし放題。…これじゃ電車にも乗れないって大泣きしたんだっけ…？」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...Then when you looked back, it was all over your skirt. Because of that, you cried very much and assumed you couldn't get on the train, right...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156067,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1130.",
-            "TextJPN": "「はは、ははは……、」",
-            "NamesENG": "Mion",
-            "TextENG": "``Ha ha, ha ha ha......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156068,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0880.",
-            "TextJPN": "「大はしゃぎが祟ったのか、翌朝はものすごい頭痛に悩まされた。頭痛薬を飲んだがその場凌ぎにしかならない」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``However, it seems that romp had severe consequences, because the next morning, you were plagued by a terrible headache. You took painkillers, but that only patched things up for the moment.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156069,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0890.",
-            "TextJPN": "「…お父さんとお母さんは考えた挙げ句、予定を繰り上げて帰ることにしたんだよな」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...So after thinking it over, your mom and dad decided to return home ahead of schedule.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156070,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0900.",
-            "TextJPN": "「頭痛でふらふらなのに君、泣きながら訴えたんだ。こんな頭痛すぐ治るからって。でも我が子が可愛い両親は帰る事に決めてしまった」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``And even though you were lightheaded from your headache, you still made an appeal while crying. But your parents who loved their cute child decided to go home.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156071,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0910.",
-            "TextJPN": "「…今でも心残りだろ。東京観光は」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...Even now, you still regret it. Sightseeing in Tokyo.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156072,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1140.",
-            "TextJPN": "「…え……えぇ………そりゃあ………………………」",
-            "NamesENG": "Mion",
-            "TextENG": "``...Eh...... Ehh......... Yeah...........................``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156073,
-            "TextJPN": "遠雷。雨の音。長い沈黙。魅音の顔は笑顔を装いながらも青白い。カタカタ震える肩。",
-            "TextENG": "Distant thunder.@rThe sound of the rain.@rA long silence.@rMion's face is pale, she pretends to smile.@rHer shoulder rattles trembly."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156074,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0920.",
-            "TextJPN": "「……君、ダムは賛成派だよな。立ち退き料で東京へ引っ越してくれないかと期待してる」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``......You agree with the dam. So you're expecting the compensation for eviction so you can move to Tokyo.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156075,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0930.",
-            "TextJPN": "「…でも両親の仕事の関係で引っ越し先は市内になりそうだ」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...But moving to a new address in the city concerns your parents and their jobs.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156076,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0940.",
-            "TextJPN": "「…でも妥協点だよな。少なくとも雛見沢よりはよっぽど都会だ。…“消防団”より高い建物なんかいくらでもある」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...But it is a compromise. As life in the city will be much better than Hinamizawa. ...And there are plenty of tall buildings there than just one 'volunteer fire department'.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156077,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1150.",
-            "TextJPN": "「…………なん…で…………そんなこと…まで…知ってんですか…………」",
-            "NamesENG": "Mion",
-            "TextENG": "``............Wh-Why............ do you... know... that much............``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156078,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0950.",
-            "TextJPN": "「君は魂を東京に置いて来てしまったんだよ。…もう心は雛見沢にない。………まずいんじゃあないかな。…そういうのって」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``You've put your soul into Tokyo already. ...Your heart's no longer in Hinamizawa. .........I wonder... if that's a bad thing.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156079,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1160.",
-            "TextJPN": "「…ま、……まずいって、………、」",
-            "NamesENG": "Mion",
-            "TextENG": "``...B-Bad.........?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156080,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0960.",
-            "TextJPN": "「……オヤシロさまだよ。……オヤシロさまは雛見沢を捨てて出て行こうとする人を祟るんだぜ？」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``......It's Oyashiro-sama. ......Oyashiro-sama will curse anyone who intends to leave and abandon Hinamizawa, right?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156081,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0970.",
-            "TextJPN": "「……俺がもしそのオヤシロさまだったら、……君はアウトだと思うけどねぇ…。……どう思う？」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``......Suppose, I were Oyashiro-sama. ......I'd think you were one of them... ......What you think?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156082,
-            "TextJPN": "魅音、カタカタと小さく震えながら後退る。",
-            "TextENG": "Mion edges back and begins to tremble."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156083,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0980.",
-            "TextJPN": "「…小さい頃から、信じちゃうタチなんだよね。……童話でもお伽話でも、怪談でもそう」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...Since you were small, you've been the type to believe in them. ......Whether it be a fairy tale, nursery tale, or even a ghost story.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156084,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0990.",
-            "TextJPN": "「…作り話だと判っちゃいるのに…信じちゃうんだよなぁ」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...Even though you know they're made up... you believe in them anyway.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156085,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1000.",
-            "TextJPN": "「…東京で頭痛を患って以来。……オヤシロさまの話、……聞き流せないんだよねぇ…」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...Ever since you had a headache in Tokyo....... You can't listen to Oyashiro-sama..... His story...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156086,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1010.",
-            "TextJPN": "「……作り話と判っちゃいるのに、…ねぇ…」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``......Even though you know they're just made up stories... right...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156087,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1170.",
-            "TextJPN": "「…あ………あ、……あんた…………誰…」",
-            "NamesENG": "Mion",
-            "TextENG": "``...Wh-Wh-Who are............ you...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156088,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1020.",
-            "TextJPN": "「僕？　…僕かい？」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Me? ...Me you ask?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156089,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1030.",
-            "TextJPN": "「………くっくっく、はっはっは！　あーっはっはっはっはッ！」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``.........Hee hee hee hee, ha ha ha ha! Ahh ha ha ha ha ha!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156090,
-            "TextJPN": "狂ったように笑い転げる吉村。異様な状況に魅音、立ち尽くす。",
-            "TextENG": "Yoshimura stumbles about laughing madly. Mion in this strange situation remains still."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156091,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1040.",
-            "TextJPN": "「……さっきも言ったろ？　吉村さ。…フリーライターの吉村だよ。……フリーターの親戚じゃあないんだぜ？」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``......Didn't I already say a while ago? I’m Yoshimura. Yoshimura the freelance writer. ......It's relative to part-time worker, right?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156092,
-            "TextJPN": "大きな雷鳴。土砂降りの雨の音と共に暗転。@rしばらくの沈黙。",
-            "TextENG": "A large thunder.@rThe surroundings turns dark alongside@rthe growing sound of the pouring rain.@rSilence."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156093,
-            "TextJPN": "舞台は真っ暗のまま。無線の声が聞こえる。",
-            "TextENG": "The stage remains dark.@rThe voice from a radio is heard."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156094,
-            "NamesJPN": "声",
-            "PreTextTags": "@vS26/57/TNIT_0000.",
-            "TextJPN": "「…本部より全車へ。……部外者混入につき作戦開始時刻を延期。全車は即応態勢で待機。…油断するな。どう出てくるかわからんぞ」",
-            "NamesENG": "Voice",
-            "TextENG": "``...Headquarters calling all cars. ......On the account of outsider mingling, we are postponing the starting time of all operations. All cars are to wait on standby, prepare for any situation. ...Don't be careless. We don't know what will come out.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156095,
-            "TextJPN": "落雷の音。徐々に舞台明るくなる。@rどしゃぶりの音、遠くなっていく。@r５人全員ベンチに座っている。",
-            "TextENG": "The sound of lightning.@rThe stage gradually becomes brighter.@rThe sound of the downpour has now distanced itself.@rAll five people are sitting on the bench."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156096,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_0880.",
-            "TextJPN": "「……どう？　…薬、効いてきた？」",
-            "NamesENG": "Rika",
-            "TextENG": "``......How about it? ...Did the medicine work?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156097,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0800.",
-            "TextJPN": "「…すみません。……もうだいぶ楽になりました。ありがとうございます」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``...I'm sorry. ......I feel alot better. Thank you.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156098,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_0890.",
-            "TextJPN": "「……効いた？　……そう」",
-            "NamesENG": "Rika",
-            "TextENG": "``......It worked? ......Good.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156099,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1180.",
-            "TextJPN": "「梨花さん、私にももらえませんか。頭痛の薬。…私もちょっと…」",
-            "NamesENG": "Mion",
-            "TextENG": "``Rika-san, can I have some, too? Medicine for my headache I mean. ...I just feel a little...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156100,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_0900.",
-            "TextJPN": "「……痛むの？」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Does your head ache, too?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156101,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1190.",
-            "TextJPN": "「いえ、今はいいんですけどね。さっきものすごーく痛かったんですよ」",
-            "NamesENG": "Mion",
-            "TextENG": "``No, I'm fine now. But it hurt alot a little while ago.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156102,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1050.",
-            "TextJPN": "「俺もってるぜ。やろうか」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``I have one. If you want.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156103,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1200.",
-            "TextJPN": "「け、結構ですッ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``N-No thanks!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156104,
-            "TextJPN": "過剰な反応を示して拒否する魅音。吉村と利根川・荒川、異様な反応にちょっと驚く。",
-            "TextENG": "Mion shows an excessive reaction and refuses.@rTonegawa and Arakawa are surprised@rat her strange reaction to Yoshimura."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156105,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1060.",
-            "TextJPN": "「……そ、…そうかい。……ならいいんだ」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``......I-Is that so. ......Well then, that's okay.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156106,
-            "NamesJPN": "利根川",
-            "PreTextTags": "@vS26/56/TTON_0610.",
-            "TextJPN": "「それにしても、…バスが来ないですね。もう来る時間だと思うんですけど」",
-            "NamesENG": "Tonegawa",
-            "TextENG": "``Still... the bus hasn't come yet. And I think it's past its arrival time already.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156107,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_0910.",
-            "TextJPN": "「…雨だからね…」",
-            "NamesENG": "Rika",
-            "TextENG": "``...Because of the rain...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156108,
-            "TextJPN": "しばらくの沈黙と雨の音。そこへ刑事２人（@bほしの.@<星野@>・@bおかの.@<岡野@>）登場。",
-            "TextENG": "While everyone sits in silence with the sound@rof the rain. Two detectives (Hoshino@rand Okano) appear."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156109,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1210.",
-            "TextJPN": "「…また来ましたよ。人。………なんで今日はこんなにいっぱい来るんですかね。……いつもは誰もいないのに」",
-            "NamesENG": "Mion",
-            "TextENG": "``...Someone's coming. It's some people. .........Why would they come now. ......There's been nobody else so far.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156110,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_0920.",
-            "TextJPN": "「…雨だからね…」",
-            "NamesENG": "Rika",
-            "TextENG": "``...Because of the rain...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156111,
-            "NamesJPN": "岡野",
-            "PreTextTags": "@vS26/59/TOKA_0000.",
-            "TextJPN": "「こんにちは。…皆さんはバスをお待ちですか？」",
-            "NamesENG": "Okano",
-            "TextENG": "``Hi there. ...Is everybody waiting for the bus?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156112,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1070.",
-            "TextJPN": "「…えぇ。そろそろ来ると思うんですがね」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...Yeah. I think it'll come soon.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156113,
-            "NamesJPN": "星野",
-            "PreTextTags": "@vS26/58/THOS_0000.",
-            "TextJPN": "「バスは来ません」",
-            "NamesENG": "Hoshino",
-            "TextENG": "``The bus won't come.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156114,
-            "NamesJPN": "利根川",
-            "PreTextTags": "@vS26/56/TTON_0620.",
-            "TextJPN": "「え、…それはどういう、」",
-            "NamesENG": "Tonegawa",
-            "TextENG": "``Eh... what does that mean?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156115,
-            "NamesJPN": "岡野",
-            "PreTextTags": "@vS26/59/TOKA_0010.",
-            "TextJPN": "「どうか冷静にお願いします。…私どもは警察です。ある事件により近辺を捜査中です。皆さんのご協力をお願いします」",
-            "NamesENG": "Okano",
-            "TextENG": "``I would like you all to act calmly. ...We're the police. There was an incident, so we are currently investigating this neighborhood. I would like you all to co-operate.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156116,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1220.",
-            "TextJPN": "「事件って、」",
-            "NamesENG": "Mion",
-            "TextENG": "``An incident?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156117,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1080.",
-            "TextJPN": "「何ですか。何かあったんですか！」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``What is it? Did something happen!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156118,
-            "NamesJPN": "岡野",
-            "PreTextTags": "@vS26/59/TOKA_0020.",
-            "TextJPN": "「ですからどうぞ冷静にお願いします。……昼前に市内で起こった通り魔殺人の犯人がこの近辺に潜伏していると思われます」",
-            "NamesENG": "Okano",
-            "TextENG": "``Please calm down. ......It happened in town before noon, so it is thought that the criminal who committed the street murder is hiding somewhere in this vicinity.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156119,
-            "NamesJPN": "岡野",
-            "PreTextTags": "@vS26/59/TOKA_0030.",
-            "TextJPN": "「…現在この地域は非常線で封鎖されています。ですからバスは来ません」",
-            "NamesENG": "Okano",
-            "TextENG": "``At present, the area has been sealed off with a cordon. Therefore, the bus can't come here.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156120,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0810.",
-            "TextJPN": "「通り魔殺人！？」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``A street murder!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156121,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1230.",
-            "TextJPN": "「変質者！？　麻薬中毒者！？　…もー…勘弁して下さいよぅ…」",
-            "NamesENG": "Mion",
-            "TextENG": "``Degenerate!? A drug addict!? ...Oh please... give me a break...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156122,
-            "NamesJPN": "利根川",
-            "PreTextTags": "@vS26/56/TTON_0630.",
-            "TextJPN": "「な、何人も殺されてるんですか？」",
-            "NamesENG": "Tonegawa",
-            "TextENG": "``H-How many people have been killed?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156123,
-            "NamesJPN": "岡野",
-            "PreTextTags": "@vS26/59/TOKA_0040.",
-            "TextJPN": "「…詳しい事は申し上げられませんが、すでに何人かが犠牲になっています」",
-            "NamesENG": "Okano",
-            "TextENG": "``...We can't talk about the details, but there have already been several victims.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156124,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1090.",
-            "TextJPN": "「犯人は？　…性別は？　年齢は？　…どんなヤツなんです？」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Who is the criminal? ...The gender? The age? ...What kind of person did it?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156125,
-            "NamesJPN": "星野",
-            "PreTextTags": "@vS26/58/THOS_0010.",
-            "TextJPN": "「…ご職業は推理作家ですか？　…身分証を拝見します」",
-            "NamesENG": "Hoshino",
-            "TextENG": "``...Is your occupation a mystery writer? ...May I see your ID card?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156126,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1100.",
-            "TextJPN": "「…あー、…名刺じゃ駄目ですか？　…吉村って言います。職業はフリーライターです」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...Oh... is a business card okay? ...My name's Yoshimura. My occupation's a freelance writer.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156127,
-            "NamesJPN": "星野",
-            "PreTextTags": "@vS26/58/THOS_0020.",
-            "TextJPN": "「…顔写真の付いたものはありませんか？」",
-            "NamesENG": "Hoshino",
-            "TextENG": "``...Don't you have anything with a photograph of your face?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156128,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1110.",
-            "TextJPN": "「あー……生憎…」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Oh...... unfortunately not...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156129,
-            "NamesJPN": "岡野",
-            "PreTextTags": "@vS26/59/TOKA_0050.",
-            "TextJPN": "「そちらのお二人は」",
-            "NamesENG": "Okano",
-            "TextENG": "``Now, onto you two.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156130,
-            "NamesJPN": "利根川",
-            "PreTextTags": "@vS26/56/TTON_0640.",
-            "TextJPN": "「建設省の者です。職員証も免許証もあります」",
-            "NamesENG": "Tonegawa",
-            "TextENG": "``We're from the Ministry of Construction. We both have our staff identification and driver's licenses.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156131,
-            "NamesJPN": "岡野",
-            "PreTextTags": "@vS26/59/TOKA_0060.",
-            "TextJPN": "「どうも。お仕事ご苦労さまです」",
-            "NamesENG": "Okano",
-            "TextENG": "``Thank you. I appreciate your hard work.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156132,
-            "NamesJPN": "星野",
-            "PreTextTags": "@vS26/58/THOS_0030.",
-            "TextJPN": "「そっちの二人は？」",
-            "NamesENG": "Hoshino",
-            "TextENG": "``Who are you two?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156133,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_1240.",
-            "TextJPN": "「え？　…へへぇー……！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Eh? ...Heh heh......!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156134,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1120.",
-            "TextJPN": "「犯人はどんなヤツなんですか！　ひょっとすると誰か見ているかも知れない」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``What kind of person is the criminal! Possibly someone may have saw him.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156135,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0820.",
-            "TextJPN": "「え、えぇ！　…そうですよ！　教えて下さい！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``E-Eh! ...He's right! Please tell us!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156136,
-            "NamesJPN": "岡野",
-            "PreTextTags": "@vS26/59/TOKA_0070.",
-            "TextJPN": "「…情報が不足していますので確実ではありませんが。…犯人は二人組の可能性が高い！」",
-            "NamesENG": "Okano",
-            "TextENG": "``...I'm not certain, since we're short on information. ...But the criminal is most likely one of the duo's here!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156137,
-            "TextJPN": "吉村、立ち上がって建設省の２人と魅音・梨花を見比べる。",
-            "TextENG": "Yoshimura stands up and compares Mion and Rika@rwith the two men from the Ministry of Construction."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156138,
-            "NamesJPN": "岡野",
-            "PreTextTags": "@vS26/59/TOKA_0080.",
-            "TextJPN": "「…もちろん誤解で単独犯の可能性もあります。……性別は…男性である可能性が高い！」",
-            "NamesENG": "Okano",
-            "TextENG": "``...Of course, it's also possible this is a misunderstanding and the criminal is working alone. ......And the gender... is more likely to be male!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156139,
-            "TextJPN": "魅音、立ち上がって建設省の２人と吉村を見比べる。吉村は建設省の２人を疑う。たじろぐ２人。",
-            "TextENG": "Mion stands up and compares Yoshimura@rwith the two men from the Ministry of Construction.@rYoshimura doubts the two men from@rthe Ministry of Construction. The two men shiver."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156140,
-            "NamesJPN": "岡野",
-            "PreTextTags": "@vS26/59/TOKA_0090.",
-            "TextJPN": "「…目撃が曖昧なので女性の可能性も否定できません。…ま、…建設省のお二人は身元が確かなので問題ないでしょう。アリバイも調べやすい」",
-            "NamesENG": "Okano",
-            "TextENG": "``...But, since the witness was very vague, I cannot deny the possibility that it is a woman. ...Well... since we can identify them, it seems the two men from the Ministry of Construction won't be a problem. It's easy to check out their alibis.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156141,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_1130.",
-            "TextJPN": "「つまり、犯人はどんなヤツなのかまったく見当がつかない、って事ですか？」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``In other words, you have no idea what kind of person the criminal is, or even if it's one of us, right?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 156142,
-            "NamesJPN": "星野",
-            "PreTextTags": "@vS26/58/THOS_0040.",
-            "TextJPN": "「詳しく申し上げられないだけです。…皆さんの中に被疑者がいるかも知れませんから」",
-            "NamesENG": "Hoshino",
-            "TextENG": "``It wasn't expressed in detail. ...So it seems we'll have to suspect everyone here.``"
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "#4 誰カ見テタノ？",
+		"ENG": "#4 / Who was Watching?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156031,
+		"TextJPN": "落雷の音。@k@r徐々に舞台明るくなる。@k@rどしゃぶりの音、遠くなっていく。@k@r荒川だけ依然トイレから戻らない。",
+		"TextENG": "The sound of lightning.@k@rThe stage gradually becomes brighter.@k@rThe sound of the downpour has now distanced itself.@k@rArakawa has still not returned from the restroom."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156032,
+		"NamesJPN": "利根川",
+		"PreTextTags": "@vS26/56/TTON_0590.",
+		"TextJPN": "「…遅いな。荒川君。………また調子でも悪くなったのかな…？」",
+		"NamesENG": "Tonegawa",
+		"TextENG": "``...Arakawa-kun is late. .........I wonder if his condition has worsened...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156033,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_0850.",
+		"TextJPN": "「……荒川さん、体調悪いの？」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Is Arakawa'san's condition bad?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156034,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1010.",
+		"TextJPN": "「あー、梨花さんいなかったんですよね。…さっき梨花さんがお手洗に行ってる時、頭ガンガンするって、のたうち回ってたんですよー」",
+		"NamesENG": "Mion",
+		"TextENG": "``Oh, you didn't see him before, Rika-san. ...A little while ago, when you were in the bathroom, Rika-san, his head was pounding, he writhed and was in a great deal of pain.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156035,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1020.",
+		"TextJPN": "「発作とか言ってましたけど。えーとえーと……@k@|@y@vS26/53/TMIO_1021.モウカリマッカ出血！」",
+		"NamesENG": "Mion",
+		"TextENG": "``He said it was a spasm attack. Well, umm......@k@|@y@vS26/53/TMIO_1021. It was a subarachnoid hemorrhage!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156036,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_0860.",
+		"TextJPN": "「クモ膜下出血…」",
+		"NamesENG": "Rika",
+		"TextENG": "``A subarachnoid hemorrhage...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156037,
+		"NamesJPN": "利根川",
+		"PreTextTags": "@vS26/56/TTON_0600.",
+		"TextJPN": "「………ちょっと様子を見て来ます」",
+		"NamesENG": "Tonegawa",
+		"TextENG": "``.........I'll go check up on him.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156038,
+		"TextJPN": "利根川退場。@k@rしばらくしてから梨花も立ち上がる。",
+		"TextENG": "Tonegawa leaves.@k@rRika stands up after a while."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156039,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_0870.",
+		"TextJPN": "「…頭痛に効く薬、持ってるのよ。……ちょっと私も行ってくるわね。…すぐ戻るから」",
+		"NamesENG": "Rika",
+		"TextENG": "``...I have medicine effective against headaches with me, he can use it. ......I'll go after him. But I'll come back right away.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156040,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1030.",
+		"TextJPN": "「あ、はい。…行ってらっしゃーい…」",
+		"NamesENG": "Mion",
+		"TextENG": "``Oh, yes. ...See you soon...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156041,
+		"TextJPN": "取り残される魅音と吉村。@k@r雨の音と沈黙。@k@r魅音は軽い頭痛を終始気にしている。",
+		"TextENG": "Now only Mion and Yoshimura are left behind.@k@rTogether with silence and the sound of the rain.@k@rMion begins to caress her mild headache."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156042,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1040.",
+		"TextJPN": "「……ふぁぁあ～…。……なんか眠くなって来ちゃったし…。何となく頭も痛いし。…私も風邪かなー…」",
+		"NamesENG": "Mion",
+		"TextENG": "``......*Yawn*... ......Somehow, I'm getting sleepy... And for some reason, my head hurts too. ...I wonder if I got cold...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156043,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0720.",
+		"TextJPN": "「…先日、東京観光に行ってね。…もっとも観光っていってもねずみーランドに遊びに行っただけなんだけど」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...The other day, I went sightseeing in Tokyo. ...And even though I was meant to sight-see, I only went to play in Mouse Land.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156044,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1050.",
+		"TextJPN": "「え！？　…あ、そーなんですかぁ！？」",
+		"NamesENG": "Mion",
+		"TextENG": "``Eh!? ...Oh, is that so!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156045,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1060.",
+		"TextJPN": "「…私も行ったんですよ東京観光ッ！　ねずみーランドに行きましたハイ！　…って言っても私もそこしか行ってないんですけどねぇ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``...I've been to Tokyo for sightseeing, too! And I even went to Mouse Land! ...Although, that's the only place I went to play, too!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156046,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0730.",
+		"TextJPN": "「ホテルシーサイド江戸海って所に泊まったんだよ。ランドの近くにある@bしょうしゃ.@<瀟洒@>なホテルでねぇ」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``I stayed at a seaside hotel called Edo Umi. A simple and elegant hotel located in Kasai Coastal Park.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156047,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1070.",
+		"TextJPN": "「え！？　え！？　えーッ！？　ウチもですよ！　ウチもそこに泊まったんですよーッ！　すっごい偶然ーッ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Eh!? Eh!? Ehh!? Me too! My family stayed there as well! What a coincidence!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156048,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0740.",
+		"TextJPN": "「夜、公園の周りを散歩したんだが、すごいね。アベックの聖域だよ。独り者には肩身が狭いね」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``At night, I took a walk around the park, and saw something amazing. It was a sanctuary for couples. It made me feel ashamed being single.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156049,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1080.",
+		"TextJPN": "「あっはははははは！　同感同感ー！　私も思いましたー！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Ah ha ha ha ha ha ha! I agree, I agree! I thought so, too!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156050,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0750.",
+		"TextJPN": "「食事も想像してたよりずっと素晴らしかった」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``The meal was also much greater than I had imagined.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156051,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0760.",
+		"TextJPN": "「でも両親に合わせて和食を選んだのは失敗だったね。…結局煮魚は口に合わず丸ごと残してしまった」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``But I made the mistake of choosing Japanese food to suit my parents. ...In the end, the boiled fish was not to my taste and I left the whole thing behind.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156052,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1090.",
+		"TextJPN": "「あはははは！　吉村さんもですかー？　私もなんですよー！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Ah ha ha ha ha ha! Yoshimura-san, too? It was the same for me!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156053,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0770.",
+		"TextJPN": "「それで夜中、どうしてもお腹が空いて眠れないんだ」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Then, in the middle of the night, I couldn't sleep at all since my stomach was empty.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156054,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0780.",
+		"TextJPN": "「仕方なくホテルを抜け出して、交番の近くにあったカップめんの自販機までやって来た。…ところが困った事に小銭がないんだよ」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``So I had no choice but to leave the hotel, and then I came to a vending machine of cup noodles that was near a koban. ...However, it unfortunately wouldn't accept small change.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156055,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0790.",
+		"TextJPN": "「…あの時はひもじかったねぇ」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...I was so hungry at that time.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156056,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1100.",
+		"TextJPN": "「あっははははは！　吉村さんもですかー？　私もなんですよー！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Ah ha ha ha ha ha! Yoshimura-san, too? It was the same for me!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156057,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0800.",
+		"TextJPN": "「翌朝。お父さんに借りた携帯をポケットに入れたままトイレで用を足そうとしたら、うっかり便器に落としてしまって大変だ」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``The following morning. I borrowed my dad's cellphone, put it in my pocket and went to the toilet, then I accidentally dropped it in the toilet.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156058,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0810.",
+		"TextJPN": "「汚いのも構わず慌てて拾って、ドライヤーで乾かしたんだよな」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``I grabbed it in a hurry without minding it was dirty, and dried it with the dryer.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156059,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0820.",
+		"TextJPN": "「…お父さんには電池が切れたみたいだよって言って誤魔化したけど。駄目だったんだよね」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...I lied to my dad and said the battery seemed to have run out. But it was useless.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156060,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1110.",
+		"TextJPN": "「あはははは！　吉村さんもですかー？　私もなん、」",
+		"NamesENG": "Mion",
+		"TextENG": "``Ah ha ha ha ha! Yoshimura-san, too? It was the...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156061,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0830.",
+		"TextJPN": "「ねずみーランドではとにかく色々なものに乗ったね。大はしゃぎだったよ。笑えるのはエリカは海賊ってヤツだ」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``I got on a variety of rides in Mouse Land. What a romp. That Caliph of Pirates guy was hilarious.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156062,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0840.",
+		"TextJPN": "「宝の山があったんでゴンドラから身を乗りだして触ろうとしたら放送で怒られただろ。ランドの人ってちゃんと見てるもんなんだよなぁ」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Then there was a mountain of treasure, but I got shouted at by the broadcaster when I leaned out from the gondola and tried to touch it. The people in that amusement park watch you very strictly.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156063,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1120.",
+		"TextJPN": "「あはははは！　吉村さんも…、」",
+		"NamesENG": "Mion",
+		"TextENG": "``Ah ha ha ha ha! Yoshimura-san...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156064,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0850.",
+		"TextJPN": "「閉園時間ぎりぎりまで遊び倒したよね。閉園時間ぎりぎりで、アイスクリーム屋さんに飛び込んで、お母さんにラムレーズンをねだったんだ」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``I used all of energy to play until very last moment before closing time. But just before closing time, I jumped into an ice cream shop in the nick of time and begged my mom for a rum raisin.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156065,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0860.",
+		"TextJPN": "「ボタボタ垂らしながら食べてるとそれをじっと見ている清掃のお兄さんがいたよね。手を振ったらプイと横を向かれたんでムッとしたっけ」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Then I saw a young man who was cleaning, stare at me while I ate as it started dripping. You waved your hand at him but he turned away, I guess he was annoyed.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156066,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0870.",
+		"TextJPN": "「…それで目線を戻したら、自分のスカートに垂らし放題。…これじゃ電車にも乗れないって大泣きしたんだっけ…？」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...Then when you looked back, it was all over your skirt. Because of that, you cried very much and assumed you couldn't get on the train, right...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156067,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1130.",
+		"TextJPN": "「はは、ははは……、」",
+		"NamesENG": "Mion",
+		"TextENG": "``Ha ha, ha ha ha......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156068,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0880.",
+		"TextJPN": "「大はしゃぎが祟ったのか、翌朝はものすごい頭痛に悩まされた。頭痛薬を飲んだがその場凌ぎにしかならない」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``However, it seems that romp had severe consequences, because the next morning, you were plagued by a terrible headache. You took painkillers, but that only patched things up for the moment.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156069,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0890.",
+		"TextJPN": "「…お父さんとお母さんは考えた挙げ句、予定を繰り上げて帰ることにしたんだよな」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...So after thinking it over, your mom and dad decided to return home ahead of schedule.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156070,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0900.",
+		"TextJPN": "「頭痛でふらふらなのに君、泣きながら訴えたんだ。こんな頭痛すぐ治るからって。でも我が子が可愛い両親は帰る事に決めてしまった」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``And even though you were lightheaded from your headache, you still made an appeal while crying. But your parents who loved their cute child decided to go home.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156071,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0910.",
+		"TextJPN": "「…今でも心残りだろ。東京観光は」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...Even now, you still regret it. Sightseeing in Tokyo.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156072,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1140.",
+		"TextJPN": "「…え……えぇ………そりゃあ………………………」",
+		"NamesENG": "Mion",
+		"TextENG": "``...Eh...... Ehh......... Yeah...........................``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156073,
+		"TextJPN": "遠雷。雨の音。長い沈黙。魅音の顔は笑顔を装いながらも青白い。カタカタ震える肩。",
+		"TextENG": "Distant thunder.@rThe sound of the rain.@rA long silence.@rMion's face is pale, she pretends to smile.@rHer shoulder rattles trembly."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156074,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0920.",
+		"TextJPN": "「……君、ダムは賛成派だよな。立ち退き料で東京へ引っ越してくれないかと期待してる」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``......You agree with the dam. So you're expecting the compensation for eviction so you can move to Tokyo.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156075,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0930.",
+		"TextJPN": "「…でも両親の仕事の関係で引っ越し先は市内になりそうだ」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...But moving to a new address in the city concerns your parents and their jobs.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156076,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0940.",
+		"TextJPN": "「…でも妥協点だよな。少なくとも雛見沢よりはよっぽど都会だ。…“消防団”より高い建物なんかいくらでもある」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...But it is a compromise. As life in the city will be much better than Hinamizawa. ...And there are plenty of tall buildings there than just one 'volunteer fire department'.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156077,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1150.",
+		"TextJPN": "「…………なん…で…………そんなこと…まで…知ってんですか…………」",
+		"NamesENG": "Mion",
+		"TextENG": "``............Wh-Why............ do you... know... that much............``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156078,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0950.",
+		"TextJPN": "「君は魂を東京に置いて来てしまったんだよ。…もう心は雛見沢にない。………まずいんじゃあないかな。…そういうのって」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``You've put your soul into Tokyo already. ...Your heart's no longer in Hinamizawa. .........I wonder... if that's a bad thing.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156079,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1160.",
+		"TextJPN": "「…ま、……まずいって、………、」",
+		"NamesENG": "Mion",
+		"TextENG": "``...B-Bad.........?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156080,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0960.",
+		"TextJPN": "「……オヤシロさまだよ。……オヤシロさまは雛見沢を捨てて出て行こうとする人を祟るんだぜ？」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``......It's Oyashiro-sama. ......Oyashiro-sama will curse anyone who intends to leave and abandon Hinamizawa, right?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156081,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0970.",
+		"TextJPN": "「……俺がもしそのオヤシロさまだったら、……君はアウトだと思うけどねぇ…。……どう思う？」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``......Suppose, I were Oyashiro-sama. ......I'd think you were one of them... ......What you think?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156082,
+		"TextJPN": "魅音、カタカタと小さく震えながら後退る。",
+		"TextENG": "Mion edges back and begins to tremble."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156083,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0980.",
+		"TextJPN": "「…小さい頃から、信じちゃうタチなんだよね。……童話でもお伽話でも、怪談でもそう」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...Since you were small, you've been the type to believe in them. ......Whether it be a fairy tale, nursery tale, or even a ghost story.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156084,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0990.",
+		"TextJPN": "「…作り話だと判っちゃいるのに…信じちゃうんだよなぁ」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...Even though you know they're made up... you believe in them anyway.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156085,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1000.",
+		"TextJPN": "「…東京で頭痛を患って以来。……オヤシロさまの話、……聞き流せないんだよねぇ…」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...Ever since you had a headache in Tokyo....... You can't listen to Oyashiro-sama..... His story...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156086,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1010.",
+		"TextJPN": "「……作り話と判っちゃいるのに、…ねぇ…」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``......Even though you know they're just made up stories... right...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156087,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1170.",
+		"TextJPN": "「…あ………あ、……あんた…………誰…」",
+		"NamesENG": "Mion",
+		"TextENG": "``...Wh-Wh-Who are............ you...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156088,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1020.",
+		"TextJPN": "「僕？　…僕かい？」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Me? ...Me you ask?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156089,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1030.",
+		"TextJPN": "「………くっくっく、はっはっは！　あーっはっはっはっはッ！」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``.........Hee hee hee hee, ha ha ha ha! Ahh ha ha ha ha ha!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156090,
+		"TextJPN": "狂ったように笑い転げる吉村。異様な状況に魅音、立ち尽くす。",
+		"TextENG": "Yoshimura stumbles about laughing madly. Mion in this strange situation remains still."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156091,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1040.",
+		"TextJPN": "「……さっきも言ったろ？　吉村さ。…フリーライターの吉村だよ。……フリーターの親戚じゃあないんだぜ？」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``......Didn't I already say a while ago? I’m Yoshimura. Yoshimura the freelance writer. ......It's relative to part-time worker, right?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156092,
+		"TextJPN": "大きな雷鳴。土砂降りの雨の音と共に暗転。@rしばらくの沈黙。",
+		"TextENG": "A large thunder.@rThe surroundings turns dark alongside@rthe growing sound of the pouring rain.@rSilence."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156093,
+		"TextJPN": "舞台は真っ暗のまま。無線の声が聞こえる。",
+		"TextENG": "The stage remains dark.@rThe voice from a radio is heard."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156094,
+		"NamesJPN": "声",
+		"PreTextTags": "@vS26/57/TNIT_0000.",
+		"TextJPN": "「…本部より全車へ。……部外者混入につき作戦開始時刻を延期。全車は即応態勢で待機。…油断するな。どう出てくるかわからんぞ」",
+		"NamesENG": "Voice",
+		"TextENG": "``...Headquarters calling all cars. ......On the account of outsider mingling, we are postponing the starting time of all operations. All cars are to wait on standby, prepare for any situation. ...Don't be careless. We don't know what will come out.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156095,
+		"TextJPN": "落雷の音。徐々に舞台明るくなる。@rどしゃぶりの音、遠くなっていく。@r５人全員ベンチに座っている。",
+		"TextENG": "The sound of lightning.@rThe stage gradually becomes brighter.@rThe sound of the downpour has now distanced itself.@rAll five people are sitting on the bench."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156096,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_0880.",
+		"TextJPN": "「……どう？　…薬、効いてきた？」",
+		"NamesENG": "Rika",
+		"TextENG": "``......How about it? ...Did the medicine work?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156097,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0800.",
+		"TextJPN": "「…すみません。……もうだいぶ楽になりました。ありがとうございます」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``...I'm sorry. ......I feel alot better. Thank you.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156098,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_0890.",
+		"TextJPN": "「……効いた？　……そう」",
+		"NamesENG": "Rika",
+		"TextENG": "``......It worked? ......Good.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156099,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1180.",
+		"TextJPN": "「梨花さん、私にももらえませんか。頭痛の薬。…私もちょっと…」",
+		"NamesENG": "Mion",
+		"TextENG": "``Rika-san, can I have some, too? Medicine for my headache I mean. ...I just feel a little...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156100,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_0900.",
+		"TextJPN": "「……痛むの？」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Does your head ache, too?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156101,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1190.",
+		"TextJPN": "「いえ、今はいいんですけどね。さっきものすごーく痛かったんですよ」",
+		"NamesENG": "Mion",
+		"TextENG": "``No, I'm fine now. But it hurt alot a little while ago.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156102,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1050.",
+		"TextJPN": "「俺もってるぜ。やろうか」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``I have one. If you want.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156103,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1200.",
+		"TextJPN": "「け、結構ですッ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``N-No thanks!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156104,
+		"TextJPN": "過剰な反応を示して拒否する魅音。吉村と利根川・荒川、異様な反応にちょっと驚く。",
+		"TextENG": "Mion shows an excessive reaction and refuses.@rTonegawa and Arakawa are surprised@rat her strange reaction to Yoshimura."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156105,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1060.",
+		"TextJPN": "「……そ、…そうかい。……ならいいんだ」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``......I-Is that so. ......Well then, that's okay.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156106,
+		"NamesJPN": "利根川",
+		"PreTextTags": "@vS26/56/TTON_0610.",
+		"TextJPN": "「それにしても、…バスが来ないですね。もう来る時間だと思うんですけど」",
+		"NamesENG": "Tonegawa",
+		"TextENG": "``Still... the bus hasn't come yet. And I think it's past its arrival time already.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156107,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_0910.",
+		"TextJPN": "「…雨だからね…」",
+		"NamesENG": "Rika",
+		"TextENG": "``...Because of the rain...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156108,
+		"TextJPN": "しばらくの沈黙と雨の音。そこへ刑事２人（@bほしの.@<星野@>・@bおかの.@<岡野@>）登場。",
+		"TextENG": "While everyone sits in silence with the sound@rof the rain. Two detectives (Hoshino@rand Okano) appear."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156109,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1210.",
+		"TextJPN": "「…また来ましたよ。人。………なんで今日はこんなにいっぱい来るんですかね。……いつもは誰もいないのに」",
+		"NamesENG": "Mion",
+		"TextENG": "``...Someone's coming. It's some people. .........Why would they come now. ......There's been nobody else so far.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156110,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_0920.",
+		"TextJPN": "「…雨だからね…」",
+		"NamesENG": "Rika",
+		"TextENG": "``...Because of the rain...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156111,
+		"NamesJPN": "岡野",
+		"PreTextTags": "@vS26/59/TOKA_0000.",
+		"TextJPN": "「こんにちは。…皆さんはバスをお待ちですか？」",
+		"NamesENG": "Okano",
+		"TextENG": "``Hi there. ...Is everybody waiting for the bus?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156112,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1070.",
+		"TextJPN": "「…えぇ。そろそろ来ると思うんですがね」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...Yeah. I think it'll come soon.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156113,
+		"NamesJPN": "星野",
+		"PreTextTags": "@vS26/58/THOS_0000.",
+		"TextJPN": "「バスは来ません」",
+		"NamesENG": "Hoshino",
+		"TextENG": "``The bus won't come.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156114,
+		"NamesJPN": "利根川",
+		"PreTextTags": "@vS26/56/TTON_0620.",
+		"TextJPN": "「え、…それはどういう、」",
+		"NamesENG": "Tonegawa",
+		"TextENG": "``Eh... what does that mean?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156115,
+		"NamesJPN": "岡野",
+		"PreTextTags": "@vS26/59/TOKA_0010.",
+		"TextJPN": "「どうか冷静にお願いします。…私どもは警察です。ある事件により近辺を捜査中です。皆さんのご協力をお願いします」",
+		"NamesENG": "Okano",
+		"TextENG": "``I would like you all to act calmly. ...We're the police. There was an incident, so we are currently investigating this neighborhood. I would like you all to co-operate.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156116,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1220.",
+		"TextJPN": "「事件って、」",
+		"NamesENG": "Mion",
+		"TextENG": "``An incident?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156117,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1080.",
+		"TextJPN": "「何ですか。何かあったんですか！」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``What is it? Did something happen!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156118,
+		"NamesJPN": "岡野",
+		"PreTextTags": "@vS26/59/TOKA_0020.",
+		"TextJPN": "「ですからどうぞ冷静にお願いします。……昼前に市内で起こった通り魔殺人の犯人がこの近辺に潜伏していると思われます」",
+		"NamesENG": "Okano",
+		"TextENG": "``Please calm down. ......It happened in town before noon, so it is thought that the criminal who committed the street murder is hiding somewhere in this vicinity.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156119,
+		"NamesJPN": "岡野",
+		"PreTextTags": "@vS26/59/TOKA_0030.",
+		"TextJPN": "「…現在この地域は非常線で封鎖されています。ですからバスは来ません」",
+		"NamesENG": "Okano",
+		"TextENG": "``At present, the area has been sealed off with a cordon. Therefore, the bus can't come here.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156120,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0810.",
+		"TextJPN": "「通り魔殺人！？」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``A street murder!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156121,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1230.",
+		"TextJPN": "「変質者！？　麻薬中毒者！？　…もー…勘弁して下さいよぅ…」",
+		"NamesENG": "Mion",
+		"TextENG": "``Degenerate!? A drug addict!? ...Oh please... give me a break...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156122,
+		"NamesJPN": "利根川",
+		"PreTextTags": "@vS26/56/TTON_0630.",
+		"TextJPN": "「な、何人も殺されてるんですか？」",
+		"NamesENG": "Tonegawa",
+		"TextENG": "``H-How many people have been killed?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156123,
+		"NamesJPN": "岡野",
+		"PreTextTags": "@vS26/59/TOKA_0040.",
+		"TextJPN": "「…詳しい事は申し上げられませんが、すでに何人かが犠牲になっています」",
+		"NamesENG": "Okano",
+		"TextENG": "``...We can't talk about the details, but there have already been several victims.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156124,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1090.",
+		"TextJPN": "「犯人は？　…性別は？　年齢は？　…どんなヤツなんです？」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Who is the criminal? ...The gender? The age? ...What kind of person did it?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156125,
+		"NamesJPN": "星野",
+		"PreTextTags": "@vS26/58/THOS_0010.",
+		"TextJPN": "「…ご職業は推理作家ですか？　…身分証を拝見します」",
+		"NamesENG": "Hoshino",
+		"TextENG": "``...Is your occupation a mystery writer? ...May I see your ID card?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156126,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1100.",
+		"TextJPN": "「…あー、…名刺じゃ駄目ですか？　…吉村って言います。職業はフリーライターです」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...Oh... is a business card okay? ...My name's Yoshimura. My occupation's a freelance writer.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156127,
+		"NamesJPN": "星野",
+		"PreTextTags": "@vS26/58/THOS_0020.",
+		"TextJPN": "「…顔写真の付いたものはありませんか？」",
+		"NamesENG": "Hoshino",
+		"TextENG": "``...Don't you have anything with a photograph of your face?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156128,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1110.",
+		"TextJPN": "「あー……生憎…」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Oh...... unfortunately not...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156129,
+		"NamesJPN": "岡野",
+		"PreTextTags": "@vS26/59/TOKA_0050.",
+		"TextJPN": "「そちらのお二人は」",
+		"NamesENG": "Okano",
+		"TextENG": "``Now, onto you two.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156130,
+		"NamesJPN": "利根川",
+		"PreTextTags": "@vS26/56/TTON_0640.",
+		"TextJPN": "「建設省の者です。職員証も免許証もあります」",
+		"NamesENG": "Tonegawa",
+		"TextENG": "``We're from the Ministry of Construction. We both have our staff identification and driver's licenses.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156131,
+		"NamesJPN": "岡野",
+		"PreTextTags": "@vS26/59/TOKA_0060.",
+		"TextJPN": "「どうも。お仕事ご苦労さまです」",
+		"NamesENG": "Okano",
+		"TextENG": "``Thank you. I appreciate your hard work.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156132,
+		"NamesJPN": "星野",
+		"PreTextTags": "@vS26/58/THOS_0030.",
+		"TextJPN": "「そっちの二人は？」",
+		"NamesENG": "Hoshino",
+		"TextENG": "``Who are you two?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156133,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_1240.",
+		"TextJPN": "「え？　…へへぇー……！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Eh? ...Heh heh......!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156134,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1120.",
+		"TextJPN": "「犯人はどんなヤツなんですか！　ひょっとすると誰か見ているかも知れない」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``What kind of person is the criminal! Possibly someone may have saw him.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156135,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0820.",
+		"TextJPN": "「え、えぇ！　…そうですよ！　教えて下さい！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``E-Eh! ...He's right! Please tell us!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156136,
+		"NamesJPN": "岡野",
+		"PreTextTags": "@vS26/59/TOKA_0070.",
+		"TextJPN": "「…情報が不足していますので確実ではありませんが。…犯人は二人組の可能性が高い！」",
+		"NamesENG": "Okano",
+		"TextENG": "``...I'm not certain, since we're short on information. ...But the criminal is most likely one of the duo's here!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156137,
+		"TextJPN": "吉村、立ち上がって建設省の２人と魅音・梨花を見比べる。",
+		"TextENG": "Yoshimura stands up and compares Mion and Rika@rwith the two men from the Ministry of Construction."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156138,
+		"NamesJPN": "岡野",
+		"PreTextTags": "@vS26/59/TOKA_0080.",
+		"TextJPN": "「…もちろん誤解で単独犯の可能性もあります。……性別は…男性である可能性が高い！」",
+		"NamesENG": "Okano",
+		"TextENG": "``...Of course, it's also possible this is a misunderstanding and the criminal is working alone. ......And the gender... is more likely to be male!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156139,
+		"TextJPN": "魅音、立ち上がって建設省の２人と吉村を見比べる。吉村は建設省の２人を疑う。たじろぐ２人。",
+		"TextENG": "Mion stands up and compares Yoshimura@rwith the two men from the Ministry of Construction.@rYoshimura doubts the two men from@rthe Ministry of Construction. The two men shiver."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156140,
+		"NamesJPN": "岡野",
+		"PreTextTags": "@vS26/59/TOKA_0090.",
+		"TextJPN": "「…目撃が曖昧なので女性の可能性も否定できません。…ま、…建設省のお二人は身元が確かなので問題ないでしょう。アリバイも調べやすい」",
+		"NamesENG": "Okano",
+		"TextENG": "``...But, since the witness was very vague, I cannot deny the possibility that it is a woman. ...Well... since we can identify them, it seems the two men from the Ministry of Construction won't be a problem. It's easy to check out their alibis.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156141,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_1130.",
+		"TextJPN": "「つまり、犯人はどんなヤツなのかまったく見当がつかない、って事ですか？」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``In other words, you have no idea what kind of person the criminal is, or even if it's one of us, right?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 156142,
+		"NamesJPN": "星野",
+		"PreTextTags": "@vS26/58/THOS_0040.",
+		"TextJPN": "「詳しく申し上げられないだけです。…皆さんの中に被疑者がいるかも知れませんから」",
+		"NamesENG": "Hoshino",
+		"TextENG": "``It wasn't expressed in detail. ...So it seems we'll have to suspect everyone here.``"
+	}
+]

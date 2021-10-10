@@ -1,1951 +1,1949 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "#5",
-            "ENG": "#5"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154652,
-            "TextJPN": "………それでも、いつの間にか寝入ってしまっていたに違いない。",
-            "TextENG": ".........Still, I fell asleep all too soon."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154653,
-            "TextJPN": "圭一は、魅音に小突かれ、目を覚ます……。",
-            "TextENG": "Keiichi is pushed by Mion, and wakes up......"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154654,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS25/03/NMIO_1230.",
-            "TextJPN": "「そろそろ起きなよ」",
-            "NamesENG": "Mion",
-            "TextENG": "``Get up.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154655,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS25/01/NKEI_1120.",
-            "TextJPN": "「ん……、…あ、あぁ……。目覚ましもないのに、よく正確に起きられるもんだな……」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``......R-Right...... I don't know how you get up so accurately without an alarm......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154656,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS25/02/NREN_1050.",
-            "TextJPN": "「魅ぃちゃん、寝てなかったんだって」",
-            "NamesENG": "Rena",
-            "TextENG": "``Mii-chan can't seem to lie down.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154657,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS25/04/NSAT_0430.",
-            "TextJPN": "「一番グースカ寝てたのは圭一さんですわね。まったく、大した図太さですわ」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Keiichi was the one who slept the longest, wasn't he? That was truly very bold of you.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154658,
-            "NamesJPN": "采",
-            "PreTextTags": "@vS25/50/NUNE_0200.",
-            "TextJPN": "「………真っ暗……、という感じはしないのです」",
-            "NamesENG": "Une",
-            "TextENG": "``.........It's pitch black outside...... It doesn't feel like it.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154659,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS25/04/NSAT_0440.",
-            "TextJPN": "「そうですわね。案外、月明かりって明るいものですわ」",
-            "NamesENG": "Satoko",
-            "TextENG": "``You're right. Although unexpectedly, the moonlight is also bright.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154660,
-            "TextJPN": "本当に月明かりだったなら、少しはロマンチックだったかもしれない。",
-            "TextENG": "If that really is moonlight, it could be slightly romantic."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154661,
-            "TextJPN": "信号や点きっぱなしの電飾などは、眠ることなく街を照らし続けている。",
-            "TextENG": "We see decorative illuminations and traffic lights in the distance, continuing against a city without sleep."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154662,
-            "TextJPN": "雛見沢と違い、興宮の夜は、漆黒の闇にはならないのだ。",
-            "TextENG": "Unlike Hinamizawa, Okinomiya at night doesn't become enveloped in a jet black darkness."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154663,
-            "TextJPN": "それを幸いと見るか、隠密に不利と考えるかはわからない。",
-            "TextENG": "Although, we don't know if we should look at this fortunately or not, it could be disadvantageous to our covert actions."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154664,
-            "TextJPN": "無人の車が列を為す幹線道路の大河には、時折、懐中電灯の明かりがちらつく。",
-            "TextENG": "On the main road crossing the big river, unmanned cars have formed a column, occasionally flickering their lights like a flashlight."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154665,
-            "TextJPN": "予想通り、不寝番を立てているようだ。",
-            "TextENG": "As expected, this must have been put up by the night watchman."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154666,
-            "TextJPN": "しかしそれでも、日中よりははるかに薄い警戒だ。",
-            "TextENG": "However, this is still much safer than during daytime."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154667,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS25/03/NMIO_1240.",
-            "TextJPN": "「……ＯＫ。行けるね……」",
-            "NamesENG": "Mion",
-            "TextENG": "``......OK. We can go......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154668,
-            "NamesJPN": "采",
-            "PreTextTags": "@vS25/50/NUNE_0210.",
-            "TextJPN": "「……大丈夫、……なわけ、……ありますよね……？」",
-            "NamesENG": "Une",
-            "TextENG": "``......For sure...... ......it's not okay outside, right......?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154669,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS25/04/NSAT_0450.",
-            "TextJPN": "「私たちにお任せですわ。怖いことなどありませんもの。あっさりと渡り切りましてよ」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Leave that to us. Don't be scared. We'll pass by them easily.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154670,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS25/01/NKEI_1130.",
-            "TextJPN": "「例の秘密兵器もあるしな」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``And we have a secret weapon.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154671,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS25/02/NREN_1060.",
-            "TextJPN": "「何とか、静かに行きたいね。賑やかな状態で駆け込めば、事務所の人たちにも迷惑を掛けちゃう」",
-            "NamesENG": "Rena",
-            "TextENG": "``Somehow, we need to pass by them quietly. We shouldn't energetically rush, that would cause trouble for everyone in the office.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154672,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS25/03/NMIO_1250.",
-            "TextJPN": "「確かに、ね」",
-            "NamesENG": "Mion",
-            "TextENG": "``Certainly, you're right.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154673,
-            "TextJPN": "偵察の様子からは、園崎組事務所は外部とは一切の交流を絶っているように見えた。",
-            "TextENG": "From its appearance during reconnaissance, the Sonozaki family office seems to have broken off all exchanges with the outside."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154674,
-            "TextJPN": "バリケードでしっかりと守りを固め、暴徒たちとは交流している様子がない。",
-            "TextENG": "They've also strengthened their defenses with barricades very well, it doesn't seem they've had any exchanges with the mobs."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154675,
-            "TextJPN": "もし、彼らが暴徒たちと同じに心を鬼に明け渡していたなら、守りなど固めず、感染者狩りに大いに参加していたに違いない。",
-            "TextENG": "However, if they did surrender their hearts to the demon, they would be the same as the mob, and not have such a firm defense, but heavily participating in the hunting of infected people very much."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154676,
-            "TextJPN": "しかし、もし暴徒たちに追われながら駆け込むようなことになれば、園崎組は感染者を匿ったなどと言われ、騒ぎの火種となる。",
-            "TextENG": "But, if we rush towards there while being chased by a mob, the Sonozaki family would be said to be sheltering infected people, sparking an uproar."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154677,
-            "TextJPN": "徹底的な隠密を心掛ける他はないのだ。",
-            "TextENG": "I can't help but keep this in mind when we sneak by."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154678,
-            "TextJPN": "采は、外へ通じる玄関の扉の鍵を、ゆっくりと外す。",
-            "TextENG": "Une takes the key for the entrance door leading to the outside, and turns it slowly."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154679,
-            "TextJPN": "地上は鮫の泳ぐ大海も同然という興宮で、玄関の扉を開けるのはまるで、ライオンの檻に踏み入ろうとするかのような恐怖感を覚える……。",
-            "TextENG": "In Okinomiya it looks like there's an ocean on the ground swimming with sharks, that could encircle us even as we open the door. I remember this feeling of fear, as if I'm stepping into a lion's cage......"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154680,
-            "NamesJPN": "采",
-            "PreTextTags": "@vS25/50/NUNE_0220.",
-            "TextJPN": "「怖くない、……わけはないのです………」",
-            "NamesENG": "Une",
-            "TextENG": "``I'm not scared...... There isn't a reason.........``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154681,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS25/03/NMIO_1260.",
-            "TextJPN": "「先頭は私が。……失敗時には、計画通りに迅速な撤退を。その時はおじさんを助けようなんて思わないんだよ。いいね！」",
-            "NamesENG": "Mion",
-            "TextENG": "``I'll go first. ......If it fails, withdraw quickly as planned. But at that time, don't try and help this Old Man. Got it?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154682,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS25/01/NKEI_1140.",
-            "TextJPN": "「………それはお互い様だぜ。今度は俺が足を挫いても見捨てろよ」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``.........That goes for all of us. Don't bother helping me if I sprain my foot again.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154683,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS25/02/NREN_1070.",
-            "TextJPN": "「今度は本当にそうするから、慎重にね、圭一くん」",
-            "NamesENG": "Rena",
-            "TextENG": "``I hope that really doesn't happen this time. So be careful, Keiichi-kun.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154684,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS25/01/NKEI_1150.",
-            "TextJPN": "「おうっ」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Yeah.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154685,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS25/04/NSAT_0460.",
-            "TextJPN": "「動作確認ＯＫ。いざという時はお任せですわ」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Operation check is OK. Leave it to me in the case of an emergency.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154686,
-            "TextJPN": "沙都子が抱えているのは、どこぞの２階から拝借したラジコンカーだ。",
-            "TextENG": "Satoko stands holding a radio controlled car which she borrowed from the second floor of this building."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154687,
-            "TextJPN": "リモコン操作で一直線に走り、括り付けてある空き缶を引き摺るという仕掛けだ。",
-            "TextENG": "She runs in a straight line with the remote controller, tying a trail of empty cans to the device."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154688,
-            "TextJPN": "万一の際は囮に出来る。ただし、その音は、無用の関心を引いてしまう。",
-            "TextENG": "On the occasion of an emergency, we can use that as a decoy. However, the sound may attract unwanted attention."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154689,
-            "TextJPN": "事務所に辿り着く為の切り札ではなく、作戦失敗時に退却する為の隙を稼ぐ切り札だ。",
-            "TextENG": "So we shouldn't use this trump card to arrive at the office, but as a trump card earning us the chance to retreat if our strategy fails."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154690,
-            "TextJPN": "魅音は作戦の成功率を９５％と見積もる。しかしそれでも、失敗率を０％には出来ない。",
-            "TextENG": "Mion estimates the success rate of our operation to be at 95％. But still, we should aim for a failure rate of 0％."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154691,
-            "TextJPN": "あらゆる事態を想定し、備えることをポリシーとする魅音は、その万一に備え、沙都子のラジコン作戦にゴーサインを与えたのだ。",
-            "TextENG": "We assumed every possible situation, and Mion created a policy in preparation, so in the case of an emergency, she green lit the radio control operation which Satoko proposed."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154692,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS25/03/NMIO_1270.",
-            "TextJPN": "「出発するよ。……私とはある程度、距離を空けておくように」",
-            "NamesENG": "Mion",
-            "TextENG": "``Let's depart. ......And set aside some distance from one another.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154693,
-            "TextJPN": "慎重に扉を開け、辺りの静寂の気配を充分に感じ取ってから、……魅音はするりと外へ抜け出る。",
-            "TextENG": "The door is opened carefully, and after thoroughly taking in signs that the area is quiet...... Mion slips through the exit to the outside."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154694,
-            "TextJPN": "……雛見沢と違い、何もかもがコンクリートで覆われている興宮では、案外、わずかの物音でも残響する。",
-            "TextENG": "......Unlike Hinamizawa, everything in Okinomiya is covered in concrete, so unexpectedly, even the slightest sound will echo."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154695,
-            "TextJPN": "アスファルトの上で小さな小石を踏みつけると、それだけでかなり遠くまで音が聞こえてしまう。",
-            "TextENG": "So if I stamp a small pebble on the asphalt, I will hear that alone echo a considerable distance."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154696,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS25/03/NMIO_1280.",
-            "TextJPN": "「……こりゃあ、……裸足の方がまだマシかもね……」",
-            "NamesENG": "Mion",
-            "TextENG": "``......Damn it...... maybe it'll be better if I walk barefoot......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154697,
-            "TextJPN": "魅音は靴を脱ぐ。",
-            "TextENG": "Mion takes off her shoes."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154698,
-            "TextJPN": "硬いゴム底では、どんなに慎重に歩いても、小石とアスファルトを擦り付ける音が殺せないのだ。",
-            "TextENG": "No matter how careful you walk, the firm rubber soles cannot suppress the sound of rubbing pebbles and asphalt."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154699,
-            "TextJPN": "靴下越しとはいえ、都会っ子では表を裸足で歩くのは堪える。",
-            "TextENG": "Although she is wearing socks, but she will have to endure facing those city kids barefoot."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154700,
-            "TextJPN": "しかし、裸足で駆けっこや木登りが当り前な雛見沢っ子には、アスファルトを裸足で歩くなど、造作もないことだった。",
-            "TextENG": "However, kids climbing and racing up trees barefoot is pretty commonplace in Hinamizawa, so walking across the asphalt barefoot isn't any trouble at all."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154701,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS25/04/NSAT_0470.",
-            "TextJPN": "「元都会っ子の圭一さんが裸足が大丈夫か、見物ですわね？」",
-            "NamesENG": "Satoko",
-            "TextENG": "``We'll have to see if Keiichi, a former city kid, can handle being barefoot, won't we?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154702,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS25/01/NKEI_1160.",
-            "TextJPN": "「俺ももう、だいぶ鍛えられたぜ。馬鹿にするんじゃねぇぜ」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``I have already trained considerably. Don't be stupid.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154703,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS25/02/NREN_1080.",
-            "TextJPN": "「采ちゃんは裸足、大丈夫……？」",
-            "NamesENG": "Rena",
-            "TextENG": "``Une-chan, are you okay barefoot......?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154704,
-            "NamesJPN": "采",
-            "PreTextTags": "@vS25/50/NUNE_0230.",
-            "TextJPN": "「……痛い、です……」",
-            "NamesENG": "Une",
-            "TextENG": "``......It hurts......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154705,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS25/02/NREN_1090.",
-            "TextJPN": "「ごめんね。しばらくの間だけ辛抱してね……」",
-            "NamesENG": "Rena",
-            "TextENG": "``I'm sorry. You'll only have to bear it a little while......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154706,
-            "TextJPN": "魅音は、裏路地から首だけを覗かせ、無人の車列が並ぶ大河の様子を見る。",
-            "TextENG": "Mion peeps from the neck of a back alley, and looks at the state of the big river where the uninhabited convoys forms a line."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154707,
-            "TextJPN": "太い歩道は見通しが良過ぎる。一気に横断して、車列の中に飛び込む他はない。",
-            "TextENG": "That big sidewalk has also very good visibility. We may have to cross it all at once, and try our best to avoid the convoy."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154708,
-            "TextJPN": "自称自警団たちも、その見通しの良さから、ここが見張りに最適だと理解しているようだった。",
-            "TextENG": "The self-styled vigilance committee, from the merit of their outlook, seem to understand that's the best place to keep a lookout."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154709,
-            "TextJPN": "時折、懐中電灯のビームライトが歩道を一直線に照らすのがわかる。",
-            "TextENG": "Occasionally, they send beams of light in a straight line like a flashlight to light up the sidewalk."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154710,
-            "TextJPN": "……彼らは過剰に怯え、敵を求めている。",
-            "TextENG": "......They are excessively frightened, and are only asking for an enemy."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154711,
-            "TextJPN": "少しでも気配を気取られることがあれば、大騒ぎして、仲間を呼び寄せるだろう。",
-            "TextENG": "She could make a sign even just for a little while, but that could create a fuss, and then they would call their buddies over."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154712,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS25/03/NMIO_1290.",
-            "TextJPN": "「………いいねぇ。おじさんはこういうスリルを求めてたんだよ」",
-            "NamesENG": "Mion",
-            "TextENG": "``.........Good. I never knew this Old Man was looking for such a thrill.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154713,
-            "TextJPN": "魅音は鼻を伝い落ちる汗を、不敵に舐め取り笑う。",
-            "TextENG": "Sweat begins to run down Mion's nose, she smiles fearlessly and licks it up."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154714,
-            "TextJPN": "ハンドサインで、続く仲間たちに待機を指示してから、タイミングを計る。",
-            "TextENG": "By a hand signature, she orders a wait to her following friends, and measures the timing."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154715,
-            "TextJPN": "……自警団のライトは落ち着きがない。",
-            "TextENG": "......The light of the vigilance committee is restless."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154716,
-            "TextJPN": "ふらふらきょろきょろと、忙しなく動き回る。",
-            "TextENG": "Unsteady and restless, it searches in a hurry."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154717,
-            "TextJPN": "怯えにより、全ての物陰を照らさずにはいられないのだ。",
-            "TextENG": "Frightened, they cannot help but to illuminate all the shadows."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154718,
-            "TextJPN": "その落ち着きのなさは、隙だらけとも言える……。",
-            "TextENG": "Although this restlessness is full of chances......"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154719,
-            "TextJPN": "今だ………。",
-            "TextENG": "Now........."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154720,
-            "TextJPN": "猫のように素早く、しなやかに。魅音は歩道を駆け抜け、車列の狭間に飛び込む。",
-            "TextENG": "She moves quick as a cat, flexibly. Mion runs through the sidewalk, and dives between the convoy."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154721,
-            "TextJPN": "直前までの緊張感が嘘のように、あっさりと、あっという間の出来事だった。",
-            "TextENG": "A feeling of tension lies immediately before her, quickly, it was an instant event."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154722,
-            "TextJPN": "物陰からその様子をうかがっていた圭一たちも、ほうっと深い安堵の息を漏らす。",
-            "TextENG": "Keiichi, who watched the situation from the shadows, sighs a very deep breath of relief."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154723,
-            "TextJPN": "二番手の圭一も続こうとするが、魅音はまだだとサインを送る。",
-            "TextENG": "The second person is Keiichi ready to follow, but Mion has not yet sent the signal."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154724,
-            "TextJPN": "慎重に車列の河を越え、対岸の歩道の様子も確認したいようだった。",
-            "TextENG": "He carefully moves beyond the convoy at the river, seemingly wanting to confirm the state of the sidewalk on the opposite side of the bank."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154725,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS25/03/NMIO_1300.",
-            "TextJPN": "「……あちゃ……。参ったね……」",
-            "NamesENG": "Mion",
-            "TextENG": "``......Damn it...... We're in a pickle......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154726,
-            "TextJPN": "決行の直前に屋上から偵察した時には、こんな場所に人影はなかった。",
-            "TextENG": "When I spied from the roof just before carrying out our plan, there wasn't the shadow of any person in that spot."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154727,
-            "TextJPN": "いつの間にか対岸の歩道の向こうに、３人ほどの自警団の姿があった。",
-            "TextENG": "But before I even knew it, on the other side of the sidewalk on the opposite bank, there was the figures of about three vigilance committee members."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154728,
-            "TextJPN": "……こちらへ向かってくる。",
-            "TextENG": "......They're coming towards here."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154729,
-            "TextJPN": "大丈夫、バレてるわけじゃない。車列を適当に照らしながら歩いてるだけだ。",
-            "TextENG": "It's alright, they don't know about us. Then I only have to walk against the light of the convoy properly."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154730,
-            "TextJPN": "魅音は冷静に、車高の高いトラックを見つけると、その下に潜り込む……。",
-            "TextENG": "Mion acts calm, and finds a truck with a large vehicle height, she crawls under it......"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154731,
-            "TextJPN": "大丈夫大丈夫……。バレてるわけじゃない。",
-            "TextENG": "I'll be fine, I'll be fine...... They won't find me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154732,
-            "TextJPN": "仮に気付いてたら、あんなにも呑気に歩いてるものか……。",
-            "TextENG": "But if they do, I won't be able to walk it off......"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154733,
-            "TextJPN": "９９％大丈夫だとわかっていても、……絶対ではないことを意識してしまうと、脂汗が浮くのがわかる。",
-            "TextENG": "Even if I know I'll be 99％ okay...... my conscious won't let me, I can see even my greasy sweat fall off."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154734,
-            "TextJPN": "……情けないね、園崎魅音。おじさんが、隠れん坊ごときで冷や汗を垂らすなんてね……。",
-            "TextENG": "......Shame on you, Mion Sonozaki. Old Man would never drip a greasy sweat even when playing hide-and-seek......"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154735,
-            "NamesJPN": "暴徒",
-            "PreTextTags": "@vS25/00/NBOA_0030.",
-            "TextJPN": "「感染野郎を絶対に見逃すんじゃねぇぞ……」",
-            "NamesENG": "Mob",
-            "TextENG": "``Don't let that infected bastard get away with it......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154736,
-            "NamesJPN": "暴徒",
-            "PreTextTags": "@vS25/00/NBOB_0020.",
-            "TextJPN": "「連中は脳をやられてる。そして俺たちに噛み付いて、ウィルスを伝染させようとしてるんだ」",
-            "NamesENG": "Mob",
-            "TextENG": "``Those guys have had their brains stolen. So if they bite us, we'll then be carrying the virus.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154737,
-            "TextJPN": "脳をやられてるのはあんたたちの方でしょーが。魅音は苦笑いする。",
-            "TextENG": "Even though they have had their brains stolen. Mion smiles wryly."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154738,
-            "TextJPN": "しかし、彼らの足が、自分の潜んでいるトラックの前で止まると、その笑いは凍りつく。",
-            "TextENG": "However, their footsteps come to a hard frozen stop in front of her, and she stops smiling."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154739,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS25/01/NKEI_1170.",
-            "TextJPN": "「み、見つかったのか…？！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Ha-Has she been found...?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154740,
-            "NamesJPN": "采",
-            "PreTextTags": "@vS25/50/NUNE_0240.",
-            "TextJPN": "「……も、……もう駄目………、」",
-            "NamesENG": "Une",
-            "TextENG": "``......I knew it was useless.........``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154741,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS25/02/NREN_1100.",
-            "TextJPN": "「落ち付いて。……ちょっと雰囲気が違う」",
-            "NamesENG": "Rena",
-            "TextENG": "``Easy. ......The atmosphere's slightly different.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154742,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS25/04/NSAT_0480.",
-            "TextJPN": "「あいつら、荷台に？」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Are they on the loading platform?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154743,
-            "TextJPN": "自警団の男たちは、魅音の潜むトラックの荷台によじ登っていく。",
-            "TextENG": "The men of the vigilance committee climb into the back of the truck which Mion lurks under."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154744,
-            "TextJPN": "どうやら荷台の上にはパイプ椅子か何かが置かれているらしい。男たちはそれに腰掛けている。",
-            "TextENG": "They place something like a pipe chair on top of the loading platform. The men sit down on it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154745,
-            "TextJPN": "つまり、男たちは魅音の真上に陣取ったわけだ。即ち、魅音はまるで、虫ピンに刺された昆虫のような状態だ……。",
-            "TextENG": "In other words, those men have placed themselves right above Mion. That is, Mion is now in the state of an insect stabbed by a setting pin......"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154746,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS25/03/NMIO_1310.",
-            "TextJPN": "「ちょ……、マジ………？」",
-            "NamesENG": "Mion",
-            "TextENG": "``Is this...... for real.........?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154747,
-            "TextJPN": "魅音の額を脂汗が滴り落ちる。",
-            "TextENG": "A greasy sweat drips off Mion."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154748,
-            "TextJPN": "状況は圭一たちにも理解できた。魅音は、動くに動けなくなってしまう。",
-            "TextENG": "Keiichi is able to understand the situation. However Mion has become stuck and cannot move."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154749,
-            "TextJPN": "トラックの下から這い出る時の音を聞かれない保証はない。そればかりでなく、魅音には上の状況がまったく見えない。",
-            "TextENG": "There is no guarantee they will not hear the sound of her crawling out from under the truck. Not only that, but Mion will also not be able to see what's above her."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154750,
-            "TextJPN": "仮に音をさせずに抜け出られたとしても、その時に気紛れな彼らが向けていた視界に入らない保証もない。",
-            "TextENG": "And even if she were to escape without a sound, there is no guarantee she won't enter the whimsical view they are facing at that time."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154751,
-            "TextJPN": "……彼らが立ち去るまで、魅音は動くことが出来ないのだ……。",
-            "TextENG": "......Therefore until they leave, Mion can't move at all......"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154752,
-            "NamesJPN": "采",
-            "PreTextTags": "@vS25/50/NUNE_0250.",
-            "TextJPN": "「ど、どうすればいいのかわかる……、わけないのです……」",
-            "NamesENG": "Une",
-            "TextENG": "``I-I don't know what...... we should do......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154753,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS25/04/NSAT_0490.",
-            "TextJPN": "「いよいよ秘密兵器の出番ですの？！」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Maybe it's finally time for our secret weapon?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154754,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS25/01/NKEI_1180.",
-            "TextJPN": "「そいつは最後の手段だ。魅音は救えるが、大騒ぎになっちまう…！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``That's our last resort. It may be able to save Mion, but it will also make an uproar...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154755,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS25/02/NREN_1110.",
-            "TextJPN": "「でも準備はしておいて」",
-            "NamesENG": "Rena",
-            "TextENG": "``However, we have to be prepared.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154756,
-            "TextJPN": "沙都子は頷き、ラジコンカーを歩道にセットし、空き缶を括り付ける。",
-            "TextENG": "Satoko nods, and sets the radio controlled car on the sidewalk, with its attached empty cans."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154757,
-            "TextJPN": "こいつを走らせれば、その騒々しい音は必ず彼らの気を引く。",
-            "TextENG": "The little fellow is now ready to be sent off, able to create a noisy sound to draw their attention by all means."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154758,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS25/01/NKEI_1190.",
-            "TextJPN": "「何れにせよ、作戦は失敗だな。何とか魅音が脱出できる隙を作って、今回は出直した方がいい」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``In any case, current strategy already failed. We still have to create a chance for Mion to escape, we won't have another chance.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154759,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS25/02/NREN_1120.",
-            "TextJPN": "「……同感だね。今回はたまたまタイミングが悪かっただけ。出直そう」",
-            "NamesENG": "Rena",
-            "TextENG": "``......I agree. We won't have another chance if we mess up our timing. Let's go.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154760,
-            "TextJPN": "冷静な部活メンバーは、数々の部活の修羅場で、退くべき時を身に付けている。",
-            "TextENG": "We calm club members have shared many scenes of bloodshed in numerous club activities, but we know when we should retreat."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154761,
-            "TextJPN": "同じことは、当然、魅音も考えている。圭一たちが脱出のチャンスを作るだろう。その隙に抜け出すしかない。",
-            "TextENG": "Naturally, Mion is probably thinking the same thing. But Keiichi and we have to give her a chance to escape. There is no other choice but to get her out of there."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154762,
-            "TextJPN": "……しかし、それは今すぐではない。",
-            "TextENG": "......However, now is the right time."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154763,
-            "TextJPN": "上の彼らが、荷台から立ち去り、再びどこかへ行ってしまう可能性もあるのだ。",
-            "TextENG": "As those people above her may leave the loading platform, and go somewhere else."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154764,
-            "TextJPN": "撤退に成功しても、騒ぎを起こせば、再びの渡河作戦はより困難なものとなってしまうだろう。",
-            "TextENG": "But even if we succeed in retreating, an uproar will be lit, causing it to be more difficult for us if we want to try crossing again."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154765,
-            "TextJPN": "魅音は、心臓に虫ピンを打ち込まれたようなこの状況下であっても、冷静に勝利のチャンスを窺い続けている……。",
-            "TextENG": "And even if Mion is under a situation such as a setting pin on her heart, we have to continue to calmly pray for a chance at victory......"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154766,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS25/01/NKEI_1200.",
-            "TextJPN": "「采ちゃんを先に安全地帯に戻した方がいい」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``You had better return to the safety zone we were at earlier, Une-chan.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154767,
-            "TextJPN": "彼女は裸足に慣れていない。いざという時、全力疾走が難しい可能性がある。",
-            "TextENG": "She isn't used to being barefoot. So in the case of an emergency, the possibility of her sprinting will be difficult."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154768,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS25/02/NREN_1130.",
-            "TextJPN": "「圭一くん、采ちゃんを連れて退路を確保して。沙都子ちゃんは私の背後を守って」",
-            "NamesENG": "Rena",
-            "TextENG": "``Keiichi-kun, secure a path of retreat for Une-chan. Satoko-chan, watch my back.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154769,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS25/04/NSAT_0500.",
-            "TextJPN": "「お任せでしてよ。圭一さん、責任重大ですわよ！」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Leave it to me. Keiichi-san, I'm holding you responsible if anything happens to her!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154770,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS25/01/NKEI_1210.",
-            "TextJPN": "「わかってる。ここは任すぜっ。行こう、采ちゃん…！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Understood. Leave it to me. Let's go, Une-chan...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154771,
-            "NamesJPN": "采",
-            "PreTextTags": "@vS25/50/NUNE_0260.",
-            "TextJPN": "「は、……はいです……」",
-            "NamesENG": "Une",
-            "TextENG": "``......Y-Yes......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154772,
-            "TextJPN": "圭一は采を連れ、一度、離脱する。",
-            "TextENG": "Keiichi takes Une at once, and leaves."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154773,
-            "TextJPN": "……雛見沢で死線を潜ったつもりでいた。しかし、所詮は老人たちばかりの雛見沢。そして地の利は自分たちにもあった。",
-            "TextENG": "......I thought I was on the verge of death in Hinamizawa. However, Hinamizawa was just full of old people after all. And it had a geographical advantage."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154774,
-            "TextJPN": "しかし、ここはまるで勝手が違う、まさにアウェーなのだ。",
-            "TextENG": "However, I feel totally lost here, I don't even know what I'm doing."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154775,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS25/01/NKEI_1220.",
-            "TextJPN": "「こんなことなら、もっと興宮で遊んでれば良かったぜ……」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Such a thing, you should have played more in Okinomiya......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154776,
-            "NamesJPN": "采",
-            "PreTextTags": "@vS25/50/NUNE_0270.",
-            "TextJPN": "「はぁっ、はぁっ、はぁっ……、」",
-            "NamesENG": "Une",
-            "TextENG": "``*Pant-pant*, *pant-pant*, *pant-pant*......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154777,
-            "TextJPN": "采の息が荒い。",
-            "TextENG": "Une's breathing is rough."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154778,
-            "TextJPN": "無理もない。これだけの緊張の中にいるのだ。疲労だけでなく、恐怖感でも息が上がる。",
-            "TextENG": "It's understandable. She is under all this stress. Fatigue has also been building up, so her breathing has naturally raised in fear."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154779,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS25/01/NKEI_1230.",
-            "TextJPN": "「少し休んで呼吸を整えよう」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``We can take a rest here, that'll help your breathing.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154780,
-            "NamesJPN": "采",
-            "PreTextTags": "@vS25/50/NUNE_0280.",
-            "TextJPN": "「あ、……ありがとう……です……、はぁ……はぁ……、」",
-            "NamesENG": "Une",
-            "TextENG": "``Th-Thank you...... ......*Pant-pant*... ...*pant-pant*......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154781,
-            "TextJPN": "采の呼吸が静まったところで、圭一は五感を研ぎ澄まし、辺りの気配を探る。",
-            "TextENG": "They stop in place and Une's breathing begins to subside, while Keiichi sharpens his five senses, investigating the area for any signs."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154782,
-            "TextJPN": "……すぐにそれは感じられた。",
-            "TextENG": "......He senses something immediately."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154783,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS25/01/NKEI_1240.",
-            "TextJPN": "「まずいな、……誰か来る」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``This is bad...... someone's coming.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154784,
-            "NamesJPN": "采",
-            "PreTextTags": "@vS25/50/NUNE_0290.",
-            "TextJPN": "「えっ……」",
-            "NamesENG": "Une",
-            "TextENG": "``Eh......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154785,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS25/01/NKEI_1250.",
-            "TextJPN": "「足音は複数。自警団だな。…………………」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Multiple footsteps. It's the vigilance committee. .....................``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154786,
-            "TextJPN": "隠れる場所に乏しい。間違って見つかれば、魅音たちの退路も絶ってしまうことになる。危険は断じて冒せない。",
-            "TextENG": "There were few places to hide. If they were to be found by mistake, it would cut off the path of escape for Mion and the others. We can't take any chances."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154787,
-            "TextJPN": "他の道もない。彼らが他へ行ってくれることを祈って、戻らざるを得ない。",
-            "TextENG": "There is no other way. I can only pray and hope that they'll turn around and avoid my friends."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154788,
-            "TextJPN": "しかし、幹線道路が彼らの警戒線の動脈らしい。まっすぐレナたちの場所に向かう公算が高い。",
-            "TextENG": "However, the main road is likely the artery of their police cordon. So the likelihood they'll head straight towards Rena and the others is very high."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154789,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS25/01/NKEI_1260.",
-            "TextJPN": "「戻ろう。ここじゃ出くわせない」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Let's go back. They'll come across us if we stay here.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154790,
-            "NamesJPN": "采",
-            "PreTextTags": "@vS25/50/NUNE_0300.",
-            "TextJPN": "「ま、また戻る……、のですか……。は、挟み撃ち……」",
-            "NamesENG": "Une",
-            "TextENG": "``G-Go back...... ......Is it a p-pincer attack......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154791,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS25/01/NKEI_1270.",
-            "TextJPN": "「になるかもな。とにかく戻ろう…！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``I guess you could say that. Anyway, let's go back now...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154792,
-            "TextJPN": "圭一の予感は的中する。彼らは他の路地へ行く様子はなく、まっすぐに幹線道路を目指している。",
-            "TextENG": "Keiichi's premonition hit the mark. However, it seems they don't run into another alley, but aim straight for the main road."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154793,
-            "TextJPN": "歪んだ金属バットを担いだ大学生くらいの若者たちが、３人もいる。",
-            "TextENG": "I can see some youths about the age of university students carrying crooked metal bats, there's about four of them."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154794,
-            "TextJPN": "このままではレナたちは背後を突かれてしまう。",
-            "TextENG": "At this rate, Rena and the others will be caught off guard and attacked from behind."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154795,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS25/02/NREN_1140.",
-            "TextJPN": "「挟み撃ち？　それはまずいね……」",
-            "NamesENG": "Rena",
-            "TextENG": "``A pincer attack? This is bad......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154796,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS25/04/NSAT_0510.",
-            "TextJPN": "「面白いじゃございませんの。まさか、部活程度にはハラハラできるとは思いませんでしたのよ」",
-            "NamesENG": "Satoko",
-            "TextENG": "``This isn't funny at all. No way, I didn't think I'd ever feel this nervous in a club activity.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154797,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS25/01/NKEI_1280.",
-            "TextJPN": "「退路はない。としたら、どうする？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``We can't retreat either. What should we do?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154798,
-            "NamesJPN": "采",
-            "PreTextTags": "@vS25/50/NUNE_0310.",
-            "TextJPN": "「ま、まさか……、……なのですか……」",
-            "NamesENG": "Une",
-            "TextENG": "``N-No way...... ......What do we do......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154799,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS25/04/NSAT_0520.",
-            "TextJPN": "「後ろが駄目なら、前に進む他ありませんでしてよっ」",
-            "NamesENG": "Satoko",
-            "TextENG": "``It's useless to come at our backs, they really should have thought their plan through.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154800,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS25/02/NREN_1150.",
-            "TextJPN": "「……ラジコンのトラップを使い、敵の目を引きつけ、……その隙に前へ進むしかない」",
-            "NamesENG": "Rena",
-            "TextENG": "``......Use the radio controlled trap, that will attract the enemy's eyes...... we have no choice but to take our chances and move forward.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154801,
-            "TextJPN": "危険な作戦だ。この場だけはやり過ごせるだろう。",
-            "TextENG": "This is a dangerous strategy. I'm unsure if we'll even get past."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154802,
-            "TextJPN": "しかし、騒ぎになれば、眠っている自警団たちも一斉に起き出すだろう。",
-            "TextENG": "However, we have to take advantage of the commotion, as most of the vigilance committee will be asleep once we begin."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154803,
-            "TextJPN": "それが運悪く進行方向と鉢合わせになったら、文字通り袋のネズミだ。",
-            "TextENG": "Unfortunately, running in their direction, we could end up in a literal mouse trap."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154804,
-            "TextJPN": "ほんの２～３人なら、部活メンバー総掛かりでなら、何とか出来ないこともないだろう。",
-            "TextENG": "Just 2-3 people, that's all the club members we need, we can do this."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154805,
-            "TextJPN": "しかし、騒ぎになって大勢が駆けつけてきたら、所詮は子供の自分たちには抗いようがない。",
-            "TextENG": "However, a great number of people may rush us in such an uproar, and after all, I doubt they'll hesitate to fight against children."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154806,
-            "TextJPN": "だが、いくつもの不運が重なりつつも、勝率ゼロのゲームではない。",
-            "TextENG": "But, even though many misfortunes have happened at the same time, our winning percentage at this game isn't zero."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154807,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS25/02/NREN_1160.",
-            "TextJPN": "「沙都子ちゃん、トラップ、用意……」",
-            "NamesENG": "Rena",
-            "TextENG": "``Satoko-chan, ready the trap......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154808,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS25/04/NSAT_0530.",
-            "TextJPN": "「いつでもどうぞですわ」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Right.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154809,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS25/01/NKEI_1290.",
-            "TextJPN": "「歩道はＯＫだ。今なら渡れる…！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``The sidewalk is OK. It can cross now...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154810,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS25/02/NREN_1170.",
-            "TextJPN": "「行くよ！　沙都子ちゃん、やって！」",
-            "NamesENG": "Rena",
-            "TextENG": "``Go! Satoko-chan, do it!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154811,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS25/04/NSAT_0540.",
-            "TextJPN": "「お任せですわ！」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Leave everything to me!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154812,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS25/01/NKEI_1300.",
-            "TextJPN": "「行くぞ、采ちゃん…！　走るんだ！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Go, Une-chan...! Run!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154813,
-            "NamesJPN": "采",
-            "PreTextTags": "@vS25/50/NUNE_0320.",
-            "TextJPN": "「走らない……、わけはないのですっ」",
-            "NamesENG": "Une",
-            "TextENG": "``I will run...... There isn't any reason not to.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154814,
-            "TextJPN": "一同は一気に横断し、車列に飛び込む。",
-            "TextENG": "All the club members cross at once, and jump into the convoy."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154815,
-            "TextJPN": "しかし、その走り込む気配はトラック荷台の男たちに気取られてしまうのは防げない。",
-            "TextENG": "However, their trick should affect the men at the trucks loading bay, so they can run past them."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154816,
-            "TextJPN": "彼らが何事かと目を向けたその時、沙都子のラジコントラップが発動する。",
-            "TextENG": "At that time, everyone turns their attention, to the radio controlled trap Satoko put into operation."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154817,
-            "TextJPN": "括り付けられた空き缶を引き摺り、激しい金属音を立てながら歩道を疾走する。",
-            "TextENG": "It drags its trail of empty cans, and races at full speed on the sidewalk while making an intense metallic sound."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154818,
-            "NamesJPN": "暴徒",
-            "PreTextTags": "@vS25/00/NBOA_0040.",
-            "TextJPN": "「なッ、何だ？！　何の音だ？！」",
-            "NamesENG": "Mob",
-            "TextENG": "``What?! What is that sound?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154819,
-            "NamesJPN": "暴徒",
-            "PreTextTags": "@vS25/00/NBOB_0030.",
-            "TextJPN": "「逃げるぞッ、追え！！　感染野郎に違いねぇ！！」",
-            "NamesENG": "Mob",
-            "TextENG": "``Someone's escaping. After them!! It must be one of those infected bastards!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154820,
-            "TextJPN": "疑心暗鬼と恐怖を凶暴な攻撃性に変え、男たちはいきり立つ。",
-            "TextENG": "They change from fear and paranoia into a ferocious aggression, the men fly into a rage."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154821,
-            "TextJPN": "トラックの荷台から、車列の屋根やボンネットの上に飛び降り、ラジコンカーの騒音の方へ駆け出す。",
-            "TextENG": "From the truck's loading bay, they jump off its roof onto the bonnet of the convoy, and begin to run towards the noise of the radio controlled car."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154822,
-            "TextJPN": "深夜の静寂は破られ、あちこちから怒鳴り声やホイッスルの音が聞こえてくる。街の狂気は完全に目を覚ましてしまった。",
-            "TextENG": "The late-night silence has been broken, as the sound of whistling and yelling from many places can be heard. This town of madness is now completely awake."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154823,
-            "TextJPN": "だが、トラックの下に釘付けにされていた魅音は解放される。",
-            "TextENG": "But, Mion who was nailed under the truck, is now free."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154824,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS25/03/NMIO_1320.",
-            "TextJPN": "「何やってんの！　まだちょっと早いでしょ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``What were you thinking! That was too early!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154825,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS25/01/NKEI_1310.",
-            "TextJPN": "「挟み撃ちだったんだ！　仕掛けないわけにはいかなかった！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``They were performing a pincer attack! We had to use the device!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154826,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS25/04/NSAT_0550.",
-            "TextJPN": "「采さん、根性をお見せくださいまし！」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Une-san, please show them your spirit!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154827,
-            "NamesJPN": "采",
-            "PreTextTags": "@vS25/50/NUNE_0330.",
-            "TextJPN": "「はぁッ、はあッ、はあッ…！！」",
-            "NamesENG": "Une",
-            "TextENG": "``*Pant-pant*, *pant-pant*, *pant-pant*...!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154828,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS25/02/NREN_1180.",
-            "TextJPN": "「やっぱり後ろには戻れない！　次々にやってくる！」",
-            "NamesENG": "Rena",
-            "TextENG": "``After all, we can't go back! They're coming one after another!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154829,
-            "TextJPN": "ついさっきまで一同が潜んでいた路地からは、次々に目を血走らせた暴徒たちが駆け出してくる。",
-            "TextENG": "From the alley where everyone lay hidden in until just a few moments ago, mobs who have let their eyes become bloodshot chase out one after another."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154830,
-            "TextJPN": "きっと、近くに彼らが詰める建物か何かがあったのだろう。",
-            "TextENG": "Surely, there must be a building where we can pack them in close."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154831,
-            "TextJPN": "やはり進まず、安全地帯に戻るという道は絶たれている。進む他はない。",
-            "TextENG": "After all, we can't advance, as the path to return to the safety zone has been cut off. So we can't help, but to advance."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154832,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS25/03/NMIO_1330.",
-            "TextJPN": "「進むしかないなら進むよ！　もう大して距離はないんだ」",
-            "NamesENG": "Mion",
-            "TextENG": "``We don't have any choice but to move forward! Let's keep a distance.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154833,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS25/01/NKEI_1320.",
-            "TextJPN": "「園崎組の人たちが、魅音の顔を忘れてないことを祈るぜっ」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``People of the Sonozaki family, pray that they do not forget Mion's face.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154834,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS25/03/NMIO_1340.",
-            "TextJPN": "「はっははは、圭ちゃん、面白いことを言うねー！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Ahh ha ha ha, Kei-chan, you say the most funny things!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154835,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS25/02/NREN_1190.",
-            "TextJPN": "「油断しない！　園崎組の事務所の中に入るまで気を抜いちゃ駄目だよ！」",
-            "NamesENG": "Rena",
-            "TextENG": "``Let's not get careless! We musn't relax until we enter the the Sonozaki family office!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154836,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS25/04/NSAT_0560.",
-            "TextJPN": "「同感ですわね。詩音さんに、お姉なんか知りません、アッカンベーって言われる可能性が残ってましてよ」",
-            "NamesENG": "Satoko",
-            "TextENG": "``I agree. I don't know about your sister Shion-san, but she's likely to give us an akanbee if something happens.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154837,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS25/01/NKEI_1330.",
-            "TextJPN": "「そうだ。それより魅音、ヘソ踊りの約束、忘れるなよ？　采ちゃんが梯子を下ろしてくれる時にしたぞ！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``You're right about that. And Mion, you promised to navel dance, remember? It was when Une-chan lowered that ladder!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154838,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS25/03/NMIO_1350.",
-            "TextJPN": "「イッヒッヒ、おじさん、そんな約束したっけぇ？」",
-            "NamesENG": "Mion",
-            "TextENG": "``Eek, did Old Man make such a promise?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154839,
-            "NamesJPN": "采",
-            "PreTextTags": "@vS25/50/NUNE_0340.",
-            "TextJPN": "「はぁッ、はぁッ、はぁ…！！」",
-            "NamesENG": "Une",
-            "TextENG": "``*Pant-pant*, *pant-pant*, *pant-pant*...!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154840,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS25/02/NREN_1200.",
-            "TextJPN": "「采ちゃん、しっかり！　もう一息だって！」",
-            "NamesENG": "Rena",
-            "TextENG": "``Une-chan, be strong! Just take another breath!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154841,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS25/03/NMIO_1360.",
-            "TextJPN": "「そこを曲がってすぐだよ！@k@|@y@vS25/03/NMIO_1361.　……え？！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Turn right up ahead!@k@|@y@vS25/03/NMIO_1361. .........Eh?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154842,
-            "TextJPN": "魅音は完全に気を許していたと思う。",
-            "TextENG": "Mion has been caught completely off guard."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154843,
-            "TextJPN": "ラストスパートして、ゴールのテープを千切るだけ。そう思っていたはずだ。",
-            "TextENG": "Last spurt, and the tape of their goal has been torn off. They should have thought this through."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154844,
-            "TextJPN": "だが、ゴールのテープは、とても千切れるようなシロモノではなかった。",
-            "TextENG": "But, their goal tape was already broken off in the first place."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154845,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS25/03/NMIO_1370.",
-            "TextJPN": "「あれぇええ？！　ど、どういうことォ？！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Whaaaaaat?! H-How did this happen?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154846,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS25/01/NKEI_1340.",
-            "TextJPN": "「な、何だよこれ？！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Wh-What is this?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154847,
-            "TextJPN": "有刺鉄線付きの金網のようなもので路地が封鎖されているのだ。",
-            "TextENG": "The alley is blocked with something like wire netting and barbed wire."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154848,
-            "TextJPN": "園崎組の人間が、事務所前の安全を確保する為にやったのか、暴徒たちが感染者を通さない為にやったのか、どちらかはわからない。",
-            "TextENG": "I don't know if the Sonozaki group did it to ensure the safety of the front of the office, or if the mob did it to keep the infected from getting through."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154849,
-            "TextJPN": "しかし、現にこうして、事務所を目前にして、この路地は封鎖されているのだ。",
-            "TextENG": "But this is how it is now, this alley is blocked off right in front of the office."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154850,
-            "TextJPN": "このバリケードが事前にわかっていれば、作戦計画は大きく違っただろう。",
-            "TextENG": "So if we knew this barricade was here beforehand, our operation plans would have been greatly different."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154851,
-            "TextJPN": "不幸としか言い様がない。魅音がオペラグラスで偵察した角度からは、この位置だけが綺麗に死角になるのだ。",
-            "TextENG": "This has greatly added to our misfortune. As from the angle Mion spied upon with the opera glasses, this position was in a clear blind spot."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154852,
-            "TextJPN": "そのわずかの死角に、不幸にもバリケードを築かれるという二重の不幸！",
-            "TextENG": "And in that blind spot, unfortunately layed a barricade, giving us double misfortune!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154853,
-            "TextJPN": "有刺鉄線に身を傷つけられる覚悟があるなら、乗り越えられないこともない。",
-            "TextENG": "Although, I am ready to hurt myself and climb over the barbed wire."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154854,
-            "TextJPN": "しかしそれを、部活メンバーの覚悟のない采にまでは強いられない。",
-            "TextENG": "However, I doubt the rest of the club members or Une could ready themselves for such a thing."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154855,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS25/02/NREN_1210.",
-            "TextJPN": "「迂回路は？！」",
-            "NamesENG": "Rena",
-            "TextENG": "``Is there an alternative route?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154856,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS25/03/NMIO_1380.",
-            "TextJPN": "「あッあッ、あるよッ、ぐるっと向こうの路地から回り込めば……！！」",
-            "NamesENG": "Mion",
-            "TextENG": "``G-G-Give me a second, we can go around from the other side of the alley......!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154857,
-            "TextJPN": "その時、一同を眩しいビームライトが照らし出す。",
-            "TextENG": "At that time, a dazzling beam of light illuminates everyone."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154858,
-            "NamesJPN": "暴徒",
-            "PreTextTags": "@vS25/00/NBOA_0050.",
-            "TextJPN": "「誰だお前らッ！！」",
-            "NamesENG": "Mob",
-            "TextENG": "``Who the hell are these guys!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154859,
-            "NamesJPN": "暴徒",
-            "PreTextTags": "@vS25/00/NBOB_0040.",
-            "TextJPN": "「ひゃっははははは！　居たぞッ、感染野郎どもだッ！！」",
-            "NamesENG": "Mob",
-            "TextENG": "``Ahahahaha! They must be residents, infected bastards!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154860,
-            "TextJPN": "全員の血が凍りつく。万事休す。",
-            "TextENG": "Everyone's blood has frozen. Over every inch of their bodies."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154861,
-            "TextJPN": "ついに恐怖に耐え切れなくなり、采は絹を裂くような悲鳴をあげる……。",
-            "TextENG": "Finally, no longer able to endure the fear, Une tears out a silky scream......"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154862,
-            "TextJPN": "打てる手などない。向こうは体格でも凶暴性でも、その上、人数でも勝る。",
-            "TextENG": "There is no way they can win. The other side is ferocious in physique, and superior in numbers."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154863,
-            "TextJPN": "暴徒たちは次々に群がり、……バリケードの袋小路に追い詰められた一行を、取り囲む……。",
-            "TextENG": "The mobs flocks one after another...... forming a line and corning them into a dead-end of barricades, surrounding them......"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154864,
-            "TextJPN": "その時、乾いた破裂音が数度、繰り返された。",
-            "TextENG": "Then, a dry plosive sound is heard several times, it repeats."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154865,
-            "TextJPN": "魅音はすぐに伏せてと叫んで仲間たちの頭を地面に押し付ける。",
-            "TextENG": "Mion, with her head pressed against the ground, screams to her friends immediately."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154866,
-            "TextJPN": "銃声を聞き慣れない暴徒たちはきょとんとしている。",
-            "TextENG": "The mobs, who are unfamiliar with gunshots, become speechless."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154867,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS25/08/NTOM_0380.",
-            "TextJPN": "「諸君、それまでだ！　法に基づかない私刑は、如何なる状況下でも認められないぞ！！」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Gentlemen, back off! Lynching anyone not based on law is not acceptable in any situation!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154868,
-            "TextJPN": "富竹が、入江機関の保安室から持ち出したサブマシンガンを空に向けて撃った音だった。",
-            "TextENG": "Tomitake used a sub-machine gun taken from the security room of the Irie Clinic, that was the sound which shot into the sky."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154869,
-            "TextJPN": "暴徒たちはそれをモデルガンか何かだとでも思っているのか、怯む様子もなく、狩りの邪魔をした富竹を睨み付ける。",
-            "TextENG": "But, the mob think it is only a model gun, trying not to falter in this situation, and scowl at Tomitake who disturbed their hunting."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154870,
-            "TextJPN": "医療機関が麻痺している今の興宮では、例え足を撃とうともそれは致命傷になり得る。",
-            "TextENG": "At present, all medical institutions in Okinomiya are paralysed, so if you are shot in the foot, it will become a fatal injury."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154871,
-            "TextJPN": "撃ちたくない富竹は、怯まない暴徒たちにごくりと唾を飲み込む……。",
-            "TextENG": "But Tomitake doesn't want to shoot, and swallows his saliva in front of the flinching mob......"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154872,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS25/08/NTOM_0390.",
-            "TextJPN": "「撃ちたくないんだよ、諸君…！」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``I don't want to shoot, gentlemen...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154873,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS25/05/NRIK_0670.",
-            "TextJPN": "「ここはボクに任せるのですよ。……羽入！」",
-            "NamesENG": "Rika",
-            "TextENG": "``Leave it to me. ......Hanyuu!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154874,
-            "NamesJPN": "羽入",
-            "PreTextTags": "@vS25/12/NHAN_0430.",
-            "TextJPN": "「我が同胞よ……、心を鎮めるのです……。我こそはオヤシロさま、そなたたちの長なり…！」",
-            "NamesENG": "Hanyuu",
-            "TextENG": "``My brethren...... calm your minds...... I am Oyashiro-sama, leader of thee...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154875,
-            "TextJPN": "羽入の厳かな言葉が、人ならざる者たちだけの耳に響き渡る。",
-            "TextENG": "The solemn words of Hanyuu echo through the ears of the non-humans."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154876,
-            "TextJPN": "暴徒たちは、ぽかんと口を開け、寝ぼけ眼でぼんやりと立ち尽くしている。",
-            "TextENG": "The mob blankly open their mouths, and vaguely stand with sleepy eyes."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154877,
-            "TextJPN": "やがて、地べたにぺたりと座り込み、皆、ぼんやりと呆けていた。",
-            "TextENG": "Before long, they begin to sit on the ground, as all of them become mentally slow."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154878,
-            "TextJPN": "鷹野によって凶暴に改造されたとはいえ、羽入の同胞。その力ある言葉からは逃れられないのだ。",
-            "TextENG": "That said, they only became ferocious after restructuring by Takano, the brethren of Hanyuu. They cannot escape from the power in her words."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154879,
-            "TextJPN": "魅音たちは目を白黒させるが、九死に一生を得たことは理解する。",
-            "TextENG": "Mion rolls her eyes in bewilderment, understanding that they have narrowly escaped death."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154880,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS25/05/NRIK_0680.",
-            "TextJPN": "「みんな、今の内に……！」",
-            "NamesENG": "Rika",
-            "TextENG": "``Everyone, now......!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154881,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS25/03/NMIO_1390.",
-            "TextJPN": "「な、何これ…？　どういうこと？！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Wh-What is this...? What did you do?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154882,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS25/05/NRIK_0690.",
-            "TextJPN": "「オヤシロパワーなのですよ、にぱ～☆」",
-            "NamesENG": "Rika",
-            "TextENG": "``It's Oyashiro power, nipah-☆.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154883,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS25/02/NREN_1220.",
-            "TextJPN": "「助けてくれてありがとう、梨花ちゃん！　富竹さん！」",
-            "NamesENG": "Rena",
-            "TextENG": "``Thank you for your help, Rika-chan! Tomitake-san!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154884,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS25/08/NTOM_0400.",
-            "TextJPN": "「騒ぎが聞こえてね。駆けつけて正解だったよ。君たちはこんなところで何を？」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``We heard the uproar. I'm glad we got here in time. What are you doing in a place like this anyway?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154885,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS25/04/NSAT_0570.",
-            "TextJPN": "「このすぐ向こうが、魅音さんの園崎組の事務所なんですのよ」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Directly on the other side is Sonozaki Mion-san's family office.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154886,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS25/01/NKEI_1350.",
-            "TextJPN": "「このバリケードがあるとは気付かなくて、袋のネズミにってわけです」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``We didn't notice there was a barricade here, we were like mice hitting a dead end.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154887,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS25/06/NSHI_0000.",
-            "TextJPN": "「なっさけない。お姉がいながら、危機一髪ってわけですか？」",
-            "NamesENG": "???",
-            "TextENG": "``Pitiable. Even though you are my sis, are you actually in such a critical moment?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154888,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS25/03/NMIO_1400.",
-            "TextJPN": "「詩音！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Shion!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154889,
-            "TextJPN": "バリケードの向こうには、詩音と葛西、そして数人の黒服たちがいた。",
-            "TextENG": "On the other side of the barricade Shion and Kasai appear with several people in black clothes."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154890,
-            "TextJPN": "皆、銃を手にしてはいるが、暴徒たちのような凶暴な表情は浮かべていない。",
-            "TextENG": "Everyone of them, with a gun in their hand, display a ferocious expression towards the mob."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154891,
-            "TextJPN": "やはり、園崎組は冷静を保ち、籠城に務めていたのだ。",
-            "TextENG": "After all, the Sonozaki family have kept their calm, and survived the siege."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154892,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS25/06/NSHI_0010.",
-            "TextJPN": "「勘弁して下さいよね。イカレた連中と関わり合いになりたくないんですから」",
-            "NamesENG": "Shion",
-            "TextENG": "``Please forgive them. They didn't mean to become involved with those crazy people.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154893,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS25/02/NREN_1230.",
-            "TextJPN": "「ごめんね、騒がしくしちゃって」",
-            "NamesENG": "Rena",
-            "TextENG": "``We're sorry, we had to make such noise.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154894,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS25/04/NSAT_0580.",
-            "TextJPN": "「詩音さんも無事なら、もう何も怖いことはありませんでしてよ」",
-            "NamesENG": "Satoko",
-            "TextENG": "``If Shion-san's also safe, then there's nothing else to be afraid of anymore.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154895,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS25/06/NSHI_0020.",
-            "TextJPN": "「そういうことです。私１人で、お姉の１０人分くらいは頼もしいですからね。葛西、開けてあげて」",
-            "NamesENG": "Shion",
-            "TextENG": "``You're right about that. And even if there's only one of me, that's more reliable than ten servings of you, Sis. Kasai, you can open up now.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154896,
-            "NamesJPN": "葛西",
-            "PreTextTags": "@vS25/15/NKAS_0000.",
-            "TextJPN": "「皆さん、どうぞ」",
-            "NamesENG": "Kasai",
-            "TextENG": "``Everyone, please come inside.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154897,
-            "TextJPN": "葛西がバリケードの扉に厳重に閉められた鎖の南京錠を外す。",
-            "TextENG": "Kasai removes the padlock and chain off the severely locked and barricaded door."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154898,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS25/06/NSHI_0030.",
-            "TextJPN": "「しかし、一体、何がどうしたってんです？　あいつらに何を？」",
-            "NamesENG": "Shion",
-            "TextENG": "``However, what on earth was that? Who were those people?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154899,
-            "NamesJPN": "采",
-            "PreTextTags": "@vS25/50/NUNE_0350.",
-            "TextJPN": "「一体、……何が……」",
-            "NamesENG": "Une",
-            "TextENG": "``On earth...... what......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154900,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS25/05/NRIK_0700.",
-            "TextJPN": "「気にしなくていいのです。そっとしておけば、その内にどっかに行っちゃうのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``You don't need to worry about that. We'll be going inside now.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154901,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS25/08/NTOM_0410.",
-            "TextJPN": "「まぁまぁ！　オヤシロさまの奇跡の力ってことで、ここはありがたくこのチャンスをいただこうじゃないか、はっはっは」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Well, well! Saved by Oyashiro-sama's miraculous power, let's take the chance here and be grateful, ha ha ha.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154902,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS25/01/NKEI_1360.",
-            "TextJPN": "「さぁ、采ちゃん、もう安心だぜ！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Now, Une-chan, you can feel relieved!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154903,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS25/04/NSAT_0590.",
-            "TextJPN": "「詩音さんまで居てくれたら、もう何の心配もございませんでしてよ！」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Shion-san's with us now, so there's no need to worry anymore!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154904,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS25/06/NSHI_0040.",
-            "TextJPN": "「そういうことです。さっすが沙都子はわかってますね。……ところで、その子は？」",
-            "NamesENG": "Shion",
-            "TextENG": "``Yeah, you're with me now. I sympathize with you, and Satoko knows it. ......By the way, who is this child?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154905,
-            "NamesJPN": "采",
-            "PreTextTags": "@vS25/50/NUNE_0360.",
-            "TextJPN": "「………ど、どうも……、です……」",
-            "NamesENG": "Une",
-            "TextENG": "``.........Th-Thank you...... ......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154906,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS25/01/NKEI_1370.",
-            "TextJPN": "「彼女は采ちゃん。俺たちの命の恩人だぜ！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``She's Une-chan. The one who saved our lives!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154907,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS25/05/NRIK_0710.",
-            "TextJPN": "「……どうしたの、羽入？」",
-            "NamesENG": "Rika",
-            "TextENG": "``......What's the matter, Hanyuu?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154908,
-            "NamesJPN": "羽入",
-            "PreTextTags": "@vS25/12/NHAN_0440.",
-            "TextJPN": "「……………………」",
-            "NamesENG": "Hanyuu",
-            "TextENG": "``........................``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154909,
-            "NamesJPN": "采",
-            "PreTextTags": "@vS25/50/NUNE_0370.",
-            "TextJPN": "「…………………」",
-            "NamesENG": "Une",
-            "TextENG": "``.....................``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154910,
-            "NamesJPN": "羽入",
-            "PreTextTags": "@vS25/12/NHAN_0450.",
-            "TextJPN": "「……そなたは……………」",
-            "NamesENG": "Hanyuu",
-            "TextENG": "``......You...............``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154911,
-            "TextJPN": "一同はバリケードを潜り、園崎組事務所に迎え入れられる。",
-            "TextENG": "Everyone crosses the barricade, and are welcomed into the Sonozaki family office."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154912,
-            "TextJPN": "その光景が、……双眼鏡で彼方より観察されていた……。",
-            "TextENG": "While their scene...... is being observed by binoculars from a distance......"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 154913,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS25/09/NTAK_0180.",
-            "TextJPN": "「…………くすくすくす。……見つけたわ。……あの子、ね………」",
-            "NamesENG": "Takano",
-            "TextENG": "``............Heh heh heh. ......I've found her...... that child.........``"
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "#5",
+		"ENG": "#5"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154652,
+		"TextJPN": "………それでも、いつの間にか寝入ってしまっていたに違いない。",
+		"TextENG": ".........Still, I fell asleep all too soon."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154653,
+		"TextJPN": "圭一は、魅音に小突かれ、目を覚ます……。",
+		"TextENG": "Keiichi is pushed by Mion, and wakes up......"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154654,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS25/03/NMIO_1230.",
+		"TextJPN": "「そろそろ起きなよ」",
+		"NamesENG": "Mion",
+		"TextENG": "``Get up.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154655,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS25/01/NKEI_1120.",
+		"TextJPN": "「ん……、…あ、あぁ……。目覚ましもないのに、よく正確に起きられるもんだな……」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``......R-Right...... I don't know how you get up so accurately without an alarm......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154656,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS25/02/NREN_1050.",
+		"TextJPN": "「魅ぃちゃん、寝てなかったんだって」",
+		"NamesENG": "Rena",
+		"TextENG": "``Mii-chan can't seem to lie down.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154657,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS25/04/NSAT_0430.",
+		"TextJPN": "「一番グースカ寝てたのは圭一さんですわね。まったく、大した図太さですわ」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Keiichi was the one who slept the longest, wasn't he? That was truly very bold of you.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154658,
+		"NamesJPN": "采",
+		"PreTextTags": "@vS25/50/NUNE_0200.",
+		"TextJPN": "「………真っ暗……、という感じはしないのです」",
+		"NamesENG": "Une",
+		"TextENG": "``.........It's pitch black outside...... It doesn't feel like it.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154659,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS25/04/NSAT_0440.",
+		"TextJPN": "「そうですわね。案外、月明かりって明るいものですわ」",
+		"NamesENG": "Satoko",
+		"TextENG": "``You're right. Although unexpectedly, the moonlight is also bright.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154660,
+		"TextJPN": "本当に月明かりだったなら、少しはロマンチックだったかもしれない。",
+		"TextENG": "If that really is moonlight, it could be slightly romantic."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154661,
+		"TextJPN": "信号や点きっぱなしの電飾などは、眠ることなく街を照らし続けている。",
+		"TextENG": "We see decorative illuminations and traffic lights in the distance, continuing against a city without sleep."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154662,
+		"TextJPN": "雛見沢と違い、興宮の夜は、漆黒の闇にはならないのだ。",
+		"TextENG": "Unlike Hinamizawa, Okinomiya at night doesn't become enveloped in a jet black darkness."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154663,
+		"TextJPN": "それを幸いと見るか、隠密に不利と考えるかはわからない。",
+		"TextENG": "Although, we don't know if we should look at this fortunately or not, it could be disadvantageous to our covert actions."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154664,
+		"TextJPN": "無人の車が列を為す幹線道路の大河には、時折、懐中電灯の明かりがちらつく。",
+		"TextENG": "On the main road crossing the big river, unmanned cars have formed a column, occasionally flickering their lights like a flashlight."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154665,
+		"TextJPN": "予想通り、不寝番を立てているようだ。",
+		"TextENG": "As expected, this must have been put up by the night watchman."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154666,
+		"TextJPN": "しかしそれでも、日中よりははるかに薄い警戒だ。",
+		"TextENG": "However, this is still much safer than during daytime."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154667,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS25/03/NMIO_1240.",
+		"TextJPN": "「……ＯＫ。行けるね……」",
+		"NamesENG": "Mion",
+		"TextENG": "``......OK. We can go......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154668,
+		"NamesJPN": "采",
+		"PreTextTags": "@vS25/50/NUNE_0210.",
+		"TextJPN": "「……大丈夫、……なわけ、……ありますよね……？」",
+		"NamesENG": "Une",
+		"TextENG": "``......For sure...... ......it's not okay outside, right......?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154669,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS25/04/NSAT_0450.",
+		"TextJPN": "「私たちにお任せですわ。怖いことなどありませんもの。あっさりと渡り切りましてよ」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Leave that to us. Don't be scared. We'll pass by them easily.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154670,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS25/01/NKEI_1130.",
+		"TextJPN": "「例の秘密兵器もあるしな」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``And we have a secret weapon.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154671,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS25/02/NREN_1060.",
+		"TextJPN": "「何とか、静かに行きたいね。賑やかな状態で駆け込めば、事務所の人たちにも迷惑を掛けちゃう」",
+		"NamesENG": "Rena",
+		"TextENG": "``Somehow, we need to pass by them quietly. We shouldn't energetically rush, that would cause trouble for everyone in the office.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154672,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS25/03/NMIO_1250.",
+		"TextJPN": "「確かに、ね」",
+		"NamesENG": "Mion",
+		"TextENG": "``Certainly, you're right.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154673,
+		"TextJPN": "偵察の様子からは、園崎組事務所は外部とは一切の交流を絶っているように見えた。",
+		"TextENG": "From its appearance during reconnaissance, the Sonozaki family office seems to have broken off all exchanges with the outside."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154674,
+		"TextJPN": "バリケードでしっかりと守りを固め、暴徒たちとは交流している様子がない。",
+		"TextENG": "They've also strengthened their defenses with barricades very well, it doesn't seem they've had any exchanges with the mobs."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154675,
+		"TextJPN": "もし、彼らが暴徒たちと同じに心を鬼に明け渡していたなら、守りなど固めず、感染者狩りに大いに参加していたに違いない。",
+		"TextENG": "However, if they did surrender their hearts to the demon, they would be the same as the mob, and not have such a firm defense, but heavily participating in the hunting of infected people very much."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154676,
+		"TextJPN": "しかし、もし暴徒たちに追われながら駆け込むようなことになれば、園崎組は感染者を匿ったなどと言われ、騒ぎの火種となる。",
+		"TextENG": "But, if we rush towards there while being chased by a mob, the Sonozaki family would be said to be sheltering infected people, sparking an uproar."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154677,
+		"TextJPN": "徹底的な隠密を心掛ける他はないのだ。",
+		"TextENG": "I can't help but keep this in mind when we sneak by."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154678,
+		"TextJPN": "采は、外へ通じる玄関の扉の鍵を、ゆっくりと外す。",
+		"TextENG": "Une takes the key for the entrance door leading to the outside, and turns it slowly."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154679,
+		"TextJPN": "地上は鮫の泳ぐ大海も同然という興宮で、玄関の扉を開けるのはまるで、ライオンの檻に踏み入ろうとするかのような恐怖感を覚える……。",
+		"TextENG": "In Okinomiya it looks like there's an ocean on the ground swimming with sharks, that could encircle us even as we open the door. I remember this feeling of fear, as if I'm stepping into a lion's cage......"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154680,
+		"NamesJPN": "采",
+		"PreTextTags": "@vS25/50/NUNE_0220.",
+		"TextJPN": "「怖くない、……わけはないのです………」",
+		"NamesENG": "Une",
+		"TextENG": "``I'm not scared...... There isn't a reason.........``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154681,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS25/03/NMIO_1260.",
+		"TextJPN": "「先頭は私が。……失敗時には、計画通りに迅速な撤退を。その時はおじさんを助けようなんて思わないんだよ。いいね！」",
+		"NamesENG": "Mion",
+		"TextENG": "``I'll go first. ......If it fails, withdraw quickly as planned. But at that time, don't try and help this Old Man. Got it?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154682,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS25/01/NKEI_1140.",
+		"TextJPN": "「………それはお互い様だぜ。今度は俺が足を挫いても見捨てろよ」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``.........That goes for all of us. Don't bother helping me if I sprain my foot again.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154683,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS25/02/NREN_1070.",
+		"TextJPN": "「今度は本当にそうするから、慎重にね、圭一くん」",
+		"NamesENG": "Rena",
+		"TextENG": "``I hope that really doesn't happen this time. So be careful, Keiichi-kun.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154684,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS25/01/NKEI_1150.",
+		"TextJPN": "「おうっ」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Yeah.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154685,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS25/04/NSAT_0460.",
+		"TextJPN": "「動作確認ＯＫ。いざという時はお任せですわ」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Operation check is OK. Leave it to me in the case of an emergency.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154686,
+		"TextJPN": "沙都子が抱えているのは、どこぞの２階から拝借したラジコンカーだ。",
+		"TextENG": "Satoko stands holding a radio controlled car which she borrowed from the second floor of this building."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154687,
+		"TextJPN": "リモコン操作で一直線に走り、括り付けてある空き缶を引き摺るという仕掛けだ。",
+		"TextENG": "She runs in a straight line with the remote controller, tying a trail of empty cans to the device."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154688,
+		"TextJPN": "万一の際は囮に出来る。ただし、その音は、無用の関心を引いてしまう。",
+		"TextENG": "On the occasion of an emergency, we can use that as a decoy. However, the sound may attract unwanted attention."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154689,
+		"TextJPN": "事務所に辿り着く為の切り札ではなく、作戦失敗時に退却する為の隙を稼ぐ切り札だ。",
+		"TextENG": "So we shouldn't use this trump card to arrive at the office, but as a trump card earning us the chance to retreat if our strategy fails."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154690,
+		"TextJPN": "魅音は作戦の成功率を９５％と見積もる。しかしそれでも、失敗率を０％には出来ない。",
+		"TextENG": "Mion estimates the success rate of our operation to be at 95％. But still, we should aim for a failure rate of 0％."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154691,
+		"TextJPN": "あらゆる事態を想定し、備えることをポリシーとする魅音は、その万一に備え、沙都子のラジコン作戦にゴーサインを与えたのだ。",
+		"TextENG": "We assumed every possible situation, and Mion created a policy in preparation, so in the case of an emergency, she green lit the radio control operation which Satoko proposed."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154692,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS25/03/NMIO_1270.",
+		"TextJPN": "「出発するよ。……私とはある程度、距離を空けておくように」",
+		"NamesENG": "Mion",
+		"TextENG": "``Let's depart. ......And set aside some distance from one another.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154693,
+		"TextJPN": "慎重に扉を開け、辺りの静寂の気配を充分に感じ取ってから、……魅音はするりと外へ抜け出る。",
+		"TextENG": "The door is opened carefully, and after thoroughly taking in signs that the area is quiet...... Mion slips through the exit to the outside."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154694,
+		"TextJPN": "……雛見沢と違い、何もかもがコンクリートで覆われている興宮では、案外、わずかの物音でも残響する。",
+		"TextENG": "......Unlike Hinamizawa, everything in Okinomiya is covered in concrete, so unexpectedly, even the slightest sound will echo."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154695,
+		"TextJPN": "アスファルトの上で小さな小石を踏みつけると、それだけでかなり遠くまで音が聞こえてしまう。",
+		"TextENG": "So if I stamp a small pebble on the asphalt, I will hear that alone echo a considerable distance."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154696,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS25/03/NMIO_1280.",
+		"TextJPN": "「……こりゃあ、……裸足の方がまだマシかもね……」",
+		"NamesENG": "Mion",
+		"TextENG": "``......Damn it...... maybe it'll be better if I walk barefoot......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154697,
+		"TextJPN": "魅音は靴を脱ぐ。",
+		"TextENG": "Mion takes off her shoes."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154698,
+		"TextJPN": "硬いゴム底では、どんなに慎重に歩いても、小石とアスファルトを擦り付ける音が殺せないのだ。",
+		"TextENG": "No matter how careful you walk, the firm rubber soles cannot suppress the sound of rubbing pebbles and asphalt."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154699,
+		"TextJPN": "靴下越しとはいえ、都会っ子では表を裸足で歩くのは堪える。",
+		"TextENG": "Although she is wearing socks, but she will have to endure facing those city kids barefoot."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154700,
+		"TextJPN": "しかし、裸足で駆けっこや木登りが当り前な雛見沢っ子には、アスファルトを裸足で歩くなど、造作もないことだった。",
+		"TextENG": "However, kids climbing and racing up trees barefoot is pretty commonplace in Hinamizawa, so walking across the asphalt barefoot isn't any trouble at all."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154701,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS25/04/NSAT_0470.",
+		"TextJPN": "「元都会っ子の圭一さんが裸足が大丈夫か、見物ですわね？」",
+		"NamesENG": "Satoko",
+		"TextENG": "``We'll have to see if Keiichi, a former city kid, can handle being barefoot, won't we?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154702,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS25/01/NKEI_1160.",
+		"TextJPN": "「俺ももう、だいぶ鍛えられたぜ。馬鹿にするんじゃねぇぜ」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``I have already trained considerably. Don't be stupid.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154703,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS25/02/NREN_1080.",
+		"TextJPN": "「采ちゃんは裸足、大丈夫……？」",
+		"NamesENG": "Rena",
+		"TextENG": "``Une-chan, are you okay barefoot......?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154704,
+		"NamesJPN": "采",
+		"PreTextTags": "@vS25/50/NUNE_0230.",
+		"TextJPN": "「……痛い、です……」",
+		"NamesENG": "Une",
+		"TextENG": "``......It hurts......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154705,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS25/02/NREN_1090.",
+		"TextJPN": "「ごめんね。しばらくの間だけ辛抱してね……」",
+		"NamesENG": "Rena",
+		"TextENG": "``I'm sorry. You'll only have to bear it a little while......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154706,
+		"TextJPN": "魅音は、裏路地から首だけを覗かせ、無人の車列が並ぶ大河の様子を見る。",
+		"TextENG": "Mion peeps from the neck of a back alley, and looks at the state of the big river where the uninhabited convoys forms a line."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154707,
+		"TextJPN": "太い歩道は見通しが良過ぎる。一気に横断して、車列の中に飛び込む他はない。",
+		"TextENG": "That big sidewalk has also very good visibility. We may have to cross it all at once, and try our best to avoid the convoy."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154708,
+		"TextJPN": "自称自警団たちも、その見通しの良さから、ここが見張りに最適だと理解しているようだった。",
+		"TextENG": "The self-styled vigilance committee, from the merit of their outlook, seem to understand that's the best place to keep a lookout."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154709,
+		"TextJPN": "時折、懐中電灯のビームライトが歩道を一直線に照らすのがわかる。",
+		"TextENG": "Occasionally, they send beams of light in a straight line like a flashlight to light up the sidewalk."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154710,
+		"TextJPN": "……彼らは過剰に怯え、敵を求めている。",
+		"TextENG": "......They are excessively frightened, and are only asking for an enemy."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154711,
+		"TextJPN": "少しでも気配を気取られることがあれば、大騒ぎして、仲間を呼び寄せるだろう。",
+		"TextENG": "She could make a sign even just for a little while, but that could create a fuss, and then they would call their buddies over."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154712,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS25/03/NMIO_1290.",
+		"TextJPN": "「………いいねぇ。おじさんはこういうスリルを求めてたんだよ」",
+		"NamesENG": "Mion",
+		"TextENG": "``.........Good. I never knew this Old Man was looking for such a thrill.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154713,
+		"TextJPN": "魅音は鼻を伝い落ちる汗を、不敵に舐め取り笑う。",
+		"TextENG": "Sweat begins to run down Mion's nose, she smiles fearlessly and licks it up."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154714,
+		"TextJPN": "ハンドサインで、続く仲間たちに待機を指示してから、タイミングを計る。",
+		"TextENG": "By a hand signature, she orders a wait to her following friends, and measures the timing."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154715,
+		"TextJPN": "……自警団のライトは落ち着きがない。",
+		"TextENG": "......The light of the vigilance committee is restless."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154716,
+		"TextJPN": "ふらふらきょろきょろと、忙しなく動き回る。",
+		"TextENG": "Unsteady and restless, it searches in a hurry."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154717,
+		"TextJPN": "怯えにより、全ての物陰を照らさずにはいられないのだ。",
+		"TextENG": "Frightened, they cannot help but to illuminate all the shadows."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154718,
+		"TextJPN": "その落ち着きのなさは、隙だらけとも言える……。",
+		"TextENG": "Although this restlessness is full of chances......"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154719,
+		"TextJPN": "今だ………。",
+		"TextENG": "Now........."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154720,
+		"TextJPN": "猫のように素早く、しなやかに。魅音は歩道を駆け抜け、車列の狭間に飛び込む。",
+		"TextENG": "She moves quick as a cat, flexibly. Mion runs through the sidewalk, and dives between the convoy."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154721,
+		"TextJPN": "直前までの緊張感が嘘のように、あっさりと、あっという間の出来事だった。",
+		"TextENG": "A feeling of tension lies immediately before her, quickly, it was an instant event."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154722,
+		"TextJPN": "物陰からその様子をうかがっていた圭一たちも、ほうっと深い安堵の息を漏らす。",
+		"TextENG": "Keiichi, who watched the situation from the shadows, sighs a very deep breath of relief."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154723,
+		"TextJPN": "二番手の圭一も続こうとするが、魅音はまだだとサインを送る。",
+		"TextENG": "The second person is Keiichi ready to follow, but Mion has not yet sent the signal."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154724,
+		"TextJPN": "慎重に車列の河を越え、対岸の歩道の様子も確認したいようだった。",
+		"TextENG": "He carefully moves beyond the convoy at the river, seemingly wanting to confirm the state of the sidewalk on the opposite side of the bank."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154725,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS25/03/NMIO_1300.",
+		"TextJPN": "「……あちゃ……。参ったね……」",
+		"NamesENG": "Mion",
+		"TextENG": "``......Damn it...... We're in a pickle......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154726,
+		"TextJPN": "決行の直前に屋上から偵察した時には、こんな場所に人影はなかった。",
+		"TextENG": "When I spied from the roof just before carrying out our plan, there wasn't the shadow of any person in that spot."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154727,
+		"TextJPN": "いつの間にか対岸の歩道の向こうに、３人ほどの自警団の姿があった。",
+		"TextENG": "But before I even knew it, on the other side of the sidewalk on the opposite bank, there was the figures of about three vigilance committee members."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154728,
+		"TextJPN": "……こちらへ向かってくる。",
+		"TextENG": "......They're coming towards here."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154729,
+		"TextJPN": "大丈夫、バレてるわけじゃない。車列を適当に照らしながら歩いてるだけだ。",
+		"TextENG": "It's alright, they don't know about us. Then I only have to walk against the light of the convoy properly."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154730,
+		"TextJPN": "魅音は冷静に、車高の高いトラックを見つけると、その下に潜り込む……。",
+		"TextENG": "Mion acts calm, and finds a truck with a large vehicle height, she crawls under it......"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154731,
+		"TextJPN": "大丈夫大丈夫……。バレてるわけじゃない。",
+		"TextENG": "I'll be fine, I'll be fine...... They won't find me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154732,
+		"TextJPN": "仮に気付いてたら、あんなにも呑気に歩いてるものか……。",
+		"TextENG": "But if they do, I won't be able to walk it off......"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154733,
+		"TextJPN": "９９％大丈夫だとわかっていても、……絶対ではないことを意識してしまうと、脂汗が浮くのがわかる。",
+		"TextENG": "Even if I know I'll be 99％ okay...... my conscious won't let me, I can see even my greasy sweat fall off."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154734,
+		"TextJPN": "……情けないね、園崎魅音。おじさんが、隠れん坊ごときで冷や汗を垂らすなんてね……。",
+		"TextENG": "......Shame on you, Mion Sonozaki. Old Man would never drip a greasy sweat even when playing hide-and-seek......"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154735,
+		"NamesJPN": "暴徒",
+		"PreTextTags": "@vS25/00/NBOA_0030.",
+		"TextJPN": "「感染野郎を絶対に見逃すんじゃねぇぞ……」",
+		"NamesENG": "Mob",
+		"TextENG": "``Don't let that infected bastard get away with it......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154736,
+		"NamesJPN": "暴徒",
+		"PreTextTags": "@vS25/00/NBOB_0020.",
+		"TextJPN": "「連中は脳をやられてる。そして俺たちに噛み付いて、ウィルスを伝染させようとしてるんだ」",
+		"NamesENG": "Mob",
+		"TextENG": "``Those guys have had their brains stolen. So if they bite us, we'll then be carrying the virus.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154737,
+		"TextJPN": "脳をやられてるのはあんたたちの方でしょーが。魅音は苦笑いする。",
+		"TextENG": "Even though they have had their brains stolen. Mion smiles wryly."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154738,
+		"TextJPN": "しかし、彼らの足が、自分の潜んでいるトラックの前で止まると、その笑いは凍りつく。",
+		"TextENG": "However, their footsteps come to a hard frozen stop in front of her, and she stops smiling."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154739,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS25/01/NKEI_1170.",
+		"TextJPN": "「み、見つかったのか…？！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Ha-Has she been found...?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154740,
+		"NamesJPN": "采",
+		"PreTextTags": "@vS25/50/NUNE_0240.",
+		"TextJPN": "「……も、……もう駄目………、」",
+		"NamesENG": "Une",
+		"TextENG": "``......I knew it was useless.........``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154741,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS25/02/NREN_1100.",
+		"TextJPN": "「落ち付いて。……ちょっと雰囲気が違う」",
+		"NamesENG": "Rena",
+		"TextENG": "``Easy. ......The atmosphere's slightly different.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154742,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS25/04/NSAT_0480.",
+		"TextJPN": "「あいつら、荷台に？」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Are they on the loading platform?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154743,
+		"TextJPN": "自警団の男たちは、魅音の潜むトラックの荷台によじ登っていく。",
+		"TextENG": "The men of the vigilance committee climb into the back of the truck which Mion lurks under."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154744,
+		"TextJPN": "どうやら荷台の上にはパイプ椅子か何かが置かれているらしい。男たちはそれに腰掛けている。",
+		"TextENG": "They place something like a pipe chair on top of the loading platform. The men sit down on it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154745,
+		"TextJPN": "つまり、男たちは魅音の真上に陣取ったわけだ。即ち、魅音はまるで、虫ピンに刺された昆虫のような状態だ……。",
+		"TextENG": "In other words, those men have placed themselves right above Mion. That is, Mion is now in the state of an insect stabbed by a setting pin......"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154746,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS25/03/NMIO_1310.",
+		"TextJPN": "「ちょ……、マジ………？」",
+		"NamesENG": "Mion",
+		"TextENG": "``Is this...... for real.........?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154747,
+		"TextJPN": "魅音の額を脂汗が滴り落ちる。",
+		"TextENG": "A greasy sweat drips off Mion."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154748,
+		"TextJPN": "状況は圭一たちにも理解できた。魅音は、動くに動けなくなってしまう。",
+		"TextENG": "Keiichi is able to understand the situation. However Mion has become stuck and cannot move."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154749,
+		"TextJPN": "トラックの下から這い出る時の音を聞かれない保証はない。そればかりでなく、魅音には上の状況がまったく見えない。",
+		"TextENG": "There is no guarantee they will not hear the sound of her crawling out from under the truck. Not only that, but Mion will also not be able to see what's above her."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154750,
+		"TextJPN": "仮に音をさせずに抜け出られたとしても、その時に気紛れな彼らが向けていた視界に入らない保証もない。",
+		"TextENG": "And even if she were to escape without a sound, there is no guarantee she won't enter the whimsical view they are facing at that time."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154751,
+		"TextJPN": "……彼らが立ち去るまで、魅音は動くことが出来ないのだ……。",
+		"TextENG": "......Therefore until they leave, Mion can't move at all......"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154752,
+		"NamesJPN": "采",
+		"PreTextTags": "@vS25/50/NUNE_0250.",
+		"TextJPN": "「ど、どうすればいいのかわかる……、わけないのです……」",
+		"NamesENG": "Une",
+		"TextENG": "``I-I don't know what...... we should do......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154753,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS25/04/NSAT_0490.",
+		"TextJPN": "「いよいよ秘密兵器の出番ですの？！」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Maybe it's finally time for our secret weapon?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154754,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS25/01/NKEI_1180.",
+		"TextJPN": "「そいつは最後の手段だ。魅音は救えるが、大騒ぎになっちまう…！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``That's our last resort. It may be able to save Mion, but it will also make an uproar...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154755,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS25/02/NREN_1110.",
+		"TextJPN": "「でも準備はしておいて」",
+		"NamesENG": "Rena",
+		"TextENG": "``However, we have to be prepared.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154756,
+		"TextJPN": "沙都子は頷き、ラジコンカーを歩道にセットし、空き缶を括り付ける。",
+		"TextENG": "Satoko nods, and sets the radio controlled car on the sidewalk, with its attached empty cans."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154757,
+		"TextJPN": "こいつを走らせれば、その騒々しい音は必ず彼らの気を引く。",
+		"TextENG": "The little fellow is now ready to be sent off, able to create a noisy sound to draw their attention by all means."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154758,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS25/01/NKEI_1190.",
+		"TextJPN": "「何れにせよ、作戦は失敗だな。何とか魅音が脱出できる隙を作って、今回は出直した方がいい」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``In any case, current strategy already failed. We still have to create a chance for Mion to escape, we won't have another chance.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154759,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS25/02/NREN_1120.",
+		"TextJPN": "「……同感だね。今回はたまたまタイミングが悪かっただけ。出直そう」",
+		"NamesENG": "Rena",
+		"TextENG": "``......I agree. We won't have another chance if we mess up our timing. Let's go.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154760,
+		"TextJPN": "冷静な部活メンバーは、数々の部活の修羅場で、退くべき時を身に付けている。",
+		"TextENG": "We calm club members have shared many scenes of bloodshed in numerous club activities, but we know when we should retreat."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154761,
+		"TextJPN": "同じことは、当然、魅音も考えている。圭一たちが脱出のチャンスを作るだろう。その隙に抜け出すしかない。",
+		"TextENG": "Naturally, Mion is probably thinking the same thing. But Keiichi and we have to give her a chance to escape. There is no other choice but to get her out of there."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154762,
+		"TextJPN": "……しかし、それは今すぐではない。",
+		"TextENG": "......However, now is the right time."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154763,
+		"TextJPN": "上の彼らが、荷台から立ち去り、再びどこかへ行ってしまう可能性もあるのだ。",
+		"TextENG": "As those people above her may leave the loading platform, and go somewhere else."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154764,
+		"TextJPN": "撤退に成功しても、騒ぎを起こせば、再びの渡河作戦はより困難なものとなってしまうだろう。",
+		"TextENG": "But even if we succeed in retreating, an uproar will be lit, causing it to be more difficult for us if we want to try crossing again."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154765,
+		"TextJPN": "魅音は、心臓に虫ピンを打ち込まれたようなこの状況下であっても、冷静に勝利のチャンスを窺い続けている……。",
+		"TextENG": "And even if Mion is under a situation such as a setting pin on her heart, we have to continue to calmly pray for a chance at victory......"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154766,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS25/01/NKEI_1200.",
+		"TextJPN": "「采ちゃんを先に安全地帯に戻した方がいい」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``You had better return to the safety zone we were at earlier, Une-chan.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154767,
+		"TextJPN": "彼女は裸足に慣れていない。いざという時、全力疾走が難しい可能性がある。",
+		"TextENG": "She isn't used to being barefoot. So in the case of an emergency, the possibility of her sprinting will be difficult."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154768,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS25/02/NREN_1130.",
+		"TextJPN": "「圭一くん、采ちゃんを連れて退路を確保して。沙都子ちゃんは私の背後を守って」",
+		"NamesENG": "Rena",
+		"TextENG": "``Keiichi-kun, secure a path of retreat for Une-chan. Satoko-chan, watch my back.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154769,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS25/04/NSAT_0500.",
+		"TextJPN": "「お任せでしてよ。圭一さん、責任重大ですわよ！」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Leave it to me. Keiichi-san, I'm holding you responsible if anything happens to her!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154770,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS25/01/NKEI_1210.",
+		"TextJPN": "「わかってる。ここは任すぜっ。行こう、采ちゃん…！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Understood. Leave it to me. Let's go, Une-chan...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154771,
+		"NamesJPN": "采",
+		"PreTextTags": "@vS25/50/NUNE_0260.",
+		"TextJPN": "「は、……はいです……」",
+		"NamesENG": "Une",
+		"TextENG": "``......Y-Yes......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154772,
+		"TextJPN": "圭一は采を連れ、一度、離脱する。",
+		"TextENG": "Keiichi takes Une at once, and leaves."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154773,
+		"TextJPN": "……雛見沢で死線を潜ったつもりでいた。しかし、所詮は老人たちばかりの雛見沢。そして地の利は自分たちにもあった。",
+		"TextENG": "......I thought I was on the verge of death in Hinamizawa. However, Hinamizawa was just full of old people after all. And it had a geographical advantage."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154774,
+		"TextJPN": "しかし、ここはまるで勝手が違う、まさにアウェーなのだ。",
+		"TextENG": "However, I feel totally lost here, I don't even know what I'm doing."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154775,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS25/01/NKEI_1220.",
+		"TextJPN": "「こんなことなら、もっと興宮で遊んでれば良かったぜ……」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Such a thing, you should have played more in Okinomiya......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154776,
+		"NamesJPN": "采",
+		"PreTextTags": "@vS25/50/NUNE_0270.",
+		"TextJPN": "「はぁっ、はぁっ、はぁっ……、」",
+		"NamesENG": "Une",
+		"TextENG": "``*Pant-pant*, *pant-pant*, *pant-pant*......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154777,
+		"TextJPN": "采の息が荒い。",
+		"TextENG": "Une's breathing is rough."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154778,
+		"TextJPN": "無理もない。これだけの緊張の中にいるのだ。疲労だけでなく、恐怖感でも息が上がる。",
+		"TextENG": "It's understandable. She is under all this stress. Fatigue has also been building up, so her breathing has naturally raised in fear."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154779,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS25/01/NKEI_1230.",
+		"TextJPN": "「少し休んで呼吸を整えよう」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``We can take a rest here, that'll help your breathing.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154780,
+		"NamesJPN": "采",
+		"PreTextTags": "@vS25/50/NUNE_0280.",
+		"TextJPN": "「あ、……ありがとう……です……、はぁ……はぁ……、」",
+		"NamesENG": "Une",
+		"TextENG": "``Th-Thank you...... ......*Pant-pant*... ...*pant-pant*......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154781,
+		"TextJPN": "采の呼吸が静まったところで、圭一は五感を研ぎ澄まし、辺りの気配を探る。",
+		"TextENG": "They stop in place and Une's breathing begins to subside, while Keiichi sharpens his five senses, investigating the area for any signs."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154782,
+		"TextJPN": "……すぐにそれは感じられた。",
+		"TextENG": "......He senses something immediately."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154783,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS25/01/NKEI_1240.",
+		"TextJPN": "「まずいな、……誰か来る」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``This is bad...... someone's coming.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154784,
+		"NamesJPN": "采",
+		"PreTextTags": "@vS25/50/NUNE_0290.",
+		"TextJPN": "「えっ……」",
+		"NamesENG": "Une",
+		"TextENG": "``Eh......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154785,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS25/01/NKEI_1250.",
+		"TextJPN": "「足音は複数。自警団だな。…………………」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Multiple footsteps. It's the vigilance committee. .....................``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154786,
+		"TextJPN": "隠れる場所に乏しい。間違って見つかれば、魅音たちの退路も絶ってしまうことになる。危険は断じて冒せない。",
+		"TextENG": "There were few places to hide. If they were to be found by mistake, it would cut off the path of escape for Mion and the others. We can't take any chances."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154787,
+		"TextJPN": "他の道もない。彼らが他へ行ってくれることを祈って、戻らざるを得ない。",
+		"TextENG": "There is no other way. I can only pray and hope that they'll turn around and avoid my friends."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154788,
+		"TextJPN": "しかし、幹線道路が彼らの警戒線の動脈らしい。まっすぐレナたちの場所に向かう公算が高い。",
+		"TextENG": "However, the main road is likely the artery of their police cordon. So the likelihood they'll head straight towards Rena and the others is very high."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154789,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS25/01/NKEI_1260.",
+		"TextJPN": "「戻ろう。ここじゃ出くわせない」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Let's go back. They'll come across us if we stay here.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154790,
+		"NamesJPN": "采",
+		"PreTextTags": "@vS25/50/NUNE_0300.",
+		"TextJPN": "「ま、また戻る……、のですか……。は、挟み撃ち……」",
+		"NamesENG": "Une",
+		"TextENG": "``G-Go back...... ......Is it a p-pincer attack......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154791,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS25/01/NKEI_1270.",
+		"TextJPN": "「になるかもな。とにかく戻ろう…！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``I guess you could say that. Anyway, let's go back now...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154792,
+		"TextJPN": "圭一の予感は的中する。彼らは他の路地へ行く様子はなく、まっすぐに幹線道路を目指している。",
+		"TextENG": "Keiichi's premonition hit the mark. However, it seems they don't run into another alley, but aim straight for the main road."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154793,
+		"TextJPN": "歪んだ金属バットを担いだ大学生くらいの若者たちが、３人もいる。",
+		"TextENG": "I can see some youths about the age of university students carrying crooked metal bats, there's about four of them."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154794,
+		"TextJPN": "このままではレナたちは背後を突かれてしまう。",
+		"TextENG": "At this rate, Rena and the others will be caught off guard and attacked from behind."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154795,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS25/02/NREN_1140.",
+		"TextJPN": "「挟み撃ち？　それはまずいね……」",
+		"NamesENG": "Rena",
+		"TextENG": "``A pincer attack? This is bad......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154796,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS25/04/NSAT_0510.",
+		"TextJPN": "「面白いじゃございませんの。まさか、部活程度にはハラハラできるとは思いませんでしたのよ」",
+		"NamesENG": "Satoko",
+		"TextENG": "``This isn't funny at all. No way, I didn't think I'd ever feel this nervous in a club activity.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154797,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS25/01/NKEI_1280.",
+		"TextJPN": "「退路はない。としたら、どうする？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``We can't retreat either. What should we do?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154798,
+		"NamesJPN": "采",
+		"PreTextTags": "@vS25/50/NUNE_0310.",
+		"TextJPN": "「ま、まさか……、……なのですか……」",
+		"NamesENG": "Une",
+		"TextENG": "``N-No way...... ......What do we do......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154799,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS25/04/NSAT_0520.",
+		"TextJPN": "「後ろが駄目なら、前に進む他ありませんでしてよっ」",
+		"NamesENG": "Satoko",
+		"TextENG": "``It's useless to come at our backs, they really should have thought their plan through.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154800,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS25/02/NREN_1150.",
+		"TextJPN": "「……ラジコンのトラップを使い、敵の目を引きつけ、……その隙に前へ進むしかない」",
+		"NamesENG": "Rena",
+		"TextENG": "``......Use the radio controlled trap, that will attract the enemy's eyes...... we have no choice but to take our chances and move forward.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154801,
+		"TextJPN": "危険な作戦だ。この場だけはやり過ごせるだろう。",
+		"TextENG": "This is a dangerous strategy. I'm unsure if we'll even get past."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154802,
+		"TextJPN": "しかし、騒ぎになれば、眠っている自警団たちも一斉に起き出すだろう。",
+		"TextENG": "However, we have to take advantage of the commotion, as most of the vigilance committee will be asleep once we begin."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154803,
+		"TextJPN": "それが運悪く進行方向と鉢合わせになったら、文字通り袋のネズミだ。",
+		"TextENG": "Unfortunately, running in their direction, we could end up in a literal mouse trap."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154804,
+		"TextJPN": "ほんの２～３人なら、部活メンバー総掛かりでなら、何とか出来ないこともないだろう。",
+		"TextENG": "Just 2-3 people, that's all the club members we need, we can do this."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154805,
+		"TextJPN": "しかし、騒ぎになって大勢が駆けつけてきたら、所詮は子供の自分たちには抗いようがない。",
+		"TextENG": "However, a great number of people may rush us in such an uproar, and after all, I doubt they'll hesitate to fight against children."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154806,
+		"TextJPN": "だが、いくつもの不運が重なりつつも、勝率ゼロのゲームではない。",
+		"TextENG": "But, even though many misfortunes have happened at the same time, our winning percentage at this game isn't zero."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154807,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS25/02/NREN_1160.",
+		"TextJPN": "「沙都子ちゃん、トラップ、用意……」",
+		"NamesENG": "Rena",
+		"TextENG": "``Satoko-chan, ready the trap......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154808,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS25/04/NSAT_0530.",
+		"TextJPN": "「いつでもどうぞですわ」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Right.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154809,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS25/01/NKEI_1290.",
+		"TextJPN": "「歩道はＯＫだ。今なら渡れる…！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``The sidewalk is OK. It can cross now...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154810,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS25/02/NREN_1170.",
+		"TextJPN": "「行くよ！　沙都子ちゃん、やって！」",
+		"NamesENG": "Rena",
+		"TextENG": "``Go! Satoko-chan, do it!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154811,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS25/04/NSAT_0540.",
+		"TextJPN": "「お任せですわ！」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Leave everything to me!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154812,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS25/01/NKEI_1300.",
+		"TextJPN": "「行くぞ、采ちゃん…！　走るんだ！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Go, Une-chan...! Run!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154813,
+		"NamesJPN": "采",
+		"PreTextTags": "@vS25/50/NUNE_0320.",
+		"TextJPN": "「走らない……、わけはないのですっ」",
+		"NamesENG": "Une",
+		"TextENG": "``I will run...... There isn't any reason not to.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154814,
+		"TextJPN": "一同は一気に横断し、車列に飛び込む。",
+		"TextENG": "All the club members cross at once, and jump into the convoy."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154815,
+		"TextJPN": "しかし、その走り込む気配はトラック荷台の男たちに気取られてしまうのは防げない。",
+		"TextENG": "However, their trick should affect the men at the trucks loading bay, so they can run past them."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154816,
+		"TextJPN": "彼らが何事かと目を向けたその時、沙都子のラジコントラップが発動する。",
+		"TextENG": "At that time, everyone turns their attention, to the radio controlled trap Satoko put into operation."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154817,
+		"TextJPN": "括り付けられた空き缶を引き摺り、激しい金属音を立てながら歩道を疾走する。",
+		"TextENG": "It drags its trail of empty cans, and races at full speed on the sidewalk while making an intense metallic sound."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154818,
+		"NamesJPN": "暴徒",
+		"PreTextTags": "@vS25/00/NBOA_0040.",
+		"TextJPN": "「なッ、何だ？！　何の音だ？！」",
+		"NamesENG": "Mob",
+		"TextENG": "``What?! What is that sound?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154819,
+		"NamesJPN": "暴徒",
+		"PreTextTags": "@vS25/00/NBOB_0030.",
+		"TextJPN": "「逃げるぞッ、追え！！　感染野郎に違いねぇ！！」",
+		"NamesENG": "Mob",
+		"TextENG": "``Someone's escaping. After them!! It must be one of those infected bastards!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154820,
+		"TextJPN": "疑心暗鬼と恐怖を凶暴な攻撃性に変え、男たちはいきり立つ。",
+		"TextENG": "They change from fear and paranoia into a ferocious aggression, the men fly into a rage."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154821,
+		"TextJPN": "トラックの荷台から、車列の屋根やボンネットの上に飛び降り、ラジコンカーの騒音の方へ駆け出す。",
+		"TextENG": "From the truck's loading bay, they jump off its roof onto the bonnet of the convoy, and begin to run towards the noise of the radio controlled car."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154822,
+		"TextJPN": "深夜の静寂は破られ、あちこちから怒鳴り声やホイッスルの音が聞こえてくる。街の狂気は完全に目を覚ましてしまった。",
+		"TextENG": "The late-night silence has been broken, as the sound of whistling and yelling from many places can be heard. This town of madness is now completely awake."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154823,
+		"TextJPN": "だが、トラックの下に釘付けにされていた魅音は解放される。",
+		"TextENG": "But, Mion who was nailed under the truck, is now free."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154824,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS25/03/NMIO_1320.",
+		"TextJPN": "「何やってんの！　まだちょっと早いでしょ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``What were you thinking! That was too early!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154825,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS25/01/NKEI_1310.",
+		"TextJPN": "「挟み撃ちだったんだ！　仕掛けないわけにはいかなかった！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``They were performing a pincer attack! We had to use the device!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154826,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS25/04/NSAT_0550.",
+		"TextJPN": "「采さん、根性をお見せくださいまし！」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Une-san, please show them your spirit!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154827,
+		"NamesJPN": "采",
+		"PreTextTags": "@vS25/50/NUNE_0330.",
+		"TextJPN": "「はぁッ、はあッ、はあッ…！！」",
+		"NamesENG": "Une",
+		"TextENG": "``*Pant-pant*, *pant-pant*, *pant-pant*...!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154828,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS25/02/NREN_1180.",
+		"TextJPN": "「やっぱり後ろには戻れない！　次々にやってくる！」",
+		"NamesENG": "Rena",
+		"TextENG": "``After all, we can't go back! They're coming one after another!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154829,
+		"TextJPN": "ついさっきまで一同が潜んでいた路地からは、次々に目を血走らせた暴徒たちが駆け出してくる。",
+		"TextENG": "From the alley where everyone lay hidden in until just a few moments ago, mobs who have let their eyes become bloodshot chase out one after another."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154830,
+		"TextJPN": "きっと、近くに彼らが詰める建物か何かがあったのだろう。",
+		"TextENG": "Surely, there must be a building where we can pack them in close."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154831,
+		"TextJPN": "やはり進まず、安全地帯に戻るという道は絶たれている。進む他はない。",
+		"TextENG": "After all, we can't advance, as the path to return to the safety zone has been cut off. So we can't help, but to advance."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154832,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS25/03/NMIO_1330.",
+		"TextJPN": "「進むしかないなら進むよ！　もう大して距離はないんだ」",
+		"NamesENG": "Mion",
+		"TextENG": "``We don't have any choice but to move forward! Let's keep a distance.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154833,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS25/01/NKEI_1320.",
+		"TextJPN": "「園崎組の人たちが、魅音の顔を忘れてないことを祈るぜっ」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``People of the Sonozaki family, pray that they do not forget Mion's face.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154834,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS25/03/NMIO_1340.",
+		"TextJPN": "「はっははは、圭ちゃん、面白いことを言うねー！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Ahh ha ha ha, Kei-chan, you say the most funny things!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154835,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS25/02/NREN_1190.",
+		"TextJPN": "「油断しない！　園崎組の事務所の中に入るまで気を抜いちゃ駄目だよ！」",
+		"NamesENG": "Rena",
+		"TextENG": "``Let's not get careless! We musn't relax until we enter the the Sonozaki family office!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154836,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS25/04/NSAT_0560.",
+		"TextJPN": "「同感ですわね。詩音さんに、お姉なんか知りません、アッカンベーって言われる可能性が残ってましてよ」",
+		"NamesENG": "Satoko",
+		"TextENG": "``I agree. I don't know about your sister Shion-san, but she's likely to give us an akanbee if something happens.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154837,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS25/01/NKEI_1330.",
+		"TextJPN": "「そうだ。それより魅音、ヘソ踊りの約束、忘れるなよ？　采ちゃんが梯子を下ろしてくれる時にしたぞ！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``You're right about that. And Mion, you promised to navel dance, remember? It was when Une-chan lowered that ladder!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154838,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS25/03/NMIO_1350.",
+		"TextJPN": "「イッヒッヒ、おじさん、そんな約束したっけぇ？」",
+		"NamesENG": "Mion",
+		"TextENG": "``Eek, did Old Man make such a promise?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154839,
+		"NamesJPN": "采",
+		"PreTextTags": "@vS25/50/NUNE_0340.",
+		"TextJPN": "「はぁッ、はぁッ、はぁ…！！」",
+		"NamesENG": "Une",
+		"TextENG": "``*Pant-pant*, *pant-pant*, *pant-pant*...!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154840,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS25/02/NREN_1200.",
+		"TextJPN": "「采ちゃん、しっかり！　もう一息だって！」",
+		"NamesENG": "Rena",
+		"TextENG": "``Une-chan, be strong! Just take another breath!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154841,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS25/03/NMIO_1360.",
+		"TextJPN": "「そこを曲がってすぐだよ！@k@|@y@vS25/03/NMIO_1361.　……え？！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Turn right up ahead!@k@|@y@vS25/03/NMIO_1361. .........Eh?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154842,
+		"TextJPN": "魅音は完全に気を許していたと思う。",
+		"TextENG": "Mion has been caught completely off guard."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154843,
+		"TextJPN": "ラストスパートして、ゴールのテープを千切るだけ。そう思っていたはずだ。",
+		"TextENG": "Last spurt, and the tape of their goal has been torn off. They should have thought this through."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154844,
+		"TextJPN": "だが、ゴールのテープは、とても千切れるようなシロモノではなかった。",
+		"TextENG": "But, their goal tape was already broken off in the first place."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154845,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS25/03/NMIO_1370.",
+		"TextJPN": "「あれぇええ？！　ど、どういうことォ？！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Whaaaaaat?! H-How did this happen?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154846,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS25/01/NKEI_1340.",
+		"TextJPN": "「な、何だよこれ？！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Wh-What is this?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154847,
+		"TextJPN": "有刺鉄線付きの金網のようなもので路地が封鎖されているのだ。",
+		"TextENG": "The alley is blocked with something like wire netting and barbed wire."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154848,
+		"TextJPN": "園崎組の人間が、事務所前の安全を確保する為にやったのか、暴徒たちが感染者を通さない為にやったのか、どちらかはわからない。",
+		"TextENG": "I don't know if the Sonozaki group did it to ensure the safety of the front of the office, or if the mob did it to keep the infected from getting through."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154849,
+		"TextJPN": "しかし、現にこうして、事務所を目前にして、この路地は封鎖されているのだ。",
+		"TextENG": "But this is how it is now, this alley is blocked off right in front of the office."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154850,
+		"TextJPN": "このバリケードが事前にわかっていれば、作戦計画は大きく違っただろう。",
+		"TextENG": "So if we knew this barricade was here beforehand, our operation plans would have been greatly different."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154851,
+		"TextJPN": "不幸としか言い様がない。魅音がオペラグラスで偵察した角度からは、この位置だけが綺麗に死角になるのだ。",
+		"TextENG": "This has greatly added to our misfortune. As from the angle Mion spied upon with the opera glasses, this position was in a clear blind spot."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154852,
+		"TextJPN": "そのわずかの死角に、不幸にもバリケードを築かれるという二重の不幸！",
+		"TextENG": "And in that blind spot, unfortunately layed a barricade, giving us double misfortune!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154853,
+		"TextJPN": "有刺鉄線に身を傷つけられる覚悟があるなら、乗り越えられないこともない。",
+		"TextENG": "Although, I am ready to hurt myself and climb over the barbed wire."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154854,
+		"TextJPN": "しかしそれを、部活メンバーの覚悟のない采にまでは強いられない。",
+		"TextENG": "However, I doubt the rest of the club members or Une could ready themselves for such a thing."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154855,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS25/02/NREN_1210.",
+		"TextJPN": "「迂回路は？！」",
+		"NamesENG": "Rena",
+		"TextENG": "``Is there an alternative route?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154856,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS25/03/NMIO_1380.",
+		"TextJPN": "「あッあッ、あるよッ、ぐるっと向こうの路地から回り込めば……！！」",
+		"NamesENG": "Mion",
+		"TextENG": "``G-G-Give me a second, we can go around from the other side of the alley......!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154857,
+		"TextJPN": "その時、一同を眩しいビームライトが照らし出す。",
+		"TextENG": "At that time, a dazzling beam of light illuminates everyone."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154858,
+		"NamesJPN": "暴徒",
+		"PreTextTags": "@vS25/00/NBOA_0050.",
+		"TextJPN": "「誰だお前らッ！！」",
+		"NamesENG": "Mob",
+		"TextENG": "``Who the hell are these guys!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154859,
+		"NamesJPN": "暴徒",
+		"PreTextTags": "@vS25/00/NBOB_0040.",
+		"TextJPN": "「ひゃっははははは！　居たぞッ、感染野郎どもだッ！！」",
+		"NamesENG": "Mob",
+		"TextENG": "``Ahahahaha! They must be residents, infected bastards!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154860,
+		"TextJPN": "全員の血が凍りつく。万事休す。",
+		"TextENG": "Everyone's blood has frozen. Over every inch of their bodies."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154861,
+		"TextJPN": "ついに恐怖に耐え切れなくなり、采は絹を裂くような悲鳴をあげる……。",
+		"TextENG": "Finally, no longer able to endure the fear, Une tears out a silky scream......"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154862,
+		"TextJPN": "打てる手などない。向こうは体格でも凶暴性でも、その上、人数でも勝る。",
+		"TextENG": "There is no way they can win. The other side is ferocious in physique, and superior in numbers."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154863,
+		"TextJPN": "暴徒たちは次々に群がり、……バリケードの袋小路に追い詰められた一行を、取り囲む……。",
+		"TextENG": "The mobs flocks one after another...... forming a line and corning them into a dead-end of barricades, surrounding them......"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154864,
+		"TextJPN": "その時、乾いた破裂音が数度、繰り返された。",
+		"TextENG": "Then, a dry plosive sound is heard several times, it repeats."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154865,
+		"TextJPN": "魅音はすぐに伏せてと叫んで仲間たちの頭を地面に押し付ける。",
+		"TextENG": "Mion, with her head pressed against the ground, screams to her friends immediately."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154866,
+		"TextJPN": "銃声を聞き慣れない暴徒たちはきょとんとしている。",
+		"TextENG": "The mobs, who are unfamiliar with gunshots, become speechless."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154867,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS25/08/NTOM_0380.",
+		"TextJPN": "「諸君、それまでだ！　法に基づかない私刑は、如何なる状況下でも認められないぞ！！」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Gentlemen, back off! Lynching anyone not based on law is not acceptable in any situation!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154868,
+		"TextJPN": "富竹が、入江機関の保安室から持ち出したサブマシンガンを空に向けて撃った音だった。",
+		"TextENG": "Tomitake used a sub-machine gun taken from the security room of the Irie Clinic, that was the sound which shot into the sky."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154869,
+		"TextJPN": "暴徒たちはそれをモデルガンか何かだとでも思っているのか、怯む様子もなく、狩りの邪魔をした富竹を睨み付ける。",
+		"TextENG": "But, the mob think it is only a model gun, trying not to falter in this situation, and scowl at Tomitake who disturbed their hunting."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154870,
+		"TextJPN": "医療機関が麻痺している今の興宮では、例え足を撃とうともそれは致命傷になり得る。",
+		"TextENG": "At present, all medical institutions in Okinomiya are paralysed, so if you are shot in the foot, it will become a fatal injury."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154871,
+		"TextJPN": "撃ちたくない富竹は、怯まない暴徒たちにごくりと唾を飲み込む……。",
+		"TextENG": "But Tomitake doesn't want to shoot, and swallows his saliva in front of the flinching mob......"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154872,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS25/08/NTOM_0390.",
+		"TextJPN": "「撃ちたくないんだよ、諸君…！」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``I don't want to shoot, gentlemen...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154873,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS25/05/NRIK_0670.",
+		"TextJPN": "「ここはボクに任せるのですよ。……羽入！」",
+		"NamesENG": "Rika",
+		"TextENG": "``Leave it to me. ......Hanyuu!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154874,
+		"NamesJPN": "羽入",
+		"PreTextTags": "@vS25/12/NHAN_0430.",
+		"TextJPN": "「我が同胞よ……、心を鎮めるのです……。我こそはオヤシロさま、そなたたちの長なり…！」",
+		"NamesENG": "Hanyuu",
+		"TextENG": "``My brethren...... calm your minds...... I am Oyashiro-sama, leader of thee...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154875,
+		"TextJPN": "羽入の厳かな言葉が、人ならざる者たちだけの耳に響き渡る。",
+		"TextENG": "The solemn words of Hanyuu echo through the ears of the non-humans."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154876,
+		"TextJPN": "暴徒たちは、ぽかんと口を開け、寝ぼけ眼でぼんやりと立ち尽くしている。",
+		"TextENG": "The mob blankly open their mouths, and vaguely stand with sleepy eyes."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154877,
+		"TextJPN": "やがて、地べたにぺたりと座り込み、皆、ぼんやりと呆けていた。",
+		"TextENG": "Before long, they begin to sit on the ground, as all of them become mentally slow."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154878,
+		"TextJPN": "鷹野によって凶暴に改造されたとはいえ、羽入の同胞。その力ある言葉からは逃れられないのだ。",
+		"TextENG": "That said, they only became ferocious after restructuring by Takano, the brethren of Hanyuu. They cannot escape from the power in her words."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154879,
+		"TextJPN": "魅音たちは目を白黒させるが、九死に一生を得たことは理解する。",
+		"TextENG": "Mion rolls her eyes in bewilderment, understanding that they have narrowly escaped death."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154880,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS25/05/NRIK_0680.",
+		"TextJPN": "「みんな、今の内に……！」",
+		"NamesENG": "Rika",
+		"TextENG": "``Everyone, now......!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154881,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS25/03/NMIO_1390.",
+		"TextJPN": "「な、何これ…？　どういうこと？！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Wh-What is this...? What did you do?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154882,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS25/05/NRIK_0690.",
+		"TextJPN": "「オヤシロパワーなのですよ、にぱ～☆」",
+		"NamesENG": "Rika",
+		"TextENG": "``It's Oyashiro power, nipah-☆.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154883,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS25/02/NREN_1220.",
+		"TextJPN": "「助けてくれてありがとう、梨花ちゃん！　富竹さん！」",
+		"NamesENG": "Rena",
+		"TextENG": "``Thank you for your help, Rika-chan! Tomitake-san!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154884,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS25/08/NTOM_0400.",
+		"TextJPN": "「騒ぎが聞こえてね。駆けつけて正解だったよ。君たちはこんなところで何を？」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``We heard the uproar. I'm glad we got here in time. What are you doing in a place like this anyway?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154885,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS25/04/NSAT_0570.",
+		"TextJPN": "「このすぐ向こうが、魅音さんの園崎組の事務所なんですのよ」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Directly on the other side is Sonozaki Mion-san's family office.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154886,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS25/01/NKEI_1350.",
+		"TextJPN": "「このバリケードがあるとは気付かなくて、袋のネズミにってわけです」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``We didn't notice there was a barricade here, we were like mice hitting a dead end.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154887,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS25/06/NSHI_0000.",
+		"TextJPN": "「なっさけない。お姉がいながら、危機一髪ってわけですか？」",
+		"NamesENG": "???",
+		"TextENG": "``Pitiable. Even though you are my sis, are you actually in such a critical moment?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154888,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS25/03/NMIO_1400.",
+		"TextJPN": "「詩音！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Shion!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154889,
+		"TextJPN": "バリケードの向こうには、詩音と葛西、そして数人の黒服たちがいた。",
+		"TextENG": "On the other side of the barricade Shion and Kasai appear with several people in black clothes."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154890,
+		"TextJPN": "皆、銃を手にしてはいるが、暴徒たちのような凶暴な表情は浮かべていない。",
+		"TextENG": "Everyone of them, with a gun in their hand, display a ferocious expression towards the mob."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154891,
+		"TextJPN": "やはり、園崎組は冷静を保ち、籠城に務めていたのだ。",
+		"TextENG": "After all, the Sonozaki family have kept their calm, and survived the siege."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154892,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS25/06/NSHI_0010.",
+		"TextJPN": "「勘弁して下さいよね。イカレた連中と関わり合いになりたくないんですから」",
+		"NamesENG": "Shion",
+		"TextENG": "``Please forgive them. They didn't mean to become involved with those crazy people.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154893,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS25/02/NREN_1230.",
+		"TextJPN": "「ごめんね、騒がしくしちゃって」",
+		"NamesENG": "Rena",
+		"TextENG": "``We're sorry, we had to make such noise.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154894,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS25/04/NSAT_0580.",
+		"TextJPN": "「詩音さんも無事なら、もう何も怖いことはありませんでしてよ」",
+		"NamesENG": "Satoko",
+		"TextENG": "``If Shion-san's also safe, then there's nothing else to be afraid of anymore.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154895,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS25/06/NSHI_0020.",
+		"TextJPN": "「そういうことです。私１人で、お姉の１０人分くらいは頼もしいですからね。葛西、開けてあげて」",
+		"NamesENG": "Shion",
+		"TextENG": "``You're right about that. And even if there's only one of me, that's more reliable than ten servings of you, Sis. Kasai, you can open up now.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154896,
+		"NamesJPN": "葛西",
+		"PreTextTags": "@vS25/15/NKAS_0000.",
+		"TextJPN": "「皆さん、どうぞ」",
+		"NamesENG": "Kasai",
+		"TextENG": "``Everyone, please come inside.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154897,
+		"TextJPN": "葛西がバリケードの扉に厳重に閉められた鎖の南京錠を外す。",
+		"TextENG": "Kasai removes the padlock and chain off the severely locked and barricaded door."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154898,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS25/06/NSHI_0030.",
+		"TextJPN": "「しかし、一体、何がどうしたってんです？　あいつらに何を？」",
+		"NamesENG": "Shion",
+		"TextENG": "``However, what on earth was that? Who were those people?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154899,
+		"NamesJPN": "采",
+		"PreTextTags": "@vS25/50/NUNE_0350.",
+		"TextJPN": "「一体、……何が……」",
+		"NamesENG": "Une",
+		"TextENG": "``On earth...... what......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154900,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS25/05/NRIK_0700.",
+		"TextJPN": "「気にしなくていいのです。そっとしておけば、その内にどっかに行っちゃうのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``You don't need to worry about that. We'll be going inside now.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154901,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS25/08/NTOM_0410.",
+		"TextJPN": "「まぁまぁ！　オヤシロさまの奇跡の力ってことで、ここはありがたくこのチャンスをいただこうじゃないか、はっはっは」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Well, well! Saved by Oyashiro-sama's miraculous power, let's take the chance here and be grateful, ha ha ha.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154902,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS25/01/NKEI_1360.",
+		"TextJPN": "「さぁ、采ちゃん、もう安心だぜ！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Now, Une-chan, you can feel relieved!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154903,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS25/04/NSAT_0590.",
+		"TextJPN": "「詩音さんまで居てくれたら、もう何の心配もございませんでしてよ！」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Shion-san's with us now, so there's no need to worry anymore!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154904,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS25/06/NSHI_0040.",
+		"TextJPN": "「そういうことです。さっすが沙都子はわかってますね。……ところで、その子は？」",
+		"NamesENG": "Shion",
+		"TextENG": "``Yeah, you're with me now. I sympathize with you, and Satoko knows it. ......By the way, who is this child?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154905,
+		"NamesJPN": "采",
+		"PreTextTags": "@vS25/50/NUNE_0360.",
+		"TextJPN": "「………ど、どうも……、です……」",
+		"NamesENG": "Une",
+		"TextENG": "``.........Th-Thank you...... ......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154906,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS25/01/NKEI_1370.",
+		"TextJPN": "「彼女は采ちゃん。俺たちの命の恩人だぜ！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``She's Une-chan. The one who saved our lives!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154907,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS25/05/NRIK_0710.",
+		"TextJPN": "「……どうしたの、羽入？」",
+		"NamesENG": "Rika",
+		"TextENG": "``......What's the matter, Hanyuu?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154908,
+		"NamesJPN": "羽入",
+		"PreTextTags": "@vS25/12/NHAN_0440.",
+		"TextJPN": "「……………………」",
+		"NamesENG": "Hanyuu",
+		"TextENG": "``........................``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154909,
+		"NamesJPN": "采",
+		"PreTextTags": "@vS25/50/NUNE_0370.",
+		"TextJPN": "「…………………」",
+		"NamesENG": "Une",
+		"TextENG": "``.....................``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154910,
+		"NamesJPN": "羽入",
+		"PreTextTags": "@vS25/12/NHAN_0450.",
+		"TextJPN": "「……そなたは……………」",
+		"NamesENG": "Hanyuu",
+		"TextENG": "``......You...............``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154911,
+		"TextJPN": "一同はバリケードを潜り、園崎組事務所に迎え入れられる。",
+		"TextENG": "Everyone crosses the barricade, and are welcomed into the Sonozaki family office."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154912,
+		"TextJPN": "その光景が、……双眼鏡で彼方より観察されていた……。",
+		"TextENG": "While their scene...... is being observed by binoculars from a distance......"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 154913,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS25/09/NTAK_0180.",
+		"TextJPN": "「…………くすくすくす。……見つけたわ。……あの子、ね………」",
+		"NamesENG": "Takano",
+		"TextENG": "``............Heh heh heh. ......I've found her...... that child.........``"
+	}
+]

@@ -1,403 +1,401 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "レナってどういう名前だよ？",
-            "ENG": "What Kind of Name Is Rena?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12752,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/440500004.",
-            "TextJPN": "「……レナがいないです。圭一は知りませんですか？」",
-            "NamesENG": "Rika",
-            "TextENG": "``...Rena's not here. Do you know where she is, Keiichi?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12753,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100026.",
-            "TextJPN": "「あれ？　たった今までそこにいたのにな。@k@vS20/01/440100027.…おい魅音。@k@vS20/01/440100028.レナはどこ行ったんだ？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Huh? She was just there, actually...@k@vS20/01/440100027. Hey, Mion.@k@vS20/01/440100028. Where did Rena go?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12754,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300023.",
-            "TextJPN": "「レナー？　お手洗いじゃない？@k@vS20/03/440300024.　覗きたいなら止めないけど通報するからね～」",
-            "NamesENG": "Mion",
-            "TextENG": "``Rena~? Didn't she go to the washroom?@k@vS20/03/440300024. If you're planning to peep, I won't stop you. I'll call the cops, though~!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12755,
-            "TextJPN": "そんなことは一言も聞いてない！",
-            "TextENG": "I hadn't heard anything about that!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12756,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/440500005.",
-            "TextJPN": "「……沙都子。レナを知りませんですか？」",
-            "NamesENG": "Rika",
-            "TextENG": "``...Satoko, do you know where Rena went?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12757,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/440400011.",
-            "TextJPN": "「レナさんですの？　さっき廊下ですれ違いましてよ。@k@vS20/04/440400012.レナさんは日直だから、花壇にお水をやらないといけませんので」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Rena-san, you say? I just passed her in the hallway.@k@vS20/04/440400012. Rena-san has class duties today, so she's off to water the flower bed.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12758,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300025.",
-            "TextJPN": "「あーレナが日直かぁ。そりゃお疲れさまなことで」",
-            "NamesENG": "Mion",
-            "TextENG": "``Ah~ It was Rena's turn for class duty. Sounds like a drag.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12759,
-            "TextJPN": "…レナレナレナ。",
-            "TextENG": "...Rena, Rena, Rena."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12760,
-            "TextJPN": "…とレナの名が乱発され、ふと疑問に思った。",
-            "TextENG": "...Upon hearing it repeated, a thought came to mind."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12761,
-            "TextJPN": "人の名前にこんなこと言っちゃ失礼だが、……変わった名前だよな。@k外人さんみたいな名前だ。",
-            "TextENG": "It's rude to say this about someone's name... but it was a weird name.@k It was like some foreigner's name."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12762,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100029.",
-            "TextJPN": "「レナってどういう名前なんだろうな。…レナって漢字だとどうなるんだ？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``What kind of name is Rena, I wonder... What kind of kanji does her name use?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12763,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/440500006.",
-            "TextJPN": "「……レナはあだ名なのです。ちゃんとした名前がありますですよ」",
-            "NamesENG": "Rika",
-            "TextENG": "``...Rena is her nickname. She has a proper name as well.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12764,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100030.",
-            "TextJPN": "「え、そうなのか？！　俺はてっきり竜宮レナってのが本名だと思ってたよ」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``What, really!? I was sure that Rena Ryuugu was her actual name.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12765,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/440400013.",
-            "TextJPN": "「まぁ確かに。レナさんとしか呼んでませんから、間違えるのも無理はないですわね」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Well... I can understand you making that mistake since we only call her Rena-san.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12766,
-            "TextJPN": "しかも、習字の名前も『レナ』になってるしな。@k学校では本名同然のようだ。",
-            "TextENG": "She even signs her name as ``@bレナ.@<Rena@>.``@k It's like it's her real name in school."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12767,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100031.",
-            "TextJPN": "「本当の名前は何て言うんだろうな。…レナが戻ってきたら聞いてみるかな！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``I wonder what her real name is... Let's ask her when she comes back!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12768,
-            "TextJPN": "沙都子と梨花ちゃんが顔を向かい合わせる。",
-            "TextENG": "Satoko and Rika-chan looked at each other."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12769,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/440500007.",
-            "TextJPN": "「……聞かなくてもいいですよ。ボクたちが教えてあげますです」",
-            "NamesENG": "Rika",
-            "TextENG": "``...You don't need to ask her. We'll tell you what it is.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12770,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/440400014.",
-            "TextJPN": "「お礼の礼に、奈良の奈。…@bりゅうぐう.@<竜宮@>@bれいな.@<礼奈@>が本名ですのよ！」",
-            "NamesENG": "Satoko",
-            "TextENG": "``It's the '@brei.@<礼@>' from '@borei.@<お礼@>' and the '@bna.@<奈@>' from '@bnara.@<奈良@>.' Her real name is Reina Ryuugu!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12771,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100032.",
-            "TextJPN": "「礼奈か。………ふーん。@k@vS20/01/440100033.それでレイナじゃなくてレナって読むのか？@k@vS20/01/440100034.　面白い読み方だよな」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Reina, is it? ...Hmm.@k@vS20/01/440100033. So it's read out as Rena instead of Reina?@k@vS20/01/440100034. That's a pretty interesting reading.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12772,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/440500008.",
-            "TextJPN": "「……いいえ、違いますです。レイナで正しいのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``...No, that's not it. 'Reina' is the correct way.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12773,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/440400015.",
-            "TextJPN": "「レナさんが言ったのですわ。レナと呼んで欲しいって。@k@vS20/04/440400016.だからレナさんなのですわ」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Rena-san had told us that she wanted us to call her 'Rena.'@k@vS20/04/440400016. So we call her Rena-san.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12774,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300026.",
-            "TextJPN": "「圭ちゃん。…レナはレナだよ？@k@vS20/03/440300027.　礼奈って呼ぶのは他人だけ。@k@vS20/03/440300028.そこんとこ、わかってるよね？」",
-            "NamesENG": "Mion",
-            "TextENG": "``Kei-chan... Rena is Rena, you know?@k@vS20/03/440300027. Only strangers call her Reina.@k@vS20/03/440300028. You get where this is going?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12775,
-            "TextJPN": "魅音の言いたいことはわかる。",
-            "TextENG": "I understood what Mion was saying."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12776,
-            "TextJPN": "本名が何だって、俺たちの間の通り名が全てに決まってる！",
-            "TextENG": "It didn't matter what her real name was, only what names we used between us!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12777,
-            "TextJPN": "竜宮レナはレナだ。それ以外の誰でもないさ。",
-            "TextENG": "Rena Ryuugu is Rena. She's nobody other than that."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12778,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100035.",
-            "TextJPN": "「思ったんだけどさ、自己申請すれば俺も今日からあだ名で呼ばれるのか？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``So I was thinking, if I had a nickname, would you call me by that?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12779,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300029.",
-            "TextJPN": "「面白けりゃね。何て呼ばれたいわけ？」",
-            "NamesENG": "Mion",
-            "TextENG": "``If it's good. So what do you want to be called?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12780,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100036.",
-            "TextJPN": "「越後屋」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Con man.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12781,
-            "TextJPN": "やがてレナが教室に戻ってきた。",
-            "TextENG": "Rena then came back into the classroom."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12782,
-            "TextJPN": "入り口で後輩が、レナを探している人がいたことを教えている。",
-            "TextENG": "One of the juniors near the door told Rena people were looking for her."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12783,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200034.",
-            "TextJPN": "「あれあれ？　誰かレナの事を探してたかな？@k@vS20/02/440200035.　かな？」",
-            "NamesENG": "Rena",
-            "TextENG": "``What's this now? Who is looking for me, I wonder?@k@vS20/02/440200035. I wonder?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12784,
-            "TextJPN": "それを見てにんまりと笑う俺と魅音。",
-            "TextENG": "Seeing that, both Mion and I sneered."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12785,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100037.",
-            "TextJPN": "「お代官様、竜宮めがまんまと現れましたぞ！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Bailiff, Ryuugu doth show herself!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12786,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300030.",
-            "TextJPN": "「越後屋、主も悪よのぅ。…ふぉっふぉっふぉ！！！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Con man, you're quite sinister... Hwah hwah hwah!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12787,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200036.",
-            "TextJPN": "「なな、何かな何かな？！　圭一くんと魅ぃちゃんが悪代官だよ？@k@vS20/02/440200037.　越後屋だよ？！」",
-            "NamesENG": "Rena",
-            "TextENG": "``Wh-What is this, what is this!? Keiichi-kun and Mii-chan are an evil bailiff and...?@k@vS20/02/440200037. a con man!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12788,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100038.",
-            "TextJPN": "「おのれ竜宮レナの助！　ここで会ったが百年目でおじゃる。@k@vS20/01/440100039.いざ覚悟～！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Damn you, Renanosuke Ryuugu! Today doth be when thou meetest thy maker.@k@vS20/01/440100039. Have at thee~!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12789,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200038.",
-            "TextJPN": "「わ！　わ！@k@vS20/02/440200039.　助さん角さん、こらしめてやりなさーい！！」",
-            "NamesENG": "Rena",
-            "TextENG": "``Wah! Wah!@k@vS20/02/440200039. Suke-san, Kaku-san, show them what-for!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12790,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS20/04/440400017.",
-            "TextJPN": "「アイアイサーですわー！！！」",
-            "NamesENG": "Satoko",
-            "TextENG": "``Aye aye, sir!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12791,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/440500009.",
-            "TextJPN": "「……報酬はスイス銀行に入れて欲しいのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``...I expect my fee to be paid to my Swiss bank account.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12792,
-            "TextJPN": "こうなっては仕方ない！　あとは５人入り乱れての大乱闘…！！！",
-            "TextENG": "Since it's come to this, we have no choice! We'll just have a grand battle with five people...!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12793,
-            "TextJPN": "印篭のタイミングでレナの必殺パンチが炸裂する。",
-            "TextENG": "Rena's fierce punches exploded just as soon as she had shown her seal."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12794,
-            "TextJPN": "結局、悪は滅びる俺と魅音…。",
-            "TextENG": "The evil that was Mion and myself was vanquished in the end..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12795,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100040.",
-            "TextJPN": "「…レナにはぜひ世直しの旅に出てもらいたいもんだ。…永田町なんかどうだ？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...I do hope that Rena does go on a journey to make the world a better place. How about heading to parliament first?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12796,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300031.",
-            "TextJPN": "「……ダメだよ。旅先でかぁいいものをチョロまかすから」",
-            "NamesENG": "Mion",
-            "TextENG": "``...Spare me. I'll get kyute stuff for you on my travels.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12797,
-            "TextJPN": "振鈴が休み時間の終わりを告げる。",
-            "TextENG": "The toll of the bell signaled that break time was over."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12798,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200040.",
-            "TextJPN": "「ほらほら、圭一くんも魅ぃちゃんも。先生来るよ！」",
-            "NamesENG": "Rena",
-            "TextENG": "``Come on, come on Keiichi-kun, Mii-chan. The teacher's coming!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12799,
-            "TextJPN": "レナに手を借りて起き上がる。",
-            "TextENG": "I took Rena's hand and stood up."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12800,
-            "TextJPN": "ちょうど先生が教室に入ってきたところだった。",
-            "TextENG": "It was just as the teacher had entered the classroom."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12801,
-            "TextJPN": "……あと１時間か。@kやれやれ。@k……もうひと踏ん張りするかな！",
-            "TextENG": "...Just one more hour.@k Man, oh man.@k ...Got to buckle down for one more!"
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "レナってどういう名前だよ？",
+		"ENG": "What Kind of Name Is Rena?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12752,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/440500004.",
+		"TextJPN": "「……レナがいないです。圭一は知りませんですか？」",
+		"NamesENG": "Rika",
+		"TextENG": "``...Rena's not here. Do you know where she is, Keiichi?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12753,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100026.",
+		"TextJPN": "「あれ？　たった今までそこにいたのにな。@k@vS20/01/440100027.…おい魅音。@k@vS20/01/440100028.レナはどこ行ったんだ？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Huh? She was just there, actually...@k@vS20/01/440100027. Hey, Mion.@k@vS20/01/440100028. Where did Rena go?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12754,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300023.",
+		"TextJPN": "「レナー？　お手洗いじゃない？@k@vS20/03/440300024.　覗きたいなら止めないけど通報するからね～」",
+		"NamesENG": "Mion",
+		"TextENG": "``Rena~? Didn't she go to the washroom?@k@vS20/03/440300024. If you're planning to peep, I won't stop you. I'll call the cops, though~!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12755,
+		"TextJPN": "そんなことは一言も聞いてない！",
+		"TextENG": "I hadn't heard anything about that!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12756,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/440500005.",
+		"TextJPN": "「……沙都子。レナを知りませんですか？」",
+		"NamesENG": "Rika",
+		"TextENG": "``...Satoko, do you know where Rena went?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12757,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/440400011.",
+		"TextJPN": "「レナさんですの？　さっき廊下ですれ違いましてよ。@k@vS20/04/440400012.レナさんは日直だから、花壇にお水をやらないといけませんので」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Rena-san, you say? I just passed her in the hallway.@k@vS20/04/440400012. Rena-san has class duties today, so she's off to water the flower bed.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12758,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300025.",
+		"TextJPN": "「あーレナが日直かぁ。そりゃお疲れさまなことで」",
+		"NamesENG": "Mion",
+		"TextENG": "``Ah~ It was Rena's turn for class duty. Sounds like a drag.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12759,
+		"TextJPN": "…レナレナレナ。",
+		"TextENG": "...Rena, Rena, Rena."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12760,
+		"TextJPN": "…とレナの名が乱発され、ふと疑問に思った。",
+		"TextENG": "...Upon hearing it repeated, a thought came to mind."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12761,
+		"TextJPN": "人の名前にこんなこと言っちゃ失礼だが、……変わった名前だよな。@k外人さんみたいな名前だ。",
+		"TextENG": "It's rude to say this about someone's name... but it was a weird name.@k It was like some foreigner's name."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12762,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100029.",
+		"TextJPN": "「レナってどういう名前なんだろうな。…レナって漢字だとどうなるんだ？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``What kind of name is Rena, I wonder... What kind of kanji does her name use?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12763,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/440500006.",
+		"TextJPN": "「……レナはあだ名なのです。ちゃんとした名前がありますですよ」",
+		"NamesENG": "Rika",
+		"TextENG": "``...Rena is her nickname. She has a proper name as well.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12764,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100030.",
+		"TextJPN": "「え、そうなのか？！　俺はてっきり竜宮レナってのが本名だと思ってたよ」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``What, really!? I was sure that Rena Ryuugu was her actual name.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12765,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/440400013.",
+		"TextJPN": "「まぁ確かに。レナさんとしか呼んでませんから、間違えるのも無理はないですわね」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Well... I can understand you making that mistake since we only call her Rena-san.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12766,
+		"TextJPN": "しかも、習字の名前も『レナ』になってるしな。@k学校では本名同然のようだ。",
+		"TextENG": "She even signs her name as ``@bレナ.@<Rena@>.``@k It's like it's her real name in school."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12767,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100031.",
+		"TextJPN": "「本当の名前は何て言うんだろうな。…レナが戻ってきたら聞いてみるかな！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``I wonder what her real name is... Let's ask her when she comes back!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12768,
+		"TextJPN": "沙都子と梨花ちゃんが顔を向かい合わせる。",
+		"TextENG": "Satoko and Rika-chan looked at each other."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12769,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/440500007.",
+		"TextJPN": "「……聞かなくてもいいですよ。ボクたちが教えてあげますです」",
+		"NamesENG": "Rika",
+		"TextENG": "``...You don't need to ask her. We'll tell you what it is.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12770,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/440400014.",
+		"TextJPN": "「お礼の礼に、奈良の奈。…@bりゅうぐう.@<竜宮@>@bれいな.@<礼奈@>が本名ですのよ！」",
+		"NamesENG": "Satoko",
+		"TextENG": "``It's the '@brei.@<礼@>' from '@borei.@<お礼@>' and the '@bna.@<奈@>' from '@bnara.@<奈良@>.' Her real name is Reina Ryuugu!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12771,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100032.",
+		"TextJPN": "「礼奈か。………ふーん。@k@vS20/01/440100033.それでレイナじゃなくてレナって読むのか？@k@vS20/01/440100034.　面白い読み方だよな」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Reina, is it? ...Hmm.@k@vS20/01/440100033. So it's read out as Rena instead of Reina?@k@vS20/01/440100034. That's a pretty interesting reading.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12772,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/440500008.",
+		"TextJPN": "「……いいえ、違いますです。レイナで正しいのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``...No, that's not it. 'Reina' is the correct way.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12773,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/440400015.",
+		"TextJPN": "「レナさんが言ったのですわ。レナと呼んで欲しいって。@k@vS20/04/440400016.だからレナさんなのですわ」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Rena-san had told us that she wanted us to call her 'Rena.'@k@vS20/04/440400016. So we call her Rena-san.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12774,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300026.",
+		"TextJPN": "「圭ちゃん。…レナはレナだよ？@k@vS20/03/440300027.　礼奈って呼ぶのは他人だけ。@k@vS20/03/440300028.そこんとこ、わかってるよね？」",
+		"NamesENG": "Mion",
+		"TextENG": "``Kei-chan... Rena is Rena, you know?@k@vS20/03/440300027. Only strangers call her Reina.@k@vS20/03/440300028. You get where this is going?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12775,
+		"TextJPN": "魅音の言いたいことはわかる。",
+		"TextENG": "I understood what Mion was saying."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12776,
+		"TextJPN": "本名が何だって、俺たちの間の通り名が全てに決まってる！",
+		"TextENG": "It didn't matter what her real name was, only what names we used between us!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12777,
+		"TextJPN": "竜宮レナはレナだ。それ以外の誰でもないさ。",
+		"TextENG": "Rena Ryuugu is Rena. She's nobody other than that."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12778,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100035.",
+		"TextJPN": "「思ったんだけどさ、自己申請すれば俺も今日からあだ名で呼ばれるのか？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``So I was thinking, if I had a nickname, would you call me by that?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12779,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300029.",
+		"TextJPN": "「面白けりゃね。何て呼ばれたいわけ？」",
+		"NamesENG": "Mion",
+		"TextENG": "``If it's good. So what do you want to be called?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12780,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100036.",
+		"TextJPN": "「越後屋」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Con man.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12781,
+		"TextJPN": "やがてレナが教室に戻ってきた。",
+		"TextENG": "Rena then came back into the classroom."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12782,
+		"TextJPN": "入り口で後輩が、レナを探している人がいたことを教えている。",
+		"TextENG": "One of the juniors near the door told Rena people were looking for her."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12783,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200034.",
+		"TextJPN": "「あれあれ？　誰かレナの事を探してたかな？@k@vS20/02/440200035.　かな？」",
+		"NamesENG": "Rena",
+		"TextENG": "``What's this now? Who is looking for me, I wonder?@k@vS20/02/440200035. I wonder?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12784,
+		"TextJPN": "それを見てにんまりと笑う俺と魅音。",
+		"TextENG": "Seeing that, both Mion and I sneered."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12785,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100037.",
+		"TextJPN": "「お代官様、竜宮めがまんまと現れましたぞ！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Bailiff, Ryuugu doth show herself!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12786,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300030.",
+		"TextJPN": "「越後屋、主も悪よのぅ。…ふぉっふぉっふぉ！！！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Con man, you're quite sinister... Hwah hwah hwah!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12787,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200036.",
+		"TextJPN": "「なな、何かな何かな？！　圭一くんと魅ぃちゃんが悪代官だよ？@k@vS20/02/440200037.　越後屋だよ？！」",
+		"NamesENG": "Rena",
+		"TextENG": "``Wh-What is this, what is this!? Keiichi-kun and Mii-chan are an evil bailiff and...?@k@vS20/02/440200037. a con man!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12788,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100038.",
+		"TextJPN": "「おのれ竜宮レナの助！　ここで会ったが百年目でおじゃる。@k@vS20/01/440100039.いざ覚悟～！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Damn you, Renanosuke Ryuugu! Today doth be when thou meetest thy maker.@k@vS20/01/440100039. Have at thee~!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12789,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200038.",
+		"TextJPN": "「わ！　わ！@k@vS20/02/440200039.　助さん角さん、こらしめてやりなさーい！！」",
+		"NamesENG": "Rena",
+		"TextENG": "``Wah! Wah!@k@vS20/02/440200039. Suke-san, Kaku-san, show them what-for!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12790,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS20/04/440400017.",
+		"TextJPN": "「アイアイサーですわー！！！」",
+		"NamesENG": "Satoko",
+		"TextENG": "``Aye aye, sir!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12791,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/440500009.",
+		"TextJPN": "「……報酬はスイス銀行に入れて欲しいのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``...I expect my fee to be paid to my Swiss bank account.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12792,
+		"TextJPN": "こうなっては仕方ない！　あとは５人入り乱れての大乱闘…！！！",
+		"TextENG": "Since it's come to this, we have no choice! We'll just have a grand battle with five people...!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12793,
+		"TextJPN": "印篭のタイミングでレナの必殺パンチが炸裂する。",
+		"TextENG": "Rena's fierce punches exploded just as soon as she had shown her seal."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12794,
+		"TextJPN": "結局、悪は滅びる俺と魅音…。",
+		"TextENG": "The evil that was Mion and myself was vanquished in the end..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12795,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100040.",
+		"TextJPN": "「…レナにはぜひ世直しの旅に出てもらいたいもんだ。…永田町なんかどうだ？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...I do hope that Rena does go on a journey to make the world a better place. How about heading to parliament first?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12796,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300031.",
+		"TextJPN": "「……ダメだよ。旅先でかぁいいものをチョロまかすから」",
+		"NamesENG": "Mion",
+		"TextENG": "``...Spare me. I'll get kyute stuff for you on my travels.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12797,
+		"TextJPN": "振鈴が休み時間の終わりを告げる。",
+		"TextENG": "The toll of the bell signaled that break time was over."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12798,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200040.",
+		"TextJPN": "「ほらほら、圭一くんも魅ぃちゃんも。先生来るよ！」",
+		"NamesENG": "Rena",
+		"TextENG": "``Come on, come on Keiichi-kun, Mii-chan. The teacher's coming!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12799,
+		"TextJPN": "レナに手を借りて起き上がる。",
+		"TextENG": "I took Rena's hand and stood up."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12800,
+		"TextJPN": "ちょうど先生が教室に入ってきたところだった。",
+		"TextENG": "It was just as the teacher had entered the classroom."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12801,
+		"TextJPN": "……あと１時間か。@kやれやれ。@k……もうひと踏ん張りするかな！",
+		"TextENG": "...Just one more hour.@k Man, oh man.@k ...Got to buckle down for one more!"
+	}
+]

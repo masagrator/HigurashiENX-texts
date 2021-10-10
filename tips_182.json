@@ -1,74 +1,72 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "診察カルテ",
-            "ENG": "Medical Examination Records"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18095,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "時間：１０月１１日（月）２１時１７分",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Time: Monday, October 11th. 9:17 PM."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18096,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "対象者氏名：南井巴（２８）",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Subject's full name: Tomoe Minai (28)."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18097,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "住所：愛知県垣内市在住",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Address: Kakiuchi City, Aichi prefecture."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18098,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "職業：愛知県警察本部垣内署勤務",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Occupation: Working at Kakiuchi Station on behalf of Aichi prefectural police headquarters."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18099,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "症状：発熱および昏睡。頚部に×××（ドイツ語表記）",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Symptoms: Fever and coma. XXX in the neck. (description in German)"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18100,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "処方：解熱剤と栄養剤を投与。×××を２０ｃｃ注射。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Prescription: Antipyretic and nutrients administered. 20cc injection of XXX."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18101,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "その他：××××××の疑い、症状レベルは××。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Other: Suspected of XXXXXX XXXXXXXX, symptom level is XX."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18102,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "穀倉大学付属病院へカルテをＦＡＸにて送付済み。経過観察を担当医に依頼、要報告のこと。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Medical records have been faxed to Gogura University Hospital. Requesting follow-up from the doctor in charge. Report required."
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "診察カルテ",
+		"ENG": "Medical Examination Records"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18095,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "時間：１０月１１日（月）２１時１７分",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Time: Monday, October 11th. 9:17 PM."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18096,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "対象者氏名：南井巴（２８）",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Subject's full name: Tomoe Minai (28)."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18097,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "住所：愛知県垣内市在住",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Address: Kakiuchi City, Aichi prefecture."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18098,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "職業：愛知県警察本部垣内署勤務",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Occupation: Working at Kakiuchi Station on behalf of Aichi prefectural police headquarters."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18099,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "症状：発熱および昏睡。頚部に×××（ドイツ語表記）",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Symptoms: Fever and coma. XXX in the neck. (description in German)"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18100,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "処方：解熱剤と栄養剤を投与。×××を２０ｃｃ注射。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Prescription: Antipyretic and nutrients administered. 20cc injection of XXX."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18101,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "その他：××××××の疑い、症状レベルは××。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Other: Suspected of XXXXXX XXXXXXXX, symptom level is XX."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18102,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "穀倉大学付属病院へカルテをＦＡＸにて送付済み。経過観察を担当医に依頼、要報告のこと。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Medical records have been faxed to Gogura University Hospital. Requesting follow-up from the doctor in charge. Report required."
+	}
+]

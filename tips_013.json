@@ -1,337 +1,335 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "犯人は４人以上？",
-            "ENG": "There Are More Than Four Perpetrators?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12843,
-            "NamesJPN": "鑑識",
-            "PreTextTags": "@vS20/00/443200001.",
-            "TextJPN": "「自分で喉を掻き破った出血性ショック死。@k@vS20/00/443200002.爪の間に皮膚片が残っておった。間違いなく本人のものじゃわい。@k@vS20/00/443200003.傷の形も一致する」",
-            "NamesENG": "Forensic Investigator",
-            "TextENG": "``Hypovolemic shock induced by clawing out their own throat.@k@vS20/00/443200002. Tissue is packed under the nails. It's undoubtedly by the individual's own nails.@k@vS20/00/443200003. The shape of the scars also matches.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12844,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700009.",
-            "TextJPN": "「えぇえぇ。直接死因が自殺ってのはわかってますよ」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Yeaaaah... I know the immediate cause of death was suicide.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12845,
-            "NamesJPN": "鑑識",
-            "PreTextTags": "@vS20/00/443200004.",
-            "TextJPN": "「わかっとるわい。人為的にこういう症状が起こせんかと言っとるんだろう？」",
-            "NamesENG": "Forensic Investigator",
-            "TextENG": "``I get it. You're saying the cause of death is unnatural, right?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12846,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700010.",
-            "TextJPN": "「背中が痒くて掻きすぎて、血が出ちゃうのとはちょっと訳がちがいますからねぇ」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``It's not quite on the same level as when your back itches and you scratch a little too hard and draw blood, after all.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12847,
-            "TextJPN": "富竹氏の指には爪が剥がれたものもある。",
-            "TextENG": "Some of Tomitake's fingernails had been pulled out."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12848,
-            "TextJPN": "爪自体は割と簡単に剥がれる。",
-            "TextENG": "Fingernails actually rip off surprisingly easily."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12849,
-            "TextJPN": "だがとても痛い。",
-            "TextENG": "But it really hurts."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12850,
-            "TextJPN": "だから普通は剥がれるような無茶はしない。",
-            "TextENG": "Under normal circumstances, the pain would prevent you from completely pulling them out."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12851,
-            "TextJPN": "そして、富竹氏の遺体に残る数々のアザ。",
-            "TextENG": "Also, there were a lot of bruises on Tomitake's body."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12852,
-            "TextJPN": "…形状その他から素手の暴行によるもの、それも複数人に囲まれてであることは明白だ。",
-            "TextENG": "...It's clear from the shape of them that he was assaulted first by someone—or a group of people."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12853,
-            "NamesJPN": "鑑識",
-            "PreTextTags": "@vS20/00/443200005.",
-            "TextJPN": "「分泌物から見て、仏は極度の興奮状態にあったのは間違いないのう」",
-            "NamesENG": "Forensic Investigator",
-            "TextENG": "``According to the toxicology report, the deceased was in an extreme state of hysteria right before death.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12854,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700011.",
-            "TextJPN": "「では乱闘になって、興奮のあまり自分の喉を引っ掻きだしたってことですか？　襲った連中、さぞや度肝を抜かれたでしょうなぁ」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Then he fought back and clawed out his own throat because of how hysterical he had become? The guys attacking him certainly would have been surprised by that.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12855,
-            "TextJPN": "確かに異常な環境で異常に興奮した人間は、健常者には考えられない行動を取ることはありえる。",
-            "TextENG": "It is possible that, in such an abnormal environment, a person could perform acts that a sane individual couldn't possibly imagine."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12856,
-            "TextJPN": "無論、極めて稀有なケースだが。",
-            "TextENG": "Of course, those are very rare cases."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12857,
-            "NamesJPN": "鑑識",
-            "PreTextTags": "@vS20/00/443200006.",
-            "TextJPN": "「実はな、大石。仏が武器にしたらしい角材な。@k@vS20/00/443200007.砂粒とかガードレールの塗装片とかそんなのしか出んかったぞい」",
-            "NamesENG": "Forensic Investigator",
-            "TextENG": "``Actually, Ooishi-kun, that wood plank the deceased used as a weapon?@k@vS20/00/443200007. They only found sand and the paint from the guardrail on it.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12858,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700012.",
-            "TextJPN": "「ホシの服の繊維とか、皮膚片とかは？」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``What about cloth fibers or skin?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12859,
-            "NamesJPN": "鑑識",
-            "PreTextTags": "@vS20/00/443200008.",
-            "TextJPN": "「出んかった。仏は犯人を殴っとらん。@k@vS20/00/443200009.…あるいは殴った角材を、ホシが持ち去ったのかも知れんの」",
-            "NamesENG": "Forensic Investigator",
-            "TextENG": "``Nothing. The deceased didn't strike the assailants...@k@vS20/00/443200009. Or it could be they took the plank he was fighting back with.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12860,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700013.",
-            "TextJPN": "「なら、わざわざ角材なんて置いていきませんよ。全部持ってっちゃいます」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``In that case, they wouldn't have gone out of their way to replace it with another. They'd take them all.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12861,
-            "NamesJPN": "鑑識",
-            "PreTextTags": "@vS20/00/443200010.",
-            "TextJPN": "「かっかっかっか！　それもそうじゃのう」",
-            "NamesENG": "Forensic Investigator",
-            "TextENG": "``Har har har har! That's true.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12862,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700014.",
-            "TextJPN": "「富竹氏は結構、体格もいいし肌も焼けてるし。…スポーツマンですよねぇ」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Tomitake's pretty built and tanned... He was quite athletic.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12863,
-            "NamesJPN": "鑑識",
-            "PreTextTags": "@vS20/00/443200011.",
-            "TextJPN": "「ん？　そうだな。@k@vS20/00/443200012.よく運動しとるようだの」",
-            "NamesENG": "Forensic Investigator",
-            "TextENG": "``Hm? That's right.@k@vS20/00/443200012. He was pretty active.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12864,
-            "TextJPN": "…生前に何のスポーツを嗜んでいたか想像はつかないが、身体能力は高い方だと思う。",
-            "TextENG": "...I can't imagine what kind of sports he did when he was alive, but I think his physical strength would be on the higher side."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12865,
-            "TextJPN": "つまり、乱闘では決してひけを取らないはずなのだ。",
-            "TextENG": "Meaning, he would be difficult to overpower in a brawl."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12866,
-            "TextJPN": "これだけ体格のいい男が、身に危険が迫って、死に物狂いで武器を振り回して。",
-            "TextENG": "If a man with such a physique sensed he was in danger and swung the plank around frantically..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12867,
-            "TextJPN": "それが犯人にかすりもしないなんて、ちょっと普通では考えられない。",
-            "TextENG": "It's just unthinkable that it wouldn't even nick the perpetrator."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12868,
-            "TextJPN": "しかも相手は素手。",
-            "TextENG": "And his opponent was unarmed."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12869,
-            "TextJPN": "こっちは角材なんだから、１回くらいは殴れたと思うのだが…。",
-            "TextENG": "This guy had a wooden plank, so you'd think he'd hit them at least once..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12870,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700015.",
-            "TextJPN": "「こんだけ体格のいい相手を取り囲んで襲おうとしたら、…何人くらいいりますかねぇ」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``To surround and take down someone of his physique... I wonder how many people it would take.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12871,
-            "NamesJPN": "鑑識",
-            "PreTextTags": "@vS20/00/443200013.",
-            "TextJPN": "「あほぅ。それは大石の方が得意だろうが。@k@vS20/00/443200014.悪タレ時代を思い出さんかい！」",
-            "NamesENG": "Forensic Investigator",
-            "TextENG": "``Ya dimwit... If anything, that's your specialty.@k@vS20/00/443200014. Have you forgotten your 'Bad Cop' days?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12872,
-            "TextJPN": "私が彼と喧嘩するなら何人ほしい？",
-            "TextENG": "If I was to take down this guy, how many would I need?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12873,
-            "TextJPN": "群が時に大型獣を倒すように、多人数で襲うのは狩りの鉄則だ。",
-            "TextENG": "When a group wants to take down big prey it's fundamental to attack with numbers."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12874,
-            "TextJPN": "……４人くらいはほしい。",
-            "TextENG": "...I'd guess about four."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12875,
-            "TextJPN": "多少の体格差があってもこれだけいればなんとかなる。",
-            "TextENG": "Even if there was a gap in their strength, they'd manage."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12876,
-            "NamesJPN": "鑑識",
-            "PreTextTags": "@vS20/00/443200015.",
-            "TextJPN": "「だとすると、結構犯人は多人数だの。@k@vS20/00/443200016.祭りで泥酔した４人以上のグループが怪しいとなるかの？」",
-            "NamesENG": "Forensic Investigator",
-            "TextENG": "``Then there were quite a few perpetrators.@k@vS20/00/443200016. So any drunk-and-disorderly groups of more than four are suspicious?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12877,
-            "TextJPN": "………４人以上のグループ。",
-            "TextENG": "...A group of four or more."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12878,
-            "TextJPN": "しかし…それだけの人数がいれば、遺体をもっと目に付きにくいところに隠せなかっただろうか？",
-            "TextENG": "Just... if they had that many, then couldn't they have hidden the body in a less obvious location?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12879,
-            "TextJPN": "あるいは…瀕死の状態で監禁されていたのをなんとか抜け出してきたのか…。",
-            "TextENG": "Or... did he somehow break away from that fatal predicament..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12880,
-            "TextJPN": "だとしたら自殺する理由がわからない。",
-            "TextENG": "Then there would be no reason to commit suicide."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12881,
-            "TextJPN": "それ以上に、あの異常な死に方の理由がわからない……。@k謎だらけだ。",
-            "TextENG": "Moreover, I still can't comprehend the irregular way he died...@k It's full of mysteries."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12882,
-            "NamesJPN": "鑑識",
-            "PreTextTags": "@vS20/00/443200017.",
-            "TextJPN": "「こっちもそこは重視しとる。徹底的に調べるつもりだが…あまり期待できんな。@k@vS20/00/443200018.何しろ、過去にこんな例はないんだからな」",
-            "NamesENG": "Forensic Investigator",
-            "TextENG": "``That's under serious consideration on my end, too. I'll be examining it as thoroughly as possible, but don't get your hopes up.@k@vS20/00/443200018. After all, we've never encountered a death like this before.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12883,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700016.",
-            "TextJPN": "「期待はしませんよ。ですが結果を楽しみにしてます」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``I'm not hoping for much. But I am looking forward to the results.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12884,
-            "NamesJPN": "熊谷",
-            "PreTextTags": "@vS20/19/443100001.",
-            "TextJPN": "「大石さん～！　課長が呼んでるっすー！」",
-            "NamesENG": "Kumagai",
-            "TextENG": "``Ooishi-san~! The chief is calling you!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12885,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700017.",
-            "TextJPN": "「すみません、ではまた来年お会いしましょう」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Thanks. See ya 'round.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12886,
-            "NamesJPN": "鑑識",
-            "PreTextTags": "@vS20/00/443200019.",
-            "TextJPN": "「おう。いいお年をの！」",
-            "NamesENG": "Forensic Investigator",
-            "TextENG": "``Yeah. Best wishes!``"
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "犯人は４人以上？",
+		"ENG": "There Are More Than Four Perpetrators?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12843,
+		"NamesJPN": "鑑識",
+		"PreTextTags": "@vS20/00/443200001.",
+		"TextJPN": "「自分で喉を掻き破った出血性ショック死。@k@vS20/00/443200002.爪の間に皮膚片が残っておった。間違いなく本人のものじゃわい。@k@vS20/00/443200003.傷の形も一致する」",
+		"NamesENG": "Forensic Investigator",
+		"TextENG": "``Hypovolemic shock induced by clawing out their own throat.@k@vS20/00/443200002. Tissue is packed under the nails. It's undoubtedly by the individual's own nails.@k@vS20/00/443200003. The shape of the scars also matches.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12844,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700009.",
+		"TextJPN": "「えぇえぇ。直接死因が自殺ってのはわかってますよ」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Yeaaaah... I know the immediate cause of death was suicide.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12845,
+		"NamesJPN": "鑑識",
+		"PreTextTags": "@vS20/00/443200004.",
+		"TextJPN": "「わかっとるわい。人為的にこういう症状が起こせんかと言っとるんだろう？」",
+		"NamesENG": "Forensic Investigator",
+		"TextENG": "``I get it. You're saying the cause of death is unnatural, right?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12846,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700010.",
+		"TextJPN": "「背中が痒くて掻きすぎて、血が出ちゃうのとはちょっと訳がちがいますからねぇ」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``It's not quite on the same level as when your back itches and you scratch a little too hard and draw blood, after all.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12847,
+		"TextJPN": "富竹氏の指には爪が剥がれたものもある。",
+		"TextENG": "Some of Tomitake's fingernails had been pulled out."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12848,
+		"TextJPN": "爪自体は割と簡単に剥がれる。",
+		"TextENG": "Fingernails actually rip off surprisingly easily."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12849,
+		"TextJPN": "だがとても痛い。",
+		"TextENG": "But it really hurts."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12850,
+		"TextJPN": "だから普通は剥がれるような無茶はしない。",
+		"TextENG": "Under normal circumstances, the pain would prevent you from completely pulling them out."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12851,
+		"TextJPN": "そして、富竹氏の遺体に残る数々のアザ。",
+		"TextENG": "Also, there were a lot of bruises on Tomitake's body."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12852,
+		"TextJPN": "…形状その他から素手の暴行によるもの、それも複数人に囲まれてであることは明白だ。",
+		"TextENG": "...It's clear from the shape of them that he was assaulted first by someone—or a group of people."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12853,
+		"NamesJPN": "鑑識",
+		"PreTextTags": "@vS20/00/443200005.",
+		"TextJPN": "「分泌物から見て、仏は極度の興奮状態にあったのは間違いないのう」",
+		"NamesENG": "Forensic Investigator",
+		"TextENG": "``According to the toxicology report, the deceased was in an extreme state of hysteria right before death.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12854,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700011.",
+		"TextJPN": "「では乱闘になって、興奮のあまり自分の喉を引っ掻きだしたってことですか？　襲った連中、さぞや度肝を抜かれたでしょうなぁ」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Then he fought back and clawed out his own throat because of how hysterical he had become? The guys attacking him certainly would have been surprised by that.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12855,
+		"TextJPN": "確かに異常な環境で異常に興奮した人間は、健常者には考えられない行動を取ることはありえる。",
+		"TextENG": "It is possible that, in such an abnormal environment, a person could perform acts that a sane individual couldn't possibly imagine."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12856,
+		"TextJPN": "無論、極めて稀有なケースだが。",
+		"TextENG": "Of course, those are very rare cases."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12857,
+		"NamesJPN": "鑑識",
+		"PreTextTags": "@vS20/00/443200006.",
+		"TextJPN": "「実はな、大石。仏が武器にしたらしい角材な。@k@vS20/00/443200007.砂粒とかガードレールの塗装片とかそんなのしか出んかったぞい」",
+		"NamesENG": "Forensic Investigator",
+		"TextENG": "``Actually, Ooishi-kun, that wood plank the deceased used as a weapon?@k@vS20/00/443200007. They only found sand and the paint from the guardrail on it.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12858,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700012.",
+		"TextJPN": "「ホシの服の繊維とか、皮膚片とかは？」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``What about cloth fibers or skin?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12859,
+		"NamesJPN": "鑑識",
+		"PreTextTags": "@vS20/00/443200008.",
+		"TextJPN": "「出んかった。仏は犯人を殴っとらん。@k@vS20/00/443200009.…あるいは殴った角材を、ホシが持ち去ったのかも知れんの」",
+		"NamesENG": "Forensic Investigator",
+		"TextENG": "``Nothing. The deceased didn't strike the assailants...@k@vS20/00/443200009. Or it could be they took the plank he was fighting back with.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12860,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700013.",
+		"TextJPN": "「なら、わざわざ角材なんて置いていきませんよ。全部持ってっちゃいます」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``In that case, they wouldn't have gone out of their way to replace it with another. They'd take them all.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12861,
+		"NamesJPN": "鑑識",
+		"PreTextTags": "@vS20/00/443200010.",
+		"TextJPN": "「かっかっかっか！　それもそうじゃのう」",
+		"NamesENG": "Forensic Investigator",
+		"TextENG": "``Har har har har! That's true.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12862,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700014.",
+		"TextJPN": "「富竹氏は結構、体格もいいし肌も焼けてるし。…スポーツマンですよねぇ」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Tomitake's pretty built and tanned... He was quite athletic.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12863,
+		"NamesJPN": "鑑識",
+		"PreTextTags": "@vS20/00/443200011.",
+		"TextJPN": "「ん？　そうだな。@k@vS20/00/443200012.よく運動しとるようだの」",
+		"NamesENG": "Forensic Investigator",
+		"TextENG": "``Hm? That's right.@k@vS20/00/443200012. He was pretty active.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12864,
+		"TextJPN": "…生前に何のスポーツを嗜んでいたか想像はつかないが、身体能力は高い方だと思う。",
+		"TextENG": "...I can't imagine what kind of sports he did when he was alive, but I think his physical strength would be on the higher side."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12865,
+		"TextJPN": "つまり、乱闘では決してひけを取らないはずなのだ。",
+		"TextENG": "Meaning, he would be difficult to overpower in a brawl."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12866,
+		"TextJPN": "これだけ体格のいい男が、身に危険が迫って、死に物狂いで武器を振り回して。",
+		"TextENG": "If a man with such a physique sensed he was in danger and swung the plank around frantically..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12867,
+		"TextJPN": "それが犯人にかすりもしないなんて、ちょっと普通では考えられない。",
+		"TextENG": "It's just unthinkable that it wouldn't even nick the perpetrator."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12868,
+		"TextJPN": "しかも相手は素手。",
+		"TextENG": "And his opponent was unarmed."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12869,
+		"TextJPN": "こっちは角材なんだから、１回くらいは殴れたと思うのだが…。",
+		"TextENG": "This guy had a wooden plank, so you'd think he'd hit them at least once..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12870,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700015.",
+		"TextJPN": "「こんだけ体格のいい相手を取り囲んで襲おうとしたら、…何人くらいいりますかねぇ」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``To surround and take down someone of his physique... I wonder how many people it would take.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12871,
+		"NamesJPN": "鑑識",
+		"PreTextTags": "@vS20/00/443200013.",
+		"TextJPN": "「あほぅ。それは大石の方が得意だろうが。@k@vS20/00/443200014.悪タレ時代を思い出さんかい！」",
+		"NamesENG": "Forensic Investigator",
+		"TextENG": "``Ya dimwit... If anything, that's your specialty.@k@vS20/00/443200014. Have you forgotten your 'Bad Cop' days?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12872,
+		"TextJPN": "私が彼と喧嘩するなら何人ほしい？",
+		"TextENG": "If I was to take down this guy, how many would I need?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12873,
+		"TextJPN": "群が時に大型獣を倒すように、多人数で襲うのは狩りの鉄則だ。",
+		"TextENG": "When a group wants to take down big prey it's fundamental to attack with numbers."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12874,
+		"TextJPN": "……４人くらいはほしい。",
+		"TextENG": "...I'd guess about four."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12875,
+		"TextJPN": "多少の体格差があってもこれだけいればなんとかなる。",
+		"TextENG": "Even if there was a gap in their strength, they'd manage."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12876,
+		"NamesJPN": "鑑識",
+		"PreTextTags": "@vS20/00/443200015.",
+		"TextJPN": "「だとすると、結構犯人は多人数だの。@k@vS20/00/443200016.祭りで泥酔した４人以上のグループが怪しいとなるかの？」",
+		"NamesENG": "Forensic Investigator",
+		"TextENG": "``Then there were quite a few perpetrators.@k@vS20/00/443200016. So any drunk-and-disorderly groups of more than four are suspicious?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12877,
+		"TextJPN": "………４人以上のグループ。",
+		"TextENG": "...A group of four or more."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12878,
+		"TextJPN": "しかし…それだけの人数がいれば、遺体をもっと目に付きにくいところに隠せなかっただろうか？",
+		"TextENG": "Just... if they had that many, then couldn't they have hidden the body in a less obvious location?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12879,
+		"TextJPN": "あるいは…瀕死の状態で監禁されていたのをなんとか抜け出してきたのか…。",
+		"TextENG": "Or... did he somehow break away from that fatal predicament..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12880,
+		"TextJPN": "だとしたら自殺する理由がわからない。",
+		"TextENG": "Then there would be no reason to commit suicide."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12881,
+		"TextJPN": "それ以上に、あの異常な死に方の理由がわからない……。@k謎だらけだ。",
+		"TextENG": "Moreover, I still can't comprehend the irregular way he died...@k It's full of mysteries."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12882,
+		"NamesJPN": "鑑識",
+		"PreTextTags": "@vS20/00/443200017.",
+		"TextJPN": "「こっちもそこは重視しとる。徹底的に調べるつもりだが…あまり期待できんな。@k@vS20/00/443200018.何しろ、過去にこんな例はないんだからな」",
+		"NamesENG": "Forensic Investigator",
+		"TextENG": "``That's under serious consideration on my end, too. I'll be examining it as thoroughly as possible, but don't get your hopes up.@k@vS20/00/443200018. After all, we've never encountered a death like this before.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12883,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700016.",
+		"TextJPN": "「期待はしませんよ。ですが結果を楽しみにしてます」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``I'm not hoping for much. But I am looking forward to the results.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12884,
+		"NamesJPN": "熊谷",
+		"PreTextTags": "@vS20/19/443100001.",
+		"TextJPN": "「大石さん～！　課長が呼んでるっすー！」",
+		"NamesENG": "Kumagai",
+		"TextENG": "``Ooishi-san~! The chief is calling you!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12885,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700017.",
+		"TextJPN": "「すみません、ではまた来年お会いしましょう」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Thanks. See ya 'round.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12886,
+		"NamesJPN": "鑑識",
+		"PreTextTags": "@vS20/00/443200019.",
+		"TextJPN": "「おう。いいお年をの！」",
+		"NamesENG": "Forensic Investigator",
+		"TextENG": "``Yeah. Best wishes!``"
+	}
+]

@@ -1,1414 +1,1412 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "#5 お昼の登校",
-            "ENG": "#5 / Lunch in School"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43508,
-            "TextJPN": "校庭では大勢のクラスメイトが自由に遊んでいた。",
-            "TextENG": "Many of my classmates were playing freely in the schoolyard."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43509,
-            "TextJPN": "昇降口からは、つま先を蹴って靴を履きながら飛び出してくる子もいる。",
-            "TextENG": "A few of them had just run out of the school building after putting on their shoes and tapping their toes to the ground."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43510,
-            "TextJPN": "…昼ごはんを食べ終わって丁度くらいの時間のようだな。@k…時間調整の意味では、成功だったか。",
-            "TextENG": "...It looked like they had just finished eating lunch.@k ...From a time-manipulating standpoint, I guess I succeeded."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43511,
-            "NamesJPN": "女子",
-            "PreTextTags": "@vS03/00/girlA04001.",
-            "TextJPN": "「あ、……前原さぁん！@k@vS03/00/girlA04002.　大丈夫なんですか…？！」",
-            "NamesENG": "Girl",
-            "TextENG": "``Oh... Maebara-saan!@k@vS03/00/girlA04002. Are you okay...?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43512,
-            "TextJPN": "俺の姿を認めた女の子たちが駆け寄ってくる。",
-            "TextENG": "A few girls noticed me and came running over."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43513,
-            "TextJPN": "…まぁ、そうだよな。",
-            "TextENG": "...It was only natural they were worried."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43514,
-            "TextJPN": "普通、朝いなかったら、その日は欠席したと思うよな。",
-            "TextENG": "You'd think if someone wasn't there in the morning, they'd be out the rest of the day."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43515,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100290.",
-            "TextJPN": "「まぁその、…遅刻さ。@k@vS03/01/140100291.気にしないでくれ。@k@vS03/01/140100292.……それより、……沙都子はどうだ。@k@vS03/01/140100293.…今日は来てるか？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Well, I'm... just late for school.@k@vS03/01/140100291. Don't worry about it.@k@vS03/01/140100292. ...Anyway... What about Satoko?@k@vS03/01/140100293. ...Did she come today?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43516,
-            "TextJPN": "女の子たちは顔を見合わせる。",
-            "TextENG": "The girls exchanged glances."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43517,
-            "TextJPN": "…その表情が薄っすらと曇るのを見て、返事を待たずに答えを知る。",
-            "TextENG": "...I saw a thin shadow fall over their faces and knew the answer without needing to hear them reply."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43518,
-            "TextJPN": "……沙都子は結局、…今日も欠席した。",
-            "TextENG": "...Satoko... was absent today too."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43519,
-            "TextJPN": "結局、３日も欠席した後、復学したのは１日だけ。",
-            "TextENG": "When all was said and done, after being out three days, she'd only come back for one."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43520,
-            "TextJPN": "そしてまた、休み。@k……明日、登校してくる保証はない。",
-            "TextENG": "And now she was out again.@k ...Who knew if she would come tomorrow?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43521,
-            "NamesJPN": "女子",
-            "PreTextTags": "@vS03/00/girlA04003.",
-            "TextJPN": "「………うん。@k@vS03/00/girlA04004.でも、沙都子ちゃんから電話があったって先生、言ってました」",
-            "NamesENG": "Girl",
-            "TextENG": "``...Yeah.@k@vS03/00/girlA04004. But the teacher said she got a phone call from Satoko-chan.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43522,
-            "NamesJPN": "女子",
-            "PreTextTags": "@vS03/00/girlB04001.",
-            "TextJPN": "「風邪って言ってたよねー」",
-            "NamesENG": "Girl",
-            "TextENG": "``She said she had a cold!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43523,
-            "NamesJPN": "女子",
-            "PreTextTags": "@vS03/00/girlB04002.",
-            "TextJPN": "「みんな家に帰ったらうがいをちゃんとしましょうって先生言ってました」",
-            "NamesENG": "Girl",
-            "TextENG": "``Chie-sensei said everyone should make sure to rinse their mouths out really well!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43524,
-            "TextJPN": "……おいおい、先生。",
-            "TextENG": "...Wait a minute, Chie-sensei."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43525,
-            "TextJPN": "…あんたちょっと鈍感過ぎないか…？@k　あんた教師だろ？@k　教え子のＳＯＳってヤツを、もっと敏感にキャッチしてやれないのかよ…？",
-            "TextENG": "...That's a little too thickheaded, don't you think...?@k You're a teacher, aren't you?@k Why can't you be more sensitive and catch on to the fact that your pupil is sending out an SOS...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43526,
-            "TextJPN": "でも、…キャッチしたところで、何も期待できることはない。",
-            "TextENG": "But... Even if she did, there was nothing we could hope for."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43527,
-            "TextJPN": "…先生にできるのはせいぜい家庭訪問。",
-            "TextENG": "...The most she could do was a home visitation."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43528,
-            "TextJPN": "………沙都子の叔父を不愉快にし、…沙都子の受難をますます色濃くするだけ…。",
-            "TextENG": "...It would just piss Satoko's uncle off... and her suffering would only grow deeper..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43529,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100294.",
-            "TextJPN": "「………そうだな。@k@vS03/01/140100295.みんなも風邪に気をつけろよ。@k@vS03/01/140100296.…もう行っていいぜ。@k@vS03/01/140100297.昼休みはまだ長いぞ」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...She's right.@k@vS03/01/140100295. Be careful not to catch a cold, got it?@k@vS03/01/140100296. ...You can go now.@k@vS03/01/140100297. There's still plenty of time left in lunch break.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43530,
-            "TextJPN": "女の子たちは、わーっと校庭に散って行った。",
-            "TextENG": "The girls excitedly scattered into the schoolyard."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43531,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS03/02/140200086.",
-            "TextJPN": "「…あ、……圭一くーんッ！！！」",
-            "NamesENG": "Rena",
-            "TextENG": "``...Oh... Keiichi-kuuun!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43532,
-            "TextJPN": "教室の窓から、レナが大声を張り上げながら手を振っている。",
-            "TextENG": "Rena was yelling out the classroom window, waving her hand."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43533,
-            "TextJPN": "…遅れて、魅音も梨花ちゃんも顔をのぞかせた。",
-            "TextENG": "...A moment later, Mion and Rika-chan poked their heads out too."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43534,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS03/05/140500014.",
-            "TextJPN": "「……圭一までお休みしましたから、…とても心配しましたのですよ」",
-            "NamesENG": "Rika",
-            "TextENG": "``...We were very worried... that even you would be absent today.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43535,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS03/02/140200087.",
-            "TextJPN": "「でもよかった。@k@vS03/02/140200088.顔色もそんなに悪くないし、とりあえず元気そう！」",
-            "NamesENG": "Rena",
-            "TextENG": "``Thank goodness!@k@vS03/02/140200088. You don't seem sick—you look pretty okay!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43536,
-            "TextJPN": "…顔色が悪くないと断じられることにちょっと不愉快さも感じたが、あまり気にしない。",
-            "TextENG": "...I felt a little uncomfortable with her saying that I didn't look sick, but I didn't care that much."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43537,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS03/03/140300132.",
-            "TextJPN": "「……どしたの？@k@vS03/03/140300133.　寝坊？」",
-            "NamesENG": "Mion",
-            "TextENG": "``...What happened?@k@vS03/03/140300133. Overslept?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43538,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100298.",
-            "TextJPN": "「…………遅刻は遅刻だろ。@k@vS03/01/140100299.…それとも電車の事故で遅刻したとでも言えば許してくれるのか？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``......Well, late is late.@k@vS03/01/140100299. ...Think if I said I was late because of a train accident, she'd let it slide?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43539,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS03/03/140300134.",
-            "TextJPN": "「………寝坊？」",
-            "NamesENG": "Mion",
-            "TextENG": "``......You overslept?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43540,
-            "TextJPN": "…魅音がちょっとしつこい。",
-            "TextENG": "...Mion was being a bit persistent."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43541,
-            "TextJPN": "委員長ヅラして一丁前に俺の遅刻を@bとが.@<咎@>めてるつもりだろうか。@k……悪意はないかもしれないから、あぁ寝坊だと相槌を打っておく。",
-            "TextENG": "Was she going to put on her club president cap and scold me for being late?@k ...Well, maybe she didn't have it in for me, so I briefly stated that she was right."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43542,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS03/02/140200089.",
-            "TextJPN": "「まだね、お弁当あるよ！@k@vS03/02/140200090.　みんなで食べよ！@k@vS03/02/140200091.　やっぱりね、圭一くんがいないと盛り上がらないよね！」",
-            "NamesENG": "Rena",
-            "TextENG": "``There's still more bento!@k@vS03/02/140200090. Everyone eat up!@k@vS03/02/140200091. Without Keiichi-kun here, we couldn't have any fun!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43543,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100300.",
-            "TextJPN": "「……沙都子は、…休みなんだな」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...Satoko... is still absent, huh?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43544,
-            "TextJPN": "…明るさを演じていたレナも、さすがに堪えきれず、表情を暗くする。",
-            "TextENG": "...Even Rena, feigning cheerfulness, couldn't stand to hear that, and her face darkened."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43545,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS03/02/140200092.",
-            "TextJPN": "「…………………………………」",
-            "NamesENG": "Rena",
-            "TextENG": "``............``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43546,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS03/02/140200093.",
-            "TextJPN": "「朝、電話があったらしいよ。@k@vS03/02/140200094.…風邪がぶり返したから、また休むってさ。@k@vS03/02/140200095.長引くかもしれないって言ってた」",
-            "NamesENG": "Rena",
-            "TextENG": "``She called this morning.@k@vS03/02/140200094. ...Apparently she said her cold came back and she was staying home again.@k@vS03/02/140200095. She said it might go on for a while, too.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43547,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS03/05/140500015.",
-            "TextJPN": "「……かわいそうなので、みんなでお見舞いに行こうという話が出ていますのですよ」",
-            "NamesENG": "Rika",
-            "TextENG": "``...She must be sad, so we were all talking about going to visit.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43548,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100301.",
-            "TextJPN": "「…何言ってんだよ梨花ちゃん」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...What are you saying, Rika-chan?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43549,
-            "TextJPN": "うれしいことでもあるかのように、満面の笑みを浮かべている梨花ちゃんが気に入らなくて、水を刺す。",
-            "TextENG": "Not pleased with Rika-chan wearing a wide smile as though it was a happy occasion, I threw cold water on her."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43550,
-            "TextJPN": "…………梨花ちゃんは、眉間にしわを寄せてから…俯き、……ぽつりと謝った。",
-            "TextENG": "......Rika-chan furrowed her brow, looked down... and mumbled an apology."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43551,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS03/02/140200096.",
-            "TextJPN": "「………圭一くんだけじゃないよ。@k@vS03/02/140200097.……みんな、…辛いよ…」",
-            "NamesENG": "Rena",
-            "TextENG": "``...It's not just you, Keiichi-kun.@k@vS03/02/140200097. ...It's hard... for everyone...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43552,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100305.",
-            "TextJPN": "「俺だけが悩んでるなんて思ってない。@k@vS03/01/140100306.でも、みんな何もできないのは本当だろ」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``I know I'm not the only one worrying.@k@vS03/01/140100306. But none of us can do anything either, can we?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43553,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS03/02/140200098.",
-            "TextJPN": "「…………………それは、…そうだけど」",
-            "NamesENG": "Rena",
-            "TextENG": "``.........That's... true, but...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43554,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS03/02/140200099.",
-            "TextJPN": "「…で、…でも…！」",
-            "NamesENG": "Rena",
-            "TextENG": "``...B-But...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43555,
-            "TextJPN": "…このやりとりを続けたらまた喧嘩になる予感がした。@kだから先に謝った。",
-            "TextENG": "...I got the feeling I would cause another fight if this exchange went on.@k So I apologized first."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43556,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100307.",
-            "TextJPN": "「ごめん。@k@vS03/01/140100308.…謝るから今の話は忘れてくれ。@k@vS03/01/140100309.……辛いのはみんなも同じだよな。@k@vS03/01/140100310.…あぁ」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Sorry.@k@vS03/01/140100308. ...I'm sorry, so forget about what I just said.@k@vS03/01/140100309. ...It's hard for everyone, right?@k@vS03/01/140100310. ...It must be.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43557,
-            "TextJPN": "でも、沙都子を救うために悩みぬいたのは、少なくとも俺だけなことは明白だった。",
-            "TextENG": "It was at least clear, however, that I was the only one who had worried so much about rescuing her."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43558,
-            "TextJPN": "…少なくともみんな、昨夜はいつも通りの時間に眠ったろう。@k快眠だったろう。@k……夜を徹して、……必死に考えてたわけじゃないのは間違いない…。",
-            "TextENG": "...At the very least, everyone else probably got the normal amount of sleep last night.@k Probably had good dreams, too.@k ...They definitely hadn't... stayed up all night thinking so desperately..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43559,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS03/03/140300135.",
-            "TextJPN": "「………登校してきていきなりこんなこと聞いて、気を悪くするかもしれないけど。@k@vS03/03/140300136.…圭ちゃん、今日遅刻したよね？　@k@vS03/03/140300137.…沙都子が今日欠席したこととは関係ある？」",
-            "NamesENG": "Mion",
-            "TextENG": "``...I know it might not be what you want to hear right after you get to school...@k@vS03/03/140300136. But you were late today, Kei-chan.@k@vS03/03/140300137. ...Did it have anything to do with Satoko being absent?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43560,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100311.",
-            "TextJPN": "「はぁ…？！@k@vS03/01/140100312.　魅音お前、何の話してるんだ…？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Huh...?!@k@vS03/01/140100312. Mion, what are you talking about...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43561,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS03/03/140300138.",
-            "TextJPN": "「…圭ちゃんはたまに猪突猛進なところがあるからね」",
-            "NamesENG": "Mion",
-            "TextENG": "``...Sometimes you act kind of foolhardy, Kei-chan."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43562,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS03/03/140300139.",
-            "TextJPN": "「……今朝、沙都子と一緒に圭ちゃんも休んだ時。@k@vS03/03/140300140.……沙都子を家から連れ出して、どこかにかくまったんじゃないかって、本気で思った」",
-            "NamesENG": "Mion",
-            "TextENG": "...When both you and her were absent this morning...@k@vS03/03/140300140. We seriously thought you might have kidnapped her and hidden her somewhere.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43563,
-            "TextJPN": "……簡単に言うな。",
-            "TextENG": "...Easy for you to say."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43564,
-            "TextJPN": "それが出来たら、昨夜の時点で実行してる。",
-            "TextENG": "If I could have, I'd have done that last night."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43565,
-            "TextJPN": "…そのもっとも単純な方法が、いかに困難か、…お前らは考えたこともあるまい。",
-            "TextENG": "...None of them had really thought... about how difficult that clear-as-day solution was."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43566,
-            "TextJPN": "俺は…それを昨夜、ずっと考えた、夜が白むまで考えた。",
-            "TextENG": "I was... up thinking all night, thinking until the night was brightening."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43567,
-            "TextJPN": "…その上で俺は、……そんなマネが到底できないことだと、…結論した。",
-            "TextENG": "...And then... I concluded that... I couldn't do anything of the sort."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43568,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100313.",
-            "TextJPN": "「………馬鹿かお前。@k@vS03/01/140100314.…人間ひとりかくまうなんて、…できるもんかよ」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...Don't be dumb.@k@vS03/01/140100314. ...I couldn't... I couldn't hide someone.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43569,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS03/03/140300141.",
-            "TextJPN": "「………………そうだね。@k@vS03/03/140300142.…ごめん。@k@vS03/03/140300143.気を悪くしたなら謝るよ」",
-            "NamesENG": "Mion",
-            "TextENG": "``.........You're right.@k@vS03/03/140300142. ...I'm sorry.@k@vS03/03/140300143. I apologize if I upset you.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43570,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100315.",
-            "TextJPN": "「別にいいよ。@k@vS03/01/140100316.……それよりメシにしようぜ。@k@vS03/01/140100317.腹が減ってんだ」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Don't worry about it.@k@vS03/01/140100316. ...Anyway, let's eat some food.@k@vS03/01/140100317. I'm starving!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43571,
-            "TextJPN": "鞄から俺の弁当箱を取り出す。",
-            "TextENG": "I took my bento box out of my bag."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43572,
-            "TextJPN": "みんなが俺の座る場所を空けてくれた。",
-            "TextENG": "Everyone moved to make a spot for me to sit."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43573,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS03/22/141400009.",
-            "TextJPN": "「前原くん…！@k@vS03/22/141400010.　今、来たんですか？」",
-            "NamesENG": "Chie",
-            "TextENG": "``Maebara-kun...!@k@vS03/22/141400010. Did you just get here?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43574,
-            "TextJPN": "これからまさに箸を付けようというところで、………先生だった。",
-            "TextENG": "And just as I was about to stick my chopsticks in... Chie-sensei came along."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43575,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100318.",
-            "TextJPN": "「あ、…はい。@k@vS03/01/140100319.……遅刻してすみません。@k@vS03/01/140100320.寝坊しまして」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Uh... yeah.@k@vS03/01/140100319. ...Sorry for being late.@k@vS03/01/140100320. I overslept.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43576,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS03/22/141400011.",
-            "TextJPN": "「………………………………」",
-            "NamesENG": "Chie",
-            "TextENG": "``...............``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43577,
-            "TextJPN": "……何だよ一体。",
-            "TextENG": "...What the heck?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43578,
-            "TextJPN": "先生までもが、…何だか複雑な目で見ていた。",
-            "TextENG": "Even the teacher... was giving me that strange look."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43579,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS03/22/141400012.",
-            "TextJPN": "「お弁当を食べたら、委員長と前原くんは職員室に来てください。@k@vS03/22/141400013.…ちょっとお話がありますので」",
-            "NamesENG": "Chie",
-            "TextENG": "``When you're finished eating, could you and the president come to the teacher's lounge?@k@vS03/22/141400013. ...There's something I want to talk about.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43580,
-            "TextJPN": "………沙都子がらみの話なんだろうな、と思った。",
-            "TextENG": "......Probably about Satoko, I thought."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43581,
-            "TextJPN": "先生はそれだけ告げると、廊下へ去って行った。",
-            "TextENG": "Sensei left it at that and went back out into the hallway."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43582,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100321.",
-            "TextJPN": "「……弁当を食うまでもないだろ。@k@vS03/01/140100322.…行こうぜ、魅音」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...Eating lunch can wait.@k@vS03/01/140100322. ...Let's go, Mion.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43583,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS03/03/140300144.",
-            "TextJPN": "「ん、………そうだね」",
-            "NamesENG": "Mion",
-            "TextENG": "``Mm... You're right.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43584,
-            "TextJPN": "魅音と顔を見合わせ、頷きあい、席を立った。",
-            "TextENG": "Mion and I exchanged looks, nodded to each other, and got up."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43585,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS03/02/140200100.",
-            "TextJPN": "「………沙都子ちゃんの話、…だろうね」",
-            "NamesENG": "Rena",
-            "TextENG": "``...It's probably... about Satoko-chan.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43586,
-            "TextJPN": "間違いないだろう。",
-            "TextENG": "No doubt about it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43587,
-            "TextJPN": "…風邪で休んでることにはなってるが、クラス中がそれとなく知っている真実。",
-            "TextENG": "...They were saying she had a cold, but everyone in class knew the truth."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43588,
-            "TextJPN": "……それが先生の耳に入っていないとは思わない。",
-            "TextENG": "...I didn't think that wouldn't have reached the teacher's ears by now."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43589,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS03/05/140500016.",
-            "TextJPN": "「……………ボクが、ずっととぼけるので、…ボクに聞くのをやめたのでしょう」",
-            "NamesENG": "Rika",
-            "TextENG": "``......I kept playing dumb... so I think she gave up asking me.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43590,
-            "TextJPN": "………先生に打ち明けても、余計事態はこじれるだけ。@k……そう思ってしゃべらなかったのか。",
-            "TextENG": "...Revealing the truth to the teacher would only worsen the situation.@k ...Was that why she hadn't said anything?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43591,
-            "TextJPN": "………それとも、…沙都子の親友として、………沙都子が叔父の仕打ちを……兄が帰宅する為の試練だと思って、……耐えようとしていることを知っているのか。",
-            "TextENG": "...Or was it... because she was Satoko's friend... and knew that she was trying to endure... the trial of her uncle's abuse... in order to get her brother to come home?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43592,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS03/03/140300145.",
-            "TextJPN": "「……どうする？@k@vS03/03/140300146.　…今のうちに、私たちなりの統一見解を出した方がいいかもね」",
-            "NamesENG": "Mion",
-            "TextENG": "``...What should we do?@k@vS03/03/140300146. ...Maybe we should use this chance to get a collective opinion.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43593,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100323.",
-            "TextJPN": "「…………梨花ちゃんはどうしたい」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``......What do you want to do, Rika-chan?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43594,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS03/05/140500017.",
-            "TextJPN": "「………………みぃ…」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Meep...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43595,
-            "TextJPN": "沙都子にもっとも近しい、親友である梨花ちゃん。",
-            "TextENG": "Satoko's closest and best friend was Rika-chan."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43596,
-            "TextJPN": "……俺がいくらにーにーを気取ったって、…梨花ちゃんと沙都子が共に過ごしてきた期間には遠く及ばない。",
-            "TextENG": "...However much I pretended to be her Nii-nii... it didn't come close to the amount of time they'd spent together."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43597,
-            "TextJPN": "…だから、その意見はもっとも尊重できると思った。",
-            "TextENG": "...So I felt like her opinion should be held in the highest regard."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43598,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/KEI040301.",
-            "TextJPN": "「…………沙都子がどうしてあんなに頑張ろうとするのか、俺は知ってる」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``......I know... why Satoko tries so hard.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43599,
-            "TextJPN": "みんながはっとして…俺に振り返る。",
-            "TextENG": "Everyone looked startled... and turned to me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43600,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/KEI040302.",
-            "TextJPN": "「……昔の沙都子は、…辛いことがあると、…すぐに泣きながら兄の背中に隠れてた。@k@vS03/01/140100326.……でも結局、…そのせいで兄が逃げてしまったんだと、……沙都子は思ってる」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...Back then, whenever Satoko was... having a hard time... she probably cried and hid behind her brother.@k@vS03/01/140100326. ...But Satoko thinks that... in the end... that's why her brother ran away.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43601,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS03/05/140500018.",
-            "TextJPN": "「………………………………」",
-            "NamesENG": "Rika",
-            "TextENG": "``............``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43602,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS03/02/140200101.",
-            "TextJPN": "「……………誰に、…………聞いたのかな…？」",
-            "NamesENG": "Rena",
-            "TextENG": "``......Who... did you hear that from...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43603,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS03/03/140300147.",
-            "TextJPN": "「監督、か…………」",
-            "NamesENG": "Mion",
-            "TextENG": "``The coach, I bet...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43604,
-            "TextJPN": "俺は静かに頷く。",
-            "TextENG": "I nodded quietly."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43605,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100328.",
-            "TextJPN": "「でも、…そんな思い込みと悟史が帰ってくるのはまったく無関係なことだ。@k@vS03/01/140100329.………沙都子には悪いが、…それが現実だ」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``But... that assumption has nothing to do with Satoshi coming back.@k@vS03/01/140100329. ...It hurts to say that about Satoko... but it's the truth.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43606,
-            "TextJPN": "みんな、…俯く。",
-            "TextENG": "Everyone... hung their heads."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43607,
-            "TextJPN": "………みんな、…同じことを考えているのだ…。",
-            "TextENG": "...Everyone... was thinking the same thing..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43608,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100330.",
-            "TextJPN": "「………沙都子は、…多分、誰の助けも喜ばない。@k@vS03/01/140100331.……自分ひとりの力で耐え忍びたいと思ってる。@k@vS03/01/140100332.………………でも、…それを尊重してやるのが、…果たして正しいだろうか…？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...Satoko... probably won't be happy no matter who helps her.@k@vS03/01/140100331. ...She wants to withstand everything with her own strength.@k@vS03/01/140100332. .........But is it... really right to respect that...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43609,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100333.",
-            "TextJPN": "「………俺は思わない。@k@vS03/01/140100334.…一時、沙都子に恨まれることになろうと、……沙都子の意思に拘らず助けるべき時があると思う。@k@vS03/01/140100335.………俺はそれが、……今じゃないかと思ってる」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...I don't think it is.@k@vS03/01/140100334. ...Even if Satoko hates us for a while... I think there will come a time when we need to save her against her will.@k@vS03/01/140100335. ...And I think... that time might be now.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43610,
-            "TextJPN": "……俺はそこで、昨日沙都子の家へ行き、見たこと、感じたこと全てを話した。",
-            "TextENG": "...I told them all about what I saw and how I felt when I went to Satoko's house yesterday."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43611,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS03/02/140200102.",
-            "TextJPN": "「……………圭一くんは、…話すべきだと思ってる、…ってことだね？」",
-            "NamesENG": "Rena",
-            "TextENG": "``......Keiichi-kun... so you think... we should tell someone?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43612,
-            "TextJPN": "そんな中、……梨花ちゃんが、発言を求めるようにすっと…挙手した。",
-            "TextENG": "Meanwhile... Rika-chan had her hand raised for a while... as if asking for an opportunity to speak."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43613,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS03/05/140500019.",
-            "TextJPN": "「……圭一に、…任せますです」",
-            "NamesENG": "Rika",
-            "TextENG": "``...I will... leave it to Keiichi.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43614,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100338.",
-            "TextJPN": "「え、……いいのかい梨花ちゃん…」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``What... Is that okay, Rika-chan...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43615,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS03/05/140500020.",
-            "TextJPN": "「……圭一は、………ここにいる誰よりも、沙都子のことを考えていますです。@k@vS03/05/140500021.…その圭一が、…話すべき時だと判断したなら、ボクは文句なんか言わないのですよ」",
-            "NamesENG": "Rika",
-            "TextENG": "``...Keiichi is... thinking about Satoko more than anybody else here.@k@vS03/05/140500021. ...If Keiichi thinks... that we need to tell someone, then I have no complaints.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43616,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100339.",
-            "TextJPN": "「…ありがとう。……魅音もレナも、それでいいか？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...Thanks... Mion, Rena, are you okay with that?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43617,
-            "TextJPN": "魅音は頷くべきか、少し躊躇していたようだった。",
-            "TextENG": "Mion seemed to hesitate, not knowing if she should agree."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43618,
-            "TextJPN": "…でも、レナが強く頷くのを見て、覚悟を決めて頷いてくれた。",
-            "TextENG": "...But when she saw Rena's firm nod, she made up her mind and did the same."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43619,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100340.",
-            "TextJPN": "「よし。@k@vS03/01/140100341.………行くぞ魅音」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Okay.@k@vS03/01/140100341. ...Let's go, Mion.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43620,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS03/03/140300150.",
-            "TextJPN": "「……うん」",
-            "NamesENG": "Mion",
-            "TextENG": "``...Right.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43621,
-            "TextJPN": "職員室には知恵先生しかいなかった。",
-            "TextENG": "Only Chie-sensei was in the teacher's lounge."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43622,
-            "TextJPN": "…校長先生の姿はない。",
-            "TextENG": "...We didn't see the principal anywhere."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43623,
-            "TextJPN": "……黒板の日程表を見ると、校長のところに『研修・直帰』と書かれていた。",
-            "TextENG": "...The schedule on the blackboard under the principal's name said ``training—going straight home.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43624,
-            "TextJPN": "…校長先生は正義感が強すぎる人だ。",
-            "TextENG": "...Our principal's sense of justice was too strong."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43625,
-            "TextJPN": "……沙都子の問題は、正義感なんて曖昧なものでは解決しない。@k……不在は幸運かもしれない。",
-            "TextENG": "...Satoko's problems wouldn't be solved with something so vague.@k ...Maybe it was a stroke of good luck that he wasn't here."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43626,
-            "TextJPN": "先生は、俺と魅音が来たことを認めると、カレー弁当に蓋をして、食事を中断した。",
-            "TextENG": "When the teacher saw Mion and I come in, she closed up her curry bento, saving the rest for later."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43627,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS03/22/141400014.",
-            "TextJPN": "「そこへお掛けなさい」",
-            "NamesENG": "Chie",
-            "TextENG": "``Sit over there, please.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43628,
-            "TextJPN": "校長先生の席の正面にある、応接椅子に掛けるように言われる。",
-            "TextENG": "She told us to take a seat in the chairs directly in front of the principal's seat."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43629,
-            "TextJPN": "……こんな椅子に座るのは転校手続きで来たとき以来だった。",
-            "TextENG": "...I hadn't sat in this chair since doing the paperwork for transferring in."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43630,
-            "TextJPN": "魅音と二人して、窮屈そうに座っていると、…ノートとボールペンを持った先生がやってきて、正面に座った。",
-            "TextENG": "The two of us sat there uncomfortably... before the teacher walked over carrying a notebook and a ballpoint pen and sat in front of us."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43631,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS03/22/141400015.",
-            "TextJPN": "「前原くん、今日は午前中お休みでしたけど、何かありましたか？」",
-            "NamesENG": "Chie",
-            "TextENG": "``Maebara-kun, you were absent this morning—did something happen?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43632,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100342.",
-            "TextJPN": "「すみません、寝坊です」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``I'm sorry, I overslept.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43633,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS03/22/141400016.",
-            "TextJPN": "「……………本当に？」",
-            "NamesENG": "Chie",
-            "TextENG": "``......Really?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43634,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100343.",
-            "TextJPN": "「……先生に嘘言っても」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...I have no reason to lie...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43635,
-            "TextJPN": "先生は問い詰めるように、少し目を細める。",
-            "TextENG": "She narrowed her eyes at me in suspicion."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43636,
-            "TextJPN": "……確信する。",
-            "TextENG": "...Now I was sure of it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43637,
-            "TextJPN": "…沙都子の話をしようとしているのだ。",
-            "TextENG": "...She wanted to talk about Satoko."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43638,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS03/22/141400017.",
-            "TextJPN": "「…まず二人とも知ってると思いますけど、お友達の北条さんがここしばらくお休みしてますね」",
-            "NamesENG": "Chie",
-            "TextENG": "``...In any case, I think you two already know, but your friend Houjou-san has been away frequently lately.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43639,
-            "TextJPN": "魅音も俺も特に相槌は打たなかった。@k…でも先生はそんなことは気にせず先を進める。",
-            "TextENG": "Neither Mion nor I had anything to say in response.@k ...But the teacher proceeded, not minding."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43640,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS03/22/141400018.",
-            "TextJPN": "「………何か知っていますか？@k@vS03/22/141400019.　クラスで、良くない噂をしている人たちがいます」",
-            "NamesENG": "Chie",
-            "TextENG": "``...Would you happen to know anything?@k@vS03/22/141400019. There are some people in class spreading bad rumors.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43641,
-            "TextJPN": "魅音はまるで説教を聞いているように、下を向いて黙っていた。",
-            "TextENG": "Mion looked down and remained silent, as though she were being lectured."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43642,
-            "TextJPN": "………俺にちらりと目線を送る。@k……さっきみんなで決めた。@k…俺に、任せるという合図。",
-            "TextENG": "......She sent me a quick glance.@k ...Everyone had made up their minds.@k ...They'd be leaving things to me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43643,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS03/22/141400020.",
-            "TextJPN": "「委員長？@k@vS03/22/141400021.　前原くんも。@k@vS03/22/141400022.……先生は別に怒ってるんじゃありませんよ？@k@vS03/22/141400023.　もしも知っていたら教えてほしいとお願いしているだけです」",
-            "NamesENG": "Chie",
-            "TextENG": "``Mion-kun?@k@vS03/22/141400021. Or you, Maebara-kun?@k@vS03/22/141400022. ...I won't get mad or anything, okay?@k@vS03/22/141400023. If you know something, I just want you to tell me.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43644,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100344.",
-            "TextJPN": "「…………先生。@k@vS03/01/140100345.先に、こっちから質問してもいいですか？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``......Sensei.@k@vS03/01/140100345. Can we ask you a question first?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43645,
-            "TextJPN": "こんな切り返しは想定していなかったろう。@k…先生が何事かと驚く。",
-            "TextENG": "She must not have anticipated that response.@k ...She looked surprised."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43646,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100346.",
-            "TextJPN": "「……クラス中で、沙都子のどんな噂が飛び交ってるかは知りませんが。@k@vS03/01/140100347.…仮に、その噂が真実だったとして、……先生はどうするつもりですか？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...I don't know what rumors are going around about Satoko in class.@k@vS03/01/140100347. ...But if those rumors happened to be true... what would you do, Sensei?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43647,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS03/22/CHIE040301.",
-            "TextJPN": "「ど、…どうするもこうするも。@k@vS03/22/CHIE040302.…その話が本当なら放って置けません」",
-            "NamesENG": "Chie",
-            "TextENG": "``W-Well, what would I do?@k@vS03/22/CHIE040302. ...If it's true, then I can't leave it alone.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43648,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100348.",
-            "TextJPN": "「放って置けないって、具体的にはどう放って置けないんですか？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Can't leave what alone, exactly? What would you do?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43649,
-            "TextJPN": "先生が目を吊り上げる。@k……ちょっと喧嘩腰な言い方になったか。",
-            "TextENG": "Sensei's eyebrows shot up.@k ...Maybe I said it like I was trying to pick a fight."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43650,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS03/22/141400026.",
-            "TextJPN": "「前原くん！@k@vS03/22/141400027.　先生はまじめにお話してるんですよ！！」",
-            "NamesENG": "Chie",
-            "TextENG": "``Maebara-kun!@k@vS03/22/141400027. I'm being serious here!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43651,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100349.",
-            "TextJPN": "「……先生こそ。@k@vS03/01/140100350.…俺はすごくまじめな話をしているんです。@k@vS03/01/140100351.まず、答えてください。@k@vS03/01/140100352.……真実だったとして、どう放って置けないんです？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...So am I.@k@vS03/01/140100350. ...I'm also being completely serious right now.@k@vS03/01/140100351. Please answer me.@k@vS03/01/140100352. ...If it were true, what wouldn't you leave alone?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43652,
-            "TextJPN": "先生は…二三呼吸置いてから…ゆっくりと口を開いた。",
-            "TextENG": "Sensei... took a few breaths... then began to speak slowly."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43653,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS03/22/141400028.",
-            "TextJPN": "「ま………まず。@k@vS03/22/141400029.状況を確かめるために、北条さんの家を家庭訪問します」",
-            "NamesENG": "Chie",
-            "TextENG": "``F-First.@k@vS03/22/141400029. I'd have to visit Houjou-san's house to confirm the situation.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43654,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100353.",
-            "TextJPN": "「叔父に怒鳴りつけられて追い返されるかもしれませんね。@k@vS03/01/140100354.……まぁいいや。@k@vS03/01/140100355.…仮に叔父と沙都子に会えたとします。@k@vS03/01/140100356.それで？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Her uncle might get mad and drive you away, though.@k@vS03/01/140100354. ...Well, okay.@k@vS03/01/140100355. ...Let's say you did meet with Satoko and her uncle.@k@vS03/01/140100356. Then what?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43655,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS03/22/141400030.",
-            "TextJPN": "「そして真意を聞きます。@k@vS03/22/141400031.その事実が確認できたなら、…指導します」",
-            "NamesENG": "Chie",
-            "TextENG": "``Then I'd ask whether it was true.@k@vS03/22/141400031. Once I got the facts... I'd go from there.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43656,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100357.",
-            "TextJPN": "「指導って曖昧な言い方はやめて下さい。@k@vS03/01/140100358.具体的には何をするんですか？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Please stop talking so vaguely.@k@vS03/01/140100358. What exactly would you do?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43657,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS03/22/CHIE040303.",
-            "TextJPN": "「興宮の生活相談所へ通報します。@k@vS03/22/CHIE040304.さっき前原くんは追い返される、と言いましたね」",
-            "NamesENG": "Chie",
-            "TextENG": "``I'd contact the Okinomiya child consultation center.@k@vS03/22/CHIE040304. You said just now that I would be turned away, didn't you?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43658,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS03/22/CHIE040305.",
-            "TextJPN": "「この相談所の職員は必要に応じて警察官を同行させることができます。@k@vS03/22/CHIE040306.恫喝には絶対に屈しません」",
-            "NamesENG": "Chie",
-            "TextENG": "``Child welfare officers can bring the police with them if the situation demands.@k@vS03/22/CHIE040306. They will not submit to intimidation.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43659,
-            "TextJPN": "……沙都子が絶対に救われるという確約を得てから話すはずなのに、もう最初から話してるも同然だ。",
-            "TextENG": "...I was supposed to be telling her about the situation only after I was sure we could save Satoko, but I basically told her everything right from the start."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43660,
-            "TextJPN": "…これだけ喧嘩腰な言い方になっても、先生は感情をぐっと抑え、落ち着いて話を聞いてくれた。",
-            "TextENG": "...Even despite my tone being so provocative, Chie-sensei bit back her emotions and listened calmly."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43661,
-            "TextJPN": "…………いい先生だな、と思った。",
-            "TextENG": "......I thought then that she was a good teacher."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43662,
-            "TextJPN": "…知恵先生という人は、…本当に生徒のことを考えているいい先生なのだ。",
-            "TextENG": "...Chie-sensei really did... have her students' best interests at heart."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43663,
-            "TextJPN": "………でも、…沙都子を救ってやれる力や権限は、何もない。",
-            "TextENG": "...But... she didn't have the power or the authority to save Satoko."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43664,
-            "TextJPN": "先生は時計を見てから、立ち上がり、校長席の受話器を取った。",
-            "TextENG": "Chie-sensei looked at the clock, stood up, and picked up the phone at the principal's seat."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43665,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS03/22/141400040.",
-            "TextJPN": "「…………………もしもし。@k@vS03/22/141400041.内線の３４５５をお願いします」",
-            "NamesENG": "Chie",
-            "TextENG": "``............Hello?@k@vS03/22/141400041. Put me through to extension 3455, please.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43666,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS03/03/140300152.",
-            "TextJPN": "「……いいの、圭ちゃん？@k@vS03/03/140300153.　……本当に、……大丈夫かな…」",
-            "NamesENG": "Mion",
-            "TextENG": "``...Is this okay, Kei-chan?@k@vS03/03/140300153. ...Is this... really okay...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43667,
-            "TextJPN": "もう遅い。@k……もう賽は振られてしまった。",
-            "TextENG": "It was too late.@k ...The die had been cast."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43668,
-            "TextJPN": "……祈るしか、ない。",
-            "TextENG": "...Now we could only... pray."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43669,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS03/22/141400042.",
-            "TextJPN": "「あ、お世話になっております。@k@vS03/22/141400043.雛見沢分校教諭の知恵と申しますが、指導室の渡辺主事はいらっしゃいますでしょうか？@k@vS03/22/141400044.　………はい、ええ。@k@vS03/22/141400045.…ちょっと急用がございまして、至急、校長と連絡が取りたいのですが」",
-            "NamesENG": "Chie",
-            "TextENG": "``Oh, thank you for answering my call.@k@vS03/22/141400043. I'm Chie, a licensed teacher at the Hinamizawa branch school—would Director Watanabe happen to be in the guidance office?@k@vS03/22/141400044. ...Yes, that's right.@k@vS03/22/141400045. ...Something urgent came up, so I'd like to contact the principal as soon as I can.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43670,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS03/22/141400046.",
-            "TextJPN": "「………はい。@k@vS03/22/141400047.お願いします。@k@vS03/22/141400048.緊急とお伝え下さい。@k@vS03/22/141400049.よろしくお願いします…」",
-            "NamesENG": "Chie",
-            "TextENG": "``......Yes.@k@vS03/22/141400047. Thank you.@k@vS03/22/141400048. Please tell him immediately.@k@vS03/22/141400049. Yes, thank you...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43671,
-            "TextJPN": "先生は受話器を置くと、@k……よく俺がするみたいに、頭を後ろへ反らしてから深呼吸をした。",
-            "TextENG": "The teacher put down the phone...@k and tilted her head back and took a breath, like I always did."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43672,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS03/22/141400050.",
-            "TextJPN": "「……二人にもう一度だけ聞きます。@k@vS03/22/141400051.……クラスのみんなの噂は、全て本当なんですね？」",
-            "NamesENG": "Chie",
-            "TextENG": "``...I'll ask the two of you again.@k@vS03/22/141400051. ...Are the rumors going around class really true?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43673,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100372.",
-            "TextJPN": "「…………………はい。@k@vS03/01/140100373.…俺は昨日、沙都子の家に行って、…実際にどういうことになっているのか、見ました」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``.........Yes.@k@vS03/01/140100373. ...Yesterday I went to Satoko's house... and I saw for myself just how bad it really is.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43674,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS03/22/141400052.",
-            "TextJPN": "「あとは先生に任せてください。@k@vS03/22/141400053.沙都子ちゃんは、きっと先生が何とかします」",
-            "NamesENG": "Chie",
-            "TextENG": "``You can leave the rest to me.@k@vS03/22/141400053. I'll definitely do something for Satoko-chan.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43675,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100374.",
-            "TextJPN": "「………何とか？@k@vS03/01/140100375.　いい加減なことを言わないで下さい。@k@vS03/01/140100376.何とかじゃない、絶対でなければならない！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...Something?@k@vS03/01/140100375. Please stop saying such ambiguous things.@k@vS03/01/140100376. Not something—we have to save her!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43676,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100377.",
-            "TextJPN": "「もしもまた様子見なんてことになったら…、先生はどう責任を取るつもりですかッ！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``If they end up deciding to wait and see again... how do you plan on taking responsibility!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43677,
-            "TextJPN": "俺が怒鳴っている間に電話が鳴った。",
-            "TextENG": "While I was yelling, the phone rang."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43678,
-            "TextJPN": "先生はすぐに受話器をひったくる。",
-            "TextENG": "Chie-sensei snatched the receiver up first."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43679,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS03/22/141400054.",
-            "TextJPN": "「…もしもし！@k@vS03/22/141400055.　あ、……研修中申し訳ありません。@k@vS03/22/141400056.……………はい。@k@vS03/22/141400057.実は例の北条沙都子さんの件でお話が。@k@vS03/22/141400058.………はい」",
-            "NamesENG": "Chie",
-            "TextENG": "``...Hello!@k@vS03/22/141400055. Oh... I apologize for interrupting your training.@k@vS03/22/141400056. ......Yes.@k@vS03/22/141400057. Actually, it's about the issue with Satoko Houjou-san.@k@vS03/22/141400058. ...Yes.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43680,
-            "TextJPN": "先生は、もう二人は行っていいと、追い払うような仕草をする。",
-            "TextENG": "Sensei waved us away, telling us we could leave now."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43681,
-            "TextJPN": "…魅音は出て行こうとしたが、俺は踏みとどまった。",
-            "TextENG": "...Mion went to leave, but I held my ground."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43682,
-            "TextJPN": "……先生が曖昧ないい加減なことを言わないように、見張る義務があった。@k…もしも、肝心なことを言わないようなら、…受話器を奪ってでも、真実を話す。",
-            "TextENG": "...I had a responsibility to make sure she stopped saying such vague, ambiguous things.@k ...If it didn't look like she was going to say anything substantial... then I'd tell them the truth, even if I had to steal the phone from her."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43683,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS03/22/141400059.",
-            "TextJPN": "「……………はい。@k@vS03/22/141400062.……まだ確認はしていませんが、…クラスの子の話では、相当な様子です」",
-            "NamesENG": "Chie",
-            "TextENG": "``......Yes.@k@vS03/22/141400062. ...I haven't confirmed it... but it seems pretty bad from what the children are saying.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43684,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100379.",
-            "TextJPN": "「すぐにだ！！@k@vS03/01/140100380.　今すぐ何とかしろ！！@k@vS03/01/140100382.　でもな、もしも様子見なんてことになってみろ！！@k@vS03/01/140100383.　ただじゃ済まさないからなぁああぁあぁあッ！！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Do something about it!!@k@vS03/01/140100380. Right now!!@k@vS03/01/140100382. I swear, if they end up just waiting and watching...@k@vS03/01/140100383. I will never forgive you!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43685,
-            "TextJPN": "先生と、受話器の向こうの校長先生二人に怒鳴りつける。",
-            "TextENG": "I yelled angrily at Sensei and the principal on the other end."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43686,
-            "TextJPN": "……沙都子が置かれている状況がいかに危機的なものか、…少しでも伝えたかった。",
-            "TextENG": "...I wanted to somehow, some way... convey to them just how dangerous her situation was right now."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43687,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS03/22/141400063.",
-            "TextJPN": "「それはわかっています！@k@vS03/22/141400064.　ちゃんと伝えますから！@k@vS03/22/141400065.　委員長、前原くんを連れて教室に戻りなさい」",
-            "NamesENG": "Chie",
-            "TextENG": "``I understand that!@k@vS03/22/141400064. I will tell them as much!@k@vS03/22/141400065. Mion-kun, please take Maebara-kun back to the classroom.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43688,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS03/03/140300154.",
-            "TextJPN": "「あ、…はい」",
-            "NamesENG": "Mion",
-            "TextENG": "``Ah... yes, ma'am.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43689,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS03/03/140300155.",
-            "TextJPN": "「………行くよ、圭ちゃん。@k@vS03/03/140300156.あとは先生たちに任せよ」",
-            "NamesENG": "Mion",
-            "TextENG": "``...Let's go, Kei-chan.@k@vS03/03/140300156. We should leave this to the teachers now.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43690,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS03/01/140100384.",
-            "TextJPN": "「………………………………絶対、…だぞ…」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``.........You better... promise...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43691,
-            "TextJPN": "最後の最後まで、…先生をにらみつける。",
-            "TextENG": "Until the very last moment... I glared at Sensei."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43692,
-            "TextJPN": "…あの知恵先生が、俺如きに気圧されていた。@k……ばか、ここは気圧されるところじゃないだろ。@k…ぐっと頷いて、俺を安心させるところだろ…！",
-            "TextENG": "...Chie-sensei... was feeling pressured by the likes of me.@k ...Idiot, this isn't the time to feel pressured.@k ...Now's the time when you give me a firm nod to reassure me...!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43693,
-            "TextJPN": "でも、……もう任せてしまった。",
-            "TextENG": "Even so... we've already left things in her hands."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43694,
-            "TextJPN": "…あとは…本当に、祈るしかない。",
-            "TextENG": "...At this point... we really can't do anything but pray."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 43695,
-            "TextJPN": "ピシャリ。@k……魅音が職員室の扉を閉めた。",
-            "TextENG": "Bang.@k ...Mion shut the door to the teacher's lounge."
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "#5 お昼の登校",
+		"ENG": "#5 / Lunch in School"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43508,
+		"TextJPN": "校庭では大勢のクラスメイトが自由に遊んでいた。",
+		"TextENG": "Many of my classmates were playing freely in the schoolyard."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43509,
+		"TextJPN": "昇降口からは、つま先を蹴って靴を履きながら飛び出してくる子もいる。",
+		"TextENG": "A few of them had just run out of the school building after putting on their shoes and tapping their toes to the ground."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43510,
+		"TextJPN": "…昼ごはんを食べ終わって丁度くらいの時間のようだな。@k…時間調整の意味では、成功だったか。",
+		"TextENG": "...It looked like they had just finished eating lunch.@k ...From a time-manipulating standpoint, I guess I succeeded."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43511,
+		"NamesJPN": "女子",
+		"PreTextTags": "@vS03/00/girlA04001.",
+		"TextJPN": "「あ、……前原さぁん！@k@vS03/00/girlA04002.　大丈夫なんですか…？！」",
+		"NamesENG": "Girl",
+		"TextENG": "``Oh... Maebara-saan!@k@vS03/00/girlA04002. Are you okay...?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43512,
+		"TextJPN": "俺の姿を認めた女の子たちが駆け寄ってくる。",
+		"TextENG": "A few girls noticed me and came running over."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43513,
+		"TextJPN": "…まぁ、そうだよな。",
+		"TextENG": "...It was only natural they were worried."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43514,
+		"TextJPN": "普通、朝いなかったら、その日は欠席したと思うよな。",
+		"TextENG": "You'd think if someone wasn't there in the morning, they'd be out the rest of the day."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43515,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100290.",
+		"TextJPN": "「まぁその、…遅刻さ。@k@vS03/01/140100291.気にしないでくれ。@k@vS03/01/140100292.……それより、……沙都子はどうだ。@k@vS03/01/140100293.…今日は来てるか？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Well, I'm... just late for school.@k@vS03/01/140100291. Don't worry about it.@k@vS03/01/140100292. ...Anyway... What about Satoko?@k@vS03/01/140100293. ...Did she come today?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43516,
+		"TextJPN": "女の子たちは顔を見合わせる。",
+		"TextENG": "The girls exchanged glances."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43517,
+		"TextJPN": "…その表情が薄っすらと曇るのを見て、返事を待たずに答えを知る。",
+		"TextENG": "...I saw a thin shadow fall over their faces and knew the answer without needing to hear them reply."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43518,
+		"TextJPN": "……沙都子は結局、…今日も欠席した。",
+		"TextENG": "...Satoko... was absent today too."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43519,
+		"TextJPN": "結局、３日も欠席した後、復学したのは１日だけ。",
+		"TextENG": "When all was said and done, after being out three days, she'd only come back for one."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43520,
+		"TextJPN": "そしてまた、休み。@k……明日、登校してくる保証はない。",
+		"TextENG": "And now she was out again.@k ...Who knew if she would come tomorrow?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43521,
+		"NamesJPN": "女子",
+		"PreTextTags": "@vS03/00/girlA04003.",
+		"TextJPN": "「………うん。@k@vS03/00/girlA04004.でも、沙都子ちゃんから電話があったって先生、言ってました」",
+		"NamesENG": "Girl",
+		"TextENG": "``...Yeah.@k@vS03/00/girlA04004. But the teacher said she got a phone call from Satoko-chan.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43522,
+		"NamesJPN": "女子",
+		"PreTextTags": "@vS03/00/girlB04001.",
+		"TextJPN": "「風邪って言ってたよねー」",
+		"NamesENG": "Girl",
+		"TextENG": "``She said she had a cold!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43523,
+		"NamesJPN": "女子",
+		"PreTextTags": "@vS03/00/girlB04002.",
+		"TextJPN": "「みんな家に帰ったらうがいをちゃんとしましょうって先生言ってました」",
+		"NamesENG": "Girl",
+		"TextENG": "``Chie-sensei said everyone should make sure to rinse their mouths out really well!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43524,
+		"TextJPN": "……おいおい、先生。",
+		"TextENG": "...Wait a minute, Chie-sensei."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43525,
+		"TextJPN": "…あんたちょっと鈍感過ぎないか…？@k　あんた教師だろ？@k　教え子のＳＯＳってヤツを、もっと敏感にキャッチしてやれないのかよ…？",
+		"TextENG": "...That's a little too thickheaded, don't you think...?@k You're a teacher, aren't you?@k Why can't you be more sensitive and catch on to the fact that your pupil is sending out an SOS...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43526,
+		"TextJPN": "でも、…キャッチしたところで、何も期待できることはない。",
+		"TextENG": "But... Even if she did, there was nothing we could hope for."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43527,
+		"TextJPN": "…先生にできるのはせいぜい家庭訪問。",
+		"TextENG": "...The most she could do was a home visitation."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43528,
+		"TextJPN": "………沙都子の叔父を不愉快にし、…沙都子の受難をますます色濃くするだけ…。",
+		"TextENG": "...It would just piss Satoko's uncle off... and her suffering would only grow deeper..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43529,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100294.",
+		"TextJPN": "「………そうだな。@k@vS03/01/140100295.みんなも風邪に気をつけろよ。@k@vS03/01/140100296.…もう行っていいぜ。@k@vS03/01/140100297.昼休みはまだ長いぞ」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...She's right.@k@vS03/01/140100295. Be careful not to catch a cold, got it?@k@vS03/01/140100296. ...You can go now.@k@vS03/01/140100297. There's still plenty of time left in lunch break.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43530,
+		"TextJPN": "女の子たちは、わーっと校庭に散って行った。",
+		"TextENG": "The girls excitedly scattered into the schoolyard."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43531,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS03/02/140200086.",
+		"TextJPN": "「…あ、……圭一くーんッ！！！」",
+		"NamesENG": "Rena",
+		"TextENG": "``...Oh... Keiichi-kuuun!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43532,
+		"TextJPN": "教室の窓から、レナが大声を張り上げながら手を振っている。",
+		"TextENG": "Rena was yelling out the classroom window, waving her hand."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43533,
+		"TextJPN": "…遅れて、魅音も梨花ちゃんも顔をのぞかせた。",
+		"TextENG": "...A moment later, Mion and Rika-chan poked their heads out too."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43534,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS03/05/140500014.",
+		"TextJPN": "「……圭一までお休みしましたから、…とても心配しましたのですよ」",
+		"NamesENG": "Rika",
+		"TextENG": "``...We were very worried... that even you would be absent today.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43535,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS03/02/140200087.",
+		"TextJPN": "「でもよかった。@k@vS03/02/140200088.顔色もそんなに悪くないし、とりあえず元気そう！」",
+		"NamesENG": "Rena",
+		"TextENG": "``Thank goodness!@k@vS03/02/140200088. You don't seem sick—you look pretty okay!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43536,
+		"TextJPN": "…顔色が悪くないと断じられることにちょっと不愉快さも感じたが、あまり気にしない。",
+		"TextENG": "...I felt a little uncomfortable with her saying that I didn't look sick, but I didn't care that much."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43537,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS03/03/140300132.",
+		"TextJPN": "「……どしたの？@k@vS03/03/140300133.　寝坊？」",
+		"NamesENG": "Mion",
+		"TextENG": "``...What happened?@k@vS03/03/140300133. Overslept?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43538,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100298.",
+		"TextJPN": "「…………遅刻は遅刻だろ。@k@vS03/01/140100299.…それとも電車の事故で遅刻したとでも言えば許してくれるのか？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``......Well, late is late.@k@vS03/01/140100299. ...Think if I said I was late because of a train accident, she'd let it slide?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43539,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS03/03/140300134.",
+		"TextJPN": "「………寝坊？」",
+		"NamesENG": "Mion",
+		"TextENG": "``......You overslept?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43540,
+		"TextJPN": "…魅音がちょっとしつこい。",
+		"TextENG": "...Mion was being a bit persistent."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43541,
+		"TextJPN": "委員長ヅラして一丁前に俺の遅刻を@bとが.@<咎@>めてるつもりだろうか。@k……悪意はないかもしれないから、あぁ寝坊だと相槌を打っておく。",
+		"TextENG": "Was she going to put on her club president cap and scold me for being late?@k ...Well, maybe she didn't have it in for me, so I briefly stated that she was right."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43542,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS03/02/140200089.",
+		"TextJPN": "「まだね、お弁当あるよ！@k@vS03/02/140200090.　みんなで食べよ！@k@vS03/02/140200091.　やっぱりね、圭一くんがいないと盛り上がらないよね！」",
+		"NamesENG": "Rena",
+		"TextENG": "``There's still more bento!@k@vS03/02/140200090. Everyone eat up!@k@vS03/02/140200091. Without Keiichi-kun here, we couldn't have any fun!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43543,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100300.",
+		"TextJPN": "「……沙都子は、…休みなんだな」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...Satoko... is still absent, huh?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43544,
+		"TextJPN": "…明るさを演じていたレナも、さすがに堪えきれず、表情を暗くする。",
+		"TextENG": "...Even Rena, feigning cheerfulness, couldn't stand to hear that, and her face darkened."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43545,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS03/02/140200092.",
+		"TextJPN": "「…………………………………」",
+		"NamesENG": "Rena",
+		"TextENG": "``............``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43546,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS03/02/140200093.",
+		"TextJPN": "「朝、電話があったらしいよ。@k@vS03/02/140200094.…風邪がぶり返したから、また休むってさ。@k@vS03/02/140200095.長引くかもしれないって言ってた」",
+		"NamesENG": "Rena",
+		"TextENG": "``She called this morning.@k@vS03/02/140200094. ...Apparently she said her cold came back and she was staying home again.@k@vS03/02/140200095. She said it might go on for a while, too.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43547,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS03/05/140500015.",
+		"TextJPN": "「……かわいそうなので、みんなでお見舞いに行こうという話が出ていますのですよ」",
+		"NamesENG": "Rika",
+		"TextENG": "``...She must be sad, so we were all talking about going to visit.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43548,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100301.",
+		"TextJPN": "「…何言ってんだよ梨花ちゃん」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...What are you saying, Rika-chan?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43549,
+		"TextJPN": "うれしいことでもあるかのように、満面の笑みを浮かべている梨花ちゃんが気に入らなくて、水を刺す。",
+		"TextENG": "Not pleased with Rika-chan wearing a wide smile as though it was a happy occasion, I threw cold water on her."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43550,
+		"TextJPN": "…………梨花ちゃんは、眉間にしわを寄せてから…俯き、……ぽつりと謝った。",
+		"TextENG": "......Rika-chan furrowed her brow, looked down... and mumbled an apology."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43551,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS03/02/140200096.",
+		"TextJPN": "「………圭一くんだけじゃないよ。@k@vS03/02/140200097.……みんな、…辛いよ…」",
+		"NamesENG": "Rena",
+		"TextENG": "``...It's not just you, Keiichi-kun.@k@vS03/02/140200097. ...It's hard... for everyone...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43552,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100305.",
+		"TextJPN": "「俺だけが悩んでるなんて思ってない。@k@vS03/01/140100306.でも、みんな何もできないのは本当だろ」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``I know I'm not the only one worrying.@k@vS03/01/140100306. But none of us can do anything either, can we?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43553,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS03/02/140200098.",
+		"TextJPN": "「…………………それは、…そうだけど」",
+		"NamesENG": "Rena",
+		"TextENG": "``.........That's... true, but...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43554,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS03/02/140200099.",
+		"TextJPN": "「…で、…でも…！」",
+		"NamesENG": "Rena",
+		"TextENG": "``...B-But...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43555,
+		"TextJPN": "…このやりとりを続けたらまた喧嘩になる予感がした。@kだから先に謝った。",
+		"TextENG": "...I got the feeling I would cause another fight if this exchange went on.@k So I apologized first."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43556,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100307.",
+		"TextJPN": "「ごめん。@k@vS03/01/140100308.…謝るから今の話は忘れてくれ。@k@vS03/01/140100309.……辛いのはみんなも同じだよな。@k@vS03/01/140100310.…あぁ」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Sorry.@k@vS03/01/140100308. ...I'm sorry, so forget about what I just said.@k@vS03/01/140100309. ...It's hard for everyone, right?@k@vS03/01/140100310. ...It must be.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43557,
+		"TextJPN": "でも、沙都子を救うために悩みぬいたのは、少なくとも俺だけなことは明白だった。",
+		"TextENG": "It was at least clear, however, that I was the only one who had worried so much about rescuing her."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43558,
+		"TextJPN": "…少なくともみんな、昨夜はいつも通りの時間に眠ったろう。@k快眠だったろう。@k……夜を徹して、……必死に考えてたわけじゃないのは間違いない…。",
+		"TextENG": "...At the very least, everyone else probably got the normal amount of sleep last night.@k Probably had good dreams, too.@k ...They definitely hadn't... stayed up all night thinking so desperately..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43559,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS03/03/140300135.",
+		"TextJPN": "「………登校してきていきなりこんなこと聞いて、気を悪くするかもしれないけど。@k@vS03/03/140300136.…圭ちゃん、今日遅刻したよね？　@k@vS03/03/140300137.…沙都子が今日欠席したこととは関係ある？」",
+		"NamesENG": "Mion",
+		"TextENG": "``...I know it might not be what you want to hear right after you get to school...@k@vS03/03/140300136. But you were late today, Kei-chan.@k@vS03/03/140300137. ...Did it have anything to do with Satoko being absent?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43560,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100311.",
+		"TextJPN": "「はぁ…？！@k@vS03/01/140100312.　魅音お前、何の話してるんだ…？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Huh...?!@k@vS03/01/140100312. Mion, what are you talking about...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43561,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS03/03/140300138.",
+		"TextJPN": "「…圭ちゃんはたまに猪突猛進なところがあるからね」",
+		"NamesENG": "Mion",
+		"TextENG": "``...Sometimes you act kind of foolhardy, Kei-chan."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43562,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS03/03/140300139.",
+		"TextJPN": "「……今朝、沙都子と一緒に圭ちゃんも休んだ時。@k@vS03/03/140300140.……沙都子を家から連れ出して、どこかにかくまったんじゃないかって、本気で思った」",
+		"NamesENG": "Mion",
+		"TextENG": "...When both you and her were absent this morning...@k@vS03/03/140300140. We seriously thought you might have kidnapped her and hidden her somewhere.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43563,
+		"TextJPN": "……簡単に言うな。",
+		"TextENG": "...Easy for you to say."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43564,
+		"TextJPN": "それが出来たら、昨夜の時点で実行してる。",
+		"TextENG": "If I could have, I'd have done that last night."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43565,
+		"TextJPN": "…そのもっとも単純な方法が、いかに困難か、…お前らは考えたこともあるまい。",
+		"TextENG": "...None of them had really thought... about how difficult that clear-as-day solution was."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43566,
+		"TextJPN": "俺は…それを昨夜、ずっと考えた、夜が白むまで考えた。",
+		"TextENG": "I was... up thinking all night, thinking until the night was brightening."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43567,
+		"TextJPN": "…その上で俺は、……そんなマネが到底できないことだと、…結論した。",
+		"TextENG": "...And then... I concluded that... I couldn't do anything of the sort."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43568,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100313.",
+		"TextJPN": "「………馬鹿かお前。@k@vS03/01/140100314.…人間ひとりかくまうなんて、…できるもんかよ」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...Don't be dumb.@k@vS03/01/140100314. ...I couldn't... I couldn't hide someone.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43569,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS03/03/140300141.",
+		"TextJPN": "「………………そうだね。@k@vS03/03/140300142.…ごめん。@k@vS03/03/140300143.気を悪くしたなら謝るよ」",
+		"NamesENG": "Mion",
+		"TextENG": "``.........You're right.@k@vS03/03/140300142. ...I'm sorry.@k@vS03/03/140300143. I apologize if I upset you.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43570,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100315.",
+		"TextJPN": "「別にいいよ。@k@vS03/01/140100316.……それよりメシにしようぜ。@k@vS03/01/140100317.腹が減ってんだ」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Don't worry about it.@k@vS03/01/140100316. ...Anyway, let's eat some food.@k@vS03/01/140100317. I'm starving!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43571,
+		"TextJPN": "鞄から俺の弁当箱を取り出す。",
+		"TextENG": "I took my bento box out of my bag."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43572,
+		"TextJPN": "みんなが俺の座る場所を空けてくれた。",
+		"TextENG": "Everyone moved to make a spot for me to sit."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43573,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS03/22/141400009.",
+		"TextJPN": "「前原くん…！@k@vS03/22/141400010.　今、来たんですか？」",
+		"NamesENG": "Chie",
+		"TextENG": "``Maebara-kun...!@k@vS03/22/141400010. Did you just get here?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43574,
+		"TextJPN": "これからまさに箸を付けようというところで、………先生だった。",
+		"TextENG": "And just as I was about to stick my chopsticks in... Chie-sensei came along."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43575,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100318.",
+		"TextJPN": "「あ、…はい。@k@vS03/01/140100319.……遅刻してすみません。@k@vS03/01/140100320.寝坊しまして」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Uh... yeah.@k@vS03/01/140100319. ...Sorry for being late.@k@vS03/01/140100320. I overslept.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43576,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS03/22/141400011.",
+		"TextJPN": "「………………………………」",
+		"NamesENG": "Chie",
+		"TextENG": "``...............``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43577,
+		"TextJPN": "……何だよ一体。",
+		"TextENG": "...What the heck?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43578,
+		"TextJPN": "先生までもが、…何だか複雑な目で見ていた。",
+		"TextENG": "Even the teacher... was giving me that strange look."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43579,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS03/22/141400012.",
+		"TextJPN": "「お弁当を食べたら、委員長と前原くんは職員室に来てください。@k@vS03/22/141400013.…ちょっとお話がありますので」",
+		"NamesENG": "Chie",
+		"TextENG": "``When you're finished eating, could you and the president come to the teacher's lounge?@k@vS03/22/141400013. ...There's something I want to talk about.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43580,
+		"TextJPN": "………沙都子がらみの話なんだろうな、と思った。",
+		"TextENG": "......Probably about Satoko, I thought."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43581,
+		"TextJPN": "先生はそれだけ告げると、廊下へ去って行った。",
+		"TextENG": "Sensei left it at that and went back out into the hallway."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43582,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100321.",
+		"TextJPN": "「……弁当を食うまでもないだろ。@k@vS03/01/140100322.…行こうぜ、魅音」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...Eating lunch can wait.@k@vS03/01/140100322. ...Let's go, Mion.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43583,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS03/03/140300144.",
+		"TextJPN": "「ん、………そうだね」",
+		"NamesENG": "Mion",
+		"TextENG": "``Mm... You're right.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43584,
+		"TextJPN": "魅音と顔を見合わせ、頷きあい、席を立った。",
+		"TextENG": "Mion and I exchanged looks, nodded to each other, and got up."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43585,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS03/02/140200100.",
+		"TextJPN": "「………沙都子ちゃんの話、…だろうね」",
+		"NamesENG": "Rena",
+		"TextENG": "``...It's probably... about Satoko-chan.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43586,
+		"TextJPN": "間違いないだろう。",
+		"TextENG": "No doubt about it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43587,
+		"TextJPN": "…風邪で休んでることにはなってるが、クラス中がそれとなく知っている真実。",
+		"TextENG": "...They were saying she had a cold, but everyone in class knew the truth."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43588,
+		"TextJPN": "……それが先生の耳に入っていないとは思わない。",
+		"TextENG": "...I didn't think that wouldn't have reached the teacher's ears by now."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43589,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS03/05/140500016.",
+		"TextJPN": "「……………ボクが、ずっととぼけるので、…ボクに聞くのをやめたのでしょう」",
+		"NamesENG": "Rika",
+		"TextENG": "``......I kept playing dumb... so I think she gave up asking me.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43590,
+		"TextJPN": "………先生に打ち明けても、余計事態はこじれるだけ。@k……そう思ってしゃべらなかったのか。",
+		"TextENG": "...Revealing the truth to the teacher would only worsen the situation.@k ...Was that why she hadn't said anything?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43591,
+		"TextJPN": "………それとも、…沙都子の親友として、………沙都子が叔父の仕打ちを……兄が帰宅する為の試練だと思って、……耐えようとしていることを知っているのか。",
+		"TextENG": "...Or was it... because she was Satoko's friend... and knew that she was trying to endure... the trial of her uncle's abuse... in order to get her brother to come home?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43592,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS03/03/140300145.",
+		"TextJPN": "「……どうする？@k@vS03/03/140300146.　…今のうちに、私たちなりの統一見解を出した方がいいかもね」",
+		"NamesENG": "Mion",
+		"TextENG": "``...What should we do?@k@vS03/03/140300146. ...Maybe we should use this chance to get a collective opinion.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43593,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100323.",
+		"TextJPN": "「…………梨花ちゃんはどうしたい」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``......What do you want to do, Rika-chan?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43594,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS03/05/140500017.",
+		"TextJPN": "「………………みぃ…」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Meep...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43595,
+		"TextJPN": "沙都子にもっとも近しい、親友である梨花ちゃん。",
+		"TextENG": "Satoko's closest and best friend was Rika-chan."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43596,
+		"TextJPN": "……俺がいくらにーにーを気取ったって、…梨花ちゃんと沙都子が共に過ごしてきた期間には遠く及ばない。",
+		"TextENG": "...However much I pretended to be her Nii-nii... it didn't come close to the amount of time they'd spent together."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43597,
+		"TextJPN": "…だから、その意見はもっとも尊重できると思った。",
+		"TextENG": "...So I felt like her opinion should be held in the highest regard."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43598,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/KEI040301.",
+		"TextJPN": "「…………沙都子がどうしてあんなに頑張ろうとするのか、俺は知ってる」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``......I know... why Satoko tries so hard.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43599,
+		"TextJPN": "みんながはっとして…俺に振り返る。",
+		"TextENG": "Everyone looked startled... and turned to me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43600,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/KEI040302.",
+		"TextJPN": "「……昔の沙都子は、…辛いことがあると、…すぐに泣きながら兄の背中に隠れてた。@k@vS03/01/140100326.……でも結局、…そのせいで兄が逃げてしまったんだと、……沙都子は思ってる」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...Back then, whenever Satoko was... having a hard time... she probably cried and hid behind her brother.@k@vS03/01/140100326. ...But Satoko thinks that... in the end... that's why her brother ran away.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43601,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS03/05/140500018.",
+		"TextJPN": "「………………………………」",
+		"NamesENG": "Rika",
+		"TextENG": "``............``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43602,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS03/02/140200101.",
+		"TextJPN": "「……………誰に、…………聞いたのかな…？」",
+		"NamesENG": "Rena",
+		"TextENG": "``......Who... did you hear that from...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43603,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS03/03/140300147.",
+		"TextJPN": "「監督、か…………」",
+		"NamesENG": "Mion",
+		"TextENG": "``The coach, I bet...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43604,
+		"TextJPN": "俺は静かに頷く。",
+		"TextENG": "I nodded quietly."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43605,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100328.",
+		"TextJPN": "「でも、…そんな思い込みと悟史が帰ってくるのはまったく無関係なことだ。@k@vS03/01/140100329.………沙都子には悪いが、…それが現実だ」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``But... that assumption has nothing to do with Satoshi coming back.@k@vS03/01/140100329. ...It hurts to say that about Satoko... but it's the truth.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43606,
+		"TextJPN": "みんな、…俯く。",
+		"TextENG": "Everyone... hung their heads."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43607,
+		"TextJPN": "………みんな、…同じことを考えているのだ…。",
+		"TextENG": "...Everyone... was thinking the same thing..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43608,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100330.",
+		"TextJPN": "「………沙都子は、…多分、誰の助けも喜ばない。@k@vS03/01/140100331.……自分ひとりの力で耐え忍びたいと思ってる。@k@vS03/01/140100332.………………でも、…それを尊重してやるのが、…果たして正しいだろうか…？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...Satoko... probably won't be happy no matter who helps her.@k@vS03/01/140100331. ...She wants to withstand everything with her own strength.@k@vS03/01/140100332. .........But is it... really right to respect that...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43609,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100333.",
+		"TextJPN": "「………俺は思わない。@k@vS03/01/140100334.…一時、沙都子に恨まれることになろうと、……沙都子の意思に拘らず助けるべき時があると思う。@k@vS03/01/140100335.………俺はそれが、……今じゃないかと思ってる」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...I don't think it is.@k@vS03/01/140100334. ...Even if Satoko hates us for a while... I think there will come a time when we need to save her against her will.@k@vS03/01/140100335. ...And I think... that time might be now.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43610,
+		"TextJPN": "……俺はそこで、昨日沙都子の家へ行き、見たこと、感じたこと全てを話した。",
+		"TextENG": "...I told them all about what I saw and how I felt when I went to Satoko's house yesterday."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43611,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS03/02/140200102.",
+		"TextJPN": "「……………圭一くんは、…話すべきだと思ってる、…ってことだね？」",
+		"NamesENG": "Rena",
+		"TextENG": "``......Keiichi-kun... so you think... we should tell someone?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43612,
+		"TextJPN": "そんな中、……梨花ちゃんが、発言を求めるようにすっと…挙手した。",
+		"TextENG": "Meanwhile... Rika-chan had her hand raised for a while... as if asking for an opportunity to speak."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43613,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS03/05/140500019.",
+		"TextJPN": "「……圭一に、…任せますです」",
+		"NamesENG": "Rika",
+		"TextENG": "``...I will... leave it to Keiichi.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43614,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100338.",
+		"TextJPN": "「え、……いいのかい梨花ちゃん…」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``What... Is that okay, Rika-chan...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43615,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS03/05/140500020.",
+		"TextJPN": "「……圭一は、………ここにいる誰よりも、沙都子のことを考えていますです。@k@vS03/05/140500021.…その圭一が、…話すべき時だと判断したなら、ボクは文句なんか言わないのですよ」",
+		"NamesENG": "Rika",
+		"TextENG": "``...Keiichi is... thinking about Satoko more than anybody else here.@k@vS03/05/140500021. ...If Keiichi thinks... that we need to tell someone, then I have no complaints.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43616,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100339.",
+		"TextJPN": "「…ありがとう。……魅音もレナも、それでいいか？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...Thanks... Mion, Rena, are you okay with that?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43617,
+		"TextJPN": "魅音は頷くべきか、少し躊躇していたようだった。",
+		"TextENG": "Mion seemed to hesitate, not knowing if she should agree."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43618,
+		"TextJPN": "…でも、レナが強く頷くのを見て、覚悟を決めて頷いてくれた。",
+		"TextENG": "...But when she saw Rena's firm nod, she made up her mind and did the same."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43619,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100340.",
+		"TextJPN": "「よし。@k@vS03/01/140100341.………行くぞ魅音」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Okay.@k@vS03/01/140100341. ...Let's go, Mion.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43620,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS03/03/140300150.",
+		"TextJPN": "「……うん」",
+		"NamesENG": "Mion",
+		"TextENG": "``...Right.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43621,
+		"TextJPN": "職員室には知恵先生しかいなかった。",
+		"TextENG": "Only Chie-sensei was in the teacher's lounge."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43622,
+		"TextJPN": "…校長先生の姿はない。",
+		"TextENG": "...We didn't see the principal anywhere."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43623,
+		"TextJPN": "……黒板の日程表を見ると、校長のところに『研修・直帰』と書かれていた。",
+		"TextENG": "...The schedule on the blackboard under the principal's name said ``training—going straight home.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43624,
+		"TextJPN": "…校長先生は正義感が強すぎる人だ。",
+		"TextENG": "...Our principal's sense of justice was too strong."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43625,
+		"TextJPN": "……沙都子の問題は、正義感なんて曖昧なものでは解決しない。@k……不在は幸運かもしれない。",
+		"TextENG": "...Satoko's problems wouldn't be solved with something so vague.@k ...Maybe it was a stroke of good luck that he wasn't here."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43626,
+		"TextJPN": "先生は、俺と魅音が来たことを認めると、カレー弁当に蓋をして、食事を中断した。",
+		"TextENG": "When the teacher saw Mion and I come in, she closed up her curry bento, saving the rest for later."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43627,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS03/22/141400014.",
+		"TextJPN": "「そこへお掛けなさい」",
+		"NamesENG": "Chie",
+		"TextENG": "``Sit over there, please.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43628,
+		"TextJPN": "校長先生の席の正面にある、応接椅子に掛けるように言われる。",
+		"TextENG": "She told us to take a seat in the chairs directly in front of the principal's seat."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43629,
+		"TextJPN": "……こんな椅子に座るのは転校手続きで来たとき以来だった。",
+		"TextENG": "...I hadn't sat in this chair since doing the paperwork for transferring in."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43630,
+		"TextJPN": "魅音と二人して、窮屈そうに座っていると、…ノートとボールペンを持った先生がやってきて、正面に座った。",
+		"TextENG": "The two of us sat there uncomfortably... before the teacher walked over carrying a notebook and a ballpoint pen and sat in front of us."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43631,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS03/22/141400015.",
+		"TextJPN": "「前原くん、今日は午前中お休みでしたけど、何かありましたか？」",
+		"NamesENG": "Chie",
+		"TextENG": "``Maebara-kun, you were absent this morning—did something happen?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43632,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100342.",
+		"TextJPN": "「すみません、寝坊です」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``I'm sorry, I overslept.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43633,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS03/22/141400016.",
+		"TextJPN": "「……………本当に？」",
+		"NamesENG": "Chie",
+		"TextENG": "``......Really?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43634,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100343.",
+		"TextJPN": "「……先生に嘘言っても」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...I have no reason to lie...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43635,
+		"TextJPN": "先生は問い詰めるように、少し目を細める。",
+		"TextENG": "She narrowed her eyes at me in suspicion."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43636,
+		"TextJPN": "……確信する。",
+		"TextENG": "...Now I was sure of it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43637,
+		"TextJPN": "…沙都子の話をしようとしているのだ。",
+		"TextENG": "...She wanted to talk about Satoko."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43638,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS03/22/141400017.",
+		"TextJPN": "「…まず二人とも知ってると思いますけど、お友達の北条さんがここしばらくお休みしてますね」",
+		"NamesENG": "Chie",
+		"TextENG": "``...In any case, I think you two already know, but your friend Houjou-san has been away frequently lately.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43639,
+		"TextJPN": "魅音も俺も特に相槌は打たなかった。@k…でも先生はそんなことは気にせず先を進める。",
+		"TextENG": "Neither Mion nor I had anything to say in response.@k ...But the teacher proceeded, not minding."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43640,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS03/22/141400018.",
+		"TextJPN": "「………何か知っていますか？@k@vS03/22/141400019.　クラスで、良くない噂をしている人たちがいます」",
+		"NamesENG": "Chie",
+		"TextENG": "``...Would you happen to know anything?@k@vS03/22/141400019. There are some people in class spreading bad rumors.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43641,
+		"TextJPN": "魅音はまるで説教を聞いているように、下を向いて黙っていた。",
+		"TextENG": "Mion looked down and remained silent, as though she were being lectured."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43642,
+		"TextJPN": "………俺にちらりと目線を送る。@k……さっきみんなで決めた。@k…俺に、任せるという合図。",
+		"TextENG": "......She sent me a quick glance.@k ...Everyone had made up their minds.@k ...They'd be leaving things to me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43643,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS03/22/141400020.",
+		"TextJPN": "「委員長？@k@vS03/22/141400021.　前原くんも。@k@vS03/22/141400022.……先生は別に怒ってるんじゃありませんよ？@k@vS03/22/141400023.　もしも知っていたら教えてほしいとお願いしているだけです」",
+		"NamesENG": "Chie",
+		"TextENG": "``Mion-kun?@k@vS03/22/141400021. Or you, Maebara-kun?@k@vS03/22/141400022. ...I won't get mad or anything, okay?@k@vS03/22/141400023. If you know something, I just want you to tell me.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43644,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100344.",
+		"TextJPN": "「…………先生。@k@vS03/01/140100345.先に、こっちから質問してもいいですか？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``......Sensei.@k@vS03/01/140100345. Can we ask you a question first?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43645,
+		"TextJPN": "こんな切り返しは想定していなかったろう。@k…先生が何事かと驚く。",
+		"TextENG": "She must not have anticipated that response.@k ...She looked surprised."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43646,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100346.",
+		"TextJPN": "「……クラス中で、沙都子のどんな噂が飛び交ってるかは知りませんが。@k@vS03/01/140100347.…仮に、その噂が真実だったとして、……先生はどうするつもりですか？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...I don't know what rumors are going around about Satoko in class.@k@vS03/01/140100347. ...But if those rumors happened to be true... what would you do, Sensei?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43647,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS03/22/CHIE040301.",
+		"TextJPN": "「ど、…どうするもこうするも。@k@vS03/22/CHIE040302.…その話が本当なら放って置けません」",
+		"NamesENG": "Chie",
+		"TextENG": "``W-Well, what would I do?@k@vS03/22/CHIE040302. ...If it's true, then I can't leave it alone.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43648,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100348.",
+		"TextJPN": "「放って置けないって、具体的にはどう放って置けないんですか？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Can't leave what alone, exactly? What would you do?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43649,
+		"TextJPN": "先生が目を吊り上げる。@k……ちょっと喧嘩腰な言い方になったか。",
+		"TextENG": "Sensei's eyebrows shot up.@k ...Maybe I said it like I was trying to pick a fight."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43650,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS03/22/141400026.",
+		"TextJPN": "「前原くん！@k@vS03/22/141400027.　先生はまじめにお話してるんですよ！！」",
+		"NamesENG": "Chie",
+		"TextENG": "``Maebara-kun!@k@vS03/22/141400027. I'm being serious here!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43651,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100349.",
+		"TextJPN": "「……先生こそ。@k@vS03/01/140100350.…俺はすごくまじめな話をしているんです。@k@vS03/01/140100351.まず、答えてください。@k@vS03/01/140100352.……真実だったとして、どう放って置けないんです？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...So am I.@k@vS03/01/140100350. ...I'm also being completely serious right now.@k@vS03/01/140100351. Please answer me.@k@vS03/01/140100352. ...If it were true, what wouldn't you leave alone?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43652,
+		"TextJPN": "先生は…二三呼吸置いてから…ゆっくりと口を開いた。",
+		"TextENG": "Sensei... took a few breaths... then began to speak slowly."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43653,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS03/22/141400028.",
+		"TextJPN": "「ま………まず。@k@vS03/22/141400029.状況を確かめるために、北条さんの家を家庭訪問します」",
+		"NamesENG": "Chie",
+		"TextENG": "``F-First.@k@vS03/22/141400029. I'd have to visit Houjou-san's house to confirm the situation.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43654,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100353.",
+		"TextJPN": "「叔父に怒鳴りつけられて追い返されるかもしれませんね。@k@vS03/01/140100354.……まぁいいや。@k@vS03/01/140100355.…仮に叔父と沙都子に会えたとします。@k@vS03/01/140100356.それで？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Her uncle might get mad and drive you away, though.@k@vS03/01/140100354. ...Well, okay.@k@vS03/01/140100355. ...Let's say you did meet with Satoko and her uncle.@k@vS03/01/140100356. Then what?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43655,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS03/22/141400030.",
+		"TextJPN": "「そして真意を聞きます。@k@vS03/22/141400031.その事実が確認できたなら、…指導します」",
+		"NamesENG": "Chie",
+		"TextENG": "``Then I'd ask whether it was true.@k@vS03/22/141400031. Once I got the facts... I'd go from there.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43656,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100357.",
+		"TextJPN": "「指導って曖昧な言い方はやめて下さい。@k@vS03/01/140100358.具体的には何をするんですか？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Please stop talking so vaguely.@k@vS03/01/140100358. What exactly would you do?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43657,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS03/22/CHIE040303.",
+		"TextJPN": "「興宮の生活相談所へ通報します。@k@vS03/22/CHIE040304.さっき前原くんは追い返される、と言いましたね」",
+		"NamesENG": "Chie",
+		"TextENG": "``I'd contact the Okinomiya child consultation center.@k@vS03/22/CHIE040304. You said just now that I would be turned away, didn't you?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43658,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS03/22/CHIE040305.",
+		"TextJPN": "「この相談所の職員は必要に応じて警察官を同行させることができます。@k@vS03/22/CHIE040306.恫喝には絶対に屈しません」",
+		"NamesENG": "Chie",
+		"TextENG": "``Child welfare officers can bring the police with them if the situation demands.@k@vS03/22/CHIE040306. They will not submit to intimidation.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43659,
+		"TextJPN": "……沙都子が絶対に救われるという確約を得てから話すはずなのに、もう最初から話してるも同然だ。",
+		"TextENG": "...I was supposed to be telling her about the situation only after I was sure we could save Satoko, but I basically told her everything right from the start."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43660,
+		"TextJPN": "…これだけ喧嘩腰な言い方になっても、先生は感情をぐっと抑え、落ち着いて話を聞いてくれた。",
+		"TextENG": "...Even despite my tone being so provocative, Chie-sensei bit back her emotions and listened calmly."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43661,
+		"TextJPN": "…………いい先生だな、と思った。",
+		"TextENG": "......I thought then that she was a good teacher."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43662,
+		"TextJPN": "…知恵先生という人は、…本当に生徒のことを考えているいい先生なのだ。",
+		"TextENG": "...Chie-sensei really did... have her students' best interests at heart."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43663,
+		"TextJPN": "………でも、…沙都子を救ってやれる力や権限は、何もない。",
+		"TextENG": "...But... she didn't have the power or the authority to save Satoko."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43664,
+		"TextJPN": "先生は時計を見てから、立ち上がり、校長席の受話器を取った。",
+		"TextENG": "Chie-sensei looked at the clock, stood up, and picked up the phone at the principal's seat."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43665,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS03/22/141400040.",
+		"TextJPN": "「…………………もしもし。@k@vS03/22/141400041.内線の３４５５をお願いします」",
+		"NamesENG": "Chie",
+		"TextENG": "``............Hello?@k@vS03/22/141400041. Put me through to extension 3455, please.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43666,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS03/03/140300152.",
+		"TextJPN": "「……いいの、圭ちゃん？@k@vS03/03/140300153.　……本当に、……大丈夫かな…」",
+		"NamesENG": "Mion",
+		"TextENG": "``...Is this okay, Kei-chan?@k@vS03/03/140300153. ...Is this... really okay...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43667,
+		"TextJPN": "もう遅い。@k……もう賽は振られてしまった。",
+		"TextENG": "It was too late.@k ...The die had been cast."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43668,
+		"TextJPN": "……祈るしか、ない。",
+		"TextENG": "...Now we could only... pray."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43669,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS03/22/141400042.",
+		"TextJPN": "「あ、お世話になっております。@k@vS03/22/141400043.雛見沢分校教諭の知恵と申しますが、指導室の渡辺主事はいらっしゃいますでしょうか？@k@vS03/22/141400044.　………はい、ええ。@k@vS03/22/141400045.…ちょっと急用がございまして、至急、校長と連絡が取りたいのですが」",
+		"NamesENG": "Chie",
+		"TextENG": "``Oh, thank you for answering my call.@k@vS03/22/141400043. I'm Chie, a licensed teacher at the Hinamizawa branch school—would Director Watanabe happen to be in the guidance office?@k@vS03/22/141400044. ...Yes, that's right.@k@vS03/22/141400045. ...Something urgent came up, so I'd like to contact the principal as soon as I can.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43670,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS03/22/141400046.",
+		"TextJPN": "「………はい。@k@vS03/22/141400047.お願いします。@k@vS03/22/141400048.緊急とお伝え下さい。@k@vS03/22/141400049.よろしくお願いします…」",
+		"NamesENG": "Chie",
+		"TextENG": "``......Yes.@k@vS03/22/141400047. Thank you.@k@vS03/22/141400048. Please tell him immediately.@k@vS03/22/141400049. Yes, thank you...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43671,
+		"TextJPN": "先生は受話器を置くと、@k……よく俺がするみたいに、頭を後ろへ反らしてから深呼吸をした。",
+		"TextENG": "The teacher put down the phone...@k and tilted her head back and took a breath, like I always did."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43672,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS03/22/141400050.",
+		"TextJPN": "「……二人にもう一度だけ聞きます。@k@vS03/22/141400051.……クラスのみんなの噂は、全て本当なんですね？」",
+		"NamesENG": "Chie",
+		"TextENG": "``...I'll ask the two of you again.@k@vS03/22/141400051. ...Are the rumors going around class really true?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43673,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100372.",
+		"TextJPN": "「…………………はい。@k@vS03/01/140100373.…俺は昨日、沙都子の家に行って、…実際にどういうことになっているのか、見ました」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``.........Yes.@k@vS03/01/140100373. ...Yesterday I went to Satoko's house... and I saw for myself just how bad it really is.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43674,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS03/22/141400052.",
+		"TextJPN": "「あとは先生に任せてください。@k@vS03/22/141400053.沙都子ちゃんは、きっと先生が何とかします」",
+		"NamesENG": "Chie",
+		"TextENG": "``You can leave the rest to me.@k@vS03/22/141400053. I'll definitely do something for Satoko-chan.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43675,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100374.",
+		"TextJPN": "「………何とか？@k@vS03/01/140100375.　いい加減なことを言わないで下さい。@k@vS03/01/140100376.何とかじゃない、絶対でなければならない！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...Something?@k@vS03/01/140100375. Please stop saying such ambiguous things.@k@vS03/01/140100376. Not something—we have to save her!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43676,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100377.",
+		"TextJPN": "「もしもまた様子見なんてことになったら…、先生はどう責任を取るつもりですかッ！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``If they end up deciding to wait and see again... how do you plan on taking responsibility!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43677,
+		"TextJPN": "俺が怒鳴っている間に電話が鳴った。",
+		"TextENG": "While I was yelling, the phone rang."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43678,
+		"TextJPN": "先生はすぐに受話器をひったくる。",
+		"TextENG": "Chie-sensei snatched the receiver up first."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43679,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS03/22/141400054.",
+		"TextJPN": "「…もしもし！@k@vS03/22/141400055.　あ、……研修中申し訳ありません。@k@vS03/22/141400056.……………はい。@k@vS03/22/141400057.実は例の北条沙都子さんの件でお話が。@k@vS03/22/141400058.………はい」",
+		"NamesENG": "Chie",
+		"TextENG": "``...Hello!@k@vS03/22/141400055. Oh... I apologize for interrupting your training.@k@vS03/22/141400056. ......Yes.@k@vS03/22/141400057. Actually, it's about the issue with Satoko Houjou-san.@k@vS03/22/141400058. ...Yes.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43680,
+		"TextJPN": "先生は、もう二人は行っていいと、追い払うような仕草をする。",
+		"TextENG": "Sensei waved us away, telling us we could leave now."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43681,
+		"TextJPN": "…魅音は出て行こうとしたが、俺は踏みとどまった。",
+		"TextENG": "...Mion went to leave, but I held my ground."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43682,
+		"TextJPN": "……先生が曖昧ないい加減なことを言わないように、見張る義務があった。@k…もしも、肝心なことを言わないようなら、…受話器を奪ってでも、真実を話す。",
+		"TextENG": "...I had a responsibility to make sure she stopped saying such vague, ambiguous things.@k ...If it didn't look like she was going to say anything substantial... then I'd tell them the truth, even if I had to steal the phone from her."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43683,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS03/22/141400059.",
+		"TextJPN": "「……………はい。@k@vS03/22/141400062.……まだ確認はしていませんが、…クラスの子の話では、相当な様子です」",
+		"NamesENG": "Chie",
+		"TextENG": "``......Yes.@k@vS03/22/141400062. ...I haven't confirmed it... but it seems pretty bad from what the children are saying.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43684,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100379.",
+		"TextJPN": "「すぐにだ！！@k@vS03/01/140100380.　今すぐ何とかしろ！！@k@vS03/01/140100382.　でもな、もしも様子見なんてことになってみろ！！@k@vS03/01/140100383.　ただじゃ済まさないからなぁああぁあぁあッ！！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Do something about it!!@k@vS03/01/140100380. Right now!!@k@vS03/01/140100382. I swear, if they end up just waiting and watching...@k@vS03/01/140100383. I will never forgive you!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43685,
+		"TextJPN": "先生と、受話器の向こうの校長先生二人に怒鳴りつける。",
+		"TextENG": "I yelled angrily at Sensei and the principal on the other end."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43686,
+		"TextJPN": "……沙都子が置かれている状況がいかに危機的なものか、…少しでも伝えたかった。",
+		"TextENG": "...I wanted to somehow, some way... convey to them just how dangerous her situation was right now."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43687,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS03/22/141400063.",
+		"TextJPN": "「それはわかっています！@k@vS03/22/141400064.　ちゃんと伝えますから！@k@vS03/22/141400065.　委員長、前原くんを連れて教室に戻りなさい」",
+		"NamesENG": "Chie",
+		"TextENG": "``I understand that!@k@vS03/22/141400064. I will tell them as much!@k@vS03/22/141400065. Mion-kun, please take Maebara-kun back to the classroom.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43688,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS03/03/140300154.",
+		"TextJPN": "「あ、…はい」",
+		"NamesENG": "Mion",
+		"TextENG": "``Ah... yes, ma'am.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43689,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS03/03/140300155.",
+		"TextJPN": "「………行くよ、圭ちゃん。@k@vS03/03/140300156.あとは先生たちに任せよ」",
+		"NamesENG": "Mion",
+		"TextENG": "``...Let's go, Kei-chan.@k@vS03/03/140300156. We should leave this to the teachers now.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43690,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS03/01/140100384.",
+		"TextJPN": "「………………………………絶対、…だぞ…」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``.........You better... promise...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43691,
+		"TextJPN": "最後の最後まで、…先生をにらみつける。",
+		"TextENG": "Until the very last moment... I glared at Sensei."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43692,
+		"TextJPN": "…あの知恵先生が、俺如きに気圧されていた。@k……ばか、ここは気圧されるところじゃないだろ。@k…ぐっと頷いて、俺を安心させるところだろ…！",
+		"TextENG": "...Chie-sensei... was feeling pressured by the likes of me.@k ...Idiot, this isn't the time to feel pressured.@k ...Now's the time when you give me a firm nod to reassure me...!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43693,
+		"TextJPN": "でも、……もう任せてしまった。",
+		"TextENG": "Even so... we've already left things in her hands."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43694,
+		"TextJPN": "…あとは…本当に、祈るしかない。",
+		"TextENG": "...At this point... we really can't do anything but pray."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 43695,
+		"TextJPN": "ピシャリ。@k……魅音が職員室の扉を閉めた。",
+		"TextENG": "Bang.@k ...Mion shut the door to the teacher's lounge."
+	}
+]

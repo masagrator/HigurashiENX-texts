@@ -1,988 +1,986 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "#5 黒澤を探しに行く",
-            "ENG": "#5 / Searching for Kurosawa"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93799,
-            "TextJPN": "雨はまだ、しとしとと降り続いている。",
-            "TextENG": "The rain was still pouring down."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93800,
-            "TextJPN": "石段の下にあったはずのミニバンは…、確かになくなっている。",
-            "TextENG": "The minivan that was supposed to be parked at the base of the stone steps... really was gone."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93801,
-            "TextJPN": "俺はミニバンがあったはずの場所へ立ち…、ふっとあの時のことを思い出した。",
-            "TextENG": "I stood in the spot where the minivan should've been... and thought back."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93802,
-            "TextJPN": "自殺者たちの車を見た後、俺と美雪ちゃんはここへ来た…。",
-            "TextENG": "Miyuki-chan and I came here right after discovering the car full of suicide victims..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93803,
-            "TextJPN": "車内を覗いた俺は、運転席に何かが揺れているのに気がついたんだ。",
-            "TextENG": "When I peered inside the car, I noticed something swinging by the driver's seat."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93804,
-            "TextJPN": "何か…？",
-            "TextENG": "What was it...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93805,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS10/62/410100706.",
-            "TextJPN": "「……あっ…！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``...Oh...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93806,
-            "TextJPN": "そうだ。あれは…、キーホルダーだ…。キーホルダーが、ハンドルのところで揺れていた。",
-            "TextENG": "That's right. It was... a keychain. A keychain dangling from the keyhole."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93807,
-            "TextJPN": "ってことは…、待てよ…？",
-            "TextENG": "But... wait...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93808,
-            "TextJPN": "それって、あの車には、キーが差しっぱなしになっていたってことだよな…？！",
-            "TextENG": "That means the keys were left inside the car...?!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93809,
-            "TextJPN": "無用心極まりないが、人気のない廃村だから、キーを挿したままでも大丈夫だと十和田さんは思ったんだろうか…？",
-            "TextENG": "It might seem careless, but this is an uninhabited ghost town, so maybe Towada-san thought it would be safe to leave the keys inside...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93810,
-            "TextJPN": "だが…、キーをつけたままだったために、誰かに盗まれてしまった…。",
-            "TextENG": "But... if she left the keys inside, someone would've been able to steal the car..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93811,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@-@vS10/62/410100707.",
-            "TextJPN": "（盗まれた…？）",
-            "NamesENG": "Arakawa",
-            "TextENG": "(Was it stolen...?)"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93812,
-            "TextJPN": "そこで、俺はふと思案に暮れる。…そういえば、美雪ちゃんと乗ってきた車もキーをつけっぱなしだった。",
-            "TextENG": "Suddenly, I became lost in thought. ...Come to think of it, Miyuki-chan and I left the keys to her car inside too."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93813,
-            "TextJPN": "盗まれたということは、盗んだ人間がいるということだ。",
-            "TextENG": "Someone could've stolen it, too."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93814,
-            "TextJPN": "つまりそれは…、鬼隠しだの祟りだのといったオカルト現象とは関係がない。",
-            "TextENG": "So, in other words... this had nothing to do with occult phenomena like curses or being demoned away."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93815,
-            "TextJPN": "この村には……、俺たちの他にもまだ人がいる可能性があるってことだ…。",
-            "TextENG": "There's still a possibility... that there are more people in this village than just us..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93816,
-            "TextJPN": "じゃあ一体、誰が…？　何のために…？",
-            "TextENG": "Then who the hell could it be...? And for what...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93817,
-            "TextJPN": "それとも…、これは俺たちをどこかに誘い出す、何かの罠か…？",
-            "TextENG": "Or... was this a trap meant to lure us all somewhere...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93818,
-            "TextJPN": "…………。",
-            "TextENG": "......"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93819,
-            "TextJPN": "あるいは、…本当にこれは鬼の仕業なのか？",
-            "TextENG": "Or maybe... this really is the work of demons?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93820,
-            "TextJPN": "生者の所業に見せかけた死者の仕業で、逃走手段を奪ってじわじわと俺たちを絞め殺すために、こんなことを…？",
-            "TextENG": "Could it be the work of the dead meddling in the lives of the living? Cutting off our means of escape and then strangling us to death...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93821,
-            "TextJPN": "…………。",
-            "TextENG": "......"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93822,
-            "TextJPN": "思考が堂々巡りし始める。",
-            "TextENG": "My thoughts were going around in circles."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93823,
-            "TextJPN": "今、この村にいる『生きている人間』は、本当は誰なんだ…？",
-            "TextENG": "Just who was it that was ``alive`` in this village right now...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93824,
-            "TextJPN": "思考の限界。考えていることが支離滅裂になってくる。",
-            "TextENG": "I hit the limit of my reasoning. At this point, my thoughts had become incoherent."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93825,
-            "TextJPN": "そうだ。死者だの生者だのといったことを考え出すから、分からなくなるんだよ。",
-            "TextENG": "Right. My thoughts went astray when I questioned if it was the work of the living or the dead."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93826,
-            "TextJPN": "生きている人間以外、いるわけがない…はずだ。",
-            "TextENG": "There's no way it could be anything besides another living person... It can't be."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93827,
-            "TextJPN": "その時…、背後に人の気配がした。",
-            "TextENG": "Just then... I heard the sound of a person approaching from behind."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93828,
-            "TextJPN": "ジャリ…。",
-            "TextENG": "*scrape*"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93829,
-            "TextJPN": "足音が聞こえたのと、俺の背中に誰かがそっと手を置いたのは、同時だった。",
-            "TextENG": "I heard a footstep, and at the same time I suddenly felt someone place a hand on my back."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93830,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS10/62/410100708.",
-            "TextJPN": "「うわぁっ？！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``Uwah?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93831,
-            "TextJPN": "のけぞりながら振り返る。",
-            "TextENG": "I arched my back backwards while turning around."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93832,
-            "TextJPN": "乙部が、ぽかんと口を開けたまま立っていた。",
-            "TextENG": "Otobe was standing there with his mouth hanging open."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93833,
-            "NamesJPN": "乙部",
-            "PreTextTags": "@vS10/41/410200228.",
-            "TextJPN": "「あ、荒川さん…？」",
-            "NamesENG": "Otobe",
-            "TextENG": "``A-Arakawa-san...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93834,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS10/62/410100709.",
-            "TextJPN": "「なんだ、乙部かよ！@k@vS10/62/410100710.　びっくりさせんなよな！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``What? Otobe?!@k@vS10/62/410100710. Don't surprise me like that!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93835,
-            "NamesJPN": "乙部",
-            "PreTextTags": "@vS10/41/410200229.",
-            "TextJPN": "「すみません、びっくりさせるつもりはなかったんですけど…。@k@vS10/41/410200230.荒川さん、立ち止まって難しい顔をしてたから、どうしたのかと思って」",
-            "NamesENG": "Otobe",
-            "TextENG": "``Sorry, I didn't mean to surprise you...@k@vS10/41/410200230. But Arakawa-san, you came to a sudden stop and you looked upset, so I wanted to ask if something was wrong.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93836,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS10/62/410100711.",
-            "TextJPN": "「あ、いや。何でもねーよ。@k@vS10/62/410100712.ちょっと考えごとを、な。@k@vS10/62/410100713.…早く行こーぜ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``Oh, no. It's nothing.@k@vS10/62/410100712. Just a little lost in thought.@k@vS10/62/410100713. ...Let's hurry up and get going!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93837,
-            "NamesJPN": "乙部",
-            "PreTextTags": "@vS10/41/410200231.",
-            "TextJPN": "「でも…、行くってどっちへ…？」",
-            "NamesENG": "Otobe",
-            "TextENG": "``But... which way should we go...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93838,
-            "TextJPN": "舗装されていない砂利道が、左右にまっすぐ延びている。",
-            "TextENG": "An unpaved gravel road extended to both the left and the right."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93839,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS10/62/410100714.",
-            "TextJPN": "「右か左か…？」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``Left or right...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93840,
-            "NamesJPN": "乙部",
-            "PreTextTags": "@vS10/41/410200232.",
-            "TextJPN": "「どっちでもいいですよ…」",
-            "NamesENG": "Otobe",
-            "TextENG": "``I'm fine with either one...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93841,
-            "TextJPN": "乙部は左に向かって歩き出す。",
-            "TextENG": "Otobe started walking to the left."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93842,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS10/62/410100715.",
-            "TextJPN": "「いや…、こっちだ」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``No... let's go this way.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93843,
-            "TextJPN": "反射的に俺は乙部の腕をつかむと、右へ向かって歩き出した。",
-            "TextENG": "I reflexively grabbed Otobe's arm and started walking to the right."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93844,
-            "TextJPN": "どうしてこっちに向かったのか、自分でも分からない。",
-            "TextENG": "Why did I want to go this direction? Even I wasn't sure, myself."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93845,
-            "TextJPN": "ただ俺と美雪ちゃんは、右の方角から来た。だから、来た道をなんとなく戻りたかっただけなのかもしれない。",
-            "TextENG": "But Miyuki-chan and I originally came from the direction to the right, so maybe I just felt some desire to go back the way I came from."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93846,
-            "NamesJPN": "乙部",
-            "PreTextTags": "@vS10/41/410200233.",
-            "TextJPN": "「こっち…ですか…」",
-            "NamesENG": "Otobe",
-            "TextENG": "``You want to go... this way...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93847,
-            "TextJPN": "乙部は、おずおずと俺についてくる。",
-            "TextENG": "Otobe timidly followed behind me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93848,
-            "TextJPN": "行けども行けども、木しか見えない。鬱蒼とした森の中を、一本道がまっすぐ続いているだけだ。",
-            "TextENG": "No matter how far we went, I couldn't see anything but trees. It was just one long road extending straight through a dense forest."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93849,
-            "NamesJPN": "乙部",
-            "PreTextTags": "@vS10/41/410200234.",
-            "TextJPN": "「荒川さん…。@k@vS10/41/410200235.さっき…、魅音さんが探したんですよね？@k@vS10/41/410200236.…地元の魅音さんが見つからないっていうのに…、僕たちで見つけることなんて、本当にできるんでしょうか…？」",
-            "NamesENG": "Otobe",
-            "TextENG": "``Arakawa-san...@k@vS10/41/410200235. Mion-san... went out searching a while ago, didn't she?@k@vS10/41/410200236. ...If a local like Mion-san couldn't find anything... do you really think it's possible for us to find anything out here...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93850,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS10/62/410100716.",
-            "TextJPN": "「わかんねーけど、行くしかないだろ？@k@vS10/62/410100717.　黒澤は、忽然と姿を消しちまってるんだから」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``I dunno, but do we really have any other choice?@k@vS10/62/410100717. Kurosawa suddenly disappeared on us.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93851,
-            "NamesJPN": "乙部",
-            "PreTextTags": "@vS10/41/410200237.",
-            "TextJPN": "「だけど、それは…」",
-            "NamesENG": "Otobe",
-            "TextENG": "``That's true, but...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93852,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS10/62/410100718.",
-            "TextJPN": "「それは、何だよ…？」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``But what...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93853,
-            "TextJPN": "しかし乙部はいいかけた言葉を飲み込み、気まずそうにうつむいた。",
-            "TextENG": "However, Otobe swallowed his words and awkwardly looked down."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93854,
-            "TextJPN": "…こいつが何を言いたいのか、だいたい分かっている。",
-            "TextENG": "...I had a good idea what he was trying to say."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93855,
-            "TextJPN": "鬼隠しだから、しょうがない。鬼につかまった人間は、食われ、人目のつかないところに捨てられているに決まってる…。",
-            "TextENG": "If Kurosawa was demoned away, there was nothing we could do about it. Anyone caught by the demons would simply be devoured and thrown away, never to be found again."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93856,
-            "TextJPN": "乙部の目がそう語っているように感じられるのは、心のどこかで、俺もそう思っているからだろう。",
-            "TextENG": "Otobe's eyes seemed to say as much, and somewhere in my heart I was thinking the same thing."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93857,
-            "NamesJPN": "乙部",
-            "PreTextTags": "@vS10/41/410200238.",
-            "TextJPN": "「何でもないです…」",
-            "NamesENG": "Otobe",
-            "TextENG": "``It's nothing...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93858,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS10/62/410100719.",
-            "TextJPN": "「じゃ、言うなよな…」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``Then don't say anything...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93859,
-            "TextJPN": "二人とも、それ以上は何も言葉を発しなかった。",
-            "TextENG": "After that, the two of us said nothing more."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93860,
-            "TextJPN": "ぬかるんだ道を歩くしかない。",
-            "TextENG": "We simply walked down the muddy road."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93861,
-            "TextJPN": "獣道が、俺たちを誘うように木立の間から延びている。",
-            "TextENG": "A dirt trail extended between the trees, seeming to invite us in."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93862,
-            "NamesJPN": "乙部",
-            "PreTextTags": "@vS10/41/410200239.",
-            "TextJPN": "「もしかして、こっちとか…？」",
-            "NamesENG": "Otobe",
-            "TextENG": "``Should we head this way...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93863,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS10/62/410100720.",
-            "TextJPN": "「バカ！@k@vS10/62/410100721.　こんな真っ暗ん中、そんな獣道なんか入ってったら二度と出てこれねーぞ？」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``Don't be stupid!@k@vS10/62/410100721. If we head down a pitch-black trail like that, we'll never make it out, ok?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93864,
-            "NamesJPN": "乙部",
-            "PreTextTags": "@vS10/41/410200240.",
-            "TextJPN": "「…ですよね」",
-            "NamesENG": "Otobe",
-            "TextENG": "``...Yeah.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93865,
-            "TextJPN": "懐中電灯の灯りは、つま先からわずか２、３メートル先の地面しか照らすことができない。",
-            "TextENG": "My flashlight could only illuminate the ground two or three meters from my feet."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93866,
-            "TextJPN": "どこまで行っても、車や人はおろか、タヌキ一匹見当たらなかった。",
-            "TextENG": "No matter how far we go, we're as likely to find a car or a person as we are to find a tanuki."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93867,
-            "NamesJPN": "乙部",
-            "PreTextTags": "@vS10/41/410200241.",
-            "TextJPN": "「もう…、ダメなんじゃないですかね…」",
-            "NamesENG": "Otobe",
-            "TextENG": "``I guess... it's useless...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93868,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS10/62/410100722.",
-            "TextJPN": "「ダメって…？」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``Useless...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93869,
-            "NamesJPN": "乙部",
-            "PreTextTags": "@vS10/41/410200242.",
-            "TextJPN": "「だから、これ以上行っても、何もわかんないっていうか…。@k@vS10/41/410200243.だいたい、あの木の中に引きずり込まれてたとしたら、絶対にわかんないですよ！」",
-            "NamesENG": "Otobe",
-            "TextENG": "``Because even if we go further, we won't find anything...@k@vS10/41/410200243. If someone dragged him into those trees, we'll never find him!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93870,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS10/62/410100723.",
-            "TextJPN": "「…誰に、引きずり込まれてんだよ？！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``...And who dragged him, then?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93871,
-            "NamesJPN": "乙部",
-            "PreTextTags": "@vS10/41/410200244.",
-            "TextJPN": "「それは…」",
-            "NamesENG": "Otobe",
-            "TextENG": "``Well...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93872,
-            "TextJPN": "乙部はぼそりと小さく『鬼』と言ったが、俺は聞こえないふりをした。",
-            "TextENG": "Otobe very quietly whispered the word ``demons,`` but I pretended not to hear him."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93873,
-            "TextJPN": "実際、俺の耳にそう聞こえただけで、本当は違うことを言ったのかもしれない。",
-            "TextENG": "In fact, it could've just been my ears playing tricks on me. Maybe he said something else."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93874,
-            "TextJPN": "引き返して、集会所で朝になるのを待つか…？",
-            "TextENG": "Should we head back to the assembly hall and wait for morning...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93875,
-            "TextJPN": "いや、それでは遅いだろう。",
-            "TextENG": "No, then it'll be too late."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93876,
-            "TextJPN": "夜のうちに、俺たちは全員、正体不明の人食い鬼に食われて、命を落としているかもしれないのだ。",
-            "TextENG": "The man-eating demons might kill all of us in the middle of the night."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93877,
-            "TextJPN": "……気持ちが悪い。いやな想像ばかりが、ぐるぐると頭の中を駆け巡っている。",
-            "TextENG": "...I felt sick. Unpleasant thoughts spun round and round inside my head."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93878,
-            "TextJPN": "妄想と現実の区別がつかなくなってくる。",
-            "TextENG": "It had become difficult to distinguish delusions from reality."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93879,
-            "TextJPN": "本当に鬼がいるのかもしれない。",
-            "TextENG": "There really might be demons out there."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93880,
-            "TextJPN": "いないのかも、しれない。",
-            "TextENG": "Or, maybe not."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93881,
-            "NamesJPN": "乙部",
-            "PreTextTags": "@vS10/41/410200245.",
-            "TextJPN": "「荒川さん…、もう、ムリですよ…。@k@vS10/41/410200246.引き返しましょうってば」",
-            "NamesENG": "Otobe",
-            "TextENG": "``Arakawa-san... it's impossible to keep going...@k@vS10/41/410200246. Let's head back.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93882,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS10/62/410100724.",
-            "TextJPN": "「だからって、このまま帰るわけには、いかねーだろうが！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``We can't turn back like this!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93883,
-            "NamesJPN": "乙部",
-            "PreTextTags": "@vS10/41/410200247.",
-            "TextJPN": "「なんでですか！@k@vS10/41/410200248.　帰ればいいじゃないですか！@k@vS10/41/410200249.　…僕、もうイヤですよ」",
-            "NamesENG": "Otobe",
-            "TextENG": "``Why not?!@k@vS10/41/410200248. What's wrong with heading back?!@k@vS10/41/410200249. ...I've had enough of this.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93884,
-            "TextJPN": "乙部はついに、立ち止まってしまった。",
-            "TextENG": "Otobe finally stopped."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93885,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS10/62/410100725.",
-            "TextJPN": "「乙部…」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``Otobe...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93886,
-            "TextJPN": "チッ…。",
-            "TextENG": "Tch..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93887,
-            "TextJPN": "俺は心の中で舌打ちする。…情けないヤツ。",
-            "TextENG": "I quietly clicked my tongue to myself. ...What a pathetic human being."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93888,
-            "TextJPN": "命が惜しかったら、根性を見せてみろってんだ。",
-            "TextENG": "If you value your life, then show some guts, damn it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93889,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS10/62/410100726.",
-            "TextJPN": "「それじゃ…、戻るか？」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``Alright... you want to go back?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93890,
-            "NamesJPN": "乙部",
-            "PreTextTags": "@vS10/41/410200250.",
-            "TextJPN": "「でも…、戻ってもしょうがないんですよね…？」",
-            "NamesENG": "Otobe",
-            "TextENG": "``But... do we really have no choice but to go back...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93891,
-            "TextJPN": "優柔不断丸出しにして、乙部が迷う。",
-            "TextENG": "Otobe was acting confused and indecisive."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93892,
-            "TextJPN": "だから…！",
-            "TextENG": "And, so..!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93893,
-            "TextJPN": "俺がイライラを募らせながら乙部を見ると、乙部は困ったようにうつむいた。",
-            "TextENG": "I started getting irritated and glared at Otobe. As soon as I did, he started to look upset."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93894,
-            "NamesJPN": "乙部",
-            "PreTextTags": "@vS10/41/410200251.",
-            "TextJPN": "「でも…、このまま行っても、しょうがないと思うんですよね」",
-            "NamesENG": "Otobe",
-            "TextENG": "``But... even if we keep going on, I don't think we can do anything about it.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93895,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS10/62/410100727.",
-            "TextJPN": "「それくらい、俺だって…！@k@vS10/62/410100728.　……じゃ、どうするよ？」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``I'm starting to feel the same way...!@k@vS10/62/410100728. ...Well, what should we do?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93896,
-            "NamesJPN": "乙部",
-            "PreTextTags": "@vS10/41/410200252.",
-            "TextJPN": "「だから…、それは、その…」",
-            "NamesENG": "Otobe",
-            "TextENG": "``So... I think, umm...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93897,
-            "TextJPN": "傘を差してはいるものの、ズボンは泥と雨でぐちゃぐちゃだ。手足はすっかり冷えている。",
-            "TextENG": "Though I had an umbrella in hand, my pants were still soaked with mud and rain. Plus, my hands and feet were freezing."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93898,
-            "TextJPN": "二人が声を発したのは、同時だった。",
-            "TextENG": "The two of us suddenly spoke up at the same time."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93899,
-            "NamesJPN": "荒川＆乙部",
-            "PreTextTags": "@vS10/62/410100729|S10/41/410200253.",
-            "TextJPN": "「行こうぜ」@r@t「戻りましょう」",
-            "NamesENG": "Arakawa & Otobe",
-            "TextENG": "``Let's keep going.``@r@t``Let's turn back.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93900,
-            "TextJPN": "見事な別々の決意に、思わずため息が出る。…こうも自分と違うタイプだと、やりにくいというか…はっきりいって、一緒にいても不快だった。",
-            "TextENG": "I had to sigh at our completely contradictory decisions. ...It's tough working with someone of a completely different disposition... Clearly, we made a terrible team."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93901,
-            "TextJPN": "それでも、…この状況下で一人になれるほど、俺は肝が据わっているわけではない。そしておそらく、乙部も同じなんだろう。",
-            "TextENG": "Still... I didn't have the stomach to handle this situation on my own. Otobe probably felt the same way."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93902,
-            "TextJPN": "だから自分の選択した行動に、相手を何とか巻き込もうとしている…。",
-            "TextENG": "So, my decisions had just as much weight on my partner as they did on me..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93903,
-            "NamesJPN": "乙部",
-            "PreTextTags": "@vS10/41/410200254.",
-            "TextJPN": "「これ以上行っても、ムダですよ…」",
-            "NamesENG": "Otobe",
-            "TextENG": "``Even if we go any further, it's just a waste...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93904,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS10/62/410100730.",
-            "TextJPN": "「だからって、集会所で黙って殺されるのを待つってことはねーだろ。@k@vS10/62/410100731.電話がつながらないのなら、歩いてケーサツに行こうぜ。@k@vS10/62/410100732.興宮までは、すぐだろ」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``But that doesn't mean we can just go back to the assembly hall and quietly wait to die, right?@k@vS10/62/410100731. Even if our phones can't connect, we can still walk to the police.@k@vS10/62/410100732. Okinomiya's not too far from here.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93905,
-            "NamesJPN": "乙部",
-            "PreTextTags": "@vS10/41/410200255.",
-            "TextJPN": "「すぐって言ったって…。@k@vS10/41/410200256.歩いて…ですか？！」",
-            "NamesENG": "Otobe",
-            "TextENG": "``Not too far...?@k@vS10/41/410200256. But... we're traveling by foot, aren't we?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93906,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS10/62/410100733.",
-            "TextJPN": "「……」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93907,
-            "TextJPN": "俺も、さすがにそれは無謀だとは思う。",
-            "TextENG": "Indeed, I also thought it sounded reckless."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93908,
-            "TextJPN": "だが…、他にどうしろってんだよ？！",
-            "TextENG": "But... what choice did we have?!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93909,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS10/62/410100734.",
-            "TextJPN": "「あ、…そうだ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``Oh... that's right!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93910,
-            "TextJPN": "その時俺は、天啓のようにひらめいた。",
-            "TextENG": "That moment, I felt inspiration like a divine revelation."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93911,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS10/62/410100735.",
-            "TextJPN": "「車で行けばいいじゃねーか！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``We can drive there!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93912,
-            "NamesJPN": "乙部",
-            "PreTextTags": "@vS10/41/410200257.",
-            "TextJPN": "「車…？」",
-            "NamesENG": "Otobe",
-            "TextENG": "``In what car...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93913,
-            "TextJPN": "乙部が眉をひそめるのも構わず、俺は続ける。",
-            "TextENG": "Otobe began to furrow his eyebrows, but I continued."
-        },
-        {
-            "type": "SELECT",
-            "metadata": "98s, 48s, @0x0000, 4095n,",
-            "count": 2,
-            "titleJPN": "俺は続ける",
-            "choice1JPN": "自殺した奴らの車だよ！",
-            "choice2JPN": "園崎さんの車だよ！",
-            "titleENG": "I will go to...",
-            "choice1ENG": "The suicide party's car.",
-            "choice2ENG": "Sonozaki-san's car.",
-            "Explanation": "choice1: go to 94050, choice2: go to 94223"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93914,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS10/62/410100736.",
-            "TextJPN": "「やっぱり、集会所に戻ろう」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``I think we should return to the assembly hall.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93915,
-            "NamesJPN": "美雪",
-            "PreTextTags": "@vS10/40/410300503.",
-            "TextJPN": "「え…？@k@vS10/40/410300504.　黒澤さんを、探してあげないんですか？」",
-            "NamesENG": "Miyuki",
-            "TextENG": "``Huh...?@k@vS10/40/410300504. You're not going to search for Kurosawa-san?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93916,
-            "TextJPN": "俺の出した結論に、美雪ちゃんは眉間にしわを寄せて俺を見る。",
-            "TextENG": "Miyuki-chan furrowed her eyebrows and stared at me as soon as she heard my answer."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93917,
-            "TextJPN": "その口調には幾ばくか、俺への非難がこもっているようにも感じられた。",
-            "TextENG": "Somehow, it felt like the tone of her voice was criticizing me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93918,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS10/62/410100737.",
-            "TextJPN": "「そりゃ、俺だって探しに行きたいさ。@k@vS10/62/410100738.でも、外はもう真っ暗だ。@k@vS10/62/410100739.今から探したって見つからないどころか、二次遭難の危険すらある」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``Well, I do want to search for him.@k@vS10/62/410100738. But it's already pitch black outside.@k@vS10/62/410100739. If we go out searching right now, there's a risk even more danger will befall us.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93919,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS10/62/410100740.",
-            "TextJPN": "「それにこんな雨だし…。@k@vS10/62/410100741.夜が明けてから、ちゃんと探したほうがいいんじゃないか？」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``Plus, it's still raining...@k@vS10/62/410100741. Wouldn't it be easier to look for him after the sun comes up?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93920,
-            "NamesJPN": "美雪",
-            "PreTextTags": "@vS10/40/410300505.",
-            "TextJPN": "「……」",
-            "NamesENG": "Miyuki",
-            "TextENG": "``......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93921,
-            "TextJPN": "美雪ちゃんはまだ不服そうな顔をしていたが、やがて得心したようにこくり、と頷いた。",
-            "TextENG": "The look on Miyuki-chan's face indicated she still wasn't fully satisfied, but eventually she relented and nodded to me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93922,
-            "NamesJPN": "美雪",
-            "PreTextTags": "@vS10/40/410300506.",
-            "TextJPN": "「…悔しいけど、龍ノ介さんの言うとおりです。@k@vS10/40/410300507.仕方ないですね」",
-            "NamesENG": "Miyuki",
-            "TextENG": "``...It's unfortunate, but it's just as Ryuunosuke-san says.@k@vS10/40/410300507. It can't be helped.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93923,
-            "NamesJPN": "十和田",
-            "PreTextTags": "@vS10/42/410600149.",
-            "TextJPN": "「…すみません」",
-            "NamesENG": "Towada",
-            "TextENG": "``...I'm sorry.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93924,
-            "TextJPN": "俺の隣を歩いていた十和田さんが、美雪ちゃんに小さく頭を下げた。",
-            "TextENG": "Towada-san walked up next to me and lightly bowed her head to Miyuki-chan."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93925,
-            "NamesJPN": "美雪",
-            "PreTextTags": "@vS10/40/410300508.",
-            "TextJPN": "「…どうして、十和田さんが謝るの？」",
-            "NamesENG": "Miyuki",
-            "TextENG": "``...Why are you apologizing, Towada-san?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93926,
-            "NamesJPN": "十和田",
-            "PreTextTags": "@vS10/42/410600150.",
-            "TextJPN": "「工くんのことで…、迷惑かけちゃったから…。@k@vS10/42/410600151.だから…」",
-            "NamesENG": "Towada",
-            "TextENG": "``Takumi-kun... caused trouble for you...@k@vS10/42/410600151. That's all...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93927,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS10/62/410100742.",
-            "TextJPN": "「こんな状況なんだから、しょうがねーよ。@k@vS10/62/410100743.…気にすんなって！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``That's just the situation we're in. It can't be helped.@k@vS10/62/410100743. ...Don't worry about it!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93928,
-            "NamesJPN": "十和田",
-            "PreTextTags": "@vS10/42/410600152.",
-            "TextJPN": "「はい…」",
-            "NamesENG": "Towada",
-            "TextENG": "``Okay...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93929,
-            "TextJPN": "悄然と肩を落とす十和田さんの姿に、…罪悪感がこみ上げる。",
-            "TextENG": "When I saw Towada-san's shoulders droop... the guilt started to eat at me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93930,
-            "TextJPN": "仕方ないと思いつつもいたたまれず、俺は彼女に顔を合わせられなかった。",
-            "TextENG": "Even though I did believe it couldn't be helped, I still couldn't bring myself to look her eye to eye."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93931,
-            "TextJPN": "…雨の勢いは、一段と強まってきている。",
-            "TextENG": "...The rain began coming down even harder."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 93932,
-            "TextJPN": "俺たちは早足から次第に小走りになり、最後は転がり込むようにして集会所へと戻った。",
-            "TextENG": "We hastened our pace to nearly a run, and eventually arrived at the assembly hall."
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "#5 黒澤を探しに行く",
+		"ENG": "#5 / Searching for Kurosawa"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93799,
+		"TextJPN": "雨はまだ、しとしとと降り続いている。",
+		"TextENG": "The rain was still pouring down."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93800,
+		"TextJPN": "石段の下にあったはずのミニバンは…、確かになくなっている。",
+		"TextENG": "The minivan that was supposed to be parked at the base of the stone steps... really was gone."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93801,
+		"TextJPN": "俺はミニバンがあったはずの場所へ立ち…、ふっとあの時のことを思い出した。",
+		"TextENG": "I stood in the spot where the minivan should've been... and thought back."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93802,
+		"TextJPN": "自殺者たちの車を見た後、俺と美雪ちゃんはここへ来た…。",
+		"TextENG": "Miyuki-chan and I came here right after discovering the car full of suicide victims..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93803,
+		"TextJPN": "車内を覗いた俺は、運転席に何かが揺れているのに気がついたんだ。",
+		"TextENG": "When I peered inside the car, I noticed something swinging by the driver's seat."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93804,
+		"TextJPN": "何か…？",
+		"TextENG": "What was it...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93805,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS10/62/410100706.",
+		"TextJPN": "「……あっ…！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``...Oh...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93806,
+		"TextJPN": "そうだ。あれは…、キーホルダーだ…。キーホルダーが、ハンドルのところで揺れていた。",
+		"TextENG": "That's right. It was... a keychain. A keychain dangling from the keyhole."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93807,
+		"TextJPN": "ってことは…、待てよ…？",
+		"TextENG": "But... wait...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93808,
+		"TextJPN": "それって、あの車には、キーが差しっぱなしになっていたってことだよな…？！",
+		"TextENG": "That means the keys were left inside the car...?!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93809,
+		"TextJPN": "無用心極まりないが、人気のない廃村だから、キーを挿したままでも大丈夫だと十和田さんは思ったんだろうか…？",
+		"TextENG": "It might seem careless, but this is an uninhabited ghost town, so maybe Towada-san thought it would be safe to leave the keys inside...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93810,
+		"TextJPN": "だが…、キーをつけたままだったために、誰かに盗まれてしまった…。",
+		"TextENG": "But... if she left the keys inside, someone would've been able to steal the car..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93811,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@-@vS10/62/410100707.",
+		"TextJPN": "（盗まれた…？）",
+		"NamesENG": "Arakawa",
+		"TextENG": "(Was it stolen...?)"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93812,
+		"TextJPN": "そこで、俺はふと思案に暮れる。…そういえば、美雪ちゃんと乗ってきた車もキーをつけっぱなしだった。",
+		"TextENG": "Suddenly, I became lost in thought. ...Come to think of it, Miyuki-chan and I left the keys to her car inside too."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93813,
+		"TextJPN": "盗まれたということは、盗んだ人間がいるということだ。",
+		"TextENG": "Someone could've stolen it, too."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93814,
+		"TextJPN": "つまりそれは…、鬼隠しだの祟りだのといったオカルト現象とは関係がない。",
+		"TextENG": "So, in other words... this had nothing to do with occult phenomena like curses or being demoned away."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93815,
+		"TextJPN": "この村には……、俺たちの他にもまだ人がいる可能性があるってことだ…。",
+		"TextENG": "There's still a possibility... that there are more people in this village than just us..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93816,
+		"TextJPN": "じゃあ一体、誰が…？　何のために…？",
+		"TextENG": "Then who the hell could it be...? And for what...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93817,
+		"TextJPN": "それとも…、これは俺たちをどこかに誘い出す、何かの罠か…？",
+		"TextENG": "Or... was this a trap meant to lure us all somewhere...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93818,
+		"TextJPN": "…………。",
+		"TextENG": "......"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93819,
+		"TextJPN": "あるいは、…本当にこれは鬼の仕業なのか？",
+		"TextENG": "Or maybe... this really is the work of demons?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93820,
+		"TextJPN": "生者の所業に見せかけた死者の仕業で、逃走手段を奪ってじわじわと俺たちを絞め殺すために、こんなことを…？",
+		"TextENG": "Could it be the work of the dead meddling in the lives of the living? Cutting off our means of escape and then strangling us to death...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93821,
+		"TextJPN": "…………。",
+		"TextENG": "......"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93822,
+		"TextJPN": "思考が堂々巡りし始める。",
+		"TextENG": "My thoughts were going around in circles."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93823,
+		"TextJPN": "今、この村にいる『生きている人間』は、本当は誰なんだ…？",
+		"TextENG": "Just who was it that was ``alive`` in this village right now...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93824,
+		"TextJPN": "思考の限界。考えていることが支離滅裂になってくる。",
+		"TextENG": "I hit the limit of my reasoning. At this point, my thoughts had become incoherent."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93825,
+		"TextJPN": "そうだ。死者だの生者だのといったことを考え出すから、分からなくなるんだよ。",
+		"TextENG": "Right. My thoughts went astray when I questioned if it was the work of the living or the dead."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93826,
+		"TextJPN": "生きている人間以外、いるわけがない…はずだ。",
+		"TextENG": "There's no way it could be anything besides another living person... It can't be."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93827,
+		"TextJPN": "その時…、背後に人の気配がした。",
+		"TextENG": "Just then... I heard the sound of a person approaching from behind."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93828,
+		"TextJPN": "ジャリ…。",
+		"TextENG": "*scrape*"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93829,
+		"TextJPN": "足音が聞こえたのと、俺の背中に誰かがそっと手を置いたのは、同時だった。",
+		"TextENG": "I heard a footstep, and at the same time I suddenly felt someone place a hand on my back."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93830,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS10/62/410100708.",
+		"TextJPN": "「うわぁっ？！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``Uwah?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93831,
+		"TextJPN": "のけぞりながら振り返る。",
+		"TextENG": "I arched my back backwards while turning around."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93832,
+		"TextJPN": "乙部が、ぽかんと口を開けたまま立っていた。",
+		"TextENG": "Otobe was standing there with his mouth hanging open."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93833,
+		"NamesJPN": "乙部",
+		"PreTextTags": "@vS10/41/410200228.",
+		"TextJPN": "「あ、荒川さん…？」",
+		"NamesENG": "Otobe",
+		"TextENG": "``A-Arakawa-san...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93834,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS10/62/410100709.",
+		"TextJPN": "「なんだ、乙部かよ！@k@vS10/62/410100710.　びっくりさせんなよな！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``What? Otobe?!@k@vS10/62/410100710. Don't surprise me like that!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93835,
+		"NamesJPN": "乙部",
+		"PreTextTags": "@vS10/41/410200229.",
+		"TextJPN": "「すみません、びっくりさせるつもりはなかったんですけど…。@k@vS10/41/410200230.荒川さん、立ち止まって難しい顔をしてたから、どうしたのかと思って」",
+		"NamesENG": "Otobe",
+		"TextENG": "``Sorry, I didn't mean to surprise you...@k@vS10/41/410200230. But Arakawa-san, you came to a sudden stop and you looked upset, so I wanted to ask if something was wrong.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93836,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS10/62/410100711.",
+		"TextJPN": "「あ、いや。何でもねーよ。@k@vS10/62/410100712.ちょっと考えごとを、な。@k@vS10/62/410100713.…早く行こーぜ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``Oh, no. It's nothing.@k@vS10/62/410100712. Just a little lost in thought.@k@vS10/62/410100713. ...Let's hurry up and get going!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93837,
+		"NamesJPN": "乙部",
+		"PreTextTags": "@vS10/41/410200231.",
+		"TextJPN": "「でも…、行くってどっちへ…？」",
+		"NamesENG": "Otobe",
+		"TextENG": "``But... which way should we go...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93838,
+		"TextJPN": "舗装されていない砂利道が、左右にまっすぐ延びている。",
+		"TextENG": "An unpaved gravel road extended to both the left and the right."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93839,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS10/62/410100714.",
+		"TextJPN": "「右か左か…？」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``Left or right...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93840,
+		"NamesJPN": "乙部",
+		"PreTextTags": "@vS10/41/410200232.",
+		"TextJPN": "「どっちでもいいですよ…」",
+		"NamesENG": "Otobe",
+		"TextENG": "``I'm fine with either one...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93841,
+		"TextJPN": "乙部は左に向かって歩き出す。",
+		"TextENG": "Otobe started walking to the left."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93842,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS10/62/410100715.",
+		"TextJPN": "「いや…、こっちだ」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``No... let's go this way.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93843,
+		"TextJPN": "反射的に俺は乙部の腕をつかむと、右へ向かって歩き出した。",
+		"TextENG": "I reflexively grabbed Otobe's arm and started walking to the right."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93844,
+		"TextJPN": "どうしてこっちに向かったのか、自分でも分からない。",
+		"TextENG": "Why did I want to go this direction? Even I wasn't sure, myself."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93845,
+		"TextJPN": "ただ俺と美雪ちゃんは、右の方角から来た。だから、来た道をなんとなく戻りたかっただけなのかもしれない。",
+		"TextENG": "But Miyuki-chan and I originally came from the direction to the right, so maybe I just felt some desire to go back the way I came from."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93846,
+		"NamesJPN": "乙部",
+		"PreTextTags": "@vS10/41/410200233.",
+		"TextJPN": "「こっち…ですか…」",
+		"NamesENG": "Otobe",
+		"TextENG": "``You want to go... this way...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93847,
+		"TextJPN": "乙部は、おずおずと俺についてくる。",
+		"TextENG": "Otobe timidly followed behind me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93848,
+		"TextJPN": "行けども行けども、木しか見えない。鬱蒼とした森の中を、一本道がまっすぐ続いているだけだ。",
+		"TextENG": "No matter how far we went, I couldn't see anything but trees. It was just one long road extending straight through a dense forest."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93849,
+		"NamesJPN": "乙部",
+		"PreTextTags": "@vS10/41/410200234.",
+		"TextJPN": "「荒川さん…。@k@vS10/41/410200235.さっき…、魅音さんが探したんですよね？@k@vS10/41/410200236.…地元の魅音さんが見つからないっていうのに…、僕たちで見つけることなんて、本当にできるんでしょうか…？」",
+		"NamesENG": "Otobe",
+		"TextENG": "``Arakawa-san...@k@vS10/41/410200235. Mion-san... went out searching a while ago, didn't she?@k@vS10/41/410200236. ...If a local like Mion-san couldn't find anything... do you really think it's possible for us to find anything out here...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93850,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS10/62/410100716.",
+		"TextJPN": "「わかんねーけど、行くしかないだろ？@k@vS10/62/410100717.　黒澤は、忽然と姿を消しちまってるんだから」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``I dunno, but do we really have any other choice?@k@vS10/62/410100717. Kurosawa suddenly disappeared on us.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93851,
+		"NamesJPN": "乙部",
+		"PreTextTags": "@vS10/41/410200237.",
+		"TextJPN": "「だけど、それは…」",
+		"NamesENG": "Otobe",
+		"TextENG": "``That's true, but...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93852,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS10/62/410100718.",
+		"TextJPN": "「それは、何だよ…？」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``But what...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93853,
+		"TextJPN": "しかし乙部はいいかけた言葉を飲み込み、気まずそうにうつむいた。",
+		"TextENG": "However, Otobe swallowed his words and awkwardly looked down."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93854,
+		"TextJPN": "…こいつが何を言いたいのか、だいたい分かっている。",
+		"TextENG": "...I had a good idea what he was trying to say."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93855,
+		"TextJPN": "鬼隠しだから、しょうがない。鬼につかまった人間は、食われ、人目のつかないところに捨てられているに決まってる…。",
+		"TextENG": "If Kurosawa was demoned away, there was nothing we could do about it. Anyone caught by the demons would simply be devoured and thrown away, never to be found again."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93856,
+		"TextJPN": "乙部の目がそう語っているように感じられるのは、心のどこかで、俺もそう思っているからだろう。",
+		"TextENG": "Otobe's eyes seemed to say as much, and somewhere in my heart I was thinking the same thing."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93857,
+		"NamesJPN": "乙部",
+		"PreTextTags": "@vS10/41/410200238.",
+		"TextJPN": "「何でもないです…」",
+		"NamesENG": "Otobe",
+		"TextENG": "``It's nothing...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93858,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS10/62/410100719.",
+		"TextJPN": "「じゃ、言うなよな…」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``Then don't say anything...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93859,
+		"TextJPN": "二人とも、それ以上は何も言葉を発しなかった。",
+		"TextENG": "After that, the two of us said nothing more."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93860,
+		"TextJPN": "ぬかるんだ道を歩くしかない。",
+		"TextENG": "We simply walked down the muddy road."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93861,
+		"TextJPN": "獣道が、俺たちを誘うように木立の間から延びている。",
+		"TextENG": "A dirt trail extended between the trees, seeming to invite us in."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93862,
+		"NamesJPN": "乙部",
+		"PreTextTags": "@vS10/41/410200239.",
+		"TextJPN": "「もしかして、こっちとか…？」",
+		"NamesENG": "Otobe",
+		"TextENG": "``Should we head this way...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93863,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS10/62/410100720.",
+		"TextJPN": "「バカ！@k@vS10/62/410100721.　こんな真っ暗ん中、そんな獣道なんか入ってったら二度と出てこれねーぞ？」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``Don't be stupid!@k@vS10/62/410100721. If we head down a pitch-black trail like that, we'll never make it out, ok?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93864,
+		"NamesJPN": "乙部",
+		"PreTextTags": "@vS10/41/410200240.",
+		"TextJPN": "「…ですよね」",
+		"NamesENG": "Otobe",
+		"TextENG": "``...Yeah.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93865,
+		"TextJPN": "懐中電灯の灯りは、つま先からわずか２、３メートル先の地面しか照らすことができない。",
+		"TextENG": "My flashlight could only illuminate the ground two or three meters from my feet."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93866,
+		"TextJPN": "どこまで行っても、車や人はおろか、タヌキ一匹見当たらなかった。",
+		"TextENG": "No matter how far we go, we're as likely to find a car or a person as we are to find a tanuki."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93867,
+		"NamesJPN": "乙部",
+		"PreTextTags": "@vS10/41/410200241.",
+		"TextJPN": "「もう…、ダメなんじゃないですかね…」",
+		"NamesENG": "Otobe",
+		"TextENG": "``I guess... it's useless...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93868,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS10/62/410100722.",
+		"TextJPN": "「ダメって…？」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``Useless...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93869,
+		"NamesJPN": "乙部",
+		"PreTextTags": "@vS10/41/410200242.",
+		"TextJPN": "「だから、これ以上行っても、何もわかんないっていうか…。@k@vS10/41/410200243.だいたい、あの木の中に引きずり込まれてたとしたら、絶対にわかんないですよ！」",
+		"NamesENG": "Otobe",
+		"TextENG": "``Because even if we go further, we won't find anything...@k@vS10/41/410200243. If someone dragged him into those trees, we'll never find him!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93870,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS10/62/410100723.",
+		"TextJPN": "「…誰に、引きずり込まれてんだよ？！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``...And who dragged him, then?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93871,
+		"NamesJPN": "乙部",
+		"PreTextTags": "@vS10/41/410200244.",
+		"TextJPN": "「それは…」",
+		"NamesENG": "Otobe",
+		"TextENG": "``Well...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93872,
+		"TextJPN": "乙部はぼそりと小さく『鬼』と言ったが、俺は聞こえないふりをした。",
+		"TextENG": "Otobe very quietly whispered the word ``demons,`` but I pretended not to hear him."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93873,
+		"TextJPN": "実際、俺の耳にそう聞こえただけで、本当は違うことを言ったのかもしれない。",
+		"TextENG": "In fact, it could've just been my ears playing tricks on me. Maybe he said something else."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93874,
+		"TextJPN": "引き返して、集会所で朝になるのを待つか…？",
+		"TextENG": "Should we head back to the assembly hall and wait for morning...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93875,
+		"TextJPN": "いや、それでは遅いだろう。",
+		"TextENG": "No, then it'll be too late."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93876,
+		"TextJPN": "夜のうちに、俺たちは全員、正体不明の人食い鬼に食われて、命を落としているかもしれないのだ。",
+		"TextENG": "The man-eating demons might kill all of us in the middle of the night."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93877,
+		"TextJPN": "……気持ちが悪い。いやな想像ばかりが、ぐるぐると頭の中を駆け巡っている。",
+		"TextENG": "...I felt sick. Unpleasant thoughts spun round and round inside my head."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93878,
+		"TextJPN": "妄想と現実の区別がつかなくなってくる。",
+		"TextENG": "It had become difficult to distinguish delusions from reality."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93879,
+		"TextJPN": "本当に鬼がいるのかもしれない。",
+		"TextENG": "There really might be demons out there."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93880,
+		"TextJPN": "いないのかも、しれない。",
+		"TextENG": "Or, maybe not."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93881,
+		"NamesJPN": "乙部",
+		"PreTextTags": "@vS10/41/410200245.",
+		"TextJPN": "「荒川さん…、もう、ムリですよ…。@k@vS10/41/410200246.引き返しましょうってば」",
+		"NamesENG": "Otobe",
+		"TextENG": "``Arakawa-san... it's impossible to keep going...@k@vS10/41/410200246. Let's head back.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93882,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS10/62/410100724.",
+		"TextJPN": "「だからって、このまま帰るわけには、いかねーだろうが！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``We can't turn back like this!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93883,
+		"NamesJPN": "乙部",
+		"PreTextTags": "@vS10/41/410200247.",
+		"TextJPN": "「なんでですか！@k@vS10/41/410200248.　帰ればいいじゃないですか！@k@vS10/41/410200249.　…僕、もうイヤですよ」",
+		"NamesENG": "Otobe",
+		"TextENG": "``Why not?!@k@vS10/41/410200248. What's wrong with heading back?!@k@vS10/41/410200249. ...I've had enough of this.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93884,
+		"TextJPN": "乙部はついに、立ち止まってしまった。",
+		"TextENG": "Otobe finally stopped."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93885,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS10/62/410100725.",
+		"TextJPN": "「乙部…」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``Otobe...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93886,
+		"TextJPN": "チッ…。",
+		"TextENG": "Tch..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93887,
+		"TextJPN": "俺は心の中で舌打ちする。…情けないヤツ。",
+		"TextENG": "I quietly clicked my tongue to myself. ...What a pathetic human being."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93888,
+		"TextJPN": "命が惜しかったら、根性を見せてみろってんだ。",
+		"TextENG": "If you value your life, then show some guts, damn it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93889,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS10/62/410100726.",
+		"TextJPN": "「それじゃ…、戻るか？」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``Alright... you want to go back?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93890,
+		"NamesJPN": "乙部",
+		"PreTextTags": "@vS10/41/410200250.",
+		"TextJPN": "「でも…、戻ってもしょうがないんですよね…？」",
+		"NamesENG": "Otobe",
+		"TextENG": "``But... do we really have no choice but to go back...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93891,
+		"TextJPN": "優柔不断丸出しにして、乙部が迷う。",
+		"TextENG": "Otobe was acting confused and indecisive."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93892,
+		"TextJPN": "だから…！",
+		"TextENG": "And, so..!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93893,
+		"TextJPN": "俺がイライラを募らせながら乙部を見ると、乙部は困ったようにうつむいた。",
+		"TextENG": "I started getting irritated and glared at Otobe. As soon as I did, he started to look upset."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93894,
+		"NamesJPN": "乙部",
+		"PreTextTags": "@vS10/41/410200251.",
+		"TextJPN": "「でも…、このまま行っても、しょうがないと思うんですよね」",
+		"NamesENG": "Otobe",
+		"TextENG": "``But... even if we keep going on, I don't think we can do anything about it.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93895,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS10/62/410100727.",
+		"TextJPN": "「それくらい、俺だって…！@k@vS10/62/410100728.　……じゃ、どうするよ？」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``I'm starting to feel the same way...!@k@vS10/62/410100728. ...Well, what should we do?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93896,
+		"NamesJPN": "乙部",
+		"PreTextTags": "@vS10/41/410200252.",
+		"TextJPN": "「だから…、それは、その…」",
+		"NamesENG": "Otobe",
+		"TextENG": "``So... I think, umm...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93897,
+		"TextJPN": "傘を差してはいるものの、ズボンは泥と雨でぐちゃぐちゃだ。手足はすっかり冷えている。",
+		"TextENG": "Though I had an umbrella in hand, my pants were still soaked with mud and rain. Plus, my hands and feet were freezing."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93898,
+		"TextJPN": "二人が声を発したのは、同時だった。",
+		"TextENG": "The two of us suddenly spoke up at the same time."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93899,
+		"NamesJPN": "荒川＆乙部",
+		"PreTextTags": "@vS10/62/410100729|S10/41/410200253.",
+		"TextJPN": "「行こうぜ」@r@t「戻りましょう」",
+		"NamesENG": "Arakawa & Otobe",
+		"TextENG": "``Let's keep going.``@r@t``Let's turn back.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93900,
+		"TextJPN": "見事な別々の決意に、思わずため息が出る。…こうも自分と違うタイプだと、やりにくいというか…はっきりいって、一緒にいても不快だった。",
+		"TextENG": "I had to sigh at our completely contradictory decisions. ...It's tough working with someone of a completely different disposition... Clearly, we made a terrible team."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93901,
+		"TextJPN": "それでも、…この状況下で一人になれるほど、俺は肝が据わっているわけではない。そしておそらく、乙部も同じなんだろう。",
+		"TextENG": "Still... I didn't have the stomach to handle this situation on my own. Otobe probably felt the same way."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93902,
+		"TextJPN": "だから自分の選択した行動に、相手を何とか巻き込もうとしている…。",
+		"TextENG": "So, my decisions had just as much weight on my partner as they did on me..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93903,
+		"NamesJPN": "乙部",
+		"PreTextTags": "@vS10/41/410200254.",
+		"TextJPN": "「これ以上行っても、ムダですよ…」",
+		"NamesENG": "Otobe",
+		"TextENG": "``Even if we go any further, it's just a waste...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93904,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS10/62/410100730.",
+		"TextJPN": "「だからって、集会所で黙って殺されるのを待つってことはねーだろ。@k@vS10/62/410100731.電話がつながらないのなら、歩いてケーサツに行こうぜ。@k@vS10/62/410100732.興宮までは、すぐだろ」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``But that doesn't mean we can just go back to the assembly hall and quietly wait to die, right?@k@vS10/62/410100731. Even if our phones can't connect, we can still walk to the police.@k@vS10/62/410100732. Okinomiya's not too far from here.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93905,
+		"NamesJPN": "乙部",
+		"PreTextTags": "@vS10/41/410200255.",
+		"TextJPN": "「すぐって言ったって…。@k@vS10/41/410200256.歩いて…ですか？！」",
+		"NamesENG": "Otobe",
+		"TextENG": "``Not too far...?@k@vS10/41/410200256. But... we're traveling by foot, aren't we?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93906,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS10/62/410100733.",
+		"TextJPN": "「……」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93907,
+		"TextJPN": "俺も、さすがにそれは無謀だとは思う。",
+		"TextENG": "Indeed, I also thought it sounded reckless."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93908,
+		"TextJPN": "だが…、他にどうしろってんだよ？！",
+		"TextENG": "But... what choice did we have?!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93909,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS10/62/410100734.",
+		"TextJPN": "「あ、…そうだ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``Oh... that's right!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93910,
+		"TextJPN": "その時俺は、天啓のようにひらめいた。",
+		"TextENG": "That moment, I felt inspiration like a divine revelation."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93911,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS10/62/410100735.",
+		"TextJPN": "「車で行けばいいじゃねーか！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``We can drive there!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93912,
+		"NamesJPN": "乙部",
+		"PreTextTags": "@vS10/41/410200257.",
+		"TextJPN": "「車…？」",
+		"NamesENG": "Otobe",
+		"TextENG": "``In what car...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93913,
+		"TextJPN": "乙部が眉をひそめるのも構わず、俺は続ける。",
+		"TextENG": "Otobe began to furrow his eyebrows, but I continued."
+	},
+	{
+		"type": "SELECT",
+		"metadata": "98s, 48s, @0x0000, 4095n,",
+		"count": 2,
+		"titleJPN": "俺は続ける",
+		"choice1JPN": "自殺した奴らの車だよ！",
+		"choice2JPN": "園崎さんの車だよ！",
+		"titleENG": "I will go to...",
+		"choice1ENG": "The suicide party's car.",
+		"choice2ENG": "Sonozaki-san's car.",
+		"Explanation": "choice1: go to 94050, choice2: go to 94223"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93914,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS10/62/410100736.",
+		"TextJPN": "「やっぱり、集会所に戻ろう」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``I think we should return to the assembly hall.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93915,
+		"NamesJPN": "美雪",
+		"PreTextTags": "@vS10/40/410300503.",
+		"TextJPN": "「え…？@k@vS10/40/410300504.　黒澤さんを、探してあげないんですか？」",
+		"NamesENG": "Miyuki",
+		"TextENG": "``Huh...?@k@vS10/40/410300504. You're not going to search for Kurosawa-san?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93916,
+		"TextJPN": "俺の出した結論に、美雪ちゃんは眉間にしわを寄せて俺を見る。",
+		"TextENG": "Miyuki-chan furrowed her eyebrows and stared at me as soon as she heard my answer."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93917,
+		"TextJPN": "その口調には幾ばくか、俺への非難がこもっているようにも感じられた。",
+		"TextENG": "Somehow, it felt like the tone of her voice was criticizing me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93918,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS10/62/410100737.",
+		"TextJPN": "「そりゃ、俺だって探しに行きたいさ。@k@vS10/62/410100738.でも、外はもう真っ暗だ。@k@vS10/62/410100739.今から探したって見つからないどころか、二次遭難の危険すらある」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``Well, I do want to search for him.@k@vS10/62/410100738. But it's already pitch black outside.@k@vS10/62/410100739. If we go out searching right now, there's a risk even more danger will befall us.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93919,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS10/62/410100740.",
+		"TextJPN": "「それにこんな雨だし…。@k@vS10/62/410100741.夜が明けてから、ちゃんと探したほうがいいんじゃないか？」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``Plus, it's still raining...@k@vS10/62/410100741. Wouldn't it be easier to look for him after the sun comes up?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93920,
+		"NamesJPN": "美雪",
+		"PreTextTags": "@vS10/40/410300505.",
+		"TextJPN": "「……」",
+		"NamesENG": "Miyuki",
+		"TextENG": "``......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93921,
+		"TextJPN": "美雪ちゃんはまだ不服そうな顔をしていたが、やがて得心したようにこくり、と頷いた。",
+		"TextENG": "The look on Miyuki-chan's face indicated she still wasn't fully satisfied, but eventually she relented and nodded to me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93922,
+		"NamesJPN": "美雪",
+		"PreTextTags": "@vS10/40/410300506.",
+		"TextJPN": "「…悔しいけど、龍ノ介さんの言うとおりです。@k@vS10/40/410300507.仕方ないですね」",
+		"NamesENG": "Miyuki",
+		"TextENG": "``...It's unfortunate, but it's just as Ryuunosuke-san says.@k@vS10/40/410300507. It can't be helped.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93923,
+		"NamesJPN": "十和田",
+		"PreTextTags": "@vS10/42/410600149.",
+		"TextJPN": "「…すみません」",
+		"NamesENG": "Towada",
+		"TextENG": "``...I'm sorry.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93924,
+		"TextJPN": "俺の隣を歩いていた十和田さんが、美雪ちゃんに小さく頭を下げた。",
+		"TextENG": "Towada-san walked up next to me and lightly bowed her head to Miyuki-chan."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93925,
+		"NamesJPN": "美雪",
+		"PreTextTags": "@vS10/40/410300508.",
+		"TextJPN": "「…どうして、十和田さんが謝るの？」",
+		"NamesENG": "Miyuki",
+		"TextENG": "``...Why are you apologizing, Towada-san?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93926,
+		"NamesJPN": "十和田",
+		"PreTextTags": "@vS10/42/410600150.",
+		"TextJPN": "「工くんのことで…、迷惑かけちゃったから…。@k@vS10/42/410600151.だから…」",
+		"NamesENG": "Towada",
+		"TextENG": "``Takumi-kun... caused trouble for you...@k@vS10/42/410600151. That's all...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93927,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS10/62/410100742.",
+		"TextJPN": "「こんな状況なんだから、しょうがねーよ。@k@vS10/62/410100743.…気にすんなって！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``That's just the situation we're in. It can't be helped.@k@vS10/62/410100743. ...Don't worry about it!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93928,
+		"NamesJPN": "十和田",
+		"PreTextTags": "@vS10/42/410600152.",
+		"TextJPN": "「はい…」",
+		"NamesENG": "Towada",
+		"TextENG": "``Okay...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93929,
+		"TextJPN": "悄然と肩を落とす十和田さんの姿に、…罪悪感がこみ上げる。",
+		"TextENG": "When I saw Towada-san's shoulders droop... the guilt started to eat at me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93930,
+		"TextJPN": "仕方ないと思いつつもいたたまれず、俺は彼女に顔を合わせられなかった。",
+		"TextENG": "Even though I did believe it couldn't be helped, I still couldn't bring myself to look her eye to eye."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93931,
+		"TextJPN": "…雨の勢いは、一段と強まってきている。",
+		"TextENG": "...The rain began coming down even harder."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 93932,
+		"TextJPN": "俺たちは早足から次第に小走りになり、最後は転がり込むようにして集会所へと戻った。",
+		"TextENG": "We hastened our pace to nearly a run, and eventually arrived at the assembly hall."
+	}
+]

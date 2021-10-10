@@ -1,247 +1,245 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "元気ないね。",
-            "ENG": "Not Feeling so Hot."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13033,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200042.",
-            "TextJPN": "「最近、圭一くんの元気がないね。機嫌が悪いのかな」",
-            "NamesENG": "Rena",
-            "TextENG": "``Keiichi-kun's been feeling down lately. Maybe he's in a bad mood.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13034,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300032.",
-            "TextJPN": "「さぁてどうしたんだろうね。恋の病にでもかかってるんじゃないのー？」",
-            "NamesENG": "Mion",
-            "TextENG": "``I wonder. Maybe he's got a crush on someone?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13035,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200043.",
-            "TextJPN": "「み、魅ぃちゃんそれ飛躍しすぎ…！」",
-            "NamesENG": "Rena",
-            "TextENG": "``M-M-Mii-chan, that's a logic leap...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13036,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300033.",
-            "TextJPN": "「うっひゃっひゃっひゃっひゃ！！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Uhyak hyak hyak hyak!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13037,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200044.",
-            "TextJPN": "「……どう思う？」",
-            "NamesENG": "Rena",
-            "TextENG": "``...What do you think?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13038,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300034.",
-            "TextJPN": "「さーね」",
-            "NamesENG": "Mion",
-            "TextENG": "``Don't know.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13039,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200045.",
-            "TextJPN": "「………」",
-            "NamesENG": "Rena",
-            "TextENG": "``...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13040,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300035.",
-            "TextJPN": "「圭ちゃん、ひょっとして…。………かな？」",
-            "NamesENG": "Mion",
-            "TextENG": "``Could be that Kei-chan... Maybe...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13041,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200046.",
-            "TextJPN": "「……わかんない」",
-            "NamesENG": "Rena",
-            "TextENG": "``...I don't know.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13042,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300036.",
-            "TextJPN": "「あの日、圭ちゃんと車で話してたの、中年のでっぷりした男だったんでしょ？」",
-            "NamesENG": "Mion",
-            "TextENG": "``That day, Kei-chan was in that car talking to some tubby middle-aged guy, right?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13043,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200047.",
-            "TextJPN": "「うん。間違いない」",
-            "NamesENG": "Rena",
-            "TextENG": "``Yeah. No mistake.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13044,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300037.",
-            "TextJPN": "「大石のヤツ、圭ちゃんに何を吹き込んでるのかなぁ…」",
-            "NamesENG": "Mion",
-            "TextENG": "``That Ooishi, he probably fed him something fishy...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13045,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200048.",
-            "TextJPN": "「真剣そうだったよ。圭一くんは顔面蒼白だった」",
-            "NamesENG": "Rena",
-            "TextENG": "``He looked serious. Keiichi-kun's face was so pale.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13046,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300038.",
-            "TextJPN": "「………あのねぇ、レナはよく知らないだろうけど、」",
-            "NamesENG": "Mion",
-            "TextENG": "``You see... You might not know this...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13047,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300039.",
-            "TextJPN": "「実はあいつ、オヤシロさまの使いなんだよ」",
-            "NamesENG": "Mion",
-            "TextENG": "``But he's actually the messenger of Oyashiro-sama.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13048,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200049.",
-            "TextJPN": "「え？　何の話？」",
-            "NamesENG": "Rena",
-            "TextENG": "``Huh? What do you mean?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13049,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300040.",
-            "TextJPN": "「あいつが現れるとね、…必ず鬼隠しが起こるの。……本当だよ」",
-            "NamesENG": "Mion",
-            "TextENG": "``Whenever he shows up... someone is demoned away. No lie...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13050,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200050.",
-            "TextJPN": "「…………あれ？　そうなの？」",
-            "NamesENG": "Rena",
-            "TextENG": "``...Oh? Is that so?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13051,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300041.",
-            "TextJPN": "「……一昨年、梨花ちゃんのお母さんが@bじゅすい.@<入水@>したでしょ？　その直前に大石が尋問してたんだよ」",
-            "NamesENG": "Mion",
-            "TextENG": "``...The year before last, when Rika-chan's mom drowned, right? Right before that, she was visited by Ooishi.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13052,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200051.",
-            "TextJPN": "「………そう言えば、悟史くんが転校する前にもいたね」",
-            "NamesENG": "Rena",
-            "TextENG": "``...Now that you mention it, he was around before Satoshi-kun transferred out, too.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13053,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300042.",
-            "TextJPN": "「転校～？　あはははははは、レナはいいヤツだよなぁ」",
-            "NamesENG": "Mion",
-            "TextENG": "``Transferred~? Ahahahahahaha, you're so sweet, Rena.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13054,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200052.",
-            "TextJPN": "「で、今度は圭一くんの前に現れたんだ。……じゃあ圭一くんも鬼隠しになっちゃう？」",
-            "NamesENG": "Rena",
-            "TextENG": "``So this time he's appeared before Keiichi-kun... So Keiichi-kun is going to be demoned away too?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13055,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300043.",
-            "TextJPN": "「……………………」",
-            "NamesENG": "Mion",
-            "TextENG": "``...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13056,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200053.",
-            "TextJPN": "「……………………」",
-            "NamesENG": "Rena",
-            "TextENG": "``...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13057,
-            "TextJPN": "沈黙の空白がじんわりと続く。@kそしてふと途切れた。",
-            "TextENG": "An empty silence hung in the air.@k And then it was suddenly interrupted..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13058,
-            "NamesJPN": "レナ＆魅音",
-            "PreTextTags": "@o75.@vS20/02/440200054|S20/03/440300044.",
-            "TextJPN": "「「あはははははははははははははは」」",
-            "NamesENG": "Rena & Mion",
-            "TextENG": "````Ahahahahahahahahahahahaha.````"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13059,
-            "TextJPN": "…哄笑だった。",
-            "TextENG": "By loud laughter..."
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "元気ないね。",
+		"ENG": "Not Feeling so Hot."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13033,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200042.",
+		"TextJPN": "「最近、圭一くんの元気がないね。機嫌が悪いのかな」",
+		"NamesENG": "Rena",
+		"TextENG": "``Keiichi-kun's been feeling down lately. Maybe he's in a bad mood.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13034,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300032.",
+		"TextJPN": "「さぁてどうしたんだろうね。恋の病にでもかかってるんじゃないのー？」",
+		"NamesENG": "Mion",
+		"TextENG": "``I wonder. Maybe he's got a crush on someone?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13035,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200043.",
+		"TextJPN": "「み、魅ぃちゃんそれ飛躍しすぎ…！」",
+		"NamesENG": "Rena",
+		"TextENG": "``M-M-Mii-chan, that's a logic leap...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13036,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300033.",
+		"TextJPN": "「うっひゃっひゃっひゃっひゃ！！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Uhyak hyak hyak hyak!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13037,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200044.",
+		"TextJPN": "「……どう思う？」",
+		"NamesENG": "Rena",
+		"TextENG": "``...What do you think?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13038,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300034.",
+		"TextJPN": "「さーね」",
+		"NamesENG": "Mion",
+		"TextENG": "``Don't know.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13039,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200045.",
+		"TextJPN": "「………」",
+		"NamesENG": "Rena",
+		"TextENG": "``...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13040,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300035.",
+		"TextJPN": "「圭ちゃん、ひょっとして…。………かな？」",
+		"NamesENG": "Mion",
+		"TextENG": "``Could be that Kei-chan... Maybe...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13041,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200046.",
+		"TextJPN": "「……わかんない」",
+		"NamesENG": "Rena",
+		"TextENG": "``...I don't know.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13042,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300036.",
+		"TextJPN": "「あの日、圭ちゃんと車で話してたの、中年のでっぷりした男だったんでしょ？」",
+		"NamesENG": "Mion",
+		"TextENG": "``That day, Kei-chan was in that car talking to some tubby middle-aged guy, right?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13043,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200047.",
+		"TextJPN": "「うん。間違いない」",
+		"NamesENG": "Rena",
+		"TextENG": "``Yeah. No mistake.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13044,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300037.",
+		"TextJPN": "「大石のヤツ、圭ちゃんに何を吹き込んでるのかなぁ…」",
+		"NamesENG": "Mion",
+		"TextENG": "``That Ooishi, he probably fed him something fishy...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13045,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200048.",
+		"TextJPN": "「真剣そうだったよ。圭一くんは顔面蒼白だった」",
+		"NamesENG": "Rena",
+		"TextENG": "``He looked serious. Keiichi-kun's face was so pale.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13046,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300038.",
+		"TextJPN": "「………あのねぇ、レナはよく知らないだろうけど、」",
+		"NamesENG": "Mion",
+		"TextENG": "``You see... You might not know this...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13047,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300039.",
+		"TextJPN": "「実はあいつ、オヤシロさまの使いなんだよ」",
+		"NamesENG": "Mion",
+		"TextENG": "``But he's actually the messenger of Oyashiro-sama.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13048,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200049.",
+		"TextJPN": "「え？　何の話？」",
+		"NamesENG": "Rena",
+		"TextENG": "``Huh? What do you mean?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13049,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300040.",
+		"TextJPN": "「あいつが現れるとね、…必ず鬼隠しが起こるの。……本当だよ」",
+		"NamesENG": "Mion",
+		"TextENG": "``Whenever he shows up... someone is demoned away. No lie...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13050,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200050.",
+		"TextJPN": "「…………あれ？　そうなの？」",
+		"NamesENG": "Rena",
+		"TextENG": "``...Oh? Is that so?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13051,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300041.",
+		"TextJPN": "「……一昨年、梨花ちゃんのお母さんが@bじゅすい.@<入水@>したでしょ？　その直前に大石が尋問してたんだよ」",
+		"NamesENG": "Mion",
+		"TextENG": "``...The year before last, when Rika-chan's mom drowned, right? Right before that, she was visited by Ooishi.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13052,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200051.",
+		"TextJPN": "「………そう言えば、悟史くんが転校する前にもいたね」",
+		"NamesENG": "Rena",
+		"TextENG": "``...Now that you mention it, he was around before Satoshi-kun transferred out, too.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13053,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300042.",
+		"TextJPN": "「転校～？　あはははははは、レナはいいヤツだよなぁ」",
+		"NamesENG": "Mion",
+		"TextENG": "``Transferred~? Ahahahahahaha, you're so sweet, Rena.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13054,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200052.",
+		"TextJPN": "「で、今度は圭一くんの前に現れたんだ。……じゃあ圭一くんも鬼隠しになっちゃう？」",
+		"NamesENG": "Rena",
+		"TextENG": "``So this time he's appeared before Keiichi-kun... So Keiichi-kun is going to be demoned away too?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13055,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300043.",
+		"TextJPN": "「……………………」",
+		"NamesENG": "Mion",
+		"TextENG": "``...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13056,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200053.",
+		"TextJPN": "「……………………」",
+		"NamesENG": "Rena",
+		"TextENG": "``...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13057,
+		"TextJPN": "沈黙の空白がじんわりと続く。@kそしてふと途切れた。",
+		"TextENG": "An empty silence hung in the air.@k And then it was suddenly interrupted..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13058,
+		"NamesJPN": "レナ＆魅音",
+		"PreTextTags": "@o75.@vS20/02/440200054|S20/03/440300044.",
+		"TextJPN": "「「あはははははははははははははは」」",
+		"NamesENG": "Rena & Mion",
+		"TextENG": "````Ahahahahahahahahahahahaha.````"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13059,
+		"TextJPN": "…哄笑だった。",
+		"TextENG": "By loud laughter..."
+	}
+]

@@ -1,114 +1,112 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "心療内科診断書",
-            "ENG": "Psychosomatic Medical Report"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 17326,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "氏名：非公開（１４）",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Name: [Redacted] (14)."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 17327,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "性別：女性",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Gender: Female."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 17328,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "住所：鹿骨市興宮在住（非公開）",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Address: [Redacted], Okinomiya, Shishibone City."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 17329,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "備考：市内の中学校に在学中。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Remarks: Attended middle school in the city."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 17330,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "診察内容：",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Medical exam contents:"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 17331,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "日常生活において突発的に失神症状を起こすため、血液採取と問診を行う。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Blood testing was performed to identify the cause of sudden fainting symptoms during everyday activity."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 17332,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "当初、血液性疾患（貧血）の疑いで鹿骨総合病院の内科にて診察を受けていたが、原因不明の偏頭痛を訴えたために、担当医の判断で心療内科にてカウンセリング。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Originally investigated by the Shishibone General Hospital department of medicine on the suspicion of blood disease (anemia), but due to the sudden onset of migraines of unknown origin, the doctor advised her to enroll in psychosomatic counseling."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 17333,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "診断：",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Diagnosis:"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 17334,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "中度から重度の自律神経失調症。慢性症状の危険もあり、入院を強く推奨する。両親への事前説明を入念に行い、両者の合意を得た上で薬物療法にて対処の予定。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Moderate to severe autonomic ataxia. Due to the risk of chronic symptoms, hospitalization is strongly recommended. Planning to begin pharmacotherapy after carefully explaining the circumstances to both parents and obtaining their consent."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 17335,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "なお、心理的なストレスを考慮して患者本人には血液性疾患の治療として説明。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Also, considering the psychological stress on the patient herself, the explanation to be provided is the treatment of blood disease."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 17336,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "その他：",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Other notes:"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 17337,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "個人情報の保護を厳密に行う。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Personal information is to be strictly protected."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 17338,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "（以下、ドイツ語の走り書きのため読解不能）",
-            "AfterTextTags": "@|@y",
-            "TextENG": "(The text below that point is unreadable scribbles in German.)"
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "心療内科診断書",
+		"ENG": "Psychosomatic Medical Report"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 17326,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "氏名：非公開（１４）",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Name: [Redacted] (14)."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 17327,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "性別：女性",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Gender: Female."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 17328,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "住所：鹿骨市興宮在住（非公開）",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Address: [Redacted], Okinomiya, Shishibone City."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 17329,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "備考：市内の中学校に在学中。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Remarks: Attended middle school in the city."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 17330,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "診察内容：",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Medical exam contents:"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 17331,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "日常生活において突発的に失神症状を起こすため、血液採取と問診を行う。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Blood testing was performed to identify the cause of sudden fainting symptoms during everyday activity."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 17332,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "当初、血液性疾患（貧血）の疑いで鹿骨総合病院の内科にて診察を受けていたが、原因不明の偏頭痛を訴えたために、担当医の判断で心療内科にてカウンセリング。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Originally investigated by the Shishibone General Hospital department of medicine on the suspicion of blood disease (anemia), but due to the sudden onset of migraines of unknown origin, the doctor advised her to enroll in psychosomatic counseling."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 17333,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "診断：",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Diagnosis:"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 17334,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "中度から重度の自律神経失調症。慢性症状の危険もあり、入院を強く推奨する。両親への事前説明を入念に行い、両者の合意を得た上で薬物療法にて対処の予定。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Moderate to severe autonomic ataxia. Due to the risk of chronic symptoms, hospitalization is strongly recommended. Planning to begin pharmacotherapy after carefully explaining the circumstances to both parents and obtaining their consent."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 17335,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "なお、心理的なストレスを考慮して患者本人には血液性疾患の治療として説明。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Also, considering the psychological stress on the patient herself, the explanation to be provided is the treatment of blood disease."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 17336,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "その他：",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Other notes:"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 17337,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "個人情報の保護を厳密に行う。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Personal information is to be strictly protected."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 17338,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "（以下、ドイツ語の走り書きのため読解不能）",
+		"AfterTextTags": "@|@y",
+		"TextENG": "(The text below that point is unreadable scribbles in German.)"
+	}
+]

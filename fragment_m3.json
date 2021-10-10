@@ -1,90 +1,88 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "M3 事件報告２",
-            "ENG": "M3 Incident Report 2"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 9639,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "【事件報告２：茨城・愛知連続怪死事件】",
-            "AfterTextTags": "@|@y",
-            "TextENG": "[Incident report 2: Series of mysterious deaths in Ibaraki/Aichi]"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 9640,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "＜継続捜査中の資料のため、一部非公開＞",
-            "AfterTextTags": "@|@y",
-            "TextENG": "＜Due to the ongoing investigation, some information is not to be disclosed to the public.＞"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 9641,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "１．発生@r【第一の事件】昭和５７年１０月２日（土）午後４時頃@r【第二の事件】昭和５７年１０月２４日（日）午後１１時頃@r【第三の事件】昭和５７年１０月２９日（金）午後３時頃",
-            "AfterTextTags": "@|@y",
-            "TextENG": "1. Occurrence@r[First incident] Saturday, October 2nd 1982, around 4:00 PM.@r[Second incident] Sunday, October 24th 1982, around 11:00 PM.@r[Third incident] Friday, October 29th 1982, around 3:00 PM."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 9642,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "２．場所@r【第一の事件】茨城県内■■総合病院精神科病棟@r【第二の事件】愛知県大牧市内国道◯◯号線@r【第三の事件】成田空港内国際線ロビー",
-            "AfterTextTags": "@|@y",
-            "TextENG": "2. Location@r[First incident] Ibaraki prefecture ■■ hospital psychiatric ward.@r[Second incident] Aichi prefecture, Oumaki city XX national highway.@r[Third incident] Narita International Airport lobby."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 9643,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "３．概要@r【第一の事件】茨城県内の■■総合病院精神科病棟にて入院・治療を行っていた澤村公平（１３）が病室の窓より転落し、即死した。@r【第二の事件】大牧市内に住む尾崎渚（１３）が国道路上にてトラックに轢かれ、即死した。@r【第三の事件】成田空港内ロビーにてマカオ行きの旅客機に搭乗する予定だった平沼陽子（３７）が突然奇声を上げ、持っていた果物ナイフで自死した。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "3. Overview@r[First Incident] A patient being treated at the Ibaraki prefecture ■■ general hospital psychiatric ward, Kouhei Sawamura (13) fell from the window of a hospital room and died immediately.@r[Second incident] a resident of Oumaki city, Nagisa Ozaki (13), was hit by a truck on a national highway and died immediately.@r[Third incident] A passenger planning to board a plane bound for Macau, Youko Hiranuma (37) suddenly began making strange noises, before killing herself with a fruit knife."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 9644,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "４．今後について@rこれら３つの事件は場所も異なり、一見関連性が無いようにも感じられる。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "4. Going forward@rAt first glance, these three cases occurred in different locations and seem unrelated."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 9645,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "だが、わずか１ヶ月の間に患者とその友人（交際していたらしい）、患者の担当看護師が変死するという事態には不自然な点が多い。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "However, there were many unusual points in the situation, including the fact that the patient, his friend (who he was allegedly dating), and the nurse in charge of his hospitalization all died within a month."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 9646,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "さらに、平沼陽子の遺体を司法解剖したところ、喉・胃の消化器の一部からアルコール分に混じって化学物質が発見された。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "And furthermore, the autopsy of Youko Hiranuma's body revealed that a certain chemical substance mixed with alcohol was found in her throat and stomach."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 9647,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "科学警察研究所の分析によると、薬物の正体そのものを突き止めることは不可能であったものの、そのいくつかの成分には精神に影響をおよぼすものもあったという。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "According to analysts at the National Research Institute of Police Science, even though it was impossible to determine the precise identity of the drug, some of the components in it did have psychological effects."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 9648,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "これらの事件における関連性の有無を求めて、現在警察庁・愛知県警察本部・科学警察研究所合同による捜査チームが結成され、現在調査中である……。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "A joint investigation team has been formed, consisting of the National Police Agency, Aichi prefectural police HQ, and the National Research Institute of Police Science, and they are currently investigating any potential connection between these incidents."
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "M3 事件報告２",
+		"ENG": "M3 Incident Report 2"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 9639,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "【事件報告２：茨城・愛知連続怪死事件】",
+		"AfterTextTags": "@|@y",
+		"TextENG": "[Incident report 2: Series of mysterious deaths in Ibaraki/Aichi]"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 9640,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "＜継続捜査中の資料のため、一部非公開＞",
+		"AfterTextTags": "@|@y",
+		"TextENG": "＜Due to the ongoing investigation, some information is not to be disclosed to the public.＞"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 9641,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "１．発生@r【第一の事件】昭和５７年１０月２日（土）午後４時頃@r【第二の事件】昭和５７年１０月２４日（日）午後１１時頃@r【第三の事件】昭和５７年１０月２９日（金）午後３時頃",
+		"AfterTextTags": "@|@y",
+		"TextENG": "1. Occurrence@r[First incident] Saturday, October 2nd 1982, around 4:00 PM.@r[Second incident] Sunday, October 24th 1982, around 11:00 PM.@r[Third incident] Friday, October 29th 1982, around 3:00 PM."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 9642,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "２．場所@r【第一の事件】茨城県内■■総合病院精神科病棟@r【第二の事件】愛知県大牧市内国道◯◯号線@r【第三の事件】成田空港内国際線ロビー",
+		"AfterTextTags": "@|@y",
+		"TextENG": "2. Location@r[First incident] Ibaraki prefecture ■■ hospital psychiatric ward.@r[Second incident] Aichi prefecture, Oumaki city XX national highway.@r[Third incident] Narita International Airport lobby."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 9643,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "３．概要@r【第一の事件】茨城県内の■■総合病院精神科病棟にて入院・治療を行っていた澤村公平（１３）が病室の窓より転落し、即死した。@r【第二の事件】大牧市内に住む尾崎渚（１３）が国道路上にてトラックに轢かれ、即死した。@r【第三の事件】成田空港内ロビーにてマカオ行きの旅客機に搭乗する予定だった平沼陽子（３７）が突然奇声を上げ、持っていた果物ナイフで自死した。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "3. Overview@r[First Incident] A patient being treated at the Ibaraki prefecture ■■ general hospital psychiatric ward, Kouhei Sawamura (13) fell from the window of a hospital room and died immediately.@r[Second incident] a resident of Oumaki city, Nagisa Ozaki (13), was hit by a truck on a national highway and died immediately.@r[Third incident] A passenger planning to board a plane bound for Macau, Youko Hiranuma (37) suddenly began making strange noises, before killing herself with a fruit knife."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 9644,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "４．今後について@rこれら３つの事件は場所も異なり、一見関連性が無いようにも感じられる。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "4. Going forward@rAt first glance, these three cases occurred in different locations and seem unrelated."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 9645,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "だが、わずか１ヶ月の間に患者とその友人（交際していたらしい）、患者の担当看護師が変死するという事態には不自然な点が多い。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "However, there were many unusual points in the situation, including the fact that the patient, his friend (who he was allegedly dating), and the nurse in charge of his hospitalization all died within a month."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 9646,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "さらに、平沼陽子の遺体を司法解剖したところ、喉・胃の消化器の一部からアルコール分に混じって化学物質が発見された。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "And furthermore, the autopsy of Youko Hiranuma's body revealed that a certain chemical substance mixed with alcohol was found in her throat and stomach."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 9647,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "科学警察研究所の分析によると、薬物の正体そのものを突き止めることは不可能であったものの、そのいくつかの成分には精神に影響をおよぼすものもあったという。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "According to analysts at the National Research Institute of Police Science, even though it was impossible to determine the precise identity of the drug, some of the components in it did have psychological effects."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 9648,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "これらの事件における関連性の有無を求めて、現在警察庁・愛知県警察本部・科学警察研究所合同による捜査チームが結成され、現在調査中である……。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "A joint investigation team has been formed, consisting of the National Police Agency, Aichi prefectural police HQ, and the National Research Institute of Police Science, and they are currently investigating any potential connection between these incidents."
+	}
+]

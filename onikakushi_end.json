@@ -1,1393 +1,1391 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "END",
-            "ENG": "END"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36710,
-            "TextJPN": "喫煙スペースには紫煙が立ち込めていた。",
-            "TextENG": "The smoking room was filled with a cloud of cigarette smoke."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36711,
-            "TextJPN": "高額備品扱いの分煙機も、チリチリという何だか電気のはぜるみたいな音がうるさいだけで、ちっとも役に立っているようには見えない。",
-            "TextENG": "The expensive smoke filter gave off some crackling electric noise, but it didn't seem like it was doing anything at all."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36712,
-            "TextJPN": "どうしてこんな日当たりの悪い廊下の奥に、喫煙家が押し込まれなければならないのか？",
-            "TextENG": "Why do smokers have to be shoved so far down this corridor where the sun didn't even reach?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36713,
-            "TextJPN": "…たばこの税収ってのは確か、自治体の税収の１割くらいはあるって聞いたことがあるような…。",
-            "TextENG": "...I recalled hearing that the tax revenue from tobacco was about a tenth of the municipality's revenue..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36714,
-            "TextJPN": "私たちは地方自治体を支える高額納税者なんですから、もう少しいい待遇にはならんもんですかねぇ…。",
-            "TextENG": "We were the most heavily-taxed members of this municipality, so I really wished they'd show us a little more respect..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36715,
-            "NamesJPN": "熊谷",
-            "PreTextTags": "@vS01/19/123100001.",
-            "TextJPN": "「……うーん、どうしてこれが五萬切りなんすか？@k@vS01/19/123100002.　待ちが狭くなっちゃうっすよ？」",
-            "NamesENG": "Kumagai",
-            "TextENG": "``...Hrm, why would you discard the 5 manzu there?@k@vS01/19/123100002. It's just decreasing your options.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36716,
-            "TextJPN": "後輩の青年が麻雀雑誌の『次の一手』のコーナーとにらめっこをしている。",
-            "TextENG": "One of the younger detectives was having a staring contest with the Mahjong magazine called ``Next Turn.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36717,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS01/11/ooisi_0000.",
-            "TextJPN": "「五萬切ってもテンパイ崩れませんから」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``You're still in tenpai if you cut the 5 manzu.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36718,
-            "NamesJPN": "熊谷",
-            "PreTextTags": "@vS01/19/123100004.",
-            "TextJPN": "「ハイテーに賭けるなら、両面で受けた方がチャンスあるんじゃないすか？」",
-            "NamesENG": "Kumagai",
-            "TextENG": "``If you're betting on a Haitei, then shouldn't you be going into it with a Mangan?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36719,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS01/11/120700516.",
-            "TextJPN": "「熊ちゃん、河を見て下さい。@k@vS01/11/120700517.五萬は全員切ってますから安牌なんですよ。@k@vS01/11/120700518.終盤で形テンに走った誰かがダマで待ってたら嫌でしょ」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Kuma-chan, look at the pond.@k@vS01/11/120700517. They all discarded a 5 manzu. It's a safe tile.@k@vS01/11/120700518. You'd hate if, at end game, someone was sitting on a tenpai on the last turn, wouldn't you?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36720,
-            "TextJPN": "青年はうーんと唸りながら、タバコを捻り、もう一本を取り出す。",
-            "TextENG": "The kid let out another groan, put out his cigarette, then took out another one."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36721,
-            "NamesJPN": "熊谷",
-            "PreTextTags": "@vS01/19/123100005.",
-            "TextJPN": "「…納得いかないっすねぇ…。@k@vS01/19/123100006.わざわざ自分で当たり牌減らすなんて」",
-            "NamesENG": "Kumagai",
-            "TextENG": "``...I just don't agree...@k@vS01/19/123100006. Why would you reduce your own options?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36722,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS01/11/120700519.",
-            "TextJPN": "「ちなみに、ハイテーで当たり牌出してもロンしちゃダメですよ」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``By the way, you can't call ron with your winning tile in that haitei.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36723,
-            "NamesJPN": "熊谷",
-            "PreTextTags": "@vS01/19/123100007.",
-            "TextJPN": "「え？！　どうしてっすか？！」",
-            "NamesENG": "Kumagai",
-            "TextENG": "``What!? Why is that!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36724,
-            "TextJPN": "その時、廊下の向こうから声が聞こえてきた。",
-            "TextENG": "Just then, I heard a voice coming from down the hall."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36725,
-            "NamesJPN": "刑事",
-            "PreTextTags": "@vS01/00/dek02001.",
-            "TextJPN": "「大石さん、いますかー？@k@vS01/00/dek02002.　一般の方から外線でーす」",
-            "NamesENG": "Detective",
-            "TextENG": "``Are you here, Ooishi-san?@k@vS01/00/dek02002. You have a call from a civilian.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36726,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS01/11/120700520.",
-            "TextJPN": "「ありゃ、こりゃどうも。それじゃ、ちょいと失礼！」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Whoa, ain't that something? Welp, see ya soon!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36727,
-            "NamesJPN": "熊谷",
-            "PreTextTags": "@vS01/19/123100008.",
-            "TextJPN": "「ど、どうしてロンしちゃダメなんすかぁ？！@k@vS01/19/123100009.　あ、待ってくださいよ大石さぁん！」",
-            "NamesENG": "Kumagai",
-            "TextENG": "``W-Why can't you call ron on it!?@k@vS01/19/123100009. H-Hold on for a second, Ooishi-san!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36728,
-            "TextJPN": "大石の向かいの席の男が受話器を振っている。",
-            "TextENG": "The man sitting in the seat Ooishi-san was heading towards waved at the telephone receiver."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36729,
-            "NamesJPN": "刑事",
-            "PreTextTags": "@vS01/00/dek02003.",
-            "TextJPN": "「外線です。@k@vS01/00/dek02004.公衆から」",
-            "NamesENG": "Detective",
-            "TextENG": "``Outside line.@k@vS01/00/dek02004. From a payphone.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36730,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS01/11/120700521.",
-            "TextJPN": "「あーどうもすみません！@k@vS01/11/120700522.　……お待たせしました、大石です。@k@vS01/11/120700523.もしもし？」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Oh, why thank you!@k@vS01/11/120700522. ...Sorry to keep you waiting, this is Ooishi.@k@vS01/11/120700523. Who is it?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36731,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS01/01/120100808.",
-            "TextJPN": "「お、大石さんですか？！@k@vS01/01/120100809.　もしもし？！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Ah, Ooishi-san!?@k@vS01/01/120100809. Hello!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36732,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS01/11/120700524.",
-            "TextJPN": "「前原さんじゃありませんか。@k@vS01/11/120700525.どうもどうもこんにちは…！」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``If it isn't Maebara-san.@k@vS01/11/120700525. Why, good evening...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36733,
-            "TextJPN": "前原くんの声色から、すぐに異常事態を察する。",
-            "TextENG": "From the tone Maebara-kun's voice, I already knew he was in a predicament."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36734,
-            "TextJPN": "…前原くんからこちらに電話をかけてくるのは初めて。",
-            "TextENG": "...This was the first time Maebara-kun had phoned me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36735,
-            "TextJPN": "そしてかけてきたのは公衆電話。",
-            "TextENG": "And he was calling from a payphone."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36736,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS01/11/120700526.",
-            "TextJPN": "「落ち着いて下さい。@k@vS01/11/120700527.何がありました？」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Please calm down.@k@vS01/11/120700527. Did something happen?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36737,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS01/01/120100810.",
-            "TextJPN": "「えっと、その、……あぁぁ…ッ！！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Uh, well ...Ahh...!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36738,
-            "TextJPN": "電話口の声は混乱し、完全に冷静さを失っていた。",
-            "TextENG": "His voice was erratic over the line, he had completely lost his sense of composure."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36739,
-            "TextJPN": "他の連中に聞かれないか確認してから、受話器の口元をかばい小声で先を促す。",
-            "TextENG": "After checking that nobody else could hear, I prompted him in a hushed tone."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36740,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS01/11/120700528.",
-            "TextJPN": "「何があったんです？！」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``What happened!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36741,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS01/01/120100811.",
-            "TextJPN": "「あぁぁあぁあの…お、…ぉぉ……俺……、」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``UhhhUhhm... I... I... I...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36742,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS01/11/120700529.",
-            "TextJPN": "「…落ち着いて前原さん！@k@vS01/11/120700530.　今そこに近場の警官を行かせます。@k@vS01/11/120700531.私もすぐそっちに行きますよ！」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``...Calm down, Maebara-san!@k@vS01/11/120700530. I can have the local officers head to your location.@k@vS01/11/120700531. I'll be there soon, too!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36743,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS01/01/120100812.",
-            "TextJPN": "「………あ、その……多分……無理です」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...Ah, um... ...I think that's... impossible.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36744,
-            "TextJPN": "声に怯えと達観…。",
-            "TextENG": "His voice was quivering and hoarse..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36745,
-            "TextJPN": "……まさか、電話をかけながら、すでに何者かに囲まれている？！",
-            "TextENG": "...He wasn't surrounded by people even as he was making this call, was he!?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36746,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS01/11/120700532.",
-            "TextJPN": "「前原さんは今、公衆電話からかけてますよね？@k@vS01/11/120700533.　どこの公衆電話ですか？！」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Maebara-san, you're calling from a payphone right now, right?@k@vS01/11/120700533. Where is that payphone!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36747,
-            "TextJPN": "前原くんの声以外の環境音がまったくない。",
-            "TextENG": "There were no other sounds besides Maebara-kun's voice."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36748,
-            "TextJPN": "電話ボックスからか。",
-            "TextENG": "It had to be a phone booth."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36749,
-            "TextJPN": "メモに殴り書きをし、対面の同僚に突きつける。",
-            "TextENG": "I scratched out a note and thrust it at my colleague sitting across from me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36750,
-            "TextJPN": "（ヒナミザワ、デンワボックス！！）",
-            "TextENG": "(Hinamizawa, phone booth!!)"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36751,
-            "TextJPN": "同僚がすぐに事態を呑み込み、慌しく内線を回す。",
-            "TextENG": "He understood quickly and hastily started on the internal lines."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36752,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS01/11/120700534.",
-            "TextJPN": "「…落ち着いて前原さん！@k@vS01/11/120700535.　今はどういう状況なんです…？！」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``...Calm down, Maebara-san!@k@vS01/11/120700535. What is your current situation...!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36753,
-            "TextJPN": "混乱した相手に余計あおるような言い方はよくないのだが…、今回はそういうケースじゃない。",
-            "TextENG": "It was best practice to avoid flustering someone panicking... but this was an urgent case."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36754,
-            "TextJPN": "…前原くんは危機に襲われ、逃げて電話をかけてるんじゃない。",
-            "TextENG": "...Maebara-kun didn't just get in trouble, get away, and then call me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36755,
-            "TextJPN": "……今この瞬間も何らかの危機にさらされている…！",
-            "TextENG": "...He was in the midst of something dangerous right now...!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36756,
-            "TextJPN": "だが…こっちがまくしたてたって、前原くんは余計に焦るだけなのだ。",
-            "TextENG": "But... yelling at Maebara-kun right now would just needlessly cause him to be even more frantic."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36757,
-            "TextJPN": "前原くんは助けを求めるためだけに電話をしてきたんじゃない。",
-            "TextENG": "Maebara-kun wasn't just calling to seek help."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36758,
-            "TextJPN": "…それ以上の何かを伝えたくて電話をしてきてるのだ。",
-            "TextENG": "...He was trying to tell us something more than that."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36759,
-            "TextJPN": "そしてその何かは、@k……この電話の機会を逃すと、もう二度と伝えられないという確信に基づいている…！",
-            "TextENG": "And whatever that was...@k If I didn't get it from this call, I was certain there would never be another chance...!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36760,
-            "TextJPN": "同僚がメモを回してきた。",
-            "TextENG": "My colleague pushed a note in front of me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36761,
-            "TextJPN": "（雛見沢にボックスは１ヶ所。@kパトを向かわせました。@k５分です）",
-            "TextENG": "(There's only one booth in Hinamizawa.@k A patrol car is on the way.@k Five minutes.)"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36762,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS01/11/120700536.",
-            "TextJPN": "「かかり過ぎです。@k@vS01/11/120700537.警邏には何人乗ってます？」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``That's too long.@k@vS01/11/120700537. How many officers are in there?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36763,
-            "NamesJPN": "刑事",
-            "PreTextTags": "@vS01/00/dek02005.",
-            "TextJPN": "「２人です」",
-            "NamesENG": "Detective",
-            "TextENG": "``Two.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36764,
-            "TextJPN": "足りない。",
-            "TextENG": "Not enough."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36765,
-            "TextJPN": "……もしも私の想像通りなら…前原くんは多人数に囲まれている。",
-            "TextENG": "...If it was as I imagined... there were likely quite a few people surrounding Maebara-kun."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36766,
-            "TextJPN": "それに５分じゃ遅すぎる！",
-            "TextENG": "Five minutes was too long!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36767,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS01/11/120700538.",
-            "TextJPN": "「雛見沢の駐在さんには電話しました？！」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Did you call the officer stationed in Hinamizawa!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36768,
-            "NamesJPN": "刑事",
-            "PreTextTags": "@vS01/00/dek02006.",
-            "TextJPN": "「定時巡回の時間です。@k@vS01/00/dek02007.家人は留守で連絡不能」",
-            "NamesENG": "Detective",
-            "TextENG": "``He's scheduled to be on patrol.@k@vS01/00/dek02007. They're currently out, and it'll be impossible to contact them.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36769,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS01/11/120700539.",
-            "TextJPN": "「くそッ！！@k@vS01/11/120700540.　熊ちゃん、車を回して下さい」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``God damn!@k@vS01/11/120700540. Kuma-chan, bring the car around.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36770,
-            "NamesJPN": "熊谷",
-            "PreTextTags": "@vS01/19/123100010.",
-            "TextJPN": "「了解っす！！！」",
-            "NamesENG": "Kumagai",
-            "TextENG": "``Understood!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36771,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS01/01/120100813.",
-            "TextJPN": "「…もしもし？@k@vS01/01/120100814.　大石さん…？@k@vS01/01/120100815.　ごほっごぼッ！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...Hello?@k@vS01/01/120100814. Ooishi-san...?@k@vS01/01/120100815. *Cough cough*!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36772,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS01/11/120700541.",
-            "TextJPN": "「もしもし！@k@vS01/11/120700542.　大丈夫です。@k@vS01/11/120700543.ちゃんと聞こえてますよ！」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Hello!@k@vS01/11/120700542. It's all right.@k@vS01/11/120700543. I can hear you loud and clear!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36773,
-            "TextJPN": "前原くんの様子がおかしい…。",
-            "TextENG": "There was something wrong with Maebara-kun..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36774,
-            "TextJPN": "今の咳の音は普通じゃない。",
-            "TextENG": "That wasn't a normal coughing sound."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36775,
-            "TextJPN": "……嘔吐？",
-            "TextENG": "...Vomiting?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36776,
-            "TextJPN": "それともまさか…血？！",
-            "TextENG": "Or was it... blood!?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36777,
-            "TextJPN": "すでに襲われ負傷している？！",
-            "TextENG": "Had he already been attacked!? Was he injured!?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36778,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS01/11/120700544.",
-            "TextJPN": "「前原さん、今そこに警官が向かってます。@k@vS01/11/120700545.２～３分で到着しますから何とか持ちこたえて下さい！@k@vS01/11/120700546.　もしもし？！@k@vS01/11/120700547.　聞こえてますか？！@k@vS01/11/120700548.　前原さん？！」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Maebara-san, the police are on their way.@k@vS01/11/120700545. They'll be there in a couple of minutes, so hold on somehow!@k@vS01/11/120700546. Hello!?@k@vS01/11/120700547. Can you hear me!?@k@vS01/11/120700548. Maebara-san!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36779,
-            "TextJPN": "受話器の向こうで咳き込むのが聞こえた。",
-            "TextENG": "I could hear on the other end of the line that he was having a coughing fit."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36780,
-            "TextJPN": "……脳裏に最悪の予感が過ぎる。",
-            "TextENG": "...The worst possible situation popped into my head."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36781,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS01/11/120700549.",
-            "TextJPN": "「前原さん！！@k@vS01/11/120700550.　犯人は誰です？！@k@vS01/11/120700551.　何人なんですッ？！」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Maebara-san!!@k@vS01/11/120700550. Who is the culprit!?@k@vS01/11/120700551. How many are there!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36782,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS01/01/120100816.",
-            "TextJPN": "「……お、…俺も……最初はニンゲンが犯人なんだと思いまし……げぼッ！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...I... I thought... at first the culprit was human... *hack*!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36783,
-            "TextJPN": "咳とも嘔吐ともつかない呻き。",
-            "TextENG": "I couldn't tell if that was a cough or vomiting."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36784,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS01/11/120700552.",
-            "TextJPN": "「大丈夫ですか！！　前原さん！！」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Are you all right!? Maebara-san!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36785,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS01/01/120100817.",
-            "TextJPN": "「犯人はニンゲンなんだって、オヤシロさまの祟りなんかないんだって、そう思ってました…。@k@vS01/01/120100818.ついさっきまで。@k@vS01/01/120100819.……だけど……やっぱり…、げほげほ…ッ！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``I thought that the culprit was a person and not Oyashiro-sama's curse...@k@vS01/01/120100818. Up until right now.@k@vS01/01/120100819. But... ...I guess... in the end... *hack hack*...!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36786,
-            "TextJPN": "激しい咳。@kそれに続いて嘔吐。",
-            "TextENG": "It was an intense bout of coughing.@k Then vomiting."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36787,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS01/01/120100820.",
-            "TextJPN": "「……でも…やっぱり…オヤシロさまってのは……いるんだと思います……。@k@vS01/01/120100821.いや、います。@k@vS01/01/120100822.今」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...But... I guess... Oyashiro-sama does exist...@k@vS01/01/120100821. No, he's...@k@vS01/01/120100822. here.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36788,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS01/11/120700553.",
-            "TextJPN": "「前原さん、どうか、どうか落ち着いて…、」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Maebara-san, please, just please calm down...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36789,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS01/01/120100823.",
-            "TextJPN": "「なんかさっきからおかしいと思ってたんです…。@k@vS01/01/120100824.ずーっとつけてくるんですよ…！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``I had been thinking it was strange for a while now...@k@vS01/01/120100824. It's been following me this whole time...!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36790,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS01/01/120100825.",
-            "TextJPN": "「走っても走っても、走っても走っても…！！！@k@vS01/01/120100826.　影みたいにぴったりくっついて！！@k@vS01/01/120100827.　だけども少しずつ…少しずつ…。@k@vS01/01/120100828.俺の背中ににじり寄ってくるんです……」",
-            "NamesENG": "Keiichi",
-            "TextENG": "I run and run and run and run...!!!@k@vS01/01/120100826. But it just sticks to me like my shadow!!@k@vS01/01/120100827. But slowly... so slowly...@k@vS01/01/120100828. It's digging itself into my back...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36791,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS01/11/120700554.",
-            "TextJPN": "「……前原さん、…そいつは………今、ひょっとして…、………前原さんの…後ろに？」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``...Maebara-san... Are they... right now... perhaps... right behind you...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36792,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS01/01/120100829.",
-            "TextJPN": "「……………後ろに。@k@vS01/01/120100830.……すぐ、……後ろに………」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...Behind me.@k@vS01/01/120100830. Right... behind me...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36793,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS01/11/120700555.",
-            "TextJPN": "「お願いです前原さん。@k@vS01/11/120700556.……怖いのはわかります。@k@vS01/11/120700557.ですがお願いです！！@k@vS01/11/120700558.　……あなたの後ろに……誰がいるんですッ？！」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Please, Maebara-san...@k@vS01/11/120700556. I can tell you're scared.@k@vS01/11/120700557. But please!!@k@vS01/11/120700558. ...Who is it... that's right behind you!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36794,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS01/01/120100831.",
-            "TextJPN": "「振り向けるわけ…ないじゃないですか…。@k@vS01/01/120100832.振り向いたら……俺……俺…、」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``I can't just... look behind me...@k@vS01/01/120100832. If I do... I'll... I'll...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36795,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS01/11/120700559.",
-            "TextJPN": "「怖いのはわかります！！@k@vS01/11/120700560.　でも教えて欲しい！！@k@vS01/11/120700561.　ちょっと振り返るだけでいいんです！！@k@vS01/11/120700562.　前原さんの後ろに……誰がいるんですッ？！？！」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``I understand that you're scared!!@k@vS01/11/120700560. But please tell me!!@k@vS01/11/120700561. You just need to turn around a bit!!@k@vS01/11/120700562. Who is it...? Who is behind you, Maebara-san!?!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36796,
-            "TextJPN": "直後に激しい嘔吐が聞こえる。@kそれから何か嫌な音。",
-            "TextENG": "Right after I said that, I could hear him vomiting intensely.@k What followed was a nightmarish sound."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36797,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS01/11/120700563.",
-            "TextJPN": "「…前原さん、@k@vS01/11/120700564.……あんたまさか、@k@vS01/11/120700565.…喉を引っ掻いてたりは…しないでしょうね…？」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``...Maebara-san...@k@vS01/11/120700564. It couldn't be that you're...@k@vS01/11/120700565. clawing out... your own throat...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36798,
-            "TextJPN": "返事はない。",
-            "TextENG": "There was no answer."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36799,
-            "TextJPN": "…ばりばりと…掻き毟るような音……。",
-            "TextENG": "But... I could hear something like scratching..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36800,
-            "TextJPN": "ガタンガシャン！　とぶつかり合う音がした。",
-            "TextENG": "There was a bang, as if something was being hit!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36801,
-            "TextJPN": "…前原くんが受話器を落としたのだろう。",
-            "TextENG": "...Maebara-kun had probably dropped the receiver."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36802,
-            "TextJPN": "電話の向こうからは唸りと嘔吐、そして繰り返される……異音。",
-            "TextENG": "I could hear groaning and vomiting over on the other end, and a repeating... abnormal noise."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36803,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS01/11/120700566.",
-            "TextJPN": "「もしもし！@k@vS01/11/120700567.　もしもし？！@k@vS01/11/120700568.　前原さん？！@k@vS01/11/120700569.　もしもーしッ？！？！」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Hello?@k@vS01/11/120700567. Hello!?@k@vS01/11/120700568. Maebara-san!?@k@vS01/11/120700569. Helloooo!?!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36804,
-            "TextJPN": "離された受話器の声がどんなに遠いかよくわかってる。",
-            "TextENG": "I knew how far away my voice would sound on the other end."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36805,
-            "TextJPN": "でも…叫ばずにはいられないのだ。",
-            "TextENG": "But... I couldn't help but shout."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36806,
-            "TextJPN": "その時、受話器の向こうから…つぶやきが聞こえた。",
-            "TextENG": "At that moment, I heard whispering... coming from the other end."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36807,
-            "TextJPN": "何を言っているのかはわからない。",
-            "TextENG": "I couldn't tell what he was saying."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36808,
-            "TextJPN": "……口調からして…独り言？",
-            "TextENG": "...From the way he was saying it, was he... talking to himself?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36809,
-            "TextJPN": "それとも…そこにいる誰かに言っているのか？",
-            "TextENG": "Or was he... talking to someone there?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36810,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS01/11/120700570.",
-            "TextJPN": "「もしもし…？@k@vS01/11/120700571.　………………………前原…さん…？」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Hello...?@k@vS01/11/120700571. ...Maebara...san...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36811,
-            "TextJPN": "それはつぶやきというより……お経みたいな、単調な何かの繰り返しだった。",
-            "TextENG": "Rather than whispering... it was some kind of mantra he was chanting over and over."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36812,
-            "TextJPN": "その何かを聞き取ろうと…神経を研ぎ澄ます…。",
-            "TextENG": "I focused my senses... trying to pick up what he was saying..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36813,
-            "TextJPN": "何を繰り返してるんだ彼は……。",
-            "TextENG": "What was he repeating...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36814,
-            "TextJPN": "一体……何を………！！！",
-            "TextENG": "What... exactly...!?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36815,
-            "TextJPN": "ぶつん！",
-            "TextENG": "Beep!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36816,
-            "TextJPN": "あまりに唐突に切れた。@k……１０円が切れたのか？！",
-            "TextENG": "Suddenly, the line went dead.@k Did he use up his time...!?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36817,
-            "TextJPN": "公衆電話だったから…！！",
-            "TextENG": "It was because it was a payphone...!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36818,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS01/11/120700572.",
-            "TextJPN": "「…………あ」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``...Ah.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36819,
-            "TextJPN": "唐突に切られたから。",
-            "TextENG": "It was because it cut out so abruptly..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36820,
-            "TextJPN": "…むしろ最後の一言は鮮明に脳裏に戻った。",
-            "TextENG": "The last thing he said came out so clearly in my mind."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36821,
-            "NamesJPN": "熊谷",
-            "PreTextTags": "@vS01/19/123100011.",
-            "TextJPN": "「大石さん、車はＯＫっす！！！@k@vS01/19/123100012.　大石さん…？！」",
-            "NamesENG": "Kumagai",
-            "TextENG": "``Ooishi-san, the car is good to go!!!@k@vS01/19/123100012. Ooishi-san...!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36822,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS01/11/120700573.",
-            "TextJPN": "「……ごめんなさい、だ」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``...It was... I'm sorry.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36823,
-            "NamesJPN": "熊谷",
-            "PreTextTags": "@vS01/19/123100013.",
-            "TextJPN": "「大石さん……？？」",
-            "NamesENG": "Kumagai",
-            "TextENG": "``Ooishi-san...??``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36824,
-            "TextJPN": "前原くんはずっと繰り返してたんだ。",
-            "TextENG": "That's what he was repeating over and over."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36825,
-            "TextJPN": "…ごめんなさい、って………。",
-            "TextENG": "...He said, ``I'm sorry``..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36826,
-            "TextJPN": "その時、直感した。",
-            "TextENG": "I had a gut feeling..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36827,
-            "TextJPN": "…………もう、そんなに急ぐことがないことに。",
-            "TextENG": "There was no longer a need to hurry."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36828,
-            "TextJPN": "……その時、開け放たれた窓の向こうから…ひぐらしの声が聞こえてきた。",
-            "TextENG": "...I could hear the chirp of the higurashi... spilling in from the open window."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36829,
-            "TextJPN": "カナカナカナカナカナ……。",
-            "TextENG": "Kwee, kwee, kwee, kwee, kwee..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36830,
-            "TextJPN": "ずっと聞こえていたはずだった。@k…特に気にも留めず。",
-            "TextENG": "I should have been able to hear them this entire time...@k I just wasn't paying any attention."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36831,
-            "TextJPN": "どうして今になって急に気になったのか。",
-            "TextENG": "Why did I focus on them all of a sudden?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36832,
-            "TextJPN": "カナカナカナカナカナ……。",
-            "TextENG": "Kwee, kwee, kwee, kwee, kwee..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36833,
-            "TextJPN": "何か、伝えようとしている？",
-            "TextENG": "Were they trying to tell me something?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36834,
-            "TextJPN": "ひぐらしだけが知っている。@k……そんな気がした。",
-            "TextENG": "Only the higurashi knew.@k ...That's how I felt."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36835,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "昭和５８年６月。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "June 1983."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36836,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "鹿骨市の寒村、雛見沢で女子生徒殺人事件が発生した。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "In Hinamizawa, a remote village near Shishibone city, there was a murder involving two female students."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36837,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "容疑者は、雛見沢村在住の少年、前原圭一（報道では少年Ａと記載）。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "The suspect is: Keiichi Maebara (Aged 1x)"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36838,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "容疑者は自宅にクラスメイトの女子２名（竜宮礼奈・園崎魅音）を呼び寄せ、金属バットで撲殺。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "The suspect called over his two female classmates (Rena Ryuugu, Mion Sonozaki) to his house, and beat them to death with a metal bat."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36839,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "犯行現場は自宅２階の容疑者の自室だった。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "The scene of the crime was the suspect's room on the second floor of his house."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36840,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "室内は凄まじい返り血に彩られ、被害者ともみ合った形跡が認められた。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "The inside of the room was covered with a significant quantity of splattered blood, and there were signs of a struggle with the victims."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36841,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "また、犯行現場とは別に、玄関、居間、台所でも荒らされた形跡が認められた。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "In addition to the scene of the crime, the entryway, living room, and kitchen, all had traces of a struggle."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36842,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "玄関では、靴箱と壁に激しい打撲の痕跡。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "At the entryway, the shoe rack and wall had evidence of being impacted by a strong blunt force."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36843,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "凶器のバットによるものと断定。痕跡に血液反応が出なかったことから、犯行以前に破壊したものと推定。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "It is believed to have been the same bat as the murder weapon. Having no traces of blood, it is believed the destruction occurred before the murders."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36844,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "被害者の逃走を阻止するため、容疑者が威圧行為を行なった可能性がある。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "There is the possibility that the suspect overpowered his victims to keep them from fleeing."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36845,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "居間では@bじゅうたん.@<絨毯@>が剥がされ、投げ捨てられていた。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "In the living room, the rug had been pulled back, then thrown aside."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36846,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "これは被害者ともみ合った際のものとは考え難く、その真意は不明。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "It is hard to believe that this had a connection to the struggle with the victims, and thus the reason for this remains unknown."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36847,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "台所ではゴミ袋が破かれ、その中身が床にばら撒かれていた。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "In the kitchen, the garbage bag was torn apart, and its contents were spread out on the floor."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36848,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "ゴミは周囲に飛散し、容疑者のものと思われる手形も発見された。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Garbage was strewn about in the surrounding area, and handprints believed to belong to the suspect were discovered."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36849,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "容疑者は何らかの理由でゴミを出し、それを掌で叩いたものと考えられる。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "It is believed that the suspect had for some reason taken out the garbage and struck it with his fists."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36850,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "その真意は不明。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "The reason for this remains unknown."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36851,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "また、冷蔵庫に貼り付けられていたメモには『針がなかった？』と記されていた。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "In addition, there was a note stuck to the fridge. The words ``Was there a needle?`` were written on it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36852,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "意味不明。念のためゴミを探すが、針は発見できなかった。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "The meaning behind this remains unclear. Just in case, the garbage was searched, but a needle was not discovered."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36853,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "荒らされてはいなかったが、引越し以来、開放したままになっているガレージのシャッターが閉じられていた。シャッターからは容疑者の指紋を検出。その真意は不明。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Though the garage door was functional, it had been left open ever since the suspect moved in. The garage door was found closed. The suspect's fingerprints were discovered on the garage door. The reason behind this remains unknown."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36854,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "容疑者は犯行現場から逃走したが、警邏中の警察官（雛見沢駐在所）が電話ボックス内で倒れているのを発見する。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "The suspect fled the scene of the crime. However, a patrolling officer (Hinamizawa Local PD) found the suspect collapsed inside a phone booth."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36855,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "発見時、容疑者は意識不明の重体。直ちに村内の診療所に搬送し手当てをしたが、意識は戻らず２４時間後に死亡した。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "At the time of discovery, the suspect was unconscious in critical condition. He was rushed to the local hospital for treatment, but did not regain consciousness and died 24 hours later."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36856,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "検死の結果、直接の死因は出血性ショック死。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "The results of the autopsy indicate the immediate cause of death to have been hypovolemic shock."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36857,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "自らの爪で喉を引き裂き、その結果の出血で死に至ったと断定した。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "It was determined that the suspect had clawed at his own throat with his fingernails, and the resulting bleeding caused his death."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36858,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "先週に発生した富竹氏事件の異常な死に方との酷似に、警察は関連性があるものとして捜査を開始する。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "With the similarity to the death of Tomitake-san the prior week, the police believe there to be a connection and have opened an investigation."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36859,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "（ただし、地元からの強い要望により非公開捜査）",
-            "AfterTextTags": "@|@y",
-            "TextENG": "(However, due to the wishes of the local authorities, it will be a confidential investigation.)"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36860,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "異常な死に方に何らかの薬物の使用を疑うが、富竹氏事件と同様に一切検出されない。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Due to the abnormal nature of the death, it was suspected that drugs were involved. But as with Tomitake-san, no traces were discovered."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36861,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "当初はあまりの不可解さに、衝動的な突発的犯行と断定していた。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "What prompted all this remains inexplicable. As such, this case is being treated as an act committed on impulse."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36862,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "だが、容疑者の犯行直前までの奇行が次々と露呈するに従い、その方針は変更されることとなる。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "However, with several accounts of the suspect's bizarre behavior leading up to the incident, it is possible that this was premeditated."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36863,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "親しかったグループとの離縁。孤立。意味不明の言動。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Separated from his group of friends. Isolation. Inexplicable behavior."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36864,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "犯行の数日前からは金属バットを持ち歩くようになっていた。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Several days before the incident, the suspect began carrying around a metal bat."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36865,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "攻撃的な言動、独り言は学校でもしばしば見られ、クラスメイトが実際にその一部を聞いている。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "The suspect was observed displaying aggressive behavior, as well as talking to himself at school. His classmates have actually heard portions of what he was saying."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36866,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "犯行の前々日には、両親に自らの死をほのめかす発言もしていた。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Two days before the incident, the suspect declared to his parents the possibility of his death."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36867,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "警察は、これらの状況から、この事件が突発的なものでなく、数日前から予定された計画的犯行の可能性があるとして捜査を開始する。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Due to these circumstances, the police have begun an investigation on the possibility that this crime was not committed on impulse, but was instead planned several days in advance."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36868,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "その後、容疑者の自室から直筆のメモが発見された。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Afterwards... A note was found in the suspect's room that he had written himself."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36869,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "メモはＢ５の大学ノートを半分に裂いたもの２枚で構成され、まるで隠蔽するかのように、壁時計の裏に貼りつけられていた。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "The note was written on two sheets from a B5 college-ruled notebook that had each been torn in half."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36870,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "メモの内容は別添の通り。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "And as if trying to conceal it was stuck hidden behind a clock on the wall."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36871,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "警察は事件と密接に関係するものとして重視。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "The contents are as written in the appendix."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36872,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "容疑者が、何らかの事件に巻き込まれていた可能性があるとして再び捜査方針を転換した。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "The police believe it to be strongly related to the incident."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36873,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "だが、その後なんの手がかりも掴めず、メモそのものの信憑性も疑われるようになる。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "The police changed their line of investigation based on the possibility that the suspect was involved in some sort of incident himself."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36874,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "この事件は突発的なものなのか、計画的なものなのか。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "However, no further clues were found, casting doubt on the credibility of the note."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36875,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "真相もわからず進展もなく、事件は文字通り迷宮入りの様相となった。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Was the crime impulsive or premeditated? With the situation unclear and no further developments, the case has been labeled as 'Unresolved.'"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36876,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "だが……後年。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "However... the following year..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36877,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "そのメモにひとつの不審点が浮上した。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Suspicion arose regarding the nature of the note."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36878,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "２枚のメモは、Ｂ５のページを半分にしたものが１枚ずつではなく…。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "The note was not written on two halves of B5 paper from two separate sheets... but was originally a single sheet of B5 paper."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36879,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "元はＢ５の１ページに書かれたものを…何者かが、“真ん中の数行を削除するために”破り捨てたのではないか…というのだ。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "In order to erase several lines from the middle, someone had... torn them out."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36880,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "文字の大きさと、破かれた部分から推定して、削除されたのは２～３行。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Judging from the size of the letters, the missing section is estimated to be 2-3 lines."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36881,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "削除した人物は容疑者以外である可能性が高い。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "It is highly probable that the person who eliminated the lines in question is not the suspect."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36882,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "また、時計裏に付着していた大量のテープ跡から、“メモ以外にも何かが貼り付けられていたのではないか”との憶測も出た。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "In addition, judging from traces of large quantities of cellophane tape being stuck to the back of the clock, speculation that something other than the note was stuck there, has arisen."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36883,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "第一発見者は、かねてから事件との関係を噂される疑惑の刑事。大石蔵人。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "The person who first discovered the crime was a detective rumored to have a connection with the incident: Kuraudo Ooishi."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36884,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "任意で事情聴取をしたが、メモの破損については否定する………。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "He underwent voluntary questioning, but denies involvement in any damages to the note."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36885,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "以下が、そのメモの内容である。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "The suspect's note:"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36886,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "私、前原圭一は命を狙われています",
-            "AfterTextTags": "@|@y",
-            "TextENG": "I, Keiichi Maebara, am in fear for my life."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36887,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "なぜ、誰に、命を狙われているのかはわかりません",
-            "AfterTextTags": "@|@y",
-            "TextENG": "I do not know why they are after my life."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36888,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "ただひとつ判る事は、オヤシロさまの祟りと関係があると言う事です。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "The only thing I do know is that it has to do with Oyashiro-sama's curse."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36889,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "レナと魅音は犯人の一味、他にも大人が４～５人以上。白いワゴン車を所有。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Rena and Mion are conspirators of the perpetrators. There are four or five adults, maybe more. They have a white van."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36890,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "（ここまでが１枚目。ここから下は真横に破られている）",
-            "AfterTextTags": "@|@y",
-            "TextENG": "(This is all on the first sheet. The section below this has been ripped out.)"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36891,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "（ここからが２枚目。ここから上が真横に破られている）",
-            "AfterTextTags": "@|@y",
-            "TextENG": "(This is from the second sheet. The section above this has been ripped out.)"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36892,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "どうしてこんなことになったのか、私にはわかりません",
-            "AfterTextTags": "@|@y",
-            "TextENG": "I have no idea why it has become like this."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36893,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "これをあなたが読んだなら、その時、私は死んでいるでしょう。…死体があるか、ないかの違いはあるでしょうが。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "If you are reading this, then I am probably already dead. ...Though you may or may not find my body."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 36894,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "これを読んだあなた。どうか真相を暴いてください。@rそれだけが私の望みです。@r前原圭一",
-            "AfterTextTags": "@|@y",
-            "TextENG": "You, who are reading this. Please uncover the truth. That is my only desire.@rKeiichi Maebara"
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "END",
+		"ENG": "END"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36710,
+		"TextJPN": "喫煙スペースには紫煙が立ち込めていた。",
+		"TextENG": "The smoking room was filled with a cloud of cigarette smoke."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36711,
+		"TextJPN": "高額備品扱いの分煙機も、チリチリという何だか電気のはぜるみたいな音がうるさいだけで、ちっとも役に立っているようには見えない。",
+		"TextENG": "The expensive smoke filter gave off some crackling electric noise, but it didn't seem like it was doing anything at all."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36712,
+		"TextJPN": "どうしてこんな日当たりの悪い廊下の奥に、喫煙家が押し込まれなければならないのか？",
+		"TextENG": "Why do smokers have to be shoved so far down this corridor where the sun didn't even reach?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36713,
+		"TextJPN": "…たばこの税収ってのは確か、自治体の税収の１割くらいはあるって聞いたことがあるような…。",
+		"TextENG": "...I recalled hearing that the tax revenue from tobacco was about a tenth of the municipality's revenue..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36714,
+		"TextJPN": "私たちは地方自治体を支える高額納税者なんですから、もう少しいい待遇にはならんもんですかねぇ…。",
+		"TextENG": "We were the most heavily-taxed members of this municipality, so I really wished they'd show us a little more respect..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36715,
+		"NamesJPN": "熊谷",
+		"PreTextTags": "@vS01/19/123100001.",
+		"TextJPN": "「……うーん、どうしてこれが五萬切りなんすか？@k@vS01/19/123100002.　待ちが狭くなっちゃうっすよ？」",
+		"NamesENG": "Kumagai",
+		"TextENG": "``...Hrm, why would you discard the 5 manzu there?@k@vS01/19/123100002. It's just decreasing your options.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36716,
+		"TextJPN": "後輩の青年が麻雀雑誌の『次の一手』のコーナーとにらめっこをしている。",
+		"TextENG": "One of the younger detectives was having a staring contest with the Mahjong magazine called ``Next Turn.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36717,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS01/11/ooisi_0000.",
+		"TextJPN": "「五萬切ってもテンパイ崩れませんから」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``You're still in tenpai if you cut the 5 manzu.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36718,
+		"NamesJPN": "熊谷",
+		"PreTextTags": "@vS01/19/123100004.",
+		"TextJPN": "「ハイテーに賭けるなら、両面で受けた方がチャンスあるんじゃないすか？」",
+		"NamesENG": "Kumagai",
+		"TextENG": "``If you're betting on a Haitei, then shouldn't you be going into it with a Mangan?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36719,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS01/11/120700516.",
+		"TextJPN": "「熊ちゃん、河を見て下さい。@k@vS01/11/120700517.五萬は全員切ってますから安牌なんですよ。@k@vS01/11/120700518.終盤で形テンに走った誰かがダマで待ってたら嫌でしょ」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Kuma-chan, look at the pond.@k@vS01/11/120700517. They all discarded a 5 manzu. It's a safe tile.@k@vS01/11/120700518. You'd hate if, at end game, someone was sitting on a tenpai on the last turn, wouldn't you?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36720,
+		"TextJPN": "青年はうーんと唸りながら、タバコを捻り、もう一本を取り出す。",
+		"TextENG": "The kid let out another groan, put out his cigarette, then took out another one."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36721,
+		"NamesJPN": "熊谷",
+		"PreTextTags": "@vS01/19/123100005.",
+		"TextJPN": "「…納得いかないっすねぇ…。@k@vS01/19/123100006.わざわざ自分で当たり牌減らすなんて」",
+		"NamesENG": "Kumagai",
+		"TextENG": "``...I just don't agree...@k@vS01/19/123100006. Why would you reduce your own options?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36722,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS01/11/120700519.",
+		"TextJPN": "「ちなみに、ハイテーで当たり牌出してもロンしちゃダメですよ」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``By the way, you can't call ron with your winning tile in that haitei.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36723,
+		"NamesJPN": "熊谷",
+		"PreTextTags": "@vS01/19/123100007.",
+		"TextJPN": "「え？！　どうしてっすか？！」",
+		"NamesENG": "Kumagai",
+		"TextENG": "``What!? Why is that!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36724,
+		"TextJPN": "その時、廊下の向こうから声が聞こえてきた。",
+		"TextENG": "Just then, I heard a voice coming from down the hall."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36725,
+		"NamesJPN": "刑事",
+		"PreTextTags": "@vS01/00/dek02001.",
+		"TextJPN": "「大石さん、いますかー？@k@vS01/00/dek02002.　一般の方から外線でーす」",
+		"NamesENG": "Detective",
+		"TextENG": "``Are you here, Ooishi-san?@k@vS01/00/dek02002. You have a call from a civilian.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36726,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS01/11/120700520.",
+		"TextJPN": "「ありゃ、こりゃどうも。それじゃ、ちょいと失礼！」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Whoa, ain't that something? Welp, see ya soon!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36727,
+		"NamesJPN": "熊谷",
+		"PreTextTags": "@vS01/19/123100008.",
+		"TextJPN": "「ど、どうしてロンしちゃダメなんすかぁ？！@k@vS01/19/123100009.　あ、待ってくださいよ大石さぁん！」",
+		"NamesENG": "Kumagai",
+		"TextENG": "``W-Why can't you call ron on it!?@k@vS01/19/123100009. H-Hold on for a second, Ooishi-san!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36728,
+		"TextJPN": "大石の向かいの席の男が受話器を振っている。",
+		"TextENG": "The man sitting in the seat Ooishi-san was heading towards waved at the telephone receiver."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36729,
+		"NamesJPN": "刑事",
+		"PreTextTags": "@vS01/00/dek02003.",
+		"TextJPN": "「外線です。@k@vS01/00/dek02004.公衆から」",
+		"NamesENG": "Detective",
+		"TextENG": "``Outside line.@k@vS01/00/dek02004. From a payphone.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36730,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS01/11/120700521.",
+		"TextJPN": "「あーどうもすみません！@k@vS01/11/120700522.　……お待たせしました、大石です。@k@vS01/11/120700523.もしもし？」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Oh, why thank you!@k@vS01/11/120700522. ...Sorry to keep you waiting, this is Ooishi.@k@vS01/11/120700523. Who is it?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36731,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS01/01/120100808.",
+		"TextJPN": "「お、大石さんですか？！@k@vS01/01/120100809.　もしもし？！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Ah, Ooishi-san!?@k@vS01/01/120100809. Hello!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36732,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS01/11/120700524.",
+		"TextJPN": "「前原さんじゃありませんか。@k@vS01/11/120700525.どうもどうもこんにちは…！」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``If it isn't Maebara-san.@k@vS01/11/120700525. Why, good evening...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36733,
+		"TextJPN": "前原くんの声色から、すぐに異常事態を察する。",
+		"TextENG": "From the tone Maebara-kun's voice, I already knew he was in a predicament."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36734,
+		"TextJPN": "…前原くんからこちらに電話をかけてくるのは初めて。",
+		"TextENG": "...This was the first time Maebara-kun had phoned me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36735,
+		"TextJPN": "そしてかけてきたのは公衆電話。",
+		"TextENG": "And he was calling from a payphone."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36736,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS01/11/120700526.",
+		"TextJPN": "「落ち着いて下さい。@k@vS01/11/120700527.何がありました？」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Please calm down.@k@vS01/11/120700527. Did something happen?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36737,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS01/01/120100810.",
+		"TextJPN": "「えっと、その、……あぁぁ…ッ！！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Uh, well ...Ahh...!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36738,
+		"TextJPN": "電話口の声は混乱し、完全に冷静さを失っていた。",
+		"TextENG": "His voice was erratic over the line, he had completely lost his sense of composure."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36739,
+		"TextJPN": "他の連中に聞かれないか確認してから、受話器の口元をかばい小声で先を促す。",
+		"TextENG": "After checking that nobody else could hear, I prompted him in a hushed tone."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36740,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS01/11/120700528.",
+		"TextJPN": "「何があったんです？！」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``What happened!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36741,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS01/01/120100811.",
+		"TextJPN": "「あぁぁあぁあの…お、…ぉぉ……俺……、」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``UhhhUhhm... I... I... I...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36742,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS01/11/120700529.",
+		"TextJPN": "「…落ち着いて前原さん！@k@vS01/11/120700530.　今そこに近場の警官を行かせます。@k@vS01/11/120700531.私もすぐそっちに行きますよ！」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``...Calm down, Maebara-san!@k@vS01/11/120700530. I can have the local officers head to your location.@k@vS01/11/120700531. I'll be there soon, too!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36743,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS01/01/120100812.",
+		"TextJPN": "「………あ、その……多分……無理です」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...Ah, um... ...I think that's... impossible.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36744,
+		"TextJPN": "声に怯えと達観…。",
+		"TextENG": "His voice was quivering and hoarse..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36745,
+		"TextJPN": "……まさか、電話をかけながら、すでに何者かに囲まれている？！",
+		"TextENG": "...He wasn't surrounded by people even as he was making this call, was he!?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36746,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS01/11/120700532.",
+		"TextJPN": "「前原さんは今、公衆電話からかけてますよね？@k@vS01/11/120700533.　どこの公衆電話ですか？！」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Maebara-san, you're calling from a payphone right now, right?@k@vS01/11/120700533. Where is that payphone!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36747,
+		"TextJPN": "前原くんの声以外の環境音がまったくない。",
+		"TextENG": "There were no other sounds besides Maebara-kun's voice."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36748,
+		"TextJPN": "電話ボックスからか。",
+		"TextENG": "It had to be a phone booth."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36749,
+		"TextJPN": "メモに殴り書きをし、対面の同僚に突きつける。",
+		"TextENG": "I scratched out a note and thrust it at my colleague sitting across from me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36750,
+		"TextJPN": "（ヒナミザワ、デンワボックス！！）",
+		"TextENG": "(Hinamizawa, phone booth!!)"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36751,
+		"TextJPN": "同僚がすぐに事態を呑み込み、慌しく内線を回す。",
+		"TextENG": "He understood quickly and hastily started on the internal lines."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36752,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS01/11/120700534.",
+		"TextJPN": "「…落ち着いて前原さん！@k@vS01/11/120700535.　今はどういう状況なんです…？！」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``...Calm down, Maebara-san!@k@vS01/11/120700535. What is your current situation...!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36753,
+		"TextJPN": "混乱した相手に余計あおるような言い方はよくないのだが…、今回はそういうケースじゃない。",
+		"TextENG": "It was best practice to avoid flustering someone panicking... but this was an urgent case."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36754,
+		"TextJPN": "…前原くんは危機に襲われ、逃げて電話をかけてるんじゃない。",
+		"TextENG": "...Maebara-kun didn't just get in trouble, get away, and then call me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36755,
+		"TextJPN": "……今この瞬間も何らかの危機にさらされている…！",
+		"TextENG": "...He was in the midst of something dangerous right now...!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36756,
+		"TextJPN": "だが…こっちがまくしたてたって、前原くんは余計に焦るだけなのだ。",
+		"TextENG": "But... yelling at Maebara-kun right now would just needlessly cause him to be even more frantic."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36757,
+		"TextJPN": "前原くんは助けを求めるためだけに電話をしてきたんじゃない。",
+		"TextENG": "Maebara-kun wasn't just calling to seek help."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36758,
+		"TextJPN": "…それ以上の何かを伝えたくて電話をしてきてるのだ。",
+		"TextENG": "...He was trying to tell us something more than that."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36759,
+		"TextJPN": "そしてその何かは、@k……この電話の機会を逃すと、もう二度と伝えられないという確信に基づいている…！",
+		"TextENG": "And whatever that was...@k If I didn't get it from this call, I was certain there would never be another chance...!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36760,
+		"TextJPN": "同僚がメモを回してきた。",
+		"TextENG": "My colleague pushed a note in front of me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36761,
+		"TextJPN": "（雛見沢にボックスは１ヶ所。@kパトを向かわせました。@k５分です）",
+		"TextENG": "(There's only one booth in Hinamizawa.@k A patrol car is on the way.@k Five minutes.)"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36762,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS01/11/120700536.",
+		"TextJPN": "「かかり過ぎです。@k@vS01/11/120700537.警邏には何人乗ってます？」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``That's too long.@k@vS01/11/120700537. How many officers are in there?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36763,
+		"NamesJPN": "刑事",
+		"PreTextTags": "@vS01/00/dek02005.",
+		"TextJPN": "「２人です」",
+		"NamesENG": "Detective",
+		"TextENG": "``Two.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36764,
+		"TextJPN": "足りない。",
+		"TextENG": "Not enough."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36765,
+		"TextJPN": "……もしも私の想像通りなら…前原くんは多人数に囲まれている。",
+		"TextENG": "...If it was as I imagined... there were likely quite a few people surrounding Maebara-kun."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36766,
+		"TextJPN": "それに５分じゃ遅すぎる！",
+		"TextENG": "Five minutes was too long!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36767,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS01/11/120700538.",
+		"TextJPN": "「雛見沢の駐在さんには電話しました？！」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Did you call the officer stationed in Hinamizawa!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36768,
+		"NamesJPN": "刑事",
+		"PreTextTags": "@vS01/00/dek02006.",
+		"TextJPN": "「定時巡回の時間です。@k@vS01/00/dek02007.家人は留守で連絡不能」",
+		"NamesENG": "Detective",
+		"TextENG": "``He's scheduled to be on patrol.@k@vS01/00/dek02007. They're currently out, and it'll be impossible to contact them.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36769,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS01/11/120700539.",
+		"TextJPN": "「くそッ！！@k@vS01/11/120700540.　熊ちゃん、車を回して下さい」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``God damn!@k@vS01/11/120700540. Kuma-chan, bring the car around.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36770,
+		"NamesJPN": "熊谷",
+		"PreTextTags": "@vS01/19/123100010.",
+		"TextJPN": "「了解っす！！！」",
+		"NamesENG": "Kumagai",
+		"TextENG": "``Understood!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36771,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS01/01/120100813.",
+		"TextJPN": "「…もしもし？@k@vS01/01/120100814.　大石さん…？@k@vS01/01/120100815.　ごほっごぼッ！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...Hello?@k@vS01/01/120100814. Ooishi-san...?@k@vS01/01/120100815. *Cough cough*!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36772,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS01/11/120700541.",
+		"TextJPN": "「もしもし！@k@vS01/11/120700542.　大丈夫です。@k@vS01/11/120700543.ちゃんと聞こえてますよ！」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Hello!@k@vS01/11/120700542. It's all right.@k@vS01/11/120700543. I can hear you loud and clear!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36773,
+		"TextJPN": "前原くんの様子がおかしい…。",
+		"TextENG": "There was something wrong with Maebara-kun..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36774,
+		"TextJPN": "今の咳の音は普通じゃない。",
+		"TextENG": "That wasn't a normal coughing sound."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36775,
+		"TextJPN": "……嘔吐？",
+		"TextENG": "...Vomiting?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36776,
+		"TextJPN": "それともまさか…血？！",
+		"TextENG": "Or was it... blood!?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36777,
+		"TextJPN": "すでに襲われ負傷している？！",
+		"TextENG": "Had he already been attacked!? Was he injured!?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36778,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS01/11/120700544.",
+		"TextJPN": "「前原さん、今そこに警官が向かってます。@k@vS01/11/120700545.２～３分で到着しますから何とか持ちこたえて下さい！@k@vS01/11/120700546.　もしもし？！@k@vS01/11/120700547.　聞こえてますか？！@k@vS01/11/120700548.　前原さん？！」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Maebara-san, the police are on their way.@k@vS01/11/120700545. They'll be there in a couple of minutes, so hold on somehow!@k@vS01/11/120700546. Hello!?@k@vS01/11/120700547. Can you hear me!?@k@vS01/11/120700548. Maebara-san!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36779,
+		"TextJPN": "受話器の向こうで咳き込むのが聞こえた。",
+		"TextENG": "I could hear on the other end of the line that he was having a coughing fit."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36780,
+		"TextJPN": "……脳裏に最悪の予感が過ぎる。",
+		"TextENG": "...The worst possible situation popped into my head."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36781,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS01/11/120700549.",
+		"TextJPN": "「前原さん！！@k@vS01/11/120700550.　犯人は誰です？！@k@vS01/11/120700551.　何人なんですッ？！」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Maebara-san!!@k@vS01/11/120700550. Who is the culprit!?@k@vS01/11/120700551. How many are there!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36782,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS01/01/120100816.",
+		"TextJPN": "「……お、…俺も……最初はニンゲンが犯人なんだと思いまし……げぼッ！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...I... I thought... at first the culprit was human... *hack*!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36783,
+		"TextJPN": "咳とも嘔吐ともつかない呻き。",
+		"TextENG": "I couldn't tell if that was a cough or vomiting."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36784,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS01/11/120700552.",
+		"TextJPN": "「大丈夫ですか！！　前原さん！！」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Are you all right!? Maebara-san!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36785,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS01/01/120100817.",
+		"TextJPN": "「犯人はニンゲンなんだって、オヤシロさまの祟りなんかないんだって、そう思ってました…。@k@vS01/01/120100818.ついさっきまで。@k@vS01/01/120100819.……だけど……やっぱり…、げほげほ…ッ！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``I thought that the culprit was a person and not Oyashiro-sama's curse...@k@vS01/01/120100818. Up until right now.@k@vS01/01/120100819. But... ...I guess... in the end... *hack hack*...!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36786,
+		"TextJPN": "激しい咳。@kそれに続いて嘔吐。",
+		"TextENG": "It was an intense bout of coughing.@k Then vomiting."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36787,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS01/01/120100820.",
+		"TextJPN": "「……でも…やっぱり…オヤシロさまってのは……いるんだと思います……。@k@vS01/01/120100821.いや、います。@k@vS01/01/120100822.今」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...But... I guess... Oyashiro-sama does exist...@k@vS01/01/120100821. No, he's...@k@vS01/01/120100822. here.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36788,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS01/11/120700553.",
+		"TextJPN": "「前原さん、どうか、どうか落ち着いて…、」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Maebara-san, please, just please calm down...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36789,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS01/01/120100823.",
+		"TextJPN": "「なんかさっきからおかしいと思ってたんです…。@k@vS01/01/120100824.ずーっとつけてくるんですよ…！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``I had been thinking it was strange for a while now...@k@vS01/01/120100824. It's been following me this whole time...!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36790,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS01/01/120100825.",
+		"TextJPN": "「走っても走っても、走っても走っても…！！！@k@vS01/01/120100826.　影みたいにぴったりくっついて！！@k@vS01/01/120100827.　だけども少しずつ…少しずつ…。@k@vS01/01/120100828.俺の背中ににじり寄ってくるんです……」",
+		"NamesENG": "Keiichi",
+		"TextENG": "I run and run and run and run...!!!@k@vS01/01/120100826. But it just sticks to me like my shadow!!@k@vS01/01/120100827. But slowly... so slowly...@k@vS01/01/120100828. It's digging itself into my back...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36791,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS01/11/120700554.",
+		"TextJPN": "「……前原さん、…そいつは………今、ひょっとして…、………前原さんの…後ろに？」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``...Maebara-san... Are they... right now... perhaps... right behind you...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36792,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS01/01/120100829.",
+		"TextJPN": "「……………後ろに。@k@vS01/01/120100830.……すぐ、……後ろに………」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...Behind me.@k@vS01/01/120100830. Right... behind me...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36793,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS01/11/120700555.",
+		"TextJPN": "「お願いです前原さん。@k@vS01/11/120700556.……怖いのはわかります。@k@vS01/11/120700557.ですがお願いです！！@k@vS01/11/120700558.　……あなたの後ろに……誰がいるんですッ？！」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Please, Maebara-san...@k@vS01/11/120700556. I can tell you're scared.@k@vS01/11/120700557. But please!!@k@vS01/11/120700558. ...Who is it... that's right behind you!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36794,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS01/01/120100831.",
+		"TextJPN": "「振り向けるわけ…ないじゃないですか…。@k@vS01/01/120100832.振り向いたら……俺……俺…、」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``I can't just... look behind me...@k@vS01/01/120100832. If I do... I'll... I'll...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36795,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS01/11/120700559.",
+		"TextJPN": "「怖いのはわかります！！@k@vS01/11/120700560.　でも教えて欲しい！！@k@vS01/11/120700561.　ちょっと振り返るだけでいいんです！！@k@vS01/11/120700562.　前原さんの後ろに……誰がいるんですッ？！？！」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``I understand that you're scared!!@k@vS01/11/120700560. But please tell me!!@k@vS01/11/120700561. You just need to turn around a bit!!@k@vS01/11/120700562. Who is it...? Who is behind you, Maebara-san!?!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36796,
+		"TextJPN": "直後に激しい嘔吐が聞こえる。@kそれから何か嫌な音。",
+		"TextENG": "Right after I said that, I could hear him vomiting intensely.@k What followed was a nightmarish sound."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36797,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS01/11/120700563.",
+		"TextJPN": "「…前原さん、@k@vS01/11/120700564.……あんたまさか、@k@vS01/11/120700565.…喉を引っ掻いてたりは…しないでしょうね…？」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``...Maebara-san...@k@vS01/11/120700564. It couldn't be that you're...@k@vS01/11/120700565. clawing out... your own throat...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36798,
+		"TextJPN": "返事はない。",
+		"TextENG": "There was no answer."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36799,
+		"TextJPN": "…ばりばりと…掻き毟るような音……。",
+		"TextENG": "But... I could hear something like scratching..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36800,
+		"TextJPN": "ガタンガシャン！　とぶつかり合う音がした。",
+		"TextENG": "There was a bang, as if something was being hit!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36801,
+		"TextJPN": "…前原くんが受話器を落としたのだろう。",
+		"TextENG": "...Maebara-kun had probably dropped the receiver."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36802,
+		"TextJPN": "電話の向こうからは唸りと嘔吐、そして繰り返される……異音。",
+		"TextENG": "I could hear groaning and vomiting over on the other end, and a repeating... abnormal noise."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36803,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS01/11/120700566.",
+		"TextJPN": "「もしもし！@k@vS01/11/120700567.　もしもし？！@k@vS01/11/120700568.　前原さん？！@k@vS01/11/120700569.　もしもーしッ？！？！」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Hello?@k@vS01/11/120700567. Hello!?@k@vS01/11/120700568. Maebara-san!?@k@vS01/11/120700569. Helloooo!?!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36804,
+		"TextJPN": "離された受話器の声がどんなに遠いかよくわかってる。",
+		"TextENG": "I knew how far away my voice would sound on the other end."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36805,
+		"TextJPN": "でも…叫ばずにはいられないのだ。",
+		"TextENG": "But... I couldn't help but shout."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36806,
+		"TextJPN": "その時、受話器の向こうから…つぶやきが聞こえた。",
+		"TextENG": "At that moment, I heard whispering... coming from the other end."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36807,
+		"TextJPN": "何を言っているのかはわからない。",
+		"TextENG": "I couldn't tell what he was saying."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36808,
+		"TextJPN": "……口調からして…独り言？",
+		"TextENG": "...From the way he was saying it, was he... talking to himself?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36809,
+		"TextJPN": "それとも…そこにいる誰かに言っているのか？",
+		"TextENG": "Or was he... talking to someone there?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36810,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS01/11/120700570.",
+		"TextJPN": "「もしもし…？@k@vS01/11/120700571.　………………………前原…さん…？」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Hello...?@k@vS01/11/120700571. ...Maebara...san...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36811,
+		"TextJPN": "それはつぶやきというより……お経みたいな、単調な何かの繰り返しだった。",
+		"TextENG": "Rather than whispering... it was some kind of mantra he was chanting over and over."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36812,
+		"TextJPN": "その何かを聞き取ろうと…神経を研ぎ澄ます…。",
+		"TextENG": "I focused my senses... trying to pick up what he was saying..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36813,
+		"TextJPN": "何を繰り返してるんだ彼は……。",
+		"TextENG": "What was he repeating...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36814,
+		"TextJPN": "一体……何を………！！！",
+		"TextENG": "What... exactly...!?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36815,
+		"TextJPN": "ぶつん！",
+		"TextENG": "Beep!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36816,
+		"TextJPN": "あまりに唐突に切れた。@k……１０円が切れたのか？！",
+		"TextENG": "Suddenly, the line went dead.@k Did he use up his time...!?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36817,
+		"TextJPN": "公衆電話だったから…！！",
+		"TextENG": "It was because it was a payphone...!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36818,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS01/11/120700572.",
+		"TextJPN": "「…………あ」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``...Ah.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36819,
+		"TextJPN": "唐突に切られたから。",
+		"TextENG": "It was because it cut out so abruptly..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36820,
+		"TextJPN": "…むしろ最後の一言は鮮明に脳裏に戻った。",
+		"TextENG": "The last thing he said came out so clearly in my mind."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36821,
+		"NamesJPN": "熊谷",
+		"PreTextTags": "@vS01/19/123100011.",
+		"TextJPN": "「大石さん、車はＯＫっす！！！@k@vS01/19/123100012.　大石さん…？！」",
+		"NamesENG": "Kumagai",
+		"TextENG": "``Ooishi-san, the car is good to go!!!@k@vS01/19/123100012. Ooishi-san...!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36822,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS01/11/120700573.",
+		"TextJPN": "「……ごめんなさい、だ」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``...It was... I'm sorry.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36823,
+		"NamesJPN": "熊谷",
+		"PreTextTags": "@vS01/19/123100013.",
+		"TextJPN": "「大石さん……？？」",
+		"NamesENG": "Kumagai",
+		"TextENG": "``Ooishi-san...??``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36824,
+		"TextJPN": "前原くんはずっと繰り返してたんだ。",
+		"TextENG": "That's what he was repeating over and over."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36825,
+		"TextJPN": "…ごめんなさい、って………。",
+		"TextENG": "...He said, ``I'm sorry``..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36826,
+		"TextJPN": "その時、直感した。",
+		"TextENG": "I had a gut feeling..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36827,
+		"TextJPN": "…………もう、そんなに急ぐことがないことに。",
+		"TextENG": "There was no longer a need to hurry."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36828,
+		"TextJPN": "……その時、開け放たれた窓の向こうから…ひぐらしの声が聞こえてきた。",
+		"TextENG": "...I could hear the chirp of the higurashi... spilling in from the open window."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36829,
+		"TextJPN": "カナカナカナカナカナ……。",
+		"TextENG": "Kwee, kwee, kwee, kwee, kwee..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36830,
+		"TextJPN": "ずっと聞こえていたはずだった。@k…特に気にも留めず。",
+		"TextENG": "I should have been able to hear them this entire time...@k I just wasn't paying any attention."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36831,
+		"TextJPN": "どうして今になって急に気になったのか。",
+		"TextENG": "Why did I focus on them all of a sudden?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36832,
+		"TextJPN": "カナカナカナカナカナ……。",
+		"TextENG": "Kwee, kwee, kwee, kwee, kwee..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36833,
+		"TextJPN": "何か、伝えようとしている？",
+		"TextENG": "Were they trying to tell me something?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36834,
+		"TextJPN": "ひぐらしだけが知っている。@k……そんな気がした。",
+		"TextENG": "Only the higurashi knew.@k ...That's how I felt."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36835,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "昭和５８年６月。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "June 1983."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36836,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "鹿骨市の寒村、雛見沢で女子生徒殺人事件が発生した。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "In Hinamizawa, a remote village near Shishibone city, there was a murder involving two female students."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36837,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "容疑者は、雛見沢村在住の少年、前原圭一（報道では少年Ａと記載）。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "The suspect is: Keiichi Maebara (Aged 1x)"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36838,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "容疑者は自宅にクラスメイトの女子２名（竜宮礼奈・園崎魅音）を呼び寄せ、金属バットで撲殺。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "The suspect called over his two female classmates (Rena Ryuugu, Mion Sonozaki) to his house, and beat them to death with a metal bat."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36839,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "犯行現場は自宅２階の容疑者の自室だった。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "The scene of the crime was the suspect's room on the second floor of his house."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36840,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "室内は凄まじい返り血に彩られ、被害者ともみ合った形跡が認められた。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "The inside of the room was covered with a significant quantity of splattered blood, and there were signs of a struggle with the victims."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36841,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "また、犯行現場とは別に、玄関、居間、台所でも荒らされた形跡が認められた。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "In addition to the scene of the crime, the entryway, living room, and kitchen, all had traces of a struggle."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36842,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "玄関では、靴箱と壁に激しい打撲の痕跡。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "At the entryway, the shoe rack and wall had evidence of being impacted by a strong blunt force."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36843,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "凶器のバットによるものと断定。痕跡に血液反応が出なかったことから、犯行以前に破壊したものと推定。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "It is believed to have been the same bat as the murder weapon. Having no traces of blood, it is believed the destruction occurred before the murders."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36844,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "被害者の逃走を阻止するため、容疑者が威圧行為を行なった可能性がある。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "There is the possibility that the suspect overpowered his victims to keep them from fleeing."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36845,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "居間では@bじゅうたん.@<絨毯@>が剥がされ、投げ捨てられていた。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "In the living room, the rug had been pulled back, then thrown aside."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36846,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "これは被害者ともみ合った際のものとは考え難く、その真意は不明。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "It is hard to believe that this had a connection to the struggle with the victims, and thus the reason for this remains unknown."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36847,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "台所ではゴミ袋が破かれ、その中身が床にばら撒かれていた。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "In the kitchen, the garbage bag was torn apart, and its contents were spread out on the floor."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36848,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "ゴミは周囲に飛散し、容疑者のものと思われる手形も発見された。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Garbage was strewn about in the surrounding area, and handprints believed to belong to the suspect were discovered."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36849,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "容疑者は何らかの理由でゴミを出し、それを掌で叩いたものと考えられる。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "It is believed that the suspect had for some reason taken out the garbage and struck it with his fists."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36850,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "その真意は不明。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "The reason for this remains unknown."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36851,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "また、冷蔵庫に貼り付けられていたメモには『針がなかった？』と記されていた。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "In addition, there was a note stuck to the fridge. The words ``Was there a needle?`` were written on it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36852,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "意味不明。念のためゴミを探すが、針は発見できなかった。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "The meaning behind this remains unclear. Just in case, the garbage was searched, but a needle was not discovered."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36853,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "荒らされてはいなかったが、引越し以来、開放したままになっているガレージのシャッターが閉じられていた。シャッターからは容疑者の指紋を検出。その真意は不明。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Though the garage door was functional, it had been left open ever since the suspect moved in. The garage door was found closed. The suspect's fingerprints were discovered on the garage door. The reason behind this remains unknown."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36854,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "容疑者は犯行現場から逃走したが、警邏中の警察官（雛見沢駐在所）が電話ボックス内で倒れているのを発見する。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "The suspect fled the scene of the crime. However, a patrolling officer (Hinamizawa Local PD) found the suspect collapsed inside a phone booth."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36855,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "発見時、容疑者は意識不明の重体。直ちに村内の診療所に搬送し手当てをしたが、意識は戻らず２４時間後に死亡した。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "At the time of discovery, the suspect was unconscious in critical condition. He was rushed to the local hospital for treatment, but did not regain consciousness and died 24 hours later."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36856,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "検死の結果、直接の死因は出血性ショック死。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "The results of the autopsy indicate the immediate cause of death to have been hypovolemic shock."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36857,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "自らの爪で喉を引き裂き、その結果の出血で死に至ったと断定した。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "It was determined that the suspect had clawed at his own throat with his fingernails, and the resulting bleeding caused his death."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36858,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "先週に発生した富竹氏事件の異常な死に方との酷似に、警察は関連性があるものとして捜査を開始する。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "With the similarity to the death of Tomitake-san the prior week, the police believe there to be a connection and have opened an investigation."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36859,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "（ただし、地元からの強い要望により非公開捜査）",
+		"AfterTextTags": "@|@y",
+		"TextENG": "(However, due to the wishes of the local authorities, it will be a confidential investigation.)"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36860,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "異常な死に方に何らかの薬物の使用を疑うが、富竹氏事件と同様に一切検出されない。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Due to the abnormal nature of the death, it was suspected that drugs were involved. But as with Tomitake-san, no traces were discovered."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36861,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "当初はあまりの不可解さに、衝動的な突発的犯行と断定していた。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "What prompted all this remains inexplicable. As such, this case is being treated as an act committed on impulse."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36862,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "だが、容疑者の犯行直前までの奇行が次々と露呈するに従い、その方針は変更されることとなる。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "However, with several accounts of the suspect's bizarre behavior leading up to the incident, it is possible that this was premeditated."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36863,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "親しかったグループとの離縁。孤立。意味不明の言動。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Separated from his group of friends. Isolation. Inexplicable behavior."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36864,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "犯行の数日前からは金属バットを持ち歩くようになっていた。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Several days before the incident, the suspect began carrying around a metal bat."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36865,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "攻撃的な言動、独り言は学校でもしばしば見られ、クラスメイトが実際にその一部を聞いている。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "The suspect was observed displaying aggressive behavior, as well as talking to himself at school. His classmates have actually heard portions of what he was saying."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36866,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "犯行の前々日には、両親に自らの死をほのめかす発言もしていた。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Two days before the incident, the suspect declared to his parents the possibility of his death."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36867,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "警察は、これらの状況から、この事件が突発的なものでなく、数日前から予定された計画的犯行の可能性があるとして捜査を開始する。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Due to these circumstances, the police have begun an investigation on the possibility that this crime was not committed on impulse, but was instead planned several days in advance."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36868,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "その後、容疑者の自室から直筆のメモが発見された。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Afterwards... A note was found in the suspect's room that he had written himself."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36869,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "メモはＢ５の大学ノートを半分に裂いたもの２枚で構成され、まるで隠蔽するかのように、壁時計の裏に貼りつけられていた。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "The note was written on two sheets from a B5 college-ruled notebook that had each been torn in half."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36870,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "メモの内容は別添の通り。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "And as if trying to conceal it was stuck hidden behind a clock on the wall."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36871,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "警察は事件と密接に関係するものとして重視。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "The contents are as written in the appendix."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36872,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "容疑者が、何らかの事件に巻き込まれていた可能性があるとして再び捜査方針を転換した。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "The police believe it to be strongly related to the incident."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36873,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "だが、その後なんの手がかりも掴めず、メモそのものの信憑性も疑われるようになる。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "The police changed their line of investigation based on the possibility that the suspect was involved in some sort of incident himself."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36874,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "この事件は突発的なものなのか、計画的なものなのか。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "However, no further clues were found, casting doubt on the credibility of the note."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36875,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "真相もわからず進展もなく、事件は文字通り迷宮入りの様相となった。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Was the crime impulsive or premeditated? With the situation unclear and no further developments, the case has been labeled as 'Unresolved.'"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36876,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "だが……後年。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "However... the following year..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36877,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "そのメモにひとつの不審点が浮上した。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Suspicion arose regarding the nature of the note."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36878,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "２枚のメモは、Ｂ５のページを半分にしたものが１枚ずつではなく…。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "The note was not written on two halves of B5 paper from two separate sheets... but was originally a single sheet of B5 paper."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36879,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "元はＢ５の１ページに書かれたものを…何者かが、“真ん中の数行を削除するために”破り捨てたのではないか…というのだ。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "In order to erase several lines from the middle, someone had... torn them out."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36880,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "文字の大きさと、破かれた部分から推定して、削除されたのは２～３行。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Judging from the size of the letters, the missing section is estimated to be 2-3 lines."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36881,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "削除した人物は容疑者以外である可能性が高い。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "It is highly probable that the person who eliminated the lines in question is not the suspect."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36882,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "また、時計裏に付着していた大量のテープ跡から、“メモ以外にも何かが貼り付けられていたのではないか”との憶測も出た。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "In addition, judging from traces of large quantities of cellophane tape being stuck to the back of the clock, speculation that something other than the note was stuck there, has arisen."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36883,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "第一発見者は、かねてから事件との関係を噂される疑惑の刑事。大石蔵人。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "The person who first discovered the crime was a detective rumored to have a connection with the incident: Kuraudo Ooishi."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36884,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "任意で事情聴取をしたが、メモの破損については否定する………。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "He underwent voluntary questioning, but denies involvement in any damages to the note."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36885,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "以下が、そのメモの内容である。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "The suspect's note:"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36886,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "私、前原圭一は命を狙われています",
+		"AfterTextTags": "@|@y",
+		"TextENG": "I, Keiichi Maebara, am in fear for my life."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36887,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "なぜ、誰に、命を狙われているのかはわかりません",
+		"AfterTextTags": "@|@y",
+		"TextENG": "I do not know why they are after my life."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36888,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "ただひとつ判る事は、オヤシロさまの祟りと関係があると言う事です。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "The only thing I do know is that it has to do with Oyashiro-sama's curse."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36889,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "レナと魅音は犯人の一味、他にも大人が４～５人以上。白いワゴン車を所有。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Rena and Mion are conspirators of the perpetrators. There are four or five adults, maybe more. They have a white van."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36890,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "（ここまでが１枚目。ここから下は真横に破られている）",
+		"AfterTextTags": "@|@y",
+		"TextENG": "(This is all on the first sheet. The section below this has been ripped out.)"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36891,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "（ここからが２枚目。ここから上が真横に破られている）",
+		"AfterTextTags": "@|@y",
+		"TextENG": "(This is from the second sheet. The section above this has been ripped out.)"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36892,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "どうしてこんなことになったのか、私にはわかりません",
+		"AfterTextTags": "@|@y",
+		"TextENG": "I have no idea why it has become like this."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36893,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "これをあなたが読んだなら、その時、私は死んでいるでしょう。…死体があるか、ないかの違いはあるでしょうが。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "If you are reading this, then I am probably already dead. ...Though you may or may not find my body."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 36894,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "これを読んだあなた。どうか真相を暴いてください。@rそれだけが私の望みです。@r前原圭一",
+		"AfterTextTags": "@|@y",
+		"TextENG": "You, who are reading this. Please uncover the truth. That is my only desire.@rKeiichi Maebara"
+	}
+]

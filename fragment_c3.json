@@ -1,874 +1,872 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "C3 女王への協力依頼",
-            "ENG": "C3 Request for Cooperation From a Queen"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4907,
-            "TextJPN": "その夜。",
-            "TextENG": "That very night."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4908,
-            "TextJPN": "古手家頭首である神主は、家族会議があるといって妻と梨花を和室に集めた。",
-            "TextENG": "The head of the Furude family, the priest, gathered his wife and Rika together for a family meeting."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4909,
-            "TextJPN": "御三家が集まり、村について合議するのが雛見沢の伝統だ。",
-            "TextENG": "In Hinamizawa, it was tradition for the Three Families to gather and discuss the village's issues."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4910,
-            "TextJPN": "それに伴い、園崎家や公由家のような大所帯なら、意見調整のために予め親族会議や家族会議をすることもありえるだろう。",
-            "TextENG": "So it was hardly unusual for big families like the Sonozaki family and the Kimiyoshi family to have meetings beforehand to sort out opinions among themselves."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4911,
-            "TextJPN": "…だが、古手家は分家筋が途絶え、今や本家の一家族３人しかいない。",
-            "TextENG": "...However, the Furude family had lost its branch families, so there were only three of them left."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4912,
-            "TextJPN": "だからこれまで一度も、家族会議なるものを開いたことはなかった。",
-            "TextENG": "So until that day, they had never had a family meeting at all."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4913,
-            "NamesJPN": "梨花の母",
-            "PreTextTags": "@vS20/00/VTK1_rikaM1033.",
-            "TextJPN": "「どうしたんですか、改まって。@k@vS20/00/VTK1_rikaM1034.…ひょっとして、ダムに関わるお話ですか？」",
-            "NamesENG": "Rika's mom",
-            "TextENG": "``What is it? You're being so formal.@k@vS20/00/VTK1_rikaM1034. Is it about the dam construction?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4914,
-            "TextJPN": "今この村で一番重要な問題はダム問題しかない。",
-            "TextENG": "The dam was the most important issue in the village at the moment."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4915,
-            "TextJPN": "妻は神主が切り出そうとしている話は、それに絡むものに違いないと思った。",
-            "TextENG": "The wife naturally assumed the priest wanted to talk about the dam."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4916,
-            "TextJPN": "…そして、家族を集めてまで話すのだから、きっとそれは大きな決意を伴うもの。",
-            "TextENG": "For him to gather all of them together like that, it must be a huge decision he had to make."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4917,
-            "TextJPN": "…たとえば、立ち退きに応じるとか、そういう話になるだろうと思っていた。",
-            "TextENG": "Perhaps he was going to talk about joining the pro-evacuation camp."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4918,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1024.",
-            "TextJPN": "「…いや、ダムの話ではない。@k@vS20/00/VTK1_rikaF1025.……だがこの村に関わる、いや、この村のご先祖さまたちにも関わるとてもとても大事な問題だ」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "``......No, it's not about the dam...@k@vS20/00/VTK1_rikaF1025. But it's about something extremely important which concerns this village, and perhaps all the ancestors of the villagers too.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4919,
-            "TextJPN": "古手家は代々、神職にあり、村の守り神であるオヤシロさまを祀ってきた。",
-            "TextENG": "The Furude family had served in the priesthood of Oyashiro-sama, the guardian deity of the village, for generations."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4920,
-            "TextJPN": "…その頭首がこう切り出すのだから、それはよっぽどの話に違いなかった。",
-            "TextENG": "So for him, the head of the family, to start out that way, it must be something extremely important."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4921,
-            "TextJPN": "にもかかわらず、ダムの話ではないというなら、一体何の話なのか…。",
-            "TextENG": "Yet, he said it wasn't about the dam. So what could he want to talk about?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4922,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1026.",
-            "TextJPN": "「…私は入り婿だ。@k@vS20/00/VTK1_rikaF1027.だから、古手家の本当の血を受け継ぐ、お前と梨花にはよく聞いてほしい。@k@vS20/00/VTK1_rikaF1028.………お前たちは普通の人間ではないのだ」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "``I married into this family,@k@vS20/00/VTK1_rikaF1027. so I want you and Rika, who carry the true blood of the Furude family, to listen very carefully.@k@vS20/00/VTK1_rikaF1028. .........You two aren't normal human beings.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4923,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/VTK1_rika1049.",
-            "TextJPN": "「…ボクはオヤシロさまの生まれ変わりなのですよ？」",
-            "NamesENG": "Rika",
-            "TextENG": "``......I'm the reincarnation of Oyashiro-sama, right?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4924,
-            "NamesJPN": "梨花の母",
-            "PreTextTags": "@vS20/00/VTK1_rikaM1035.",
-            "TextJPN": "「梨花、そういうのは口にしてはいけません！@k@vS20/00/VTK1_rikaM1036.　…あなた、そういう話は梨花のいないところでしましょう。@k@vS20/00/VTK1_rikaM1037.それでなくっても集会所のお年寄りたちが梨花に妙なことばかり吹き込んで、」",
-            "NamesENG": "Rika's mom",
-            "TextENG": "``Rika, you shouldn't say such things!@k@vS20/00/VTK1_rikaM1036. Dear, let's talk about things like that without her.@k@vS20/00/VTK1_rikaM1037. She's heard enough nonsense from the elderly people at the village hall already.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4925,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1029.",
-            "TextJPN": "「その、オヤシロさまの生まれ変わりというのが、…どうも本当らしいのだ」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "``What she just said, about her being the reincarnation of Oyashiro-sama... That appears to be true.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4926,
-            "NamesJPN": "梨花の母",
-            "PreTextTags": "@vS20/00/VTK1_rikaM1038.",
-            "TextJPN": "「はぁ…？！」",
-            "NamesENG": "Rika's mom",
-            "TextENG": "``What...?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4927,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1030.",
-            "TextJPN": "「…少し長い話になる。@k@vS20/00/VTK1_rikaF1031.二人ともしばらく黙って私の話を聞きなさい」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "``...It's a rather long story.@k@vS20/00/VTK1_rikaF1031. Please, just sit tight and listen to me.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4928,
-            "TextJPN": "妻は何の話が始まるのかと怪訝な表情を浮かべていたが、梨花はいつものきょとんとした表情で、まったく平静だった。",
-            "TextENG": "The wife had a dumbfounded expression on her face, not knowing what he was going to say, but Rika was completely relaxed, wearing her usual carefree expression."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4929,
-            "TextJPN": "神主は、妻が落ち着きを取り戻すまで待った後、語り始めた…。",
-            "TextENG": "The priest started to talk after his wife calmed down."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4930,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1032.",
-            "TextJPN": "「この村には、大昔からある病気があるのだ。@k@vS20/00/VTK1_rikaF1033.…それはこの地にだけある特別な病気、風土病というものらしい。@k@vS20/00/VTK1_rikaF1034.…それには、この村に住むものが全員かかっている」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "``There is a disease in this village that has been here for many years.@k@vS20/00/VTK1_rikaF1033. It's a special disease which only exists here in this area.@k@vS20/00/VTK1_rikaF1034. Everyone who lives in this village has the disease."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4931,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1035.",
-            "TextJPN": "「今、この村に住んでいる者だけではない。@k@vS20/00/VTK1_rikaF1036.大昔から住んでいたご先祖さまたちも、みんなみんな、ずーっとこの病気にかかってきたのだ」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "Not only the people who live here now,@k@vS20/00/VTK1_rikaF1036. but all the people who ever lived here had the disease.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4932,
-            "NamesJPN": "梨花の母",
-            "PreTextTags": "@vS20/00/VTK1_rikaM1039.",
-            "TextJPN": "「そんな…。@k@vS20/00/VTK1_rikaM1040.だって、私たちはみんな普通に生活していますよ。@k@vS20/00/VTK1_rikaM1041.この村だけの病気なんて、聞いたこともない…！」",
-            "NamesENG": "Rika's mom",
-            "TextENG": "``What...?@k@vS20/00/VTK1_rikaM1040. But we're all perfectly healthy.@k@vS20/00/VTK1_rikaM1041. I've never heard of a disease exclusive to this village...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4933,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1037.",
-            "TextJPN": "「落ち着きなさい。@k@vS20/00/VTK1_rikaF1038.…その病気はな、この村にいる限り、何も問題はないのだ。@k@vS20/00/VTK1_rikaF1039.だが、この村を出て遠くの地へ行くと発病してしまう。@k@vS20/00/VTK1_rikaF1040.…わかるか？」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "``Calm down.@k@vS20/00/VTK1_rikaF1038. As long as we are here in the village, the disease won't cause any problems.@k@vS20/00/VTK1_rikaF1039. But once you move away from this village, that's when it starts to act out.@k@vS20/00/VTK1_rikaF1040. Do you understand?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4934,
-            "NamesJPN": "梨花の母",
-            "PreTextTags": "@vS20/00/VTK1_rikaM1042.",
-            "TextJPN": "「わ、…わかるわけないでしょう、何のことだかさっぱり！」",
-            "NamesENG": "Rika's mom",
-            "TextENG": "``How... How can you expect me to understand such a thing? I have no idea what you're talking about.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4935,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/VTK1_rika1050.",
-            "TextJPN": "「…オヤシロさまの祟りと同じなのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``......It's the same as the curse of Oyashiro-sama.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4936,
-            "TextJPN": "取り乱しかける妻とは正反対に、落ち着いた声で梨花が言った。",
-            "TextENG": "Rika said it so calmly while her mother became frustrated."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4937,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1041.",
-            "TextJPN": "「そうだ。@k@vS20/00/VTK1_rikaF1042.この村から離れると祟りがあるのと同じなのだ。@k@vS20/00/VTK1_rikaF1043.…つまり、オヤシロさまの祟りだとご先祖さまたちが代々恐れてきたのは、この村だけにしかない風土病のせいだったのだ」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "``That's right.@k@vS20/00/VTK1_rikaF1042. They say that when you leave this village, you're cursed. It's just like that.@k@vS20/00/VTK1_rikaF1043. In other words, the curse of Oyashiro-sama, which our ancestors have feared for generations, is actually a disease that only exists in this village.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4938,
-            "NamesJPN": "梨花の母",
-            "PreTextTags": "@vS20/00/VTK1_rikaM1043.",
-            "TextJPN": "「そんなことあるわけないです。@k@vS20/00/VTK1_rikaM1044.だって、私たちだって時には村を離れることもあるじゃないですか。@k@vS20/00/VTK1_rikaM1045.村の人だって、仕事で遠くへ出掛ける人だっているし、海外に出掛ける人だって！」",
-            "NamesENG": "Rika's mom",
-            "TextENG": "``How could that be possible?@k@vS20/00/VTK1_rikaM1044. We've left the village before.@k@vS20/00/VTK1_rikaM1045. Other villagers, too. Some have gone on business trips, and some even traveled to foreign countries!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4939,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1044.",
-            "TextJPN": "「うむ。@k@vS20/00/VTK1_rikaF1045.それは長い長い時間を経て、病気が徐々に弱まってきたかららしい。@k@vS20/00/VTK1_rikaF1046.だから、このままさらに長い時間を掛ければ、消えてなくなってしまうものだったのだ」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "``True.@k@vS20/00/VTK1_rikaF1045. But that's probably because the disease has weakened over a long time.@k@vS20/00/VTK1_rikaF1046. So it was going to disappear eventually."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4940,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1047.",
-            "TextJPN": "「…だがそれが、ダム戦争のせいでおかしくなったらしい。@k@vS20/00/VTK1_rikaF1048.…ダム戦争で、今、村中が熱に浮かされたように興奮している状態にあるのは、みんなもわかっているだろう」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "...But the business with the dam disrupted that process.@k@vS20/00/VTK1_rikaF1048. ...Everyone knew that during the dam war, the entire village was aflame with agitation."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4941,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1049.",
-            "TextJPN": "「…そういう興奮状態や情緒不安定な状態は、この病気を悪化させてしまうらしいのだ」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "Such excitement and emotional instability makes the disease stronger.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4942,
-            "NamesJPN": "梨花の母",
-            "PreTextTags": "@vS20/00/VTK1_rikaM1046.",
-            "TextJPN": "「よく…話がわかりませんけど。@k@vS20/00/VTK1_rikaM1047.…つまり、この大昔から祟りだと呼んできたものは全て、…その病気の仕業だと仰るんですね？」",
-            "NamesENG": "Rika's mom",
-            "TextENG": "``I still don't know what you're trying to say.@k@vS20/00/VTK1_rikaM1047. What we thought was a curse all this time was actually caused by the disease?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4943,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1050.",
-            "TextJPN": "「そうだ。@k@vS20/00/VTK1_rikaF1051.オヤシロさまの作った決まりは全て、この病気から村人を守るための決まりだったのだ」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "``That's right.@k@vS20/00/VTK1_rikaF1051. All the rules Oyashiro-sama came up with were to protect the villagers from the disease.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4944,
-            "NamesJPN": "梨花の母",
-            "PreTextTags": "@vS20/00/VTK1_rikaM1048.",
-            "TextJPN": "「…そんな…！@k@vS20/00/VTK1_rikaM1049.　それじゃオヤシロさまは神さまではなく、…病気が正体なんですか！@k@vS20/00/VTK1_rikaM1050.　そんなこと！！@k@vS20/00/VTK1_rikaM1051.　古手家代々のご先祖さまたちに説明できますか！！」",
-            "NamesENG": "Rika's mom",
-            "TextENG": "``...No way...!!@k@vS20/00/VTK1_rikaM1049. Then Oyashiro-sama's actually a disease... not a god?!@k@vS20/00/VTK1_rikaM1050. How could that be?!@k@vS20/00/VTK1_rikaM1051. How can I explain that to the Furude family ancestors?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4945,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1052.",
-            "TextJPN": "「落ち着きなさい。@k@vS20/00/VTK1_rikaF1053.オヤシロさまの信仰は変わらない。@k@vS20/00/VTK1_rikaF1054.オヤシロさまが雛見沢を見守ってくださることに何の変わりもない」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "``Calm down.@k@vS20/00/VTK1_rikaF1053. The faith in Oyashiro-sama won't change.@k@vS20/00/VTK1_rikaF1054. The fact that Oyashiro-sama is watching over Hinamizawa will remain the same..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4946,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1055.",
-            "TextJPN": "「…オヤシロさまの祟りを再現する病気が、この村には大昔からあったということ、それだけなんだ」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "...It just means the disease producing Oyashiro-sama's curse was in this village since long ago, that's all.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4947,
-            "NamesJPN": "梨花の母",
-            "PreTextTags": "@vS20/00/VTK1_rikaM1052.",
-            "TextJPN": "「そんなのは認められません！！@k@vS20/00/VTK1_rikaM1053.　そんなこと、亡くなった先代や先々代に説明できますか？！@k@vS20/00/VTK1_rikaM1054.　古手家数百年の伝統に対する、いえ！@k@vS20/00/VTK1_rikaM1055.　オヤシロさまに対する冒涜ですッ！！」",
-            "NamesENG": "Rika's mom",
-            "TextENG": "``I won't accept that!!@k@vS20/00/VTK1_rikaM1053. How can I explain that to our ancestors?!@k@vS20/00/VTK1_rikaM1054. This is a desecration of the Furude family's age-old traditions.@k@vS20/00/VTK1_rikaM1055. No, this is a desecration of Oyashiro-sama!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4948,
-            "NamesJPN": "梨花の母",
-            "PreTextTags": "@vS20/00/VTK1_rikaM1056.",
-            "TextJPN": "「そんなことをあなたに吹き込んだのは誰ですか？@k@vS20/00/VTK1_rikaM1057.　失礼極まりない！！@k@vS20/00/VTK1_rikaM1058.　第一、そんな変な病気が実在するという証拠があるんですか！！」",
-            "NamesENG": "Rika's mom",
-            "TextENG": "Who told you such a thing?!@k@vS20/00/VTK1_rikaM1057. This isn't acceptable!!@k@vS20/00/VTK1_rikaM1058. In the first place, can you prove such a disease actually exists?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4949,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1056.",
-            "TextJPN": "「……ある！」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "``......I can!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4950,
-            "NamesJPN": "梨花の母",
-            "PreTextTags": "@vS20/00/VTK1_rikaM1059.",
-            "TextJPN": "「それはどんな？@k@vS20/00/VTK1_rikaM1060.　誰が！」",
-            "NamesENG": "Rika's mom",
-            "TextENG": "``What kind of proof?@k@vS20/00/VTK1_rikaM1060. Who gave it to you?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4951,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1057.",
-            "TextJPN": "「厚生省と国立感染症予防研究所の方からだ。@k@vS20/00/VTK1_rikaF1058.病原体もすでに特定され、現在、治療方法などを研究している最中だという」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "``The people from the Ministry of Health and the National Institute of Infectious Disease Prevention.@k@vS20/00/VTK1_rikaF1058. They've already found the pathogen, and they are searching for a cure right now."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4952,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1059.",
-            "TextJPN": "「…先週、実際にその資料や標本などを見せてもらった。@k@vS20/00/VTK1_rikaF1060.厚生省の方はこの病気を雛見沢症候群と呼んでいるらしい」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "I saw the documents and the samples last week.@k@vS20/00/VTK1_rikaF1060. The people at the Ministry of Health call it 'Hinamizawa Syndrome'.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4953,
-            "NamesJPN": "梨花の母",
-            "PreTextTags": "@vS20/00/VTK1_rikaM1061.",
-            "TextJPN": "「……そんな…！！」",
-            "NamesENG": "Rika's mom",
-            "TextENG": "``No way...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4954,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1061.",
-            "TextJPN": "「雛見沢症候群は、普通に生活している分には何も影響のない無害なものらしい。@k@vS20/00/VTK1_rikaF1062.だが、雛見沢を遠く離れたり、精神や情緒が不安定になったりすると発病しやすくなるという」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "``As long as you lead a normal life, the syndrome is harmless.@k@vS20/00/VTK1_rikaF1062. But once you go far from Hinamizawa, or if you become emotionally unstable, it's easy for the disease to manifest itself."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4955,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1063.",
-            "TextJPN": "「発病すると、妄想などに取り付かれ、最悪の場合、異常行動に出ることもあるらしい。@k@vS20/00/VTK1_rikaF1064.…この病気は、戦争中に発見されたんだそうだ」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "When the disease acts out, you can be possessed by your own delusions and, in the worst-case scenario, you can go mad.@k@vS20/00/VTK1_rikaF1064. They discovered this disease during the war."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4956,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1065.",
-            "TextJPN": "「戦地で雛見沢の兵隊だけ異常な病気を起こすことがあるのに偉い学者の先生が気が付いて、研究がずっと進められてきたんだと言う」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "A distinguished scholar noticed that only the soldiers from Hinamizawa came down with an abnormal disease, and he has been researching it all these years."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4957,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1066.",
-            "TextJPN": "「…その辺の話はだいぶ詳しくしてもらったんだが、…すまん。@k@vS20/00/VTK1_rikaF1067.難しい内容だったので私の口からはこれ以上うまく説明できん」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "They explained some details of this research, but I'm sorry...@k@vS20/00/VTK1_rikaF1067. They are too complicated for me to explain."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4958,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1068.",
-            "TextJPN": "「もし私の説明では納得できんというなら、お前も直接話を聞いてみればいい。@k@vS20/00/VTK1_rikaF1069.…私だって最初は、何を馬鹿なことを、オヤシロさまを冒涜する気かと憤慨していたのだから」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "If you don't believe what I'm saying, why don't you go listen to them yourself?@k@vS20/00/VTK1_rikaF1069. ...At first I was indignant too, wondering how they dared to blaspheme Oyashiro-sama and spout such nonsense.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4959,
-            "NamesJPN": "梨花の母",
-            "PreTextTags": "@vS20/00/VTK1_rikaM1062.",
-            "TextJPN": "「……………」",
-            "NamesENG": "Rika's mom",
-            "TextENG": "``.............``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4960,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1070.",
-            "TextJPN": "「その病気を研究するために、入江診療所が作られたというんだ。@k@vS20/00/VTK1_rikaF1071.あそこは表向きはただの診療所ということになっているが、実際は病気を調べるための隠し研究所らしい」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "``The Irie Clinic was built to study the syndrome.@k@vS20/00/VTK1_rikaF1071. It appears to be just a clinic on the outside, but it's actually a secret research center for studying the syndrome.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4961,
-            "NamesJPN": "梨花の母",
-            "PreTextTags": "@vS20/00/VTK1_rikaM1063.",
-            "TextJPN": "「秘密で研究しているなんて、胡散臭いじゃないですか！@k@vS20/00/VTK1_rikaM1064.　それも厚生省がやっていることなら、堂々とやればいいじゃないですか！」",
-            "NamesENG": "Rika's mom",
-            "TextENG": "``Secret research? That's ridiculous!!@k@vS20/00/VTK1_rikaM1064. If it's actually backed by the Ministry of Health, why aren't they doing it out in the open?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4962,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1072.",
-            "TextJPN": "「いや、そうはいかんらしい」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "``Well, I guess they can't."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4963,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1073.",
-            "TextJPN": "「この病気の実態を把握しないまま、存在するという事実だけが不十分な知識で広まってしまったら、病気をもっている人たちはもちろん、無関係の人々も勘違いした差別を受けることになる」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "For example, think about leprosy victims who were misunderstood and exiled. They are still misunderstood and discriminated against even today, in fact."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4964,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1074.",
-            "TextJPN": "「…雛見沢の人間は皆、怪しげな病気に掛かっていて、そのせいでとんでもないことをするかもしれないなどと言う噂が日本中に知れ渡ったら、大変だ」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "If the whole country finds out about this and thinks that everyone in Hinamizawa who has contracted this weird disease can go mad at any moment, it'll turn into chaos."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4965,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1075.",
-            "TextJPN": "「厚生省もそのことを心配していて、この病気については厳重に伏せた上で治療を目指すらしい」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "The Ministry of Health has taken that into consideration and is working on developing a cure while keeping the disease a secret."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4966,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1076.",
-            "TextJPN": "「勘違いするな、私たちを見世物にするというんじゃないぞ」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "Don't get me wrong, though. They aren't trying to put us on display or anything."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4967,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1077.",
-            "TextJPN": "「この病気を根絶させ、この村を病気から解放しようとしているのだ。@k@vS20/00/VTK1_rikaF1078.…自給自足ができていた大昔ならともかく、現代では村から一歩も出ずに生活などなりたたん」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "They are trying to eliminate this disease and free this village from it.@k@vS20/00/VTK1_rikaF1078. It was a different story long ago when we supported ourselves, but nowadays, it's impossible not to leave the village."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4968,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1079.",
-            "TextJPN": "「村から出るだけで発病するかもしれない病気など、村人にとってどれほど危険なものか、わかるだろう」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "If a simple act of leaving the village can trigger the disease, you realize how dangerous it is for the villagers, right?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4969,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1080.",
-            "TextJPN": "「…繰り返しになるが、昨今、反ダム戦争で村全体が強い興奮状態にあって、雛見沢症候群にとって、非常に良くない状態にあるらしい」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "...I'm repeating myself now, but in the recent dam protests, the whole village entered a strong excited state, which is very bad for the Hinamizawa Syndrome.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4970,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/VTK1_rika1051.",
-            "TextJPN": "「…もし村人がおかしくなって大変なことをしたら、きっとマスコミがパシャパシャでいっぱいなのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``...If some villagers go crazy and do something horrible, it'll be all over the media.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4971,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1081.",
-            "TextJPN": "「そうだ。@k@vS20/00/VTK1_rikaF1082.そうなってからでは手遅れなのだ」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "``That's right.@k@vS20/00/VTK1_rikaF1082. If that happens, it'll be too late.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4972,
-            "NamesJPN": "梨花の母",
-            "PreTextTags": "@vS20/00/VTK1_rikaM1065.",
-            "TextJPN": "「………そんな。@k@vS20/00/VTK1_rikaM1066.…いきなり言われても信用できませんわ…。@k@vS20/00/VTK1_rikaM1067.本当に相手は国の人？@k@vS20/00/VTK1_rikaM1068.　変な詐欺に騙されてるんじゃないですか？」",
-            "NamesENG": "Rika's mom",
-            "TextENG": "``.........But...@k@vS20/00/VTK1_rikaM1066. how can I believe this?@k@vS20/00/VTK1_rikaM1067. Are you sure we're dealing with people from the government?@k@vS20/00/VTK1_rikaM1068. Are you sure you aren't being tricked?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4973,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1083.",
-            "TextJPN": "「信用できんのも無理はない。@k@vS20/00/VTK1_rikaF1084.…先方は研究所はいつでも見に来ていいと言っている。@k@vS20/00/VTK1_rikaF1085.私はもう見せてもらっているが、あれは詐欺とかそういうレベルではない」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "``I don't blame you for not being able to believe it...@k@vS20/00/VTK1_rikaF1084. They said we can come take a look at their facility anytime.@k@vS20/00/VTK1_rikaF1085. I've seen it before and I know that no mere fraud could have set up something like that..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4974,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1086.",
-            "TextJPN": "「…穀倉の大病院でもあんな大掛かりな設備はないぞ。@k@vS20/00/VTK1_rikaF1087.……お前も、私の話に納得できないなら、研究所で詳しい話を聞かせてもらうといい。@k@vS20/00/VTK1_rikaF1088.私よりもっと詳しく説明してくれるだろう」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "Even the big hospitals in Gogura don't have such large-scale equipment.@k@vS20/00/VTK1_rikaF1087. If you can't believe what I just told you, you should go to the research center yourself and ask questions.@k@vS20/00/VTK1_rikaF1088. They can explain it better than I can."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4975,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1089.",
-            "TextJPN": "「向こうは、研究所の説明でも納得できないなら、『東京』の国立研究所で説明してもいいし、厚生省の本庁舎で直接説明してもいいと言っている」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "They said if their explanation isn't good enough, they can explain it to you at the National Research Institute in Tokyo, or even at the Ministry of Health's main office.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4976,
-            "NamesJPN": "梨花の母",
-            "PreTextTags": "@vS20/00/VTK1_rikaM1069.",
-            "TextJPN": "「……………。@k@vS20/00/VTK1_rikaM1070.…でも、信じる信じないは別にして、…それが私たちにどういう関係があるんです？」",
-            "NamesENG": "Rika's mom",
-            "TextENG": "``............@k@vS20/00/VTK1_rikaM1070.Whether I believe it or not, ...how are we related to that?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4977,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1090.",
-            "TextJPN": "「古手家は代々、オヤシロさまの血を受け継ぐと言われている。@k@vS20/00/VTK1_rikaF1091.そして、八代続いて女子が生まれれば、その八代目はオヤシロさまの生まれ変わりであるとも」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "``It is said that the Furude family inherited the blood of Oyashiro-sama.@k@vS20/00/VTK1_rikaF1091. And it is also said that if a girl was born for eight continuous generations, that eighth generation girl would be the reincarnation of Oyashiro-sama.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4978,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/VTK1_rika1052.",
-            "TextJPN": "「…みー」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Meep.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4979,
-            "NamesJPN": "梨花の母",
-            "PreTextTags": "@vS20/00/VTK1_rikaM1071.",
-            "TextJPN": "「そうですわ。@k@vS20/00/VTK1_rikaM1072.私が七代目。@k@vS20/00/VTK1_rikaM1073.梨花が八代目。@k@vS20/00/VTK1_rikaM1074.でも、それとその病気に何の関係があるというんです？」",
-            "NamesENG": "Rika's mom",
-            "TextENG": "``That's right.@k@vS20/00/VTK1_rikaM1072. I'm the seventh@k@vS20/00/VTK1_rikaM1073. and Rika is the eighth generation.@k@vS20/00/VTK1_rikaM1074. But what does that have to do with the disease?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4980,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1092.",
-            "TextJPN": "「うむ。@k@vS20/00/VTK1_rikaF1093.……この雛見沢症候群という病気は、ある種の寄生虫によるらしい。@k@vS20/00/VTK1_rikaF1094.虫といってもものすごく小さい。@k@vS20/00/VTK1_rikaF1095.人の目には決して見えんくらいに。@k@vS20/00/VTK1_rikaF1096.…その虫たちには親分格がいるというのだ」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "``Hmm.@k@vS20/00/VTK1_rikaF1093. ...This Hinamizawa Syndrome is caused by a type of parasite.@k@vS20/00/VTK1_rikaF1094. Although they're very tiny.@k@vS20/00/VTK1_rikaF1095. You can't even see them with the naked eye.@k@vS20/00/VTK1_rikaF1096. ...They say there's a sort of leader among these parasites.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4981,
-            "NamesJPN": "梨花の母",
-            "PreTextTags": "@vS20/00/VTK1_rikaM1075.",
-            "TextJPN": "「ま、…まさか、それが古手家だと仰るんですか！！」",
-            "NamesENG": "Rika's mom",
-            "TextENG": "``A-Are you saying... that's the Furude family?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4982,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1097.",
-            "TextJPN": "「その親分格の寄生虫は、代々古手家の直系だけに受け継がれるらしい。@k@vS20/00/VTK1_rikaF1098.つまり、…先代はお前。@k@vS20/00/VTK1_rikaF1099.今は、梨花だ」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "``It appears that the leader of these parasites is passed down through the generations only by people with a direct bloodline to the Furude family.@k@vS20/00/VTK1_rikaF1098. In other words, in the previous generation, it was you@k@vS20/00/VTK1_rikaF1099. and now it's Rika.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4983,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/VTK1_rika1053.",
-            "TextJPN": "「…みー」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Meep.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4984,
-            "NamesJPN": "梨花の母",
-            "PreTextTags": "@vS20/00/VTK1_rikaM1076.",
-            "TextJPN": "「ば、馬鹿馬鹿しい！！@k@vS20/00/VTK1_rikaM1077.　そんな話やっぱりおかしいですわ？！@k@vS20/00/VTK1_rikaM1078.　大体ですね、寄生虫なんてそんな気持ち悪いもの！！」",
-            "NamesENG": "Rika's mom",
-            "TextENG": "``Th-That's ridiculous!!@k@vS20/00/VTK1_rikaM1077. That's absolutely ridiculous!!@k@vS20/00/VTK1_rikaM1078. Why would it be something as disgusting as parasites in the first place?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4985,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1100.",
-            "TextJPN": "「だから落ち着きなさい！！@k@vS20/00/VTK1_rikaF1101.　私では説明が下手だ。@k@vS20/00/VTK1_rikaF1102.専門の人に説明を受けなさい。@k@vS20/00/VTK1_rikaF1103.そして、彼らが言うには、この病気の治療を研究するためには、親分格の研究が不可欠だと言うのだ」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "``Calm down!!@k@vS20/00/VTK1_rikaF1101. I'm not good at explaining things.@k@vS20/00/VTK1_rikaF1102. Please have the experts explain it to you.@k@vS20/00/VTK1_rikaF1103. According to them, studying this parasite leader is necessary in order to research the disease.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4986,
-            "NamesJPN": "梨花の母",
-            "PreTextTags": "@vS20/00/VTK1_rikaM1079.",
-            "TextJPN": "「嫌です！！！@k@vS20/00/VTK1_rikaM1080.　そんな怪しげな研究、まっぴらごめんですし、梨花だってそんな研究には関わらせません！！」",
-            "NamesENG": "Rika's mom",
-            "TextENG": "``No!!@k@vS20/00/VTK1_rikaM1080. I won't have anything to do with such suspicious research, and Rika won't either!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4987,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1104.",
-            "TextJPN": "「だから落ち着きなさいと言うのに！！@k@vS20/00/VTK1_rikaF1105.　彼らの研究では、雛見沢症候群は、村から離れると発病するのではなく、親分格から離れると発病するということらしいのだ」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "``I'm telling you to calm down!!@k@vS20/00/VTK1_rikaF1105. They think that Hinamizawa Syndrome acts out when separated from the parasite leader, not the village itself."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4988,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1106.",
-            "TextJPN": "「…お前も小さかった頃、村人から神通力があると言われていたことがあるだろう？@k@vS20/00/VTK1_rikaF1107.　遠方に出掛け、偏頭痛などにかかったお年寄りが、お前に払ってもらうとたちまち頭痛が消えたという神通力」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "...When you were little, do you remember villagers telling you that you had psychic powers?@k@vS20/00/VTK1_rikaF1107. You were able to cure elderly people who got migraines after taking a long trip."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4989,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1108.",
-            "TextJPN": "「…それこそが親分格の証拠でもあるというのだ。@k@vS20/00/VTK1_rikaF1109.古手の血には、発病者を救う力がある。@k@vS20/00/VTK1_rikaF1110.それを研究するのは治療薬を見つけるためにも、とても重要なことなのだそうだ」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "That's the proof that you were carrying the parasite leader.@k@vS20/00/VTK1_rikaF1109. The Furude bloodline has the power to cure people with the disease.@k@vS20/00/VTK1_rikaF1110. To discover a cure, it's extremely important that we participate in their research.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4990,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/VTK1_rika1054.",
-            "TextJPN": "「…ボクを研究すると、村のみんなが助かるのですか？」",
-            "NamesENG": "Rika",
-            "TextENG": "``......If they study me, will the villagers be saved?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4991,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1111.",
-            "TextJPN": "「先方はそう言っている」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "``That's what they say.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4992,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/VTK1_rika1055.",
-            "TextJPN": "「…その病気は村の全員が掛かっているのですか？@k@vS20/05/VTK1_rika1056.　ボクも？@k@vS20/05/VTK1_rika1057.　みんなも？@k@vS20/05/VTK1_rika1058.　沙都子も？」",
-            "NamesENG": "Rika",
-            "TextENG": "``......And all the villagers are infected?@k@vS20/05/VTK1_rika1056. Me?@k@vS20/05/VTK1_rika1057. Everyone else?@k@vS20/05/VTK1_rika1058. Satoko, too?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4993,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1112.",
-            "TextJPN": "「…うむ。@k@vS20/00/VTK1_rikaF1113.村に住む人間全員だけでなく、興宮に住む親類なども全て含むそうだ。@k@vS20/00/VTK1_rikaF1114.多分、何千人という規模になるだろう」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "``......Yes.@k@vS20/00/VTK1_rikaF1113. Not only the people who live in the village, but their relatives in Okinomiya too.@k@vS20/00/VTK1_rikaF1114. We're talking thousands of people."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4994,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1115.",
-            "TextJPN": "「それだけの大変な病気だから、厚生省がわざわざたくさんの予算を投じて専門の研究所を作ってくれたのだ」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "That's why the Ministry of Health spent so much money to build a specialized research center.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4995,
-            "NamesJPN": "梨花の母",
-            "PreTextTags": "@vS20/00/VTK1_rikaM1081.",
-            "TextJPN": "「わ、私は反対です！@k@vS20/00/VTK1_rikaM1082.　梨花をそんな怪しげな研究の生贄にするだなんて！！」",
-            "NamesENG": "Rika's mom",
-            "TextENG": "``I-I object!@k@vS20/00/VTK1_rikaM1082. How can you let Rika be a sacrifice for something that suspicious?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4996,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/VTK1_rika1059.",
-            "TextJPN": "「…ボクはいいのですよ。@k@vS20/05/VTK1_rika1060.ボクが生贄で沙都子が助かるなら、全然平気なのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``......I don't mind.@k@vS20/05/VTK1_rika1060. If Satoko can be saved, I don't mind being a sacrifice. I really don't.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4997,
-            "NamesJPN": "梨花の母",
-            "PreTextTags": "@vS20/00/VTK1_rikaM1083.",
-            "TextJPN": "「梨花は黙っていなさいッ！！@k@vS20/00/VTK1_rikaM1084.　とにかく絶対反対です！」",
-            "NamesENG": "Rika's mom",
-            "TextENG": "``You be quiet, Rika!!@k@vS20/00/VTK1_rikaM1084. I absolutely refuse!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4998,
-            "NamesJPN": "梨花の母",
-            "PreTextTags": "@vS20/00/VTK1_rikaM1085.",
-            "TextJPN": "「あなたにそんな妙なことを吹き込んだ人たちには、私が直接会ってはっきりとお断りをします。@k@vS20/00/VTK1_rikaM1086.梨花を変な実験で殺されてたまるものですか！！」",
-            "NamesENG": "Rika's mom",
-            "TextENG": "I'll go talk to them and refuse them directly.@k@vS20/00/VTK1_rikaM1086. I won't let them kill Rika in some crazy experiment!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 4999,
-            "NamesJPN": "梨花の母",
-            "PreTextTags": "@vS20/00/VTK1_rikaM1087.",
-            "TextJPN": "「大体、梨花は古手家のたった一人の跡継ぎなんですよ？！@k@vS20/00/VTK1_rikaM1088.　もしものことがあれば古手の血はここで絶えてしまうかもしれないじゃないですか！！」",
-            "NamesENG": "Rika's mom",
-            "TextENG": "Besides, Rika is the one and only heir of the Furude family!!@k@vS20/00/VTK1_rikaM1088. What if something happens to her? The Furude family will die right there. Don't you see that?!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5000,
-            "NamesJPN": "梨花の母",
-            "PreTextTags": "@vS20/00/VTK1_rikaM1089.",
-            "TextJPN": "「あなたはもっとですね、古手の家のことを考えていただかないと！！@k@vS20/00/VTK1_rikaM1090.　そんなだから村の人たちに日和見主義とか何とか言われて…！！」",
-            "NamesENG": "Rika's mom",
-            "TextENG": "You need to think more about our family!!@k@vS20/00/VTK1_rikaM1090. That's why the villagers call you an opportunist."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5001,
-            "NamesJPN": "梨花の母",
-            "PreTextTags": "@vS20/00/VTK1_rikaM1091.",
-            "TextJPN": "「大体、おかしいじゃないですか！！@k@vS20/00/VTK1_rikaM1092.　建設省は村をダムに沈める。@k@vS20/00/VTK1_rikaM1093.厚生省は村の病気を治す。@k@vS20/00/VTK1_rikaM1094.何が何だかさっぱりわからないです！！」",
-            "NamesENG": "Rika's mom",
-            "TextENG": "After all, don't you think it's odd?!@k@vS20/00/VTK1_rikaM1092. The Ministry of Construction is trying to submerge the village@k@vS20/00/VTK1_rikaM1093. and the Ministry of Health is trying to cure a disease.@k@vS20/00/VTK1_rikaM1094. What in the world is going on?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5002,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1116.",
-            "TextJPN": "「厚生省は、この病気は環境の変化で大変発病しやすいと警告していて、建設省に対しダム計画を中止するよう働きかけてくれているそうだ」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "``The Ministry of Health has warned that this disease could be triggered by a change in environment. So they're actually trying to have the Ministry of Construction stop the dam construction plan."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5003,
-            "NamesJPN": "梨花の父",
-            "PreTextTags": "@vS20/00/VTK1_rikaF1117.",
-            "TextJPN": "「…だからお前も研究所を見せてもらいなさい。@k@vS20/00/VTK1_rikaF1118.あれだけの大設備を、ダム湖に沈むかもしれない土地に建てるわけがない」",
-            "NamesENG": "Rika's dad",
-            "TextENG": "...You really should go to the research center.@k@vS20/00/VTK1_rikaF1118. Why would they build such a huge facility in a location that could be submerged?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5004,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/VTK1_rika1061.",
-            "TextJPN": "「…くぁぁぁあぁぁ…」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Hwaaaaaah...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5005,
-            "TextJPN": "梨花が大きく欠伸をする。",
-            "TextENG": "Rika let out a big yawn."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5006,
-            "TextJPN": "梨花のような少女には、もう堪える時間なのだろう。",
-            "TextENG": "It was long past bedtime for a little girl like her."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5007,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS20/05/VTK1_rika1062.",
-            "TextJPN": "「…ボクはもう寝ますです。@k@vS20/05/VTK1_rika1063.…父さん、ボクはいつでも協力すると、その人たちに言っておいてくださいなのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``......I'm going to bed now.@k@vS20/05/VTK1_rika1063. Dad, please let them know I'm willing to participate, okay?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5008,
-            "NamesJPN": "梨花の母",
-            "PreTextTags": "@vS20/00/VTK1_rikaM1095.",
-            "TextJPN": "「り、梨花！！@k@vS20/00/VTK1_rikaM1096.　そんなことお母さんに断りなく勝手に決めちゃいけません！！！@k@vS20/00/VTK1_rikaM1097.　梨花ッ！@k@vS20/00/VTK1_rikaM1098.　待ちなさい梨花！！！」",
-            "NamesENG": "Rika's mom",
-            "TextENG": "``R-Rika!!@k@vS20/00/VTK1_rikaM1096. You can't make such a decision without consulting me!!!@k@vS20/00/VTK1_rikaM1097. Rika!@k@vS20/00/VTK1_rikaM1098. Wait, Rika!!!``"
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "C3 女王への協力依頼",
+		"ENG": "C3 Request for Cooperation From a Queen"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4907,
+		"TextJPN": "その夜。",
+		"TextENG": "That very night."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4908,
+		"TextJPN": "古手家頭首である神主は、家族会議があるといって妻と梨花を和室に集めた。",
+		"TextENG": "The head of the Furude family, the priest, gathered his wife and Rika together for a family meeting."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4909,
+		"TextJPN": "御三家が集まり、村について合議するのが雛見沢の伝統だ。",
+		"TextENG": "In Hinamizawa, it was tradition for the Three Families to gather and discuss the village's issues."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4910,
+		"TextJPN": "それに伴い、園崎家や公由家のような大所帯なら、意見調整のために予め親族会議や家族会議をすることもありえるだろう。",
+		"TextENG": "So it was hardly unusual for big families like the Sonozaki family and the Kimiyoshi family to have meetings beforehand to sort out opinions among themselves."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4911,
+		"TextJPN": "…だが、古手家は分家筋が途絶え、今や本家の一家族３人しかいない。",
+		"TextENG": "...However, the Furude family had lost its branch families, so there were only three of them left."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4912,
+		"TextJPN": "だからこれまで一度も、家族会議なるものを開いたことはなかった。",
+		"TextENG": "So until that day, they had never had a family meeting at all."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4913,
+		"NamesJPN": "梨花の母",
+		"PreTextTags": "@vS20/00/VTK1_rikaM1033.",
+		"TextJPN": "「どうしたんですか、改まって。@k@vS20/00/VTK1_rikaM1034.…ひょっとして、ダムに関わるお話ですか？」",
+		"NamesENG": "Rika's mom",
+		"TextENG": "``What is it? You're being so formal.@k@vS20/00/VTK1_rikaM1034. Is it about the dam construction?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4914,
+		"TextJPN": "今この村で一番重要な問題はダム問題しかない。",
+		"TextENG": "The dam was the most important issue in the village at the moment."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4915,
+		"TextJPN": "妻は神主が切り出そうとしている話は、それに絡むものに違いないと思った。",
+		"TextENG": "The wife naturally assumed the priest wanted to talk about the dam."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4916,
+		"TextJPN": "…そして、家族を集めてまで話すのだから、きっとそれは大きな決意を伴うもの。",
+		"TextENG": "For him to gather all of them together like that, it must be a huge decision he had to make."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4917,
+		"TextJPN": "…たとえば、立ち退きに応じるとか、そういう話になるだろうと思っていた。",
+		"TextENG": "Perhaps he was going to talk about joining the pro-evacuation camp."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4918,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1024.",
+		"TextJPN": "「…いや、ダムの話ではない。@k@vS20/00/VTK1_rikaF1025.……だがこの村に関わる、いや、この村のご先祖さまたちにも関わるとてもとても大事な問題だ」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "``......No, it's not about the dam...@k@vS20/00/VTK1_rikaF1025. But it's about something extremely important which concerns this village, and perhaps all the ancestors of the villagers too.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4919,
+		"TextJPN": "古手家は代々、神職にあり、村の守り神であるオヤシロさまを祀ってきた。",
+		"TextENG": "The Furude family had served in the priesthood of Oyashiro-sama, the guardian deity of the village, for generations."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4920,
+		"TextJPN": "…その頭首がこう切り出すのだから、それはよっぽどの話に違いなかった。",
+		"TextENG": "So for him, the head of the family, to start out that way, it must be something extremely important."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4921,
+		"TextJPN": "にもかかわらず、ダムの話ではないというなら、一体何の話なのか…。",
+		"TextENG": "Yet, he said it wasn't about the dam. So what could he want to talk about?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4922,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1026.",
+		"TextJPN": "「…私は入り婿だ。@k@vS20/00/VTK1_rikaF1027.だから、古手家の本当の血を受け継ぐ、お前と梨花にはよく聞いてほしい。@k@vS20/00/VTK1_rikaF1028.………お前たちは普通の人間ではないのだ」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "``I married into this family,@k@vS20/00/VTK1_rikaF1027. so I want you and Rika, who carry the true blood of the Furude family, to listen very carefully.@k@vS20/00/VTK1_rikaF1028. .........You two aren't normal human beings.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4923,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/VTK1_rika1049.",
+		"TextJPN": "「…ボクはオヤシロさまの生まれ変わりなのですよ？」",
+		"NamesENG": "Rika",
+		"TextENG": "``......I'm the reincarnation of Oyashiro-sama, right?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4924,
+		"NamesJPN": "梨花の母",
+		"PreTextTags": "@vS20/00/VTK1_rikaM1035.",
+		"TextJPN": "「梨花、そういうのは口にしてはいけません！@k@vS20/00/VTK1_rikaM1036.　…あなた、そういう話は梨花のいないところでしましょう。@k@vS20/00/VTK1_rikaM1037.それでなくっても集会所のお年寄りたちが梨花に妙なことばかり吹き込んで、」",
+		"NamesENG": "Rika's mom",
+		"TextENG": "``Rika, you shouldn't say such things!@k@vS20/00/VTK1_rikaM1036. Dear, let's talk about things like that without her.@k@vS20/00/VTK1_rikaM1037. She's heard enough nonsense from the elderly people at the village hall already.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4925,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1029.",
+		"TextJPN": "「その、オヤシロさまの生まれ変わりというのが、…どうも本当らしいのだ」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "``What she just said, about her being the reincarnation of Oyashiro-sama... That appears to be true.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4926,
+		"NamesJPN": "梨花の母",
+		"PreTextTags": "@vS20/00/VTK1_rikaM1038.",
+		"TextJPN": "「はぁ…？！」",
+		"NamesENG": "Rika's mom",
+		"TextENG": "``What...?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4927,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1030.",
+		"TextJPN": "「…少し長い話になる。@k@vS20/00/VTK1_rikaF1031.二人ともしばらく黙って私の話を聞きなさい」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "``...It's a rather long story.@k@vS20/00/VTK1_rikaF1031. Please, just sit tight and listen to me.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4928,
+		"TextJPN": "妻は何の話が始まるのかと怪訝な表情を浮かべていたが、梨花はいつものきょとんとした表情で、まったく平静だった。",
+		"TextENG": "The wife had a dumbfounded expression on her face, not knowing what he was going to say, but Rika was completely relaxed, wearing her usual carefree expression."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4929,
+		"TextJPN": "神主は、妻が落ち着きを取り戻すまで待った後、語り始めた…。",
+		"TextENG": "The priest started to talk after his wife calmed down."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4930,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1032.",
+		"TextJPN": "「この村には、大昔からある病気があるのだ。@k@vS20/00/VTK1_rikaF1033.…それはこの地にだけある特別な病気、風土病というものらしい。@k@vS20/00/VTK1_rikaF1034.…それには、この村に住むものが全員かかっている」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "``There is a disease in this village that has been here for many years.@k@vS20/00/VTK1_rikaF1033. It's a special disease which only exists here in this area.@k@vS20/00/VTK1_rikaF1034. Everyone who lives in this village has the disease."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4931,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1035.",
+		"TextJPN": "「今、この村に住んでいる者だけではない。@k@vS20/00/VTK1_rikaF1036.大昔から住んでいたご先祖さまたちも、みんなみんな、ずーっとこの病気にかかってきたのだ」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "Not only the people who live here now,@k@vS20/00/VTK1_rikaF1036. but all the people who ever lived here had the disease.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4932,
+		"NamesJPN": "梨花の母",
+		"PreTextTags": "@vS20/00/VTK1_rikaM1039.",
+		"TextJPN": "「そんな…。@k@vS20/00/VTK1_rikaM1040.だって、私たちはみんな普通に生活していますよ。@k@vS20/00/VTK1_rikaM1041.この村だけの病気なんて、聞いたこともない…！」",
+		"NamesENG": "Rika's mom",
+		"TextENG": "``What...?@k@vS20/00/VTK1_rikaM1040. But we're all perfectly healthy.@k@vS20/00/VTK1_rikaM1041. I've never heard of a disease exclusive to this village...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4933,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1037.",
+		"TextJPN": "「落ち着きなさい。@k@vS20/00/VTK1_rikaF1038.…その病気はな、この村にいる限り、何も問題はないのだ。@k@vS20/00/VTK1_rikaF1039.だが、この村を出て遠くの地へ行くと発病してしまう。@k@vS20/00/VTK1_rikaF1040.…わかるか？」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "``Calm down.@k@vS20/00/VTK1_rikaF1038. As long as we are here in the village, the disease won't cause any problems.@k@vS20/00/VTK1_rikaF1039. But once you move away from this village, that's when it starts to act out.@k@vS20/00/VTK1_rikaF1040. Do you understand?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4934,
+		"NamesJPN": "梨花の母",
+		"PreTextTags": "@vS20/00/VTK1_rikaM1042.",
+		"TextJPN": "「わ、…わかるわけないでしょう、何のことだかさっぱり！」",
+		"NamesENG": "Rika's mom",
+		"TextENG": "``How... How can you expect me to understand such a thing? I have no idea what you're talking about.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4935,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/VTK1_rika1050.",
+		"TextJPN": "「…オヤシロさまの祟りと同じなのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``......It's the same as the curse of Oyashiro-sama.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4936,
+		"TextJPN": "取り乱しかける妻とは正反対に、落ち着いた声で梨花が言った。",
+		"TextENG": "Rika said it so calmly while her mother became frustrated."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4937,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1041.",
+		"TextJPN": "「そうだ。@k@vS20/00/VTK1_rikaF1042.この村から離れると祟りがあるのと同じなのだ。@k@vS20/00/VTK1_rikaF1043.…つまり、オヤシロさまの祟りだとご先祖さまたちが代々恐れてきたのは、この村だけにしかない風土病のせいだったのだ」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "``That's right.@k@vS20/00/VTK1_rikaF1042. They say that when you leave this village, you're cursed. It's just like that.@k@vS20/00/VTK1_rikaF1043. In other words, the curse of Oyashiro-sama, which our ancestors have feared for generations, is actually a disease that only exists in this village.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4938,
+		"NamesJPN": "梨花の母",
+		"PreTextTags": "@vS20/00/VTK1_rikaM1043.",
+		"TextJPN": "「そんなことあるわけないです。@k@vS20/00/VTK1_rikaM1044.だって、私たちだって時には村を離れることもあるじゃないですか。@k@vS20/00/VTK1_rikaM1045.村の人だって、仕事で遠くへ出掛ける人だっているし、海外に出掛ける人だって！」",
+		"NamesENG": "Rika's mom",
+		"TextENG": "``How could that be possible?@k@vS20/00/VTK1_rikaM1044. We've left the village before.@k@vS20/00/VTK1_rikaM1045. Other villagers, too. Some have gone on business trips, and some even traveled to foreign countries!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4939,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1044.",
+		"TextJPN": "「うむ。@k@vS20/00/VTK1_rikaF1045.それは長い長い時間を経て、病気が徐々に弱まってきたかららしい。@k@vS20/00/VTK1_rikaF1046.だから、このままさらに長い時間を掛ければ、消えてなくなってしまうものだったのだ」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "``True.@k@vS20/00/VTK1_rikaF1045. But that's probably because the disease has weakened over a long time.@k@vS20/00/VTK1_rikaF1046. So it was going to disappear eventually."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4940,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1047.",
+		"TextJPN": "「…だがそれが、ダム戦争のせいでおかしくなったらしい。@k@vS20/00/VTK1_rikaF1048.…ダム戦争で、今、村中が熱に浮かされたように興奮している状態にあるのは、みんなもわかっているだろう」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "...But the business with the dam disrupted that process.@k@vS20/00/VTK1_rikaF1048. ...Everyone knew that during the dam war, the entire village was aflame with agitation."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4941,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1049.",
+		"TextJPN": "「…そういう興奮状態や情緒不安定な状態は、この病気を悪化させてしまうらしいのだ」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "Such excitement and emotional instability makes the disease stronger.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4942,
+		"NamesJPN": "梨花の母",
+		"PreTextTags": "@vS20/00/VTK1_rikaM1046.",
+		"TextJPN": "「よく…話がわかりませんけど。@k@vS20/00/VTK1_rikaM1047.…つまり、この大昔から祟りだと呼んできたものは全て、…その病気の仕業だと仰るんですね？」",
+		"NamesENG": "Rika's mom",
+		"TextENG": "``I still don't know what you're trying to say.@k@vS20/00/VTK1_rikaM1047. What we thought was a curse all this time was actually caused by the disease?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4943,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1050.",
+		"TextJPN": "「そうだ。@k@vS20/00/VTK1_rikaF1051.オヤシロさまの作った決まりは全て、この病気から村人を守るための決まりだったのだ」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "``That's right.@k@vS20/00/VTK1_rikaF1051. All the rules Oyashiro-sama came up with were to protect the villagers from the disease.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4944,
+		"NamesJPN": "梨花の母",
+		"PreTextTags": "@vS20/00/VTK1_rikaM1048.",
+		"TextJPN": "「…そんな…！@k@vS20/00/VTK1_rikaM1049.　それじゃオヤシロさまは神さまではなく、…病気が正体なんですか！@k@vS20/00/VTK1_rikaM1050.　そんなこと！！@k@vS20/00/VTK1_rikaM1051.　古手家代々のご先祖さまたちに説明できますか！！」",
+		"NamesENG": "Rika's mom",
+		"TextENG": "``...No way...!!@k@vS20/00/VTK1_rikaM1049. Then Oyashiro-sama's actually a disease... not a god?!@k@vS20/00/VTK1_rikaM1050. How could that be?!@k@vS20/00/VTK1_rikaM1051. How can I explain that to the Furude family ancestors?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4945,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1052.",
+		"TextJPN": "「落ち着きなさい。@k@vS20/00/VTK1_rikaF1053.オヤシロさまの信仰は変わらない。@k@vS20/00/VTK1_rikaF1054.オヤシロさまが雛見沢を見守ってくださることに何の変わりもない」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "``Calm down.@k@vS20/00/VTK1_rikaF1053. The faith in Oyashiro-sama won't change.@k@vS20/00/VTK1_rikaF1054. The fact that Oyashiro-sama is watching over Hinamizawa will remain the same..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4946,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1055.",
+		"TextJPN": "「…オヤシロさまの祟りを再現する病気が、この村には大昔からあったということ、それだけなんだ」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "...It just means the disease producing Oyashiro-sama's curse was in this village since long ago, that's all.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4947,
+		"NamesJPN": "梨花の母",
+		"PreTextTags": "@vS20/00/VTK1_rikaM1052.",
+		"TextJPN": "「そんなのは認められません！！@k@vS20/00/VTK1_rikaM1053.　そんなこと、亡くなった先代や先々代に説明できますか？！@k@vS20/00/VTK1_rikaM1054.　古手家数百年の伝統に対する、いえ！@k@vS20/00/VTK1_rikaM1055.　オヤシロさまに対する冒涜ですッ！！」",
+		"NamesENG": "Rika's mom",
+		"TextENG": "``I won't accept that!!@k@vS20/00/VTK1_rikaM1053. How can I explain that to our ancestors?!@k@vS20/00/VTK1_rikaM1054. This is a desecration of the Furude family's age-old traditions.@k@vS20/00/VTK1_rikaM1055. No, this is a desecration of Oyashiro-sama!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4948,
+		"NamesJPN": "梨花の母",
+		"PreTextTags": "@vS20/00/VTK1_rikaM1056.",
+		"TextJPN": "「そんなことをあなたに吹き込んだのは誰ですか？@k@vS20/00/VTK1_rikaM1057.　失礼極まりない！！@k@vS20/00/VTK1_rikaM1058.　第一、そんな変な病気が実在するという証拠があるんですか！！」",
+		"NamesENG": "Rika's mom",
+		"TextENG": "Who told you such a thing?!@k@vS20/00/VTK1_rikaM1057. This isn't acceptable!!@k@vS20/00/VTK1_rikaM1058. In the first place, can you prove such a disease actually exists?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4949,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1056.",
+		"TextJPN": "「……ある！」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "``......I can!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4950,
+		"NamesJPN": "梨花の母",
+		"PreTextTags": "@vS20/00/VTK1_rikaM1059.",
+		"TextJPN": "「それはどんな？@k@vS20/00/VTK1_rikaM1060.　誰が！」",
+		"NamesENG": "Rika's mom",
+		"TextENG": "``What kind of proof?@k@vS20/00/VTK1_rikaM1060. Who gave it to you?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4951,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1057.",
+		"TextJPN": "「厚生省と国立感染症予防研究所の方からだ。@k@vS20/00/VTK1_rikaF1058.病原体もすでに特定され、現在、治療方法などを研究している最中だという」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "``The people from the Ministry of Health and the National Institute of Infectious Disease Prevention.@k@vS20/00/VTK1_rikaF1058. They've already found the pathogen, and they are searching for a cure right now."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4952,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1059.",
+		"TextJPN": "「…先週、実際にその資料や標本などを見せてもらった。@k@vS20/00/VTK1_rikaF1060.厚生省の方はこの病気を雛見沢症候群と呼んでいるらしい」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "I saw the documents and the samples last week.@k@vS20/00/VTK1_rikaF1060. The people at the Ministry of Health call it 'Hinamizawa Syndrome'.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4953,
+		"NamesJPN": "梨花の母",
+		"PreTextTags": "@vS20/00/VTK1_rikaM1061.",
+		"TextJPN": "「……そんな…！！」",
+		"NamesENG": "Rika's mom",
+		"TextENG": "``No way...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4954,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1061.",
+		"TextJPN": "「雛見沢症候群は、普通に生活している分には何も影響のない無害なものらしい。@k@vS20/00/VTK1_rikaF1062.だが、雛見沢を遠く離れたり、精神や情緒が不安定になったりすると発病しやすくなるという」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "``As long as you lead a normal life, the syndrome is harmless.@k@vS20/00/VTK1_rikaF1062. But once you go far from Hinamizawa, or if you become emotionally unstable, it's easy for the disease to manifest itself."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4955,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1063.",
+		"TextJPN": "「発病すると、妄想などに取り付かれ、最悪の場合、異常行動に出ることもあるらしい。@k@vS20/00/VTK1_rikaF1064.…この病気は、戦争中に発見されたんだそうだ」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "When the disease acts out, you can be possessed by your own delusions and, in the worst-case scenario, you can go mad.@k@vS20/00/VTK1_rikaF1064. They discovered this disease during the war."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4956,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1065.",
+		"TextJPN": "「戦地で雛見沢の兵隊だけ異常な病気を起こすことがあるのに偉い学者の先生が気が付いて、研究がずっと進められてきたんだと言う」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "A distinguished scholar noticed that only the soldiers from Hinamizawa came down with an abnormal disease, and he has been researching it all these years."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4957,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1066.",
+		"TextJPN": "「…その辺の話はだいぶ詳しくしてもらったんだが、…すまん。@k@vS20/00/VTK1_rikaF1067.難しい内容だったので私の口からはこれ以上うまく説明できん」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "They explained some details of this research, but I'm sorry...@k@vS20/00/VTK1_rikaF1067. They are too complicated for me to explain."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4958,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1068.",
+		"TextJPN": "「もし私の説明では納得できんというなら、お前も直接話を聞いてみればいい。@k@vS20/00/VTK1_rikaF1069.…私だって最初は、何を馬鹿なことを、オヤシロさまを冒涜する気かと憤慨していたのだから」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "If you don't believe what I'm saying, why don't you go listen to them yourself?@k@vS20/00/VTK1_rikaF1069. ...At first I was indignant too, wondering how they dared to blaspheme Oyashiro-sama and spout such nonsense.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4959,
+		"NamesJPN": "梨花の母",
+		"PreTextTags": "@vS20/00/VTK1_rikaM1062.",
+		"TextJPN": "「……………」",
+		"NamesENG": "Rika's mom",
+		"TextENG": "``.............``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4960,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1070.",
+		"TextJPN": "「その病気を研究するために、入江診療所が作られたというんだ。@k@vS20/00/VTK1_rikaF1071.あそこは表向きはただの診療所ということになっているが、実際は病気を調べるための隠し研究所らしい」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "``The Irie Clinic was built to study the syndrome.@k@vS20/00/VTK1_rikaF1071. It appears to be just a clinic on the outside, but it's actually a secret research center for studying the syndrome.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4961,
+		"NamesJPN": "梨花の母",
+		"PreTextTags": "@vS20/00/VTK1_rikaM1063.",
+		"TextJPN": "「秘密で研究しているなんて、胡散臭いじゃないですか！@k@vS20/00/VTK1_rikaM1064.　それも厚生省がやっていることなら、堂々とやればいいじゃないですか！」",
+		"NamesENG": "Rika's mom",
+		"TextENG": "``Secret research? That's ridiculous!!@k@vS20/00/VTK1_rikaM1064. If it's actually backed by the Ministry of Health, why aren't they doing it out in the open?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4962,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1072.",
+		"TextJPN": "「いや、そうはいかんらしい」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "``Well, I guess they can't."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4963,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1073.",
+		"TextJPN": "「この病気の実態を把握しないまま、存在するという事実だけが不十分な知識で広まってしまったら、病気をもっている人たちはもちろん、無関係の人々も勘違いした差別を受けることになる」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "For example, think about leprosy victims who were misunderstood and exiled. They are still misunderstood and discriminated against even today, in fact."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4964,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1074.",
+		"TextJPN": "「…雛見沢の人間は皆、怪しげな病気に掛かっていて、そのせいでとんでもないことをするかもしれないなどと言う噂が日本中に知れ渡ったら、大変だ」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "If the whole country finds out about this and thinks that everyone in Hinamizawa who has contracted this weird disease can go mad at any moment, it'll turn into chaos."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4965,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1075.",
+		"TextJPN": "「厚生省もそのことを心配していて、この病気については厳重に伏せた上で治療を目指すらしい」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "The Ministry of Health has taken that into consideration and is working on developing a cure while keeping the disease a secret."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4966,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1076.",
+		"TextJPN": "「勘違いするな、私たちを見世物にするというんじゃないぞ」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "Don't get me wrong, though. They aren't trying to put us on display or anything."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4967,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1077.",
+		"TextJPN": "「この病気を根絶させ、この村を病気から解放しようとしているのだ。@k@vS20/00/VTK1_rikaF1078.…自給自足ができていた大昔ならともかく、現代では村から一歩も出ずに生活などなりたたん」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "They are trying to eliminate this disease and free this village from it.@k@vS20/00/VTK1_rikaF1078. It was a different story long ago when we supported ourselves, but nowadays, it's impossible not to leave the village."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4968,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1079.",
+		"TextJPN": "「村から出るだけで発病するかもしれない病気など、村人にとってどれほど危険なものか、わかるだろう」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "If a simple act of leaving the village can trigger the disease, you realize how dangerous it is for the villagers, right?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4969,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1080.",
+		"TextJPN": "「…繰り返しになるが、昨今、反ダム戦争で村全体が強い興奮状態にあって、雛見沢症候群にとって、非常に良くない状態にあるらしい」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "...I'm repeating myself now, but in the recent dam protests, the whole village entered a strong excited state, which is very bad for the Hinamizawa Syndrome.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4970,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/VTK1_rika1051.",
+		"TextJPN": "「…もし村人がおかしくなって大変なことをしたら、きっとマスコミがパシャパシャでいっぱいなのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``...If some villagers go crazy and do something horrible, it'll be all over the media.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4971,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1081.",
+		"TextJPN": "「そうだ。@k@vS20/00/VTK1_rikaF1082.そうなってからでは手遅れなのだ」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "``That's right.@k@vS20/00/VTK1_rikaF1082. If that happens, it'll be too late.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4972,
+		"NamesJPN": "梨花の母",
+		"PreTextTags": "@vS20/00/VTK1_rikaM1065.",
+		"TextJPN": "「………そんな。@k@vS20/00/VTK1_rikaM1066.…いきなり言われても信用できませんわ…。@k@vS20/00/VTK1_rikaM1067.本当に相手は国の人？@k@vS20/00/VTK1_rikaM1068.　変な詐欺に騙されてるんじゃないですか？」",
+		"NamesENG": "Rika's mom",
+		"TextENG": "``.........But...@k@vS20/00/VTK1_rikaM1066. how can I believe this?@k@vS20/00/VTK1_rikaM1067. Are you sure we're dealing with people from the government?@k@vS20/00/VTK1_rikaM1068. Are you sure you aren't being tricked?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4973,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1083.",
+		"TextJPN": "「信用できんのも無理はない。@k@vS20/00/VTK1_rikaF1084.…先方は研究所はいつでも見に来ていいと言っている。@k@vS20/00/VTK1_rikaF1085.私はもう見せてもらっているが、あれは詐欺とかそういうレベルではない」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "``I don't blame you for not being able to believe it...@k@vS20/00/VTK1_rikaF1084. They said we can come take a look at their facility anytime.@k@vS20/00/VTK1_rikaF1085. I've seen it before and I know that no mere fraud could have set up something like that..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4974,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1086.",
+		"TextJPN": "「…穀倉の大病院でもあんな大掛かりな設備はないぞ。@k@vS20/00/VTK1_rikaF1087.……お前も、私の話に納得できないなら、研究所で詳しい話を聞かせてもらうといい。@k@vS20/00/VTK1_rikaF1088.私よりもっと詳しく説明してくれるだろう」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "Even the big hospitals in Gogura don't have such large-scale equipment.@k@vS20/00/VTK1_rikaF1087. If you can't believe what I just told you, you should go to the research center yourself and ask questions.@k@vS20/00/VTK1_rikaF1088. They can explain it better than I can."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4975,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1089.",
+		"TextJPN": "「向こうは、研究所の説明でも納得できないなら、『東京』の国立研究所で説明してもいいし、厚生省の本庁舎で直接説明してもいいと言っている」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "They said if their explanation isn't good enough, they can explain it to you at the National Research Institute in Tokyo, or even at the Ministry of Health's main office.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4976,
+		"NamesJPN": "梨花の母",
+		"PreTextTags": "@vS20/00/VTK1_rikaM1069.",
+		"TextJPN": "「……………。@k@vS20/00/VTK1_rikaM1070.…でも、信じる信じないは別にして、…それが私たちにどういう関係があるんです？」",
+		"NamesENG": "Rika's mom",
+		"TextENG": "``............@k@vS20/00/VTK1_rikaM1070.Whether I believe it or not, ...how are we related to that?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4977,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1090.",
+		"TextJPN": "「古手家は代々、オヤシロさまの血を受け継ぐと言われている。@k@vS20/00/VTK1_rikaF1091.そして、八代続いて女子が生まれれば、その八代目はオヤシロさまの生まれ変わりであるとも」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "``It is said that the Furude family inherited the blood of Oyashiro-sama.@k@vS20/00/VTK1_rikaF1091. And it is also said that if a girl was born for eight continuous generations, that eighth generation girl would be the reincarnation of Oyashiro-sama.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4978,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/VTK1_rika1052.",
+		"TextJPN": "「…みー」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Meep.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4979,
+		"NamesJPN": "梨花の母",
+		"PreTextTags": "@vS20/00/VTK1_rikaM1071.",
+		"TextJPN": "「そうですわ。@k@vS20/00/VTK1_rikaM1072.私が七代目。@k@vS20/00/VTK1_rikaM1073.梨花が八代目。@k@vS20/00/VTK1_rikaM1074.でも、それとその病気に何の関係があるというんです？」",
+		"NamesENG": "Rika's mom",
+		"TextENG": "``That's right.@k@vS20/00/VTK1_rikaM1072. I'm the seventh@k@vS20/00/VTK1_rikaM1073. and Rika is the eighth generation.@k@vS20/00/VTK1_rikaM1074. But what does that have to do with the disease?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4980,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1092.",
+		"TextJPN": "「うむ。@k@vS20/00/VTK1_rikaF1093.……この雛見沢症候群という病気は、ある種の寄生虫によるらしい。@k@vS20/00/VTK1_rikaF1094.虫といってもものすごく小さい。@k@vS20/00/VTK1_rikaF1095.人の目には決して見えんくらいに。@k@vS20/00/VTK1_rikaF1096.…その虫たちには親分格がいるというのだ」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "``Hmm.@k@vS20/00/VTK1_rikaF1093. ...This Hinamizawa Syndrome is caused by a type of parasite.@k@vS20/00/VTK1_rikaF1094. Although they're very tiny.@k@vS20/00/VTK1_rikaF1095. You can't even see them with the naked eye.@k@vS20/00/VTK1_rikaF1096. ...They say there's a sort of leader among these parasites.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4981,
+		"NamesJPN": "梨花の母",
+		"PreTextTags": "@vS20/00/VTK1_rikaM1075.",
+		"TextJPN": "「ま、…まさか、それが古手家だと仰るんですか！！」",
+		"NamesENG": "Rika's mom",
+		"TextENG": "``A-Are you saying... that's the Furude family?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4982,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1097.",
+		"TextJPN": "「その親分格の寄生虫は、代々古手家の直系だけに受け継がれるらしい。@k@vS20/00/VTK1_rikaF1098.つまり、…先代はお前。@k@vS20/00/VTK1_rikaF1099.今は、梨花だ」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "``It appears that the leader of these parasites is passed down through the generations only by people with a direct bloodline to the Furude family.@k@vS20/00/VTK1_rikaF1098. In other words, in the previous generation, it was you@k@vS20/00/VTK1_rikaF1099. and now it's Rika.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4983,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/VTK1_rika1053.",
+		"TextJPN": "「…みー」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Meep.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4984,
+		"NamesJPN": "梨花の母",
+		"PreTextTags": "@vS20/00/VTK1_rikaM1076.",
+		"TextJPN": "「ば、馬鹿馬鹿しい！！@k@vS20/00/VTK1_rikaM1077.　そんな話やっぱりおかしいですわ？！@k@vS20/00/VTK1_rikaM1078.　大体ですね、寄生虫なんてそんな気持ち悪いもの！！」",
+		"NamesENG": "Rika's mom",
+		"TextENG": "``Th-That's ridiculous!!@k@vS20/00/VTK1_rikaM1077. That's absolutely ridiculous!!@k@vS20/00/VTK1_rikaM1078. Why would it be something as disgusting as parasites in the first place?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4985,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1100.",
+		"TextJPN": "「だから落ち着きなさい！！@k@vS20/00/VTK1_rikaF1101.　私では説明が下手だ。@k@vS20/00/VTK1_rikaF1102.専門の人に説明を受けなさい。@k@vS20/00/VTK1_rikaF1103.そして、彼らが言うには、この病気の治療を研究するためには、親分格の研究が不可欠だと言うのだ」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "``Calm down!!@k@vS20/00/VTK1_rikaF1101. I'm not good at explaining things.@k@vS20/00/VTK1_rikaF1102. Please have the experts explain it to you.@k@vS20/00/VTK1_rikaF1103. According to them, studying this parasite leader is necessary in order to research the disease.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4986,
+		"NamesJPN": "梨花の母",
+		"PreTextTags": "@vS20/00/VTK1_rikaM1079.",
+		"TextJPN": "「嫌です！！！@k@vS20/00/VTK1_rikaM1080.　そんな怪しげな研究、まっぴらごめんですし、梨花だってそんな研究には関わらせません！！」",
+		"NamesENG": "Rika's mom",
+		"TextENG": "``No!!@k@vS20/00/VTK1_rikaM1080. I won't have anything to do with such suspicious research, and Rika won't either!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4987,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1104.",
+		"TextJPN": "「だから落ち着きなさいと言うのに！！@k@vS20/00/VTK1_rikaF1105.　彼らの研究では、雛見沢症候群は、村から離れると発病するのではなく、親分格から離れると発病するということらしいのだ」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "``I'm telling you to calm down!!@k@vS20/00/VTK1_rikaF1105. They think that Hinamizawa Syndrome acts out when separated from the parasite leader, not the village itself."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4988,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1106.",
+		"TextJPN": "「…お前も小さかった頃、村人から神通力があると言われていたことがあるだろう？@k@vS20/00/VTK1_rikaF1107.　遠方に出掛け、偏頭痛などにかかったお年寄りが、お前に払ってもらうとたちまち頭痛が消えたという神通力」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "...When you were little, do you remember villagers telling you that you had psychic powers?@k@vS20/00/VTK1_rikaF1107. You were able to cure elderly people who got migraines after taking a long trip."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4989,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1108.",
+		"TextJPN": "「…それこそが親分格の証拠でもあるというのだ。@k@vS20/00/VTK1_rikaF1109.古手の血には、発病者を救う力がある。@k@vS20/00/VTK1_rikaF1110.それを研究するのは治療薬を見つけるためにも、とても重要なことなのだそうだ」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "That's the proof that you were carrying the parasite leader.@k@vS20/00/VTK1_rikaF1109. The Furude bloodline has the power to cure people with the disease.@k@vS20/00/VTK1_rikaF1110. To discover a cure, it's extremely important that we participate in their research.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4990,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/VTK1_rika1054.",
+		"TextJPN": "「…ボクを研究すると、村のみんなが助かるのですか？」",
+		"NamesENG": "Rika",
+		"TextENG": "``......If they study me, will the villagers be saved?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4991,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1111.",
+		"TextJPN": "「先方はそう言っている」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "``That's what they say.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4992,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/VTK1_rika1055.",
+		"TextJPN": "「…その病気は村の全員が掛かっているのですか？@k@vS20/05/VTK1_rika1056.　ボクも？@k@vS20/05/VTK1_rika1057.　みんなも？@k@vS20/05/VTK1_rika1058.　沙都子も？」",
+		"NamesENG": "Rika",
+		"TextENG": "``......And all the villagers are infected?@k@vS20/05/VTK1_rika1056. Me?@k@vS20/05/VTK1_rika1057. Everyone else?@k@vS20/05/VTK1_rika1058. Satoko, too?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4993,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1112.",
+		"TextJPN": "「…うむ。@k@vS20/00/VTK1_rikaF1113.村に住む人間全員だけでなく、興宮に住む親類なども全て含むそうだ。@k@vS20/00/VTK1_rikaF1114.多分、何千人という規模になるだろう」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "``......Yes.@k@vS20/00/VTK1_rikaF1113. Not only the people who live in the village, but their relatives in Okinomiya too.@k@vS20/00/VTK1_rikaF1114. We're talking thousands of people."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4994,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1115.",
+		"TextJPN": "「それだけの大変な病気だから、厚生省がわざわざたくさんの予算を投じて専門の研究所を作ってくれたのだ」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "That's why the Ministry of Health spent so much money to build a specialized research center.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4995,
+		"NamesJPN": "梨花の母",
+		"PreTextTags": "@vS20/00/VTK1_rikaM1081.",
+		"TextJPN": "「わ、私は反対です！@k@vS20/00/VTK1_rikaM1082.　梨花をそんな怪しげな研究の生贄にするだなんて！！」",
+		"NamesENG": "Rika's mom",
+		"TextENG": "``I-I object!@k@vS20/00/VTK1_rikaM1082. How can you let Rika be a sacrifice for something that suspicious?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4996,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/VTK1_rika1059.",
+		"TextJPN": "「…ボクはいいのですよ。@k@vS20/05/VTK1_rika1060.ボクが生贄で沙都子が助かるなら、全然平気なのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``......I don't mind.@k@vS20/05/VTK1_rika1060. If Satoko can be saved, I don't mind being a sacrifice. I really don't.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4997,
+		"NamesJPN": "梨花の母",
+		"PreTextTags": "@vS20/00/VTK1_rikaM1083.",
+		"TextJPN": "「梨花は黙っていなさいッ！！@k@vS20/00/VTK1_rikaM1084.　とにかく絶対反対です！」",
+		"NamesENG": "Rika's mom",
+		"TextENG": "``You be quiet, Rika!!@k@vS20/00/VTK1_rikaM1084. I absolutely refuse!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4998,
+		"NamesJPN": "梨花の母",
+		"PreTextTags": "@vS20/00/VTK1_rikaM1085.",
+		"TextJPN": "「あなたにそんな妙なことを吹き込んだ人たちには、私が直接会ってはっきりとお断りをします。@k@vS20/00/VTK1_rikaM1086.梨花を変な実験で殺されてたまるものですか！！」",
+		"NamesENG": "Rika's mom",
+		"TextENG": "I'll go talk to them and refuse them directly.@k@vS20/00/VTK1_rikaM1086. I won't let them kill Rika in some crazy experiment!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 4999,
+		"NamesJPN": "梨花の母",
+		"PreTextTags": "@vS20/00/VTK1_rikaM1087.",
+		"TextJPN": "「大体、梨花は古手家のたった一人の跡継ぎなんですよ？！@k@vS20/00/VTK1_rikaM1088.　もしものことがあれば古手の血はここで絶えてしまうかもしれないじゃないですか！！」",
+		"NamesENG": "Rika's mom",
+		"TextENG": "Besides, Rika is the one and only heir of the Furude family!!@k@vS20/00/VTK1_rikaM1088. What if something happens to her? The Furude family will die right there. Don't you see that?!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5000,
+		"NamesJPN": "梨花の母",
+		"PreTextTags": "@vS20/00/VTK1_rikaM1089.",
+		"TextJPN": "「あなたはもっとですね、古手の家のことを考えていただかないと！！@k@vS20/00/VTK1_rikaM1090.　そんなだから村の人たちに日和見主義とか何とか言われて…！！」",
+		"NamesENG": "Rika's mom",
+		"TextENG": "You need to think more about our family!!@k@vS20/00/VTK1_rikaM1090. That's why the villagers call you an opportunist."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5001,
+		"NamesJPN": "梨花の母",
+		"PreTextTags": "@vS20/00/VTK1_rikaM1091.",
+		"TextJPN": "「大体、おかしいじゃないですか！！@k@vS20/00/VTK1_rikaM1092.　建設省は村をダムに沈める。@k@vS20/00/VTK1_rikaM1093.厚生省は村の病気を治す。@k@vS20/00/VTK1_rikaM1094.何が何だかさっぱりわからないです！！」",
+		"NamesENG": "Rika's mom",
+		"TextENG": "After all, don't you think it's odd?!@k@vS20/00/VTK1_rikaM1092. The Ministry of Construction is trying to submerge the village@k@vS20/00/VTK1_rikaM1093. and the Ministry of Health is trying to cure a disease.@k@vS20/00/VTK1_rikaM1094. What in the world is going on?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5002,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1116.",
+		"TextJPN": "「厚生省は、この病気は環境の変化で大変発病しやすいと警告していて、建設省に対しダム計画を中止するよう働きかけてくれているそうだ」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "``The Ministry of Health has warned that this disease could be triggered by a change in environment. So they're actually trying to have the Ministry of Construction stop the dam construction plan."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5003,
+		"NamesJPN": "梨花の父",
+		"PreTextTags": "@vS20/00/VTK1_rikaF1117.",
+		"TextJPN": "「…だからお前も研究所を見せてもらいなさい。@k@vS20/00/VTK1_rikaF1118.あれだけの大設備を、ダム湖に沈むかもしれない土地に建てるわけがない」",
+		"NamesENG": "Rika's dad",
+		"TextENG": "...You really should go to the research center.@k@vS20/00/VTK1_rikaF1118. Why would they build such a huge facility in a location that could be submerged?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5004,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/VTK1_rika1061.",
+		"TextJPN": "「…くぁぁぁあぁぁ…」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Hwaaaaaah...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5005,
+		"TextJPN": "梨花が大きく欠伸をする。",
+		"TextENG": "Rika let out a big yawn."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5006,
+		"TextJPN": "梨花のような少女には、もう堪える時間なのだろう。",
+		"TextENG": "It was long past bedtime for a little girl like her."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5007,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS20/05/VTK1_rika1062.",
+		"TextJPN": "「…ボクはもう寝ますです。@k@vS20/05/VTK1_rika1063.…父さん、ボクはいつでも協力すると、その人たちに言っておいてくださいなのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``......I'm going to bed now.@k@vS20/05/VTK1_rika1063. Dad, please let them know I'm willing to participate, okay?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5008,
+		"NamesJPN": "梨花の母",
+		"PreTextTags": "@vS20/00/VTK1_rikaM1095.",
+		"TextJPN": "「り、梨花！！@k@vS20/00/VTK1_rikaM1096.　そんなことお母さんに断りなく勝手に決めちゃいけません！！！@k@vS20/00/VTK1_rikaM1097.　梨花ッ！@k@vS20/00/VTK1_rikaM1098.　待ちなさい梨花！！！」",
+		"NamesENG": "Rika's mom",
+		"TextENG": "``R-Rika!!@k@vS20/00/VTK1_rikaM1096. You can't make such a decision without consulting me!!!@k@vS20/00/VTK1_rikaM1097. Rika!@k@vS20/00/VTK1_rikaM1098. Wait, Rika!!!``"
+	}
+]

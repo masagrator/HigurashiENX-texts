@@ -1,109 +1,107 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "引越しの手違い",
-            "ENG": "Moving Blunder"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 16756,
-            "NamesJPN": "運送屋",
-            "PreTextTags": "@vS20/00/unsoA44001.",
-            "TextJPN": "「……あれ？　ここにあった荷物、誰か知らないか？」",
-            "NamesENG": "Deliveryman",
-            "TextENG": "``...Huh? Does anyone know anything about the package that was here?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 16757,
-            "NamesJPN": "運送屋",
-            "PreTextTags": "@vS20/00/unsoB44001.",
-            "TextJPN": "「え、そこにあった大型家具ですか？　それでしたら、今さっき遠嶋さんがトラックに積み込んで配送に出ちゃいましたよ」",
-            "NamesENG": "Deliveryman",
-            "TextENG": "``Oh, you mean that large piece of furniture? If that's what you're looking for, Toujima-san loaded it on the truck earlier and it's already out for delivery.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 16758,
-            "NamesJPN": "運送屋",
-            "PreTextTags": "@vS20/00/unsoA44002.",
-            "TextJPN": "「ええ～！　ここにあったのって、明日配送の指定が入っていただろ？　今日持っていったら相手先に怒られるぞ！」",
-            "NamesENG": "Deliveryman",
-            "TextENG": "``Huuh~?! But, wasn't it specifically scheduled for delivery tomorrow? If the customer receives it today they'll be upset!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 16759,
-            "NamesJPN": "運送屋",
-            "PreTextTags": "@vS20/00/unsoB44002.",
-            "TextJPN": "「そうなんですかぁ？！　でも、もう２時間も前に出ちゃいましたし……」",
-            "NamesENG": "Deliveryman",
-            "TextENG": "``Really?! But it went out two hours ago...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 16760,
-            "NamesJPN": "運送屋",
-            "PreTextTags": "@vS20/00/unsoA44003.",
-            "TextJPN": "「まったく……！　なんでこんな初歩的ミスをしたんだ。遠嶋くんはうちじゃかなりのベテランのはずだろ？」",
-            "NamesENG": "Deliveryman",
-            "TextENG": "``Unbelievable...! How could we make such a basic mistake? Isn't Toujima-kun supposed to be a seasoned veteran?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 16761,
-            "NamesJPN": "運送屋",
-            "PreTextTags": "@vS20/00/unsoB44003.",
-            "TextJPN": "「あ……それですけど。なんでも先方から電話があって、今日にしてほしいって言ってきたそうですよ。遠嶋さん、勝手な客だってぷりぷりして運び込んでいましたから」",
-            "NamesENG": "Deliveryman",
-            "TextENG": "``Oh... well yes, but it seems we received a call from the recipient, requesting to do it today. So, Toujima-san angrily obliged the customer's selfish request.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 16762,
-            "NamesJPN": "運送屋",
-            "PreTextTags": "@vS20/00/unsoA44004.",
-            "TextJPN": "「え、……そうなのか？　でも、その日はどうしても不在でダメだから避けてくれって、何度も念押しされたって百貨店の担当が言ってたんだぞ？」",
-            "NamesENG": "Deliveryman",
-            "TextENG": "``Huh...? Really? But the department store manager told us over and over that we had to avoid delivering today since nobody would be available, didn't they?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 16763,
-            "NamesJPN": "運送屋",
-            "PreTextTags": "@vS20/00/unsoB44004.",
-            "TextJPN": "「事情はわかりませんけどね。……はぁ、お客さんは神様って言っても、こっちにも都合があるんですから。もう少し配慮してほしいもんですよ」",
-            "NamesENG": "Deliveryman",
-            "TextENG": "``I don't know the details. ...Haah, I know the customer's always right, but I wish they'd consider the trouble they're causing us for once.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 16764,
-            "NamesJPN": "運送屋",
-            "PreTextTags": "@vS20/00/unsoA44005.",
-            "TextJPN": "「……まったくだ。それで、その困った配送先の客の名前は？」",
-            "NamesENG": "Deliveryman",
-            "TextENG": "``...Absolutely. So, what's the name of the recipient for this troublesome delivery?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 16765,
-            "NamesJPN": "運送屋",
-            "PreTextTags": "@vS20/00/unsoB44005.",
-            "TextJPN": "「えーと、……あ、これですね。苗字は竜宮さんですね。住所は…………」",
-            "NamesENG": "Deliveryman",
-            "TextENG": "``Uhh... oh, here it is. The last name is Ryuugu-san. Address is......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 16766,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS20/12/441100042.",
-            "TextJPN": "「………………………………ふふ……」",
-            "NamesENG": "???",
-            "TextENG": "``.........Hehe...``"
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "引越しの手違い",
+		"ENG": "Moving Blunder"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 16756,
+		"NamesJPN": "運送屋",
+		"PreTextTags": "@vS20/00/unsoA44001.",
+		"TextJPN": "「……あれ？　ここにあった荷物、誰か知らないか？」",
+		"NamesENG": "Deliveryman",
+		"TextENG": "``...Huh? Does anyone know anything about the package that was here?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 16757,
+		"NamesJPN": "運送屋",
+		"PreTextTags": "@vS20/00/unsoB44001.",
+		"TextJPN": "「え、そこにあった大型家具ですか？　それでしたら、今さっき遠嶋さんがトラックに積み込んで配送に出ちゃいましたよ」",
+		"NamesENG": "Deliveryman",
+		"TextENG": "``Oh, you mean that large piece of furniture? If that's what you're looking for, Toujima-san loaded it on the truck earlier and it's already out for delivery.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 16758,
+		"NamesJPN": "運送屋",
+		"PreTextTags": "@vS20/00/unsoA44002.",
+		"TextJPN": "「ええ～！　ここにあったのって、明日配送の指定が入っていただろ？　今日持っていったら相手先に怒られるぞ！」",
+		"NamesENG": "Deliveryman",
+		"TextENG": "``Huuh~?! But, wasn't it specifically scheduled for delivery tomorrow? If the customer receives it today they'll be upset!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 16759,
+		"NamesJPN": "運送屋",
+		"PreTextTags": "@vS20/00/unsoB44002.",
+		"TextJPN": "「そうなんですかぁ？！　でも、もう２時間も前に出ちゃいましたし……」",
+		"NamesENG": "Deliveryman",
+		"TextENG": "``Really?! But it went out two hours ago...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 16760,
+		"NamesJPN": "運送屋",
+		"PreTextTags": "@vS20/00/unsoA44003.",
+		"TextJPN": "「まったく……！　なんでこんな初歩的ミスをしたんだ。遠嶋くんはうちじゃかなりのベテランのはずだろ？」",
+		"NamesENG": "Deliveryman",
+		"TextENG": "``Unbelievable...! How could we make such a basic mistake? Isn't Toujima-kun supposed to be a seasoned veteran?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 16761,
+		"NamesJPN": "運送屋",
+		"PreTextTags": "@vS20/00/unsoB44003.",
+		"TextJPN": "「あ……それですけど。なんでも先方から電話があって、今日にしてほしいって言ってきたそうですよ。遠嶋さん、勝手な客だってぷりぷりして運び込んでいましたから」",
+		"NamesENG": "Deliveryman",
+		"TextENG": "``Oh... well yes, but it seems we received a call from the recipient, requesting to do it today. So, Toujima-san angrily obliged the customer's selfish request.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 16762,
+		"NamesJPN": "運送屋",
+		"PreTextTags": "@vS20/00/unsoA44004.",
+		"TextJPN": "「え、……そうなのか？　でも、その日はどうしても不在でダメだから避けてくれって、何度も念押しされたって百貨店の担当が言ってたんだぞ？」",
+		"NamesENG": "Deliveryman",
+		"TextENG": "``Huh...? Really? But the department store manager told us over and over that we had to avoid delivering today since nobody would be available, didn't they?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 16763,
+		"NamesJPN": "運送屋",
+		"PreTextTags": "@vS20/00/unsoB44004.",
+		"TextJPN": "「事情はわかりませんけどね。……はぁ、お客さんは神様って言っても、こっちにも都合があるんですから。もう少し配慮してほしいもんですよ」",
+		"NamesENG": "Deliveryman",
+		"TextENG": "``I don't know the details. ...Haah, I know the customer's always right, but I wish they'd consider the trouble they're causing us for once.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 16764,
+		"NamesJPN": "運送屋",
+		"PreTextTags": "@vS20/00/unsoA44005.",
+		"TextJPN": "「……まったくだ。それで、その困った配送先の客の名前は？」",
+		"NamesENG": "Deliveryman",
+		"TextENG": "``...Absolutely. So, what's the name of the recipient for this troublesome delivery?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 16765,
+		"NamesJPN": "運送屋",
+		"PreTextTags": "@vS20/00/unsoB44005.",
+		"TextJPN": "「えーと、……あ、これですね。苗字は竜宮さんですね。住所は…………」",
+		"NamesENG": "Deliveryman",
+		"TextENG": "``Uhh... oh, here it is. The last name is Ryuugu-san. Address is......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 16766,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS20/12/441100042.",
+		"TextJPN": "「………………………………ふふ……」",
+		"NamesENG": "???",
+		"TextENG": "``.........Hehe...``"
+	}
+]

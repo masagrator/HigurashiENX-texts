@@ -1,685 +1,683 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "A3 一二三四",
-            "ENG": "A3 One, Two, Three, Four"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3764,
-            "TextJPN": "鷹野さんは、僕が訪れる度に一緒に撮影の散策に付き合ってくれた。",
-            "TextENG": "Takano-san always comes along with me whenever I go to take pictures on a stroll."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3765,
-            "TextJPN": "彼女なりにカメラの楽しみ方を見つけたらしく、僕も同好の仲間を作れてとても嬉しかった。",
-            "TextENG": "She might have discovered the joy of cameras, and I'm happy to gain a friend who shares the same hobby."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3766,
-            "TextJPN": "だが、彼女には実はそれ以上に没頭させる趣味があった。…それが、雛見沢の古代史などを調べることであった。",
-            "TextENG": "However, there's actually something else she's much more interested in. ...That would be the history of Hinamizawa."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3767,
-            "TextJPN": "彼女はまめに図書館や郷土資料館に足を運んでは、様々な文献を読み漁り、特に雛見沢に関しては、相当博識な郷土史家になっているようだった。",
-            "TextENG": "She frequently visited libraries and local archives to read through various documents and books, and when it comes to Hinamizawa, she's gained quite extensive knowledge of the local history."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3768,
-            "TextJPN": "彼女は機嫌がいい時、僕を捕まえては雛見沢がかつて鬼ヶ淵村と呼ばれていて、オヤシロさま信仰に基づく残酷な儀式をいくつも執り行っていた話を聞かせてくれた。",
-            "TextENG": "When she's in a good mood, she tells me about things like how Hinamizawa used be called Onigafuchi Village, and how the villagers there used to perform various cruel ceremonies based around the worship of Oyashiro-sama."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3769,
-            "TextJPN": "どうも彼女は物騒な話が大好きらしく、それがかえってミステリアスな魅力を感じさせるのだった。",
-            "TextENG": "It seemed she loved tales of violence, and that actually gave her a mysterious charm."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3770,
-            "TextJPN": "…生憎、僕にはどちらかというとグロテスクな話は苦手なので、実は相槌を打つのが精一杯。彼女が胸をときめかせる残酷な儀式の話には、実はあまりついていけてなかった。",
-            "TextENG": "...On the other hand, I don't do well with grotesque things, so I can hardly say anything in response. The stories of cruel ceremonies that she gets excited about... I don't really get them all that well."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3771,
-            "TextJPN": "それでも、そんな話を聞かせる時の彼女の輝く瞳が好きで、僕は彼女のそれに付き合うのがそんなに嫌いではなかった。",
-            "TextENG": "However, with the way her eyes light up when she talks, I don't mind spending time with her even if I have to hear about cruel things."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3772,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800025.",
-            "TextJPN": "「鷹野さんはそういうのを調べるのが好きだねぇ…！」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``You sure like looking into that stuff, don't you?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3773,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900017.",
-            "TextJPN": "「あら、だって楽しいわよ？　封印された過去の暗黒史を紐解くなんて、とてもわくわくすることだとは思わない？」",
-            "NamesENG": "Takano",
-            "TextENG": "``Sure, it's fun! It's thrilling to unravel a dark past that has been sealed away!! Don't you think so?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3774,
-            "TextJPN": "そう言いながら微笑む鷹野さんを見ていると、暗黒史というものがとても楽しそうなものに見えてきてしまう。",
-            "TextENG": "Takano-san smiled in a way that almost made it sound like a dark past is something fun."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3775,
-            "TextJPN": "…だがもちろんそんなことはない。彼女が好んで調べる雛見沢の暗黒史は、中世の魔女狩りを思わせるような残酷かつ無残なものばかりだ。",
-            "TextENG": "...But, of course, it isn't. The dark history of Hinamizawa that she loves is something cruel and atrocious, like the witch hunts in the Middle Ages."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3776,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900018.",
-            "TextJPN": "「それに、雛見沢症候群を調べる上でもとても役立つことなのよ？」",
-            "NamesENG": "Takano",
-            "TextENG": "``Besides, they help me in researching Hinamizawa Syndrome."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3777,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900019.",
-            "TextJPN": "「何も顕微鏡を覗くことだけが調べることになるとは限らない。この寄生虫と、長い時間を過ごしてきたこの村の伝承の方が、よっぽど重要な何かを教えてくれることもあるんだから」",
-            "NamesENG": "Takano",
-            "TextENG": "You don't have to always look through microscopes to research things. Sometimes, the traditions of this village that have spent so long with the parasite can teach us things that are far more valuable.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3778,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800026.",
-            "TextJPN": "「それもそうだね。…うん、鷹野さんは本当に研究熱心だよなぁ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``That's true. ...Boy, you sure are passionate about this.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3779,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900020.",
-            "TextJPN": "「くすくす。だって、研究こそ私のライフワークだもの。未知の神秘に踏み込み、誰も知らなかった秘密を暴くことって、とっても楽しいことだとは思わない？　知的好奇心をうずうずさせてくれる」",
-            "NamesENG": "Takano",
-            "TextENG": "``Hee hee. That's because research gives my life meaning. To step into the unknown and to uncover a secret that nobody else knows... don't you think that's wonderful? It tickles my intellectual curiosity."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3780,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900021.",
-            "TextJPN": "「それは多分、考えることに悦を感じることができる、人間だけに許された最高の娯楽だと思うの」",
-            "NamesENG": "Takano",
-            "TextENG": "That's probably the greatest entertainment available to humans, who can feel joy just from thinking."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3781,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900022.",
-            "TextJPN": "「この研究の第一人者だった高野先生も、雛見沢症候群の研究に生涯を捧げるだけの何かを見出し、その魅力に取り憑かれていたに違いないでしょうね」",
-            "NamesENG": "Takano",
-            "TextENG": "The first person to work on this, Dr. Takano, must have discovered something fascinating enough to make him devote his entire life to the researching of the syndrome too."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3782,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900023.",
-            "TextJPN": "「……多分、私だけが、そんな高野先生の気持ちを理解してると思うの。……研究者でないジロウさんには難しいかしら。くすくすくす」",
-            "NamesENG": "Takano",
-            "TextENG": "...I think I'm probably the only one who could understand his feelings. ...I suppose it would be too difficult for you, Jirou-san, since you're not a researcher. Hee hee hee.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3783,
-            "TextJPN": "彼女は雛見沢症候群の存在に初めて気付いた個人研究家、故高野氏について語る時はいつもとても雄弁だった。それは多分、研究者としての尊敬の念以上のものがあるのではないかと思う。",
-            "TextENG": "She always seems so enthusiastic every time she talks about the late Dr. Takano, an independent researcher who was the first person to discover the existence of the syndrome. There has to be something more there than just her admiration as a researcher."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3784,
-            "TextJPN": "…そう言えば気付いた。",
-            "TextENG": "...Come to think of it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3785,
-            "TextJPN": "高野先生は確か、フルネームが高野一二三だ。…そして鷹野さんは、鷹野三四。",
-            "TextENG": "Dr. Takano's full name was Hifumi Takano. ...Takano-san's full name is Miyo Takano."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3786,
-            "TextJPN": "どちらもタカノで、１２３と３４。…何だか不思議な関連性があるように感じた。",
-            "TextENG": "Not only are their last names pronounced the same, but their first names follow a similar pattern. ...They must be connected somehow."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3787,
-            "TextJPN": "鷹野さんの素性は僕も全てを知らされているわけではないが、多分、鷹野という名前は偽名である可能性が高い。",
-            "TextENG": "I don't know anything about Takano-san's personal history, but there's a good chance that her name is an alias."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3788,
-            "TextJPN": "……となると、尊敬する研究者にちなんだ名前を自らに付けている可能性もありえた。",
-            "TextENG": "So it's very possible she chose a name to reflect the researcher she admires."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3789,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800027.",
-            "TextJPN": "「なるほど。……ひょっとして鷹野さんは、だから三四という名前なのかい？」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``I see... So is that why you chose that name?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3790,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900024.",
-            "TextJPN": "「……え？」",
-            "NamesENG": "Takano",
-            "TextENG": "``...What?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3791,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800028.",
-            "TextJPN": "「いや、高野さんが尊敬しているその先生の名前が確か、高野一二三」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Well, the name of the researcher you look up to is 'Hifumi Takano', right?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3792,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800029.",
-            "TextJPN": "「そして、鷹野さんの名前が三四。…１２３の後を引き継いで、３４。彼が成し遂げられなかった研究を引き継いだから、そういう名前なのかなって思ってね」",
-            "NamesENG": "Tomitake",
-            "TextENG": "And your name is Miyo. In Japanese, it's like you're counting upwards. You're continuing the research he wasn't able to complete, so I thought maybe that's why you have that name.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3793,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900025.",
-            "TextJPN": "「……………………それを誰かに聞いたの？」",
-            "NamesENG": "Takano",
-            "TextENG": "``.........Who told you that?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3794,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800030.",
-            "TextJPN": "「…え？　いや、あはははは、今、僕が適当に考えただけなんだよ…。別に誰かが言ってたわけじゃ、」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Eh? No, ahahahaha, I just thought of that now. I didn't hear it from anybody.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3795,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900026.",
-            "TextJPN": "「くす。……正解よ。鈍いジロウさんにしてはよくわかったわね」",
-            "NamesENG": "Takano",
-            "TextENG": "``Hee hee. ...You're correct. I'm surprised you figured it out, since you're so dense.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3796,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800031.",
-            "TextJPN": "「いや、鷹野さんが、その高野先生をとても尊敬しているのは知ってたし、まるで自分が実の娘か孫で、研究の正当な後継者だというような感じで言っていることがあったからね」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``I know you admire Dr. Takano and sometimes you've spoken as if you were his daughter or a granddaughter, who inherited his research legitimately."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3797,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800032.",
-            "TextJPN": "「何となくそんな気がしただけなんだよ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "That's why I said that."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3798,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800033.",
-            "TextJPN": "「……作家のペンネームだって、ほら、尊敬する作家のオマージュで名前を付けることもあるし」",
-            "NamesENG": "Tomitake",
-            "TextENG": "Even authors, like Ranpo Edogawa, used their pen names as homages towards authors they admired as well."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3799,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800034.",
-            "TextJPN": "「なら、鷹野三四って名前もペンネームみたいなものなのかなぁって思って」",
-            "NamesENG": "Tomitake",
-            "TextENG": "So I thought maybe the name you use is like your pen name, you know.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3800,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900027.",
-            "TextJPN": "「そんなことはないわよ。鷹野三四は本名よ。……もっとも、鷹野のタカは、鳥の鷹じゃなくて、高い低いの高が正しいけれど」",
-            "NamesENG": "Takano",
-            "TextENG": "``No, that's not so. Miyo Takano is my real name. ...You write my family name differently, though.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3801,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800035.",
-            "TextJPN": "「え？　じゃあ、高野先生とは本当は同じ苗字なのかい？　それはますますびっくりだね…！　しかも三四が本名とは…。高野一二三の研究を高野三四が継ぐ…。何だか運命的偶然を感じるね…！」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Eh? Then it really is the exact same family name as Dr. Takano? That's even more of a surprise! And Miyo is your real name too... Miyo Takano continuing Hifumi Takano's life's work... What a fateful coincidence!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3802,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900028.",
-            "TextJPN": "「くすくす。ジロウさんったら、運命的だなんて大袈裟な。別に運命でも何でもないのよ。だって、私の祖父だもの」",
-            "NamesENG": "Takano",
-            "TextENG": "``Hee hee. You're overstating it, Jirou-san. This isn't fate of any kind. He's my grandfather.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3803,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800036.",
-            "TextJPN": "「…………え？！」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``......What?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3804,
-            "TextJPN": "それは初耳だった。",
-            "TextENG": "This is news to me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3805,
-            "TextJPN": "鷹野さんが高野先生の死後、残した文献から雛見沢症候群についてを見付け出し、研究を引き継いだということになっていた。",
-            "TextENG": "I heard Takano-san discovered documents about the Hinamizawa Syndrome left by Dr. Takano after his death, and decided to continue his research."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3806,
-            "TextJPN": "あくまでも高野先生とは他人であって、血縁であるという話は一度も聞いたことがなかった。",
-            "TextENG": "I've never heard of them being related before."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3807,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900029.",
-            "TextJPN": "「祖父の研究を引き継ぐために予算を、というと、まるで身内贔屓のために予算を引っ張ろうとしているように見えて、印象がよくないという風に助言をしてくれる人がいたので、タカの一文字を変えたからなの」",
-            "NamesENG": "Takano",
-            "TextENG": "``Someone told me it'd leave a bad impression if I asked for money to continue my grandfather's research; that people may think I'm trying to pull funds for a family matter. That's why I changed one of the characters in my last name."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3808,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900030.",
-            "TextJPN": "「だから人前で高野先生が私の祖父だと話したのは、……小泉のおじいちゃんを除いたら、ジロウさんを含めて他にいるかどうかという話よ」",
-            "NamesENG": "Takano",
-            "TextENG": "So other than Uncle Koizumi, you're the first person I've told this to.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3809,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800037.",
-            "TextJPN": "「…………そ、……そうだったのかい。………なるほどね。君が雛見沢症候群の研究に、入江所長も驚くほどの情熱を見せる理由がちょっとだけわかったよ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``......I... I see. ......I didn't know. So that's why you're so passionate about all this.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3810,
-            "TextJPN": "今ならはっきりと理解できる。……彼女は、祖父が完成できなかった研究を引き継いだのだ。",
-            "TextENG": "I understand very clearly now. She really did inherit the work her grandfather was unable to complete."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3811,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900031.",
-            "TextJPN": "「祖父も、医学的見地からだけでなく、古文書などの文献からも雛見沢症候群を探っていたの」",
-            "NamesENG": "Takano",
-            "TextENG": "``My grandfather researched Hinamizawa Syndrome not only from a medical point of view, but through old documents and literature as well."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3812,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900032.",
-            "TextJPN": "「……雛見沢症候群と何百年にもわたって共にあった村の文献を調べることは、何百倍もの倍率を持つ顕微鏡を覗くより価値がありえるというのは、祖父が私に教えてくれたことなの」",
-            "NamesENG": "Takano",
-            "TextENG": "Looking through the old stories of a village that has been living with the syndrome for hundreds of years can be far more valuable than looking through microscopes that magnify things hundreds of times. My grandfather taught me that.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3813,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800038.",
-            "TextJPN": "「……なるほどね。だとしたら、自分の完成できなかった研究をこれだけ立派に引き継いでくれたお祖父さんは、きっと喜んでいるだろうね。こんなに熱心な孫に引き継げて、とても嬉しいはずさ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``...I see. I'm sure your grandfather is happy that you're finishing the work he couldn't. I bet he's really proud of you.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3814,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900033.",
-            "TextJPN": "「くすくすくすくす。そうだといいわね」",
-            "NamesENG": "Takano",
-            "TextENG": "``Hee hee hee hee. I hope so.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3815,
-            "TextJPN": "普段の鷹野さんになら茶化されてしまうようなことを言ってしまったが、鷹野さんは茶化したりせず、普通に頷いて微笑んでくれた。……間違いない。彼女は本当に高野先生の孫娘なのだ。",
-            "TextENG": "I said something Takano-san would normally tease me about, but she didn't. She nodded and smiled. ...There's no mistake. She is indeed the granddaughter of Dr. Takano."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3816,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900034.",
-            "TextJPN": "「祖父が一二三で１２３。私は三四で３４」",
-            "NamesENG": "Takano",
-            "TextENG": "``My grandfather is Hifumi, which means 1, 2, 3. And I'm Miyo which means 3, 4."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3817,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900035.",
-            "TextJPN": "「……私は祖父を継ぎ、ようやく３を共に数えたに過ぎない。そして、祖父の次の４を数え、………私も祖父もまだ見ぬ５へ至らなければならない。それが私の使命であり、生まれてきた理由でもある」",
-            "NamesENG": "Takano",
-            "TextENG": "Following after my grandfather, we have only counted the 3 together. And counted the 4 after my grandfather. We must reach the 5 that neither me nor my grandfather has seen yet. That is my duty and the reason I was born.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3818,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800039.",
-            "TextJPN": "「それで三四という名前なんだね。素敵な名前だと思うよ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``So that's why your name is Miyo, huh? I think that's a beautiful name.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3819,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900036.",
-            "TextJPN": "「ありがとう。私が孫だという話は内緒にしてほしいの。クライアントの人たちにも言ってないから、耳に入って痛くもない腹を探られたくないので」",
-            "NamesENG": "Takano",
-            "TextENG": "``Thank you. But please keep the granddaughter issue to yourself. My clients don't even know, and I don't want any unnecessary problems from them finding out about it.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3820,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800040.",
-            "TextJPN": "「あはははは、うん。わかったよ。これは僕と鷹野さんの秘密ということで」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Ahahahaha, sure. Okay. This is a secret between you and me, huh?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3821,
-            "TextJPN": "こんなささやかな秘密でも、僕しか知らないというのには小さな優越感を感じずにはいられなかった。",
-            "TextENG": "Although it's only a small secret, it feels good to think that I'm the only one who knows about it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3822,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900037.",
-            "TextJPN": "「…………私はようやく３を数えただけ。まだ４にすら至っていない。研究の道のりはまだまだ険しく長いけれど、…私は最後までやり抜くわ。必ず雛見沢症候群の秘密を暴く」",
-            "NamesENG": "Takano",
-            "TextENG": "``......I've only counted to 3. I haven't even reached 4 yet. The path before me is long and rough, but I will do it. I will expose the secrets of Hinamizawa Syndrome.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3823,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800041.",
-            "TextJPN": "「僕もそれを応援するよ。………あはは、元々、それが僕の役割だしね」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``I'll support you... ...Ahaha, that's my job in the first place, isn't it?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3824,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900038.",
-            "TextJPN": "「もう。そういう余計なことを言わなければ充分かっこいいのに。一言、応援するって言ってくれればいいのよ」",
-            "NamesENG": "Takano",
-            "TextENG": "``Geez. You'd sound pretty cool if you didn't tack on things like that. You only needed to say that you'll support me, you know.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3825,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800042.",
-            "TextJPN": "「あ、あははははは…！　するよ、君を応援する」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Ah, ahahahahaha...! Okay, I'll support you.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3826,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900039.",
-            "TextJPN": "「二度言い直しても駄目ね。一回で言えなくちゃかっこよくはならないわね。くすくすくす」",
-            "NamesENG": "Takano",
-            "TextENG": "``It's too late. You're not cool if you can't get it right the first time. Hee hee hee.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3827,
-            "TextJPN": "僕たちは朗らかに笑い合うのだった。",
-            "TextENG": "We laughed cheerfully together."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3828,
-            "TextJPN": "そして笑い終わると、最後だけ釘を刺すように、彼女は少し真顔になって言った。",
-            "TextENG": "And after we finished laughing, she became serious again, and spoke as if to drive the point home."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3829,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900040.",
-            "TextJPN": "「だからジロウさん。……くれぐれも私が孫だって、言わないようにね」",
-            "NamesENG": "Takano",
-            "TextENG": "``So remember, Jirou-san. Don't tell anybody that I'm his granddaughter, okay?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3830,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800043.",
-            "TextJPN": "「言わないよ。約束する」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Okay, I promise.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3831,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900041.",
-            "TextJPN": "「孫だからいけないということはないけれど。……クライアントがそれを知って不快に思ったら、予算を切られるようなことがあるかもしれない」",
-            "NamesENG": "Takano",
-            "TextENG": "``It's not a bad thing, but I don't want the clients to cut our funding because of that.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3832,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800044.",
-            "TextJPN": "「そんなことはないと思うよ。第一、僕はしゃべらないしね…！」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``I don't think they will. Besides, I won't tell a soul!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3833,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900042.",
-            "TextJPN": "「絶対よ？　本当の本当に絶対よ…？」",
-            "NamesENG": "Takano",
-            "TextENG": "``Are you sure? Are you really, really sure...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3834,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900043.",
-            "TextJPN": "「私はこの研究のために命をもらったの。祖父の研究を完成させることだけが私の使命」",
-            "NamesENG": "Takano",
-            "TextENG": "This research is the entire purpose of my life. My mission is to complete my grandfather's work."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3835,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900044.",
-            "TextJPN": "「踏みにじられた研究が、世界を驚かす偉大なものであったことを証明し、土の下で朽ちる祖父を讃えさせ、…神に昇華させること。それだけが私の生きる理由であり目的なの。…………ジロウさん」",
-            "NamesENG": "Takano",
-            "TextENG": "To prove that his trampled research is actually something amazing that will shock the world and to make everyone praise my grandfather who is perishing away under the earth, eventually having him ascend as a god. That's the meaning and purpose of my life. ......Jirou-san,"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3836,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900045.",
-            "TextJPN": "「…もし、それを邪魔するような不用意な言葉をあなたがうっかり漏らして、研究に支障が出たならば…！！」",
-            "NamesENG": "Takano",
-            "TextENG": "if you say something that creates problems for my research...!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3837,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800045.",
-            "TextJPN": "「………だッ、大丈夫だよ、ここで聞いた話は忘れるよ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``...D-Don't worry. I'll forget everything you told me here.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3838,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900046.",
-            "TextJPN": "「…………………………………」",
-            "NamesENG": "Takano",
-            "TextENG": "``............``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3839,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800046.",
-            "TextJPN": "「…本当さ。…いや、絶対に口外しない」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``Really, I mean it. I won't say anything.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3840,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900047.",
-            "TextJPN": "「………………………」",
-            "NamesENG": "Takano",
-            "TextENG": "``............``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3841,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800047.",
-            "TextJPN": "「僕は約束は守るよ。@k@vS20/08/440800048.……絶対に言わない」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``I promise.@k@vS20/08/440800048. ...I won't say anything!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3842,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900048.",
-            "TextJPN": "「…絶対よ、ジロウさん……？」",
-            "NamesENG": "Takano",
-            "TextENG": "``...Are you sure, Jirou-san?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3843,
-            "TextJPN": "ほんのわずかだけ、彼女に鬼気迫る何かがあった。",
-            "TextENG": "I sensed something frightening within her for a moment."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3844,
-            "TextJPN": "僕は、彼女がそれに染まりきってしまうのが怖くて、先に秘密を守ることを誓う。",
-            "TextENG": "Afraid that she would end up possessed by it, I swore to keep the promise."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3845,
-            "TextJPN": "研究者としての知的好奇心と、祖父の研究を完成させたい気持ちの２つが、彼女を雛見沢症候群の研究への情熱を掻き立てているのはわかる。",
-            "TextENG": "Her intellectual curiosity as a researcher and her conviction to complete her grandfather's work are what stirs her passion for researching Hinamizawa Syndrome."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3846,
-            "TextJPN": "……だが、もう１つ、彼女を掻き立てている理由があるようだが、……それはあまりに深く、…僕如きが触れない方がいい、心の傷口の谷間にあるように感じられるのだった。",
-            "TextENG": "......I think there's one more reason, but it's far too deep and it's within a wound in her heart that someone like me should never touch."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3847,
-            "TextJPN": "それにしてさっき。…彼女が言った言葉。『研究に支障が出たならば…！！』の先は一体何と続けるつもりだったのか。………僕には、その後に何か恐ろしい言葉、容赦のない言葉が続いたような気がしてならない。",
-            "TextENG": "But earlier... She said... ``If you create problems for my research...`` I wonder what she wanted to say after that... I can't help thinking she wanted to say something terrifyingly merciless."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3848,
-            "TextJPN": "僕は彼女との約束を守り、…この日以来、この話題に触れたことはなかった…。",
-            "TextENG": "I kept my promise with her and we never talked about the issue again after that."
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "A3 一二三四",
+		"ENG": "A3 One, Two, Three, Four"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3764,
+		"TextJPN": "鷹野さんは、僕が訪れる度に一緒に撮影の散策に付き合ってくれた。",
+		"TextENG": "Takano-san always comes along with me whenever I go to take pictures on a stroll."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3765,
+		"TextJPN": "彼女なりにカメラの楽しみ方を見つけたらしく、僕も同好の仲間を作れてとても嬉しかった。",
+		"TextENG": "She might have discovered the joy of cameras, and I'm happy to gain a friend who shares the same hobby."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3766,
+		"TextJPN": "だが、彼女には実はそれ以上に没頭させる趣味があった。…それが、雛見沢の古代史などを調べることであった。",
+		"TextENG": "However, there's actually something else she's much more interested in. ...That would be the history of Hinamizawa."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3767,
+		"TextJPN": "彼女はまめに図書館や郷土資料館に足を運んでは、様々な文献を読み漁り、特に雛見沢に関しては、相当博識な郷土史家になっているようだった。",
+		"TextENG": "She frequently visited libraries and local archives to read through various documents and books, and when it comes to Hinamizawa, she's gained quite extensive knowledge of the local history."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3768,
+		"TextJPN": "彼女は機嫌がいい時、僕を捕まえては雛見沢がかつて鬼ヶ淵村と呼ばれていて、オヤシロさま信仰に基づく残酷な儀式をいくつも執り行っていた話を聞かせてくれた。",
+		"TextENG": "When she's in a good mood, she tells me about things like how Hinamizawa used be called Onigafuchi Village, and how the villagers there used to perform various cruel ceremonies based around the worship of Oyashiro-sama."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3769,
+		"TextJPN": "どうも彼女は物騒な話が大好きらしく、それがかえってミステリアスな魅力を感じさせるのだった。",
+		"TextENG": "It seemed she loved tales of violence, and that actually gave her a mysterious charm."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3770,
+		"TextJPN": "…生憎、僕にはどちらかというとグロテスクな話は苦手なので、実は相槌を打つのが精一杯。彼女が胸をときめかせる残酷な儀式の話には、実はあまりついていけてなかった。",
+		"TextENG": "...On the other hand, I don't do well with grotesque things, so I can hardly say anything in response. The stories of cruel ceremonies that she gets excited about... I don't really get them all that well."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3771,
+		"TextJPN": "それでも、そんな話を聞かせる時の彼女の輝く瞳が好きで、僕は彼女のそれに付き合うのがそんなに嫌いではなかった。",
+		"TextENG": "However, with the way her eyes light up when she talks, I don't mind spending time with her even if I have to hear about cruel things."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3772,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800025.",
+		"TextJPN": "「鷹野さんはそういうのを調べるのが好きだねぇ…！」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``You sure like looking into that stuff, don't you?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3773,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900017.",
+		"TextJPN": "「あら、だって楽しいわよ？　封印された過去の暗黒史を紐解くなんて、とてもわくわくすることだとは思わない？」",
+		"NamesENG": "Takano",
+		"TextENG": "``Sure, it's fun! It's thrilling to unravel a dark past that has been sealed away!! Don't you think so?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3774,
+		"TextJPN": "そう言いながら微笑む鷹野さんを見ていると、暗黒史というものがとても楽しそうなものに見えてきてしまう。",
+		"TextENG": "Takano-san smiled in a way that almost made it sound like a dark past is something fun."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3775,
+		"TextJPN": "…だがもちろんそんなことはない。彼女が好んで調べる雛見沢の暗黒史は、中世の魔女狩りを思わせるような残酷かつ無残なものばかりだ。",
+		"TextENG": "...But, of course, it isn't. The dark history of Hinamizawa that she loves is something cruel and atrocious, like the witch hunts in the Middle Ages."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3776,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900018.",
+		"TextJPN": "「それに、雛見沢症候群を調べる上でもとても役立つことなのよ？」",
+		"NamesENG": "Takano",
+		"TextENG": "``Besides, they help me in researching Hinamizawa Syndrome."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3777,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900019.",
+		"TextJPN": "「何も顕微鏡を覗くことだけが調べることになるとは限らない。この寄生虫と、長い時間を過ごしてきたこの村の伝承の方が、よっぽど重要な何かを教えてくれることもあるんだから」",
+		"NamesENG": "Takano",
+		"TextENG": "You don't have to always look through microscopes to research things. Sometimes, the traditions of this village that have spent so long with the parasite can teach us things that are far more valuable.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3778,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800026.",
+		"TextJPN": "「それもそうだね。…うん、鷹野さんは本当に研究熱心だよなぁ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``That's true. ...Boy, you sure are passionate about this.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3779,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900020.",
+		"TextJPN": "「くすくす。だって、研究こそ私のライフワークだもの。未知の神秘に踏み込み、誰も知らなかった秘密を暴くことって、とっても楽しいことだとは思わない？　知的好奇心をうずうずさせてくれる」",
+		"NamesENG": "Takano",
+		"TextENG": "``Hee hee. That's because research gives my life meaning. To step into the unknown and to uncover a secret that nobody else knows... don't you think that's wonderful? It tickles my intellectual curiosity."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3780,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900021.",
+		"TextJPN": "「それは多分、考えることに悦を感じることができる、人間だけに許された最高の娯楽だと思うの」",
+		"NamesENG": "Takano",
+		"TextENG": "That's probably the greatest entertainment available to humans, who can feel joy just from thinking."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3781,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900022.",
+		"TextJPN": "「この研究の第一人者だった高野先生も、雛見沢症候群の研究に生涯を捧げるだけの何かを見出し、その魅力に取り憑かれていたに違いないでしょうね」",
+		"NamesENG": "Takano",
+		"TextENG": "The first person to work on this, Dr. Takano, must have discovered something fascinating enough to make him devote his entire life to the researching of the syndrome too."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3782,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900023.",
+		"TextJPN": "「……多分、私だけが、そんな高野先生の気持ちを理解してると思うの。……研究者でないジロウさんには難しいかしら。くすくすくす」",
+		"NamesENG": "Takano",
+		"TextENG": "...I think I'm probably the only one who could understand his feelings. ...I suppose it would be too difficult for you, Jirou-san, since you're not a researcher. Hee hee hee.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3783,
+		"TextJPN": "彼女は雛見沢症候群の存在に初めて気付いた個人研究家、故高野氏について語る時はいつもとても雄弁だった。それは多分、研究者としての尊敬の念以上のものがあるのではないかと思う。",
+		"TextENG": "She always seems so enthusiastic every time she talks about the late Dr. Takano, an independent researcher who was the first person to discover the existence of the syndrome. There has to be something more there than just her admiration as a researcher."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3784,
+		"TextJPN": "…そう言えば気付いた。",
+		"TextENG": "...Come to think of it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3785,
+		"TextJPN": "高野先生は確か、フルネームが高野一二三だ。…そして鷹野さんは、鷹野三四。",
+		"TextENG": "Dr. Takano's full name was Hifumi Takano. ...Takano-san's full name is Miyo Takano."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3786,
+		"TextJPN": "どちらもタカノで、１２３と３４。…何だか不思議な関連性があるように感じた。",
+		"TextENG": "Not only are their last names pronounced the same, but their first names follow a similar pattern. ...They must be connected somehow."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3787,
+		"TextJPN": "鷹野さんの素性は僕も全てを知らされているわけではないが、多分、鷹野という名前は偽名である可能性が高い。",
+		"TextENG": "I don't know anything about Takano-san's personal history, but there's a good chance that her name is an alias."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3788,
+		"TextJPN": "……となると、尊敬する研究者にちなんだ名前を自らに付けている可能性もありえた。",
+		"TextENG": "So it's very possible she chose a name to reflect the researcher she admires."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3789,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800027.",
+		"TextJPN": "「なるほど。……ひょっとして鷹野さんは、だから三四という名前なのかい？」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``I see... So is that why you chose that name?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3790,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900024.",
+		"TextJPN": "「……え？」",
+		"NamesENG": "Takano",
+		"TextENG": "``...What?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3791,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800028.",
+		"TextJPN": "「いや、高野さんが尊敬しているその先生の名前が確か、高野一二三」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Well, the name of the researcher you look up to is 'Hifumi Takano', right?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3792,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800029.",
+		"TextJPN": "「そして、鷹野さんの名前が三四。…１２３の後を引き継いで、３４。彼が成し遂げられなかった研究を引き継いだから、そういう名前なのかなって思ってね」",
+		"NamesENG": "Tomitake",
+		"TextENG": "And your name is Miyo. In Japanese, it's like you're counting upwards. You're continuing the research he wasn't able to complete, so I thought maybe that's why you have that name.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3793,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900025.",
+		"TextJPN": "「……………………それを誰かに聞いたの？」",
+		"NamesENG": "Takano",
+		"TextENG": "``.........Who told you that?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3794,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800030.",
+		"TextJPN": "「…え？　いや、あはははは、今、僕が適当に考えただけなんだよ…。別に誰かが言ってたわけじゃ、」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Eh? No, ahahahaha, I just thought of that now. I didn't hear it from anybody.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3795,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900026.",
+		"TextJPN": "「くす。……正解よ。鈍いジロウさんにしてはよくわかったわね」",
+		"NamesENG": "Takano",
+		"TextENG": "``Hee hee. ...You're correct. I'm surprised you figured it out, since you're so dense.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3796,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800031.",
+		"TextJPN": "「いや、鷹野さんが、その高野先生をとても尊敬しているのは知ってたし、まるで自分が実の娘か孫で、研究の正当な後継者だというような感じで言っていることがあったからね」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``I know you admire Dr. Takano and sometimes you've spoken as if you were his daughter or a granddaughter, who inherited his research legitimately."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3797,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800032.",
+		"TextJPN": "「何となくそんな気がしただけなんだよ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "That's why I said that."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3798,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800033.",
+		"TextJPN": "「……作家のペンネームだって、ほら、尊敬する作家のオマージュで名前を付けることもあるし」",
+		"NamesENG": "Tomitake",
+		"TextENG": "Even authors, like Ranpo Edogawa, used their pen names as homages towards authors they admired as well."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3799,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800034.",
+		"TextJPN": "「なら、鷹野三四って名前もペンネームみたいなものなのかなぁって思って」",
+		"NamesENG": "Tomitake",
+		"TextENG": "So I thought maybe the name you use is like your pen name, you know.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3800,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900027.",
+		"TextJPN": "「そんなことはないわよ。鷹野三四は本名よ。……もっとも、鷹野のタカは、鳥の鷹じゃなくて、高い低いの高が正しいけれど」",
+		"NamesENG": "Takano",
+		"TextENG": "``No, that's not so. Miyo Takano is my real name. ...You write my family name differently, though.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3801,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800035.",
+		"TextJPN": "「え？　じゃあ、高野先生とは本当は同じ苗字なのかい？　それはますますびっくりだね…！　しかも三四が本名とは…。高野一二三の研究を高野三四が継ぐ…。何だか運命的偶然を感じるね…！」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Eh? Then it really is the exact same family name as Dr. Takano? That's even more of a surprise! And Miyo is your real name too... Miyo Takano continuing Hifumi Takano's life's work... What a fateful coincidence!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3802,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900028.",
+		"TextJPN": "「くすくす。ジロウさんったら、運命的だなんて大袈裟な。別に運命でも何でもないのよ。だって、私の祖父だもの」",
+		"NamesENG": "Takano",
+		"TextENG": "``Hee hee. You're overstating it, Jirou-san. This isn't fate of any kind. He's my grandfather.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3803,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800036.",
+		"TextJPN": "「…………え？！」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``......What?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3804,
+		"TextJPN": "それは初耳だった。",
+		"TextENG": "This is news to me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3805,
+		"TextJPN": "鷹野さんが高野先生の死後、残した文献から雛見沢症候群についてを見付け出し、研究を引き継いだということになっていた。",
+		"TextENG": "I heard Takano-san discovered documents about the Hinamizawa Syndrome left by Dr. Takano after his death, and decided to continue his research."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3806,
+		"TextJPN": "あくまでも高野先生とは他人であって、血縁であるという話は一度も聞いたことがなかった。",
+		"TextENG": "I've never heard of them being related before."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3807,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900029.",
+		"TextJPN": "「祖父の研究を引き継ぐために予算を、というと、まるで身内贔屓のために予算を引っ張ろうとしているように見えて、印象がよくないという風に助言をしてくれる人がいたので、タカの一文字を変えたからなの」",
+		"NamesENG": "Takano",
+		"TextENG": "``Someone told me it'd leave a bad impression if I asked for money to continue my grandfather's research; that people may think I'm trying to pull funds for a family matter. That's why I changed one of the characters in my last name."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3808,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900030.",
+		"TextJPN": "「だから人前で高野先生が私の祖父だと話したのは、……小泉のおじいちゃんを除いたら、ジロウさんを含めて他にいるかどうかという話よ」",
+		"NamesENG": "Takano",
+		"TextENG": "So other than Uncle Koizumi, you're the first person I've told this to.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3809,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800037.",
+		"TextJPN": "「…………そ、……そうだったのかい。………なるほどね。君が雛見沢症候群の研究に、入江所長も驚くほどの情熱を見せる理由がちょっとだけわかったよ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``......I... I see. ......I didn't know. So that's why you're so passionate about all this.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3810,
+		"TextJPN": "今ならはっきりと理解できる。……彼女は、祖父が完成できなかった研究を引き継いだのだ。",
+		"TextENG": "I understand very clearly now. She really did inherit the work her grandfather was unable to complete."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3811,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900031.",
+		"TextJPN": "「祖父も、医学的見地からだけでなく、古文書などの文献からも雛見沢症候群を探っていたの」",
+		"NamesENG": "Takano",
+		"TextENG": "``My grandfather researched Hinamizawa Syndrome not only from a medical point of view, but through old documents and literature as well."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3812,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900032.",
+		"TextJPN": "「……雛見沢症候群と何百年にもわたって共にあった村の文献を調べることは、何百倍もの倍率を持つ顕微鏡を覗くより価値がありえるというのは、祖父が私に教えてくれたことなの」",
+		"NamesENG": "Takano",
+		"TextENG": "Looking through the old stories of a village that has been living with the syndrome for hundreds of years can be far more valuable than looking through microscopes that magnify things hundreds of times. My grandfather taught me that.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3813,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800038.",
+		"TextJPN": "「……なるほどね。だとしたら、自分の完成できなかった研究をこれだけ立派に引き継いでくれたお祖父さんは、きっと喜んでいるだろうね。こんなに熱心な孫に引き継げて、とても嬉しいはずさ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``...I see. I'm sure your grandfather is happy that you're finishing the work he couldn't. I bet he's really proud of you.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3814,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900033.",
+		"TextJPN": "「くすくすくすくす。そうだといいわね」",
+		"NamesENG": "Takano",
+		"TextENG": "``Hee hee hee hee. I hope so.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3815,
+		"TextJPN": "普段の鷹野さんになら茶化されてしまうようなことを言ってしまったが、鷹野さんは茶化したりせず、普通に頷いて微笑んでくれた。……間違いない。彼女は本当に高野先生の孫娘なのだ。",
+		"TextENG": "I said something Takano-san would normally tease me about, but she didn't. She nodded and smiled. ...There's no mistake. She is indeed the granddaughter of Dr. Takano."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3816,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900034.",
+		"TextJPN": "「祖父が一二三で１２３。私は三四で３４」",
+		"NamesENG": "Takano",
+		"TextENG": "``My grandfather is Hifumi, which means 1, 2, 3. And I'm Miyo which means 3, 4."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3817,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900035.",
+		"TextJPN": "「……私は祖父を継ぎ、ようやく３を共に数えたに過ぎない。そして、祖父の次の４を数え、………私も祖父もまだ見ぬ５へ至らなければならない。それが私の使命であり、生まれてきた理由でもある」",
+		"NamesENG": "Takano",
+		"TextENG": "Following after my grandfather, we have only counted the 3 together. And counted the 4 after my grandfather. We must reach the 5 that neither me nor my grandfather has seen yet. That is my duty and the reason I was born.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3818,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800039.",
+		"TextJPN": "「それで三四という名前なんだね。素敵な名前だと思うよ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``So that's why your name is Miyo, huh? I think that's a beautiful name.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3819,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900036.",
+		"TextJPN": "「ありがとう。私が孫だという話は内緒にしてほしいの。クライアントの人たちにも言ってないから、耳に入って痛くもない腹を探られたくないので」",
+		"NamesENG": "Takano",
+		"TextENG": "``Thank you. But please keep the granddaughter issue to yourself. My clients don't even know, and I don't want any unnecessary problems from them finding out about it.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3820,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800040.",
+		"TextJPN": "「あはははは、うん。わかったよ。これは僕と鷹野さんの秘密ということで」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Ahahahaha, sure. Okay. This is a secret between you and me, huh?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3821,
+		"TextJPN": "こんなささやかな秘密でも、僕しか知らないというのには小さな優越感を感じずにはいられなかった。",
+		"TextENG": "Although it's only a small secret, it feels good to think that I'm the only one who knows about it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3822,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900037.",
+		"TextJPN": "「…………私はようやく３を数えただけ。まだ４にすら至っていない。研究の道のりはまだまだ険しく長いけれど、…私は最後までやり抜くわ。必ず雛見沢症候群の秘密を暴く」",
+		"NamesENG": "Takano",
+		"TextENG": "``......I've only counted to 3. I haven't even reached 4 yet. The path before me is long and rough, but I will do it. I will expose the secrets of Hinamizawa Syndrome.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3823,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800041.",
+		"TextJPN": "「僕もそれを応援するよ。………あはは、元々、それが僕の役割だしね」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``I'll support you... ...Ahaha, that's my job in the first place, isn't it?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3824,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900038.",
+		"TextJPN": "「もう。そういう余計なことを言わなければ充分かっこいいのに。一言、応援するって言ってくれればいいのよ」",
+		"NamesENG": "Takano",
+		"TextENG": "``Geez. You'd sound pretty cool if you didn't tack on things like that. You only needed to say that you'll support me, you know.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3825,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800042.",
+		"TextJPN": "「あ、あははははは…！　するよ、君を応援する」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Ah, ahahahahaha...! Okay, I'll support you.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3826,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900039.",
+		"TextJPN": "「二度言い直しても駄目ね。一回で言えなくちゃかっこよくはならないわね。くすくすくす」",
+		"NamesENG": "Takano",
+		"TextENG": "``It's too late. You're not cool if you can't get it right the first time. Hee hee hee.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3827,
+		"TextJPN": "僕たちは朗らかに笑い合うのだった。",
+		"TextENG": "We laughed cheerfully together."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3828,
+		"TextJPN": "そして笑い終わると、最後だけ釘を刺すように、彼女は少し真顔になって言った。",
+		"TextENG": "And after we finished laughing, she became serious again, and spoke as if to drive the point home."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3829,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900040.",
+		"TextJPN": "「だからジロウさん。……くれぐれも私が孫だって、言わないようにね」",
+		"NamesENG": "Takano",
+		"TextENG": "``So remember, Jirou-san. Don't tell anybody that I'm his granddaughter, okay?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3830,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800043.",
+		"TextJPN": "「言わないよ。約束する」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Okay, I promise.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3831,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900041.",
+		"TextJPN": "「孫だからいけないということはないけれど。……クライアントがそれを知って不快に思ったら、予算を切られるようなことがあるかもしれない」",
+		"NamesENG": "Takano",
+		"TextENG": "``It's not a bad thing, but I don't want the clients to cut our funding because of that.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3832,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800044.",
+		"TextJPN": "「そんなことはないと思うよ。第一、僕はしゃべらないしね…！」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``I don't think they will. Besides, I won't tell a soul!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3833,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900042.",
+		"TextJPN": "「絶対よ？　本当の本当に絶対よ…？」",
+		"NamesENG": "Takano",
+		"TextENG": "``Are you sure? Are you really, really sure...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3834,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900043.",
+		"TextJPN": "「私はこの研究のために命をもらったの。祖父の研究を完成させることだけが私の使命」",
+		"NamesENG": "Takano",
+		"TextENG": "This research is the entire purpose of my life. My mission is to complete my grandfather's work."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3835,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900044.",
+		"TextJPN": "「踏みにじられた研究が、世界を驚かす偉大なものであったことを証明し、土の下で朽ちる祖父を讃えさせ、…神に昇華させること。それだけが私の生きる理由であり目的なの。…………ジロウさん」",
+		"NamesENG": "Takano",
+		"TextENG": "To prove that his trampled research is actually something amazing that will shock the world and to make everyone praise my grandfather who is perishing away under the earth, eventually having him ascend as a god. That's the meaning and purpose of my life. ......Jirou-san,"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3836,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900045.",
+		"TextJPN": "「…もし、それを邪魔するような不用意な言葉をあなたがうっかり漏らして、研究に支障が出たならば…！！」",
+		"NamesENG": "Takano",
+		"TextENG": "if you say something that creates problems for my research...!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3837,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800045.",
+		"TextJPN": "「………だッ、大丈夫だよ、ここで聞いた話は忘れるよ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``...D-Don't worry. I'll forget everything you told me here.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3838,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900046.",
+		"TextJPN": "「…………………………………」",
+		"NamesENG": "Takano",
+		"TextENG": "``............``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3839,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800046.",
+		"TextJPN": "「…本当さ。…いや、絶対に口外しない」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``Really, I mean it. I won't say anything.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3840,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900047.",
+		"TextJPN": "「………………………」",
+		"NamesENG": "Takano",
+		"TextENG": "``............``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3841,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800047.",
+		"TextJPN": "「僕は約束は守るよ。@k@vS20/08/440800048.……絶対に言わない」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``I promise.@k@vS20/08/440800048. ...I won't say anything!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3842,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900048.",
+		"TextJPN": "「…絶対よ、ジロウさん……？」",
+		"NamesENG": "Takano",
+		"TextENG": "``...Are you sure, Jirou-san?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3843,
+		"TextJPN": "ほんのわずかだけ、彼女に鬼気迫る何かがあった。",
+		"TextENG": "I sensed something frightening within her for a moment."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3844,
+		"TextJPN": "僕は、彼女がそれに染まりきってしまうのが怖くて、先に秘密を守ることを誓う。",
+		"TextENG": "Afraid that she would end up possessed by it, I swore to keep the promise."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3845,
+		"TextJPN": "研究者としての知的好奇心と、祖父の研究を完成させたい気持ちの２つが、彼女を雛見沢症候群の研究への情熱を掻き立てているのはわかる。",
+		"TextENG": "Her intellectual curiosity as a researcher and her conviction to complete her grandfather's work are what stirs her passion for researching Hinamizawa Syndrome."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3846,
+		"TextJPN": "……だが、もう１つ、彼女を掻き立てている理由があるようだが、……それはあまりに深く、…僕如きが触れない方がいい、心の傷口の谷間にあるように感じられるのだった。",
+		"TextENG": "......I think there's one more reason, but it's far too deep and it's within a wound in her heart that someone like me should never touch."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3847,
+		"TextJPN": "それにしてさっき。…彼女が言った言葉。『研究に支障が出たならば…！！』の先は一体何と続けるつもりだったのか。………僕には、その後に何か恐ろしい言葉、容赦のない言葉が続いたような気がしてならない。",
+		"TextENG": "But earlier... She said... ``If you create problems for my research...`` I wonder what she wanted to say after that... I can't help thinking she wanted to say something terrifyingly merciless."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3848,
+		"TextJPN": "僕は彼女との約束を守り、…この日以来、この話題に触れたことはなかった…。",
+		"TextENG": "I kept my promise with her and we never talked about the issue again after that."
+	}
+]

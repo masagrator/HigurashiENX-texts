@@ -1,1822 +1,1820 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 0,
-            "JPN": "言祝し編",
-            "ENG": "Kotohogushi-hen"
-        },
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "#1 監視者ジェダ",
-            "ENG": "#1 監視者ジェダ"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145416,
-            "PreTextTags": "@vS16/00/VV_shino_1001.",
-            "TextJPN": "――それは、とても古い昔の、おとぎ話。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145417,
-            "PreTextTags": "@vS16/00/VV_shino_1002.",
-            "TextJPN": "ほんの少しの『違い』によって生まれた、とある不思議な物語。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145418,
-            "PreTextTags": "@vS16/00/VV_shino_1003.",
-            "TextJPN": "誰かのために懸命に生きて、@k@vS16/00/VV_shino_1004.誰かのために懸命に願った、@k@vS16/00/VV_shino_1005.ひとつの家族の、絆の物語……。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145419,
-            "TextJPN": "…まさに、凄惨な光景だった。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145420,
-            "TextJPN": "草木は燃え。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145421,
-            "TextJPN": "大地は焦土と化し。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145422,
-            "TextJPN": "灼熱の爆煙に乗って塵芥が舞い、紅蓮の炎が草木や家屋、田畑を焼き払って闇夜を真昼のごとくに照らし出している。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145423,
-            "TextJPN": "そして、地面を埋め尽くすように折り重なって大量に転がっているのは、血肉の塊と化した生物の骸。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145424,
-            "TextJPN": "そこにはおびただしいまでの恐怖と絶望があり、死の匂いが焼けただれた淀みとなって、見渡す限りの視界を覆っていた。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145425,
-            "TextJPN": "グルゥ…グルルゥ…！！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145426,
-            "TextJPN": "そびえ立つほどの巨躯たちが無数に唸り声を上げながら、燃え盛る炎を取り囲む。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145427,
-            "TextJPN": "それらの、大木の幹のように隆々とした腕からは、長く鋭い爪が伸びて。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145428,
-            "TextJPN": "耳元まで裂けた口には、禍々しく尖った牙がむき出している。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145429,
-            "TextJPN": "彼らは、数多の同朋と下僕を従え、幾多の村落から畏れられるほどに絶対的な力と脅威を誇った…いわゆる、『鬼』の一族。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145430,
-            "TextJPN": "気まぐれに人里を襲い、田畑を荒らし、獣や人間を殺戮して喰らう、…非力な人々にとっては忌避の存在だった。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145431,
-            "TextJPN": "…そんな『鬼』たちの多くが四肢を斬られ、心の臓を貫かれた末、物言わぬ肉片となってそこかしこに転がっている。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145432,
-            "TextJPN": "それは文字通りに、…死屍累々の惨状。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145433,
-            "TextJPN": "もしも、悪夢という言葉が形となってこの世に存在するのだとすれば、…それは、たった今ここで繰り広げられている、目の前の光景であろう。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145434,
-            "TextJPN": "己の力の絶大無比を信じてきた彼らにはこの現実を信じることができず、ゆえに狼狽どころか恐怖すら覚えて、その場を動くこともままならなかった。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145435,
-            "TextJPN": "ギギッ…ギギィ…ッ！！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145436,
-            "TextJPN": "その、『鬼』たちから少し離れた後方に、さらに一回り大きな『鬼』の姿がある。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145437,
-            "TextJPN": "人間の言語を解し、殺戮の本能を制御する理性を持つ一方で、他の『鬼』たちをはるかに凌駕した力を持つそれを、村に住まう人間たちは『首領』と呼んでいる。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145438,
-            "TextJPN": "また、『鬼』たちも自分たちの首領としてその命に従い、その絶対的な剛力と脅威を信じて疑わなかった。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145439,
-            "TextJPN": "グッ、グルルゥゥ…！！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145440,
-            "TextJPN": "しかし今は、『首領』の低く、重い唸り声の中に戸惑い…そして、それ以上の恐怖が響きとなって入り混じる。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145441,
-            "TextJPN": "それはもはや震えにも等しく、いまだに轟音を上げて燃え続ける炎の中に動く『気配』を感じてからは、さらに強まっていった。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145442,
-            "NamesJPN": "鬼",
-            "PreTextTags": "@vS16/00/VT4D_oni1001.（…さすがは、『@bピュトゥス.@<純血@>』最強の監視者。@k@vS16/00/VT4D_oni1002.この程度では、倒せぬか…っ！）",
-            "TextJPN": "",
-            "NamesENG": "鬼",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145443,
-            "TextJPN": "それでも、そんな動揺を振り払うように『鬼』たちは一斉に禍々しい瞳を燃え上がる炎の壁へと向けて、唸り声をあげながらその爪を、その牙をむいて待ち構える。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145444,
-            "TextJPN": "全身の筋肉がはちきれんばかりに、暴虐な力が溜め込まれてゆき。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145445,
-            "TextJPN": "あらゆる箇所の関節がきしむほどに、殺戮と凶気の衝動がみなぎっていく。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145446,
-            "TextJPN": "ただ、その身体は小刻みに震えて、激しく脈打つ鼓動はいっそう高鳴って…。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145447,
-            "TextJPN": "ぽたり、ぽたり、…と絶え間なく全身を流れ落ちる汗は、周囲の炎や激闘の熱によって生まれ出たものだけではなくなっていた。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145448,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070001.",
-            "TextJPN": "「――――」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145449,
-            "TextJPN": "やがて、炎の中から人影が浮かびあがり、…『それ』が、姿を見せる。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145450,
-            "TextJPN": "悠然とした足取りで外套をなびかせながら、風に踊るのは長く、紫紺に映えた髪。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145451,
-            "TextJPN": "そして、その頭部には二本の角がまさに『鬼』のように生えて、その鋭く、禍々しい様を見せつけていた。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145452,
-            "TextJPN": "焼け焦げた地肌をゆっくりと確かな足取りで踏みしめながら、『それ』は『鬼』たちの前に進み出る。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145453,
-            "TextJPN": "…一見、人間の女性のような背丈の、華奢な体つき。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145454,
-            "TextJPN": "しかし、その細い、優美に伸びた腕の先にはまるで柳の葉のように長く、鋭い輝きをまとったひと振りの剣がまっすぐに伸びている。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145455,
-            "TextJPN": "そして、その切っ先からは今もなお、…おびただしい量の生き血が絶え間なく滴り落ちていた。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145456,
-            "TextJPN": "その時、わずかに残っていた建物の柱が崩れ落ち、そのあおりを受けて炎の勢いが一瞬、勢いを増す。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145457,
-            "TextJPN": "その明るみを背後に受け、能面のように乾いた『それ』の表情が照らし出されたその時、…『鬼』たちは戦慄した。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145458,
-            "TextJPN": "ギッ？！　ギギィィッッ…！！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145459,
-            "TextJPN": "…信じられない。いや、信じられるはずがなかった。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145460,
-            "TextJPN": "まったくの、…無傷。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145461,
-            "TextJPN": "あまつさえ呼吸は乱れず、動揺すら顔色にはなく、…わずかに全身を包む外套が、土埃と返り血に塗れているだけだ。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145462,
-            "TextJPN": "そして、影に隠れていた瞳が緋色に染まって…鋭く、冷たく。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145463,
-            "TextJPN": "酷薄の輝きをはらんで、居並ぶ『鬼』たちが怯むほどに傲然と見据えていた。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145464,
-            "NamesJPN": "鬼",
-            "PreTextTags": "@vS16/00/VT4D_oni1003.（必殺を期した罠も、まるで役立たずか…！）",
-            "TextJPN": "",
-            "NamesENG": "鬼",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145465,
-            "TextJPN": "…迎え撃つ準備は万全を期し、事も想定通りに運んだ。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145466,
-            "TextJPN": "自分たちが根城としていた村役人の屋敷へと『それ』を誘い出し、圧倒的な数で取り囲む。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145467,
-            "TextJPN": "そして、機を見計らい仕掛けた爆薬を作動させて、敷地ごと木端微塵に吹き飛ばす――。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145468,
-            "TextJPN": "その代償として、逃げ遅れた…あるいは逃げる暇すらもなかった半数ほどの連中は、閃光と爆風の中に飲み込まれて跡形もなく消え去ったが。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145469,
-            "TextJPN": "討ち果たすべき『それ』も『鬼』たちに行く手を遮られて命を落とすか、さもなくば致命傷を負っている…はずだった。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145470,
-            "TextJPN": "しかし――。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145471,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070002.",
-            "TextJPN": "「これが、お前たちの言っていた、@k@vS16/45/DS43070003.…奥の手か？」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145472,
-            "TextJPN": "炎の明かりに浮かびあがったその顔には苦痛の表情どころか、…感情がない。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145473,
-            "TextJPN": "怒りも、憐れみも、…笑みすらも。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145474,
-            "TextJPN": "そして、翡翠色に輝くその瞳は血のように赤く染まって。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145475,
-            "TextJPN": "…刃のように鋭く、強い光をたたえながら『鬼』たちを見据えていた。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145476,
-            "NamesJPN": "鬼",
-            "PreTextTags": "@vS16/00/VT4D_oni1004.（……バケモノめ…ッ！！）",
-            "TextJPN": "",
-            "NamesENG": "鬼",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145477,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070004.",
-            "TextJPN": "「…かりにもリューン十八@bハィ.@<羽爵@>のひとり、ジェダの家名を継ぐ我が身。@k@vS16/45/DS43070005.そなたら外道に落ちた者の小賢しき手にかかるほど、落ちぶれてはおらぬ」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145478,
-            "TextJPN": "グッ、グルルゥ…！！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145479,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070006.",
-            "TextJPN": "「とはいえ、従う者たちの命さえも謀って撒き餌にするとは、@k@vS16/45/DS43070007.…酔狂も過ぎるがな」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145480,
-            "TextJPN": "ギッ、ギィィィ…、ギィィィッッ！！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145481,
-            "TextJPN": "圧倒的な恐怖と絶望に耐えきれず、惑乱した『鬼』たちは『それ』――ジェダに向かって叫喚とともに突進してゆく。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145482,
-            "TextJPN": "その動きは疾風の如く、目にも『止まらない』速さで間合いを詰める。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145483,
-            "TextJPN": "そして接近するや巨大な爪を振りかざし、鋭い牙をむき出して一気に襲いかかった――！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145484,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070008.",
-            "TextJPN": "「一斉攻撃か、@k@vS16/45/DS43070009.…悪くない」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145485,
-            "TextJPN": "数と勢いを駆って、相手の意表をつき、…裂帛の気合でもって反撃の隙すら与えず、猛攻をかける。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145486,
-            "TextJPN": "それによって生じた戸惑いは、判断をくるわせて。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145487,
-            "TextJPN": "迷いからの躊躇は、注意の分散を促す。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145488,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070010.",
-            "TextJPN": "「だが――」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145489,
-            "TextJPN": "ギャァァアァァァッッ！！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145490,
-            "TextJPN": "グギャォォオォォォッッ！！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145491,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070011.",
-            "TextJPN": "「…力の差を見抜けなくては、ただの蛮勇だ」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145492,
-            "TextJPN": "…ジェダが繰り出した剣撃の動きは、目にも『映らなかった』。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145493,
-            "TextJPN": "光の閃きだけが残像となって網膜に焼きついていたが、…『首領』の目をもってしても、ジェダがどう剣を繰り出し、どう相手を斬り伏せたのかさえ、全くわからない。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145494,
-            "TextJPN": "さらに、",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145495,
-            "TextJPN": "感じるのは、わずかに遅れて届く斬撃の音と、断末魔の叫び。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145496,
-            "TextJPN": "そして、…それが耳に届くと同時に、地響きが何度も、何度も続いて。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145497,
-            "TextJPN": "『鬼』たちがひとつ、またひとつと撃ち倒されていった…！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145498,
-            "TextJPN": "グゲェェエェッッ！！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145499,
-            "TextJPN": "はっきりと、目に映っていたのは一歩、また一歩と近づくその姿。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145500,
-            "TextJPN": "その歩みとともに、血しぶきが舞って赤黒い霧を作り出し。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145501,
-            "TextJPN": "生臭い、鉄のようにすえた臭いが徐々に強くなる。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145502,
-            "TextJPN": "ギギャォォオォッッ！！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145503,
-            "TextJPN": "時折ゆらり、ゆらり…とその姿は、蜃気楼のように揺れて。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145504,
-            "TextJPN": "しかし眼光だけはまっすぐ『首領』を射抜くように、その強い輝きをみなぎらせている。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145505,
-            "TextJPN": "まるで夢…そう、悪い夢でも見ているかのような、非現実的な光景。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145506,
-            "TextJPN": "その有様に『首領』は四肢を動くこともままならず、息も、…思考さえも停止していた。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145507,
-            "TextJPN": "やがて、自分のものとは違う息遣いが『首領』自身にも聞こえるほどの距離に達したその時――。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145508,
-            "NamesJPN": "鬼",
-            "PreTextTags": "@vS16/00/VT4D_oni1005.（……なっ？！）",
-            "TextJPN": "",
-            "NamesENG": "鬼",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145509,
-            "TextJPN": "ふいに、ジェダは立ち止まった。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145510,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070012.",
-            "TextJPN": "「……ふん…」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145511,
-            "TextJPN": "そして、軽い吐息とともにジェダは刀についた返り血を振り払って、ぎらり、…と、その切っ先を首領に向ける。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145512,
-            "TextJPN": "はっ、と我に返って自分の周囲を見渡すと、…取り巻いていた他の『鬼』たちはジェダによってすべて斬り倒されて――。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145513,
-            "TextJPN": "もはや、地上に立っているのはジェダと、最後の贄たる自分のみだということに…『首領』はようやく、気がついた。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145514,
-            "NamesJPN": "鬼",
-            "PreTextTags": "@vS16/00/VT4D_oni1006.（やはり…噂にたがわぬ。@k@vS16/00/VT4D_oni1007.――だがッ！！！）",
-            "TextJPN": "",
-            "NamesENG": "鬼",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145515,
-            "TextJPN": "わずかに。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145516,
-            "TextJPN": "ジェダが息を吸い込んで硬さを含んだ瞬間、『首領』は地を蹴って一気に間合いを詰める。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145517,
-            "TextJPN": "そして、相手の迎え撃つ構えが整うよりも早くその巨大な腕を振り上げ、長く伸びた鋭い爪をひらめかせながら、至近にて無防備に立つその姿を一気に斬り裂いた。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145518,
-            "TextJPN": "――しかし。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145519,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070013.",
-            "TextJPN": "「――遅い」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145520,
-            "TextJPN": "そこにジェダの姿はすでになく、叩きつけた掌は宙を抜けて何もない地面を砕く。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145521,
-            "TextJPN": "そして。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145522,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070014.",
-            "TextJPN": "「祈るがいい、下郎…！！」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145523,
-            "NamesJPN": "鬼",
-            "PreTextTags": "@vS16/00/VT4D_oni1008.（なにっ？！）",
-            "TextJPN": "",
-            "NamesENG": "鬼",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145524,
-            "TextJPN": "その呟きが『背後』から聞こえていたことを悟った瞬間、ぞっとするような悪寒に『首領』は振り返るよりも早くその場を蹴って、勢いよく横に身を投げ出す。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145525,
-            "TextJPN": "刹那、閃光が一条眩くきらめき、…数拍遅れて風を切り裂く音が、鼓膜を震わせる。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145526,
-            "TextJPN": "そして次の瞬間、…自身が先ほどまで立っていた場所の近くにあった大木が、鈍く重い響きをあげて横殴りに倒れていった。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145527,
-            "NamesJPN": "鬼",
-            "PreTextTags": "@vS16/00/VT4D_oni1009.（……ッッ？！）",
-            "TextJPN": "",
-            "NamesENG": "鬼",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145528,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070015.",
-            "TextJPN": "「さすが『@bピュトゥス.@<純血@>』、かわされたのは久しぶりだ」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145529,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070016.",
-            "TextJPN": "「…初撃を、な」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145530,
-            "TextJPN": "そう呟いて…ジェダが髪をかきあげると、同時に。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145531,
-            "NamesJPN": "鬼",
-            "PreTextTags": "@vS16/00/VT4D_oni1010.（ぐっ…？！　ぐがぁぁぁッッ！！）",
-            "TextJPN": "",
-            "NamesENG": "鬼",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145532,
-            "TextJPN": "『首領』が右の肩口と左脚の付け根に灼熱のような鋭い痛みを感じた途端、…鮮血が勢いよく噴き出す。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145533,
-            "TextJPN": "…かわしたのは、最初の一撃だけだった。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145534,
-            "TextJPN": "『首領』が体勢を崩した隙を狙ってさらに二度、ジェダは斬りつけていたのだ…！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145535,
-            "TextJPN": "しかも…しかもっ！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145536,
-            "TextJPN": "その傷は狙ったように動脈を切り裂き、深手ではないはずなのにおびただしい流血を強いている…！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145537,
-            "NamesJPN": "鬼",
-            "PreTextTags": "@vS16/00/VT4D_oni1011.（太刀筋が…見えないっ？@k@vS16/00/VT4D_oni1012.　バカなっ！　同じ『@bピュトゥス.@<純血@>』で、これほどの差が…ッ？！）",
-            "TextJPN": "",
-            "NamesENG": "鬼",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145538,
-            "TextJPN": "あふれ出る流血と激痛すらも忘れて、『首領』は驚愕にうち震える。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145539,
-            "TextJPN": "『首領』はジェダと同じく、立場の違いこそあれ同じリューンの血を引く者。…でありながら、これほどの差が厳然と存在している。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145540,
-            "TextJPN": "たとえ最強であれ、疲れもあれば傷も負う。ゆえに計略をかけて体力を削ぎ、その直後に多勢でかかれば倒せるはず。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145541,
-            "TextJPN": "そんな己の目論見の甘さを、『首領』はようやく思い知った…！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145542,
-            "TextJPN": "ガッ、…ガァァアァァァッッ！！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145543,
-            "TextJPN": "『首領』は焦燥と狼狽のあまり、腕を振り回して襲いかかる。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145544,
-            "TextJPN": "薙いだ閃撃は烈風となって、虚空を裂き。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145545,
-            "TextJPN": "振り下ろした殴撲は固土を抉って、深い爪痕を残す。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145546,
-            "TextJPN": "が、…当たらない。当たらないのだ。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145547,
-            "TextJPN": "渾身の力を込めた、必殺の攻撃が。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145548,
-            "TextJPN": "これまで、この村や周囲の集落でおびただしい死と恐怖をつくり出してきたはずの腕が、爪が、牙が。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145549,
-            "TextJPN": "…まったくの、無力。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145550,
-            "TextJPN": "しかもその攻撃は、かわされたり、防がれたりしているものではない――！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145551,
-            "NamesJPN": "鬼",
-            "PreTextTags": "@vS16/00/VT4D_oni1013.（なぜだ…なぜ、これが当たらぬッ！！）",
-            "TextJPN": "",
-            "NamesENG": "鬼",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145552,
-            "TextJPN": "『首領』が暴れ回り、血を吐かんばかりの咆哮を喉の奥から迸らせながら何度も激しく斬りつけても斬りつけても、…ジェダは幻像のように刃を通過してしまう。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145553,
-            "TextJPN": "足も。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145554,
-            "TextJPN": "腕も。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145555,
-            "TextJPN": "もちろん、顔も。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145556,
-            "TextJPN": "その、闇に舞う長髪や、動きにたわんだ外套さえ、かすらせることすらできないのだ。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145557,
-            "TextJPN": "しかも、少しの隙を狙って繰り出されるジェダの斬撃はあやまたず四肢の肉を貫き、関節を砕き、神経を断ち切って徐々に動きを奪ってゆく…！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145558,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070017.",
-            "TextJPN": "「遅いな」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145559,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070018.",
-            "TextJPN": "「こっちだ」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145560,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070019.",
-            "TextJPN": "「がら空きだな」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145561,
-            "TextJPN": "ギャアァァアァッッッ！！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145562,
-            "TextJPN": "…動きの速さ、ではない。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145563,
-            "TextJPN": "もっと違う、…自分たちにすらない能力の『次元』の違いだった。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145564,
-            "TextJPN": "ガァァアァァァッッ！！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145565,
-            "TextJPN": "そして、脚の腱を両方とも斬られた『首領』は、ついに立つことすらままならずその場に膝をついてどう、と崩れ落ちる。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145566,
-            "TextJPN": "すでに、腕は振り回すどころか…上げることさえも、できない。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145567,
-            "TextJPN": "…しかし、それほどに満身創痍の『首領』を至近距離から悠然と見下ろしながら、ジェダは今や真っ赤に染まりきった刀身を鼻先に突き出し、傲然と『…立て』と言い放った。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145568,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070020.",
-            "TextJPN": "「…どうした？　もう仕舞いなのか」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145569,
-            "TextJPN": "グッ、グォォォッ…！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145570,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070021.",
-            "TextJPN": "「その程度か。その程度なのか、お前は？@k@vS16/45/DS43070022.　…いや、そうではあるまい。@k@vS16/45/DS43070023.仮にもリューンの血を引き、『@bピュトゥス.@<純血@>』を名乗るお前が多くの生命を犠牲にして得たものが、この程度であるはずがない」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145571,
-            "NamesJPN": "鬼",
-            "PreTextTags": "@vS16/00/VT4D_oni1014.（ぐっ、ぐぅぅ…ッ！！）",
-            "TextJPN": "",
-            "NamesENG": "鬼",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145572,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070024.",
-            "TextJPN": "「さぁ。早くここで、お前の全力を見せるがいい。@k@vS16/45/DS43070025.…立て。そのために、お前の爪や牙は『折らずに』残してやったのだから――」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145573,
-            "NamesJPN": "鬼",
-            "PreTextTags": "@vS16/00/VT4D_oni1015.（こ、こいつ…まだ、底があるのかッ？！）",
-            "TextJPN": "",
-            "NamesENG": "鬼",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145574,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070026.",
-            "TextJPN": "「リューンの法は、罪と罰に等価を求める。@k@vS16/45/DS43070027.…ゆえに、お前には義務がある」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145575,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070028.",
-            "TextJPN": "「これまでに狩ってきたあわれな人間たち、破滅へと導いていった同朋たちへの仕打ちと同じように、@k@vS16/45/DS43070029.私を存分に愉しませ、長き星霜のつかの間の慰めとして、その贄となる義務」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145576,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070030.",
-            "TextJPN": "「それこそが、お前にふさわしき報い…！」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145577,
-            "TextJPN": "グギャオォォォッッ！！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145578,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070031.",
-            "TextJPN": "「…さぁ、立て。@k@vS16/45/DS43070032.そして踊れ、舞え。@k@vS16/45/DS43070033.魂を燃やし尽くし、血を絞り出して戦え。@k@vS16/45/DS43070034.その血と本能に従って戦え。@k@vS16/45/DS43070035.憎しみと恨みをもって戦え。@k@vS16/45/DS43070036.戦え。戦え」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145579,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070037.",
-            "TextJPN": "「…そして、我が手にかかって死ね！！」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145580,
-            "NamesJPN": "鬼",
-            "PreTextTags": "@vS16/00/VT4D_oni1016.（て…撤収だ！！@k@vS16/00/VT4D_oni1017.　我一人では敵わぬ…違いすぎるッ！！）",
-            "TextJPN": "",
-            "NamesENG": "鬼",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145581,
-            "TextJPN": "もはや、恐怖を隠すこともなかった。『首領』は大地を蹴って身を翻し、ジェダが立つ場所とは反対の方向へと駆け出す。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145582,
-            "TextJPN": "だが――。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145583,
-            "NamesJPN": "鬼",
-            "PreTextTags": "@vS16/00/VT4D_oni1018.（ぐあぁぁぁあぁぁっっっ！！）",
-            "TextJPN": "",
-            "NamesENG": "鬼",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145584,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070038.",
-            "TextJPN": "「…逃げる資格は、お前には無い」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145585,
-            "TextJPN": "瞬く間に距離を詰められ、ジェダの突き出した一撃が『首領』の背を襲い、肺を貫く。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145586,
-            "TextJPN": "その途端、裂けた口から鮮血が噴水のように吹き出し、目の前が真っ赤に染まっていった。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145587,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070039.",
-            "TextJPN": "「…ジェダの務めに、未遂の文字はない。@k@vS16/45/DS43070040.処断を下すか、下されるか。@k@vS16/45/DS43070041.殺すか、殺されるか。@k@vS16/45/DS43070042.…それが、『監視者』としての定めであり、我が罪業」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145588,
-            "TextJPN": "ギッ、…ギィィッ…！！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145589,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070043.",
-            "TextJPN": "「罪なきこの地の弱者たちを襲い、弄んで殺した貴様。@k@vS16/45/DS43070044.安寧の日々を送っていた同朋たちを惑わせ、凶気へと駆り立てた貴様」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145590,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070045.",
-            "TextJPN": "「…その罪は重く、赦しがたし。@k@vS16/45/DS43070046.ゆえに、これまでの過ちを記憶から掘り起こし、苦しみ、悶えながらしばしの時間、自らの存在とともに罪業を悔い改めるがいい…」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145591,
-            "TextJPN": "そう言ってジェダは剣を引き抜くと、激痛と呼吸困難にあえぎうずくまる『首領』の前に回り込んで、…かすかな声で詠唱を呟く。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145592,
-            "TextJPN": "それに呼応するかのように、前腕を覆っていた装甲服の袖が消えて、白い肌がむき出しになる。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145593,
-            "TextJPN": "さらに、刀身の血を外套で乱暴に拭い取ってから、右の足をわずかに引いて半身の姿勢となり、前に突き出した左腕にそっ、と剣を這わせた。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145594,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070047.",
-            "TextJPN": "「――っ…」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145595,
-            "TextJPN": "薄く裂かれた傷跡から血があふれだして、その刀身を再びまだらに染めてゆく。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145596,
-            "TextJPN": "そして、ジェダは長弓を引くように剣を持つ右手を後ろに引くと、まっすぐに片手突きの構えを取った。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145597,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070048.",
-            "TextJPN": "「…リューン十八@bハィ.@<羽爵@>のひとり、ジェダの家名を継ぐ者、リューン・クロッソス第３５詞の定めに従いてそなたに問う」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145598,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070049.",
-            "TextJPN": "「我ら、リューンの民が天より授かりし宝は誇り高き過去、美しき現在、そして満ち足りた未来…」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145599,
-            "TextJPN": "ガッ、ガァァ……ッ…！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145600,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070050.",
-            "TextJPN": "「なれど、掟を破りし同朋に許されるのは、そのうちのひとつのみ。@k@vS16/45/DS43070051.…最後に、今一度問う。@k@vS16/45/DS43070052.そなたが欲するのは過去か、現在か…それとも、未来か？」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145601,
-            "TextJPN": "ギィ…ギギィッ…！！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145602,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070053.",
-            "TextJPN": "「『助けて』…か」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145603,
-            "TextJPN": "ギィッ、…ギィ…ッ！！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145604,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070054.",
-            "TextJPN": "「『許して』…か」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145605,
-            "TextJPN": "その言葉の呟きとともに、ジェダの眼光はなおも鋭く、強くなっていく。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145606,
-            "TextJPN": "怒りでもない。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145607,
-            "TextJPN": "愉悦でもない。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145608,
-            "TextJPN": "ただ、無色透明の『監視者』、そして『処刑執行人』としての@bきょうじ.@<矜持@>。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145609,
-            "TextJPN": "ゆえに――。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145610,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070055.",
-            "TextJPN": "「…今までにそう哀願した連中に対して、貴様は何をした？」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145611,
-            "TextJPN": "全ての情状をさしはさむ余地を持たず、また対象者の命乞いに耳を傾けることもなかった。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145612,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070056.",
-            "TextJPN": "「空に星を、緑に花を。@k@vS16/45/DS43070057.あしきゆめには、沈黙の@bうた.@<詩@>。@k@vS16/45/DS43070058.貴様の未来は、すでに虚無の中にあり。@k@vS16/45/DS43070059.――ゆえに、ここで散れッッ！！」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145613,
-            "TextJPN": "ガッ、…ガァァアァァァッッ！！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145614,
-            "NamesJPN": "？？？",
-            "PreTextTags": "@vS16/45/DS43070060.",
-            "TextJPN": "「ハィ＝リューン・イェアソムール・ジェダ。@k@vS16/45/DS43070061.それが、貴様の死神の名」",
-            "NamesENG": "???",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145615,
-            "NamesJPN": "イェアソムール",
-            "PreTextTags": "@vS16/45/DS43070062.",
-            "TextJPN": "「――同朋の名を汚す痴れ人よ。…@bこんぱく.@<魂魄@>とともに、逝くがいい」",
-            "NamesENG": "イェアソムール",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145616,
-            "NamesJPN": "イェアソムール",
-            "PreTextTags": "@vS16/45/DS43070063.",
-            "TextJPN": "「――っあぁァァッッッ！！」",
-            "NamesENG": "イェアソムール",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145617,
-            "TextJPN": "ギャァァァアアァァァッッ！！！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145618,
-            "NamesJPN": "イェアソムール",
-            "PreTextTags": "@vS16/45/DS43070064.",
-            "TextJPN": "「…これでは、蘇生は無理か」",
-            "NamesENG": "イェアソムール",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145619,
-            "TextJPN": "崩れかけた家屋の陰で、地に伏せっていた男の顔をのぞき見て…ジェダは嘆息する。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145620,
-            "TextJPN": "他の亡骸と比べても深手の傷をいくつも持ち、出血も酷い上、…延髄が破壊されていた。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145621,
-            "TextJPN": "おそらく戦いの術すらも持っていなかったのだろうが、その満身創痍の有様を見る限り、守るべきものを守る責務を果たそうとした決死の思いが伝わってくる…。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145622,
-            "NamesJPN": "リューン＝オーク",
-            "PreTextTags": "@vS16/00/DS43050001.",
-            "TextJPN": "『…イェアソムール・ジェダ、脱出の準備を。@k@vS16/00/DS43050002.もうすぐ屋敷の中に仕掛けられた、残りの爆薬が引火します』",
-            "NamesENG": "リューン＝オーク",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145623,
-            "NamesJPN": "イェアソムール",
-            "PreTextTags": "@vS16/45/DS43070065.",
-            "TextJPN": "「わかっている。@k@vS16/45/DS43070066.…避難民はどうなった？」",
-            "NamesENG": "イェアソムール",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145624,
-            "NamesJPN": "リューン＝オーク",
-            "PreTextTags": "@vS16/00/DS43050003.",
-            "TextJPN": "『問題ありません。@k@vS16/00/DS43050004.シーツェン・ジェダが追手をすべて撃破しました。@k@vS16/00/DS43050005.もはや『@bグリフィス.@<混血@>』の気配はどこにも存在しません』",
-            "NamesENG": "リューン＝オーク",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145625,
-            "NamesJPN": "イェアソムール",
-            "PreTextTags": "@vS16/45/DS43070067.",
-            "TextJPN": "「…そうか」",
-            "NamesENG": "イェアソムール",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145626,
-            "TextJPN": "脳裏に直接聞こえてきた『声』に返事を送ってから、それでもジェダは引き返さずに奥の部屋へと向かう。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145627,
-            "TextJPN": "先ほどの戦闘中、この家屋の中からほんの一瞬だが、…何かの気配を感じたのだ。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145628,
-            "NamesJPN": "イェアソムール",
-            "PreTextTags": "@-@vS16/45/DS43070068.（勘が正しければ、この付近に生存者がいるはず…）",
-            "TextJPN": "",
-            "NamesENG": "イェアソムール",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145629,
-            "TextJPN": "それに加えて、ここまで抵抗した形跡のある男の亡骸の存在がいっそう、その可能性を裏付ける。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145630,
-            "TextJPN": "ゆえに一度は立ち去りかけたジェダだが、もう少し調べてみようと思い直し、さらに足を室内に踏み入れていった。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145631,
-            "NamesJPN": "イェアソムール",
-            "PreTextTags": "@vS16/45/DS43070069.",
-            "TextJPN": "「ん……？」",
-            "NamesENG": "イェアソムール",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145632,
-            "TextJPN": "ふと、床に転がったものに目を止め、しゃがみ込んで拾い上げる。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145633,
-            "TextJPN": "…それは、小さな人形だった。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145634,
-            "NamesJPN": "イェアソムール",
-            "PreTextTags": "@vS16/45/DS43070070.",
-            "TextJPN": "「…………」",
-            "NamesENG": "イェアソムール",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145635,
-            "TextJPN": "それが落ちていたところからさほど離れていない床板のひとつが、少しだけ浮きあがっている。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145636,
-            "TextJPN": "違和感を覚えたジェダがそれをこじ開けると、…床板の下は、小さな収納庫になっていた。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145637,
-            "TextJPN": "のぞき込むと隅の方で、うずくまって倒れている女性の姿が見える。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145638,
-            "NamesJPN": "イェアソムール",
-            "PreTextTags": "@vS16/45/DS43070071.",
-            "TextJPN": "「あ……」",
-            "NamesENG": "イェアソムール",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145639,
-            "TextJPN": "そしてその女性の腕の中では、赤子が守られるように抱かれていた。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145640,
-            "TextJPN": "おそらく母親なのだろう…その女性は出血がひどく、息もすでにない。…それでも、子は辛うじて生きているようだった。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145641,
-            "NamesJPN": "イェアソムール",
-            "PreTextTags": "@vS16/45/DS43070072.",
-            "TextJPN": "「むぅ…」",
-            "NamesENG": "イェアソムール",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145642,
-            "TextJPN": "すぐに助け出そうとしたが、…ふと、ジェダは差し出した腕を止めて躊躇する。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145643,
-            "TextJPN": "この地に住まう人間たちの暮らしは、決して楽なものではない。貧しいとまでは言わないが、自分と家族の食物を確保するだけでも精一杯だ。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145644,
-            "TextJPN": "まして、この騒乱の直後だ。元の水準に戻すだけでも数年はかかるだろう。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145645,
-            "TextJPN": "そんな中で両親を失い、生活を営む手段など持つはずもない乳飲み子がたどるべき道は、おのずから想像ができる。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145646,
-            "TextJPN": "おそらくはこの先、死ぬよりも重い辛苦が待っていることに違いない…。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145647,
-            "NamesJPN": "イェアソムール",
-            "PreTextTags": "@-@vS16/45/DS43070073.（それならば、母のそばで――）",
-            "TextJPN": "",
-            "NamesENG": "イェアソムール",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145648,
-            "TextJPN": "そう、心の中で呟いて。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145649,
-            "TextJPN": "せめて、ひと思いに逝かせてやろうとジェダは、手に持つ剣を振り上げる。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145650,
-            "TextJPN": "そして、その切っ先をまっすぐ子供の喉元に――。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145651,
-            "TextJPN": "…………。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145652,
-            "TextJPN": "……。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145653,
-            "NamesJPN": "リューン＝オーク",
-            "PreTextTags": "@vS16/00/DS43050006.",
-            "TextJPN": "『……ジェダ？』",
-            "NamesENG": "リューン＝オーク",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145654,
-            "NamesJPN": "イェアソムール",
-            "PreTextTags": "@vS16/45/DS43070074.",
-            "TextJPN": "「リューン＝オーク。@k@vS16/45/DS43070075.この付近で、生存者たちが避難した居場所はわかるか？」",
-            "NamesENG": "イェアソムール",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145655,
-            "NamesJPN": "リューン＝オーク",
-            "PreTextTags": "@vS16/00/DS43050007.",
-            "TextJPN": "『…どうするおつもりです？』",
-            "NamesENG": "リューン＝オーク",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145656,
-            "NamesJPN": "イェアソムール",
-            "PreTextTags": "@vS16/45/DS43070076.",
-            "TextJPN": "「……」",
-            "NamesENG": "イェアソムール",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145657,
-            "NamesJPN": "イェアソムール",
-            "PreTextTags": "@vS16/45/DS43070077.",
-            "TextJPN": "「気紛れだ。多少、脚色が必要だろうがな」",
-            "NamesENG": "イェアソムール",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145658,
-            "TextJPN": "そう言って、ジェダは赤ん坊を母親の胸元から抱きかかえる。そして血泥に汚れたその顔を、そっと指で拭った。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145659,
-            "PreTextTags": "@vS16/00/DS43030001.",
-            "TextJPN": "今はもう、昔の話。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145660,
-            "PreTextTags": "@vS16/00/DS43030002.",
-            "TextJPN": "この地に突然、悪い鬼たちが遠い山を越えてやってきました。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145661,
-            "PreTextTags": "@vS16/00/DS43030003.",
-            "TextJPN": "鬼たちは食べ物を奪い、家畜を襲い、村人たちに悪さをして暴れまわっていました。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145662,
-            "PreTextTags": "@vS16/00/DS43030004.",
-            "TextJPN": "しかし、村人たちは何もできませんでした。それを守ろうとした人は殺されて、生き胆を食われてしまうからです。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145663,
-            "PreTextTags": "@vS16/00/DS43030005.",
-            "TextJPN": "だから、村人たちはいつも家の中に閉じこもって、鬼たちから隠れて暮らすようになりました。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145664,
-            "PreTextTags": "@vS16/00/DS43030006.",
-            "TextJPN": "夜だけでなく、昼間も。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145665,
-            "PreTextTags": "@vS16/00/DS43030007.",
-            "TextJPN": "雨の日も、晴れの日も。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145666,
-            "PreTextTags": "@vS16/00/DS43030008.",
-            "TextJPN": "…それでも鬼たちは、まるで狩りを楽しむように人家を襲い、村人を殺し続けました。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145667,
-            "PreTextTags": "@vS16/00/DS43030009.",
-            "TextJPN": "やがて、田畑から食べ物がなくなり、家の蓄えも底を尽きかけて…。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145668,
-            "PreTextTags": "@vS16/00/DS43030010.",
-            "TextJPN": "彼らが死を覚悟した、ある日のこと――。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145669,
-            "PreTextTags": "@vS16/00/DS43030011.",
-            "TextJPN": "村はずれの沼から、ひとりの神様が現れたのです。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145670,
-            "PreTextTags": "@vS16/00/DS43030012.",
-            "TextJPN": "神様には、鬼たちと同じように角がありました。そのため、最初は村人たちも鬼がやってきたのだと思って震えあがっていました。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145671,
-            "PreTextTags": "@vS16/00/DS43030013.",
-            "TextJPN": "でも、神様が人を襲うことはありませんでした。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145672,
-            "PreTextTags": "@vS16/00/DS43030014.",
-            "TextJPN": "それどころか、神剣をふるい、鬼たちを次々に退治して回り、ついには彼らの王をも倒してしまったのです。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145673,
-            "PreTextTags": "@vS16/00/DS43030015.",
-            "TextJPN": "その後神様は、山の洞穴に避難していた村人のひとりの前にやってきて、赤ん坊を差し出しながら言いました…。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145674,
-            "NamesJPN": "イェアソムール",
-            "PreTextTags": "@vS16/45/DS43070078.",
-            "TextJPN": "「この子は、わが魂の宿る者なり。@k@vS16/45/DS43070079.ゆえにこの子を育て、血を絶やすことなく大切に敬え。@k@vS16/45/DS43070080.さすれば、我はお前たちを鬼たちから守り、この村は永遠に栄えるだろう……」",
-            "NamesENG": "イェアソムール",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145675,
-            "PreTextTags": "@vS16/00/DS43030016.",
-            "TextJPN": "その赤ん坊は、男の子でした。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145676,
-            "PreTextTags": "@vS16/00/DS43030017.",
-            "TextJPN": "村人たちは神様がこの村を救ってくれたことに心から感謝し、その言葉通り大切に、自分たちの守り神の生まれ変わりとして育てることにしました。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145677,
-            "PreTextTags": "@vS16/00/DS43030018.",
-            "TextJPN": "そして、彼らは角の生えた神様がやってきた沼を『鬼ヶ淵』と名付け、神様によって守られたこの村はいつしか、『鬼ヶ淵村』と呼ばれるようになりました…。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 145678,
-            "TextJPN": "――鬼ヶ淵村伝承『オヤシロさま』",
-            "TextENG": ""
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 0,
+		"JPN": "言祝し編",
+		"ENG": "Kotohogushi-hen"
+	},
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "#1 監視者ジェダ",
+		"ENG": "#1 監視者ジェダ"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145416,
+		"PreTextTags": "@vS16/00/VV_shino_1001.",
+		"TextJPN": "――それは、とても古い昔の、おとぎ話。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145417,
+		"PreTextTags": "@vS16/00/VV_shino_1002.",
+		"TextJPN": "ほんの少しの『違い』によって生まれた、とある不思議な物語。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145418,
+		"PreTextTags": "@vS16/00/VV_shino_1003.",
+		"TextJPN": "誰かのために懸命に生きて、@k@vS16/00/VV_shino_1004.誰かのために懸命に願った、@k@vS16/00/VV_shino_1005.ひとつの家族の、絆の物語……。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145419,
+		"TextJPN": "…まさに、凄惨な光景だった。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145420,
+		"TextJPN": "草木は燃え。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145421,
+		"TextJPN": "大地は焦土と化し。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145422,
+		"TextJPN": "灼熱の爆煙に乗って塵芥が舞い、紅蓮の炎が草木や家屋、田畑を焼き払って闇夜を真昼のごとくに照らし出している。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145423,
+		"TextJPN": "そして、地面を埋め尽くすように折り重なって大量に転がっているのは、血肉の塊と化した生物の骸。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145424,
+		"TextJPN": "そこにはおびただしいまでの恐怖と絶望があり、死の匂いが焼けただれた淀みとなって、見渡す限りの視界を覆っていた。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145425,
+		"TextJPN": "グルゥ…グルルゥ…！！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145426,
+		"TextJPN": "そびえ立つほどの巨躯たちが無数に唸り声を上げながら、燃え盛る炎を取り囲む。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145427,
+		"TextJPN": "それらの、大木の幹のように隆々とした腕からは、長く鋭い爪が伸びて。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145428,
+		"TextJPN": "耳元まで裂けた口には、禍々しく尖った牙がむき出している。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145429,
+		"TextJPN": "彼らは、数多の同朋と下僕を従え、幾多の村落から畏れられるほどに絶対的な力と脅威を誇った…いわゆる、『鬼』の一族。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145430,
+		"TextJPN": "気まぐれに人里を襲い、田畑を荒らし、獣や人間を殺戮して喰らう、…非力な人々にとっては忌避の存在だった。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145431,
+		"TextJPN": "…そんな『鬼』たちの多くが四肢を斬られ、心の臓を貫かれた末、物言わぬ肉片となってそこかしこに転がっている。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145432,
+		"TextJPN": "それは文字通りに、…死屍累々の惨状。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145433,
+		"TextJPN": "もしも、悪夢という言葉が形となってこの世に存在するのだとすれば、…それは、たった今ここで繰り広げられている、目の前の光景であろう。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145434,
+		"TextJPN": "己の力の絶大無比を信じてきた彼らにはこの現実を信じることができず、ゆえに狼狽どころか恐怖すら覚えて、その場を動くこともままならなかった。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145435,
+		"TextJPN": "ギギッ…ギギィ…ッ！！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145436,
+		"TextJPN": "その、『鬼』たちから少し離れた後方に、さらに一回り大きな『鬼』の姿がある。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145437,
+		"TextJPN": "人間の言語を解し、殺戮の本能を制御する理性を持つ一方で、他の『鬼』たちをはるかに凌駕した力を持つそれを、村に住まう人間たちは『首領』と呼んでいる。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145438,
+		"TextJPN": "また、『鬼』たちも自分たちの首領としてその命に従い、その絶対的な剛力と脅威を信じて疑わなかった。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145439,
+		"TextJPN": "グッ、グルルゥゥ…！！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145440,
+		"TextJPN": "しかし今は、『首領』の低く、重い唸り声の中に戸惑い…そして、それ以上の恐怖が響きとなって入り混じる。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145441,
+		"TextJPN": "それはもはや震えにも等しく、いまだに轟音を上げて燃え続ける炎の中に動く『気配』を感じてからは、さらに強まっていった。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145442,
+		"NamesJPN": "鬼",
+		"PreTextTags": "@vS16/00/VT4D_oni1001.（…さすがは、『@bピュトゥス.@<純血@>』最強の監視者。@k@vS16/00/VT4D_oni1002.この程度では、倒せぬか…っ！）",
+		"TextJPN": "",
+		"NamesENG": "鬼",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145443,
+		"TextJPN": "それでも、そんな動揺を振り払うように『鬼』たちは一斉に禍々しい瞳を燃え上がる炎の壁へと向けて、唸り声をあげながらその爪を、その牙をむいて待ち構える。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145444,
+		"TextJPN": "全身の筋肉がはちきれんばかりに、暴虐な力が溜め込まれてゆき。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145445,
+		"TextJPN": "あらゆる箇所の関節がきしむほどに、殺戮と凶気の衝動がみなぎっていく。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145446,
+		"TextJPN": "ただ、その身体は小刻みに震えて、激しく脈打つ鼓動はいっそう高鳴って…。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145447,
+		"TextJPN": "ぽたり、ぽたり、…と絶え間なく全身を流れ落ちる汗は、周囲の炎や激闘の熱によって生まれ出たものだけではなくなっていた。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145448,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070001.",
+		"TextJPN": "「――――」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145449,
+		"TextJPN": "やがて、炎の中から人影が浮かびあがり、…『それ』が、姿を見せる。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145450,
+		"TextJPN": "悠然とした足取りで外套をなびかせながら、風に踊るのは長く、紫紺に映えた髪。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145451,
+		"TextJPN": "そして、その頭部には二本の角がまさに『鬼』のように生えて、その鋭く、禍々しい様を見せつけていた。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145452,
+		"TextJPN": "焼け焦げた地肌をゆっくりと確かな足取りで踏みしめながら、『それ』は『鬼』たちの前に進み出る。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145453,
+		"TextJPN": "…一見、人間の女性のような背丈の、華奢な体つき。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145454,
+		"TextJPN": "しかし、その細い、優美に伸びた腕の先にはまるで柳の葉のように長く、鋭い輝きをまとったひと振りの剣がまっすぐに伸びている。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145455,
+		"TextJPN": "そして、その切っ先からは今もなお、…おびただしい量の生き血が絶え間なく滴り落ちていた。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145456,
+		"TextJPN": "その時、わずかに残っていた建物の柱が崩れ落ち、そのあおりを受けて炎の勢いが一瞬、勢いを増す。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145457,
+		"TextJPN": "その明るみを背後に受け、能面のように乾いた『それ』の表情が照らし出されたその時、…『鬼』たちは戦慄した。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145458,
+		"TextJPN": "ギッ？！　ギギィィッッ…！！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145459,
+		"TextJPN": "…信じられない。いや、信じられるはずがなかった。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145460,
+		"TextJPN": "まったくの、…無傷。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145461,
+		"TextJPN": "あまつさえ呼吸は乱れず、動揺すら顔色にはなく、…わずかに全身を包む外套が、土埃と返り血に塗れているだけだ。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145462,
+		"TextJPN": "そして、影に隠れていた瞳が緋色に染まって…鋭く、冷たく。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145463,
+		"TextJPN": "酷薄の輝きをはらんで、居並ぶ『鬼』たちが怯むほどに傲然と見据えていた。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145464,
+		"NamesJPN": "鬼",
+		"PreTextTags": "@vS16/00/VT4D_oni1003.（必殺を期した罠も、まるで役立たずか…！）",
+		"TextJPN": "",
+		"NamesENG": "鬼",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145465,
+		"TextJPN": "…迎え撃つ準備は万全を期し、事も想定通りに運んだ。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145466,
+		"TextJPN": "自分たちが根城としていた村役人の屋敷へと『それ』を誘い出し、圧倒的な数で取り囲む。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145467,
+		"TextJPN": "そして、機を見計らい仕掛けた爆薬を作動させて、敷地ごと木端微塵に吹き飛ばす――。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145468,
+		"TextJPN": "その代償として、逃げ遅れた…あるいは逃げる暇すらもなかった半数ほどの連中は、閃光と爆風の中に飲み込まれて跡形もなく消え去ったが。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145469,
+		"TextJPN": "討ち果たすべき『それ』も『鬼』たちに行く手を遮られて命を落とすか、さもなくば致命傷を負っている…はずだった。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145470,
+		"TextJPN": "しかし――。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145471,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070002.",
+		"TextJPN": "「これが、お前たちの言っていた、@k@vS16/45/DS43070003.…奥の手か？」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145472,
+		"TextJPN": "炎の明かりに浮かびあがったその顔には苦痛の表情どころか、…感情がない。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145473,
+		"TextJPN": "怒りも、憐れみも、…笑みすらも。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145474,
+		"TextJPN": "そして、翡翠色に輝くその瞳は血のように赤く染まって。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145475,
+		"TextJPN": "…刃のように鋭く、強い光をたたえながら『鬼』たちを見据えていた。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145476,
+		"NamesJPN": "鬼",
+		"PreTextTags": "@vS16/00/VT4D_oni1004.（……バケモノめ…ッ！！）",
+		"TextJPN": "",
+		"NamesENG": "鬼",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145477,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070004.",
+		"TextJPN": "「…かりにもリューン十八@bハィ.@<羽爵@>のひとり、ジェダの家名を継ぐ我が身。@k@vS16/45/DS43070005.そなたら外道に落ちた者の小賢しき手にかかるほど、落ちぶれてはおらぬ」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145478,
+		"TextJPN": "グッ、グルルゥ…！！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145479,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070006.",
+		"TextJPN": "「とはいえ、従う者たちの命さえも謀って撒き餌にするとは、@k@vS16/45/DS43070007.…酔狂も過ぎるがな」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145480,
+		"TextJPN": "ギッ、ギィィィ…、ギィィィッッ！！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145481,
+		"TextJPN": "圧倒的な恐怖と絶望に耐えきれず、惑乱した『鬼』たちは『それ』――ジェダに向かって叫喚とともに突進してゆく。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145482,
+		"TextJPN": "その動きは疾風の如く、目にも『止まらない』速さで間合いを詰める。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145483,
+		"TextJPN": "そして接近するや巨大な爪を振りかざし、鋭い牙をむき出して一気に襲いかかった――！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145484,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070008.",
+		"TextJPN": "「一斉攻撃か、@k@vS16/45/DS43070009.…悪くない」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145485,
+		"TextJPN": "数と勢いを駆って、相手の意表をつき、…裂帛の気合でもって反撃の隙すら与えず、猛攻をかける。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145486,
+		"TextJPN": "それによって生じた戸惑いは、判断をくるわせて。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145487,
+		"TextJPN": "迷いからの躊躇は、注意の分散を促す。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145488,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070010.",
+		"TextJPN": "「だが――」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145489,
+		"TextJPN": "ギャァァアァァァッッ！！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145490,
+		"TextJPN": "グギャォォオォォォッッ！！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145491,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070011.",
+		"TextJPN": "「…力の差を見抜けなくては、ただの蛮勇だ」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145492,
+		"TextJPN": "…ジェダが繰り出した剣撃の動きは、目にも『映らなかった』。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145493,
+		"TextJPN": "光の閃きだけが残像となって網膜に焼きついていたが、…『首領』の目をもってしても、ジェダがどう剣を繰り出し、どう相手を斬り伏せたのかさえ、全くわからない。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145494,
+		"TextJPN": "さらに、",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145495,
+		"TextJPN": "感じるのは、わずかに遅れて届く斬撃の音と、断末魔の叫び。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145496,
+		"TextJPN": "そして、…それが耳に届くと同時に、地響きが何度も、何度も続いて。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145497,
+		"TextJPN": "『鬼』たちがひとつ、またひとつと撃ち倒されていった…！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145498,
+		"TextJPN": "グゲェェエェッッ！！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145499,
+		"TextJPN": "はっきりと、目に映っていたのは一歩、また一歩と近づくその姿。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145500,
+		"TextJPN": "その歩みとともに、血しぶきが舞って赤黒い霧を作り出し。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145501,
+		"TextJPN": "生臭い、鉄のようにすえた臭いが徐々に強くなる。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145502,
+		"TextJPN": "ギギャォォオォッッ！！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145503,
+		"TextJPN": "時折ゆらり、ゆらり…とその姿は、蜃気楼のように揺れて。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145504,
+		"TextJPN": "しかし眼光だけはまっすぐ『首領』を射抜くように、その強い輝きをみなぎらせている。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145505,
+		"TextJPN": "まるで夢…そう、悪い夢でも見ているかのような、非現実的な光景。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145506,
+		"TextJPN": "その有様に『首領』は四肢を動くこともままならず、息も、…思考さえも停止していた。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145507,
+		"TextJPN": "やがて、自分のものとは違う息遣いが『首領』自身にも聞こえるほどの距離に達したその時――。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145508,
+		"NamesJPN": "鬼",
+		"PreTextTags": "@vS16/00/VT4D_oni1005.（……なっ？！）",
+		"TextJPN": "",
+		"NamesENG": "鬼",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145509,
+		"TextJPN": "ふいに、ジェダは立ち止まった。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145510,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070012.",
+		"TextJPN": "「……ふん…」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145511,
+		"TextJPN": "そして、軽い吐息とともにジェダは刀についた返り血を振り払って、ぎらり、…と、その切っ先を首領に向ける。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145512,
+		"TextJPN": "はっ、と我に返って自分の周囲を見渡すと、…取り巻いていた他の『鬼』たちはジェダによってすべて斬り倒されて――。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145513,
+		"TextJPN": "もはや、地上に立っているのはジェダと、最後の贄たる自分のみだということに…『首領』はようやく、気がついた。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145514,
+		"NamesJPN": "鬼",
+		"PreTextTags": "@vS16/00/VT4D_oni1006.（やはり…噂にたがわぬ。@k@vS16/00/VT4D_oni1007.――だがッ！！！）",
+		"TextJPN": "",
+		"NamesENG": "鬼",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145515,
+		"TextJPN": "わずかに。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145516,
+		"TextJPN": "ジェダが息を吸い込んで硬さを含んだ瞬間、『首領』は地を蹴って一気に間合いを詰める。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145517,
+		"TextJPN": "そして、相手の迎え撃つ構えが整うよりも早くその巨大な腕を振り上げ、長く伸びた鋭い爪をひらめかせながら、至近にて無防備に立つその姿を一気に斬り裂いた。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145518,
+		"TextJPN": "――しかし。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145519,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070013.",
+		"TextJPN": "「――遅い」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145520,
+		"TextJPN": "そこにジェダの姿はすでになく、叩きつけた掌は宙を抜けて何もない地面を砕く。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145521,
+		"TextJPN": "そして。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145522,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070014.",
+		"TextJPN": "「祈るがいい、下郎…！！」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145523,
+		"NamesJPN": "鬼",
+		"PreTextTags": "@vS16/00/VT4D_oni1008.（なにっ？！）",
+		"TextJPN": "",
+		"NamesENG": "鬼",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145524,
+		"TextJPN": "その呟きが『背後』から聞こえていたことを悟った瞬間、ぞっとするような悪寒に『首領』は振り返るよりも早くその場を蹴って、勢いよく横に身を投げ出す。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145525,
+		"TextJPN": "刹那、閃光が一条眩くきらめき、…数拍遅れて風を切り裂く音が、鼓膜を震わせる。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145526,
+		"TextJPN": "そして次の瞬間、…自身が先ほどまで立っていた場所の近くにあった大木が、鈍く重い響きをあげて横殴りに倒れていった。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145527,
+		"NamesJPN": "鬼",
+		"PreTextTags": "@vS16/00/VT4D_oni1009.（……ッッ？！）",
+		"TextJPN": "",
+		"NamesENG": "鬼",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145528,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070015.",
+		"TextJPN": "「さすが『@bピュトゥス.@<純血@>』、かわされたのは久しぶりだ」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145529,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070016.",
+		"TextJPN": "「…初撃を、な」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145530,
+		"TextJPN": "そう呟いて…ジェダが髪をかきあげると、同時に。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145531,
+		"NamesJPN": "鬼",
+		"PreTextTags": "@vS16/00/VT4D_oni1010.（ぐっ…？！　ぐがぁぁぁッッ！！）",
+		"TextJPN": "",
+		"NamesENG": "鬼",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145532,
+		"TextJPN": "『首領』が右の肩口と左脚の付け根に灼熱のような鋭い痛みを感じた途端、…鮮血が勢いよく噴き出す。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145533,
+		"TextJPN": "…かわしたのは、最初の一撃だけだった。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145534,
+		"TextJPN": "『首領』が体勢を崩した隙を狙ってさらに二度、ジェダは斬りつけていたのだ…！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145535,
+		"TextJPN": "しかも…しかもっ！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145536,
+		"TextJPN": "その傷は狙ったように動脈を切り裂き、深手ではないはずなのにおびただしい流血を強いている…！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145537,
+		"NamesJPN": "鬼",
+		"PreTextTags": "@vS16/00/VT4D_oni1011.（太刀筋が…見えないっ？@k@vS16/00/VT4D_oni1012.　バカなっ！　同じ『@bピュトゥス.@<純血@>』で、これほどの差が…ッ？！）",
+		"TextJPN": "",
+		"NamesENG": "鬼",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145538,
+		"TextJPN": "あふれ出る流血と激痛すらも忘れて、『首領』は驚愕にうち震える。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145539,
+		"TextJPN": "『首領』はジェダと同じく、立場の違いこそあれ同じリューンの血を引く者。…でありながら、これほどの差が厳然と存在している。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145540,
+		"TextJPN": "たとえ最強であれ、疲れもあれば傷も負う。ゆえに計略をかけて体力を削ぎ、その直後に多勢でかかれば倒せるはず。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145541,
+		"TextJPN": "そんな己の目論見の甘さを、『首領』はようやく思い知った…！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145542,
+		"TextJPN": "ガッ、…ガァァアァァァッッ！！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145543,
+		"TextJPN": "『首領』は焦燥と狼狽のあまり、腕を振り回して襲いかかる。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145544,
+		"TextJPN": "薙いだ閃撃は烈風となって、虚空を裂き。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145545,
+		"TextJPN": "振り下ろした殴撲は固土を抉って、深い爪痕を残す。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145546,
+		"TextJPN": "が、…当たらない。当たらないのだ。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145547,
+		"TextJPN": "渾身の力を込めた、必殺の攻撃が。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145548,
+		"TextJPN": "これまで、この村や周囲の集落でおびただしい死と恐怖をつくり出してきたはずの腕が、爪が、牙が。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145549,
+		"TextJPN": "…まったくの、無力。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145550,
+		"TextJPN": "しかもその攻撃は、かわされたり、防がれたりしているものではない――！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145551,
+		"NamesJPN": "鬼",
+		"PreTextTags": "@vS16/00/VT4D_oni1013.（なぜだ…なぜ、これが当たらぬッ！！）",
+		"TextJPN": "",
+		"NamesENG": "鬼",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145552,
+		"TextJPN": "『首領』が暴れ回り、血を吐かんばかりの咆哮を喉の奥から迸らせながら何度も激しく斬りつけても斬りつけても、…ジェダは幻像のように刃を通過してしまう。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145553,
+		"TextJPN": "足も。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145554,
+		"TextJPN": "腕も。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145555,
+		"TextJPN": "もちろん、顔も。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145556,
+		"TextJPN": "その、闇に舞う長髪や、動きにたわんだ外套さえ、かすらせることすらできないのだ。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145557,
+		"TextJPN": "しかも、少しの隙を狙って繰り出されるジェダの斬撃はあやまたず四肢の肉を貫き、関節を砕き、神経を断ち切って徐々に動きを奪ってゆく…！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145558,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070017.",
+		"TextJPN": "「遅いな」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145559,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070018.",
+		"TextJPN": "「こっちだ」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145560,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070019.",
+		"TextJPN": "「がら空きだな」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145561,
+		"TextJPN": "ギャアァァアァッッッ！！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145562,
+		"TextJPN": "…動きの速さ、ではない。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145563,
+		"TextJPN": "もっと違う、…自分たちにすらない能力の『次元』の違いだった。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145564,
+		"TextJPN": "ガァァアァァァッッ！！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145565,
+		"TextJPN": "そして、脚の腱を両方とも斬られた『首領』は、ついに立つことすらままならずその場に膝をついてどう、と崩れ落ちる。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145566,
+		"TextJPN": "すでに、腕は振り回すどころか…上げることさえも、できない。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145567,
+		"TextJPN": "…しかし、それほどに満身創痍の『首領』を至近距離から悠然と見下ろしながら、ジェダは今や真っ赤に染まりきった刀身を鼻先に突き出し、傲然と『…立て』と言い放った。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145568,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070020.",
+		"TextJPN": "「…どうした？　もう仕舞いなのか」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145569,
+		"TextJPN": "グッ、グォォォッ…！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145570,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070021.",
+		"TextJPN": "「その程度か。その程度なのか、お前は？@k@vS16/45/DS43070022.　…いや、そうではあるまい。@k@vS16/45/DS43070023.仮にもリューンの血を引き、『@bピュトゥス.@<純血@>』を名乗るお前が多くの生命を犠牲にして得たものが、この程度であるはずがない」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145571,
+		"NamesJPN": "鬼",
+		"PreTextTags": "@vS16/00/VT4D_oni1014.（ぐっ、ぐぅぅ…ッ！！）",
+		"TextJPN": "",
+		"NamesENG": "鬼",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145572,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070024.",
+		"TextJPN": "「さぁ。早くここで、お前の全力を見せるがいい。@k@vS16/45/DS43070025.…立て。そのために、お前の爪や牙は『折らずに』残してやったのだから――」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145573,
+		"NamesJPN": "鬼",
+		"PreTextTags": "@vS16/00/VT4D_oni1015.（こ、こいつ…まだ、底があるのかッ？！）",
+		"TextJPN": "",
+		"NamesENG": "鬼",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145574,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070026.",
+		"TextJPN": "「リューンの法は、罪と罰に等価を求める。@k@vS16/45/DS43070027.…ゆえに、お前には義務がある」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145575,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070028.",
+		"TextJPN": "「これまでに狩ってきたあわれな人間たち、破滅へと導いていった同朋たちへの仕打ちと同じように、@k@vS16/45/DS43070029.私を存分に愉しませ、長き星霜のつかの間の慰めとして、その贄となる義務」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145576,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070030.",
+		"TextJPN": "「それこそが、お前にふさわしき報い…！」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145577,
+		"TextJPN": "グギャオォォォッッ！！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145578,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070031.",
+		"TextJPN": "「…さぁ、立て。@k@vS16/45/DS43070032.そして踊れ、舞え。@k@vS16/45/DS43070033.魂を燃やし尽くし、血を絞り出して戦え。@k@vS16/45/DS43070034.その血と本能に従って戦え。@k@vS16/45/DS43070035.憎しみと恨みをもって戦え。@k@vS16/45/DS43070036.戦え。戦え」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145579,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070037.",
+		"TextJPN": "「…そして、我が手にかかって死ね！！」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145580,
+		"NamesJPN": "鬼",
+		"PreTextTags": "@vS16/00/VT4D_oni1016.（て…撤収だ！！@k@vS16/00/VT4D_oni1017.　我一人では敵わぬ…違いすぎるッ！！）",
+		"TextJPN": "",
+		"NamesENG": "鬼",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145581,
+		"TextJPN": "もはや、恐怖を隠すこともなかった。『首領』は大地を蹴って身を翻し、ジェダが立つ場所とは反対の方向へと駆け出す。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145582,
+		"TextJPN": "だが――。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145583,
+		"NamesJPN": "鬼",
+		"PreTextTags": "@vS16/00/VT4D_oni1018.（ぐあぁぁぁあぁぁっっっ！！）",
+		"TextJPN": "",
+		"NamesENG": "鬼",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145584,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070038.",
+		"TextJPN": "「…逃げる資格は、お前には無い」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145585,
+		"TextJPN": "瞬く間に距離を詰められ、ジェダの突き出した一撃が『首領』の背を襲い、肺を貫く。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145586,
+		"TextJPN": "その途端、裂けた口から鮮血が噴水のように吹き出し、目の前が真っ赤に染まっていった。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145587,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070039.",
+		"TextJPN": "「…ジェダの務めに、未遂の文字はない。@k@vS16/45/DS43070040.処断を下すか、下されるか。@k@vS16/45/DS43070041.殺すか、殺されるか。@k@vS16/45/DS43070042.…それが、『監視者』としての定めであり、我が罪業」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145588,
+		"TextJPN": "ギッ、…ギィィッ…！！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145589,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070043.",
+		"TextJPN": "「罪なきこの地の弱者たちを襲い、弄んで殺した貴様。@k@vS16/45/DS43070044.安寧の日々を送っていた同朋たちを惑わせ、凶気へと駆り立てた貴様」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145590,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070045.",
+		"TextJPN": "「…その罪は重く、赦しがたし。@k@vS16/45/DS43070046.ゆえに、これまでの過ちを記憶から掘り起こし、苦しみ、悶えながらしばしの時間、自らの存在とともに罪業を悔い改めるがいい…」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145591,
+		"TextJPN": "そう言ってジェダは剣を引き抜くと、激痛と呼吸困難にあえぎうずくまる『首領』の前に回り込んで、…かすかな声で詠唱を呟く。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145592,
+		"TextJPN": "それに呼応するかのように、前腕を覆っていた装甲服の袖が消えて、白い肌がむき出しになる。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145593,
+		"TextJPN": "さらに、刀身の血を外套で乱暴に拭い取ってから、右の足をわずかに引いて半身の姿勢となり、前に突き出した左腕にそっ、と剣を這わせた。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145594,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070047.",
+		"TextJPN": "「――っ…」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145595,
+		"TextJPN": "薄く裂かれた傷跡から血があふれだして、その刀身を再びまだらに染めてゆく。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145596,
+		"TextJPN": "そして、ジェダは長弓を引くように剣を持つ右手を後ろに引くと、まっすぐに片手突きの構えを取った。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145597,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070048.",
+		"TextJPN": "「…リューン十八@bハィ.@<羽爵@>のひとり、ジェダの家名を継ぐ者、リューン・クロッソス第３５詞の定めに従いてそなたに問う」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145598,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070049.",
+		"TextJPN": "「我ら、リューンの民が天より授かりし宝は誇り高き過去、美しき現在、そして満ち足りた未来…」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145599,
+		"TextJPN": "ガッ、ガァァ……ッ…！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145600,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070050.",
+		"TextJPN": "「なれど、掟を破りし同朋に許されるのは、そのうちのひとつのみ。@k@vS16/45/DS43070051.…最後に、今一度問う。@k@vS16/45/DS43070052.そなたが欲するのは過去か、現在か…それとも、未来か？」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145601,
+		"TextJPN": "ギィ…ギギィッ…！！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145602,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070053.",
+		"TextJPN": "「『助けて』…か」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145603,
+		"TextJPN": "ギィッ、…ギィ…ッ！！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145604,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070054.",
+		"TextJPN": "「『許して』…か」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145605,
+		"TextJPN": "その言葉の呟きとともに、ジェダの眼光はなおも鋭く、強くなっていく。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145606,
+		"TextJPN": "怒りでもない。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145607,
+		"TextJPN": "愉悦でもない。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145608,
+		"TextJPN": "ただ、無色透明の『監視者』、そして『処刑執行人』としての@bきょうじ.@<矜持@>。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145609,
+		"TextJPN": "ゆえに――。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145610,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070055.",
+		"TextJPN": "「…今までにそう哀願した連中に対して、貴様は何をした？」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145611,
+		"TextJPN": "全ての情状をさしはさむ余地を持たず、また対象者の命乞いに耳を傾けることもなかった。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145612,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070056.",
+		"TextJPN": "「空に星を、緑に花を。@k@vS16/45/DS43070057.あしきゆめには、沈黙の@bうた.@<詩@>。@k@vS16/45/DS43070058.貴様の未来は、すでに虚無の中にあり。@k@vS16/45/DS43070059.――ゆえに、ここで散れッッ！！」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145613,
+		"TextJPN": "ガッ、…ガァァアァァァッッ！！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145614,
+		"NamesJPN": "？？？",
+		"PreTextTags": "@vS16/45/DS43070060.",
+		"TextJPN": "「ハィ＝リューン・イェアソムール・ジェダ。@k@vS16/45/DS43070061.それが、貴様の死神の名」",
+		"NamesENG": "???",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145615,
+		"NamesJPN": "イェアソムール",
+		"PreTextTags": "@vS16/45/DS43070062.",
+		"TextJPN": "「――同朋の名を汚す痴れ人よ。…@bこんぱく.@<魂魄@>とともに、逝くがいい」",
+		"NamesENG": "イェアソムール",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145616,
+		"NamesJPN": "イェアソムール",
+		"PreTextTags": "@vS16/45/DS43070063.",
+		"TextJPN": "「――っあぁァァッッッ！！」",
+		"NamesENG": "イェアソムール",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145617,
+		"TextJPN": "ギャァァァアアァァァッッ！！！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145618,
+		"NamesJPN": "イェアソムール",
+		"PreTextTags": "@vS16/45/DS43070064.",
+		"TextJPN": "「…これでは、蘇生は無理か」",
+		"NamesENG": "イェアソムール",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145619,
+		"TextJPN": "崩れかけた家屋の陰で、地に伏せっていた男の顔をのぞき見て…ジェダは嘆息する。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145620,
+		"TextJPN": "他の亡骸と比べても深手の傷をいくつも持ち、出血も酷い上、…延髄が破壊されていた。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145621,
+		"TextJPN": "おそらく戦いの術すらも持っていなかったのだろうが、その満身創痍の有様を見る限り、守るべきものを守る責務を果たそうとした決死の思いが伝わってくる…。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145622,
+		"NamesJPN": "リューン＝オーク",
+		"PreTextTags": "@vS16/00/DS43050001.",
+		"TextJPN": "『…イェアソムール・ジェダ、脱出の準備を。@k@vS16/00/DS43050002.もうすぐ屋敷の中に仕掛けられた、残りの爆薬が引火します』",
+		"NamesENG": "リューン＝オーク",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145623,
+		"NamesJPN": "イェアソムール",
+		"PreTextTags": "@vS16/45/DS43070065.",
+		"TextJPN": "「わかっている。@k@vS16/45/DS43070066.…避難民はどうなった？」",
+		"NamesENG": "イェアソムール",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145624,
+		"NamesJPN": "リューン＝オーク",
+		"PreTextTags": "@vS16/00/DS43050003.",
+		"TextJPN": "『問題ありません。@k@vS16/00/DS43050004.シーツェン・ジェダが追手をすべて撃破しました。@k@vS16/00/DS43050005.もはや『@bグリフィス.@<混血@>』の気配はどこにも存在しません』",
+		"NamesENG": "リューン＝オーク",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145625,
+		"NamesJPN": "イェアソムール",
+		"PreTextTags": "@vS16/45/DS43070067.",
+		"TextJPN": "「…そうか」",
+		"NamesENG": "イェアソムール",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145626,
+		"TextJPN": "脳裏に直接聞こえてきた『声』に返事を送ってから、それでもジェダは引き返さずに奥の部屋へと向かう。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145627,
+		"TextJPN": "先ほどの戦闘中、この家屋の中からほんの一瞬だが、…何かの気配を感じたのだ。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145628,
+		"NamesJPN": "イェアソムール",
+		"PreTextTags": "@-@vS16/45/DS43070068.（勘が正しければ、この付近に生存者がいるはず…）",
+		"TextJPN": "",
+		"NamesENG": "イェアソムール",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145629,
+		"TextJPN": "それに加えて、ここまで抵抗した形跡のある男の亡骸の存在がいっそう、その可能性を裏付ける。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145630,
+		"TextJPN": "ゆえに一度は立ち去りかけたジェダだが、もう少し調べてみようと思い直し、さらに足を室内に踏み入れていった。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145631,
+		"NamesJPN": "イェアソムール",
+		"PreTextTags": "@vS16/45/DS43070069.",
+		"TextJPN": "「ん……？」",
+		"NamesENG": "イェアソムール",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145632,
+		"TextJPN": "ふと、床に転がったものに目を止め、しゃがみ込んで拾い上げる。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145633,
+		"TextJPN": "…それは、小さな人形だった。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145634,
+		"NamesJPN": "イェアソムール",
+		"PreTextTags": "@vS16/45/DS43070070.",
+		"TextJPN": "「…………」",
+		"NamesENG": "イェアソムール",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145635,
+		"TextJPN": "それが落ちていたところからさほど離れていない床板のひとつが、少しだけ浮きあがっている。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145636,
+		"TextJPN": "違和感を覚えたジェダがそれをこじ開けると、…床板の下は、小さな収納庫になっていた。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145637,
+		"TextJPN": "のぞき込むと隅の方で、うずくまって倒れている女性の姿が見える。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145638,
+		"NamesJPN": "イェアソムール",
+		"PreTextTags": "@vS16/45/DS43070071.",
+		"TextJPN": "「あ……」",
+		"NamesENG": "イェアソムール",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145639,
+		"TextJPN": "そしてその女性の腕の中では、赤子が守られるように抱かれていた。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145640,
+		"TextJPN": "おそらく母親なのだろう…その女性は出血がひどく、息もすでにない。…それでも、子は辛うじて生きているようだった。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145641,
+		"NamesJPN": "イェアソムール",
+		"PreTextTags": "@vS16/45/DS43070072.",
+		"TextJPN": "「むぅ…」",
+		"NamesENG": "イェアソムール",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145642,
+		"TextJPN": "すぐに助け出そうとしたが、…ふと、ジェダは差し出した腕を止めて躊躇する。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145643,
+		"TextJPN": "この地に住まう人間たちの暮らしは、決して楽なものではない。貧しいとまでは言わないが、自分と家族の食物を確保するだけでも精一杯だ。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145644,
+		"TextJPN": "まして、この騒乱の直後だ。元の水準に戻すだけでも数年はかかるだろう。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145645,
+		"TextJPN": "そんな中で両親を失い、生活を営む手段など持つはずもない乳飲み子がたどるべき道は、おのずから想像ができる。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145646,
+		"TextJPN": "おそらくはこの先、死ぬよりも重い辛苦が待っていることに違いない…。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145647,
+		"NamesJPN": "イェアソムール",
+		"PreTextTags": "@-@vS16/45/DS43070073.（それならば、母のそばで――）",
+		"TextJPN": "",
+		"NamesENG": "イェアソムール",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145648,
+		"TextJPN": "そう、心の中で呟いて。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145649,
+		"TextJPN": "せめて、ひと思いに逝かせてやろうとジェダは、手に持つ剣を振り上げる。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145650,
+		"TextJPN": "そして、その切っ先をまっすぐ子供の喉元に――。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145651,
+		"TextJPN": "…………。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145652,
+		"TextJPN": "……。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145653,
+		"NamesJPN": "リューン＝オーク",
+		"PreTextTags": "@vS16/00/DS43050006.",
+		"TextJPN": "『……ジェダ？』",
+		"NamesENG": "リューン＝オーク",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145654,
+		"NamesJPN": "イェアソムール",
+		"PreTextTags": "@vS16/45/DS43070074.",
+		"TextJPN": "「リューン＝オーク。@k@vS16/45/DS43070075.この付近で、生存者たちが避難した居場所はわかるか？」",
+		"NamesENG": "イェアソムール",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145655,
+		"NamesJPN": "リューン＝オーク",
+		"PreTextTags": "@vS16/00/DS43050007.",
+		"TextJPN": "『…どうするおつもりです？』",
+		"NamesENG": "リューン＝オーク",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145656,
+		"NamesJPN": "イェアソムール",
+		"PreTextTags": "@vS16/45/DS43070076.",
+		"TextJPN": "「……」",
+		"NamesENG": "イェアソムール",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145657,
+		"NamesJPN": "イェアソムール",
+		"PreTextTags": "@vS16/45/DS43070077.",
+		"TextJPN": "「気紛れだ。多少、脚色が必要だろうがな」",
+		"NamesENG": "イェアソムール",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145658,
+		"TextJPN": "そう言って、ジェダは赤ん坊を母親の胸元から抱きかかえる。そして血泥に汚れたその顔を、そっと指で拭った。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145659,
+		"PreTextTags": "@vS16/00/DS43030001.",
+		"TextJPN": "今はもう、昔の話。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145660,
+		"PreTextTags": "@vS16/00/DS43030002.",
+		"TextJPN": "この地に突然、悪い鬼たちが遠い山を越えてやってきました。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145661,
+		"PreTextTags": "@vS16/00/DS43030003.",
+		"TextJPN": "鬼たちは食べ物を奪い、家畜を襲い、村人たちに悪さをして暴れまわっていました。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145662,
+		"PreTextTags": "@vS16/00/DS43030004.",
+		"TextJPN": "しかし、村人たちは何もできませんでした。それを守ろうとした人は殺されて、生き胆を食われてしまうからです。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145663,
+		"PreTextTags": "@vS16/00/DS43030005.",
+		"TextJPN": "だから、村人たちはいつも家の中に閉じこもって、鬼たちから隠れて暮らすようになりました。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145664,
+		"PreTextTags": "@vS16/00/DS43030006.",
+		"TextJPN": "夜だけでなく、昼間も。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145665,
+		"PreTextTags": "@vS16/00/DS43030007.",
+		"TextJPN": "雨の日も、晴れの日も。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145666,
+		"PreTextTags": "@vS16/00/DS43030008.",
+		"TextJPN": "…それでも鬼たちは、まるで狩りを楽しむように人家を襲い、村人を殺し続けました。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145667,
+		"PreTextTags": "@vS16/00/DS43030009.",
+		"TextJPN": "やがて、田畑から食べ物がなくなり、家の蓄えも底を尽きかけて…。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145668,
+		"PreTextTags": "@vS16/00/DS43030010.",
+		"TextJPN": "彼らが死を覚悟した、ある日のこと――。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145669,
+		"PreTextTags": "@vS16/00/DS43030011.",
+		"TextJPN": "村はずれの沼から、ひとりの神様が現れたのです。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145670,
+		"PreTextTags": "@vS16/00/DS43030012.",
+		"TextJPN": "神様には、鬼たちと同じように角がありました。そのため、最初は村人たちも鬼がやってきたのだと思って震えあがっていました。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145671,
+		"PreTextTags": "@vS16/00/DS43030013.",
+		"TextJPN": "でも、神様が人を襲うことはありませんでした。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145672,
+		"PreTextTags": "@vS16/00/DS43030014.",
+		"TextJPN": "それどころか、神剣をふるい、鬼たちを次々に退治して回り、ついには彼らの王をも倒してしまったのです。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145673,
+		"PreTextTags": "@vS16/00/DS43030015.",
+		"TextJPN": "その後神様は、山の洞穴に避難していた村人のひとりの前にやってきて、赤ん坊を差し出しながら言いました…。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145674,
+		"NamesJPN": "イェアソムール",
+		"PreTextTags": "@vS16/45/DS43070078.",
+		"TextJPN": "「この子は、わが魂の宿る者なり。@k@vS16/45/DS43070079.ゆえにこの子を育て、血を絶やすことなく大切に敬え。@k@vS16/45/DS43070080.さすれば、我はお前たちを鬼たちから守り、この村は永遠に栄えるだろう……」",
+		"NamesENG": "イェアソムール",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145675,
+		"PreTextTags": "@vS16/00/DS43030016.",
+		"TextJPN": "その赤ん坊は、男の子でした。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145676,
+		"PreTextTags": "@vS16/00/DS43030017.",
+		"TextJPN": "村人たちは神様がこの村を救ってくれたことに心から感謝し、その言葉通り大切に、自分たちの守り神の生まれ変わりとして育てることにしました。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145677,
+		"PreTextTags": "@vS16/00/DS43030018.",
+		"TextJPN": "そして、彼らは角の生えた神様がやってきた沼を『鬼ヶ淵』と名付け、神様によって守られたこの村はいつしか、『鬼ヶ淵村』と呼ばれるようになりました…。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 145678,
+		"TextJPN": "――鬼ヶ淵村伝承『オヤシロさま』",
+		"TextENG": ""
+	}
+]

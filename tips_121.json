@@ -1,244 +1,242 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "背後関係は無し",
-            "ENG": "No Relations"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15939,
-            "NamesJPN": "沁子",
-            "PreTextTags": "@vS20/00/shimiko44001.",
-            "TextJPN": "「お待ちください、今代わりますね。……お魎さん、役所の自治係の人から電話が入ってますけど」",
-            "NamesENG": "Shimiko",
-            "TextENG": "``Please hold on a moment, I'll get her... Oryou-san, someone from the municipal government is calling...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15940,
-            "NamesJPN": "お魎",
-            "PreTextTags": "@vS20/17/442300043.",
-            "TextJPN": "「……あぁん、もしもし」",
-            "NamesENG": "Oryou",
-            "TextENG": "``...Aah, hello?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15941,
-            "NamesJPN": "相田",
-            "PreTextTags": "@vS20/00/443000001.",
-            "TextJPN": "「どうも園崎顧問、こんにちは。自治の相田でございます。@k@vS20/00/443000002.先日はおはぎをどうもご馳走さまでした」",
-            "NamesENG": "Aida",
-            "TextENG": "``Hello, Sonozaki-san. This is Aida from the municipal government.@k@vS20/00/443000002. Thank you very much for the ohagi the other day.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15942,
-            "NamesJPN": "お魎",
-            "PreTextTags": "@vS20/17/442300044.",
-            "TextJPN": "「いいんねいいんね。こちらこそ文化祭りの時は世話んなったんね。@k@vS20/17/442300045.野点傘の件、ありがとよぅ。@k@vS20/17/442300046.あれ、一本いくらくらいすんかんね。@k@vS20/17/442300047.すったら毎年使うもんなんだから自治で一本、買っといてくらんとよ」",
-            "NamesENG": "Oryou",
-            "TextENG": "``You're quite welcome. Thank you for your work at the culture festival.@k@vS20/17/442300045. Also for providing that large parasol.@k@vS20/17/442300046. How much does that thing cost?@k@vS20/17/442300047. We use it every year, so we might as well buy one ourselves.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15943,
-            "NamesJPN": "相田",
-            "PreTextTags": "@vS20/00/443000003.",
-            "TextJPN": "「あれはですね、一応、先生からの借り物になっておりまして。一応、値段を調べたんですが、国産だと２０万くらいするらしいんですよ」",
-            "NamesENG": "Aida",
-            "TextENG": "``We borrowed that one from a teacher. I checked out the price, but the domestically-made ones cost about 200,000 yen."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15944,
-            "NamesJPN": "相田",
-            "PreTextTags": "@vS20/00/443000004.",
-            "TextJPN": "「中国製によく似たものがありまして、こっちなら８万円ぐらいで何とか買えそうでして…」",
-            "NamesENG": "Aida",
-            "TextENG": "I also found one made in China, and it's less than half the price...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15945,
-            "NamesJPN": "お魎",
-            "PreTextTags": "@vS20/17/442300048.",
-            "TextJPN": "「別に中国製でもどこ製でも構わんぎゃあ、お呼びする先生に失礼んならんとよ、よぅ選んどくれぇな」",
-            "NamesENG": "Oryou",
-            "TextENG": "``I don't care if it's made in China or not. Just get one so we don't have to cause any more trouble for the teachers.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15946,
-            "NamesJPN": "相田",
-            "PreTextTags": "@vS20/00/443000005.",
-            "TextJPN": "「一応ですね、今、その８万の傘の方を取り寄せさせていただいております。届きましたら、顧問にも一度見ていただきまして、それで判断ということではいかがでしょうか…」",
-            "NamesENG": "Aida",
-            "TextENG": "``We're actually ordering it already. Once it arrives, you might want to take a look at it and make a final decision...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15947,
-            "NamesJPN": "お魎",
-            "PreTextTags": "@vS20/17/442300049.",
-            "TextJPN": "「それから、もう３年、江戸千家が続いとるんね、先生がたまには他の先生もお呼びしないとバランスがようないっちゅうんしゃあ」",
-            "NamesENG": "Oryou",
-            "TextENG": "``Also, we've been holding the same Edo-style tea ceremony for the past three years. We should probably get an instructor from a different style."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15948,
-            "NamesJPN": "お魎",
-            "PreTextTags": "@vS20/17/442300050.",
-            "TextJPN": "「表でも裏でもいいから他の先生をちょいと自治の方で来年までに探してもらってもいいかんね」",
-            "NamesENG": "Oryou",
-            "TextENG": "Can you look for a new instructor for next year?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15949,
-            "NamesJPN": "相田",
-            "PreTextTags": "@vS20/00/443000006.",
-            "TextJPN": "「は、はぁ……そうですか…。わ…わかりました！@k@vS20/00/443000007.　ちょっとこちらでもお茶の先生を探してみます。@k@vS20/00/443000008.…それでですね顧問。@k@vS20/00/443000009.実は今日はちょぉっとご相談がございまして」",
-            "NamesENG": "Aida",
-            "TextENG": "``O-Oh... I see... W-Will do, ma'am!@k@vS20/00/443000007. We'll find a different tea ceremony instructor.@k@vS20/00/443000008. ...About that, Advisor.@k@vS20/00/443000009. I had something else to ask you about.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15950,
-            "NamesJPN": "お魎",
-            "PreTextTags": "@vS20/17/442300051.",
-            "TextJPN": "「こっちの傘の話ばっかりですまんね。で、何の話なんしゃあ」",
-            "NamesENG": "Oryou",
-            "TextENG": "``And here's me going on about a parasol. So, what do you need?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15951,
-            "NamesJPN": "相田",
-            "PreTextTags": "@vS20/00/443000010.",
-            "TextJPN": "「実はですね、雛見沢にお住まいの北条沙都子さんの件で顧問のお耳に入っておりますかどうかと思いましてお電話させていただいた次第なんですが」",
-            "NamesENG": "Aida",
-            "TextENG": "``We were wondering if you've heard anything about the case of Satoko Houjou-san in Hinamizawa.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15952,
-            "NamesJPN": "お魎",
-            "PreTextTags": "@vS20/17/442300052.",
-            "TextJPN": "「……北条沙都子ぉ？　あぁん！@k@vS20/17/442300053.　バチ当たり北条のとこの娘かぁ。@k@vS20/17/442300054.何かしよりましたんかいね」",
-            "NamesENG": "Oryou",
-            "TextENG": "``...Satoko Houjou? Haaah?@k@vS20/17/442300053. You're talking about that blasted Houjou girl?@k@vS20/17/442300054. What did she do?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15953,
-            "NamesJPN": "相田",
-            "PreTextTags": "@vS20/00/443000011.",
-            "TextJPN": "「いえ、実はですね。最近、叔父さんと同居を始めたとかでですね、@k@vS20/00/443000012.その叔父さんとトラブルを起こしているとか、そんな話は顧問のお耳には入っておりますでしょうか」",
-            "NamesENG": "Aida",
-            "TextENG": "``Well... She's recently moved in with her uncle,@k@vS20/00/443000012. but she's being abused, apparently... have you heard anything about it?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15954,
-            "NamesJPN": "お魎",
-            "PreTextTags": "@vS20/17/442300055.",
-            "TextJPN": "「叔父？　沙都子がぁ？@k@vS20/17/442300056.　私ゃあそんな話は知らんがね！」",
-            "NamesENG": "Oryou",
-            "TextENG": "``Her uncle? Satoko's being abused?@k@vS20/17/442300056. I've never heard of anything like that!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15955,
-            "NamesJPN": "相田",
-            "PreTextTags": "@vS20/00/443000013.",
-            "TextJPN": "「いえいえいえ、ご存じなければ結構なんです。実はですね、そういった旨の陳情が生活相談所に入ったらしいです。@k@vS20/00/443000014.相談所が言うにはだいぶ強い口調で来られていると、そういう話らしいんです」",
-            "NamesENG": "Aida",
-            "TextENG": "``Oh, well, if you don't know, that's okay. To tell you the truth, someone from Hinamizawa came to petition to the child consultation center.@k@vS20/00/443000014. According to the center, that petitioner was very persistent."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15956,
-            "NamesJPN": "相田",
-            "PreTextTags": "@vS20/00/443000015.",
-            "TextJPN": "「それでですね、相談所の係長から、お魎さんのお耳に入ってる話なら取り扱いを急いだほうがいいんじゃないかという話が参りまして、」",
-            "NamesENG": "Aida",
-            "TextENG": "The manager felt that it was better to talk with you, if you already knew about it...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15957,
-            "NamesJPN": "お魎",
-            "PreTextTags": "@vS20/17/442300057.",
-            "TextJPN": "「私ゃあ何も知らんし、全然わからん！　なぁんでわしが北条のバチ当たり娘何ぞに骨を折らんしゃああかんがね！！@k@vS20/17/442300058.　園崎家は全然知りませんし関係も何もありゃんせんね！！」",
-            "NamesENG": "Oryou",
-            "TextENG": "``I don't know anything, and I don't care! Why would I do anything for that pitiful child?!@k@vS20/17/442300058. The Sonozaki family has nothing to do with this!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15958,
-            "NamesJPN": "相田",
-            "PreTextTags": "@vS20/00/443000016.",
-            "TextJPN": "「では……連町の方からそういう話が出てるとか、そういう話はお耳には…、」",
-            "NamesENG": "Aida",
-            "TextENG": "``Have you heard anything about it from the town council...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15959,
-            "NamesJPN": "お魎",
-            "PreTextTags": "@vS20/17/442300059.",
-            "TextJPN": "「知らん知らん！！！　何の話しゃあね！！@k@vS20/17/442300060.　公由んところが北条のバチ当たり娘なんぞに肩入れしたらんきゃあ、すったらんなぁんて園崎には話が入らんね、どういうこっちゃあ！！」",
-            "NamesENG": "Oryou",
-            "TextENG": "``No, no!! What are you saying?!@k@vS20/17/442300060. If Kimiyoshi was helping that blasted Houjou child, then the Sonozaki family would know about it!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15960,
-            "NamesJPN": "お魎",
-            "PreTextTags": "@vS20/17/442300061.",
-            "TextJPN": "「誰じゃあね、その相談所に陳情したったちゅうんわ！！」",
-            "NamesENG": "Oryou",
-            "TextENG": "Who is petitioning the child consultation center?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15961,
-            "NamesJPN": "相田",
-            "PreTextTags": "@vS20/00/443000017.",
-            "TextJPN": "「クラスメイトが何人かいらっしゃった…とまぁ、そういう感じなんですが。……ではこれはクラスの子たちが独自にやったことで、連町も顧問もご存じない、関係ない話という認識でもよろしゅうございますか？」",
-            "NamesENG": "Aida",
-            "TextENG": "``I heard some of her classmates were there... Well, as far as I know, anyway. ...I guess it's just something that her classmates are doing, and the village has nothing to do with it?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15962,
-            "NamesJPN": "お魎",
-            "PreTextTags": "@vS20/17/442300062.",
-            "TextJPN": "「そんに決まっとんしゃあ、なぁん勝手な真似をしさらしとん！！　知らん知らん！！@k@vS20/17/442300063.　村は沙都子とは何の関係もなあね！！」",
-            "NamesENG": "Oryou",
-            "TextENG": "``Of course not!! I don't know anything!!@k@vS20/17/442300063. The village has nothing to do with Satoko!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15963,
-            "TextJPN": "その内容は生活相談所の担当者に伝えられた。",
-            "TextENG": "The contents of this conversation were forwarded to the child consultation center."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15964,
-            "TextJPN": "……つまり、裏にお魎がいないということは、この陳情は特別扱いする必要はないということだ。",
-            "TextENG": "If Oryou wasn't behind the commotion, then they had no need to take the case seriously."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15965,
-            "TextJPN": "相談所の係長は、もし仮に明日も来ても話だけ聞いて、@k決して安易な口約束をしないようにと窓口の職員に釘を刺すのだった。",
-            "TextENG": "The manager told his staff to listen to what the petitioners have to say,@k but to never say anything promising the girl's safety."
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "背後関係は無し",
+		"ENG": "No Relations"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15939,
+		"NamesJPN": "沁子",
+		"PreTextTags": "@vS20/00/shimiko44001.",
+		"TextJPN": "「お待ちください、今代わりますね。……お魎さん、役所の自治係の人から電話が入ってますけど」",
+		"NamesENG": "Shimiko",
+		"TextENG": "``Please hold on a moment, I'll get her... Oryou-san, someone from the municipal government is calling...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15940,
+		"NamesJPN": "お魎",
+		"PreTextTags": "@vS20/17/442300043.",
+		"TextJPN": "「……あぁん、もしもし」",
+		"NamesENG": "Oryou",
+		"TextENG": "``...Aah, hello?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15941,
+		"NamesJPN": "相田",
+		"PreTextTags": "@vS20/00/443000001.",
+		"TextJPN": "「どうも園崎顧問、こんにちは。自治の相田でございます。@k@vS20/00/443000002.先日はおはぎをどうもご馳走さまでした」",
+		"NamesENG": "Aida",
+		"TextENG": "``Hello, Sonozaki-san. This is Aida from the municipal government.@k@vS20/00/443000002. Thank you very much for the ohagi the other day.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15942,
+		"NamesJPN": "お魎",
+		"PreTextTags": "@vS20/17/442300044.",
+		"TextJPN": "「いいんねいいんね。こちらこそ文化祭りの時は世話んなったんね。@k@vS20/17/442300045.野点傘の件、ありがとよぅ。@k@vS20/17/442300046.あれ、一本いくらくらいすんかんね。@k@vS20/17/442300047.すったら毎年使うもんなんだから自治で一本、買っといてくらんとよ」",
+		"NamesENG": "Oryou",
+		"TextENG": "``You're quite welcome. Thank you for your work at the culture festival.@k@vS20/17/442300045. Also for providing that large parasol.@k@vS20/17/442300046. How much does that thing cost?@k@vS20/17/442300047. We use it every year, so we might as well buy one ourselves.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15943,
+		"NamesJPN": "相田",
+		"PreTextTags": "@vS20/00/443000003.",
+		"TextJPN": "「あれはですね、一応、先生からの借り物になっておりまして。一応、値段を調べたんですが、国産だと２０万くらいするらしいんですよ」",
+		"NamesENG": "Aida",
+		"TextENG": "``We borrowed that one from a teacher. I checked out the price, but the domestically-made ones cost about 200,000 yen."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15944,
+		"NamesJPN": "相田",
+		"PreTextTags": "@vS20/00/443000004.",
+		"TextJPN": "「中国製によく似たものがありまして、こっちなら８万円ぐらいで何とか買えそうでして…」",
+		"NamesENG": "Aida",
+		"TextENG": "I also found one made in China, and it's less than half the price...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15945,
+		"NamesJPN": "お魎",
+		"PreTextTags": "@vS20/17/442300048.",
+		"TextJPN": "「別に中国製でもどこ製でも構わんぎゃあ、お呼びする先生に失礼んならんとよ、よぅ選んどくれぇな」",
+		"NamesENG": "Oryou",
+		"TextENG": "``I don't care if it's made in China or not. Just get one so we don't have to cause any more trouble for the teachers.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15946,
+		"NamesJPN": "相田",
+		"PreTextTags": "@vS20/00/443000005.",
+		"TextJPN": "「一応ですね、今、その８万の傘の方を取り寄せさせていただいております。届きましたら、顧問にも一度見ていただきまして、それで判断ということではいかがでしょうか…」",
+		"NamesENG": "Aida",
+		"TextENG": "``We're actually ordering it already. Once it arrives, you might want to take a look at it and make a final decision...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15947,
+		"NamesJPN": "お魎",
+		"PreTextTags": "@vS20/17/442300049.",
+		"TextJPN": "「それから、もう３年、江戸千家が続いとるんね、先生がたまには他の先生もお呼びしないとバランスがようないっちゅうんしゃあ」",
+		"NamesENG": "Oryou",
+		"TextENG": "``Also, we've been holding the same Edo-style tea ceremony for the past three years. We should probably get an instructor from a different style."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15948,
+		"NamesJPN": "お魎",
+		"PreTextTags": "@vS20/17/442300050.",
+		"TextJPN": "「表でも裏でもいいから他の先生をちょいと自治の方で来年までに探してもらってもいいかんね」",
+		"NamesENG": "Oryou",
+		"TextENG": "Can you look for a new instructor for next year?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15949,
+		"NamesJPN": "相田",
+		"PreTextTags": "@vS20/00/443000006.",
+		"TextJPN": "「は、はぁ……そうですか…。わ…わかりました！@k@vS20/00/443000007.　ちょっとこちらでもお茶の先生を探してみます。@k@vS20/00/443000008.…それでですね顧問。@k@vS20/00/443000009.実は今日はちょぉっとご相談がございまして」",
+		"NamesENG": "Aida",
+		"TextENG": "``O-Oh... I see... W-Will do, ma'am!@k@vS20/00/443000007. We'll find a different tea ceremony instructor.@k@vS20/00/443000008. ...About that, Advisor.@k@vS20/00/443000009. I had something else to ask you about.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15950,
+		"NamesJPN": "お魎",
+		"PreTextTags": "@vS20/17/442300051.",
+		"TextJPN": "「こっちの傘の話ばっかりですまんね。で、何の話なんしゃあ」",
+		"NamesENG": "Oryou",
+		"TextENG": "``And here's me going on about a parasol. So, what do you need?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15951,
+		"NamesJPN": "相田",
+		"PreTextTags": "@vS20/00/443000010.",
+		"TextJPN": "「実はですね、雛見沢にお住まいの北条沙都子さんの件で顧問のお耳に入っておりますかどうかと思いましてお電話させていただいた次第なんですが」",
+		"NamesENG": "Aida",
+		"TextENG": "``We were wondering if you've heard anything about the case of Satoko Houjou-san in Hinamizawa.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15952,
+		"NamesJPN": "お魎",
+		"PreTextTags": "@vS20/17/442300052.",
+		"TextJPN": "「……北条沙都子ぉ？　あぁん！@k@vS20/17/442300053.　バチ当たり北条のとこの娘かぁ。@k@vS20/17/442300054.何かしよりましたんかいね」",
+		"NamesENG": "Oryou",
+		"TextENG": "``...Satoko Houjou? Haaah?@k@vS20/17/442300053. You're talking about that blasted Houjou girl?@k@vS20/17/442300054. What did she do?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15953,
+		"NamesJPN": "相田",
+		"PreTextTags": "@vS20/00/443000011.",
+		"TextJPN": "「いえ、実はですね。最近、叔父さんと同居を始めたとかでですね、@k@vS20/00/443000012.その叔父さんとトラブルを起こしているとか、そんな話は顧問のお耳には入っておりますでしょうか」",
+		"NamesENG": "Aida",
+		"TextENG": "``Well... She's recently moved in with her uncle,@k@vS20/00/443000012. but she's being abused, apparently... have you heard anything about it?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15954,
+		"NamesJPN": "お魎",
+		"PreTextTags": "@vS20/17/442300055.",
+		"TextJPN": "「叔父？　沙都子がぁ？@k@vS20/17/442300056.　私ゃあそんな話は知らんがね！」",
+		"NamesENG": "Oryou",
+		"TextENG": "``Her uncle? Satoko's being abused?@k@vS20/17/442300056. I've never heard of anything like that!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15955,
+		"NamesJPN": "相田",
+		"PreTextTags": "@vS20/00/443000013.",
+		"TextJPN": "「いえいえいえ、ご存じなければ結構なんです。実はですね、そういった旨の陳情が生活相談所に入ったらしいです。@k@vS20/00/443000014.相談所が言うにはだいぶ強い口調で来られていると、そういう話らしいんです」",
+		"NamesENG": "Aida",
+		"TextENG": "``Oh, well, if you don't know, that's okay. To tell you the truth, someone from Hinamizawa came to petition to the child consultation center.@k@vS20/00/443000014. According to the center, that petitioner was very persistent."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15956,
+		"NamesJPN": "相田",
+		"PreTextTags": "@vS20/00/443000015.",
+		"TextJPN": "「それでですね、相談所の係長から、お魎さんのお耳に入ってる話なら取り扱いを急いだほうがいいんじゃないかという話が参りまして、」",
+		"NamesENG": "Aida",
+		"TextENG": "The manager felt that it was better to talk with you, if you already knew about it...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15957,
+		"NamesJPN": "お魎",
+		"PreTextTags": "@vS20/17/442300057.",
+		"TextJPN": "「私ゃあ何も知らんし、全然わからん！　なぁんでわしが北条のバチ当たり娘何ぞに骨を折らんしゃああかんがね！！@k@vS20/17/442300058.　園崎家は全然知りませんし関係も何もありゃんせんね！！」",
+		"NamesENG": "Oryou",
+		"TextENG": "``I don't know anything, and I don't care! Why would I do anything for that pitiful child?!@k@vS20/17/442300058. The Sonozaki family has nothing to do with this!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15958,
+		"NamesJPN": "相田",
+		"PreTextTags": "@vS20/00/443000016.",
+		"TextJPN": "「では……連町の方からそういう話が出てるとか、そういう話はお耳には…、」",
+		"NamesENG": "Aida",
+		"TextENG": "``Have you heard anything about it from the town council...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15959,
+		"NamesJPN": "お魎",
+		"PreTextTags": "@vS20/17/442300059.",
+		"TextJPN": "「知らん知らん！！！　何の話しゃあね！！@k@vS20/17/442300060.　公由んところが北条のバチ当たり娘なんぞに肩入れしたらんきゃあ、すったらんなぁんて園崎には話が入らんね、どういうこっちゃあ！！」",
+		"NamesENG": "Oryou",
+		"TextENG": "``No, no!! What are you saying?!@k@vS20/17/442300060. If Kimiyoshi was helping that blasted Houjou child, then the Sonozaki family would know about it!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15960,
+		"NamesJPN": "お魎",
+		"PreTextTags": "@vS20/17/442300061.",
+		"TextJPN": "「誰じゃあね、その相談所に陳情したったちゅうんわ！！」",
+		"NamesENG": "Oryou",
+		"TextENG": "Who is petitioning the child consultation center?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15961,
+		"NamesJPN": "相田",
+		"PreTextTags": "@vS20/00/443000017.",
+		"TextJPN": "「クラスメイトが何人かいらっしゃった…とまぁ、そういう感じなんですが。……ではこれはクラスの子たちが独自にやったことで、連町も顧問もご存じない、関係ない話という認識でもよろしゅうございますか？」",
+		"NamesENG": "Aida",
+		"TextENG": "``I heard some of her classmates were there... Well, as far as I know, anyway. ...I guess it's just something that her classmates are doing, and the village has nothing to do with it?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15962,
+		"NamesJPN": "お魎",
+		"PreTextTags": "@vS20/17/442300062.",
+		"TextJPN": "「そんに決まっとんしゃあ、なぁん勝手な真似をしさらしとん！！　知らん知らん！！@k@vS20/17/442300063.　村は沙都子とは何の関係もなあね！！」",
+		"NamesENG": "Oryou",
+		"TextENG": "``Of course not!! I don't know anything!!@k@vS20/17/442300063. The village has nothing to do with Satoko!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15963,
+		"TextJPN": "その内容は生活相談所の担当者に伝えられた。",
+		"TextENG": "The contents of this conversation were forwarded to the child consultation center."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15964,
+		"TextJPN": "……つまり、裏にお魎がいないということは、この陳情は特別扱いする必要はないということだ。",
+		"TextENG": "If Oryou wasn't behind the commotion, then they had no need to take the case seriously."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15965,
+		"TextJPN": "相談所の係長は、もし仮に明日も来ても話だけ聞いて、@k決して安易な口約束をしないようにと窓口の職員に釘を刺すのだった。",
+		"TextENG": "The manager told his staff to listen to what the petitioners have to say,@k but to never say anything promising the girl's safety."
+	}
+]

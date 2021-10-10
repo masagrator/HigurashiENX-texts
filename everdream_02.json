@@ -1,1432 +1,1430 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "#2 悪夢",
-            "ENG": "#2 / Nightmare"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1596,
-            "TextJPN": "父さんと母さんが死んだ。",
-            "TextENG": "My father and mother died."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1597,
-            "TextJPN": "享年が何歳だったかも、よくわからない。",
-            "TextENG": "I don't know exactly how old they were."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1598,
-            "TextJPN": "私はそれくらいに幼かったから。",
-            "TextENG": "I was too young to remember."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1599,
-            "TextJPN": "私ひとりを留守番に残し、両親の二人だけでお出掛けをしたからバチに当たったに違いない。",
-            "TextENG": "They went shopping without me, and that must be why they were punished."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1600,
-            "TextJPN": "バスの事故だったという。",
-            "TextENG": "It was a train accident."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1601,
-            "TextJPN": "ひどい惨事だったという。",
-            "TextENG": "What a terrible disaster."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1602,
-            "TextJPN": "大勢の人が犠牲になったという。",
-            "TextENG": "A lot of people died in that incident."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1603,
-            "TextJPN": "でも、まだ父さんは幸運な方だったかもしれない。",
-            "TextENG": "But maybe my father was one of the lucky ones."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1604,
-            "TextJPN": "…生きて病院に担ぎ込まれて、私にいくつかの言葉を残すことができたのだから。",
-            "TextENG": "He was still alive when he arrived at the hospital, so he was able to share his final words with me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1605,
-            "TextJPN": "お母さんなど…。",
-            "TextENG": "My mother died instantly."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1606,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100040.",
-            "TextJPN": "「…お、…お父さん、@k@vS13/48/550100041.お父さんお父さんお父さん…！！」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``...D-Daddy...@k@vS13/48/550100041. Daddy, Daddy, Daddy...!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1607,
-            "TextJPN": "その、あまりに憐れな変わり果てた姿を、私は父さんだと認めたくなかった。",
-            "TextENG": "I didn't want to admit that this person I could hardly recognize was my father."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1608,
-            "TextJPN": "父さんと呼びながら、それが違う人であって欲しいと願った。",
-            "TextENG": "As I called out to him, I hoped that it was someone else instead."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1609,
-            "TextJPN": "だが、…無情にも、…それは父さんだった。",
-            "TextENG": "But unfortunately it was my father."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1610,
-            "TextJPN": "本当は父さんを起こすべきではなかっただろう。",
-            "TextENG": "Maybe I shouldn't have woken him."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1611,
-            "TextJPN": "…父さんは、私にまどろみを破られることによって、ようやく忘れかけていた苦痛を思い出してしまったのだから。",
-            "TextENG": "Because when I woke him up, he was reminded of the miserable agony that he had forgotten."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1612,
-            "NamesJPN": "美代子の父",
-            "PreTextTags": "@vS13/00/550400001.",
-            "TextJPN": "「……うぅうぅ……。ぅぅぅ……」",
-            "NamesENG": "Miyoko's dad",
-            "TextENG": "``Oooh... Oooh...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1613,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100042.",
-            "TextJPN": "「お父さん、@k@vS13/48/550100043.お父さんお父さんお父さん！！」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``Daddy,@k@vS13/48/550100043. Daddy, Daddy, Daddy!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1614,
-            "TextJPN": "父さんはきっと、泣きじゃくる私の頭を撫でたかったのだろうと思う。",
-            "TextENG": "He tried to move his right arm"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1615,
-            "TextJPN": "…だって、右の腕を動かそうとしたから。",
-            "TextENG": "so he could pat my head."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1616,
-            "TextJPN": "でも、その腕は包帯でぐるぐる巻きにされていて、@k…私のそばまで動かなかった。",
-            "TextENG": "But his arm was wrapped in bandages@k and his hand was no longer there."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1617,
-            "TextJPN": "父さんの右手は、本当は怖い思い出しかない。",
-            "TextENG": "I only had scary memories of his right hand."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1618,
-            "TextJPN": "私がいたずらや嘘をついた時、平手で打つのが主な役割だったから。",
-            "TextENG": "Its main job was to slap me when I did something bad."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1619,
-            "TextJPN": "でも、だからといって、こんな状況を願ったことは一度もない。",
-            "TextENG": "But I never wished it to be gone."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1620,
-            "TextJPN": "それに、平手で打たれた回数に比べたら本当に微々たるものだけど…、@k…たまには私の頭を撫でてくれた。",
-            "TextENG": "Besides, that hand also patted my head...@k even though that only happened a few times."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1621,
-            "TextJPN": "大きな手の平で、それ自体がご褒美であるように、…私の頭をやさしく撫でてくれたんだ。",
-            "TextENG": "It was a big, warm hand, and it stroked my head very gently."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1622,
-            "TextJPN": "私がどんなにちゃんと早起きをしても、ちゃんとお使いを出来ても、もう父さんは私の頭を撫でることができないのだ。",
-            "TextENG": "But no matter what good deeds I did he could no longer rub my head..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1623,
-            "TextJPN": "いや、…本当はそれすらも微々たる問題だった。",
-            "TextENG": "No... his hand was the least of his worries."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1624,
-            "TextJPN": "緊急手術の時間は迫っていた。",
-            "TextENG": "He had to go into emergency surgery."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1625,
-            "TextJPN": "手術の成功率は高くないと、予めお医者様には釘を刺されていた。",
-            "TextENG": "The doctors already warned me that the chance of him surviving was very low."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1626,
-            "TextJPN": "本当なら面会謝絶なのに、会わせてくれたのもそういう意味なのだ。",
-            "TextENG": "That was why I was allowed to see him, regardless of his condition."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1627,
-            "TextJPN": "父さんは、私の頭を二度と撫でられないどころか、…私の前から永遠にいなくなってしまうかもしれない瀬戸際にいたのだから…。",
-            "TextENG": "Not only could he no longer rub my head, he might be gone forever..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1628,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100044.",
-            "TextJPN": "「…お父さん、手術できっと良くなるよね？！@k@vS13/48/550100045.　お父さん、きっと元気になれるよね？！@k@vS13/48/550100046.　なれるよね？！」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``Daddy, the surgery will make you better, right?@k@vS13/48/550100045. Daddy, you'll get better, right?@k@vS13/48/550100046. Right?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1629,
-            "NamesJPN": "美代子の父",
-            "PreTextTags": "@vS13/00/550400002.",
-            "TextJPN": "「……よ、よく聞きなさい。@k@vS13/00/550400003.…お父さんは駄目かもしれない。@k@vS13/00/550400004.もしもお父さんが死んでも、お前はしっかり生きるんだよ」",
-            "NamesENG": "Miyoko's dad",
-            "TextENG": "``......L-Listen carefully.@k@vS13/00/550400003. ...Your daddy might not make it.@k@vS13/00/550400004. Even if I die, you have to be strong, okay?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1630,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100047.",
-            "TextJPN": "「嫌だ嫌だ！　お父さんは元気になるよ！@k@vS13/48/550100048.　お医者様がちゃんと手術してくれるもん！！@k@vS13/48/550100049.　だから死んだりなんかしないんだよ！！」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``No, no!! You'll get better!!@k@vS13/48/550100048. The doctor is going to make you better!!@k@vS13/48/550100049. So you're not going to die!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1631,
-            "TextJPN": "古い時代の人らしい頑固な父さんだった。",
-            "TextENG": "He was a stubborn and old-fashioned father."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1632,
-            "TextJPN": "痩せ我慢が美徳で、絶対に辛いとは口にしない人だった。",
-            "TextENG": "He believed endurance was a virtue, and he never complained about anything."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1633,
-            "TextJPN": "だから、自分が死ぬかもしれないなんて弱気な言葉がその口から出て来ることが信じられなくて…、@k私は必死にそれを否定しようとした。",
-            "TextENG": "That was why I couldn't believe he actually said he might not make it.@k I tried desperately to deny his words."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1634,
-            "TextJPN": "…だが、私の願いごときでは、父さんの残された時間を延ばすことはできない。",
-            "TextENG": "But even that wish wouldn't prolong his life."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1635,
-            "TextJPN": "父さんは、自分が言葉を残せる時間がすでに限られていることを知っていて、私に、本当に大切なことを伝えようとしていた。",
-            "TextENG": "My father, knowing his time was limited, tried to tell me some important things."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1636,
-            "TextJPN": "そんな父さんの必死の努力を、私は否定するように泣きじゃくって掻き消す。",
-            "TextENG": "But I interrupted his efforts by crying like a baby."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1637,
-            "TextJPN": "…いっそのこと、そんな私を平手打ちしてほしかった。",
-            "TextENG": "I just wanted him to slap me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1638,
-            "TextJPN": "泣いてわがままを言う私に、いつも父さんがそうしたように。",
-            "TextENG": "Just like he used to do every time I cried like a baby."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1639,
-            "TextJPN": "…でも、父さんは私に平手打ちをすることはもう二度とない…。",
-            "TextENG": "But he would never slap me again."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1640,
-            "NamesJPN": "美代子の父",
-            "PreTextTags": "@vS13/00/550400005.",
-            "TextJPN": "「よ…、よく聞きなさい。@k@vS13/00/550400006.…お父さんもお母さんも、親類というものがいない。@k@vS13/00/550400007.だから…、お父さんが死んだら、お前の世話をしてくれる人は誰もいない…」",
-            "NamesENG": "Miyoko's dad",
-            "TextENG": "``L... Listen well.@k@vS13/00/550400006. Your mother and I both lost all of our family in the war.@k@vS13/00/550400007. So... after I'm dead, there won't be anyone left to take care of you...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1641,
-            "TextJPN": "それを改めて言われる必要はなかった。",
-            "TextENG": "He didn't need to tell me that."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1642,
-            "TextJPN": "父さんも母さんも日頃からそれを口にしていたから私はそれをよく知っていた。",
-            "TextENG": "My parents used to tell me that all the time, so I was aware of that fact."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1643,
-            "TextJPN": "…つまり、私にとって、父さんはこの世に唯一残る肉親なのだ。",
-            "TextENG": "In other words, my father was the only relative I had left in this entire world."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1644,
-            "NamesJPN": "美代子の父",
-            "PreTextTags": "@vS13/00/550400008.",
-            "TextJPN": "「もしもな、お父さんが死んだら、@k@vS13/00/550400009.高野先生を頼りなさい。@k@vS13/00/550400010.高野一二三先生だよ。@k@vS13/00/550400011.言ってみなさい」",
-            "NamesENG": "Miyoko's dad",
-            "TextENG": "``If, if I die@k@vS13/00/550400009. you can count on Dr. Takano.@k@vS13/00/550400010. Doctor Hifumi Takano.@k@vS13/00/550400011. Can you say it?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1645,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100050.",
-            "TextJPN": "「高野、ひふみ…」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``Hifumi Takano...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1646,
-            "NamesJPN": "美代子の父",
-            "PreTextTags": "@vS13/00/550400012.",
-            "TextJPN": "「そうだ。高野一二三先生だよ。@k@vS13/00/550400013.…高野先生はお父さんの恩師なんだ。@k@vS13/00/550400014.きっと、お前を助け、@k@vS13/00/550400015.けっ、げほッ！！　げへがはッ！！」",
-            "NamesENG": "Miyoko's dad",
-            "TextENG": "``That's right. Doctor Hifumi Takano.@k@vS13/00/550400013. He is my former teacher.@k@vS13/00/550400014. He will help you...@k@vS13/00/550400015. cough cough!! Cough!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1647,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100051.",
-            "TextJPN": "「お父さん、@k@vS13/48/550100052.お父さんお父さんお父さん！！！」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``Daddy,@k@vS13/48/550100052. Daddy, Daddy, Daddy!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1648,
-            "TextJPN": "お医者様たちが大慌てでなだれ込んで来る。",
-            "TextENG": "Many doctors came into the room in a hurry."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1649,
-            "TextJPN": "お父さんはまだ何かを伝えようとしていたが、それはしゃべらないようにと制止するお医者様たちのせいで聞き取ることはできなかった。",
-            "TextENG": "He wanted to tell me something else, but the doctors stopped him from talking, so I wasn't able to hear him."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1650,
-            "TextJPN": "私は弾き飛ばされて病室を追い出される。",
-            "TextENG": "I was kicked out of the room."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1651,
-            "TextJPN": "そして病院の廊下でおろおろするばかり。",
-            "TextENG": "I didn't know what to do."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1652,
-            "TextJPN": "…父さんがどういう状態なのか、手術はいつ始まるのか、誰も教えてはくれなかった。",
-            "TextENG": "Nobody told me how my father was doing or when the surgery was going to start."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1653,
-            "TextJPN": "そして、父さんともう永遠に言葉を交わすことができなくなることも、…誰も教えてはくれなかった…。",
-            "TextENG": "And nobody told me... that was going to be the last conversation I ever had with my father."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1654,
-            "TextJPN": "…父さんの言い残した『高野先生』の名前を、お役所の人とか色々な人に言ったと思う。",
-            "TextENG": "I think I asked people at the government office about Dr. Takano."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1655,
-            "TextJPN": "そうすると必ず、『連絡先は？』と聞かれた。",
-            "TextENG": "They'd asked me if I knew his phone number."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1656,
-            "TextJPN": "私は、知らないと答える他なかった。",
-            "TextENG": "I said I didn't. Then they didn't ask me anything further."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1657,
-            "TextJPN": "すると決まって、その話はそれで終わってしまい、@kあるいはたまに『調べておく』という返事がもらえたが、それでも結果は大して変わらなかった。",
-            "TextENG": "Sometimes they told me they'd look into it, but nothing led to anything.@k They couldn't find me a guardian, so I ended up going to an orphanage."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1658,
-            "TextJPN": "そして、父の言うとおり身寄りのなかった私は、まったく別の場所へと移され、そこで新しい生活を送ることとなった。",
-            "TextENG": "As my father had said, I had no relatives, so I was moved to a completely different place, where I was to live a new life."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1659,
-            "TextJPN": "………それが、地獄の始まりだった。",
-            "TextENG": "...That was the beginning of hell."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1660,
-            "TextJPN": "そこがどんなところだったかなんて、…口にしたくもない。",
-            "TextENG": "I don't even want to talk about... what it was like there."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1661,
-            "TextJPN": "思い出したくもない。",
-            "TextENG": "I don't even want to remember."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1662,
-            "TextJPN": "食事はできた。",
-            "TextENG": "I was able to eat."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1663,
-            "TextJPN": "…最低限の。",
-            "TextENG": "This was provided minimum."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1664,
-            "TextJPN": "学校らしきところにも通えた。",
-            "TextENG": "I could go to what looked like a school."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1665,
-            "TextJPN": "…本当に、『らしき』というのにふさわしい場所だったけど。",
-            "TextENG": "It really was a place that deserved to be called ``like``."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1666,
-            "TextJPN": "息さえしていれば、生物としての『生』を保障されていることになるのかもしれない。",
-            "TextENG": "As long as you are breathing, you may be guaranteed to live as a living being."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1667,
-            "TextJPN": "…だが、尊厳ある人間としての『生』としてはどうかと問われたならば、断じてそれは否だった。",
-            "TextENG": "...But if you were to ask me if it was a life as a dignified human being, I would have to say no."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1668,
-            "TextJPN": "そしてそれが、私だけというなら反省もするし、努力もするだろう。",
-            "TextENG": "And if it's just me, I'll reflect on it and try to do better."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1669,
-            "TextJPN": "私にそうなるだけの理由があり、至らないところがあったということなのだから。",
-            "TextENG": "There was a reason why I was like that, and it was because of my inadequacies."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1670,
-            "TextJPN": "でも、…それは私と同じように生活する、私と同年代の子達も同じ扱いだった。",
-            "TextENG": "But it was the same treatment for the kids my age, who live the same way I do."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1671,
-            "TextJPN": "つまりは理由なんてものは存在せず、ただ不当に、そして理不尽がまかり通っているということだ。",
-            "TextENG": "In other words, there is no reason, only injustice and unreasonableness."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1672,
-            "TextJPN": "苦しかった。",
-            "TextENG": "It was painful."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1673,
-            "TextJPN": "悲しかった。",
-            "TextENG": "It was sad."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1674,
-            "TextJPN": "……そして、それに何もできない無力な自分が悔しくて憎くて、…恨めしかった。",
-            "TextENG": "And I hated and resented myself for being helpless to do anything about it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1675,
-            "TextJPN": "どうして、私はここにいるのだろう。",
-            "TextENG": "I wonder why I am here."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1676,
-            "TextJPN": "いやそもそも、本当に私はここにいなければいけないのか？",
-            "TextENG": "No. Do I really have to be here in the first place?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1677,
-            "TextJPN": "そんな疑念は不平とともに日に日に膨らんでいき、――そしてついに、私たちは逃げ出した。",
-            "TextENG": "These doubts grew day by day with complaints... and finally, we ran away."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1678,
-            "TextJPN": "同じように不満と憤怒を持つ、仲間を募って。",
-            "TextENG": "Recruited others who shared my frustration and outrage."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1679,
-            "TextJPN": "行くあてなんて、あったわけでもない。",
-            "TextENG": "It's not like I had a destination in mind."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1680,
-            "TextJPN": "それでもこの無謀な計画に賭けることのほうが今のこの状況を受け入れ続けるよりもはるかに魅力的に思えるほどに、私たちは心身ともに追い詰められていた。",
-            "TextENG": "Still, we were trapped both physically and mentally to the point where betting on this reckless plan seemed far more appealing than continuing to accept our current situation."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1681,
-            "NamesJPN": "恵理子",
-            "PreTextTags": "@vS13/00/eriko55001.",
-            "TextJPN": "「……よし、…行くよ…」",
-            "NamesENG": "Eriko",
-            "TextENG": "``......Okay... let's go...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1682,
-            "TextJPN": "恵理子はそう言おうとしたんだと思う。",
-            "TextENG": "I think Eriko wanted to say that."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1683,
-            "TextJPN": "私たちもそれを合図に一斉に駆け出すつもりだった。",
-            "TextENG": "We were planning to leave with that as our cue."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1684,
-            "TextJPN": "…だが、恵理子より先に聞こえた声は、彼女のものではなかった。",
-            "TextENG": "But what we heard instead wasn't Eriko's voice."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1685,
-            "NamesJPN": "職員",
-            "PreTextTags": "@vS13/00/syokuin55001.",
-            "TextJPN": "「お前たちッ、そこで何をしているッ！！！」",
-            "NamesENG": "Staff Member",
-            "TextENG": "``What are you kids doing there?!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1686,
-            "TextJPN": "私たちは弾かれたように走り出す…ッ！",
-            "TextENG": "We started to run."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1687,
-            "TextJPN": "外は雨だった。",
-            "TextENG": "It was raining."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1688,
-            "TextJPN": "あっという間に雨粒が全身を濡らし、衣服を張り付かせてしまう。",
-            "TextENG": "We all got soaked immediately, and our clothes stuck to our skin."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1689,
-            "TextJPN": "それは普段なら、とても気持ちの悪いことだったろうが、今はそんなことをまったく気にしていられなかった。",
-            "TextENG": "While that would normally be very uncomfortable, we couldn't even stop to think about that."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1690,
-            "TextJPN": "ただただ、降りしきる雨と鮮烈な外気の中を、ひたすらに駆けた。",
-            "TextENG": "We could only keep running in the rain."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1691,
-            "TextJPN": "砂利の上を駆け抜けるだけなのに、なぜか田んぼの中に足を突っ込んで走っているような感触がした。",
-            "TextENG": "We were dashing on gravel, but it felt more like trudging through a muddy rice field."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1692,
-            "TextJPN": "…足がずぼずぼと泥田にはまり、思うように足が上げられないあの感じ。",
-            "TextENG": "My feet kept sinking and I couldn't pull them up."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1693,
-            "TextJPN": "いくら走っても走っても、ちっとも速度が出ないようなもどかしさ…！",
-            "TextENG": "I was frustrated because no matter how fast I tried to run, I wasn't gaining any speed."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1694,
-            "TextJPN": "体より心が急いている証拠だった。",
-            "TextENG": "I felt a sense of urgency."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1695,
-            "TextJPN": "後で職員が脱走だと喚くのが聞こえる。",
-            "TextENG": "I heard someone yelling ``escape`` behind me"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1696,
-            "TextJPN": "もうあとはがむしゃらに走るしかない…！！",
-            "TextENG": "and all I could do was run like crazy."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1697,
-            "NamesJPN": "恵理子",
-            "PreTextTags": "@vS13/00/eriko55002.",
-            "TextJPN": "「きッ、決めた通りに…@k@vS13/00/eriko55003.バラバラの方向にッ！！　散って！！！」",
-            "NamesENG": "Eriko",
-            "TextENG": "``O-Okay, everyone go in different directions!@k@vS13/00/eriko55003. Come on, scatter!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1698,
-            "TextJPN": "恵理子の合図で、私たちは思い思いの方向に散る。",
-            "TextENG": "With Eriko's cue, we all went different ways,"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1699,
-            "TextJPN": "自分を職員が追ってこないことを祈って…！",
-            "TextENG": "hoping they wouldn't be coming after us."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1700,
-            "TextJPN": "あぁ、私たち４人は全員、無事にどこかの場所で再会できるだろうか…？",
-            "TextENG": "Would we be able to reunite safely at The House of Love and Mercy?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1701,
-            "TextJPN": "４人が無事揃えるか、…それとも、辛い時を共に耐えてきた誰かが欠けるのか。",
-            "TextENG": "All four of us there together... or maybe someone would be missing..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1702,
-            "TextJPN": "いや、それともあるいは…、…みんなは無事に辿り着けて、…その欠けるのが自分になる可能性だって…。",
-            "TextENG": "No, maybe... everyone else would make it... and I'd be the one who gets caught..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1703,
-            "TextJPN": "祈るような願いは、後から聞こえてくる職員の声で断ち切られる。",
-            "TextENG": "My thoughts were interrupted by the voice of a staff member coming from behind me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1704,
-            "NamesJPN": "職員",
-            "PreTextTags": "@vS13/00/syokuin55002.",
-            "TextJPN": "「待ちなさい、@k@vS13/00/syokuin55003.待ちなさい待ちなさいッ！！！」",
-            "NamesENG": "Staff Member",
-            "TextENG": "``Hold it!@k@vS13/00/syokuin55003. Wait, hold it right there!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1705,
-            "TextJPN": "追ってくる職員は私たちの人数より少ないはずだ。",
-            "TextENG": "The staff members should have numbered fewer than us."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1706,
-            "TextJPN": "だから、運が良ければ自分には追っ手がいないはず。",
-            "TextENG": "So if I was lucky, they wouldn't be coming after me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1707,
-            "TextJPN": "遠くから聞こえてくる職員の声が自分に対してでないことを祈りつつ、後を一瞬だけ振り返る。",
-            "TextENG": "Praying that the staff voices I heard in the distance weren't after me, I looked back for a moment."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1708,
-            "TextJPN": "あぁ、そんな振り返る余裕があるならば、どうしてさらに一歩先へ足を踏み出さない？",
-            "TextENG": "If I had time to turn around, why didn't I take another step forward?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1709,
-            "TextJPN": "どうしてもう一歩先へ逃げ延びないッ？！",
-            "TextENG": "Why didn't I try to escape further?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1710,
-            "TextJPN": "振り返った私の顔に覆いかかる分厚い手の平。",
-            "TextENG": "As I turned around, I felt a huge hand cover my face."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1711,
-            "TextJPN": "荒い息をするために開かれた私の口に、その手の小指が紛れ込むのがわかった。",
-            "TextENG": "Its pinky finger slipped into my open mouth."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1712,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100053.",
-            "TextJPN": "「ぐっ、…っっ？！」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``Khh....?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1713,
-            "TextJPN": "私は顔面を引っ掻かれるように掴まれると、砂利混じりの水溜りに押し潰すように突っ伏された。",
-            "TextENG": "The hand grabbing my face shoved me into the muddy gravel."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1714,
-            "TextJPN": "もちろん大人しくなんかするわけがない。",
-            "TextENG": "Of course, I didn't stay quiet."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1715,
-            "TextJPN": "私は暴れてもがく。",
-            "TextENG": "I fought back..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1716,
-            "TextJPN": "その瞬間、職員の表情が目に入った。",
-            "TextENG": "and then I saw his face."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1717,
-            "TextJPN": "それは、…何て憎悪の表情ッ！！",
-            "TextENG": "It was the scariest face I'd ever seen!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1718,
-            "TextJPN": "そう直感する。",
-            "TextENG": "I realized it immediately."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1719,
-            "TextJPN": "見せしめにするために私を生かして捕らえたいだけなのだ。",
-            "TextENG": "He only wanted to capture me alive to use me as an example."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1720,
-            "TextJPN": "そして、見せしめにした後のことを考えるならば、今この場で殺してしまったとしても、何の問題もないではないか。",
-            "TextENG": "And considering what would happen to me afterwards, killing me here on the spot wouldn't pose any problem, would it?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1721,
-            "TextJPN": "…そうさ、今この場で息の根を止めてしまおうとするこの世のものとは思えない憎悪を私は見る…！",
-            "TextENG": "...Yes. He looked at me with unworldly hate, ready to end my life here and now."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1722,
-            "TextJPN": "私の口の中に入ったままの小指は雨粒にまみれ、私の舌に触れた。",
-            "TextENG": "His pinky finger ended up touching my tongue."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1723,
-            "TextJPN": "…形容のできない嫌な味と感触が、悪寒となって私の全身を駆け巡る！",
-            "TextENG": "The indescribably nasty taste sent an icky feeling through my whole body!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1724,
-            "TextJPN": "あぁ、思った！！",
-            "TextENG": "Aah, that's it!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1725,
-            "TextJPN": "この味は、私が殺される味だッ！！",
-            "TextENG": "This is what my murder tastes like!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1726,
-            "TextJPN": "この無骨な指をそのまま私の気管にまで捻じ込んで、私をこの場で窒息させて殺してしまおうという、殺しの指なのだッ！",
-            "TextENG": "He was going to shove that finger down my windpipe and suffocate me!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1727,
-            "TextJPN": "だから、私は生きるために戦った！！",
-            "TextENG": "And so, in order to live, I fought back in the only way I could."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1728,
-            "NamesJPN": "職員",
-            "PreTextTags": "@vS13/00/syokuin55004.",
-            "TextJPN": "「ぐわぁぁあぁっっ！！」",
-            "NamesENG": "Staff Member",
-            "TextENG": "``Mmmmm!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1729,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100054.",
-            "TextJPN": "「――――っ！！」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``Gyahhhhh!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1730,
-            "NamesJPN": "職員",
-            "PreTextTags": "@vS13/00/syokuin55005.",
-            "TextJPN": "「ぐおのやろおおおぉ、ブッ殺してやるぅううッ！！！！」",
-            "NamesENG": "Staff Member",
-            "TextENG": "``You little shit! I'll kill you!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1731,
-            "TextJPN": "背後で、激昂する声が聞こえた。",
-            "TextENG": "I heard his roars echoing behind me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1732,
-            "TextJPN": "追ってくるのはもう職員じゃない。",
-            "TextENG": "It wasn't a man that was after me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1733,
-            "TextJPN": "きっと野獣だ。",
-            "TextENG": "It was a beast."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1734,
-            "TextJPN": "捕らえたりなどしない。",
-            "TextENG": "He had no interest in capturing me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1735,
-            "TextJPN": "今この場で私を噛み殺そうとしている野獣なのだ…！！",
-            "TextENG": "His only goal was to see me dead."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1736,
-            "TextJPN": "靴はいつの間にか脱げていた。",
-            "TextENG": "My shoes had slipped off."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1737,
-            "TextJPN": "スニーカーなんて上等なものじゃない。",
-            "TextENG": "They weren't sneakers,"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1738,
-            "TextJPN": "死に物狂いで駆けたら、こんなものあっさり脱げてしまう。",
-            "TextENG": "so they came off easily while I was running like mad."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1739,
-            "TextJPN": "剥き出しになった素足は、そのヤワな足の裏で砂利をがりがりと食う。",
-            "TextENG": "My bare feet struck the gravel over and over."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1740,
-            "TextJPN": "もちろんそれはとても痛いものだったが、今だけは気にならなかった。",
-            "TextENG": "It was painful, but I didn't care."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1741,
-            "TextJPN": "…足を止めれば、その痛みを楽しむ余裕さえ与えられないのだからッ！！",
-            "TextENG": "Because if I stopped, I knew what would happen to me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1742,
-            "TextJPN": "木立が私の顔を擦り、腿に引っ掛けた有刺鉄線が一文字の傷痕を残す。",
-            "TextENG": "Tree branches cut my face and barbed wires scratched my thighs."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1743,
-            "TextJPN": "砂利を食った足の裏は血塗れになり、石を蹴り続けた爪は割れて血を滲ませていた。",
-            "TextENG": "My feet and toes were bloody from running on gravel."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1744,
-            "TextJPN": "職員の指を噛んだ時に口の中を満たした血が、私の口から涎と共にぼたぼた吐き出され、私の口元と胸元を真っ赤に汚していた。",
-            "TextENG": "The blood from the staff member's pinky finger dripped down from my mouth, staining my chin and chest."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1745,
-            "TextJPN": "幼い少女が、全身を生傷や擦り傷だらけにし、血を真っ赤にこびり付かせながら、ただただ自由を求めて、走る。",
-            "TextENG": "I was running for my life, with scratches and cuts all over my body."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1746,
-            "TextJPN": "捕まれば殺される。",
-            "TextENG": "If I were to get caught, I would be killed."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1747,
-            "TextJPN": "追っ手に理性があれば、恐ろしい刑罰で虐め殺されるだろう。",
-            "TextENG": "If my pursuer had any sense, then I would be killed after being tortured."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1748,
-            "TextJPN": "理性がなければ、今この場で殺されるだろう。",
-            "TextENG": "But if he didn't, I would be killed on the spot."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1749,
-            "TextJPN": "殺されたくない、殺されたくない…！！",
-            "TextENG": "I don't want to be killed. I don't want to be killed!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1750,
-            "TextJPN": "肺と心臓が爆発しそうだった。",
-            "TextENG": "My lungs and heart were about to explode."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1751,
-            "TextJPN": "恐怖と酸欠で頭は真っ白だった。",
-            "TextENG": "My mind was blank from fear and lack of oxygen."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1752,
-            "TextJPN": "意識が途切れそうだった。",
-            "TextENG": "I was about to lose consciousness."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1753,
-            "TextJPN": "そうさ、いっそ途切ってしまいたかった。",
-            "TextENG": "I might have given in..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1754,
-            "TextJPN": "…後から執拗に追ってくる職員の声さえ聞こえなくなっていたならば！！",
-            "TextENG": "if I didn't hear the voice of the staff member coming after me!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1755,
-            "TextJPN": "膝ががくがくする。",
-            "TextENG": "My knees were shaking."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1756,
-            "TextJPN": "両足がきちんと動かない。",
-            "TextENG": "My legs wouldn't move properly."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1757,
-            "TextJPN": "糸の切れた操り人形のように転んでしまいそうだった。",
-            "TextENG": "I felt like I was going to fall like a puppet with its strings cut."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1758,
-            "TextJPN": "それでも、転んでは駄目なのだ。",
-            "TextENG": "But I couldn't fall."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1759,
-            "TextJPN": "駄目なのだ駄目なのだ…！！",
-            "TextENG": "I couldn't fall just yet...!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1760,
-            "TextJPN": "あ…、と思った時には、もう顔面全体で砂利を食う感触があった。",
-            "TextENG": "Ahh... it was too late. My face had hit the gravel."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1761,
-            "TextJPN": "鼻にツンと来る、転んだ時、特有のあの嫌な感触！",
-            "TextENG": "I felt the awful sensation of falling."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1762,
-            "TextJPN": "そして間髪を入れずに野獣の咆哮が私に圧し掛かる…！！",
-            "TextENG": "And immediately after, the roar of the beast coming from behind me!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1763,
-            "NamesJPN": "職員",
-            "PreTextTags": "@vS13/00/syokuin55006.",
-            "TextJPN": "「この野郎ぉおおおぉッ！！！！」",
-            "NamesENG": "Staff Member",
-            "TextENG": "``Damn you!!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1764,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100055.",
-            "TextJPN": "「うわああああああぁああああぁあッ！！！」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``Waaaaaaaaaaaaahhh!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1765,
-            "TextJPN": "助けて…！",
-            "TextENG": "Help...!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1766,
-            "TextJPN": "助けて助けて助けて助けて！",
-            "TextENG": "HelpHelpHelpHelp!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1767,
-            "TextJPN": "助けて助けて助けてたすけてたすけて@rタスケテててテテテ…ッッ！！",
-            "TextENG": "HelpHelpHelpelpelp@relpelp...!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1768,
-            "NamesJPN": "美代子",
-            "PreTextTags": "@vS13/48/550100056.",
-            "TextJPN": "「……私を、助けてぇぇえっっ！！」",
-            "NamesENG": "Miyoko",
-            "TextENG": "``...Help me!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1769,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS13/09/550500001.",
-            "TextJPN": "「あああぁあぁ…、…ぁ…。@k@vS13/09/550500002.……はぁ…、はぁ！　はぁ！！」",
-            "NamesENG": "Takano",
-            "TextENG": "``Aaahhh... ahh...@k@vS13/09/550500002. ...Hahh! Haahh! Hahh!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1770,
-            "TextJPN": "跳ね上がった時、腿をハンドルにぶつけたらしい。",
-            "TextENG": "I must have hit my thigh against the steering wheel when I jumped."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1771,
-            "TextJPN": "ジンジンとした鈍痛が少し遅れてから襲ってきた…。",
-            "TextENG": "I can feel the throbbing pain, delayed slightly."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1772,
-            "TextJPN": "私の全身は汗まみれだった。",
-            "TextENG": "I'm sweating all over."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1773,
-            "TextJPN": "額の汗を拭い、胸に手を当てて、自分の心臓がどれだけ高鳴っていたかを知る。",
-            "TextENG": "I wiped the sweat on my forehead and put my hand on my chest, only then realizing how fast my heart was beating."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1774,
-            "TextJPN": "痛む腿をさすった。",
-            "TextENG": "I rubbed my thigh."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1775,
-            "TextJPN": "すっと、一文字に。",
-            "TextENG": "I rubbed it in a straight line."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1776,
-            "TextJPN": "そこはハンドルにぶつけた、今、痛んでいる場所ではない。",
-            "TextENG": "That's not where I hit the steering wheel."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1777,
-            "TextJPN": "でも、今はそちらの方が痛む気がした。",
-            "TextENG": "But I feel like this is where it hurts."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1778,
-            "TextJPN": "わずかな月明かりが照らす車中には、私を脅かす恐ろしい野獣はいない。",
-            "TextENG": "I can't see a scary beast in the moonlit car."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1779,
-            "TextJPN": "靴を履いているし、血にも塗れてなんかいない。",
-            "TextENG": "I have my shoes on, and I'm not covered in blood."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1780,
-            "TextJPN": "もちろん爪だって割れてはいない…。",
-            "TextENG": "My toes are fine too."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1781,
-            "TextJPN": "突然、窓が叩かれ、私はぎょっとした。",
-            "TextENG": "Someone knocked on the window, startling me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1782,
-            "NamesJPN": "山狗",
-            "PreTextTags": "@vS13/00/yamaA55001.",
-            "TextJPN": "「三佐。時間です」",
-            "NamesENG": "Mountain Dog",
-            "TextENG": "``Major, it's time.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1783,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS13/09/550500003.",
-            "TextJPN": "「ぁ、…は、…ありがとう」",
-            "NamesENG": "Takano",
-            "TextENG": "``Ah ...oh, thank you.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1784,
-            "TextJPN": "仮眠を取るから、１時間したら起こせと言っておいたのだった。",
-            "TextENG": "I wanted to take a nap, so I told him to come wake me up in an hour."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1785,
-            "TextJPN": "１時間という区切りは長すぎたかもしれない。",
-            "TextENG": "Maybe an hour was too long."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1786,
-            "TextJPN": "仮眠は長すぎるとかえって体を愚鈍にさせる…。",
-            "TextENG": "Too long a nap actually makes you tired."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1787,
-            "TextJPN": "リクライニングを起こし、私は車を降りた。",
-            "TextENG": "I put my seat back up and got out of the car."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1788,
-            "TextJPN": "涼しい外気が、私の全身を心地よく冷ましてくれるのを感じる。",
-            "TextENG": "The cool breeze feels good on my skin."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1789,
-            "TextJPN": "月明かり以外、何もない山道。",
-            "TextENG": "I only see the moon. There's nothing else to see on this mountain trail."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1790,
-            "TextJPN": "その路肩に私の車とトレーラーに偽装した指揮車が停められていた。",
-            "TextENG": "My car and a command vehicle disguised as a trailer are parked on the side of the street."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1791,
-            "TextJPN": "口の中が気持ち悪いのでいっぱいだ。",
-            "TextENG": "I can still feel that bad taste in my mouth."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1792,
-            "TextJPN": "…私はそれを路肩にぶぅっと吐き捨てた。",
-            "TextENG": "I spat it out on the side of the street."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1793,
-            "TextJPN": "それでも、口の中に広がるあの嫌な気持ち悪さは拭えなかった。",
-            "TextENG": "But even that couldn't get rid of it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1794,
-            "TextJPN": "血と唾液と、そして雨の味。",
-            "TextENG": "The taste of blood, saliva, and rain."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1795,
-            "TextJPN": "額から流れ落ちる汗と雨粒が私の口に忍び込み、それらを飲み込むことも満足にできず、だらだらと零し続ける。",
-            "TextENG": "Sweat from my forehead and raindrops got into my mouth, but I couldn't swallow, so I ended up drooling."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1796,
-            "TextJPN": "あの、口の周りの感触を思い出し、鷹野は口の周りを拭うような仕草をした。",
-            "TextENG": "That sensation around my lips brought back memories, and I tried to wipe my mouth."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1797,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS13/09/550500004.",
-            "TextJPN": "「…………はぁ、……ふぅ…」",
-            "NamesENG": "Takano",
-            "TextENG": "``..................Hahh......... whew...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1798,
-            "TextJPN": "自分らしくもなく緊張しているのかもしれない。",
-            "TextENG": "Maybe I'm nervous."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1799,
-            "TextJPN": "だから夢見が悪かったのだろう…。",
-            "TextENG": "That's why I had such a bad dream."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1800,
-            "TextJPN": "指揮車にはコーヒーメーカーがあったはず。",
-            "TextENG": "I think there's a coffee machine in the command vehicle."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1801,
-            "TextJPN": "…悪い夢にうなされたこの体を醒ますには、まずいコーヒーがぴったりに違いない。",
-            "TextENG": "An unpleasant cup of coffee will wake me up."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1802,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS13/09/550500005.",
-            "TextJPN": "「どう？　何か動きは？」",
-            "NamesENG": "Takano",
-            "TextENG": "``So? Has anything happened yet?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1803,
-            "NamesJPN": "山狗",
-            "PreTextTags": "@vS13/00/yamaA55002.",
-            "TextJPN": "「いえ。何も。@k@vS13/00/yamaA55003.先ほどＧ地区から定期連絡が。@k@vS13/00/yamaA55004.問題なしとのことです」",
-            "NamesENG": "Mountain Dog",
-            "TextENG": "``No, not yet.@k@vS13/00/yamaA55003. We just got Gifu's scheduled check-in.@k@vS13/00/yamaA55004. Everything is okay over there.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1804,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS13/09/550500006.",
-            "TextJPN": "「そう。@k@vS13/09/550500007.…ねぇ、どなたかコーヒーを淹れてくださらない？」",
-            "NamesENG": "Takano",
-            "TextENG": "``I see.@k@vS13/09/550500007. Hey, could someone make me a cup of coffee?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1805,
-            "NamesJPN": "山狗",
-            "PreTextTags": "@vS13/00/yamaA55005.",
-            "TextJPN": "「はい。ミルクと砂糖は？」",
-            "NamesENG": "Mountain Dog",
-            "TextENG": "``Sure. Cream and sugar?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1806,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS13/09/550500008.",
-            "TextJPN": "「ミルクだけ。@k@vS13/09/550500009.…あ、やっぱり砂糖も入れてくださる？」",
-            "NamesENG": "Takano",
-            "TextENG": "``Just cream, please.@k@vS13/09/550500009. Ah, no, please put in some sugar, too.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1807,
-            "TextJPN": "口の中が何だか気持ち悪い。",
-            "TextENG": "I still have a bad taste in my mouth."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1808,
-            "TextJPN": "甘ったるいコーヒーで口の中を洗わなければ、私は悪い夢から完全に醒めきることはできないようだった…。",
-            "TextENG": "I'm sure a sweeter cup of coffee will wash down that bad taste and also wake me up from my nightmare completely..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1809,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS13/09/550500010.",
-            "TextJPN": "「……胡蝶の夢、か…」",
-            "NamesENG": "Takano",
-            "TextENG": "``...The Butterfly Dream, huh...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1810,
-            "NamesJPN": "山狗",
-            "PreTextTags": "@vS13/00/yamaA55006.",
-            "TextJPN": "「――は？」",
-            "NamesENG": "Mountain Dog",
-            "TextENG": "``...What?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1811,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS13/09/550500011.",
-            "TextJPN": "「なんでもないの。独り言よ」",
-            "NamesENG": "Takano",
-            "TextENG": "``It's nothing. I'm talking to myself.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1812,
-            "TextJPN": "歴史で出てきた思想家、荘子の思想を表した説話のひとつだ。",
-            "TextENG": "This is one of the stories that represent the thoughts of Zhuangzi, a thinker who appeared in history."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1813,
-            "TextJPN": "どちらが夢で、どちらが現実かわからなくなった青年の口を借りて、無為自然、一切斉同の理を説いて聞かせる…だったか。",
-            "TextENG": "When the young man couldn't tell which was a dream and which was reality, he was forced to preach and listen to the same reason."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1814,
-            "TextJPN": "でも。",
-            "TextENG": "But..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 1815,
-            "TextJPN": "自ら動かず、信念もなくありのままの事象をただ受け入れるだけの姿勢であり続けていたのなら、いまここにある世界は間違いなく『夢』でしかなかっただろう。",
-            "TextENG": "If we had continued to just accept things as they were, without moving or having any personal beliefs, the world that we see here today would definitely have been nothing but a dream."
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "#2 悪夢",
+		"ENG": "#2 / Nightmare"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1596,
+		"TextJPN": "父さんと母さんが死んだ。",
+		"TextENG": "My father and mother died."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1597,
+		"TextJPN": "享年が何歳だったかも、よくわからない。",
+		"TextENG": "I don't know exactly how old they were."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1598,
+		"TextJPN": "私はそれくらいに幼かったから。",
+		"TextENG": "I was too young to remember."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1599,
+		"TextJPN": "私ひとりを留守番に残し、両親の二人だけでお出掛けをしたからバチに当たったに違いない。",
+		"TextENG": "They went shopping without me, and that must be why they were punished."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1600,
+		"TextJPN": "バスの事故だったという。",
+		"TextENG": "It was a train accident."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1601,
+		"TextJPN": "ひどい惨事だったという。",
+		"TextENG": "What a terrible disaster."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1602,
+		"TextJPN": "大勢の人が犠牲になったという。",
+		"TextENG": "A lot of people died in that incident."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1603,
+		"TextJPN": "でも、まだ父さんは幸運な方だったかもしれない。",
+		"TextENG": "But maybe my father was one of the lucky ones."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1604,
+		"TextJPN": "…生きて病院に担ぎ込まれて、私にいくつかの言葉を残すことができたのだから。",
+		"TextENG": "He was still alive when he arrived at the hospital, so he was able to share his final words with me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1605,
+		"TextJPN": "お母さんなど…。",
+		"TextENG": "My mother died instantly."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1606,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100040.",
+		"TextJPN": "「…お、…お父さん、@k@vS13/48/550100041.お父さんお父さんお父さん…！！」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``...D-Daddy...@k@vS13/48/550100041. Daddy, Daddy, Daddy...!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1607,
+		"TextJPN": "その、あまりに憐れな変わり果てた姿を、私は父さんだと認めたくなかった。",
+		"TextENG": "I didn't want to admit that this person I could hardly recognize was my father."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1608,
+		"TextJPN": "父さんと呼びながら、それが違う人であって欲しいと願った。",
+		"TextENG": "As I called out to him, I hoped that it was someone else instead."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1609,
+		"TextJPN": "だが、…無情にも、…それは父さんだった。",
+		"TextENG": "But unfortunately it was my father."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1610,
+		"TextJPN": "本当は父さんを起こすべきではなかっただろう。",
+		"TextENG": "Maybe I shouldn't have woken him."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1611,
+		"TextJPN": "…父さんは、私にまどろみを破られることによって、ようやく忘れかけていた苦痛を思い出してしまったのだから。",
+		"TextENG": "Because when I woke him up, he was reminded of the miserable agony that he had forgotten."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1612,
+		"NamesJPN": "美代子の父",
+		"PreTextTags": "@vS13/00/550400001.",
+		"TextJPN": "「……うぅうぅ……。ぅぅぅ……」",
+		"NamesENG": "Miyoko's dad",
+		"TextENG": "``Oooh... Oooh...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1613,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100042.",
+		"TextJPN": "「お父さん、@k@vS13/48/550100043.お父さんお父さんお父さん！！」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``Daddy,@k@vS13/48/550100043. Daddy, Daddy, Daddy!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1614,
+		"TextJPN": "父さんはきっと、泣きじゃくる私の頭を撫でたかったのだろうと思う。",
+		"TextENG": "He tried to move his right arm"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1615,
+		"TextJPN": "…だって、右の腕を動かそうとしたから。",
+		"TextENG": "so he could pat my head."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1616,
+		"TextJPN": "でも、その腕は包帯でぐるぐる巻きにされていて、@k…私のそばまで動かなかった。",
+		"TextENG": "But his arm was wrapped in bandages@k and his hand was no longer there."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1617,
+		"TextJPN": "父さんの右手は、本当は怖い思い出しかない。",
+		"TextENG": "I only had scary memories of his right hand."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1618,
+		"TextJPN": "私がいたずらや嘘をついた時、平手で打つのが主な役割だったから。",
+		"TextENG": "Its main job was to slap me when I did something bad."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1619,
+		"TextJPN": "でも、だからといって、こんな状況を願ったことは一度もない。",
+		"TextENG": "But I never wished it to be gone."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1620,
+		"TextJPN": "それに、平手で打たれた回数に比べたら本当に微々たるものだけど…、@k…たまには私の頭を撫でてくれた。",
+		"TextENG": "Besides, that hand also patted my head...@k even though that only happened a few times."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1621,
+		"TextJPN": "大きな手の平で、それ自体がご褒美であるように、…私の頭をやさしく撫でてくれたんだ。",
+		"TextENG": "It was a big, warm hand, and it stroked my head very gently."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1622,
+		"TextJPN": "私がどんなにちゃんと早起きをしても、ちゃんとお使いを出来ても、もう父さんは私の頭を撫でることができないのだ。",
+		"TextENG": "But no matter what good deeds I did he could no longer rub my head..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1623,
+		"TextJPN": "いや、…本当はそれすらも微々たる問題だった。",
+		"TextENG": "No... his hand was the least of his worries."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1624,
+		"TextJPN": "緊急手術の時間は迫っていた。",
+		"TextENG": "He had to go into emergency surgery."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1625,
+		"TextJPN": "手術の成功率は高くないと、予めお医者様には釘を刺されていた。",
+		"TextENG": "The doctors already warned me that the chance of him surviving was very low."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1626,
+		"TextJPN": "本当なら面会謝絶なのに、会わせてくれたのもそういう意味なのだ。",
+		"TextENG": "That was why I was allowed to see him, regardless of his condition."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1627,
+		"TextJPN": "父さんは、私の頭を二度と撫でられないどころか、…私の前から永遠にいなくなってしまうかもしれない瀬戸際にいたのだから…。",
+		"TextENG": "Not only could he no longer rub my head, he might be gone forever..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1628,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100044.",
+		"TextJPN": "「…お父さん、手術できっと良くなるよね？！@k@vS13/48/550100045.　お父さん、きっと元気になれるよね？！@k@vS13/48/550100046.　なれるよね？！」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``Daddy, the surgery will make you better, right?@k@vS13/48/550100045. Daddy, you'll get better, right?@k@vS13/48/550100046. Right?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1629,
+		"NamesJPN": "美代子の父",
+		"PreTextTags": "@vS13/00/550400002.",
+		"TextJPN": "「……よ、よく聞きなさい。@k@vS13/00/550400003.…お父さんは駄目かもしれない。@k@vS13/00/550400004.もしもお父さんが死んでも、お前はしっかり生きるんだよ」",
+		"NamesENG": "Miyoko's dad",
+		"TextENG": "``......L-Listen carefully.@k@vS13/00/550400003. ...Your daddy might not make it.@k@vS13/00/550400004. Even if I die, you have to be strong, okay?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1630,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100047.",
+		"TextJPN": "「嫌だ嫌だ！　お父さんは元気になるよ！@k@vS13/48/550100048.　お医者様がちゃんと手術してくれるもん！！@k@vS13/48/550100049.　だから死んだりなんかしないんだよ！！」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``No, no!! You'll get better!!@k@vS13/48/550100048. The doctor is going to make you better!!@k@vS13/48/550100049. So you're not going to die!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1631,
+		"TextJPN": "古い時代の人らしい頑固な父さんだった。",
+		"TextENG": "He was a stubborn and old-fashioned father."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1632,
+		"TextJPN": "痩せ我慢が美徳で、絶対に辛いとは口にしない人だった。",
+		"TextENG": "He believed endurance was a virtue, and he never complained about anything."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1633,
+		"TextJPN": "だから、自分が死ぬかもしれないなんて弱気な言葉がその口から出て来ることが信じられなくて…、@k私は必死にそれを否定しようとした。",
+		"TextENG": "That was why I couldn't believe he actually said he might not make it.@k I tried desperately to deny his words."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1634,
+		"TextJPN": "…だが、私の願いごときでは、父さんの残された時間を延ばすことはできない。",
+		"TextENG": "But even that wish wouldn't prolong his life."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1635,
+		"TextJPN": "父さんは、自分が言葉を残せる時間がすでに限られていることを知っていて、私に、本当に大切なことを伝えようとしていた。",
+		"TextENG": "My father, knowing his time was limited, tried to tell me some important things."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1636,
+		"TextJPN": "そんな父さんの必死の努力を、私は否定するように泣きじゃくって掻き消す。",
+		"TextENG": "But I interrupted his efforts by crying like a baby."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1637,
+		"TextJPN": "…いっそのこと、そんな私を平手打ちしてほしかった。",
+		"TextENG": "I just wanted him to slap me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1638,
+		"TextJPN": "泣いてわがままを言う私に、いつも父さんがそうしたように。",
+		"TextENG": "Just like he used to do every time I cried like a baby."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1639,
+		"TextJPN": "…でも、父さんは私に平手打ちをすることはもう二度とない…。",
+		"TextENG": "But he would never slap me again."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1640,
+		"NamesJPN": "美代子の父",
+		"PreTextTags": "@vS13/00/550400005.",
+		"TextJPN": "「よ…、よく聞きなさい。@k@vS13/00/550400006.…お父さんもお母さんも、親類というものがいない。@k@vS13/00/550400007.だから…、お父さんが死んだら、お前の世話をしてくれる人は誰もいない…」",
+		"NamesENG": "Miyoko's dad",
+		"TextENG": "``L... Listen well.@k@vS13/00/550400006. Your mother and I both lost all of our family in the war.@k@vS13/00/550400007. So... after I'm dead, there won't be anyone left to take care of you...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1641,
+		"TextJPN": "それを改めて言われる必要はなかった。",
+		"TextENG": "He didn't need to tell me that."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1642,
+		"TextJPN": "父さんも母さんも日頃からそれを口にしていたから私はそれをよく知っていた。",
+		"TextENG": "My parents used to tell me that all the time, so I was aware of that fact."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1643,
+		"TextJPN": "…つまり、私にとって、父さんはこの世に唯一残る肉親なのだ。",
+		"TextENG": "In other words, my father was the only relative I had left in this entire world."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1644,
+		"NamesJPN": "美代子の父",
+		"PreTextTags": "@vS13/00/550400008.",
+		"TextJPN": "「もしもな、お父さんが死んだら、@k@vS13/00/550400009.高野先生を頼りなさい。@k@vS13/00/550400010.高野一二三先生だよ。@k@vS13/00/550400011.言ってみなさい」",
+		"NamesENG": "Miyoko's dad",
+		"TextENG": "``If, if I die@k@vS13/00/550400009. you can count on Dr. Takano.@k@vS13/00/550400010. Doctor Hifumi Takano.@k@vS13/00/550400011. Can you say it?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1645,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100050.",
+		"TextJPN": "「高野、ひふみ…」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``Hifumi Takano...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1646,
+		"NamesJPN": "美代子の父",
+		"PreTextTags": "@vS13/00/550400012.",
+		"TextJPN": "「そうだ。高野一二三先生だよ。@k@vS13/00/550400013.…高野先生はお父さんの恩師なんだ。@k@vS13/00/550400014.きっと、お前を助け、@k@vS13/00/550400015.けっ、げほッ！！　げへがはッ！！」",
+		"NamesENG": "Miyoko's dad",
+		"TextENG": "``That's right. Doctor Hifumi Takano.@k@vS13/00/550400013. He is my former teacher.@k@vS13/00/550400014. He will help you...@k@vS13/00/550400015. cough cough!! Cough!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1647,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100051.",
+		"TextJPN": "「お父さん、@k@vS13/48/550100052.お父さんお父さんお父さん！！！」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``Daddy,@k@vS13/48/550100052. Daddy, Daddy, Daddy!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1648,
+		"TextJPN": "お医者様たちが大慌てでなだれ込んで来る。",
+		"TextENG": "Many doctors came into the room in a hurry."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1649,
+		"TextJPN": "お父さんはまだ何かを伝えようとしていたが、それはしゃべらないようにと制止するお医者様たちのせいで聞き取ることはできなかった。",
+		"TextENG": "He wanted to tell me something else, but the doctors stopped him from talking, so I wasn't able to hear him."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1650,
+		"TextJPN": "私は弾き飛ばされて病室を追い出される。",
+		"TextENG": "I was kicked out of the room."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1651,
+		"TextJPN": "そして病院の廊下でおろおろするばかり。",
+		"TextENG": "I didn't know what to do."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1652,
+		"TextJPN": "…父さんがどういう状態なのか、手術はいつ始まるのか、誰も教えてはくれなかった。",
+		"TextENG": "Nobody told me how my father was doing or when the surgery was going to start."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1653,
+		"TextJPN": "そして、父さんともう永遠に言葉を交わすことができなくなることも、…誰も教えてはくれなかった…。",
+		"TextENG": "And nobody told me... that was going to be the last conversation I ever had with my father."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1654,
+		"TextJPN": "…父さんの言い残した『高野先生』の名前を、お役所の人とか色々な人に言ったと思う。",
+		"TextENG": "I think I asked people at the government office about Dr. Takano."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1655,
+		"TextJPN": "そうすると必ず、『連絡先は？』と聞かれた。",
+		"TextENG": "They'd asked me if I knew his phone number."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1656,
+		"TextJPN": "私は、知らないと答える他なかった。",
+		"TextENG": "I said I didn't. Then they didn't ask me anything further."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1657,
+		"TextJPN": "すると決まって、その話はそれで終わってしまい、@kあるいはたまに『調べておく』という返事がもらえたが、それでも結果は大して変わらなかった。",
+		"TextENG": "Sometimes they told me they'd look into it, but nothing led to anything.@k They couldn't find me a guardian, so I ended up going to an orphanage."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1658,
+		"TextJPN": "そして、父の言うとおり身寄りのなかった私は、まったく別の場所へと移され、そこで新しい生活を送ることとなった。",
+		"TextENG": "As my father had said, I had no relatives, so I was moved to a completely different place, where I was to live a new life."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1659,
+		"TextJPN": "………それが、地獄の始まりだった。",
+		"TextENG": "...That was the beginning of hell."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1660,
+		"TextJPN": "そこがどんなところだったかなんて、…口にしたくもない。",
+		"TextENG": "I don't even want to talk about... what it was like there."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1661,
+		"TextJPN": "思い出したくもない。",
+		"TextENG": "I don't even want to remember."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1662,
+		"TextJPN": "食事はできた。",
+		"TextENG": "I was able to eat."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1663,
+		"TextJPN": "…最低限の。",
+		"TextENG": "This was provided minimum."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1664,
+		"TextJPN": "学校らしきところにも通えた。",
+		"TextENG": "I could go to what looked like a school."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1665,
+		"TextJPN": "…本当に、『らしき』というのにふさわしい場所だったけど。",
+		"TextENG": "It really was a place that deserved to be called ``like``."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1666,
+		"TextJPN": "息さえしていれば、生物としての『生』を保障されていることになるのかもしれない。",
+		"TextENG": "As long as you are breathing, you may be guaranteed to live as a living being."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1667,
+		"TextJPN": "…だが、尊厳ある人間としての『生』としてはどうかと問われたならば、断じてそれは否だった。",
+		"TextENG": "...But if you were to ask me if it was a life as a dignified human being, I would have to say no."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1668,
+		"TextJPN": "そしてそれが、私だけというなら反省もするし、努力もするだろう。",
+		"TextENG": "And if it's just me, I'll reflect on it and try to do better."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1669,
+		"TextJPN": "私にそうなるだけの理由があり、至らないところがあったということなのだから。",
+		"TextENG": "There was a reason why I was like that, and it was because of my inadequacies."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1670,
+		"TextJPN": "でも、…それは私と同じように生活する、私と同年代の子達も同じ扱いだった。",
+		"TextENG": "But it was the same treatment for the kids my age, who live the same way I do."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1671,
+		"TextJPN": "つまりは理由なんてものは存在せず、ただ不当に、そして理不尽がまかり通っているということだ。",
+		"TextENG": "In other words, there is no reason, only injustice and unreasonableness."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1672,
+		"TextJPN": "苦しかった。",
+		"TextENG": "It was painful."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1673,
+		"TextJPN": "悲しかった。",
+		"TextENG": "It was sad."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1674,
+		"TextJPN": "……そして、それに何もできない無力な自分が悔しくて憎くて、…恨めしかった。",
+		"TextENG": "And I hated and resented myself for being helpless to do anything about it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1675,
+		"TextJPN": "どうして、私はここにいるのだろう。",
+		"TextENG": "I wonder why I am here."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1676,
+		"TextJPN": "いやそもそも、本当に私はここにいなければいけないのか？",
+		"TextENG": "No. Do I really have to be here in the first place?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1677,
+		"TextJPN": "そんな疑念は不平とともに日に日に膨らんでいき、――そしてついに、私たちは逃げ出した。",
+		"TextENG": "These doubts grew day by day with complaints... and finally, we ran away."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1678,
+		"TextJPN": "同じように不満と憤怒を持つ、仲間を募って。",
+		"TextENG": "Recruited others who shared my frustration and outrage."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1679,
+		"TextJPN": "行くあてなんて、あったわけでもない。",
+		"TextENG": "It's not like I had a destination in mind."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1680,
+		"TextJPN": "それでもこの無謀な計画に賭けることのほうが今のこの状況を受け入れ続けるよりもはるかに魅力的に思えるほどに、私たちは心身ともに追い詰められていた。",
+		"TextENG": "Still, we were trapped both physically and mentally to the point where betting on this reckless plan seemed far more appealing than continuing to accept our current situation."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1681,
+		"NamesJPN": "恵理子",
+		"PreTextTags": "@vS13/00/eriko55001.",
+		"TextJPN": "「……よし、…行くよ…」",
+		"NamesENG": "Eriko",
+		"TextENG": "``......Okay... let's go...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1682,
+		"TextJPN": "恵理子はそう言おうとしたんだと思う。",
+		"TextENG": "I think Eriko wanted to say that."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1683,
+		"TextJPN": "私たちもそれを合図に一斉に駆け出すつもりだった。",
+		"TextENG": "We were planning to leave with that as our cue."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1684,
+		"TextJPN": "…だが、恵理子より先に聞こえた声は、彼女のものではなかった。",
+		"TextENG": "But what we heard instead wasn't Eriko's voice."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1685,
+		"NamesJPN": "職員",
+		"PreTextTags": "@vS13/00/syokuin55001.",
+		"TextJPN": "「お前たちッ、そこで何をしているッ！！！」",
+		"NamesENG": "Staff Member",
+		"TextENG": "``What are you kids doing there?!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1686,
+		"TextJPN": "私たちは弾かれたように走り出す…ッ！",
+		"TextENG": "We started to run."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1687,
+		"TextJPN": "外は雨だった。",
+		"TextENG": "It was raining."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1688,
+		"TextJPN": "あっという間に雨粒が全身を濡らし、衣服を張り付かせてしまう。",
+		"TextENG": "We all got soaked immediately, and our clothes stuck to our skin."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1689,
+		"TextJPN": "それは普段なら、とても気持ちの悪いことだったろうが、今はそんなことをまったく気にしていられなかった。",
+		"TextENG": "While that would normally be very uncomfortable, we couldn't even stop to think about that."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1690,
+		"TextJPN": "ただただ、降りしきる雨と鮮烈な外気の中を、ひたすらに駆けた。",
+		"TextENG": "We could only keep running in the rain."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1691,
+		"TextJPN": "砂利の上を駆け抜けるだけなのに、なぜか田んぼの中に足を突っ込んで走っているような感触がした。",
+		"TextENG": "We were dashing on gravel, but it felt more like trudging through a muddy rice field."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1692,
+		"TextJPN": "…足がずぼずぼと泥田にはまり、思うように足が上げられないあの感じ。",
+		"TextENG": "My feet kept sinking and I couldn't pull them up."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1693,
+		"TextJPN": "いくら走っても走っても、ちっとも速度が出ないようなもどかしさ…！",
+		"TextENG": "I was frustrated because no matter how fast I tried to run, I wasn't gaining any speed."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1694,
+		"TextJPN": "体より心が急いている証拠だった。",
+		"TextENG": "I felt a sense of urgency."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1695,
+		"TextJPN": "後で職員が脱走だと喚くのが聞こえる。",
+		"TextENG": "I heard someone yelling ``escape`` behind me"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1696,
+		"TextJPN": "もうあとはがむしゃらに走るしかない…！！",
+		"TextENG": "and all I could do was run like crazy."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1697,
+		"NamesJPN": "恵理子",
+		"PreTextTags": "@vS13/00/eriko55002.",
+		"TextJPN": "「きッ、決めた通りに…@k@vS13/00/eriko55003.バラバラの方向にッ！！　散って！！！」",
+		"NamesENG": "Eriko",
+		"TextENG": "``O-Okay, everyone go in different directions!@k@vS13/00/eriko55003. Come on, scatter!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1698,
+		"TextJPN": "恵理子の合図で、私たちは思い思いの方向に散る。",
+		"TextENG": "With Eriko's cue, we all went different ways,"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1699,
+		"TextJPN": "自分を職員が追ってこないことを祈って…！",
+		"TextENG": "hoping they wouldn't be coming after us."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1700,
+		"TextJPN": "あぁ、私たち４人は全員、無事にどこかの場所で再会できるだろうか…？",
+		"TextENG": "Would we be able to reunite safely at The House of Love and Mercy?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1701,
+		"TextJPN": "４人が無事揃えるか、…それとも、辛い時を共に耐えてきた誰かが欠けるのか。",
+		"TextENG": "All four of us there together... or maybe someone would be missing..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1702,
+		"TextJPN": "いや、それともあるいは…、…みんなは無事に辿り着けて、…その欠けるのが自分になる可能性だって…。",
+		"TextENG": "No, maybe... everyone else would make it... and I'd be the one who gets caught..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1703,
+		"TextJPN": "祈るような願いは、後から聞こえてくる職員の声で断ち切られる。",
+		"TextENG": "My thoughts were interrupted by the voice of a staff member coming from behind me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1704,
+		"NamesJPN": "職員",
+		"PreTextTags": "@vS13/00/syokuin55002.",
+		"TextJPN": "「待ちなさい、@k@vS13/00/syokuin55003.待ちなさい待ちなさいッ！！！」",
+		"NamesENG": "Staff Member",
+		"TextENG": "``Hold it!@k@vS13/00/syokuin55003. Wait, hold it right there!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1705,
+		"TextJPN": "追ってくる職員は私たちの人数より少ないはずだ。",
+		"TextENG": "The staff members should have numbered fewer than us."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1706,
+		"TextJPN": "だから、運が良ければ自分には追っ手がいないはず。",
+		"TextENG": "So if I was lucky, they wouldn't be coming after me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1707,
+		"TextJPN": "遠くから聞こえてくる職員の声が自分に対してでないことを祈りつつ、後を一瞬だけ振り返る。",
+		"TextENG": "Praying that the staff voices I heard in the distance weren't after me, I looked back for a moment."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1708,
+		"TextJPN": "あぁ、そんな振り返る余裕があるならば、どうしてさらに一歩先へ足を踏み出さない？",
+		"TextENG": "If I had time to turn around, why didn't I take another step forward?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1709,
+		"TextJPN": "どうしてもう一歩先へ逃げ延びないッ？！",
+		"TextENG": "Why didn't I try to escape further?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1710,
+		"TextJPN": "振り返った私の顔に覆いかかる分厚い手の平。",
+		"TextENG": "As I turned around, I felt a huge hand cover my face."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1711,
+		"TextJPN": "荒い息をするために開かれた私の口に、その手の小指が紛れ込むのがわかった。",
+		"TextENG": "Its pinky finger slipped into my open mouth."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1712,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100053.",
+		"TextJPN": "「ぐっ、…っっ？！」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``Khh....?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1713,
+		"TextJPN": "私は顔面を引っ掻かれるように掴まれると、砂利混じりの水溜りに押し潰すように突っ伏された。",
+		"TextENG": "The hand grabbing my face shoved me into the muddy gravel."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1714,
+		"TextJPN": "もちろん大人しくなんかするわけがない。",
+		"TextENG": "Of course, I didn't stay quiet."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1715,
+		"TextJPN": "私は暴れてもがく。",
+		"TextENG": "I fought back..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1716,
+		"TextJPN": "その瞬間、職員の表情が目に入った。",
+		"TextENG": "and then I saw his face."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1717,
+		"TextJPN": "それは、…何て憎悪の表情ッ！！",
+		"TextENG": "It was the scariest face I'd ever seen!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1718,
+		"TextJPN": "そう直感する。",
+		"TextENG": "I realized it immediately."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1719,
+		"TextJPN": "見せしめにするために私を生かして捕らえたいだけなのだ。",
+		"TextENG": "He only wanted to capture me alive to use me as an example."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1720,
+		"TextJPN": "そして、見せしめにした後のことを考えるならば、今この場で殺してしまったとしても、何の問題もないではないか。",
+		"TextENG": "And considering what would happen to me afterwards, killing me here on the spot wouldn't pose any problem, would it?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1721,
+		"TextJPN": "…そうさ、今この場で息の根を止めてしまおうとするこの世のものとは思えない憎悪を私は見る…！",
+		"TextENG": "...Yes. He looked at me with unworldly hate, ready to end my life here and now."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1722,
+		"TextJPN": "私の口の中に入ったままの小指は雨粒にまみれ、私の舌に触れた。",
+		"TextENG": "His pinky finger ended up touching my tongue."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1723,
+		"TextJPN": "…形容のできない嫌な味と感触が、悪寒となって私の全身を駆け巡る！",
+		"TextENG": "The indescribably nasty taste sent an icky feeling through my whole body!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1724,
+		"TextJPN": "あぁ、思った！！",
+		"TextENG": "Aah, that's it!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1725,
+		"TextJPN": "この味は、私が殺される味だッ！！",
+		"TextENG": "This is what my murder tastes like!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1726,
+		"TextJPN": "この無骨な指をそのまま私の気管にまで捻じ込んで、私をこの場で窒息させて殺してしまおうという、殺しの指なのだッ！",
+		"TextENG": "He was going to shove that finger down my windpipe and suffocate me!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1727,
+		"TextJPN": "だから、私は生きるために戦った！！",
+		"TextENG": "And so, in order to live, I fought back in the only way I could."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1728,
+		"NamesJPN": "職員",
+		"PreTextTags": "@vS13/00/syokuin55004.",
+		"TextJPN": "「ぐわぁぁあぁっっ！！」",
+		"NamesENG": "Staff Member",
+		"TextENG": "``Mmmmm!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1729,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100054.",
+		"TextJPN": "「――――っ！！」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``Gyahhhhh!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1730,
+		"NamesJPN": "職員",
+		"PreTextTags": "@vS13/00/syokuin55005.",
+		"TextJPN": "「ぐおのやろおおおぉ、ブッ殺してやるぅううッ！！！！」",
+		"NamesENG": "Staff Member",
+		"TextENG": "``You little shit! I'll kill you!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1731,
+		"TextJPN": "背後で、激昂する声が聞こえた。",
+		"TextENG": "I heard his roars echoing behind me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1732,
+		"TextJPN": "追ってくるのはもう職員じゃない。",
+		"TextENG": "It wasn't a man that was after me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1733,
+		"TextJPN": "きっと野獣だ。",
+		"TextENG": "It was a beast."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1734,
+		"TextJPN": "捕らえたりなどしない。",
+		"TextENG": "He had no interest in capturing me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1735,
+		"TextJPN": "今この場で私を噛み殺そうとしている野獣なのだ…！！",
+		"TextENG": "His only goal was to see me dead."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1736,
+		"TextJPN": "靴はいつの間にか脱げていた。",
+		"TextENG": "My shoes had slipped off."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1737,
+		"TextJPN": "スニーカーなんて上等なものじゃない。",
+		"TextENG": "They weren't sneakers,"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1738,
+		"TextJPN": "死に物狂いで駆けたら、こんなものあっさり脱げてしまう。",
+		"TextENG": "so they came off easily while I was running like mad."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1739,
+		"TextJPN": "剥き出しになった素足は、そのヤワな足の裏で砂利をがりがりと食う。",
+		"TextENG": "My bare feet struck the gravel over and over."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1740,
+		"TextJPN": "もちろんそれはとても痛いものだったが、今だけは気にならなかった。",
+		"TextENG": "It was painful, but I didn't care."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1741,
+		"TextJPN": "…足を止めれば、その痛みを楽しむ余裕さえ与えられないのだからッ！！",
+		"TextENG": "Because if I stopped, I knew what would happen to me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1742,
+		"TextJPN": "木立が私の顔を擦り、腿に引っ掛けた有刺鉄線が一文字の傷痕を残す。",
+		"TextENG": "Tree branches cut my face and barbed wires scratched my thighs."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1743,
+		"TextJPN": "砂利を食った足の裏は血塗れになり、石を蹴り続けた爪は割れて血を滲ませていた。",
+		"TextENG": "My feet and toes were bloody from running on gravel."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1744,
+		"TextJPN": "職員の指を噛んだ時に口の中を満たした血が、私の口から涎と共にぼたぼた吐き出され、私の口元と胸元を真っ赤に汚していた。",
+		"TextENG": "The blood from the staff member's pinky finger dripped down from my mouth, staining my chin and chest."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1745,
+		"TextJPN": "幼い少女が、全身を生傷や擦り傷だらけにし、血を真っ赤にこびり付かせながら、ただただ自由を求めて、走る。",
+		"TextENG": "I was running for my life, with scratches and cuts all over my body."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1746,
+		"TextJPN": "捕まれば殺される。",
+		"TextENG": "If I were to get caught, I would be killed."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1747,
+		"TextJPN": "追っ手に理性があれば、恐ろしい刑罰で虐め殺されるだろう。",
+		"TextENG": "If my pursuer had any sense, then I would be killed after being tortured."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1748,
+		"TextJPN": "理性がなければ、今この場で殺されるだろう。",
+		"TextENG": "But if he didn't, I would be killed on the spot."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1749,
+		"TextJPN": "殺されたくない、殺されたくない…！！",
+		"TextENG": "I don't want to be killed. I don't want to be killed!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1750,
+		"TextJPN": "肺と心臓が爆発しそうだった。",
+		"TextENG": "My lungs and heart were about to explode."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1751,
+		"TextJPN": "恐怖と酸欠で頭は真っ白だった。",
+		"TextENG": "My mind was blank from fear and lack of oxygen."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1752,
+		"TextJPN": "意識が途切れそうだった。",
+		"TextENG": "I was about to lose consciousness."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1753,
+		"TextJPN": "そうさ、いっそ途切ってしまいたかった。",
+		"TextENG": "I might have given in..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1754,
+		"TextJPN": "…後から執拗に追ってくる職員の声さえ聞こえなくなっていたならば！！",
+		"TextENG": "if I didn't hear the voice of the staff member coming after me!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1755,
+		"TextJPN": "膝ががくがくする。",
+		"TextENG": "My knees were shaking."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1756,
+		"TextJPN": "両足がきちんと動かない。",
+		"TextENG": "My legs wouldn't move properly."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1757,
+		"TextJPN": "糸の切れた操り人形のように転んでしまいそうだった。",
+		"TextENG": "I felt like I was going to fall like a puppet with its strings cut."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1758,
+		"TextJPN": "それでも、転んでは駄目なのだ。",
+		"TextENG": "But I couldn't fall."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1759,
+		"TextJPN": "駄目なのだ駄目なのだ…！！",
+		"TextENG": "I couldn't fall just yet...!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1760,
+		"TextJPN": "あ…、と思った時には、もう顔面全体で砂利を食う感触があった。",
+		"TextENG": "Ahh... it was too late. My face had hit the gravel."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1761,
+		"TextJPN": "鼻にツンと来る、転んだ時、特有のあの嫌な感触！",
+		"TextENG": "I felt the awful sensation of falling."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1762,
+		"TextJPN": "そして間髪を入れずに野獣の咆哮が私に圧し掛かる…！！",
+		"TextENG": "And immediately after, the roar of the beast coming from behind me!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1763,
+		"NamesJPN": "職員",
+		"PreTextTags": "@vS13/00/syokuin55006.",
+		"TextJPN": "「この野郎ぉおおおぉッ！！！！」",
+		"NamesENG": "Staff Member",
+		"TextENG": "``Damn you!!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1764,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100055.",
+		"TextJPN": "「うわああああああぁああああぁあッ！！！」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``Waaaaaaaaaaaaahhh!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1765,
+		"TextJPN": "助けて…！",
+		"TextENG": "Help...!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1766,
+		"TextJPN": "助けて助けて助けて助けて！",
+		"TextENG": "HelpHelpHelpHelp!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1767,
+		"TextJPN": "助けて助けて助けてたすけてたすけて@rタスケテててテテテ…ッッ！！",
+		"TextENG": "HelpHelpHelpelpelp@relpelp...!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1768,
+		"NamesJPN": "美代子",
+		"PreTextTags": "@vS13/48/550100056.",
+		"TextJPN": "「……私を、助けてぇぇえっっ！！」",
+		"NamesENG": "Miyoko",
+		"TextENG": "``...Help me!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1769,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS13/09/550500001.",
+		"TextJPN": "「あああぁあぁ…、…ぁ…。@k@vS13/09/550500002.……はぁ…、はぁ！　はぁ！！」",
+		"NamesENG": "Takano",
+		"TextENG": "``Aaahhh... ahh...@k@vS13/09/550500002. ...Hahh! Haahh! Hahh!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1770,
+		"TextJPN": "跳ね上がった時、腿をハンドルにぶつけたらしい。",
+		"TextENG": "I must have hit my thigh against the steering wheel when I jumped."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1771,
+		"TextJPN": "ジンジンとした鈍痛が少し遅れてから襲ってきた…。",
+		"TextENG": "I can feel the throbbing pain, delayed slightly."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1772,
+		"TextJPN": "私の全身は汗まみれだった。",
+		"TextENG": "I'm sweating all over."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1773,
+		"TextJPN": "額の汗を拭い、胸に手を当てて、自分の心臓がどれだけ高鳴っていたかを知る。",
+		"TextENG": "I wiped the sweat on my forehead and put my hand on my chest, only then realizing how fast my heart was beating."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1774,
+		"TextJPN": "痛む腿をさすった。",
+		"TextENG": "I rubbed my thigh."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1775,
+		"TextJPN": "すっと、一文字に。",
+		"TextENG": "I rubbed it in a straight line."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1776,
+		"TextJPN": "そこはハンドルにぶつけた、今、痛んでいる場所ではない。",
+		"TextENG": "That's not where I hit the steering wheel."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1777,
+		"TextJPN": "でも、今はそちらの方が痛む気がした。",
+		"TextENG": "But I feel like this is where it hurts."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1778,
+		"TextJPN": "わずかな月明かりが照らす車中には、私を脅かす恐ろしい野獣はいない。",
+		"TextENG": "I can't see a scary beast in the moonlit car."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1779,
+		"TextJPN": "靴を履いているし、血にも塗れてなんかいない。",
+		"TextENG": "I have my shoes on, and I'm not covered in blood."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1780,
+		"TextJPN": "もちろん爪だって割れてはいない…。",
+		"TextENG": "My toes are fine too."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1781,
+		"TextJPN": "突然、窓が叩かれ、私はぎょっとした。",
+		"TextENG": "Someone knocked on the window, startling me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1782,
+		"NamesJPN": "山狗",
+		"PreTextTags": "@vS13/00/yamaA55001.",
+		"TextJPN": "「三佐。時間です」",
+		"NamesENG": "Mountain Dog",
+		"TextENG": "``Major, it's time.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1783,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS13/09/550500003.",
+		"TextJPN": "「ぁ、…は、…ありがとう」",
+		"NamesENG": "Takano",
+		"TextENG": "``Ah ...oh, thank you.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1784,
+		"TextJPN": "仮眠を取るから、１時間したら起こせと言っておいたのだった。",
+		"TextENG": "I wanted to take a nap, so I told him to come wake me up in an hour."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1785,
+		"TextJPN": "１時間という区切りは長すぎたかもしれない。",
+		"TextENG": "Maybe an hour was too long."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1786,
+		"TextJPN": "仮眠は長すぎるとかえって体を愚鈍にさせる…。",
+		"TextENG": "Too long a nap actually makes you tired."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1787,
+		"TextJPN": "リクライニングを起こし、私は車を降りた。",
+		"TextENG": "I put my seat back up and got out of the car."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1788,
+		"TextJPN": "涼しい外気が、私の全身を心地よく冷ましてくれるのを感じる。",
+		"TextENG": "The cool breeze feels good on my skin."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1789,
+		"TextJPN": "月明かり以外、何もない山道。",
+		"TextENG": "I only see the moon. There's nothing else to see on this mountain trail."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1790,
+		"TextJPN": "その路肩に私の車とトレーラーに偽装した指揮車が停められていた。",
+		"TextENG": "My car and a command vehicle disguised as a trailer are parked on the side of the street."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1791,
+		"TextJPN": "口の中が気持ち悪いのでいっぱいだ。",
+		"TextENG": "I can still feel that bad taste in my mouth."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1792,
+		"TextJPN": "…私はそれを路肩にぶぅっと吐き捨てた。",
+		"TextENG": "I spat it out on the side of the street."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1793,
+		"TextJPN": "それでも、口の中に広がるあの嫌な気持ち悪さは拭えなかった。",
+		"TextENG": "But even that couldn't get rid of it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1794,
+		"TextJPN": "血と唾液と、そして雨の味。",
+		"TextENG": "The taste of blood, saliva, and rain."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1795,
+		"TextJPN": "額から流れ落ちる汗と雨粒が私の口に忍び込み、それらを飲み込むことも満足にできず、だらだらと零し続ける。",
+		"TextENG": "Sweat from my forehead and raindrops got into my mouth, but I couldn't swallow, so I ended up drooling."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1796,
+		"TextJPN": "あの、口の周りの感触を思い出し、鷹野は口の周りを拭うような仕草をした。",
+		"TextENG": "That sensation around my lips brought back memories, and I tried to wipe my mouth."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1797,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS13/09/550500004.",
+		"TextJPN": "「…………はぁ、……ふぅ…」",
+		"NamesENG": "Takano",
+		"TextENG": "``..................Hahh......... whew...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1798,
+		"TextJPN": "自分らしくもなく緊張しているのかもしれない。",
+		"TextENG": "Maybe I'm nervous."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1799,
+		"TextJPN": "だから夢見が悪かったのだろう…。",
+		"TextENG": "That's why I had such a bad dream."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1800,
+		"TextJPN": "指揮車にはコーヒーメーカーがあったはず。",
+		"TextENG": "I think there's a coffee machine in the command vehicle."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1801,
+		"TextJPN": "…悪い夢にうなされたこの体を醒ますには、まずいコーヒーがぴったりに違いない。",
+		"TextENG": "An unpleasant cup of coffee will wake me up."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1802,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS13/09/550500005.",
+		"TextJPN": "「どう？　何か動きは？」",
+		"NamesENG": "Takano",
+		"TextENG": "``So? Has anything happened yet?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1803,
+		"NamesJPN": "山狗",
+		"PreTextTags": "@vS13/00/yamaA55002.",
+		"TextJPN": "「いえ。何も。@k@vS13/00/yamaA55003.先ほどＧ地区から定期連絡が。@k@vS13/00/yamaA55004.問題なしとのことです」",
+		"NamesENG": "Mountain Dog",
+		"TextENG": "``No, not yet.@k@vS13/00/yamaA55003. We just got Gifu's scheduled check-in.@k@vS13/00/yamaA55004. Everything is okay over there.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1804,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS13/09/550500006.",
+		"TextJPN": "「そう。@k@vS13/09/550500007.…ねぇ、どなたかコーヒーを淹れてくださらない？」",
+		"NamesENG": "Takano",
+		"TextENG": "``I see.@k@vS13/09/550500007. Hey, could someone make me a cup of coffee?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1805,
+		"NamesJPN": "山狗",
+		"PreTextTags": "@vS13/00/yamaA55005.",
+		"TextJPN": "「はい。ミルクと砂糖は？」",
+		"NamesENG": "Mountain Dog",
+		"TextENG": "``Sure. Cream and sugar?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1806,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS13/09/550500008.",
+		"TextJPN": "「ミルクだけ。@k@vS13/09/550500009.…あ、やっぱり砂糖も入れてくださる？」",
+		"NamesENG": "Takano",
+		"TextENG": "``Just cream, please.@k@vS13/09/550500009. Ah, no, please put in some sugar, too.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1807,
+		"TextJPN": "口の中が何だか気持ち悪い。",
+		"TextENG": "I still have a bad taste in my mouth."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1808,
+		"TextJPN": "甘ったるいコーヒーで口の中を洗わなければ、私は悪い夢から完全に醒めきることはできないようだった…。",
+		"TextENG": "I'm sure a sweeter cup of coffee will wash down that bad taste and also wake me up from my nightmare completely..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1809,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS13/09/550500010.",
+		"TextJPN": "「……胡蝶の夢、か…」",
+		"NamesENG": "Takano",
+		"TextENG": "``...The Butterfly Dream, huh...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1810,
+		"NamesJPN": "山狗",
+		"PreTextTags": "@vS13/00/yamaA55006.",
+		"TextJPN": "「――は？」",
+		"NamesENG": "Mountain Dog",
+		"TextENG": "``...What?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1811,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS13/09/550500011.",
+		"TextJPN": "「なんでもないの。独り言よ」",
+		"NamesENG": "Takano",
+		"TextENG": "``It's nothing. I'm talking to myself.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1812,
+		"TextJPN": "歴史で出てきた思想家、荘子の思想を表した説話のひとつだ。",
+		"TextENG": "This is one of the stories that represent the thoughts of Zhuangzi, a thinker who appeared in history."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1813,
+		"TextJPN": "どちらが夢で、どちらが現実かわからなくなった青年の口を借りて、無為自然、一切斉同の理を説いて聞かせる…だったか。",
+		"TextENG": "When the young man couldn't tell which was a dream and which was reality, he was forced to preach and listen to the same reason."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1814,
+		"TextJPN": "でも。",
+		"TextENG": "But..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 1815,
+		"TextJPN": "自ら動かず、信念もなくありのままの事象をただ受け入れるだけの姿勢であり続けていたのなら、いまここにある世界は間違いなく『夢』でしかなかっただろう。",
+		"TextENG": "If we had continued to just accept things as they were, without moving or having any personal beliefs, the world that we see here today would definitely have been nothing but a dream."
+	}
+]

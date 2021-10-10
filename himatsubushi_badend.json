@@ -1,99 +1,97 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "BADEND (救出作戦失敗)",
-            "ENG": "BAD END (Rescue Operation Failed)"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 62826,
-            "TextJPN": "くそ…、くそくそくそ…！",
-            "TextENG": "Shit... Shit, shit, shit...!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 62827,
-            "TextJPN": "こんなところで死ぬわけにはいかない！！",
-            "TextENG": "I can't afford to die in a place like this!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 62828,
-            "TextJPN": "私は生きて、雪絵のもとへ帰るんだ！！",
-            "TextENG": "I need to survive and return to Yukie's side!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 62829,
-            "NamesJPN": "赤坂",
-            "TextJPN": "「………」",
-            "NamesENG": "Akasaka",
-            "TextENG": "``.........``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 62830,
-            "TextJPN": "わずかに、拳銃を構える男の目に躊躇いが見える。",
-            "TextENG": "For a moment, I catch a glimmer of hesitation in the eyes of the man holding the gun."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 62831,
-            "TextJPN": "こいつは、撃つことをまだ迷っている…？！",
-            "TextENG": "This guy's... unsure about shooting at me...?!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 62832,
-            "TextJPN": "それなら今飛び込めば、…もしかしたら！！",
-            "TextENG": "If so, maybe if I jump at him now, ...I could—!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 62833,
-            "NamesJPN": "赤坂",
-            "PreTextTags": "@vS05/13/VT2_akasaka1001.",
-            "TextJPN": "「うおぉぉおぉっっ！！！」",
-            "NamesENG": "Akasaka",
-            "TextENG": "``Uwoaaaaahhhhhh!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 62834,
-            "NamesJPN": "誘拐犯",
-            "PreTextTags": "@vS05/14/VT2_okonogi1001.",
-            "TextJPN": "「なっ？！@k@vS05/14/VT2_okonogi1002.　っち、こんダラズがぁぁッ！！」",
-            "NamesENG": "Kidnapper",
-            "TextENG": "``Wha—?!@k@vS05/14/VT2_okonogi1002. Tch, ya damn bastaaaaaaaarrrrd!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 62835,
-            "NamesJPN": "赤坂",
-            "PreTextTags": "@vS05/13/VT2_akasaka1002.",
-            "TextJPN": "「………」",
-            "NamesENG": "Akasaka",
-            "TextENG": "``.........``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 62836,
-            "TextJPN": "突然。",
-            "TextENG": "In a flash."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 62837,
-            "TextJPN": "目の前が真っ暗になって、…意識が遠のく。",
-            "TextENG": "Everything before me grows dark, ...as my consciousness leaves me behind."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 62838,
-            "TextJPN": "自分が撃たれたとわかったのは、急速に冷えていく体温と、胸のあたりに感じる焼けるような熱さが痺れに変わった直後だった…。",
-            "TextENG": "It was only after my body temperature rapidly came down and a burning sensation in my chest turned numb, that I realized I had been shot...."
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "BADEND (救出作戦失敗)",
+		"ENG": "BAD END (Rescue Operation Failed)"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 62826,
+		"TextJPN": "くそ…、くそくそくそ…！",
+		"TextENG": "Shit... Shit, shit, shit...!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 62827,
+		"TextJPN": "こんなところで死ぬわけにはいかない！！",
+		"TextENG": "I can't afford to die in a place like this!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 62828,
+		"TextJPN": "私は生きて、雪絵のもとへ帰るんだ！！",
+		"TextENG": "I need to survive and return to Yukie's side!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 62829,
+		"NamesJPN": "赤坂",
+		"TextJPN": "「………」",
+		"NamesENG": "Akasaka",
+		"TextENG": "``.........``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 62830,
+		"TextJPN": "わずかに、拳銃を構える男の目に躊躇いが見える。",
+		"TextENG": "For a moment, I catch a glimmer of hesitation in the eyes of the man holding the gun."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 62831,
+		"TextJPN": "こいつは、撃つことをまだ迷っている…？！",
+		"TextENG": "This guy's... unsure about shooting at me...?!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 62832,
+		"TextJPN": "それなら今飛び込めば、…もしかしたら！！",
+		"TextENG": "If so, maybe if I jump at him now, ...I could—!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 62833,
+		"NamesJPN": "赤坂",
+		"PreTextTags": "@vS05/13/VT2_akasaka1001.",
+		"TextJPN": "「うおぉぉおぉっっ！！！」",
+		"NamesENG": "Akasaka",
+		"TextENG": "``Uwoaaaaahhhhhh!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 62834,
+		"NamesJPN": "誘拐犯",
+		"PreTextTags": "@vS05/14/VT2_okonogi1001.",
+		"TextJPN": "「なっ？！@k@vS05/14/VT2_okonogi1002.　っち、こんダラズがぁぁッ！！」",
+		"NamesENG": "Kidnapper",
+		"TextENG": "``Wha—?!@k@vS05/14/VT2_okonogi1002. Tch, ya damn bastaaaaaaaarrrrd!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 62835,
+		"NamesJPN": "赤坂",
+		"PreTextTags": "@vS05/13/VT2_akasaka1002.",
+		"TextJPN": "「………」",
+		"NamesENG": "Akasaka",
+		"TextENG": "``.........``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 62836,
+		"TextJPN": "突然。",
+		"TextENG": "In a flash."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 62837,
+		"TextJPN": "目の前が真っ暗になって、…意識が遠のく。",
+		"TextENG": "Everything before me grows dark, ...as my consciousness leaves me behind."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 62838,
+		"TextJPN": "自分が撃たれたとわかったのは、急速に冷えていく体温と、胸のあたりに感じる焼けるような熱さが痺れに変わった直後だった…。",
+		"TextENG": "It was only after my body temperature rapidly came down and a burning sensation in my chest turned numb, that I realized I had been shot...."
+	}
+]

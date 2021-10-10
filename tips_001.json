@@ -1,472 +1,470 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 0,
-            "JPN": "ＴＩＰＳ",
-            "ENG": "TIPS"
-        },
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "うちって学年混在？",
-            "ENG": "We're a Mixed Grade?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12568,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100001.",
-            "TextJPN": "「……レナってさ、俺と同い年だったよな？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...So, Rena, we're the same age?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12569,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200001.",
-            "TextJPN": "「うん。そうだよ？@k@vS20/02/440200002.　干支もおんなじだよね」",
-            "NamesENG": "Rena",
-            "TextENG": "``Yes. That's right.@k@vS20/02/440200002. We're the same zodiac animal, too.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12570,
-            "TextJPN": "おいおい、年が同じで干支が違ったらおかしいだろうが…。",
-            "TextENG": "Hey, now, it would be weird if we were the same age but not the same zodiac animal."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12571,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300001.",
-            "TextJPN": "「そんなことないよ。誕生日の違いがあれば、年齢が同じでも干支が違うこともありえるって！」",
-            "NamesENG": "Mion",
-            "TextENG": "``That's not true. If your birthday isn't the same then you can have different animals even if you're the same age!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12572,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100002.",
-            "TextJPN": "「あれ？　あ、そーか。@k@vS20/01/440100003.魅音、頭いいじゃねぇか！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Huh? Oh, I see~@k@vS20/01/440100003. Mion, you're pretty smart!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12573,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200003.",
-            "TextJPN": "「あははははは。ところで圭一くんは何月生まれなのかな？@k@vS20/02/440200004.　レナは７月なんだよ！」",
-            "NamesENG": "Rena",
-            "TextENG": "``Ahahahahaha. What month were you born, by the way, Keiichi-kun?@k@vS20/02/440200004. I'm July!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12574,
-            "TextJPN": "レナがえっへんと胸を張る。",
-            "TextENG": "Rena smirked and puffed up with pride."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12575,
-            "TextJPN": "…おいおい、そりゃどういう意味だよ。",
-            "TextENG": "...Hey, now, what's the meaning of this?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12576,
-            "TextJPN": "まさか、俺よりちょっとでも誕生日が早かったら威張ろうってつもりじゃないだろうな…。",
-            "TextENG": "She's not planning to be all high and mighty if her birthday is a wee bit sooner than mine, is she..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12577,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100004.",
-            "TextJPN": "「…ふ！　だが諦めろ。@k@vS20/01/440100005.俺に誕生日で挑もうったって無駄なことだ！！@k@vS20/01/440100006.　……何ならどっちが年上か、罰ゲームつきで勝負してもいいぜー！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...Heh! Don't even.@k@vS20/01/440100005. It's impossible to challenge me by birthday!!@k@vS20/01/440100006. ...We can compete over who's the oldest if you like, with punishment, of course!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12578,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200005.",
-            "TextJPN": "「え？　え？！@k@vS20/02/440200006.　なんでだろ？@k@vS20/02/440200007.　なんでだろ？！」",
-            "NamesENG": "Rena",
-            "TextENG": "``Huh? Huh!?@k@vS20/02/440200006. Why?@k@vS20/02/440200007. Why!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12579,
-            "TextJPN": "突然、勝負を挑まれて狼狽するレナ。",
-            "TextENG": "Rena panicked at suddenly being challenged."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12580,
-            "TextJPN": "…うろたえ具合からそれほど勝算に自信がないものと断定する。",
-            "TextENG": "...Given how panicked she is, I can be sure she isn't confident in winning."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12581,
-            "TextJPN": "しかし…、たかだか誕生日程度でこうもうろたえてくれると、楽しくて仕方がないぞ。",
-            "TextENG": "It's just... Sending her into a panic about something as simple as a birthday is so fun, I can't help myself."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12582,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300002.",
-            "TextJPN": "「ってことは圭ちゃん、ひょっとして４月生まれ？」",
-            "NamesENG": "Mion",
-            "TextENG": "``So that means you were born in April, Kei-chan?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12583,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100007.",
-            "TextJPN": "「そーゆうこったな！　残念だなレナ！@k@vS20/01/440100008.　俺、もーとっくにレナより年上なんだよ」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Right on! Too bad, Rena!@k@vS20/01/440100008. I'm already far older than Rena.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12584,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200008.",
-            "TextJPN": "「へぇー！　そうなんだ！@k@vS20/02/440200009.　じゃあ魅ぃちゃんと同い年なんだね！」",
-            "NamesENG": "Rena",
-            "TextENG": "``Oh! I see!@k@vS20/02/440200009. Then you're the same age as Mii-chan!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12585,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300003.",
-            "TextJPN": "「まぁ、ほんの何ヶ月かはね～！　すぐにまた差を開いてあげるけどさ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Well, it's just a few months~. That gap will open up again soon enough~!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12586,
-            "TextJPN": "魅音が鼻でヘヘンと笑う。",
-            "TextENG": "Mion snickered through her nose."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12587,
-            "TextJPN": "…おいおい、威張ることじゃねーぞ…。@k@rって俺のことか（苦笑）",
-            "TextENG": "...Hey, now, that's not something to get all high and mighty about.@k As if I'm one to talk (heh)."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12588,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100009.",
-            "TextJPN": "「……そう言えば…、魅音って上級生なんだよなぁ」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...Now that you mention it... You're in a higher grade, right, Mion?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12589,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300004.",
-            "TextJPN": "「下級生の方が萌えるってんなら、今日から下級生ってことでもいいけどー？」",
-            "NamesENG": "Mion",
-            "TextENG": "``If you're into underclassmen, then I can be an underclassman from now on!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12590,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200010.",
-            "TextJPN": "「魅ぃちゃん、よくわかんないこと言ってる……」",
-            "NamesENG": "Rena",
-            "TextENG": "``Mii-chan, you're not making any sense to me...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12591,
-            "TextJPN": "レナの赤面具合を見れば、ばっちり理解できてることがわかるんだけどな…。",
-            "TextENG": "Just by seeing Rena's blushing face, you could tell she knew exactly what she meant by it, though..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12592,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100010.",
-            "TextJPN": "「んで、沙都子と梨花ちゃんが下級生と。……どころか学校が違うくらいの下級生だよな？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Then Satoko and Rika-chan are underclassmen. ...Their grade is so different that they should be in a different school, shouldn't they?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12593,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200011.",
-            "TextJPN": "「け……圭一くんは、ちょっと好みの年齢が低すぎると思うな…。思うな……」",
-            "NamesENG": "Rena",
-            "TextENG": "``Ke... Keiichi-kun, your tastes are a bit too young, I think... I think...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12594,
-            "TextJPN": "レナこそよくわかんないこと言ってるぞ…。",
-            "TextENG": "You're not making any sense yourself, Rena..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12595,
-            "TextJPN": "とりあえず、頭部を鷲掴みにして、ぐしゃぐしゃと乱暴に撫でる。",
-            "TextENG": "I'll just grab onto her head and scruff it up a bit."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12596,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200012.",
-            "TextJPN": "「はぅ～～～！！　やーめーてーー……！」",
-            "NamesENG": "Rena",
-            "TextENG": "``Hau~~~!! S~t~o~p~ i~t~~...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12597,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100011.",
-            "TextJPN": "「前から思ってたんだけどさ。なんでこの学校って、クラスが学年混在なんだ？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``I wondered about it before, yeah. I was wondering why this school has different school years all mixed up.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12598,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300005.",
-            "TextJPN": "「教室の数が足りないからだよ。仕方ないじゃん？@k@vS20/03/440300006.　営林署の建物を間借りしてんだからさー」",
-            "NamesENG": "Mion",
-            "TextENG": "``There aren't enough classrooms. Can't help it.@k@vS20/03/440300006. This building is being rented from the forestry services, after all~.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12599,
-            "TextJPN": "…そう言えばそうだよな。@kうちの学校って前々から変だと思ってた。",
-            "TextENG": "...When she says it like that, it makes sense.@k I've thought our school was strange for a while now."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12600,
-            "TextJPN": "校庭は砂利だし、学校とは無関係な部屋はあるし、変な建設重機みたいのは停まってるし。",
-            "TextENG": "The school yard is gravel, there are rooms that aren't for classes, and there's some strange sort of construction machinery parked here."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12601,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100012.",
-            "TextJPN": "「何で借りてるんだよ。本当の学校はどうしちゃったんだよ？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Why is it being borrowed? What happened to the real school?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12602,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300007.",
-            "TextJPN": "「戦前からずーっと建ってたらしいからねぇ…。老朽化でね。@k@vS20/03/440300008.廃校ってわけよ」",
-            "NamesENG": "Mion",
-            "TextENG": "``There was one here forever from before the war... It got dilapidated.@k@vS20/03/440300008. They closed it down.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12603,
-            "TextJPN": "それは…さぞや趣のある渋い校舎だったんだろうな。",
-            "TextENG": "It probably was a grand old school house."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12604,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300009.",
-            "TextJPN": "「まーそれで、生徒は町の学校に通うことになったんだけどさ、遠いでしょ？」",
-            "NamesENG": "Mion",
-            "TextENG": "``Well, because of that, the students would have to attend the school in the city. That's pretty far, though, you know?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12605,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200013.",
-            "TextJPN": "「どこの学校だったの？」",
-            "NamesENG": "Rena",
-            "TextENG": "``Which school would that be?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12606,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300010.",
-            "TextJPN": "「興宮の駅前通りを抜けて病院に曲がって、小児科の向かいに学校あるのわかる？」",
-            "NamesENG": "Mion",
-            "TextENG": "``Did you know there's a school if you pass by the Okinomiya train station, turn at the hospital, and head towards the pediatrics department?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12607,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200014.",
-            "TextJPN": "「え、えーーーーーッ？！？！　と、遠いよぅ…！」",
-            "NamesENG": "Rena",
-            "TextENG": "``W-Whaaaa!?!? S-So far...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12608,
-            "TextJPN": "地理的なものはさっぱりだが、レナの驚きようからかなり遠いことがわかる。",
-            "TextENG": "I couldn't tell where that was by the location, but I understood it was pretty far from Rena's reaction."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12609,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300011.",
-            "TextJPN": "「まぁ、そんなわけでさ。@k@vS20/03/440300012.興宮の学校に通いたくない連中は、こうして営林署の建物を間借りした仮校舎に通ってるってわけさ」",
-            "NamesENG": "Mion",
-            "TextENG": "``Well, that's why.@k@vS20/03/440300012. The guys that didn't want to commute to Okinomiya rented out the building from the forestry services, and are attending this pseudo school house here.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12610,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200015.",
-            "TextJPN": "「雛見沢の子供の半分くらいかな？　朝早くに自転車で通ってる子たちも結構いるよ」",
-            "NamesENG": "Rena",
-            "TextENG": "``About half the children in Hinamizawa go here. There are quite a lot of kids that come here on bike.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12611,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300013.",
-            "TextJPN": "「まぁ、こんなハチャメチャな学校に通ってたら、進学校とかはちょっと無理だろうからねぇ」",
-            "NamesENG": "Mion",
-            "TextENG": "``Well, since they're attending this really messed-up school, it might be pretty hard for them to get into higher education.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12612,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200016.",
-            "TextJPN": "「そんなことないよ魅ぃちゃん。ちゃんと頑張ればどこでだってお勉強はできるよ」",
-            "NamesENG": "Rena",
-            "TextENG": "``That's not true, Mii-chan. If you study properly, you can go anywhere you want.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12613,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100013.",
-            "TextJPN": "「お、そうだぞそうだぞ！　レナとは意見が一致したな！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Yeah, that's right, that's right! I totally agree with Rena on this one!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12614,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200017.",
-            "TextJPN": "「うん、そうだね。そうだね！@k@vS20/02/440200018.　がんばろ！」",
-            "NamesENG": "Rena",
-            "TextENG": "``Yes, that's right. That's right!@k@vS20/02/440200018. Let's try our best!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12615,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300014.",
-            "TextJPN": "「せーぜー頑張って下さいな。おじさんはささやかに応援しとりますわ」",
-            "NamesENG": "Mion",
-            "TextENG": "``All of you, try your best. This old man will be rooting for you.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12616,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS20/01/440100014.",
-            "TextJPN": "「俺たちがじゃないぞ、魅音がだぞ！　お前、受験生だろ？！@k@vS20/01/440100015.　こんな成績じゃお先真っ暗だぞ？！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Not just us! You, too! You should be preparing for exams, shouldn't you!?@k@vS20/01/440100015. Your future is bleak with grades like this!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12617,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS20/03/440300015.",
-            "TextJPN": "「いーもんいーもん。路頭に迷ったら永久就職して圭ちゃんに食わせてもらうから☆」",
-            "NamesENG": "Mion",
-            "TextENG": "``Fine, just fine. If I get stuck, then I'll just mooch off Kei-chan as he works forever☆.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12618,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS20/02/440200019.",
-            "TextJPN": "「え、え、永久就職って何だろ？！　何だろ？！」",
-            "NamesENG": "Rena",
-            "TextENG": "``Wh-wh-what do you mean by mooch off Kei-chan!? What do you mean!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12619,
-            "NamesJPN": "知恵",
-            "PreTextTags": "@vS20/22/441400001.",
-            "TextJPN": "「こら！　そこ、うるさいですよ！@k@vS20/22/441400002.　自習は静かに！」",
-            "NamesENG": "Chie",
-            "TextENG": "``Hey! You're too loud!@k@vS20/22/441400002. Be quiet during self study!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12620,
-            "TextJPN": "３人そろってばっさりと先生に怒られる。",
-            "TextENG": "The teacher yelled at all three of us."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12621,
-            "TextJPN": "いやまったく申し訳ない…。",
-            "TextENG": "It was completely our fault..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12622,
-            "TextJPN": "それを見て沙都子がケタケタと笑う。",
-            "TextENG": "Satoko saw it and chortled haughtily."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12623,
-            "TextJPN": "それに俺はあかんべー、と舌を出して応えてやる。",
-            "TextENG": "I stuck out my tongue at her in response."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12624,
-            "TextJPN": "……確かに魅音の言うとおりだな。@kこの学校は進学とは無縁だ。",
-            "TextENG": "...It is just as Mion says.@k This school has nothing to do with higher education."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12625,
-            "TextJPN": "その代り、どこの学校にもない貴重なものがたくさんあるのだろうけど。",
-            "TextENG": "But it makes up for that by having lots of valuable things other schools don't."
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 0,
+		"JPN": "ＴＩＰＳ",
+		"ENG": "TIPS"
+	},
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "うちって学年混在？",
+		"ENG": "We're a Mixed Grade?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12568,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100001.",
+		"TextJPN": "「……レナってさ、俺と同い年だったよな？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...So, Rena, we're the same age?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12569,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200001.",
+		"TextJPN": "「うん。そうだよ？@k@vS20/02/440200002.　干支もおんなじだよね」",
+		"NamesENG": "Rena",
+		"TextENG": "``Yes. That's right.@k@vS20/02/440200002. We're the same zodiac animal, too.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12570,
+		"TextJPN": "おいおい、年が同じで干支が違ったらおかしいだろうが…。",
+		"TextENG": "Hey, now, it would be weird if we were the same age but not the same zodiac animal."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12571,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300001.",
+		"TextJPN": "「そんなことないよ。誕生日の違いがあれば、年齢が同じでも干支が違うこともありえるって！」",
+		"NamesENG": "Mion",
+		"TextENG": "``That's not true. If your birthday isn't the same then you can have different animals even if you're the same age!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12572,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100002.",
+		"TextJPN": "「あれ？　あ、そーか。@k@vS20/01/440100003.魅音、頭いいじゃねぇか！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Huh? Oh, I see~@k@vS20/01/440100003. Mion, you're pretty smart!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12573,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200003.",
+		"TextJPN": "「あははははは。ところで圭一くんは何月生まれなのかな？@k@vS20/02/440200004.　レナは７月なんだよ！」",
+		"NamesENG": "Rena",
+		"TextENG": "``Ahahahahaha. What month were you born, by the way, Keiichi-kun?@k@vS20/02/440200004. I'm July!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12574,
+		"TextJPN": "レナがえっへんと胸を張る。",
+		"TextENG": "Rena smirked and puffed up with pride."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12575,
+		"TextJPN": "…おいおい、そりゃどういう意味だよ。",
+		"TextENG": "...Hey, now, what's the meaning of this?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12576,
+		"TextJPN": "まさか、俺よりちょっとでも誕生日が早かったら威張ろうってつもりじゃないだろうな…。",
+		"TextENG": "She's not planning to be all high and mighty if her birthday is a wee bit sooner than mine, is she..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12577,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100004.",
+		"TextJPN": "「…ふ！　だが諦めろ。@k@vS20/01/440100005.俺に誕生日で挑もうったって無駄なことだ！！@k@vS20/01/440100006.　……何ならどっちが年上か、罰ゲームつきで勝負してもいいぜー！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...Heh! Don't even.@k@vS20/01/440100005. It's impossible to challenge me by birthday!!@k@vS20/01/440100006. ...We can compete over who's the oldest if you like, with punishment, of course!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12578,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200005.",
+		"TextJPN": "「え？　え？！@k@vS20/02/440200006.　なんでだろ？@k@vS20/02/440200007.　なんでだろ？！」",
+		"NamesENG": "Rena",
+		"TextENG": "``Huh? Huh!?@k@vS20/02/440200006. Why?@k@vS20/02/440200007. Why!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12579,
+		"TextJPN": "突然、勝負を挑まれて狼狽するレナ。",
+		"TextENG": "Rena panicked at suddenly being challenged."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12580,
+		"TextJPN": "…うろたえ具合からそれほど勝算に自信がないものと断定する。",
+		"TextENG": "...Given how panicked she is, I can be sure she isn't confident in winning."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12581,
+		"TextJPN": "しかし…、たかだか誕生日程度でこうもうろたえてくれると、楽しくて仕方がないぞ。",
+		"TextENG": "It's just... Sending her into a panic about something as simple as a birthday is so fun, I can't help myself."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12582,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300002.",
+		"TextJPN": "「ってことは圭ちゃん、ひょっとして４月生まれ？」",
+		"NamesENG": "Mion",
+		"TextENG": "``So that means you were born in April, Kei-chan?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12583,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100007.",
+		"TextJPN": "「そーゆうこったな！　残念だなレナ！@k@vS20/01/440100008.　俺、もーとっくにレナより年上なんだよ」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Right on! Too bad, Rena!@k@vS20/01/440100008. I'm already far older than Rena.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12584,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200008.",
+		"TextJPN": "「へぇー！　そうなんだ！@k@vS20/02/440200009.　じゃあ魅ぃちゃんと同い年なんだね！」",
+		"NamesENG": "Rena",
+		"TextENG": "``Oh! I see!@k@vS20/02/440200009. Then you're the same age as Mii-chan!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12585,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300003.",
+		"TextJPN": "「まぁ、ほんの何ヶ月かはね～！　すぐにまた差を開いてあげるけどさ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Well, it's just a few months~. That gap will open up again soon enough~!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12586,
+		"TextJPN": "魅音が鼻でヘヘンと笑う。",
+		"TextENG": "Mion snickered through her nose."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12587,
+		"TextJPN": "…おいおい、威張ることじゃねーぞ…。@k@rって俺のことか（苦笑）",
+		"TextENG": "...Hey, now, that's not something to get all high and mighty about.@k As if I'm one to talk (heh)."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12588,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100009.",
+		"TextJPN": "「……そう言えば…、魅音って上級生なんだよなぁ」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...Now that you mention it... You're in a higher grade, right, Mion?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12589,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300004.",
+		"TextJPN": "「下級生の方が萌えるってんなら、今日から下級生ってことでもいいけどー？」",
+		"NamesENG": "Mion",
+		"TextENG": "``If you're into underclassmen, then I can be an underclassman from now on!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12590,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200010.",
+		"TextJPN": "「魅ぃちゃん、よくわかんないこと言ってる……」",
+		"NamesENG": "Rena",
+		"TextENG": "``Mii-chan, you're not making any sense to me...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12591,
+		"TextJPN": "レナの赤面具合を見れば、ばっちり理解できてることがわかるんだけどな…。",
+		"TextENG": "Just by seeing Rena's blushing face, you could tell she knew exactly what she meant by it, though..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12592,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100010.",
+		"TextJPN": "「んで、沙都子と梨花ちゃんが下級生と。……どころか学校が違うくらいの下級生だよな？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Then Satoko and Rika-chan are underclassmen. ...Their grade is so different that they should be in a different school, shouldn't they?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12593,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200011.",
+		"TextJPN": "「け……圭一くんは、ちょっと好みの年齢が低すぎると思うな…。思うな……」",
+		"NamesENG": "Rena",
+		"TextENG": "``Ke... Keiichi-kun, your tastes are a bit too young, I think... I think...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12594,
+		"TextJPN": "レナこそよくわかんないこと言ってるぞ…。",
+		"TextENG": "You're not making any sense yourself, Rena..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12595,
+		"TextJPN": "とりあえず、頭部を鷲掴みにして、ぐしゃぐしゃと乱暴に撫でる。",
+		"TextENG": "I'll just grab onto her head and scruff it up a bit."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12596,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200012.",
+		"TextJPN": "「はぅ～～～！！　やーめーてーー……！」",
+		"NamesENG": "Rena",
+		"TextENG": "``Hau~~~!! S~t~o~p~ i~t~~...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12597,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100011.",
+		"TextJPN": "「前から思ってたんだけどさ。なんでこの学校って、クラスが学年混在なんだ？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``I wondered about it before, yeah. I was wondering why this school has different school years all mixed up.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12598,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300005.",
+		"TextJPN": "「教室の数が足りないからだよ。仕方ないじゃん？@k@vS20/03/440300006.　営林署の建物を間借りしてんだからさー」",
+		"NamesENG": "Mion",
+		"TextENG": "``There aren't enough classrooms. Can't help it.@k@vS20/03/440300006. This building is being rented from the forestry services, after all~.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12599,
+		"TextJPN": "…そう言えばそうだよな。@kうちの学校って前々から変だと思ってた。",
+		"TextENG": "...When she says it like that, it makes sense.@k I've thought our school was strange for a while now."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12600,
+		"TextJPN": "校庭は砂利だし、学校とは無関係な部屋はあるし、変な建設重機みたいのは停まってるし。",
+		"TextENG": "The school yard is gravel, there are rooms that aren't for classes, and there's some strange sort of construction machinery parked here."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12601,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100012.",
+		"TextJPN": "「何で借りてるんだよ。本当の学校はどうしちゃったんだよ？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Why is it being borrowed? What happened to the real school?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12602,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300007.",
+		"TextJPN": "「戦前からずーっと建ってたらしいからねぇ…。老朽化でね。@k@vS20/03/440300008.廃校ってわけよ」",
+		"NamesENG": "Mion",
+		"TextENG": "``There was one here forever from before the war... It got dilapidated.@k@vS20/03/440300008. They closed it down.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12603,
+		"TextJPN": "それは…さぞや趣のある渋い校舎だったんだろうな。",
+		"TextENG": "It probably was a grand old school house."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12604,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300009.",
+		"TextJPN": "「まーそれで、生徒は町の学校に通うことになったんだけどさ、遠いでしょ？」",
+		"NamesENG": "Mion",
+		"TextENG": "``Well, because of that, the students would have to attend the school in the city. That's pretty far, though, you know?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12605,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200013.",
+		"TextJPN": "「どこの学校だったの？」",
+		"NamesENG": "Rena",
+		"TextENG": "``Which school would that be?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12606,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300010.",
+		"TextJPN": "「興宮の駅前通りを抜けて病院に曲がって、小児科の向かいに学校あるのわかる？」",
+		"NamesENG": "Mion",
+		"TextENG": "``Did you know there's a school if you pass by the Okinomiya train station, turn at the hospital, and head towards the pediatrics department?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12607,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200014.",
+		"TextJPN": "「え、えーーーーーッ？！？！　と、遠いよぅ…！」",
+		"NamesENG": "Rena",
+		"TextENG": "``W-Whaaaa!?!? S-So far...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12608,
+		"TextJPN": "地理的なものはさっぱりだが、レナの驚きようからかなり遠いことがわかる。",
+		"TextENG": "I couldn't tell where that was by the location, but I understood it was pretty far from Rena's reaction."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12609,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300011.",
+		"TextJPN": "「まぁ、そんなわけでさ。@k@vS20/03/440300012.興宮の学校に通いたくない連中は、こうして営林署の建物を間借りした仮校舎に通ってるってわけさ」",
+		"NamesENG": "Mion",
+		"TextENG": "``Well, that's why.@k@vS20/03/440300012. The guys that didn't want to commute to Okinomiya rented out the building from the forestry services, and are attending this pseudo school house here.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12610,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200015.",
+		"TextJPN": "「雛見沢の子供の半分くらいかな？　朝早くに自転車で通ってる子たちも結構いるよ」",
+		"NamesENG": "Rena",
+		"TextENG": "``About half the children in Hinamizawa go here. There are quite a lot of kids that come here on bike.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12611,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300013.",
+		"TextJPN": "「まぁ、こんなハチャメチャな学校に通ってたら、進学校とかはちょっと無理だろうからねぇ」",
+		"NamesENG": "Mion",
+		"TextENG": "``Well, since they're attending this really messed-up school, it might be pretty hard for them to get into higher education.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12612,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200016.",
+		"TextJPN": "「そんなことないよ魅ぃちゃん。ちゃんと頑張ればどこでだってお勉強はできるよ」",
+		"NamesENG": "Rena",
+		"TextENG": "``That's not true, Mii-chan. If you study properly, you can go anywhere you want.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12613,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100013.",
+		"TextJPN": "「お、そうだぞそうだぞ！　レナとは意見が一致したな！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Yeah, that's right, that's right! I totally agree with Rena on this one!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12614,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200017.",
+		"TextJPN": "「うん、そうだね。そうだね！@k@vS20/02/440200018.　がんばろ！」",
+		"NamesENG": "Rena",
+		"TextENG": "``Yes, that's right. That's right!@k@vS20/02/440200018. Let's try our best!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12615,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300014.",
+		"TextJPN": "「せーぜー頑張って下さいな。おじさんはささやかに応援しとりますわ」",
+		"NamesENG": "Mion",
+		"TextENG": "``All of you, try your best. This old man will be rooting for you.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12616,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS20/01/440100014.",
+		"TextJPN": "「俺たちがじゃないぞ、魅音がだぞ！　お前、受験生だろ？！@k@vS20/01/440100015.　こんな成績じゃお先真っ暗だぞ？！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Not just us! You, too! You should be preparing for exams, shouldn't you!?@k@vS20/01/440100015. Your future is bleak with grades like this!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12617,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS20/03/440300015.",
+		"TextJPN": "「いーもんいーもん。路頭に迷ったら永久就職して圭ちゃんに食わせてもらうから☆」",
+		"NamesENG": "Mion",
+		"TextENG": "``Fine, just fine. If I get stuck, then I'll just mooch off Kei-chan as he works forever☆.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12618,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS20/02/440200019.",
+		"TextJPN": "「え、え、永久就職って何だろ？！　何だろ？！」",
+		"NamesENG": "Rena",
+		"TextENG": "``Wh-wh-what do you mean by mooch off Kei-chan!? What do you mean!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12619,
+		"NamesJPN": "知恵",
+		"PreTextTags": "@vS20/22/441400001.",
+		"TextJPN": "「こら！　そこ、うるさいですよ！@k@vS20/22/441400002.　自習は静かに！」",
+		"NamesENG": "Chie",
+		"TextENG": "``Hey! You're too loud!@k@vS20/22/441400002. Be quiet during self study!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12620,
+		"TextJPN": "３人そろってばっさりと先生に怒られる。",
+		"TextENG": "The teacher yelled at all three of us."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12621,
+		"TextJPN": "いやまったく申し訳ない…。",
+		"TextENG": "It was completely our fault..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12622,
+		"TextJPN": "それを見て沙都子がケタケタと笑う。",
+		"TextENG": "Satoko saw it and chortled haughtily."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12623,
+		"TextJPN": "それに俺はあかんべー、と舌を出して応えてやる。",
+		"TextENG": "I stuck out my tongue at her in response."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12624,
+		"TextJPN": "……確かに魅音の言うとおりだな。@kこの学校は進学とは無縁だ。",
+		"TextENG": "...It is just as Mion says.@k This school has nothing to do with higher education."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12625,
+		"TextJPN": "その代り、どこの学校にもない貴重なものがたくさんあるのだろうけど。",
+		"TextENG": "But it makes up for that by having lots of valuable things other schools don't."
+	}
+]

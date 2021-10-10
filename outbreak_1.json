@@ -1,484 +1,482 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 0,
-            "JPN": "ひぐらしアウトブレイク",
-            "ENG": "Higurashi Outbreak"
-        },
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "#1",
-            "ENG": "#1"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153421,
-            "NamesJPN": "自衛隊員",
-            "PreTextTags": "@vS24/00/NJIE_0000.",
-            "TextJPN": "「こちらは陸上自衛隊です！　本日０４００より雛見沢地区以下、県知事が定めた地域は防疫隔離されました」",
-            "NamesENG": "Self-Defense Force Member",
-            "TextENG": "``This is the Ground Self-Defense Force! The Hinamizawa district as of 0400 today, has been placed under an isolated quarantine by the Regional Governor."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153422,
-            "NamesJPN": "自衛隊員",
-            "PreTextTags": "@vS24/00/NJIE_0010.",
-            "TextJPN": "「住民の皆さんはご自宅へ待機をお願いいたします。防災無線やテレビ、ラジオ等での情報収集に努めてください」",
-            "NamesENG": "Self-Defense Force Member",
-            "TextENG": "Everyone, please stay inside your homes, and make an effort to gather information about the disaster prevention, through your TV and radio.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153423,
-            "NamesJPN": "自衛隊員",
-            "PreTextTags": "@vS24/00/NJIE_0020.",
-            "TextJPN": "「防疫上の安全が確認されるまで、当地区からの離脱はできません！　繰り返します、当地区からの離脱はできません！　これに従わない場合、国内法によって処罰されます！　どうか皆さん、自宅に戻り冷静な対応をお願いいたします！」",
-            "NamesENG": "Self-Defense Force Member",
-            "TextENG": "``Until safety of the quarantine zone has been confirmed, you cannot leave the district! I repeat, you cannot leave the district! If you do not obey, you will be punished by national law! Everyone, thank you for your kind response and return to your homes!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153424,
-            "TextJPN": "荒いスピーカーの声は、迷彩ヘリコプターの爆音が混じり、とても聞き取りにくかった。",
-            "TextENG": "The roar of the helicopter, and the rough voice of the speaker were mixed, it was very difficult to hear."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153425,
-            "NamesJPN": "アナウンサー",
-            "PreTextTags": "@vS24/00/NANA_0000.",
-            "TextJPN": "「……ィルスが検出されたとのことです。これはＷＨＯ、世界保健機構が指定するウィルスの中でも最も危険な分類に入るもので…、」",
-            "NamesENG": "Announcer",
-            "TextENG": "``......A virus has been detected. The WHO has declared this virus to be one of the most dangerous ever discovered...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153426,
-            "NamesJPN": "アナウンサー",
-            "PreTextTags": "@vS24/00/NANA_0010.",
-            "TextJPN": "「アメリカ政府よりワクチンの緊急援助の申し出があったことをすでに複数の政府筋が認めており、政府は受け容れの対応に入ったものと思われます」",
-            "NamesENG": "Announcer",
-            "TextENG": "``Sources within the government state that they have already received a proposal of emergency assistance vaccines from the United States government, it is likely they will enter some form of agreement.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153427,
-            "NamesJPN": "アナウンサー",
-            "PreTextTags": "@vS24/00/NANA_0020.",
-            "TextJPN": "「このウィルスは潜伏期間が３０日から５０日ほどで、隔離された住民２０００人分のワクチン確保が急務となっています」",
-            "NamesENG": "Announcer",
-            "TextENG": "``The virus's incubation period ranges from 30 to 50 days, and priority has been placed on ensuring a vaccine for the 2000 residents under quarantine.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153428,
-            "NamesJPN": "アナウンサー",
-            "PreTextTags": "@vS24/00/NANB_0000.",
-            "TextJPN": "「現在、雛見沢地区へは電話が殺到しており、ほとんどが不通となっています。県防災本部では、事態把握に支障が出かねないとして…、」",
-            "NamesENG": "Announcer",
-            "TextENG": "``Currently, all telephones to and from the Hinamizawa district have been suspended, preventing the prefectural disaster prevention headquarters from fully grasping the situation...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153429,
-            "NamesJPN": "アナウンサー",
-            "PreTextTags": "@vS24/00/NANC_0000.",
-            "TextJPN": "「なお、水道水、井戸水の使用を厳禁します！　飲料水は自衛隊給水車によるもの以外は使用しないでください！　また、路上への違法な駐車は災害救援を妨げます。直ちに移動をさせてください！」",
-            "NamesENG": "Announcer",
-            "TextENG": "``In addition, the use of tap and well water is strictly forbidden! Please do not drink anything else other than the water provided to you by the Self-Defense Forces water truck! Also, parking on the street is illegal and will interfere with the disaster relief. Please move your vehicles immediately!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153430,
-            "NamesJPN": "アナウンサー",
-            "PreTextTags": "@vS24/00/NAND_0000.",
-            "TextJPN": "「社明党の海原代表は、自衛隊の災害派遣命令に対し適切な手順が省かれた問題を指摘し、これを軍国主義へ回帰するものとして激しく非難、アジアでの一層の孤立化を招くものとして…、」",
-            "NamesENG": "Announcer",
-            "TextENG": "``Various political parties have also stated that the appropriate procedure was omitted by the disaster relief command for the Self-Defense Forces, and criticized this as a heavy return to militarism, that will only lead to further isolation within Asia...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153431,
-            "NamesJPN": "災害対策本部",
-            "PreTextTags": "@vS24/00/NSAI_0000.",
-            "TextJPN": "「こちらは災害対策本部です！　本日１２時より、以下に定める場所にて一斉診察が行なわれます。町会、自治会の指示に従って参集してください。特別な事情がない限り、必ず受診してください！　体調に異常が認められる方は必ずその旨、」",
-            "NamesENG": "Disaster Countermeasures",
-            "TextENG": "``This is the Prefectural Disaster Countermeasures Headquarters! From noon today, a mass medical examination will be carried out at the location set forth below. Everyone, please gather accordingly following instructions from your local neighborhood association. Unless you are under special circumstances, please undergo the medical examination by all means! The only excepted to this examination are those under extreme physical health conditions.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153432,
-            "NamesJPN": "自衛隊員",
-            "PreTextTags": "@vS24/00/NJIE_0030.",
-            "TextJPN": "「こちらは陸上自衛隊です！　当地区は防疫上の理由から県知事の判断により緊急に隔離されました」",
-            "NamesENG": "Self-Defense Force Member",
-            "TextENG": "``This is the Ground Self-Defense Force! The district has been placed under quarantine at the discretion of the prefectural governor to prevent further spread of the epidemic."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153433,
-            "NamesJPN": "自衛隊員",
-            "PreTextTags": "@vS24/00/NJIE_0040.",
-            "TextJPN": "「隔離地区からの離脱はできません！　皆さんへの食料、飲料水、生活必需品、電力、通信の自由は保障されます！　どうか冷静な対応をお願いいたします！！」",
-            "NamesENG": "Self-Defense Force Member",
-            "TextENG": "It is impossible to leave the quarantine area! Food, drinking water, daily necessities, and electricity will be provided to everyone, the freedom of communications are also guaranteed! Please respond in a calm and ordinary manner!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153434,
-            "TextJPN": "退屈で平凡な日常は、ある日突然に打ち破られた。",
-            "TextENG": "My ordinary boring life became suddenly broken overnight."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153435,
-            "TextJPN": "誰もがいつもと変わりない初夏の朝を疑わずに起床しただろう。空の青さだっていつも通りだったし、昇ってきた太陽だってそれを疑わなかったに違いない。",
-            "TextENG": "I would get up every morning in early summer. See the blue sky as always, and watch the sun rise."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153436,
-            "TextJPN": "だが、低空を飛びまわりスピーカーで怒鳴り続けるヘリコプターと、町への幹線道路が封鎖され渋滞している光景を見て、人々は今朝がこれまでの朝とはあまりに異質であることを知るのだった。",
-            "TextENG": "But, as I watched helicopters fly low with blaring loudspeakers, and saw the blocked congested main road to the town, I knew that this was not an ordinary morning."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153437,
-            "TextJPN": "早朝の混乱は、朝のニュースが放送される頃には一定の収まりを見せていた。",
-            "TextENG": "The confusion in early morning set the tone alongside the morning news broadcast."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153438,
-            "TextJPN": "雛見沢の住民たちはその非常放送を、どこか遠くの町での出来事のように感じずにはいられなかったが、…それは紛れもなく、自分たちの住まう郷里に起こった異常事態だったのである…。",
-            "TextENG": "The inhabitants of Hinamizawa heard the broadcast, although they could not help but feel this was an event in some far-off town... but undeniably, this abnormal situation was happening in their very own home town..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153439,
-            "TextJPN": "俺はそのニュースを、いつものようにもそもそと寝床を抜け出して、食堂に下りてきた時、テレビに釘付けになる両親の肩越しに見て知った。",
-            "TextENG": "This was all news to me, as I restlessly got out of bed like always, walked down into the dining room, and leaned over my parents shoulders as they were glued to the TV."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153440,
-            "TextJPN": "俺と同じ第一声を口にした村人は、果たして何人いたのだろう。",
-            "TextENG": "I would expect the rest of the village to be doing the same."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153441,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS24/01/NKEI_0000.",
-            "TextJPN": "「………な、…なんだって…？　何このニュース……」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``.........What...? What's happening in the news......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153442,
-            "NamesJPN": "圭一の母",
-            "PreTextTags": "@vS24/00/NKMO_0000.",
-            "TextJPN": "「圭一！　大変よ！　あのね、雛見沢がね、悪いウィルスが見付かったとかで隔離されちゃったんですって！」",
-            "NamesENG": "Keiichi's mom",
-            "TextENG": "``Keiichi! This is serious! Hinamizawa has been quarantined after they detected a killer virus!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153443,
-            "NamesJPN": "圭一の父",
-            "PreTextTags": "@vS24/00/NKFA_0000.",
-            "TextJPN": "「困ったなぁ…、これ、いつ解除になるんだ？　明日、大阪のイベントの打ち合わせに出なきゃならないってのになぁ…」",
-            "NamesENG": "Keiichi's dad",
-            "TextENG": "``What terrible timing... Does that mean we have to cancel our trip? We were meant to leave for a business trip in Osaka tomorrow...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153444,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS24/01/NKEI_0010.",
-            "TextJPN": "「隔離って、……んじゃあ、町へも出られないってこと？」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Quarantined...... Does that mean we can't leave the town?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153445,
-            "NamesJPN": "圭一の母",
-            "PreTextTags": "@vS24/00/NKMO_0010.",
-            "TextJPN": "「そうみたいね…。食料の援助とかはあるそうだけど…、困ったわぁ！　今日、興宮で特売があるからって、冷蔵庫の中ほとんど食材がないのよ」",
-            "NamesENG": "Keiichi's mom",
-            "TextENG": "``It seems that way... We also really need some food... this is awkward! There was supposed to be a sale at Okinomiya today, so we've got nothing in the fridge.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153446,
-            "NamesJPN": "圭一の父",
-            "PreTextTags": "@vS24/00/NKFA_0010.",
-            "TextJPN": "「それより、この何とかウィルスはどういうもんなんだ…！　隔離ってくらいだから相当恐ろしいモンなんだろ？！　そのウィルスはどうなってんだ！　ウチにも感染してるってのか？！」",
-            "NamesENG": "Keiichi's dad",
-            "TextENG": "``What exactly will the virus do...! This is scary, do we have to quarantine ourselves?! How the hell does this virus work! Has it already infected the inside of our house?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153447,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS24/01/NKEI_0020.",
-            "TextJPN": "「………シ！　今テレビでその説明してるよ！！　……発症すると、１週間ほどで以下の症状がって、…………ぅ、」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``.........We will be giving an explanation on TV soon!! ......When they develop! Approximately one week following the first symptoms! ............!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153448,
-            "TextJPN": "家族全員が、……いや、その映像が流れた瞬間、村中が絶句した。",
-            "TextENG": "My whole family...... no, the entire village is at a loss for words, as I can only play back this moment inside my head like a tape on rewind."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153449,
-            "TextJPN": "…外国の小さな村を全滅させたというその惨状は惨たらしく、……亡骸の変わり果てた姿があまりに恐ろしかった。",
-            "TextENG": "A devastation that wipes out entire small villages in Africa, this is too cruel...... the horrible sight of dead and dying corpses is too terrifying to imagine."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153450,
-            "TextJPN": "我が身に危険が及ばない無責任な視聴者にとって、謎の危険なウィルスがどんな害をもたらすのか映像を見たいというのは、率直な野次馬感情だろう。",
-            "TextENG": "A danger beyond the viewers themselves, simply waiting for video footage of a mysterious and dangerous virus... They're just curious."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153451,
-            "TextJPN": "……だが、実際にその危機に直面している俺たちには、……あまりに笑えない、恐ろしいものだった…。",
-            "TextENG": "......But, to be confronted with a crisis like this...... I can't even laugh, this is terrifying..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153452,
-            "TextJPN": "ふと、時計を見上げると、レナとの待ち合わせの時間をとっくに過ぎ去り、すでに遅刻している時間だった。",
-            "TextENG": "Suddenly, when I look up at the clock, I realize the time has long passed my meet up with Rena, she is late."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153453,
-            "TextJPN": "普段のレナだったら、約束した時間を５分過ぎれば直接迎えに来る。…でも今朝はそれはなかった。",
-            "TextENG": "Rena would appear everyday to pick me up, but it's now 5 minutes past our promised time... However, she hasn't arrived."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153454,
-            "TextJPN": "……当然だ。きっとレナだって今頃、家族と一緒にテレビに釘付けになっているに違いない…。",
-            "TextENG": "......Naturally, Rena by now is probably glued to the TV with her family..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153455,
-            "TextJPN": "それともまさか、……この怪しげなウィルスにやられて苦しんでいるというのではないだろうか…。",
-            "TextENG": "Or possibly...... she may be suffering from this mysterious virus..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153456,
-            "TextJPN": "そう思った瞬間、レナだけじゃなく、魅音や沙都子、梨花ちゃんの安否が心の底から気になった。",
-            "TextENG": "I thought about it for just a moment, it's not only Rena, but Mion, Satoko and Rika-chan too, I worry about them from the bottom of my heart."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153457,
-            "TextJPN": "直情的に俺は廊下へ駆け受話器を取りダイヤルするが、普段のようなコール音すら聞かせてもらうことはできなかった。",
-            "TextENG": "I run for the corridor and dial the phone, there isn't an answering sound."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153458,
-            "TextJPN": "…無理もない。村中が、そして村に親類を持つさらに大勢が、今の俺と同じように一斉に受話器を握っただろう。電話回線がパンクしているだろうことなど容易に想像がつく。",
-            "TextENG": "...No wonder. The entire village must be dialing their relatives or friends at a time like this, just like me. It's easy to imagine the line would go dead."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153459,
-            "TextJPN": "なら、直接訪問してその無事を確かめたい。……だが、危険なウィルスが村の中に満ちているかもしれないというのだ。そんな戸外へわざわざ飛び出すのは自殺行為ではないのか…？",
-            "TextENG": "So, I should go visit and check their safety directly...... But, that dangerous virus could be lurking in the village. Would it be suicidal to run outside at a time like this...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153460,
-            "NamesJPN": "圭一の父",
-            "PreTextTags": "@vS24/00/NKFA_0020.",
-            "TextJPN": "「圭一！　ちょっと来い！！　大至急だ！」",
-            "NamesENG": "Keiichi's dad",
-            "TextENG": "``Keiichi! Come back here!! Immediately!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153461,
-            "TextJPN": "親父がアトリエから出てくるところだった。ダンボール箱を抱えている。見ると、中身は未開封のビニールに包まれたガムテープがぎっしり入っていた。親父が画材か何かに使うためにストックしていたものらしい。",
-            "TextENG": "My dad soon came out of his studio. He is carrying a large cardboard box. I look inside, and see various unopened wrapping and vinyl tapes. They appear to be part of my dad's stock he uses for his painting tools."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153462,
-            "TextJPN": "この緊急時になぜガムテープ、とは思わなかった。…すぐに何のために親父が俺を呼び出したのかを理解する。",
-            "TextENG": "Why packing tape in an emergency like this, I never even considered it. ...Although I now understand why my father called for me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153463,
-            "NamesJPN": "圭一の父",
-            "PreTextTags": "@vS24/00/NKFA_0030.",
-            "TextJPN": "「圭一は２階を頼むぞ！　窓をぴったり閉めてガムテープで目張りをするんだ！」",
-            "NamesENG": "Keiichi's dad",
-            "TextENG": "``Take the second floor, Keiichi! Close up all the windows and seal them with packing tape!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153464,
-            "NamesJPN": "圭一の父",
-            "PreTextTags": "@vS24/00/NKFA_0040.",
-            "TextJPN": "「クーラーも外気とつながってるかもしれんな！　クーラーは噴出孔を新聞紙で覆ってそれからガムテープでしっかりと止めるんだ！　父さんは１階をやるからな！　母さんは台所を頼む！！」",
-            "NamesENG": "Keiichi's dad",
-            "TextENG": "Even the air conditioner, it's connected to the outside! Stuff its inside with newspaper and then seal it with packing tape! I'll take the first floor! Your mother will take the kitchen!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153465,
-            "NamesJPN": "圭一の母",
-            "PreTextTags": "@vS24/00/NKMO_0020.",
-            "TextJPN": "「お父さん、今さらそんなことしても仕方ないでしょ。ガムテープなんかじゃ極小のウィルスを防ぐ効果なんて全然ないわよ…！」",
-            "NamesENG": "Keiichi's mom",
-            "TextENG": "``Dad, that won't help at all. The packing tape can't stop such a small virus from getting in...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153466,
-            "NamesJPN": "圭一の父",
-            "PreTextTags": "@vS24/00/NKFA_0050.",
-            "TextJPN": "「それでも少しは違うだろうが！！　いいから母さんもやりなさいッ！！」",
-            "NamesENG": "Keiichi's dad",
-            "TextENG": "``Even though that may be true!! Just do it like your mother!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153467,
-            "TextJPN": "親父が問答を許さない強い口調で怒鳴りつける。…でも、こういう事態においても比較的冷静なお袋の言い分ももっともだと思った。",
-            "TextENG": "My dad shouted in a strong tone, as if to prevent any questions or answers. ...However, my mom was relatively calm in such a situation."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153468,
-            "TextJPN": "埃なんかよりも遥かに微小な存在であるウィルスの侵入を、こんな市販の布ガムテープで目張りして回るだけで防げるなんて、迷信もいいところだ…。",
-            "TextENG": "They say that a virus can be as small as dust, and that it can't be prevented by commercially available packing tape, something you would quickly realize after being superstitious..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153469,
-            "TextJPN": "だが同時に、親父の言い分も理解できた。……今は、あまりに突然の事態に誰もがショックを隠せないのだ。",
-            "TextENG": "Although at the same time, I can understand what my dad was trying to say...... At present, nobody can hide their shock from such a sudden situation."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153470,
-            "TextJPN": "科学的根拠があるなしじゃなく、例え迷信や気休めでもいいから、何かの備えをせずにはいられない。……何もせずテレビの前に居続けるより、よっぽど心が安らかでいられるに違いないのだ。",
-            "TextENG": "We don't even have any scientific proof that it exists or not, we're just using superstition to soothe ourselves into thinking that things will be alright, but I can't help but feel I need to prepare myself for something. ......Rather than staying in front of the TV doing nothing, I need some space to put my mind at ease."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153471,
-            "TextJPN": "こういう時には妙に頑固なお袋と親父の感情的な罵り合いを避けるように、俺は２階へ上がった。",
-            "TextENG": "So to avoid an emotional brawling match between my mom and dad, I went up to the second floor."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153472,
-            "TextJPN": "お袋の言うように、防疫上の効果が期待できないのはわかってる。…でも、気休めのおまじない程度でも、何かをしたい気持ちはきっと親父と同じだったからだ。",
-            "TextENG": "As my mom always says, you can't be expected to know the effects of a quarantine. ...But, we have to try and ensure our safety, I'm sure my dad was thinking the same thing."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153473,
-            "TextJPN": "窓から外を見る。…その雄大な光景は、引っ越してきたばかりの頃、深い感動をもたらしてくれた自慢の眺望だった。",
-            "TextENG": "I take a look outside. ...I remember when we first moved in, it was a magnificent scene, the pride I felt then has left a deep impression."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153474,
-            "TextJPN": "その雄大な光景は、昨日までの美しい伝統的建築物を連ねる雛見沢と何も変わりない。",
-            "TextENG": "That magnificent scene, against the backdrop of Hinamizawa's beautiful and traditional buildings, nothing had changed since then, until this day."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153475,
-            "TextJPN": "だが、村人の人影はなかった。",
-            "TextENG": "I can't see any villagers outside."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153476,
-            "TextJPN": "野良仕事をしている村人の姿を、水田の中に一人たりとも見つけることができなかった。",
-            "TextENG": "No one in the farms or the rice paddy fields, it's impossible to find even a single villager."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153477,
-            "TextJPN": "……こういう事態でも、頑固なお年寄りは野良仕事をさぼらないに違いない、等という浅はかな予想はあっさり裏切られた。",
-            "TextENG": "......Even in such a situation, I expected the stubborn elderly to labor in the farms, but it seems that shallow expectation was easily betrayed."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153478,
-            "TextJPN": "……実は、そういう光景に普段通りの日常を見出して安心したかった自分がいたことを知る。",
-            "TextENG": "......In fact, I just wanted to feel relieved after seeing their daily lives continue."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153479,
-            "TextJPN": "今やどんなに頑固なお年寄りであっても、野良仕事には出なかった。",
-            "TextENG": "No matter how stubborn the elderly are, their spite wasn't reflected in the farms."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153480,
-            "TextJPN": "それはウィルスに感染するかもしれないことを恐れたのではない。ウィルスに感染したと思われ、村から放逐されることを恐れたのである。",
-            "TextENG": "They could be afraid it is infected with the virus. If that appears to be so, then I can understand the villagers reaction."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153481,
-            "TextJPN": "その意味においては、防疫上の効果があるかどうかを問う母親より、素人思考の父親の感情的なウィルス対応策の方がずっと正しいと言えただろう。",
-            "TextENG": "Meanwhile, my mom is questioning my dad if his quarantine will even work, it seems he should have thought his amateurish virus countermeasures through."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153482,
-            "TextJPN": "村は今、静寂の恐怖に包まれている…。",
-            "TextENG": "The village is now wrapped in fear and silence..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153483,
-            "TextJPN": "それを打ち破るのは防災無線の声と、それを掻き乱す自衛隊のヘリコプターの爆音だけ。",
-            "TextENG": "Only to broken by the the Self-Defense Forces disaster prevention radio, and the roar of their helicopter."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153484,
-            "TextJPN": "それらはむしろ、静寂によって一層、不気味に引き立てられるのだった。",
-            "TextENG": "An eerie silence begins to settle itself in."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153485,
-            "TextJPN": "…普段通りにセミたちは合唱を始めているのに…。",
-            "TextENG": "...And as usual, the cicadas begin to cry..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153486,
-            "TextJPN": "その合唱が村人の耳に届くことはなかった…。",
-            "TextENG": "But their cries cannot reach the ears of the villagers..."
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 0,
+		"JPN": "ひぐらしアウトブレイク",
+		"ENG": "Higurashi Outbreak"
+	},
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "#1",
+		"ENG": "#1"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153421,
+		"NamesJPN": "自衛隊員",
+		"PreTextTags": "@vS24/00/NJIE_0000.",
+		"TextJPN": "「こちらは陸上自衛隊です！　本日０４００より雛見沢地区以下、県知事が定めた地域は防疫隔離されました」",
+		"NamesENG": "Self-Defense Force Member",
+		"TextENG": "``This is the Ground Self-Defense Force! The Hinamizawa district as of 0400 today, has been placed under an isolated quarantine by the Regional Governor."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153422,
+		"NamesJPN": "自衛隊員",
+		"PreTextTags": "@vS24/00/NJIE_0010.",
+		"TextJPN": "「住民の皆さんはご自宅へ待機をお願いいたします。防災無線やテレビ、ラジオ等での情報収集に努めてください」",
+		"NamesENG": "Self-Defense Force Member",
+		"TextENG": "Everyone, please stay inside your homes, and make an effort to gather information about the disaster prevention, through your TV and radio.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153423,
+		"NamesJPN": "自衛隊員",
+		"PreTextTags": "@vS24/00/NJIE_0020.",
+		"TextJPN": "「防疫上の安全が確認されるまで、当地区からの離脱はできません！　繰り返します、当地区からの離脱はできません！　これに従わない場合、国内法によって処罰されます！　どうか皆さん、自宅に戻り冷静な対応をお願いいたします！」",
+		"NamesENG": "Self-Defense Force Member",
+		"TextENG": "``Until safety of the quarantine zone has been confirmed, you cannot leave the district! I repeat, you cannot leave the district! If you do not obey, you will be punished by national law! Everyone, thank you for your kind response and return to your homes!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153424,
+		"TextJPN": "荒いスピーカーの声は、迷彩ヘリコプターの爆音が混じり、とても聞き取りにくかった。",
+		"TextENG": "The roar of the helicopter, and the rough voice of the speaker were mixed, it was very difficult to hear."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153425,
+		"NamesJPN": "アナウンサー",
+		"PreTextTags": "@vS24/00/NANA_0000.",
+		"TextJPN": "「……ィルスが検出されたとのことです。これはＷＨＯ、世界保健機構が指定するウィルスの中でも最も危険な分類に入るもので…、」",
+		"NamesENG": "Announcer",
+		"TextENG": "``......A virus has been detected. The WHO has declared this virus to be one of the most dangerous ever discovered...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153426,
+		"NamesJPN": "アナウンサー",
+		"PreTextTags": "@vS24/00/NANA_0010.",
+		"TextJPN": "「アメリカ政府よりワクチンの緊急援助の申し出があったことをすでに複数の政府筋が認めており、政府は受け容れの対応に入ったものと思われます」",
+		"NamesENG": "Announcer",
+		"TextENG": "``Sources within the government state that they have already received a proposal of emergency assistance vaccines from the United States government, it is likely they will enter some form of agreement.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153427,
+		"NamesJPN": "アナウンサー",
+		"PreTextTags": "@vS24/00/NANA_0020.",
+		"TextJPN": "「このウィルスは潜伏期間が３０日から５０日ほどで、隔離された住民２０００人分のワクチン確保が急務となっています」",
+		"NamesENG": "Announcer",
+		"TextENG": "``The virus's incubation period ranges from 30 to 50 days, and priority has been placed on ensuring a vaccine for the 2000 residents under quarantine.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153428,
+		"NamesJPN": "アナウンサー",
+		"PreTextTags": "@vS24/00/NANB_0000.",
+		"TextJPN": "「現在、雛見沢地区へは電話が殺到しており、ほとんどが不通となっています。県防災本部では、事態把握に支障が出かねないとして…、」",
+		"NamesENG": "Announcer",
+		"TextENG": "``Currently, all telephones to and from the Hinamizawa district have been suspended, preventing the prefectural disaster prevention headquarters from fully grasping the situation...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153429,
+		"NamesJPN": "アナウンサー",
+		"PreTextTags": "@vS24/00/NANC_0000.",
+		"TextJPN": "「なお、水道水、井戸水の使用を厳禁します！　飲料水は自衛隊給水車によるもの以外は使用しないでください！　また、路上への違法な駐車は災害救援を妨げます。直ちに移動をさせてください！」",
+		"NamesENG": "Announcer",
+		"TextENG": "``In addition, the use of tap and well water is strictly forbidden! Please do not drink anything else other than the water provided to you by the Self-Defense Forces water truck! Also, parking on the street is illegal and will interfere with the disaster relief. Please move your vehicles immediately!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153430,
+		"NamesJPN": "アナウンサー",
+		"PreTextTags": "@vS24/00/NAND_0000.",
+		"TextJPN": "「社明党の海原代表は、自衛隊の災害派遣命令に対し適切な手順が省かれた問題を指摘し、これを軍国主義へ回帰するものとして激しく非難、アジアでの一層の孤立化を招くものとして…、」",
+		"NamesENG": "Announcer",
+		"TextENG": "``Various political parties have also stated that the appropriate procedure was omitted by the disaster relief command for the Self-Defense Forces, and criticized this as a heavy return to militarism, that will only lead to further isolation within Asia...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153431,
+		"NamesJPN": "災害対策本部",
+		"PreTextTags": "@vS24/00/NSAI_0000.",
+		"TextJPN": "「こちらは災害対策本部です！　本日１２時より、以下に定める場所にて一斉診察が行なわれます。町会、自治会の指示に従って参集してください。特別な事情がない限り、必ず受診してください！　体調に異常が認められる方は必ずその旨、」",
+		"NamesENG": "Disaster Countermeasures",
+		"TextENG": "``This is the Prefectural Disaster Countermeasures Headquarters! From noon today, a mass medical examination will be carried out at the location set forth below. Everyone, please gather accordingly following instructions from your local neighborhood association. Unless you are under special circumstances, please undergo the medical examination by all means! The only excepted to this examination are those under extreme physical health conditions.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153432,
+		"NamesJPN": "自衛隊員",
+		"PreTextTags": "@vS24/00/NJIE_0030.",
+		"TextJPN": "「こちらは陸上自衛隊です！　当地区は防疫上の理由から県知事の判断により緊急に隔離されました」",
+		"NamesENG": "Self-Defense Force Member",
+		"TextENG": "``This is the Ground Self-Defense Force! The district has been placed under quarantine at the discretion of the prefectural governor to prevent further spread of the epidemic."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153433,
+		"NamesJPN": "自衛隊員",
+		"PreTextTags": "@vS24/00/NJIE_0040.",
+		"TextJPN": "「隔離地区からの離脱はできません！　皆さんへの食料、飲料水、生活必需品、電力、通信の自由は保障されます！　どうか冷静な対応をお願いいたします！！」",
+		"NamesENG": "Self-Defense Force Member",
+		"TextENG": "It is impossible to leave the quarantine area! Food, drinking water, daily necessities, and electricity will be provided to everyone, the freedom of communications are also guaranteed! Please respond in a calm and ordinary manner!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153434,
+		"TextJPN": "退屈で平凡な日常は、ある日突然に打ち破られた。",
+		"TextENG": "My ordinary boring life became suddenly broken overnight."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153435,
+		"TextJPN": "誰もがいつもと変わりない初夏の朝を疑わずに起床しただろう。空の青さだっていつも通りだったし、昇ってきた太陽だってそれを疑わなかったに違いない。",
+		"TextENG": "I would get up every morning in early summer. See the blue sky as always, and watch the sun rise."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153436,
+		"TextJPN": "だが、低空を飛びまわりスピーカーで怒鳴り続けるヘリコプターと、町への幹線道路が封鎖され渋滞している光景を見て、人々は今朝がこれまでの朝とはあまりに異質であることを知るのだった。",
+		"TextENG": "But, as I watched helicopters fly low with blaring loudspeakers, and saw the blocked congested main road to the town, I knew that this was not an ordinary morning."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153437,
+		"TextJPN": "早朝の混乱は、朝のニュースが放送される頃には一定の収まりを見せていた。",
+		"TextENG": "The confusion in early morning set the tone alongside the morning news broadcast."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153438,
+		"TextJPN": "雛見沢の住民たちはその非常放送を、どこか遠くの町での出来事のように感じずにはいられなかったが、…それは紛れもなく、自分たちの住まう郷里に起こった異常事態だったのである…。",
+		"TextENG": "The inhabitants of Hinamizawa heard the broadcast, although they could not help but feel this was an event in some far-off town... but undeniably, this abnormal situation was happening in their very own home town..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153439,
+		"TextJPN": "俺はそのニュースを、いつものようにもそもそと寝床を抜け出して、食堂に下りてきた時、テレビに釘付けになる両親の肩越しに見て知った。",
+		"TextENG": "This was all news to me, as I restlessly got out of bed like always, walked down into the dining room, and leaned over my parents shoulders as they were glued to the TV."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153440,
+		"TextJPN": "俺と同じ第一声を口にした村人は、果たして何人いたのだろう。",
+		"TextENG": "I would expect the rest of the village to be doing the same."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153441,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS24/01/NKEI_0000.",
+		"TextJPN": "「………な、…なんだって…？　何このニュース……」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``.........What...? What's happening in the news......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153442,
+		"NamesJPN": "圭一の母",
+		"PreTextTags": "@vS24/00/NKMO_0000.",
+		"TextJPN": "「圭一！　大変よ！　あのね、雛見沢がね、悪いウィルスが見付かったとかで隔離されちゃったんですって！」",
+		"NamesENG": "Keiichi's mom",
+		"TextENG": "``Keiichi! This is serious! Hinamizawa has been quarantined after they detected a killer virus!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153443,
+		"NamesJPN": "圭一の父",
+		"PreTextTags": "@vS24/00/NKFA_0000.",
+		"TextJPN": "「困ったなぁ…、これ、いつ解除になるんだ？　明日、大阪のイベントの打ち合わせに出なきゃならないってのになぁ…」",
+		"NamesENG": "Keiichi's dad",
+		"TextENG": "``What terrible timing... Does that mean we have to cancel our trip? We were meant to leave for a business trip in Osaka tomorrow...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153444,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS24/01/NKEI_0010.",
+		"TextJPN": "「隔離って、……んじゃあ、町へも出られないってこと？」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Quarantined...... Does that mean we can't leave the town?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153445,
+		"NamesJPN": "圭一の母",
+		"PreTextTags": "@vS24/00/NKMO_0010.",
+		"TextJPN": "「そうみたいね…。食料の援助とかはあるそうだけど…、困ったわぁ！　今日、興宮で特売があるからって、冷蔵庫の中ほとんど食材がないのよ」",
+		"NamesENG": "Keiichi's mom",
+		"TextENG": "``It seems that way... We also really need some food... this is awkward! There was supposed to be a sale at Okinomiya today, so we've got nothing in the fridge.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153446,
+		"NamesJPN": "圭一の父",
+		"PreTextTags": "@vS24/00/NKFA_0010.",
+		"TextJPN": "「それより、この何とかウィルスはどういうもんなんだ…！　隔離ってくらいだから相当恐ろしいモンなんだろ？！　そのウィルスはどうなってんだ！　ウチにも感染してるってのか？！」",
+		"NamesENG": "Keiichi's dad",
+		"TextENG": "``What exactly will the virus do...! This is scary, do we have to quarantine ourselves?! How the hell does this virus work! Has it already infected the inside of our house?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153447,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS24/01/NKEI_0020.",
+		"TextJPN": "「………シ！　今テレビでその説明してるよ！！　……発症すると、１週間ほどで以下の症状がって、…………ぅ、」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``.........We will be giving an explanation on TV soon!! ......When they develop! Approximately one week following the first symptoms! ............!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153448,
+		"TextJPN": "家族全員が、……いや、その映像が流れた瞬間、村中が絶句した。",
+		"TextENG": "My whole family...... no, the entire village is at a loss for words, as I can only play back this moment inside my head like a tape on rewind."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153449,
+		"TextJPN": "…外国の小さな村を全滅させたというその惨状は惨たらしく、……亡骸の変わり果てた姿があまりに恐ろしかった。",
+		"TextENG": "A devastation that wipes out entire small villages in Africa, this is too cruel...... the horrible sight of dead and dying corpses is too terrifying to imagine."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153450,
+		"TextJPN": "我が身に危険が及ばない無責任な視聴者にとって、謎の危険なウィルスがどんな害をもたらすのか映像を見たいというのは、率直な野次馬感情だろう。",
+		"TextENG": "A danger beyond the viewers themselves, simply waiting for video footage of a mysterious and dangerous virus... They're just curious."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153451,
+		"TextJPN": "……だが、実際にその危機に直面している俺たちには、……あまりに笑えない、恐ろしいものだった…。",
+		"TextENG": "......But, to be confronted with a crisis like this...... I can't even laugh, this is terrifying..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153452,
+		"TextJPN": "ふと、時計を見上げると、レナとの待ち合わせの時間をとっくに過ぎ去り、すでに遅刻している時間だった。",
+		"TextENG": "Suddenly, when I look up at the clock, I realize the time has long passed my meet up with Rena, she is late."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153453,
+		"TextJPN": "普段のレナだったら、約束した時間を５分過ぎれば直接迎えに来る。…でも今朝はそれはなかった。",
+		"TextENG": "Rena would appear everyday to pick me up, but it's now 5 minutes past our promised time... However, she hasn't arrived."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153454,
+		"TextJPN": "……当然だ。きっとレナだって今頃、家族と一緒にテレビに釘付けになっているに違いない…。",
+		"TextENG": "......Naturally, Rena by now is probably glued to the TV with her family..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153455,
+		"TextJPN": "それともまさか、……この怪しげなウィルスにやられて苦しんでいるというのではないだろうか…。",
+		"TextENG": "Or possibly...... she may be suffering from this mysterious virus..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153456,
+		"TextJPN": "そう思った瞬間、レナだけじゃなく、魅音や沙都子、梨花ちゃんの安否が心の底から気になった。",
+		"TextENG": "I thought about it for just a moment, it's not only Rena, but Mion, Satoko and Rika-chan too, I worry about them from the bottom of my heart."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153457,
+		"TextJPN": "直情的に俺は廊下へ駆け受話器を取りダイヤルするが、普段のようなコール音すら聞かせてもらうことはできなかった。",
+		"TextENG": "I run for the corridor and dial the phone, there isn't an answering sound."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153458,
+		"TextJPN": "…無理もない。村中が、そして村に親類を持つさらに大勢が、今の俺と同じように一斉に受話器を握っただろう。電話回線がパンクしているだろうことなど容易に想像がつく。",
+		"TextENG": "...No wonder. The entire village must be dialing their relatives or friends at a time like this, just like me. It's easy to imagine the line would go dead."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153459,
+		"TextJPN": "なら、直接訪問してその無事を確かめたい。……だが、危険なウィルスが村の中に満ちているかもしれないというのだ。そんな戸外へわざわざ飛び出すのは自殺行為ではないのか…？",
+		"TextENG": "So, I should go visit and check their safety directly...... But, that dangerous virus could be lurking in the village. Would it be suicidal to run outside at a time like this...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153460,
+		"NamesJPN": "圭一の父",
+		"PreTextTags": "@vS24/00/NKFA_0020.",
+		"TextJPN": "「圭一！　ちょっと来い！！　大至急だ！」",
+		"NamesENG": "Keiichi's dad",
+		"TextENG": "``Keiichi! Come back here!! Immediately!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153461,
+		"TextJPN": "親父がアトリエから出てくるところだった。ダンボール箱を抱えている。見ると、中身は未開封のビニールに包まれたガムテープがぎっしり入っていた。親父が画材か何かに使うためにストックしていたものらしい。",
+		"TextENG": "My dad soon came out of his studio. He is carrying a large cardboard box. I look inside, and see various unopened wrapping and vinyl tapes. They appear to be part of my dad's stock he uses for his painting tools."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153462,
+		"TextJPN": "この緊急時になぜガムテープ、とは思わなかった。…すぐに何のために親父が俺を呼び出したのかを理解する。",
+		"TextENG": "Why packing tape in an emergency like this, I never even considered it. ...Although I now understand why my father called for me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153463,
+		"NamesJPN": "圭一の父",
+		"PreTextTags": "@vS24/00/NKFA_0030.",
+		"TextJPN": "「圭一は２階を頼むぞ！　窓をぴったり閉めてガムテープで目張りをするんだ！」",
+		"NamesENG": "Keiichi's dad",
+		"TextENG": "``Take the second floor, Keiichi! Close up all the windows and seal them with packing tape!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153464,
+		"NamesJPN": "圭一の父",
+		"PreTextTags": "@vS24/00/NKFA_0040.",
+		"TextJPN": "「クーラーも外気とつながってるかもしれんな！　クーラーは噴出孔を新聞紙で覆ってそれからガムテープでしっかりと止めるんだ！　父さんは１階をやるからな！　母さんは台所を頼む！！」",
+		"NamesENG": "Keiichi's dad",
+		"TextENG": "Even the air conditioner, it's connected to the outside! Stuff its inside with newspaper and then seal it with packing tape! I'll take the first floor! Your mother will take the kitchen!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153465,
+		"NamesJPN": "圭一の母",
+		"PreTextTags": "@vS24/00/NKMO_0020.",
+		"TextJPN": "「お父さん、今さらそんなことしても仕方ないでしょ。ガムテープなんかじゃ極小のウィルスを防ぐ効果なんて全然ないわよ…！」",
+		"NamesENG": "Keiichi's mom",
+		"TextENG": "``Dad, that won't help at all. The packing tape can't stop such a small virus from getting in...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153466,
+		"NamesJPN": "圭一の父",
+		"PreTextTags": "@vS24/00/NKFA_0050.",
+		"TextJPN": "「それでも少しは違うだろうが！！　いいから母さんもやりなさいッ！！」",
+		"NamesENG": "Keiichi's dad",
+		"TextENG": "``Even though that may be true!! Just do it like your mother!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153467,
+		"TextJPN": "親父が問答を許さない強い口調で怒鳴りつける。…でも、こういう事態においても比較的冷静なお袋の言い分ももっともだと思った。",
+		"TextENG": "My dad shouted in a strong tone, as if to prevent any questions or answers. ...However, my mom was relatively calm in such a situation."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153468,
+		"TextJPN": "埃なんかよりも遥かに微小な存在であるウィルスの侵入を、こんな市販の布ガムテープで目張りして回るだけで防げるなんて、迷信もいいところだ…。",
+		"TextENG": "They say that a virus can be as small as dust, and that it can't be prevented by commercially available packing tape, something you would quickly realize after being superstitious..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153469,
+		"TextJPN": "だが同時に、親父の言い分も理解できた。……今は、あまりに突然の事態に誰もがショックを隠せないのだ。",
+		"TextENG": "Although at the same time, I can understand what my dad was trying to say...... At present, nobody can hide their shock from such a sudden situation."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153470,
+		"TextJPN": "科学的根拠があるなしじゃなく、例え迷信や気休めでもいいから、何かの備えをせずにはいられない。……何もせずテレビの前に居続けるより、よっぽど心が安らかでいられるに違いないのだ。",
+		"TextENG": "We don't even have any scientific proof that it exists or not, we're just using superstition to soothe ourselves into thinking that things will be alright, but I can't help but feel I need to prepare myself for something. ......Rather than staying in front of the TV doing nothing, I need some space to put my mind at ease."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153471,
+		"TextJPN": "こういう時には妙に頑固なお袋と親父の感情的な罵り合いを避けるように、俺は２階へ上がった。",
+		"TextENG": "So to avoid an emotional brawling match between my mom and dad, I went up to the second floor."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153472,
+		"TextJPN": "お袋の言うように、防疫上の効果が期待できないのはわかってる。…でも、気休めのおまじない程度でも、何かをしたい気持ちはきっと親父と同じだったからだ。",
+		"TextENG": "As my mom always says, you can't be expected to know the effects of a quarantine. ...But, we have to try and ensure our safety, I'm sure my dad was thinking the same thing."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153473,
+		"TextJPN": "窓から外を見る。…その雄大な光景は、引っ越してきたばかりの頃、深い感動をもたらしてくれた自慢の眺望だった。",
+		"TextENG": "I take a look outside. ...I remember when we first moved in, it was a magnificent scene, the pride I felt then has left a deep impression."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153474,
+		"TextJPN": "その雄大な光景は、昨日までの美しい伝統的建築物を連ねる雛見沢と何も変わりない。",
+		"TextENG": "That magnificent scene, against the backdrop of Hinamizawa's beautiful and traditional buildings, nothing had changed since then, until this day."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153475,
+		"TextJPN": "だが、村人の人影はなかった。",
+		"TextENG": "I can't see any villagers outside."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153476,
+		"TextJPN": "野良仕事をしている村人の姿を、水田の中に一人たりとも見つけることができなかった。",
+		"TextENG": "No one in the farms or the rice paddy fields, it's impossible to find even a single villager."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153477,
+		"TextJPN": "……こういう事態でも、頑固なお年寄りは野良仕事をさぼらないに違いない、等という浅はかな予想はあっさり裏切られた。",
+		"TextENG": "......Even in such a situation, I expected the stubborn elderly to labor in the farms, but it seems that shallow expectation was easily betrayed."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153478,
+		"TextJPN": "……実は、そういう光景に普段通りの日常を見出して安心したかった自分がいたことを知る。",
+		"TextENG": "......In fact, I just wanted to feel relieved after seeing their daily lives continue."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153479,
+		"TextJPN": "今やどんなに頑固なお年寄りであっても、野良仕事には出なかった。",
+		"TextENG": "No matter how stubborn the elderly are, their spite wasn't reflected in the farms."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153480,
+		"TextJPN": "それはウィルスに感染するかもしれないことを恐れたのではない。ウィルスに感染したと思われ、村から放逐されることを恐れたのである。",
+		"TextENG": "They could be afraid it is infected with the virus. If that appears to be so, then I can understand the villagers reaction."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153481,
+		"TextJPN": "その意味においては、防疫上の効果があるかどうかを問う母親より、素人思考の父親の感情的なウィルス対応策の方がずっと正しいと言えただろう。",
+		"TextENG": "Meanwhile, my mom is questioning my dad if his quarantine will even work, it seems he should have thought his amateurish virus countermeasures through."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153482,
+		"TextJPN": "村は今、静寂の恐怖に包まれている…。",
+		"TextENG": "The village is now wrapped in fear and silence..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153483,
+		"TextJPN": "それを打ち破るのは防災無線の声と、それを掻き乱す自衛隊のヘリコプターの爆音だけ。",
+		"TextENG": "Only to broken by the the Self-Defense Forces disaster prevention radio, and the roar of their helicopter."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153484,
+		"TextJPN": "それらはむしろ、静寂によって一層、不気味に引き立てられるのだった。",
+		"TextENG": "An eerie silence begins to settle itself in."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153485,
+		"TextJPN": "…普段通りにセミたちは合唱を始めているのに…。",
+		"TextENG": "...And as usual, the cicadas begin to cry..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153486,
+		"TextJPN": "その合唱が村人の耳に届くことはなかった…。",
+		"TextENG": "But their cries cannot reach the ears of the villagers..."
+	}
+]

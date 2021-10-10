@@ -1,774 +1,772 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "#2 祟りノ始マリ",
-            "ENG": "#2 / The Beginning of a Possession"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155851,
-            "NamesJPN": "利根川",
-            "PreTextTags": "@vS26/56/TTON_0360.",
-            "TextJPN": "「…って、何です？」",
-            "NamesENG": "Tonegawa",
-            "TextENG": "``...Hey, what is it?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155852,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0290.",
-            "TextJPN": "「馬鹿馬鹿しいッ！　下らない迷信ですよ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``It's nonsense! Nothing but worthless superstition!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155853,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0250.",
-            "TextJPN": "「もちろん迷信ですよ。単なるお伽話です」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Of course it's superstition. It's only a fairy tale.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155854,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0300.",
-            "TextJPN": "「下らないッ！　…あなたはそんな下らないもののためにわざわざ取材にやって来たんですか！？」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``It's stupid! ...Did you really bother to come all the way just to cover such a worthless story!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155855,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0260.",
-            "TextJPN": "「…下らない下らない、ってわりには気にしておられるようですね」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...You say it's stupid and worthless, but you seem to be concerned about it.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155856,
-            "NamesJPN": "利根川",
-            "PreTextTags": "@vS26/56/TTON_0370.",
-            "TextJPN": "「荒川君、落ち着いて落ち着いて。何だか知らないがお伽話なんだろう？」",
-            "NamesENG": "Tonegawa",
-            "TextENG": "``Arakawa-kun, calm down, calm down. Although I don't know what it is, isn't it just a fairy tale?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155857,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_0640.",
-            "TextJPN": "「………そうよ。…単なるお伽話」",
-            "NamesENG": "Rika",
-            "TextENG": "``.........Yes. ...A simple fairy tale.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155858,
-            "NamesJPN": "利根川",
-            "PreTextTags": "@vS26/56/TTON_0380.",
-            "TextJPN": "「…一体何の話だい？　…園崎さんは知ってますか？　…そのナントカ様の話」",
-            "NamesENG": "Tonegawa",
-            "TextENG": "``...What are you talking about? ...Sonozaki-san, do you know? ...I'm clueless here.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155859,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_0820.",
-            "TextJPN": "「いちおー小学校で習いましたからねぇ…。…ま、とりあえずは」",
-            "NamesENG": "Mion",
-            "TextENG": "``I first learned about it in elementary school... ...Well, first of all.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155860,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0270.",
-            "TextJPN": "「オヤシロさまはこの雛見沢の守り神さまの名前なんですよ。地元の人間なら誰でも知っています」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Oyashiro-sama is the name of the guardian deity of Hinamizawa. Every local here must know about it.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155861,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0310.",
-            "TextJPN": "「もうオヤシロさまの話は聞き飽きましたよ！　まだ聞かせる気ですかッ！　あの下らない話をッ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``I'm tired of hearing this story about Oyashiro-sama! Are you still going to tell it? That stupid story!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155862,
-            "NamesJPN": "利根川",
-            "PreTextTags": "@vS26/56/TTON_0390.",
-            "TextJPN": "「…話？」",
-            "NamesENG": "Tonegawa",
-            "TextENG": "``...Story?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155863,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_0650.",
-            "TextJPN": "「…オヤシロさまのお伽話よ。…雛見沢を汚そうとするとね…」",
-            "NamesENG": "Rika",
-            "TextENG": "``...The fairy tale of Oyashiro-sama. ...That if you try to pollute Hinamizawa...``"
-        },
-        {
-            "type": "LOGSET",
-            "NamesJPN": "魅音＆梨花",
-            "PreTextTags": "@o75.@vS26/52/TRIK_0660|S26/53/TMIO_0830.",
-            "TextJPN": "「「……………………祟るの」」",
-            "NamesENG": "Mion & Rika",
-            "TextENG": "\\\"\\\"Curse will...\\\"\\\""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155864,
-            "TextJPN": "遠雷。@k@r雨の音が少し強くなる。@k@rしばしの沈黙。",
-            "TextENG": "Distant thunder.@k@rThe sound of the rain becomes strong.@k@rA brief silence."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155865,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0320.",
-            "TextJPN": "「馬鹿な話ですよッ！　…どこの郷里にだってその手の話のひとつやふたつあるもんです！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``That's just a stupid story! ...There's always a story or two like that in anyone's hometown!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155866,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0280.",
-            "TextJPN": "「そうです。祟る神様の伝承は日本各地、数え出したらきりがない。…でもこのオヤシロさまの祟りは他のそれとはまったく異なっています」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``You're right about that. There are folklore's about gods' curses all over Japan, the number is infinite. ...But, the curse of Oyashiro-sama is completely different from the rest of them.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155867,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_0670.",
-            "TextJPN": "「………本当に祟るのよ」",
-            "NamesENG": "Rika",
-            "TextENG": "``.........You really can be cursed.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155868,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_0840.",
-            "TextJPN": "「……ははは、はははははは！　…まっさかー！　今時、祟りなんて流行んないですよー！　梨花さんも脅し過ぎですってばー」",
-            "NamesENG": "Mion",
-            "TextENG": "``......Ha ha ha, ha ha ha ha ha ha! ...No way! These days curses aren't the most trendy of things! You're scaring us too much, Rika!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155869,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0290.",
-            "TextJPN": "「……魅音ちゃんは知らないみたいだね。…いや。…無理もないよ。その全てが新聞で取り上げられたわけじゃないから」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``......Mion-chan, it doesn't seem like you know much. ...No. ...That's understandable. Since it hasn't been addressed in the newspapers.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155870,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0300.",
-            "TextJPN": "「……具体的数字を挙げよう。…４人だ。………すでに建設省の職員が４人、………亡くなってるんだよ」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``......I'll give a concrete number. ...Four people. .........Four employees from the Ministry of Construction......... have already died.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155871,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_0680.",
-            "TextJPN": "「尋常じゃない死に方でね」",
-            "NamesENG": "Rika",
-            "TextENG": "``Their deaths were not ordinary.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155872,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0330.",
-            "TextJPN": "「馬鹿馬鹿しいッ！　偶然にも不幸が重なる事はあります！　…いいですか！？　我々は常にどこかしらのダム計画に関係しています」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``That's ridiculous! It was just was a coincidence of misfortunes that happened one after another! ...Listen me, okay!? We are always connected to the dam project no matter where we are.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155873,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0340.",
-            "TextJPN": "「公務中に倒れる度にどこぞの祟りだなんて言われてたらたまったもんじゃないんですよッ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``So if someone dies on duty, you just say it was some curse every time. We don't need this!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155874,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0310.",
-            "TextJPN": "「常識的な死に方だったら私も妙なことは言い出しません。…ですが、彼らは普通じゃなかった」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``If they died in a common way, I wouldn't be saying such strange things. ...But, they didn't die normally.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155875,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_0850.",
-            "TextJPN": "「…普通じゃない…？」",
-            "NamesENG": "Mion",
-            "TextENG": "``...Not normally...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155876,
-            "NamesJPN": "利根川",
-            "PreTextTags": "@vS26/56/TTON_0400.",
-            "TextJPN": "「……去年の暮れの……近藤さんの事かい…？」",
-            "NamesENG": "Tonegawa",
-            "TextENG": "``......On the evening of last year...... wasn't it Kondo-san...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155877,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0350.",
-            "TextJPN": "「……あれは派手に新聞に載りましたからね」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``......That made quite a flashy fuss in the newspapers.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155878,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0320.",
-            "TextJPN": "「昨年の１１月２０日。……寝ていた家族を次々と襲い、自らも喉を掻き切って死ぬという凄惨な事件が発生しました」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Last year on November 20th. ......A man stabbed his family to death one after another using a kitchen knife while they were sleeping. As for himself, he slit his own throat and died, what a tragic incident.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155879,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0330.",
-            "TextJPN": "「…男の名は@bこんどうよしゆき.@<近藤義幸@>。…建設省河川局開発課の職員です」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...The man's name was Kondo Yoshiyuki. ...He was an employee of the Ministry of Construction River Bureau Development Division.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155880,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_0690.",
-            "TextJPN": "「彼は雛見沢ダム計画の初期のスタッフで、雛見沢には何度も訪れていた」",
-            "NamesENG": "Rika",
-            "TextENG": "``Since he was part of the initial staff of the Hinamizawa dam project, he visited Hinamizawa many times.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155881,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_0860.",
-            "TextJPN": "「……無理心中ってヤツですか…？」",
-            "NamesENG": "Mion",
-            "TextENG": "``Is that what you call a forced suicide?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155882,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0340.",
-            "TextJPN": "「最終的にはね。そういう事で落ち着いたよ。…でもね、警察がいくら調べても心中しなくてはならない理由を見つける事はできなかったんだ」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Maybe. All these thing began to settle down. ...But you know, no matter how much the police looked into it, they couldn't find any reason why they had to commit suicide.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155883,
-            "NamesJPN": "利根川",
-            "PreTextTags": "@vS26/56/TTON_0410.",
-            "TextJPN": "「…クスリの類に手を出したんじゃないか、なんて噂が流れたのを覚えてる」",
-            "NamesENG": "Tonegawa",
-            "TextENG": "``...Could he have used some kind of drug, I remember that was one of the rumors.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155884,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0350.",
-            "TextJPN": "「検死の結果、薬物の反応は一切検出されなかったそうです。事件当時の彼のスケジュールは過密で、警察では過労による発作的な凶行と断定しました」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``As for the result of the autopsy, it was reported that they couldn't detect any trace of drugs. His schedule at the time of the incident was overcrowded, so the police concluded that this sporadic act of violence was due to overworking.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155885,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0360.",
-            "TextJPN": "「…悲惨な出来事だったとは思うよ。確かに普通じゃない！　…だからと言ってすぐにオヤシロさまの祟りと結びつけるのはあまりに短絡的だッ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``...I do think that this was a tragic incident. Surely it wasn't normal! However, it's too simplistic to immediately relate it to the curse of Oyashiro-sama!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155886,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0360.",
-            "TextJPN": "「…まったくです。…この事件ひとつだけなら、私も短絡的に祟りなんかと結びつけたりはしない」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...You're right about that. ...If the incident only happened once that is, then I wouldn't simplistically relate it to things like curses.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155887,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_0870.",
-            "TextJPN": "「…他にもあるんですか。…そーいうの…」",
-            "NamesENG": "Mion",
-            "TextENG": "``...So there were others. ...If I understand correctly...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155888,
-            "NamesJPN": "利根川",
-            "PreTextTags": "@vS26/56/TTON_0420.",
-            "TextJPN": "「そう言えば吉村さん、職員が４人死んだと言いましたよね。…でも、私は近藤さんのこと以外は一切聞いていませんよ」",
-            "NamesENG": "Tonegawa",
-            "TextENG": "``Yoshimura-san, that reminds me, you said there were four employees who died. ...But, I haven't heard of anyone else other than Kondo-san.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155889,
-            "NamesJPN": "利根川",
-            "PreTextTags": "@vS26/56/TTON_0430.",
-            "TextJPN": "「職員が亡くなったら絶対に回書が回るはずだ。…なぁ荒川君！」",
-            "NamesENG": "Tonegawa",
-            "TextENG": "``If any other personnel died, we would have definitely received reports about it. ...Right, Arakawa-kun?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155890,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0370.",
-            "TextJPN": "「…失礼ですが、利根川さんはこの４月の異動ですか？」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...Excuse me, but didn't you transfer in this April, Tonegawa-san?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155891,
-            "NamesJPN": "利根川",
-            "PreTextTags": "@vS26/56/TTON_0440.",
-            "TextJPN": "「え…えぇ！　４月までは砂防部の傾斜地保全課におりました」",
-            "NamesENG": "Tonegawa",
-            "TextENG": "``Eh... yeah! Until April, I was in the Slope Conservation Division of Erosion Control Department.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155892,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_0700.",
-            "TextJPN": "「……隠されてるのよ。……もっと死んでるわ」",
-            "NamesENG": "Rika",
-            "TextENG": "``......They're covering it up. ......There's more dead.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155893,
-            "NamesJPN": "利根川",
-            "PreTextTags": "@vS26/56/TTON_0450.",
-            "TextJPN": "「あ、荒川君！？　本当かい！？」",
-            "NamesENG": "Tonegawa",
-            "TextENG": "``A-Arakawa-Kun!? Is that true!?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155894,
-            "TextJPN": "苦い顔をして俯く荒川。@k@r利根川は何が何やらわからない。",
-            "TextENG": "Arakawa looks down with a bitter face.@k@rTonegawa cannot tell what is going on."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155895,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0380.",
-            "TextJPN": "「彼の事件直後から雛見沢ダムの担当者の間にある噂が流れ始めました」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Immediately after that incident, a rumor surrounding the person in charge of the Hinamizawa dam started to rise.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155896,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0390.",
-            "TextJPN": "「その噂は事件の前から囁かれていましたが、少なくとも事件が起きるまではただのお伽話に過ぎませんでした」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Although this rumor was spread before the incident even happened, but until the incident occurred, it was just a fairy tale.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155897,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_0880.",
-            "TextJPN": "「…お伽話って、…ひょっとして」",
-            "NamesENG": "Mion",
-            "TextENG": "``...That fairy tale... could it be.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155898,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_0710.",
-            "TextJPN": "「そう。……オヤシロさまの…祟り」",
-            "NamesENG": "Rika",
-            "TextENG": "``Yes. ...... Oyashiro-sama's... curse.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155899,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0370.",
-            "TextJPN": "「やめて下さいよッ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``Please stop it!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155900,
-            "NamesJPN": "利根川",
-            "PreTextTags": "@vS26/56/TTON_0460.",
-            "TextJPN": "「…どんな話なんですか。その、…オヤシロさまのお伽話と言うのは」",
-            "NamesENG": "Tonegawa",
-            "TextENG": "``...What does the story say... I mean... Oyashiro-sama's fairy tale.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155901,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0380.",
-            "TextJPN": "「つまらない話ですよッ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``It's just a boring story!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155902,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_0720.",
-            "TextJPN": "「…昔々、…貧しい老夫婦と３人の息子たちが住んでたわ」",
-            "NamesENG": "Rika",
-            "TextENG": "``...Once upon a time... there lived a poor elderly couple and their three sons.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155903,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_0730.",
-            "TextJPN": "「…畑仕事が嫌いで贅沢な暮らしに憧れる３人の息子はね、ある日、両親も先祖代々の畑も捨てて都へ旅立ってしまうの」",
-            "NamesENG": "Rika",
-            "TextENG": "``...The three sons hated life on the fields, and yearned for a luxurious life. Then one day, they left their parents and the fields of their ancestors, and left for the capital.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155904,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_0890.",
-            "TextJPN": "「一度に３人も逃げられたんだからねぇ。…ま、そんなわけでお爺さんもお婆さんも頑張って２人だけでご先祖さまの土地を守っていくんだけどー、…駄目なんだよね」",
-            "NamesENG": "Mion",
-            "TextENG": "``All three men ran away at once. ...Well, because of that, the old man and woman decided to work hard and do their best to protect their ancestors land with only two people.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155905,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_0900.",
-            "TextJPN": "「…結局ある日、倒れて２人とも寝込んでしまう」",
-            "NamesENG": "Mion",
-            "TextENG": "``...However, it was no use. ...Because eventually one day, both of them collapsed and were forced to stay in bed from there on.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155906,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_0740.",
-            "TextJPN": "「先祖の畑を守る為にはどうしても息子たちの力がいる。…老夫婦はオヤシロさまに祈ったの。…どうか息子たちに帰ってくるようにお伝え下さい。…ってね」",
-            "NamesENG": "Rika",
-            "TextENG": "``In order to protect their ancestors fields, they surely needed help from their sons. ...So the elderly couple prayed to Oyashiro-sama. ...'Please tell our sons to come home'.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155907,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0400.",
-            "TextJPN": "「…オヤシロさまはまず長男のもとへ行った。…そして夢枕に立ってね。故郷に帰るように諭したんだ。…だが都の華やかな暮らしに染まった長男は頑として拒んだ」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...Oyashiro-sama visited the eldest son first. ...Appeared in his dream. And Admonished him to return home. ...However, the eldest son was already stained with the glamorous life of the capital and stubbornly refused.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155908,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_0750.",
-            "TextJPN": "「オヤシロさまは七日七晩、長男の夢枕に立ったわ。…でも長男は雛見沢に帰ろうとはしなかった」",
-            "NamesENG": "Rika",
-            "TextENG": "``Then, Oyashiro-sama for seven nights appeared to the eldest son in his dreams. ...But, the eldest son still had no intention of returning home to Hinamizawa.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155909,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_0910.",
-            "TextJPN": "「毎晩、枕元立たれるのはキツいですよねー。…単なる嫌がらせの領域ですよ」",
-            "NamesENG": "Mion",
-            "TextENG": "``Every night, just standing beside his bed must have been tough. ...That kind of behaviour is just harassment.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155910,
-            "NamesJPN": "利根川",
-            "PreTextTags": "@vS26/56/TTON_0470.",
-            "TextJPN": "「……それで？」",
-            "NamesENG": "Tonegawa",
-            "TextENG": "``......And then what happened?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155911,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0390.",
-            "TextJPN": "「結局、長男は祟りで死んでしまうんですよッ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``In the end, the eldest son was killed by the curse!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155912,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_0760.",
-            "TextJPN": "「次にオヤシロさまは次男の夢枕に立ったわ。…でも次男も帰ろうとはしなかった」",
-            "NamesENG": "Rika",
-            "TextENG": "``Next, Oyashiro-sama appeared in the second son's dreams. ...But the second son didn't plan on returning home either.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155913,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0400.",
-            "TextJPN": "「次男も同様ッ！　七日目におかしくなって死んでしまうんですッ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``The second son was the same! He became strange and died on the seventh day!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155914,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0410.",
-            "TextJPN": "「兄たちの変死に怖くなってね。三男は逃げるように帰るんだよ。…そして３人で力を合わせて畑を守っていったんだとさ。…おしまい」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Then, becoming scared about the unnatural deaths of his older brothers, the third son choose to escape and return home. And then the three people united their strength to protect their fields. ...The end.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155915,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0420.",
-            "TextJPN": "「郷に生まれた者は郷に生き、郷に死ぬことを良しとする風習を伝えたお伽話だと考えられています。…そういう風習自体はそんなに珍しいものじゃない」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``The people born in the village should live in the village, so it's thought this fairy tale is told to tell us a custom that people born in the village... should live and die in the village. ...That custom itself isn't so rare.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155916,
-            "NamesJPN": "利根川",
-            "PreTextTags": "@vS26/56/TTON_0480.",
-            "TextJPN": "「…別に…近藤さんはここの出身だったわけじゃないでしょう？」",
-            "NamesENG": "Tonegawa",
-            "TextENG": "``...Apart from that... Kondo-san wasn't from this place, am I right?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155917,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0430.",
-            "TextJPN": "「えぇ違いますよ。…要するにオヤシロさまって神様は、雛見沢から出て行こうとする人、よそから雛見沢に入って来ようとする人に厳しいんですよ」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Yeah, but it's not just that. ...In short, the god Oyashiro-sama told the people they are not to leave Hinamizawa... And is said to be severe on anyone going against that, and anyone trying to enter Hinamizawa from the outside.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155918,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0440.",
-            "TextJPN": "「…守り神さまですからね」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``...He is also considered a guardian deity.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155919,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0410.",
-            "TextJPN": "「ダム反対派の老人たちが揃いも揃ってこの話をするもんなんで！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``Do you know why every elderly person and the dam opposition talk about this thing?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155920,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0420.",
-            "TextJPN": "「…みんな面白がっていましたよ。…この近代社会で、まだこんなお伽話を聞けるとは思いませんでしたから！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``...At first, everyone was just amused. ...Because we live in a modern society, they didn't think they would hear such a fairy tale!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155921,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0450.",
-            "TextJPN": "「そう。お伽話だったんです。…事件が起きるまではね」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``Yes. It was just a fairy tale. ...Until that incident happened.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155922,
-            "TextJPN": "遠くで雷鳴。@k@r相変わらず土砂降りの雨。@k@rしばらくの沈黙。",
-            "TextENG": "The sound of thunder in the distance.@k@rThe usual downpour of the rain.@k@rA brief silence."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155923,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0430.",
-            "TextJPN": "「最初に言ったのは誰か忘れました。…ここんところ眠れなくて辛いって言うんですよ。…寝ようとすると落ち着かなくなって起きてしまうって！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``I forgot to tell you this. ...He had always said it's been difficult to sleep recently. ...And that he always became restless if he tried to go asleep!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155924,
-            "NamesJPN": "利根川",
-            "PreTextTags": "@vS26/56/TTON_0490.",
-            "TextJPN": "「…過労だよ」",
-            "NamesENG": "Tonegawa",
-            "TextENG": "``...It must have been from overworking.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155925,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0440.",
-            "TextJPN": "「その内、誰かが言い出したんです。寝ようとすると何かの気配を感じる。灯りを付けて探すんだが誰もいない。…でも再び灯りを消すと確かに気配を感じるんだってッ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``One day, people started to talk. That he felt the presence of someone when he tried to sleep. He switched the light on and looked around, but found nobody. ...However, he sensed its presence again when he turned off the lights!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155926,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0450.",
-            "TextJPN": "「…みんなは面白がってそれをオヤシロさまの祟りだと囃し立てました。オヤシロさまが夢枕に立ってるんだ、って言って！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``...Everyone jeered in amusement when he said it was the curse of Oyashiro-sama. Oyashiro-sama appears in his dreams, they said!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155927,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0460.",
-            "TextJPN": "「…今思うと、最初に不眠の事を訴えたのは近藤さんだったように思います。…近藤さんは……事件の直前には笑い事じゃない状況になってました」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``...When I think about it, Kondo-san was the first one to complain about insomnia. ...Kondo-san's situation was not a laughing matter just before the incident.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155928,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0470.",
-            "TextJPN": "「…………“いる”って言うんですよ」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``............'It exists' he said.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155929,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0480.",
-            "TextJPN": "「…毎晩、寝ようとすると…“いる”ってッ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``...Every night, when he tried to sleep... 'It's there' he said!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155930,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS26/53/TMIO_0920.",
-            "TextJPN": "「…“いる”って……、……はは……ヤダなぁ……」",
-            "NamesENG": "Mion",
-            "TextENG": "``...'It's there' he said...... ......ha ha...... no way......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155931,
-            "NamesJPN": "吉村",
-            "PreTextTags": "@vS26/54/TYOS_0460.",
-            "TextJPN": "「そして事件が起こった。…その時、お伽話はもはや単なる笑い話ではありませんでした」",
-            "NamesENG": "Yoshimura",
-            "TextENG": "``And then that incident happened. ...At that time, the fairy tale was no longer just a funny story.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155932,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0490.",
-            "TextJPN": "「その後しばらく、職場はオバケ屋敷状態でしたよッ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``Then for some time, our workplace became a haunted house!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155933,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0500.",
-            "TextJPN": "「…仮眠室で怪しい気配を感じた！　深夜まで残業をしていたら背後に“誰か”が立った！　電車の中まで“何か”が付いて来たッ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``...Anyone could feel a suspicious breeze in the nap room! And whenever one of us worked overtime until midnight, 'someone' was standing behind them! Even on a train, 'something' was following them!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155934,
-            "NamesJPN": "荒川",
-            "PreTextTags": "@vS26/55/TARA_0510.",
-            "TextJPN": "「…馬鹿馬鹿しいにも程があるッ！」",
-            "NamesENG": "Arakawa",
-            "TextENG": "``...It's beyond ridiculous!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 155935,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS26/52/TRIK_0770.",
-            "TextJPN": "「馬鹿馬鹿しくなんかない。…“いる”んだもの。…オヤシロさまは」",
-            "NamesENG": "Rika",
-            "TextENG": "``It's not ridiculous. ...Because, 'it exists'. Oyashiro-sama exists.``"
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "#2 祟りノ始マリ",
+		"ENG": "#2 / The Beginning of a Possession"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155851,
+		"NamesJPN": "利根川",
+		"PreTextTags": "@vS26/56/TTON_0360.",
+		"TextJPN": "「…って、何です？」",
+		"NamesENG": "Tonegawa",
+		"TextENG": "``...Hey, what is it?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155852,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0290.",
+		"TextJPN": "「馬鹿馬鹿しいッ！　下らない迷信ですよ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``It's nonsense! Nothing but worthless superstition!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155853,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0250.",
+		"TextJPN": "「もちろん迷信ですよ。単なるお伽話です」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Of course it's superstition. It's only a fairy tale.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155854,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0300.",
+		"TextJPN": "「下らないッ！　…あなたはそんな下らないもののためにわざわざ取材にやって来たんですか！？」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``It's stupid! ...Did you really bother to come all the way just to cover such a worthless story!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155855,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0260.",
+		"TextJPN": "「…下らない下らない、ってわりには気にしておられるようですね」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...You say it's stupid and worthless, but you seem to be concerned about it.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155856,
+		"NamesJPN": "利根川",
+		"PreTextTags": "@vS26/56/TTON_0370.",
+		"TextJPN": "「荒川君、落ち着いて落ち着いて。何だか知らないがお伽話なんだろう？」",
+		"NamesENG": "Tonegawa",
+		"TextENG": "``Arakawa-kun, calm down, calm down. Although I don't know what it is, isn't it just a fairy tale?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155857,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_0640.",
+		"TextJPN": "「………そうよ。…単なるお伽話」",
+		"NamesENG": "Rika",
+		"TextENG": "``.........Yes. ...A simple fairy tale.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155858,
+		"NamesJPN": "利根川",
+		"PreTextTags": "@vS26/56/TTON_0380.",
+		"TextJPN": "「…一体何の話だい？　…園崎さんは知ってますか？　…そのナントカ様の話」",
+		"NamesENG": "Tonegawa",
+		"TextENG": "``...What are you talking about? ...Sonozaki-san, do you know? ...I'm clueless here.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155859,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_0820.",
+		"TextJPN": "「いちおー小学校で習いましたからねぇ…。…ま、とりあえずは」",
+		"NamesENG": "Mion",
+		"TextENG": "``I first learned about it in elementary school... ...Well, first of all.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155860,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0270.",
+		"TextJPN": "「オヤシロさまはこの雛見沢の守り神さまの名前なんですよ。地元の人間なら誰でも知っています」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Oyashiro-sama is the name of the guardian deity of Hinamizawa. Every local here must know about it.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155861,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0310.",
+		"TextJPN": "「もうオヤシロさまの話は聞き飽きましたよ！　まだ聞かせる気ですかッ！　あの下らない話をッ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``I'm tired of hearing this story about Oyashiro-sama! Are you still going to tell it? That stupid story!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155862,
+		"NamesJPN": "利根川",
+		"PreTextTags": "@vS26/56/TTON_0390.",
+		"TextJPN": "「…話？」",
+		"NamesENG": "Tonegawa",
+		"TextENG": "``...Story?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155863,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_0650.",
+		"TextJPN": "「…オヤシロさまのお伽話よ。…雛見沢を汚そうとするとね…」",
+		"NamesENG": "Rika",
+		"TextENG": "``...The fairy tale of Oyashiro-sama. ...That if you try to pollute Hinamizawa...``"
+	},
+	{
+		"type": "LOGSET",
+		"NamesJPN": "魅音＆梨花",
+		"PreTextTags": "@o75.@vS26/52/TRIK_0660|S26/53/TMIO_0830.",
+		"TextJPN": "「「……………………祟るの」」",
+		"NamesENG": "Mion & Rika",
+		"TextENG": "\\\"\\\"Curse will...\\\"\\\""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155864,
+		"TextJPN": "遠雷。@k@r雨の音が少し強くなる。@k@rしばしの沈黙。",
+		"TextENG": "Distant thunder.@k@rThe sound of the rain becomes strong.@k@rA brief silence."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155865,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0320.",
+		"TextJPN": "「馬鹿な話ですよッ！　…どこの郷里にだってその手の話のひとつやふたつあるもんです！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``That's just a stupid story! ...There's always a story or two like that in anyone's hometown!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155866,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0280.",
+		"TextJPN": "「そうです。祟る神様の伝承は日本各地、数え出したらきりがない。…でもこのオヤシロさまの祟りは他のそれとはまったく異なっています」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``You're right about that. There are folklore's about gods' curses all over Japan, the number is infinite. ...But, the curse of Oyashiro-sama is completely different from the rest of them.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155867,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_0670.",
+		"TextJPN": "「………本当に祟るのよ」",
+		"NamesENG": "Rika",
+		"TextENG": "``.........You really can be cursed.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155868,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_0840.",
+		"TextJPN": "「……ははは、はははははは！　…まっさかー！　今時、祟りなんて流行んないですよー！　梨花さんも脅し過ぎですってばー」",
+		"NamesENG": "Mion",
+		"TextENG": "``......Ha ha ha, ha ha ha ha ha ha! ...No way! These days curses aren't the most trendy of things! You're scaring us too much, Rika!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155869,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0290.",
+		"TextJPN": "「……魅音ちゃんは知らないみたいだね。…いや。…無理もないよ。その全てが新聞で取り上げられたわけじゃないから」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``......Mion-chan, it doesn't seem like you know much. ...No. ...That's understandable. Since it hasn't been addressed in the newspapers.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155870,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0300.",
+		"TextJPN": "「……具体的数字を挙げよう。…４人だ。………すでに建設省の職員が４人、………亡くなってるんだよ」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``......I'll give a concrete number. ...Four people. .........Four employees from the Ministry of Construction......... have already died.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155871,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_0680.",
+		"TextJPN": "「尋常じゃない死に方でね」",
+		"NamesENG": "Rika",
+		"TextENG": "``Their deaths were not ordinary.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155872,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0330.",
+		"TextJPN": "「馬鹿馬鹿しいッ！　偶然にも不幸が重なる事はあります！　…いいですか！？　我々は常にどこかしらのダム計画に関係しています」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``That's ridiculous! It was just was a coincidence of misfortunes that happened one after another! ...Listen me, okay!? We are always connected to the dam project no matter where we are.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155873,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0340.",
+		"TextJPN": "「公務中に倒れる度にどこぞの祟りだなんて言われてたらたまったもんじゃないんですよッ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``So if someone dies on duty, you just say it was some curse every time. We don't need this!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155874,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0310.",
+		"TextJPN": "「常識的な死に方だったら私も妙なことは言い出しません。…ですが、彼らは普通じゃなかった」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``If they died in a common way, I wouldn't be saying such strange things. ...But, they didn't die normally.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155875,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_0850.",
+		"TextJPN": "「…普通じゃない…？」",
+		"NamesENG": "Mion",
+		"TextENG": "``...Not normally...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155876,
+		"NamesJPN": "利根川",
+		"PreTextTags": "@vS26/56/TTON_0400.",
+		"TextJPN": "「……去年の暮れの……近藤さんの事かい…？」",
+		"NamesENG": "Tonegawa",
+		"TextENG": "``......On the evening of last year...... wasn't it Kondo-san...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155877,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0350.",
+		"TextJPN": "「……あれは派手に新聞に載りましたからね」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``......That made quite a flashy fuss in the newspapers.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155878,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0320.",
+		"TextJPN": "「昨年の１１月２０日。……寝ていた家族を次々と襲い、自らも喉を掻き切って死ぬという凄惨な事件が発生しました」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Last year on November 20th. ......A man stabbed his family to death one after another using a kitchen knife while they were sleeping. As for himself, he slit his own throat and died, what a tragic incident.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155879,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0330.",
+		"TextJPN": "「…男の名は@bこんどうよしゆき.@<近藤義幸@>。…建設省河川局開発課の職員です」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...The man's name was Kondo Yoshiyuki. ...He was an employee of the Ministry of Construction River Bureau Development Division.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155880,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_0690.",
+		"TextJPN": "「彼は雛見沢ダム計画の初期のスタッフで、雛見沢には何度も訪れていた」",
+		"NamesENG": "Rika",
+		"TextENG": "``Since he was part of the initial staff of the Hinamizawa dam project, he visited Hinamizawa many times.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155881,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_0860.",
+		"TextJPN": "「……無理心中ってヤツですか…？」",
+		"NamesENG": "Mion",
+		"TextENG": "``Is that what you call a forced suicide?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155882,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0340.",
+		"TextJPN": "「最終的にはね。そういう事で落ち着いたよ。…でもね、警察がいくら調べても心中しなくてはならない理由を見つける事はできなかったんだ」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Maybe. All these thing began to settle down. ...But you know, no matter how much the police looked into it, they couldn't find any reason why they had to commit suicide.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155883,
+		"NamesJPN": "利根川",
+		"PreTextTags": "@vS26/56/TTON_0410.",
+		"TextJPN": "「…クスリの類に手を出したんじゃないか、なんて噂が流れたのを覚えてる」",
+		"NamesENG": "Tonegawa",
+		"TextENG": "``...Could he have used some kind of drug, I remember that was one of the rumors.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155884,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0350.",
+		"TextJPN": "「検死の結果、薬物の反応は一切検出されなかったそうです。事件当時の彼のスケジュールは過密で、警察では過労による発作的な凶行と断定しました」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``As for the result of the autopsy, it was reported that they couldn't detect any trace of drugs. His schedule at the time of the incident was overcrowded, so the police concluded that this sporadic act of violence was due to overworking.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155885,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0360.",
+		"TextJPN": "「…悲惨な出来事だったとは思うよ。確かに普通じゃない！　…だからと言ってすぐにオヤシロさまの祟りと結びつけるのはあまりに短絡的だッ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``...I do think that this was a tragic incident. Surely it wasn't normal! However, it's too simplistic to immediately relate it to the curse of Oyashiro-sama!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155886,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0360.",
+		"TextJPN": "「…まったくです。…この事件ひとつだけなら、私も短絡的に祟りなんかと結びつけたりはしない」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...You're right about that. ...If the incident only happened once that is, then I wouldn't simplistically relate it to things like curses.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155887,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_0870.",
+		"TextJPN": "「…他にもあるんですか。…そーいうの…」",
+		"NamesENG": "Mion",
+		"TextENG": "``...So there were others. ...If I understand correctly...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155888,
+		"NamesJPN": "利根川",
+		"PreTextTags": "@vS26/56/TTON_0420.",
+		"TextJPN": "「そう言えば吉村さん、職員が４人死んだと言いましたよね。…でも、私は近藤さんのこと以外は一切聞いていませんよ」",
+		"NamesENG": "Tonegawa",
+		"TextENG": "``Yoshimura-san, that reminds me, you said there were four employees who died. ...But, I haven't heard of anyone else other than Kondo-san.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155889,
+		"NamesJPN": "利根川",
+		"PreTextTags": "@vS26/56/TTON_0430.",
+		"TextJPN": "「職員が亡くなったら絶対に回書が回るはずだ。…なぁ荒川君！」",
+		"NamesENG": "Tonegawa",
+		"TextENG": "``If any other personnel died, we would have definitely received reports about it. ...Right, Arakawa-kun?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155890,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0370.",
+		"TextJPN": "「…失礼ですが、利根川さんはこの４月の異動ですか？」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...Excuse me, but didn't you transfer in this April, Tonegawa-san?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155891,
+		"NamesJPN": "利根川",
+		"PreTextTags": "@vS26/56/TTON_0440.",
+		"TextJPN": "「え…えぇ！　４月までは砂防部の傾斜地保全課におりました」",
+		"NamesENG": "Tonegawa",
+		"TextENG": "``Eh... yeah! Until April, I was in the Slope Conservation Division of Erosion Control Department.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155892,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_0700.",
+		"TextJPN": "「……隠されてるのよ。……もっと死んでるわ」",
+		"NamesENG": "Rika",
+		"TextENG": "``......They're covering it up. ......There's more dead.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155893,
+		"NamesJPN": "利根川",
+		"PreTextTags": "@vS26/56/TTON_0450.",
+		"TextJPN": "「あ、荒川君！？　本当かい！？」",
+		"NamesENG": "Tonegawa",
+		"TextENG": "``A-Arakawa-Kun!? Is that true!?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155894,
+		"TextJPN": "苦い顔をして俯く荒川。@k@r利根川は何が何やらわからない。",
+		"TextENG": "Arakawa looks down with a bitter face.@k@rTonegawa cannot tell what is going on."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155895,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0380.",
+		"TextJPN": "「彼の事件直後から雛見沢ダムの担当者の間にある噂が流れ始めました」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Immediately after that incident, a rumor surrounding the person in charge of the Hinamizawa dam started to rise.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155896,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0390.",
+		"TextJPN": "「その噂は事件の前から囁かれていましたが、少なくとも事件が起きるまではただのお伽話に過ぎませんでした」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Although this rumor was spread before the incident even happened, but until the incident occurred, it was just a fairy tale.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155897,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_0880.",
+		"TextJPN": "「…お伽話って、…ひょっとして」",
+		"NamesENG": "Mion",
+		"TextENG": "``...That fairy tale... could it be.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155898,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_0710.",
+		"TextJPN": "「そう。……オヤシロさまの…祟り」",
+		"NamesENG": "Rika",
+		"TextENG": "``Yes. ...... Oyashiro-sama's... curse.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155899,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0370.",
+		"TextJPN": "「やめて下さいよッ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``Please stop it!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155900,
+		"NamesJPN": "利根川",
+		"PreTextTags": "@vS26/56/TTON_0460.",
+		"TextJPN": "「…どんな話なんですか。その、…オヤシロさまのお伽話と言うのは」",
+		"NamesENG": "Tonegawa",
+		"TextENG": "``...What does the story say... I mean... Oyashiro-sama's fairy tale.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155901,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0380.",
+		"TextJPN": "「つまらない話ですよッ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``It's just a boring story!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155902,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_0720.",
+		"TextJPN": "「…昔々、…貧しい老夫婦と３人の息子たちが住んでたわ」",
+		"NamesENG": "Rika",
+		"TextENG": "``...Once upon a time... there lived a poor elderly couple and their three sons.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155903,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_0730.",
+		"TextJPN": "「…畑仕事が嫌いで贅沢な暮らしに憧れる３人の息子はね、ある日、両親も先祖代々の畑も捨てて都へ旅立ってしまうの」",
+		"NamesENG": "Rika",
+		"TextENG": "``...The three sons hated life on the fields, and yearned for a luxurious life. Then one day, they left their parents and the fields of their ancestors, and left for the capital.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155904,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_0890.",
+		"TextJPN": "「一度に３人も逃げられたんだからねぇ。…ま、そんなわけでお爺さんもお婆さんも頑張って２人だけでご先祖さまの土地を守っていくんだけどー、…駄目なんだよね」",
+		"NamesENG": "Mion",
+		"TextENG": "``All three men ran away at once. ...Well, because of that, the old man and woman decided to work hard and do their best to protect their ancestors land with only two people.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155905,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_0900.",
+		"TextJPN": "「…結局ある日、倒れて２人とも寝込んでしまう」",
+		"NamesENG": "Mion",
+		"TextENG": "``...However, it was no use. ...Because eventually one day, both of them collapsed and were forced to stay in bed from there on.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155906,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_0740.",
+		"TextJPN": "「先祖の畑を守る為にはどうしても息子たちの力がいる。…老夫婦はオヤシロさまに祈ったの。…どうか息子たちに帰ってくるようにお伝え下さい。…ってね」",
+		"NamesENG": "Rika",
+		"TextENG": "``In order to protect their ancestors fields, they surely needed help from their sons. ...So the elderly couple prayed to Oyashiro-sama. ...'Please tell our sons to come home'.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155907,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0400.",
+		"TextJPN": "「…オヤシロさまはまず長男のもとへ行った。…そして夢枕に立ってね。故郷に帰るように諭したんだ。…だが都の華やかな暮らしに染まった長男は頑として拒んだ」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...Oyashiro-sama visited the eldest son first. ...Appeared in his dream. And Admonished him to return home. ...However, the eldest son was already stained with the glamorous life of the capital and stubbornly refused.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155908,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_0750.",
+		"TextJPN": "「オヤシロさまは七日七晩、長男の夢枕に立ったわ。…でも長男は雛見沢に帰ろうとはしなかった」",
+		"NamesENG": "Rika",
+		"TextENG": "``Then, Oyashiro-sama for seven nights appeared to the eldest son in his dreams. ...But, the eldest son still had no intention of returning home to Hinamizawa.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155909,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_0910.",
+		"TextJPN": "「毎晩、枕元立たれるのはキツいですよねー。…単なる嫌がらせの領域ですよ」",
+		"NamesENG": "Mion",
+		"TextENG": "``Every night, just standing beside his bed must have been tough. ...That kind of behaviour is just harassment.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155910,
+		"NamesJPN": "利根川",
+		"PreTextTags": "@vS26/56/TTON_0470.",
+		"TextJPN": "「……それで？」",
+		"NamesENG": "Tonegawa",
+		"TextENG": "``......And then what happened?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155911,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0390.",
+		"TextJPN": "「結局、長男は祟りで死んでしまうんですよッ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``In the end, the eldest son was killed by the curse!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155912,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_0760.",
+		"TextJPN": "「次にオヤシロさまは次男の夢枕に立ったわ。…でも次男も帰ろうとはしなかった」",
+		"NamesENG": "Rika",
+		"TextENG": "``Next, Oyashiro-sama appeared in the second son's dreams. ...But the second son didn't plan on returning home either.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155913,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0400.",
+		"TextJPN": "「次男も同様ッ！　七日目におかしくなって死んでしまうんですッ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``The second son was the same! He became strange and died on the seventh day!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155914,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0410.",
+		"TextJPN": "「兄たちの変死に怖くなってね。三男は逃げるように帰るんだよ。…そして３人で力を合わせて畑を守っていったんだとさ。…おしまい」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Then, becoming scared about the unnatural deaths of his older brothers, the third son choose to escape and return home. And then the three people united their strength to protect their fields. ...The end.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155915,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0420.",
+		"TextJPN": "「郷に生まれた者は郷に生き、郷に死ぬことを良しとする風習を伝えたお伽話だと考えられています。…そういう風習自体はそんなに珍しいものじゃない」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``The people born in the village should live in the village, so it's thought this fairy tale is told to tell us a custom that people born in the village... should live and die in the village. ...That custom itself isn't so rare.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155916,
+		"NamesJPN": "利根川",
+		"PreTextTags": "@vS26/56/TTON_0480.",
+		"TextJPN": "「…別に…近藤さんはここの出身だったわけじゃないでしょう？」",
+		"NamesENG": "Tonegawa",
+		"TextENG": "``...Apart from that... Kondo-san wasn't from this place, am I right?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155917,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0430.",
+		"TextJPN": "「えぇ違いますよ。…要するにオヤシロさまって神様は、雛見沢から出て行こうとする人、よそから雛見沢に入って来ようとする人に厳しいんですよ」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Yeah, but it's not just that. ...In short, the god Oyashiro-sama told the people they are not to leave Hinamizawa... And is said to be severe on anyone going against that, and anyone trying to enter Hinamizawa from the outside.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155918,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0440.",
+		"TextJPN": "「…守り神さまですからね」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``...He is also considered a guardian deity.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155919,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0410.",
+		"TextJPN": "「ダム反対派の老人たちが揃いも揃ってこの話をするもんなんで！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``Do you know why every elderly person and the dam opposition talk about this thing?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155920,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0420.",
+		"TextJPN": "「…みんな面白がっていましたよ。…この近代社会で、まだこんなお伽話を聞けるとは思いませんでしたから！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``...At first, everyone was just amused. ...Because we live in a modern society, they didn't think they would hear such a fairy tale!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155921,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0450.",
+		"TextJPN": "「そう。お伽話だったんです。…事件が起きるまではね」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``Yes. It was just a fairy tale. ...Until that incident happened.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155922,
+		"TextJPN": "遠くで雷鳴。@k@r相変わらず土砂降りの雨。@k@rしばらくの沈黙。",
+		"TextENG": "The sound of thunder in the distance.@k@rThe usual downpour of the rain.@k@rA brief silence."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155923,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0430.",
+		"TextJPN": "「最初に言ったのは誰か忘れました。…ここんところ眠れなくて辛いって言うんですよ。…寝ようとすると落ち着かなくなって起きてしまうって！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``I forgot to tell you this. ...He had always said it's been difficult to sleep recently. ...And that he always became restless if he tried to go asleep!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155924,
+		"NamesJPN": "利根川",
+		"PreTextTags": "@vS26/56/TTON_0490.",
+		"TextJPN": "「…過労だよ」",
+		"NamesENG": "Tonegawa",
+		"TextENG": "``...It must have been from overworking.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155925,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0440.",
+		"TextJPN": "「その内、誰かが言い出したんです。寝ようとすると何かの気配を感じる。灯りを付けて探すんだが誰もいない。…でも再び灯りを消すと確かに気配を感じるんだってッ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``One day, people started to talk. That he felt the presence of someone when he tried to sleep. He switched the light on and looked around, but found nobody. ...However, he sensed its presence again when he turned off the lights!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155926,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0450.",
+		"TextJPN": "「…みんなは面白がってそれをオヤシロさまの祟りだと囃し立てました。オヤシロさまが夢枕に立ってるんだ、って言って！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``...Everyone jeered in amusement when he said it was the curse of Oyashiro-sama. Oyashiro-sama appears in his dreams, they said!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155927,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0460.",
+		"TextJPN": "「…今思うと、最初に不眠の事を訴えたのは近藤さんだったように思います。…近藤さんは……事件の直前には笑い事じゃない状況になってました」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``...When I think about it, Kondo-san was the first one to complain about insomnia. ...Kondo-san's situation was not a laughing matter just before the incident.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155928,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0470.",
+		"TextJPN": "「…………“いる”って言うんですよ」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``............'It exists' he said.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155929,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0480.",
+		"TextJPN": "「…毎晩、寝ようとすると…“いる”ってッ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``...Every night, when he tried to sleep... 'It's there' he said!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155930,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS26/53/TMIO_0920.",
+		"TextJPN": "「…“いる”って……、……はは……ヤダなぁ……」",
+		"NamesENG": "Mion",
+		"TextENG": "``...'It's there' he said...... ......ha ha...... no way......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155931,
+		"NamesJPN": "吉村",
+		"PreTextTags": "@vS26/54/TYOS_0460.",
+		"TextJPN": "「そして事件が起こった。…その時、お伽話はもはや単なる笑い話ではありませんでした」",
+		"NamesENG": "Yoshimura",
+		"TextENG": "``And then that incident happened. ...At that time, the fairy tale was no longer just a funny story.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155932,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0490.",
+		"TextJPN": "「その後しばらく、職場はオバケ屋敷状態でしたよッ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``Then for some time, our workplace became a haunted house!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155933,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0500.",
+		"TextJPN": "「…仮眠室で怪しい気配を感じた！　深夜まで残業をしていたら背後に“誰か”が立った！　電車の中まで“何か”が付いて来たッ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``...Anyone could feel a suspicious breeze in the nap room! And whenever one of us worked overtime until midnight, 'someone' was standing behind them! Even on a train, 'something' was following them!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155934,
+		"NamesJPN": "荒川",
+		"PreTextTags": "@vS26/55/TARA_0510.",
+		"TextJPN": "「…馬鹿馬鹿しいにも程があるッ！」",
+		"NamesENG": "Arakawa",
+		"TextENG": "``...It's beyond ridiculous!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 155935,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS26/52/TRIK_0770.",
+		"TextJPN": "「馬鹿馬鹿しくなんかない。…“いる”んだもの。…オヤシロさまは」",
+		"NamesENG": "Rika",
+		"TextENG": "``It's not ridiculous. ...Because, 'it exists'. Oyashiro-sama exists.``"
+	}
+]

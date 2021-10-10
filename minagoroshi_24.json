@@ -1,1426 +1,1424 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "#24 惨劇の翌日",
-            "ENG": "#24 / The Day After the Tragedy"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107399,
-            "TextJPN": "綿流しの翌日。@k大石が学校にやって来た。",
-            "TextENG": "The day after Watanagashi.@k Ooishi showed up at our school."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107400,
-            "TextJPN": "大石がこの日に学校にやって来ることは、実は結構多い。",
-            "TextENG": "It isn't uncommon for Ooishi to show up here today."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107401,
-            "TextJPN": "そして皮肉にも、その世界のキーパーソンを呼ぶのだ。",
-            "TextENG": "Interestingly, he always asks to see the most key person in that world."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107402,
-            "TextJPN": "圭一が発症する世界では圭一を。",
-            "TextENG": "He asks for Keiichi in the world where he gets sick."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107403,
-            "TextJPN": "レナが発症する世界ではレナを。",
-            "TextENG": "He asks for Rena in the world where she gets sick."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107404,
-            "TextJPN": "そして、この世界では大石は私を呼んだ。",
-            "TextENG": "In this world, he asked for me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107405,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/280500070.",
-            "TextJPN": "「………富竹が、…死にましたか…」",
-            "NamesENG": "Rika",
-            "TextENG": "``.........Did Tomitake... really die...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107406,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700077.",
-            "TextJPN": "「えぇ。@k@vS12/11/280700078.……ちょっと尋常じゃない死に方でしてね。@k@vS12/11/280700079.薬物か何かで錯乱状態だったんじゃないかと思います。@k@vS12/11/280700080.自分で自分の喉を掻き破るというショッキングな亡くなり方でした」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Yeah.@k@vS12/11/280700078. ...The way he went was pretty strange, too.@k@vS12/11/280700079. Like he was on drugs and hallucinating.@k@vS12/11/280700080. He clawed out his own throat until he died.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107407,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/280500071.",
-            "TextJPN": "「……やはり抗えないのか」",
-            "NamesENG": "Rika",
-            "TextENG": "``...I couldn't prevent it.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107408,
-            "TextJPN": "どうにもならない。",
-            "TextENG": "There's nothing I can do now."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107409,
-            "TextJPN": "わかってはいたことだった。@k…恐らく鷹野もだろう。",
-            "TextENG": "I knew this was going to happen.@k I'm sure Takano is dead too..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107410,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/280500072.",
-            "TextJPN": "「……鷹野は？」",
-            "NamesENG": "Rika",
-            "TextENG": "``......And Takano?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107411,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700081.",
-            "TextJPN": "「彼女についても残念なご連絡があります。@k@vS12/11/280700082.隣の県の山中で焼死体で発見されました。@k@vS12/11/280700083.死体の状況から、多分、絞殺された後に焼かれたんじゃないかと思っているのですが。@k@vS12/11/280700084.どちらにせよ気の毒な話です」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``I have bad news about her too.@k@vS12/11/280700082. She was found burned to death in the mountains over in Gifu Prefecture.@k@vS12/11/280700083. Based on the condition of the body, she was choked to death before her body was burned.@k@vS12/11/280700084. It's a tragic story no matter how you look at it.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107412,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/280500073.",
-            "TextJPN": "「……大石の考えはわかってますです。@k@vS12/05/280500074.ボクが何か知っていると思っているんでしょう」",
-            "NamesENG": "Rika",
-            "TextENG": "``......I know what you're thinking.@k@vS12/05/280500074. You think I know something about what happened to them.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107413,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700085.",
-            "TextJPN": "「いやいやまさかまさか。@k@vS12/11/280700086.疑うとしたらこの一点だけです。@k@vS12/11/280700087.あの人ごみの中で、小耳に挟めるようなところでこんな物騒な話をする人がいるわけがない」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Heavens, no.@k@vS12/11/280700086. I only have one question.@k@vS12/11/280700087. Who would talk about such a disturbing plan at the festival where anyone could hear...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107414,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/280500075.",
-            "TextJPN": "「……ボクが、何かの陰謀の片棒を担いでると思っていますですか」",
-            "NamesENG": "Rika",
-            "TextENG": "``...You think, I'm involved in this murder?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107415,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700088.",
-            "TextJPN": "「と、思い込みたいところですが、それも引っ込めました」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Well, I wanted to suspect you, but I don't."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107416,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700089.",
-            "TextJPN": "「……本当にその気なら、あなたは私にあんな入れ知恵をすることはなかったんですからね。@k@vS12/11/280700090.少なくとも、今回の事件を起こそうと考えた何者かとは相対する位置にいると思ってます」",
-            "NamesENG": "Ooishi",
-            "TextENG": "If you were responsible in some way, you wouldn't have given me the hints you did.@k@vS12/11/280700090. At the very least, I'm sure you're not involved with the people who killed them.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107417,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/280500076.",
-            "TextJPN": "「……それが本当ならとても嬉しいのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``......I'm glad you're not suspicious of me.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107418,
-            "TextJPN": "大石は賽銭箱に１０円を放り込むと、ガランガランと鳴らしてから言った。",
-            "TextENG": "Ooishi threw a ten-yen coin into the offering box, and shook the bell in prayer."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107419,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700091.",
-            "TextJPN": "「どうか今年こそ、雛見沢村連続怪死事件を終わらせられますように！」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Please let us solve the mystery of Hinamizawa this year!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107420,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/280500077.",
-            "TextJPN": "「……そのためにボクに協力しろと？」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Are you trying to get me involved in your investigation?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107421,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700092.",
-            "TextJPN": "「なっはっはっは。@k@vS12/11/280700093.今のはオヤシロさまにお願いしたんですよ？」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Na ha ha ha...@k@vS12/11/280700093. I was just talking to Oyashiro-sama.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107422,
-            "TextJPN": "私がオヤシロさまの生まれ変わりと呼ばれているのは大石も知っている。",
-            "TextENG": "Ooishi is well aware that people call me the reincarnation of Oyashiro-sama."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107423,
-            "TextJPN": "…大石ギャグということにしておこう。",
-            "TextENG": "...That must have been his attempt at a joke."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107424,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/280500078.",
-            "TextJPN": "「……ボクも、こんな祟りはもう金輪際にしてほしいと思っていますです」",
-            "NamesENG": "Rika",
-            "TextENG": "``...I'd like to see the curse disappear forever too.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107425,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700094.",
-            "TextJPN": "「おや、なら古手さんと私の求めるところは一致するようですねぇ」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Oh, that means we both want the same thing.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107426,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/280500079.",
-            "TextJPN": "「……ボクは昨日、富竹の死体が見付かりそうなところを予言しましたです。@k@vS12/05/280500080.そこにパトカーはいなかったのですか？」",
-            "NamesENG": "Rika",
-            "TextENG": "``......I made a prediction about where you might find Tomitake's body.@k@vS12/05/280500080. Didn't you have a police cruiser nearby?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107427,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700095.",
-            "TextJPN": "「いいえ、ちゃんと巫女さまの予言に従って配置しました」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Yeah, I listened to your prediction, and had a cruiser patrol the area."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107428,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700096.",
-            "TextJPN": "「ほら、舗装道路と砂利道の境目になってる辺りがあるじゃないですか。@k@vS12/11/280700097.通称、村境とか呼ばれてる辺りです。@k@vS12/11/280700098.あそこら辺はとても暗いですからね。@k@vS12/11/280700099.何かヤバイことの起こりそうな臭いが一番ぷんぷんする辺りです」",
-            "NamesENG": "Ooishi",
-            "TextENG": "The place where the concrete and gravel roads meet...@k@vS12/11/280700097. It's on the very border of the village.@k@vS12/11/280700098. It gets very dark there at night.@k@vS12/11/280700099. It always seems like if something bad were to happen, it could happen there.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107429,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/280500081.",
-            "TextJPN": "「…………では、富竹の死体はどこで？」",
-            "NamesENG": "Rika",
-            "TextENG": "``.........So where did you find Tomitake's body?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107430,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700100.",
-            "TextJPN": "「配置場所よりももっとずっと興宮寄りの水田地帯の路肩です」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``We found him dead by the rice fields near Okinomiya.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107431,
-            "TextJPN": "…毎回見付かる富竹の死体の場所と違う。",
-            "TextENG": "That's not where his body is usually found..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107432,
-            "TextJPN": "富竹があの場所で錯乱するのが運命なのだとしたら、たとえパトカーがいようといなかろうと同じ場所で錯乱する。",
-            "TextENG": "If he was fated to hallucinate and die, he would die in exactly the same spot, whether the cruiser was there or not."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107433,
-            "TextJPN": "それが、その場所に予めパトカーが配置されているだけで、@k不変と思われた富竹の死に場所が変わるということは、……パトカーを嫌う意思が運命に介在した証拠だ。",
-            "TextENG": "Just because the cruiser was placed there...@k Tomitake's body was found in a totally different spot. ...In other words, the existence of the police cruiser disrupted that fate."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107434,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700101.",
-            "TextJPN": "「でですねぇ。@k@vS12/11/280700102.ここからがちょいと面白い話になります。@k@vS12/11/280700103.……パトにはですね、私、通る車もチェックさせたんです。@k@vS12/11/280700104.そしたら、鷹野の車が祭りの終わった後、興宮方向へ通過したんですよ」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Anyway.@k@vS12/11/280700102. There's something else I found very interesting.@k@vS12/11/280700103. ...I told the officers in the police cruiser to check every vehicle that passed by.@k@vS12/11/280700104. As it turns out, one of the cars that headed toward Okinomiya after the festival was over was Takano's.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107435,
-            "TextJPN": "鷹野の住まいは興宮にある。",
-            "TextENG": "Takano lives in Okinomiya."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107436,
-            "TextJPN": "祭りが終わった後に帰宅するのは珍しいことではない。",
-            "TextENG": "It wouldn't be strange for her to head back home after the festival."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107437,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700105.",
-            "TextJPN": "「ただ、乗ってたのは１人だったんです。@k@vS12/11/280700106.富竹は乗っていなかった」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``However, she was the only one inside the car.@k@vS12/11/280700106. Tomitake wasn't with her.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107438,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/280500082.",
-            "TextJPN": "「……富竹は雛見沢にはいつも自転車で来ますから、」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Tomitake always comes to Hinamizawa on his bike.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107439,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700107.",
-            "TextJPN": "「なら自転車をトランクに積んで車に乗せてもらうのが普通じゃありませんか。@k@vS12/11/280700108.ですが、富竹は一緒じゃなかった。@k@vS12/11/280700109.…にも拘らず、富竹の死体は雛見沢からパトを越えて、興宮の方の水田地帯で見付かる」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Then she could've loaded his bike in the trunk and given him a ride.@k@vS12/11/280700108. But he was not with her.@k@vS12/11/280700109. However, his body was found among the rice fields near Okinomiya, past where the police cruiser was patrolling in Hinamizawa...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107440,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/280500083.",
-            "TextJPN": "「………………つまり…？」",
-            "NamesENG": "Rika",
-            "TextENG": "``............What are you saying...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107441,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700110.",
-            "TextJPN": "「あの真っ暗な中、森の中を突き進んでパトを迂回したなんてできる芸当ではありません。@k@vS12/11/280700111.だとしたら、パトに気付かれずに街道を抜けるしか考えられない」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``There's no way he could have biked through the dark woods to avoid the police cruiser.@k@vS12/11/280700111. He somehow took the road without being noticed by us."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107442,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700112.",
-            "TextJPN": "「…………古手さん。@k@vS12/11/280700113.鷹野とホトケの関係について教えていただけませんか」",
-            "NamesENG": "Ooishi",
-            "TextENG": ".........Furude-san.@k@vS12/11/280700113. Can you tell me what you know about the relationship between Tomitake and Takano?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107443,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/280500084.",
-            "TextJPN": "「……………恋人同士。@k@vS12/05/280500085.……それしか知らないです」",
-            "NamesENG": "Rika",
-            "TextENG": "``.........They're dating.@k@vS12/05/280500085. ...That's all I know.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107444,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700114.",
-            "TextJPN": "「鷹野がね、恋人との最後の夜の逢瀬を１人で帰るというのが腑に落ちないんです。@k@vS12/11/280700115.富竹はその時、トランクの中に詰められていて、あの真っ暗な森の中に捨てようとした」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``I find it hard to believe that Takano would drive back home alone in the dark without her boyfriend.@k@vS12/11/280700115. What if she had Tomitake in her trunk, and she was planning to dump his body in the woods..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107445,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700116.",
-            "TextJPN": "「だが、お告げのパトカーがたまたまそこにいちゃったもんで、仕方なくそこを通り抜け、@k@vS12/11/280700117.もっと先で富竹を捨てた」",
-            "NamesENG": "Ooishi",
-            "TextENG": "but because the cruiser was in that area, she had no choice but to pass by...@k@vS12/11/280700117. and dump him on the side of the road.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107446,
-            "TextJPN": "富竹と鷹野は恋人同士である以前に、東京から派遣されている人間だ。",
-            "TextENG": "Both Tomitake and Takano were sent here from Tokyo."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107447,
-            "TextJPN": "彼らの本当の正体が何者であるかなんて、私だって知らない。",
-            "TextENG": "I have no idea what their real identities are."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107448,
-            "TextJPN": "だから、鷹野に富竹を殺す理由が絶対にないなんて私にだって断言できなかった。",
-            "TextENG": "I can't say that Takano had no reason to kill Tomitake."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107449,
-            "TextJPN": "そしてそれは、……今までに一度も考えたことのないことだった。",
-            "TextENG": "However... I've never considered that possibility before in my life..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107450,
-            "TextJPN": "鷹野が富竹を殺す……？@k　…どうして？？",
-            "TextENG": "Takano killing Tomitake...?@k ...But why??"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107451,
-            "TextJPN": "理由が何も思いつかない。",
-            "TextENG": "I can't think of any reason."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107452,
-            "TextJPN": "心当たりもないし、@k殺さなきゃならないほど鷹野が追い詰められるなんて考えられない。",
-            "TextENG": "Nothing comes to mind,@k and it's hard to imagine Takano was cornered to the point she had to kill him."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107453,
-            "TextJPN": "…むしろ逆で、恋に狂った富竹が冷たくされた事に逆上して首を絞める方がありえそうなくらいだ。",
-            "TextENG": "...In fact, it was more plausible to think she was enraged when the lovesick Tomitake acted cold towards her, and she strangled his neck."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107454,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700118.",
-            "TextJPN": "「私はあのカップル、どことなく不釣合いだなぁってずっと思ってました。@k@vS12/11/280700119.…なっはっは、こう言っちゃあ富竹くんに失礼ですが、…鷹野さんでは荷が勝ちすぎてるんじゃないかなぁってずっと思ってました」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``I never really thought they suited each other.@k@vS12/11/280700119. ...Na ha ha, I don't mean to insult Tomitake-kun, but I thought Takano-san was way too smart for him."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107455,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700120.",
-            "TextJPN": "「鷹野が、富竹を何かに利用しようとして近付いていたとか、そういう話を村の中で聞いたことはありませんかねぇ…？」",
-            "NamesENG": "Ooishi",
-            "TextENG": "Have you heard of any rumors that she was trying to use him for anything...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107456,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/280500086.",
-            "TextJPN": "「……ないです。@k@vS12/05/280500087.でも、話は聞いてみようと思いますです。@k@vS12/05/280500088.何かわかったら大石にも知らせますです」",
-            "NamesENG": "Rika",
-            "TextENG": "``...None.@k@vS12/05/280500087. But I can ask around.@k@vS12/05/280500088. I'll let you know if I find out something.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107457,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700121.",
-            "TextJPN": "「ありがとうございます。@k@vS12/11/280700122.村の内部に詳しい方、それも御三家の頭首でオヤシロさまの生まれ変わりの協力がいただければ鬼に金棒ですよ」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Thank you very much.@k@vS12/11/280700122. I'm just glad that the reincarnation of Oyashiro-sama is on my side.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107458,
-            "TextJPN": "…その生まれ変わりが、こうして百年以上も挑んで勝てない運命か。",
-            "TextENG": "But even the reincarnation of Oyashiro-sama couldn't solve this mystery for over a hundred years..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107459,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/280500089.",
-            "TextJPN": "「……でも。@k@vS12/05/280500090.その鷹野も殺されたのですよ？@k@vS12/05/280500091.　どういうことなのですか」",
-            "NamesENG": "Rika",
-            "TextENG": "``But...@k@vS12/05/280500090. you said Takano was killed too...@k@vS12/05/280500091. How can she be the culprit?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107460,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700123.",
-            "TextJPN": "「私ゃ、もしあなたからタレコミ、おっと、お告げを聞いていなかったら。@k@vS12/11/280700124.多分きっと、富竹と鷹野はともに犠牲者で、オヤシロさまの祟りの５年目ってことになったんだろうと思い込んだと思います」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Well, it's because you leaked me the information, I mean, the prophecy.@k@vS12/11/280700124. Without that, I'm sure I would've just believed that both Takano and Tomitake were the victims of the fifth year's curse of Oyashiro-sama."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107461,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700125.",
-            "TextJPN": "「ですが、こうなってくるとどうも違う。@k@vS12/11/280700126.どうやらこいつぁ、オヤシロさまの祟りの５年目ってことにしようとした、巧妙な事件のように見えてきました」",
-            "NamesENG": "Ooishi",
-            "TextENG": "I feel like it's different this time.@k@vS12/11/280700126. Maybe as though this is someone trying to make the curse of Oyashiro-sama happen.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107462,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/280500092.",
-            "TextJPN": "「…………つまり、……鷹野が犯人…？」",
-            "NamesENG": "Rika",
-            "TextENG": "``.........So you really think... that Takano-san is the culprit...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107463,
-            "TextJPN": "大石が言わんとするのはわかる。",
-            "TextENG": "Basically, this is what Ooishi is trying to say."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107464,
-            "TextJPN": "二人とも犠牲者なんじゃない。",
-            "TextENG": "They're not both victims."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107465,
-            "TextJPN": "実は犠牲者と犯人で、犯人も犠牲になったふりをして逃れていると言いたいのだ。",
-            "TextENG": "The culprit is also pretending to be a victim."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107466,
-            "TextJPN": "自分で言ってて実感がない。",
-            "TextENG": "This is really hard for me to believe."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107467,
-            "TextJPN": "……鷹野がどうしてそんなことをするのか、まったくわからないからだ。",
-            "TextENG": "...I can't think of any reason why Takano would do something like this."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107468,
-            "TextJPN": "大石以上に内情を知っているからこそなおさらだった。",
-            "TextENG": "Ooishi only feels the way he does because he doesn't know her as well as I do."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107469,
-            "TextJPN": "でも、それでは鷹野の焼死体はどういうことになるのか。",
-            "TextENG": "For another thing, how can he explain that Takano's body was found?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107470,
-            "TextJPN": "隣の県警がしっかり調べたのではないのか？",
-            "TextENG": "Didn't the police in Gifu Prefecture identify the body?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107471,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700127.",
-            "TextJPN": "「焼死体の識別には歯型照合がもっとも有効だと言われています。@k@vS12/11/280700128.ただ、うちの鑑識のジジイが言うにはそれでも１００％じゃないと言う」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``For a charred corpse, the easiest way to identify them is by their dental records.@k@vS12/11/280700128. Although, according to the old man in forensics, they're still not 100% sure."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107472,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700129.",
-            "TextJPN": "「……まぁ、それよりおかしいのが現場の県警鑑識の死亡時刻なんです。@k@vS12/11/280700130.当初、死亡時刻が合わなかったらしいんです」",
-            "NamesENG": "Ooishi",
-            "TextENG": "...And besides, there's a contradiction with the estimated time of death.@k@vS12/11/280700130. It just doesn't make sense.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107473,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/280500093.",
-            "TextJPN": "「……死亡時刻が合わない？」",
-            "NamesENG": "Rika",
-            "TextENG": "``What do you mean......?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107474,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700131.",
-            "TextJPN": "「えぇ。@k@vS12/11/280700132.祭りの前夜にはもう殺されてたっていう鑑識が出ちゃったらしいんです。@k@vS12/11/280700133.内容物とかそういうのから調べるらしいですね」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Well...@k@vS12/11/280700132. The test results show that she was dead on the night before the festival.@k@vS12/11/280700133. Apparently they inspected the contents of her stomach and such.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107475,
-            "TextJPN": "……だが、この時点で大石は隣の県警の刑事に、鷹野のことを話していたのだという。",
-            "TextENG": "But at the time of testing, they already had information about Takano."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107476,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700135.",
-            "TextJPN": "「だからお隣の県警さん、綿流しの日に彼氏とデートしてたはずの死体が死後２４時間では話が合わないって言って、その鑑定結果を握り潰しちゃったらしい」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``They knew that she was at the festival that night, and realized that the test results didn't match up."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107477,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700136.",
-            "TextJPN": "「……死亡時刻の鑑定なんかより、死体の歯型鑑定の方がよっぽど精度が高いですからね。@k@vS12/11/280700137.まぁ、現場にはたまにある話です」",
-            "NamesENG": "Ooishi",
-            "TextENG": "So they just dumped the results and decided to take the dental records alone.@k@vS12/11/280700137. These things do happen every once in a while..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107478,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700138.",
-            "TextJPN": "「ですが、鷹野が犯人かもしれないって目で見てみると、こいつぁ、鷹野の死体じゃない可能性が出てきます」",
-            "NamesENG": "Ooishi",
-            "TextENG": "However, if Takano really is the culprit, this body might belong to someone else.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107479,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/280500094.",
-            "TextJPN": "「……死体を誤魔化すことなんて可能なのですか？」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Is it possible to do something like that?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107480,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700139.",
-            "TextJPN": "「焼死体の鑑定は基本的に歯型以外は絶望的です」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``When a body is burnt, dental records are the only way to identify it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107481,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700140.",
-            "TextJPN": "「たとえば、これは推理小説的な荒技ですが、興宮のデンタルクリニックに残されていた『鷹野三四』の歯型のカルテ、@k@vS12/11/280700141.これが、巧妙な手口で捏造されていたら、誤認もありえる」",
-            "NamesENG": "Ooishi",
-            "TextENG": "This might sound too much like a mystery novel, but what if, for example, someone faked Miyo Takano's dental records?@k@vS12/11/280700141. If they were skillfully forged, we could have the wrong ID."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107482,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700142.",
-            "TextJPN": "「……まぁ、そんなのは抜きにして、単純にお隣の県警さんが鷹野に間違いないと決め付けてしまった可能性の方が高いですが」",
-            "NamesENG": "Ooishi",
-            "TextENG": "...Anyway, the Gifu police department has made up their mind that the body belongs to Takano."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107483,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700143.",
-            "TextJPN": "「警察組織内では往々にして、初動時の鑑定ミスが後々まで尾を引くことが少なくない。@k@vS12/11/280700144.伝説的な冤罪事件のほとんどはこれに起因します」",
-            "NamesENG": "Ooishi",
-            "TextENG": "Within police departments, we sometimes have issues with false test results.@k@vS12/11/280700144. That's how most false charges are made."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107484,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700145.",
-            "TextJPN": "「………私ゃどうやら、その可能性が拭えない気がする」",
-            "NamesENG": "Ooishi",
-            "TextENG": "......It feels to me like this is one of those times.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107485,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/280500095.",
-            "TextJPN": "「……つまり、鷹野は生きてる？」",
-            "NamesENG": "Rika",
-            "TextENG": "``...So you think Takano is alive?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107486,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS12/11/280700146.",
-            "TextJPN": "「鷹野三四は先日以来、車ごと行方不明です。@k@vS12/11/280700147.現地の死体が鷹野でないなら、……これは何だか面白そうな話になってきます」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Since last night, both Miyo Takano and her car have gone missing.@k@vS12/11/280700147. If that body found in Gifu isn't Takano... this is going to be very interesting indeed.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107487,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/280500096.",
-            "TextJPN": "「……………………………」",
-            "NamesENG": "Rika",
-            "TextENG": "``................``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107488,
-            "TextJPN": "富竹たちの死については、もちろん入江の耳にも入っていた。",
-            "TextENG": "Irie had already heard about the deaths of Tomitake and Takano."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107489,
-            "TextJPN": "そして、入江が電話している様子を見る限り、東京も診療所も混乱しているように見えた。",
-            "TextENG": "It seemed like both the clinic and the office in Tokyo had flown into a panic over it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107490,
-            "TextJPN": "……自分たちの研究のためには人の命などどうとも思わないくせに、内部の人間の死には大騒ぎするのが何だか皮肉だった。",
-            "TextENG": "...It's funny how they make such a big fuss about their own people when they don't care about what happens to other people's lives if it would get in the way of their research."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107491,
-            "TextJPN": "そして部屋には、鷹野の部下の小此木の姿もあった。",
-            "TextENG": "Takano's subordinate, Okonogi, was in the room."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107492,
-            "TextJPN": "小此木は山狗の隊長だ。",
-            "TextENG": "Okonogi is the leader of the Mountain Dogs."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107493,
-            "TextJPN": "……この男が今も私の警護をしてくれているのかの確認が最大の目的だった。",
-            "TextENG": "I came here to make sure he's still willing to protect me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107494,
-            "TextJPN": "過去の場合、上司の鷹野が死ぬと、彼らは私に構わなくなってしまうことがほとんどだ。",
-            "TextENG": "Based on past experience, they tend to lose interest in protecting me after Takano dies."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107495,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/280500097.",
-            "TextJPN": "「……小此木。@k@vS12/05/280500098.鷹野が死んでしまいましたですが、ボクは大丈夫なのですか…？」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Okonogi.@k@vS12/05/280500098. Takano is dead, but am I still safe...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107496,
-            "NamesJPN": "小此木",
-            "PreTextTags": "@vS12/14/283400008.",
-            "TextJPN": "「大丈夫ですよ梨花さん。@k@vS12/14/283400009.我々が今後も厳重に警護してますんね。@k@vS12/14/283400010.…ですから、警察に頼ろうとしなくても問題ないです」",
-            "NamesENG": "Okonogi",
-            "TextENG": "``Don't worry Rika-san.@k@vS12/14/283400009. We'll still keep up the tight security around you.@k@vS12/14/283400010. You don't have to call the police.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107497,
-            "TextJPN": "…厳重に警護というのはこういう意味か。",
-            "TextENG": "...I guess this is part of that tight security?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107498,
-            "TextJPN": "私が大石と話していたことは彼らに聞かれていたようだった。",
-            "TextENG": "They must have been listening to my conversation with Ooishi."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107499,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/280500099.",
-            "TextJPN": "「……大石に聞きました。@k@vS12/05/280500100.鷹野が実は死んでいないというのは本当ですか？」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Ooishi told me something.@k@vS12/05/280500100. Is it true that Takano isn't really dead?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107500,
-            "NamesJPN": "小此木",
-            "PreTextTags": "@vS12/14/283400011.",
-            "TextJPN": "「まさか。@k@vS12/14/283400012.現地の県警の正式な発表ですんね」",
-            "NamesENG": "Okonogi",
-            "TextENG": "``That can't be true.@k@vS12/14/283400012. The Gifu police department made an official announcement."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107501,
-            "NamesJPN": "小此木",
-            "PreTextTags": "@vS12/14/283400013.",
-            "TextJPN": "「大石という刑事は今年で定年、オヤシロさまの祟りを何とか解決したい一心で、何でも話をおかしくしようとするクセがありよります。@k@vS12/14/283400014.あいつの言うことに耳を貸さん方がいいでしょう」",
-            "NamesENG": "Okonogi",
-            "TextENG": "That Ooishi is retiring this year, isn't he? Sometimes he makes up stories because he's desperate to solve the curse of Oyashiro-sama.@k@vS12/14/283400014. You shouldn't pay attention to anything he says.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107502,
-            "TextJPN": "…確かにそれは言うとおりだった。",
-            "TextENG": "...Well, he's not wrong."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107503,
-            "TextJPN": "昭和５８年の大石は定年前のラストチャンス。",
-            "TextENG": "This year is Ooishi's last chance."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107504,
-            "TextJPN": "溺れる者は藁をも掴むの故事どおり、どんなデマにも飛びつく悪癖があった。",
-            "TextENG": "Because he's so desperate, he's developed a bad habit of listening to every rumor he hears."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107505,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/280500101.",
-            "TextJPN": "「……では、小此木はこの事件をどう見ていますですか…？」",
-            "NamesENG": "Rika",
-            "TextENG": "``......What's your opinion about this, Okonogi?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107506,
-            "NamesJPN": "小此木",
-            "PreTextTags": "@vS12/14/283400015.",
-            "TextJPN": "「現在、上が調査してますんね、いい加減なことは言えません。@k@vS12/14/283400016.殺された二人の関係を知る以上、内部犯行の可能性が極めて高いちゅうんは、間違いないんじゃないかと」",
-            "NamesENG": "Okonogi",
-            "TextENG": "``Right now, they're still investigating, so I can't say anything.@k@vS12/14/283400016. Knowing the relationship between those two... I think it's clear that this was done by someone within the organization.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107507,
-            "TextJPN": "その話を聞きながら入江の様子を見る。",
-            "TextENG": "I glanced over at Irie as I listened to Okonogi speak."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107508,
-            "TextJPN": "……どうやら、富竹たちを殺した嫌疑は入江に掛けられているようで、入江は濡れ衣を晴らそうと必死だった。",
-            "TextENG": "...It seemed that whoever he was talking to over the phone was accusing him of killing them. Irie was frantically trying to prove his innocence."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107509,
-            "TextJPN": "やがて電話が終わった。",
-            "TextENG": "Soon enough, he hung up the phone."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107510,
-            "TextJPN": "献身的に働いてきたのに、真っ先に自分が疑われるとは思わず、入江は少し憤慨していた。",
-            "TextENG": "Irie looked upset that he was under suspicion after working so hard for the organization."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107511,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS12/10/281000030.",
-            "TextJPN": "「あぁ梨花さん。@k@vS12/10/281000031.すみませんね、だいぶお待たせして」",
-            "NamesENG": "Irie",
-            "TextENG": "``Oh, Rika-san.@k@vS12/10/281000031. I'm sorry for making you wait.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107512,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/280500102.",
-            "TextJPN": "「……入江も大変なことになったようなのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``......It seems like you're in big trouble.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107513,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS12/10/281000032.",
-            "TextJPN": "「お聞きになったとおりです。@k@vS12/10/281000033.……富竹さんたちの死は何かの陰謀による可能性が非常に高いです」",
-            "NamesENG": "Irie",
-            "TextENG": "``Just as you heard.@k@vS12/10/281000033. ...It sounds like there's some big conspiracy behind their deaths."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107514,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS12/10/281000034.",
-            "TextJPN": "「そして、東京はその黒幕が私であると思っているようです。@k@vS12/10/281000035.……まったく、どうしてそういう方向になるのか大いに疑問です！」",
-            "NamesENG": "Irie",
-            "TextENG": "People in Tokyo think that I'm the one who's pulling the strings.@k@vS12/10/281000035. ...Good grief, I have a lot of questions as to how they figure that!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107515,
-            "TextJPN": "入江は珍しく感情を露にしていた。",
-            "TextENG": "I rarely ever saw Irie get so emotional."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107516,
-            "TextJPN": "自分の功績が認められず、恩を仇で返されたような気持ちなのだろう。",
-            "TextENG": "He must be feeling as though all his effort is being repaid with injustice."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107517,
-            "TextJPN": "だが、入江は研究の縮小に伴う予算の削減に頑強に抵抗していた経緯があった。",
-            "TextENG": "However, it's a fact that Irie was trying to fight against the budget cuts and downsizing of his research team."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107518,
-            "TextJPN": "研究者である入江にとっては当然の主張でも、東京はそうは思っていなかったということなのかもしれない。",
-            "TextENG": "Tokyo is thinking that could be his motive for killing them."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107519,
-            "TextJPN": "……どの道、みんなみんな胡散臭い連中だ。",
-            "TextENG": "...In any case, everyone in the organization is suspicious."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107520,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS12/10/281000036.",
-            "TextJPN": "「梨花さんの心配はわかってます。@k@vS12/10/281000037.鷹野さんたちを殺した何者かが次にあなたを狙わないとは限らないですからね。@k@vS12/10/281000038.東京もそこは特に気にしていました」",
-            "NamesENG": "Irie",
-            "TextENG": "``I understand how scared you must feel.@k@vS12/10/281000037. The people who attacked Takano-san and Tomitake-san could be after you, too...@k@vS12/10/281000038. The people in Tokyo are also concerned about that.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107521,
-            "NamesJPN": "小此木",
-            "PreTextTags": "@vS12/14/283400017.",
-            "TextJPN": "「山狗にも、あなたの警護体制を最高にするよう命令が来ています。@k@vS12/14/283400018.ご安心してくださいんね」",
-            "NamesENG": "Okonogi",
-            "TextENG": "``We got the order to tighten up your security.@k@vS12/14/283400018. Don't worry.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107522,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/280500103.",
-            "TextJPN": "「……それが聞ければ、ボクは少し安心なのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``...I'm very relieved to hear that.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107523,
-            "TextJPN": "山狗たちにそういう命令が来ていると直接聞けたのは初めての経験だった。",
-            "TextENG": "This was the first time the Mountain Dogs had ever tightened up my security."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107524,
-            "TextJPN": "今までは、疑惑の目を向けられた入江の監視に体制が移り、私は無視されることがほとんどだった。",
-            "TextENG": "They usually become so busy keeping tabs on Irie after Tomitake and Takano's deaths that they end up ignoring me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107525,
-            "TextJPN": "だから、富竹たちの死は防げなくても、今回の世界はかなり有利な条件であることを確認できた。",
-            "TextENG": "Even though they're dead, I'm still in a pretty favorable situation."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107526,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/280500104.",
-            "TextJPN": "「……鷹野たちを殺した犯人に、心当たりはないのですか？」",
-            "NamesENG": "Rika",
-            "TextENG": "``...So do you have any idea who killed them?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107527,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS12/10/281000039.",
-            "TextJPN": "「東京の皆さんも調べられています。@k@vS12/10/281000040.状況を見る限り、内部事情に精通した人間の仕業です。@k@vS12/10/281000041.……はははは、どうやら真っ先に疑われたのは私のようです」",
-            "NamesENG": "Irie",
-            "TextENG": "``People in Tokyo are investigating that now.@k@vS12/10/281000040. Based on the situation, it's clear that this was done by someone within the organization.@k@vS12/10/281000041. ...Ha ha ha ha, I guess I'm their prime suspect.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107528,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/280500105.",
-            "TextJPN": "「……富竹にああいう死に方をさせられるのは入江だけなのです」",
-            "NamesENG": "Rika",
-            "TextENG": "``...You're the only one who could kill Tomitake like that.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107529,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS12/10/281000042.",
-            "TextJPN": "「そ、そんなことはありません。@k@vS12/10/281000043.恐らく東京の方もＨ１７３の話をしているのでしょうが。@k@vS12/10/281000044.あれは危険な目的での研究が中止された時、全て破棄されたはずです。@k@vS12/10/281000045.あんなことは不可能だ…！」",
-            "NamesENG": "Irie",
-            "TextENG": "``Th-That's not true.@k@vS12/10/281000043. The people in Tokyo are discussing the possible use of H173.@k@vS12/10/281000044. But that drug was destroyed when the research was cancelled.@k@vS12/10/281000045. It's impossible...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107530,
-            "NamesJPN": "小此木",
-            "PreTextTags": "@vS12/14/283400019.",
-            "TextJPN": "「ですんが所長。@k@vS12/14/283400020.こういうことが起こってしまった以上、東京は疑わざるを得ません。@k@vS12/14/283400021.それに富竹氏には予防薬が予め与えられていたはず。@k@vS12/14/283400022.にも拘らず発症したんです」",
-            "NamesENG": "Okonogi",
-            "TextENG": "``However...@k@vS12/14/283400020. They have no choice but to suspect you in this case.@k@vS12/14/283400021. Mr. Tomitake even took a vaccine before he came here.@k@vS12/14/283400022. But he still got infected.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107531,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS12/10/281000046.",
-            "TextJPN": "「天文学的低確率で起こった偶然だとしか言えません…。@k@vS12/10/281000047.とにかく、絶対そんなことはありえないんです…！」",
-            "NamesENG": "Irie",
-            "TextENG": "``It must just be an extremely unlikely coincidence...@k@vS12/10/281000047. Anyway, it's just impossible...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107532,
-            "TextJPN": "…入江は普段は落ち着きのある人間なのだが。",
-            "TextENG": "...Irie is usually a very calm person..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107533,
-            "TextJPN": "…東京から疑いの目を向けられる綿流し以降は、落ち着きを失ってしまうことがほとんどだった。",
-            "TextENG": "but once the people in Tokyo start suspecting him, he often loses his mind."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107534,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/280500106.",
-            "TextJPN": "「……鷹野が犯人、ということはありませんですか？@k@vS12/05/280500107.　鷹野なら内部の人間です」",
-            "NamesENG": "Rika",
-            "TextENG": "``......Do you think Takano might be the culprit?@k@vS12/05/280500107. She's someone within the organization.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107535,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS12/10/281000048.",
-            "TextJPN": "「鷹野さんが…？@k@vS12/10/281000049.　ま、まさか……」",
-            "NamesENG": "Irie",
-            "TextENG": "``Takano-san....?@k@vS12/10/281000049. N-No way...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107536,
-            "TextJPN": "とは言いつつも、鷹野が犯人だったら全ての理由は説明できることに入江は気付きつつあった。",
-            "TextENG": "But as he spoke, Irie also started to realize that everything could be explained if Takano was the culprit."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107537,
-            "TextJPN": "……ただ、その仮説に自信を持たせる動機がまったく思いつかなかった。",
-            "TextENG": "......But I don't know how to persuade him that it's the truth."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107538,
-            "TextJPN": "人は動機を求める生き物だ。",
-            "TextENG": "More than anything, people want to hear a motive."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107539,
-            "TextJPN": "誰がやったかよりも、どうしてやったかを知りたがる。",
-            "TextENG": "Not who did something, but why."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107540,
-            "TextJPN": "……よくよく考えればそれはとても取るに足らないことかもしれない。",
-            "TextENG": "...Knowing that probably isn't as important as it sounds."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107541,
-            "TextJPN": "動機なんて、犯人が打ち明けるまでわからない。",
-            "TextENG": "After all, you never know the motive unless the suspect talks."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107542,
-            "TextJPN": "それを他人が想像して至ろうという時点で無意味だ。",
-            "TextENG": "Guessing about the motive is just a waste of time."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107543,
-            "TextJPN": "だから、動機がわからないから鷹野が犯人ではありえないという入江の考え方はきっと間違っていた。",
-            "TextENG": "In other words, it's stupid to assume that Takano isn't the culprit just because I don't know what her motive is."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107544,
-            "NamesJPN": "小此木",
-            "PreTextTags": "@vS12/14/283400023.",
-            "TextJPN": "「梨花さん、確証もないことを言っちゃあいけませんね…。@k@vS12/14/283400024.あれだけ親切にしてくれたんじゃあないんですか。@k@vS12/14/283400025.それを疑っちゃあ悪いですんね」",
-            "NamesENG": "Okonogi",
-            "TextENG": "``Rika-san, you can't say something like that without any proof...@k@vS12/14/283400024. She was very nice to you.@k@vS12/14/283400025. How can you suspect her after that?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107545,
-            "TextJPN": "小此木が、まるで恩知らずだとでも言いたそうな嫌味っぽい目で笑いながら私に言った。",
-            "TextENG": "Upon hearing me be ungrateful towards his boss, Okonogi flashed me an unpleasant smile."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107546,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS12/05/280500108.",
-            "TextJPN": "「…………………」",
-            "NamesENG": "Rika",
-            "TextENG": "``...........``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107547,
-            "TextJPN": "確かに私は鷹野にたくさん世話になった。",
-            "TextENG": "It's true that Takano was very nice to me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107548,
-            "TextJPN": "それを思えば疑うのは恩知らずかもしれない。",
-            "TextENG": "It might be disrespectful of me to suspect her."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107549,
-            "TextJPN": "でも、……だからといって、疑いから外すことはまだできない。",
-            "TextENG": "However... I still can't trust her completely yet."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107550,
-            "TextJPN": "それとも、私も大石と同じ悪い癖に取り憑かれているのか？",
-            "TextENG": "Perhaps I've developed the same bad habit as Ooishi."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107551,
-            "TextJPN": "何とか自分の運命から逃れたいと足掻くあまり、異説奇説に飛び付きたがっているのか…？",
-            "TextENG": "Am I believing every crazy theory I hear just because I'm desperate to escape from my fate...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107552,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS12/10/281000050.",
-            "TextJPN": "「とにかく、私たちの身近で、何かよくないことが起こりつつあるのは間違いありません。@k@vS12/10/281000051.用心するに越したことはないでしょう」",
-            "NamesENG": "Irie",
-            "TextENG": "``In any case, something bad is going on around here.@k@vS12/10/281000051. We all need to be careful.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107553,
-            "NamesJPN": "小此木",
-            "PreTextTags": "@vS12/14/283400026.",
-            "TextJPN": "「ご心配なく。@k@vS12/14/283400027.所長に対する警護体制も最高にするよう命令を受けておりますんね」",
-            "NamesENG": "Okonogi",
-            "TextENG": "``Don't worry.@k@vS12/14/283400027. We've received an order to tighten up your security too...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107554,
-            "TextJPN": "入江が苦笑いする。@k…きっと、警護でなく監視の間違いだと胸の中で苦笑しているだろう。",
-            "TextENG": "Irie smiled bitterly.@k ...For him, their protection wouldn't be too different from stalking."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107555,
-            "NamesJPN": "小此木",
-            "PreTextTags": "@vS12/14/283400028.",
-            "TextJPN": "「梨花さんも警察には不用意なことをしゃべらないようにお願いしますん。@k@vS12/14/283400029.……わかってると思いますが、場合によっては機密保持のため、厄介なことになるかもしれませんので」",
-            "NamesENG": "Okonogi",
-            "TextENG": "``Rika-san, make sure that you don't give up too much information to the police.@k@vS12/14/283400029. I think you understand, but you could create a problem if you talked to them about our secrets.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107556,
-            "TextJPN": "それは私が不用意なことをしゃべった相手を消すという意味だ。",
-            "TextENG": "He was implying that he'd have to kill anyone I talked to."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107557,
-            "TextJPN": "……そんなのは今この場で改めて言われることでもない。",
-            "TextENG": "...This isn't the first time they've warned me about this."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107558,
-            "TextJPN": "ただ、………もし本当に鷹野が犯人なら。",
-            "TextENG": "It's just...... what if Takano really is the culprit...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107559,
-            "TextJPN": "鷹野の部下である小此木もその一味に違いなかった。",
-            "TextENG": "If she is, then Okonogi is almost certainly involved too."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107560,
-            "TextJPN": "…そう考えれば、小此木が鷹野が犯人かもしれないというとすぐに否定したがるのも納得がいった。",
-            "TextENG": "...Then it'd make sense that he wouldn't want me to suspect Takano."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107561,
-            "TextJPN": "でも、もしもそうならば恐ろしい。",
-            "TextENG": "But that would be horrifying."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107562,
-            "TextJPN": "鷹野が敵で、@k山狗も敵なら、@k…つまりこの診療所は丸ごと敵の巣だということになる。",
-            "TextENG": "If Takano was my enemy,@k then the Mountain Dogs were too.@k ...This whole clinic is a lion's den."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107563,
-            "TextJPN": "入江は所詮、所長という名を冠した単なる研究者に過ぎないから、何があっても知りはしないだろう。",
-            "TextENG": "Irie is just a researcher, so he probably wouldn't know what's really going on."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107564,
-            "TextJPN": "でも考えれば考えるほどにわからない。",
-            "TextENG": "The more I thought about it, the more confused I got."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107565,
-            "TextJPN": "……鷹野がどうしてそんなことをしなくてはいけないのか？",
-            "TextENG": "Why would Takano do something like this?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107566,
-            "TextJPN": "…あぁもう、動機なんか何の意味もないとわかっているのに考えてしまう人としての身が憎い。",
-            "TextENG": "I thought I'd just convinced myself that the motive shouldn't even matter, but I can't stop thinking about it..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107567,
-            "TextJPN": "鷹野は本当に犯人なのか。",
-            "TextENG": "Is Takano really behind it all?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107568,
-            "TextJPN": "それとも、私も大石に感化されて妙な妄想に取り憑かれているのか。",
-            "TextENG": "Am I going as crazy as Ooishi just because of how badly I want to solve this mystery?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107569,
-            "TextJPN": "こう考えると、……山狗の警護はむしろ、羊の番を狼にさせるようなものなのかもしれない。",
-            "TextENG": "Perhaps... the Mountain Dogs are more like wolves looking after a flock of sheep."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107570,
-            "TextJPN": "私は今日までの百年間。",
-            "TextENG": "I've lived for over a hundred years."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107571,
-            "TextJPN": "…自分を殺す何者かの正体を掴めず、自分の守りを固めるために入江機関に媚を売ってきた。",
-            "TextENG": "I never once found out who killed me, and I stayed close to the Irie Institute so that they'd protect me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107572,
-            "TextJPN": "…それがそもそもの間違いなのだとしたら…？",
-            "TextENG": "...What if that was my big mistake...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107573,
-            "TextJPN": "………いや、……入江に悪意も下心もないのは間違いない。",
-            "TextENG": "......Well... I'm sure that Irie has no bad intentions."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107574,
-            "TextJPN": "数多の世界で彼の真摯な姿を見てきた。",
-            "TextENG": "In many lives, I got to see just how genuine his feelings are."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107575,
-            "TextJPN": "だから入江だけは信用できる。",
-            "TextENG": "I can trust him."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107576,
-            "TextJPN": "……問題は頼りにならないことだけだ。",
-            "TextENG": "...However, he's not really reliable."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107577,
-            "TextJPN": "小此木と目が合う。",
-            "TextENG": "Okonogi glanced over at me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107578,
-            "TextJPN": "大船に乗った気でいてくださいんね、と胸を叩き余裕をアピールする笑みは、今の私には悪意が篭っているように見えてならない。",
-            "TextENG": "He smiled and told me not to worry, but I noticed an evil glint in his eyes."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107579,
-            "TextJPN": "………私も、いつの間にか雛見沢症候群を発症させてしまい、疑心暗鬼に取り憑かれてしまったか……？",
-            "TextENG": "......It's possible that I have Hinamizawa Syndrome, and that was just a hallucination."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107580,
-            "TextJPN": "何が何やらわからない。",
-            "TextENG": "I don't understand anything."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107581,
-            "TextJPN": "誰が味方で誰が敵かわからなくなる。",
-            "TextENG": "I don't even know who my enemies are anymore."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107582,
-            "TextJPN": "……いや、そんな情けないことを言うな。",
-            "TextENG": "...There's no point in thinking about this any longer."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107583,
-            "TextJPN": "数多の世界で知ってきた、信頼を寄せるべき相手を信じるんだ。",
-            "TextENG": "I have to only trust who I know I can trust for sure."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107584,
-            "TextJPN": "確実に私の敵じゃないのは、……入江、大石。@k……そして、私の仲間たち。",
-            "TextENG": "There are only a few of those people, though. ...... Irie, Ooishi...@k and my friends."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107585,
-            "TextJPN": "だが、小此木が鷹野の手先なら、鷹野を疑い始めている私を厳重に監視してくるだろう。",
-            "TextENG": "If Okonogi is on Takano's side, he will be watching me very closely."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107586,
-            "TextJPN": "下手な接触を悟られれば、彼らの本来任務に従い、あっさり消されてしまうかもしれない。",
-            "TextENG": "If I started accusing Takano of anything, who knows what they'd do to me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107587,
-            "TextJPN": "……………私はこの世界が再び始まった時、何て残り少ない時間の世界だろうと嘆いたが。",
-            "TextENG": ".........When this world first began, I thought I had no time left."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107588,
-            "TextJPN": "…そんなことはない。",
-            "TextENG": "...But that wasn't true."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107589,
-            "TextJPN": "……なんて長く濃密な２週間なのか。",
-            "TextENG": "...The number of things that happened in just two weeks was immense."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107590,
-            "TextJPN": "そして多分、私が迎える命日までもう何日もないだろう。",
-            "TextENG": "I probably only have a few more days left until the day of my death."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107591,
-            "TextJPN": "私に何ができる？",
-            "TextENG": "What can I do?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107592,
-            "TextJPN": "何が足掻ける？",
-            "TextENG": "How can I change this?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 107593,
-            "TextJPN": "……羽入が諦めるようにやはり今回も駄目なのか？",
-            "TextENG": "Am I supposed to just take Hanyuu's advice and resign this time?"
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "#24 惨劇の翌日",
+		"ENG": "#24 / The Day After the Tragedy"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107399,
+		"TextJPN": "綿流しの翌日。@k大石が学校にやって来た。",
+		"TextENG": "The day after Watanagashi.@k Ooishi showed up at our school."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107400,
+		"TextJPN": "大石がこの日に学校にやって来ることは、実は結構多い。",
+		"TextENG": "It isn't uncommon for Ooishi to show up here today."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107401,
+		"TextJPN": "そして皮肉にも、その世界のキーパーソンを呼ぶのだ。",
+		"TextENG": "Interestingly, he always asks to see the most key person in that world."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107402,
+		"TextJPN": "圭一が発症する世界では圭一を。",
+		"TextENG": "He asks for Keiichi in the world where he gets sick."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107403,
+		"TextJPN": "レナが発症する世界ではレナを。",
+		"TextENG": "He asks for Rena in the world where she gets sick."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107404,
+		"TextJPN": "そして、この世界では大石は私を呼んだ。",
+		"TextENG": "In this world, he asked for me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107405,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/280500070.",
+		"TextJPN": "「………富竹が、…死にましたか…」",
+		"NamesENG": "Rika",
+		"TextENG": "``.........Did Tomitake... really die...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107406,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700077.",
+		"TextJPN": "「えぇ。@k@vS12/11/280700078.……ちょっと尋常じゃない死に方でしてね。@k@vS12/11/280700079.薬物か何かで錯乱状態だったんじゃないかと思います。@k@vS12/11/280700080.自分で自分の喉を掻き破るというショッキングな亡くなり方でした」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Yeah.@k@vS12/11/280700078. ...The way he went was pretty strange, too.@k@vS12/11/280700079. Like he was on drugs and hallucinating.@k@vS12/11/280700080. He clawed out his own throat until he died.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107407,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/280500071.",
+		"TextJPN": "「……やはり抗えないのか」",
+		"NamesENG": "Rika",
+		"TextENG": "``...I couldn't prevent it.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107408,
+		"TextJPN": "どうにもならない。",
+		"TextENG": "There's nothing I can do now."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107409,
+		"TextJPN": "わかってはいたことだった。@k…恐らく鷹野もだろう。",
+		"TextENG": "I knew this was going to happen.@k I'm sure Takano is dead too..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107410,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/280500072.",
+		"TextJPN": "「……鷹野は？」",
+		"NamesENG": "Rika",
+		"TextENG": "``......And Takano?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107411,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700081.",
+		"TextJPN": "「彼女についても残念なご連絡があります。@k@vS12/11/280700082.隣の県の山中で焼死体で発見されました。@k@vS12/11/280700083.死体の状況から、多分、絞殺された後に焼かれたんじゃないかと思っているのですが。@k@vS12/11/280700084.どちらにせよ気の毒な話です」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``I have bad news about her too.@k@vS12/11/280700082. She was found burned to death in the mountains over in Gifu Prefecture.@k@vS12/11/280700083. Based on the condition of the body, she was choked to death before her body was burned.@k@vS12/11/280700084. It's a tragic story no matter how you look at it.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107412,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/280500073.",
+		"TextJPN": "「……大石の考えはわかってますです。@k@vS12/05/280500074.ボクが何か知っていると思っているんでしょう」",
+		"NamesENG": "Rika",
+		"TextENG": "``......I know what you're thinking.@k@vS12/05/280500074. You think I know something about what happened to them.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107413,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700085.",
+		"TextJPN": "「いやいやまさかまさか。@k@vS12/11/280700086.疑うとしたらこの一点だけです。@k@vS12/11/280700087.あの人ごみの中で、小耳に挟めるようなところでこんな物騒な話をする人がいるわけがない」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Heavens, no.@k@vS12/11/280700086. I only have one question.@k@vS12/11/280700087. Who would talk about such a disturbing plan at the festival where anyone could hear...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107414,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/280500075.",
+		"TextJPN": "「……ボクが、何かの陰謀の片棒を担いでると思っていますですか」",
+		"NamesENG": "Rika",
+		"TextENG": "``...You think, I'm involved in this murder?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107415,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700088.",
+		"TextJPN": "「と、思い込みたいところですが、それも引っ込めました」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Well, I wanted to suspect you, but I don't."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107416,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700089.",
+		"TextJPN": "「……本当にその気なら、あなたは私にあんな入れ知恵をすることはなかったんですからね。@k@vS12/11/280700090.少なくとも、今回の事件を起こそうと考えた何者かとは相対する位置にいると思ってます」",
+		"NamesENG": "Ooishi",
+		"TextENG": "If you were responsible in some way, you wouldn't have given me the hints you did.@k@vS12/11/280700090. At the very least, I'm sure you're not involved with the people who killed them.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107417,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/280500076.",
+		"TextJPN": "「……それが本当ならとても嬉しいのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``......I'm glad you're not suspicious of me.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107418,
+		"TextJPN": "大石は賽銭箱に１０円を放り込むと、ガランガランと鳴らしてから言った。",
+		"TextENG": "Ooishi threw a ten-yen coin into the offering box, and shook the bell in prayer."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107419,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700091.",
+		"TextJPN": "「どうか今年こそ、雛見沢村連続怪死事件を終わらせられますように！」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Please let us solve the mystery of Hinamizawa this year!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107420,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/280500077.",
+		"TextJPN": "「……そのためにボクに協力しろと？」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Are you trying to get me involved in your investigation?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107421,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700092.",
+		"TextJPN": "「なっはっはっは。@k@vS12/11/280700093.今のはオヤシロさまにお願いしたんですよ？」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Na ha ha ha...@k@vS12/11/280700093. I was just talking to Oyashiro-sama.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107422,
+		"TextJPN": "私がオヤシロさまの生まれ変わりと呼ばれているのは大石も知っている。",
+		"TextENG": "Ooishi is well aware that people call me the reincarnation of Oyashiro-sama."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107423,
+		"TextJPN": "…大石ギャグということにしておこう。",
+		"TextENG": "...That must have been his attempt at a joke."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107424,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/280500078.",
+		"TextJPN": "「……ボクも、こんな祟りはもう金輪際にしてほしいと思っていますです」",
+		"NamesENG": "Rika",
+		"TextENG": "``...I'd like to see the curse disappear forever too.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107425,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700094.",
+		"TextJPN": "「おや、なら古手さんと私の求めるところは一致するようですねぇ」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Oh, that means we both want the same thing.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107426,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/280500079.",
+		"TextJPN": "「……ボクは昨日、富竹の死体が見付かりそうなところを予言しましたです。@k@vS12/05/280500080.そこにパトカーはいなかったのですか？」",
+		"NamesENG": "Rika",
+		"TextENG": "``......I made a prediction about where you might find Tomitake's body.@k@vS12/05/280500080. Didn't you have a police cruiser nearby?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107427,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700095.",
+		"TextJPN": "「いいえ、ちゃんと巫女さまの予言に従って配置しました」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Yeah, I listened to your prediction, and had a cruiser patrol the area."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107428,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700096.",
+		"TextJPN": "「ほら、舗装道路と砂利道の境目になってる辺りがあるじゃないですか。@k@vS12/11/280700097.通称、村境とか呼ばれてる辺りです。@k@vS12/11/280700098.あそこら辺はとても暗いですからね。@k@vS12/11/280700099.何かヤバイことの起こりそうな臭いが一番ぷんぷんする辺りです」",
+		"NamesENG": "Ooishi",
+		"TextENG": "The place where the concrete and gravel roads meet...@k@vS12/11/280700097. It's on the very border of the village.@k@vS12/11/280700098. It gets very dark there at night.@k@vS12/11/280700099. It always seems like if something bad were to happen, it could happen there.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107429,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/280500081.",
+		"TextJPN": "「…………では、富竹の死体はどこで？」",
+		"NamesENG": "Rika",
+		"TextENG": "``.........So where did you find Tomitake's body?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107430,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700100.",
+		"TextJPN": "「配置場所よりももっとずっと興宮寄りの水田地帯の路肩です」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``We found him dead by the rice fields near Okinomiya.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107431,
+		"TextJPN": "…毎回見付かる富竹の死体の場所と違う。",
+		"TextENG": "That's not where his body is usually found..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107432,
+		"TextJPN": "富竹があの場所で錯乱するのが運命なのだとしたら、たとえパトカーがいようといなかろうと同じ場所で錯乱する。",
+		"TextENG": "If he was fated to hallucinate and die, he would die in exactly the same spot, whether the cruiser was there or not."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107433,
+		"TextJPN": "それが、その場所に予めパトカーが配置されているだけで、@k不変と思われた富竹の死に場所が変わるということは、……パトカーを嫌う意思が運命に介在した証拠だ。",
+		"TextENG": "Just because the cruiser was placed there...@k Tomitake's body was found in a totally different spot. ...In other words, the existence of the police cruiser disrupted that fate."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107434,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700101.",
+		"TextJPN": "「でですねぇ。@k@vS12/11/280700102.ここからがちょいと面白い話になります。@k@vS12/11/280700103.……パトにはですね、私、通る車もチェックさせたんです。@k@vS12/11/280700104.そしたら、鷹野の車が祭りの終わった後、興宮方向へ通過したんですよ」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Anyway.@k@vS12/11/280700102. There's something else I found very interesting.@k@vS12/11/280700103. ...I told the officers in the police cruiser to check every vehicle that passed by.@k@vS12/11/280700104. As it turns out, one of the cars that headed toward Okinomiya after the festival was over was Takano's.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107435,
+		"TextJPN": "鷹野の住まいは興宮にある。",
+		"TextENG": "Takano lives in Okinomiya."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107436,
+		"TextJPN": "祭りが終わった後に帰宅するのは珍しいことではない。",
+		"TextENG": "It wouldn't be strange for her to head back home after the festival."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107437,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700105.",
+		"TextJPN": "「ただ、乗ってたのは１人だったんです。@k@vS12/11/280700106.富竹は乗っていなかった」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``However, she was the only one inside the car.@k@vS12/11/280700106. Tomitake wasn't with her.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107438,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/280500082.",
+		"TextJPN": "「……富竹は雛見沢にはいつも自転車で来ますから、」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Tomitake always comes to Hinamizawa on his bike.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107439,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700107.",
+		"TextJPN": "「なら自転車をトランクに積んで車に乗せてもらうのが普通じゃありませんか。@k@vS12/11/280700108.ですが、富竹は一緒じゃなかった。@k@vS12/11/280700109.…にも拘らず、富竹の死体は雛見沢からパトを越えて、興宮の方の水田地帯で見付かる」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Then she could've loaded his bike in the trunk and given him a ride.@k@vS12/11/280700108. But he was not with her.@k@vS12/11/280700109. However, his body was found among the rice fields near Okinomiya, past where the police cruiser was patrolling in Hinamizawa...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107440,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/280500083.",
+		"TextJPN": "「………………つまり…？」",
+		"NamesENG": "Rika",
+		"TextENG": "``............What are you saying...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107441,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700110.",
+		"TextJPN": "「あの真っ暗な中、森の中を突き進んでパトを迂回したなんてできる芸当ではありません。@k@vS12/11/280700111.だとしたら、パトに気付かれずに街道を抜けるしか考えられない」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``There's no way he could have biked through the dark woods to avoid the police cruiser.@k@vS12/11/280700111. He somehow took the road without being noticed by us."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107442,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700112.",
+		"TextJPN": "「…………古手さん。@k@vS12/11/280700113.鷹野とホトケの関係について教えていただけませんか」",
+		"NamesENG": "Ooishi",
+		"TextENG": ".........Furude-san.@k@vS12/11/280700113. Can you tell me what you know about the relationship between Tomitake and Takano?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107443,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/280500084.",
+		"TextJPN": "「……………恋人同士。@k@vS12/05/280500085.……それしか知らないです」",
+		"NamesENG": "Rika",
+		"TextENG": "``.........They're dating.@k@vS12/05/280500085. ...That's all I know.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107444,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700114.",
+		"TextJPN": "「鷹野がね、恋人との最後の夜の逢瀬を１人で帰るというのが腑に落ちないんです。@k@vS12/11/280700115.富竹はその時、トランクの中に詰められていて、あの真っ暗な森の中に捨てようとした」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``I find it hard to believe that Takano would drive back home alone in the dark without her boyfriend.@k@vS12/11/280700115. What if she had Tomitake in her trunk, and she was planning to dump his body in the woods..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107445,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700116.",
+		"TextJPN": "「だが、お告げのパトカーがたまたまそこにいちゃったもんで、仕方なくそこを通り抜け、@k@vS12/11/280700117.もっと先で富竹を捨てた」",
+		"NamesENG": "Ooishi",
+		"TextENG": "but because the cruiser was in that area, she had no choice but to pass by...@k@vS12/11/280700117. and dump him on the side of the road.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107446,
+		"TextJPN": "富竹と鷹野は恋人同士である以前に、東京から派遣されている人間だ。",
+		"TextENG": "Both Tomitake and Takano were sent here from Tokyo."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107447,
+		"TextJPN": "彼らの本当の正体が何者であるかなんて、私だって知らない。",
+		"TextENG": "I have no idea what their real identities are."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107448,
+		"TextJPN": "だから、鷹野に富竹を殺す理由が絶対にないなんて私にだって断言できなかった。",
+		"TextENG": "I can't say that Takano had no reason to kill Tomitake."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107449,
+		"TextJPN": "そしてそれは、……今までに一度も考えたことのないことだった。",
+		"TextENG": "However... I've never considered that possibility before in my life..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107450,
+		"TextJPN": "鷹野が富竹を殺す……？@k　…どうして？？",
+		"TextENG": "Takano killing Tomitake...?@k ...But why??"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107451,
+		"TextJPN": "理由が何も思いつかない。",
+		"TextENG": "I can't think of any reason."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107452,
+		"TextJPN": "心当たりもないし、@k殺さなきゃならないほど鷹野が追い詰められるなんて考えられない。",
+		"TextENG": "Nothing comes to mind,@k and it's hard to imagine Takano was cornered to the point she had to kill him."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107453,
+		"TextJPN": "…むしろ逆で、恋に狂った富竹が冷たくされた事に逆上して首を絞める方がありえそうなくらいだ。",
+		"TextENG": "...In fact, it was more plausible to think she was enraged when the lovesick Tomitake acted cold towards her, and she strangled his neck."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107454,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700118.",
+		"TextJPN": "「私はあのカップル、どことなく不釣合いだなぁってずっと思ってました。@k@vS12/11/280700119.…なっはっは、こう言っちゃあ富竹くんに失礼ですが、…鷹野さんでは荷が勝ちすぎてるんじゃないかなぁってずっと思ってました」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``I never really thought they suited each other.@k@vS12/11/280700119. ...Na ha ha, I don't mean to insult Tomitake-kun, but I thought Takano-san was way too smart for him."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107455,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700120.",
+		"TextJPN": "「鷹野が、富竹を何かに利用しようとして近付いていたとか、そういう話を村の中で聞いたことはありませんかねぇ…？」",
+		"NamesENG": "Ooishi",
+		"TextENG": "Have you heard of any rumors that she was trying to use him for anything...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107456,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/280500086.",
+		"TextJPN": "「……ないです。@k@vS12/05/280500087.でも、話は聞いてみようと思いますです。@k@vS12/05/280500088.何かわかったら大石にも知らせますです」",
+		"NamesENG": "Rika",
+		"TextENG": "``...None.@k@vS12/05/280500087. But I can ask around.@k@vS12/05/280500088. I'll let you know if I find out something.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107457,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700121.",
+		"TextJPN": "「ありがとうございます。@k@vS12/11/280700122.村の内部に詳しい方、それも御三家の頭首でオヤシロさまの生まれ変わりの協力がいただければ鬼に金棒ですよ」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Thank you very much.@k@vS12/11/280700122. I'm just glad that the reincarnation of Oyashiro-sama is on my side.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107458,
+		"TextJPN": "…その生まれ変わりが、こうして百年以上も挑んで勝てない運命か。",
+		"TextENG": "But even the reincarnation of Oyashiro-sama couldn't solve this mystery for over a hundred years..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107459,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/280500089.",
+		"TextJPN": "「……でも。@k@vS12/05/280500090.その鷹野も殺されたのですよ？@k@vS12/05/280500091.　どういうことなのですか」",
+		"NamesENG": "Rika",
+		"TextENG": "``But...@k@vS12/05/280500090. you said Takano was killed too...@k@vS12/05/280500091. How can she be the culprit?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107460,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700123.",
+		"TextJPN": "「私ゃ、もしあなたからタレコミ、おっと、お告げを聞いていなかったら。@k@vS12/11/280700124.多分きっと、富竹と鷹野はともに犠牲者で、オヤシロさまの祟りの５年目ってことになったんだろうと思い込んだと思います」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Well, it's because you leaked me the information, I mean, the prophecy.@k@vS12/11/280700124. Without that, I'm sure I would've just believed that both Takano and Tomitake were the victims of the fifth year's curse of Oyashiro-sama."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107461,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700125.",
+		"TextJPN": "「ですが、こうなってくるとどうも違う。@k@vS12/11/280700126.どうやらこいつぁ、オヤシロさまの祟りの５年目ってことにしようとした、巧妙な事件のように見えてきました」",
+		"NamesENG": "Ooishi",
+		"TextENG": "I feel like it's different this time.@k@vS12/11/280700126. Maybe as though this is someone trying to make the curse of Oyashiro-sama happen.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107462,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/280500092.",
+		"TextJPN": "「…………つまり、……鷹野が犯人…？」",
+		"NamesENG": "Rika",
+		"TextENG": "``.........So you really think... that Takano-san is the culprit...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107463,
+		"TextJPN": "大石が言わんとするのはわかる。",
+		"TextENG": "Basically, this is what Ooishi is trying to say."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107464,
+		"TextJPN": "二人とも犠牲者なんじゃない。",
+		"TextENG": "They're not both victims."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107465,
+		"TextJPN": "実は犠牲者と犯人で、犯人も犠牲になったふりをして逃れていると言いたいのだ。",
+		"TextENG": "The culprit is also pretending to be a victim."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107466,
+		"TextJPN": "自分で言ってて実感がない。",
+		"TextENG": "This is really hard for me to believe."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107467,
+		"TextJPN": "……鷹野がどうしてそんなことをするのか、まったくわからないからだ。",
+		"TextENG": "...I can't think of any reason why Takano would do something like this."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107468,
+		"TextJPN": "大石以上に内情を知っているからこそなおさらだった。",
+		"TextENG": "Ooishi only feels the way he does because he doesn't know her as well as I do."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107469,
+		"TextJPN": "でも、それでは鷹野の焼死体はどういうことになるのか。",
+		"TextENG": "For another thing, how can he explain that Takano's body was found?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107470,
+		"TextJPN": "隣の県警がしっかり調べたのではないのか？",
+		"TextENG": "Didn't the police in Gifu Prefecture identify the body?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107471,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700127.",
+		"TextJPN": "「焼死体の識別には歯型照合がもっとも有効だと言われています。@k@vS12/11/280700128.ただ、うちの鑑識のジジイが言うにはそれでも１００％じゃないと言う」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``For a charred corpse, the easiest way to identify them is by their dental records.@k@vS12/11/280700128. Although, according to the old man in forensics, they're still not 100% sure."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107472,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700129.",
+		"TextJPN": "「……まぁ、それよりおかしいのが現場の県警鑑識の死亡時刻なんです。@k@vS12/11/280700130.当初、死亡時刻が合わなかったらしいんです」",
+		"NamesENG": "Ooishi",
+		"TextENG": "...And besides, there's a contradiction with the estimated time of death.@k@vS12/11/280700130. It just doesn't make sense.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107473,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/280500093.",
+		"TextJPN": "「……死亡時刻が合わない？」",
+		"NamesENG": "Rika",
+		"TextENG": "``What do you mean......?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107474,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700131.",
+		"TextJPN": "「えぇ。@k@vS12/11/280700132.祭りの前夜にはもう殺されてたっていう鑑識が出ちゃったらしいんです。@k@vS12/11/280700133.内容物とかそういうのから調べるらしいですね」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Well...@k@vS12/11/280700132. The test results show that she was dead on the night before the festival.@k@vS12/11/280700133. Apparently they inspected the contents of her stomach and such.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107475,
+		"TextJPN": "……だが、この時点で大石は隣の県警の刑事に、鷹野のことを話していたのだという。",
+		"TextENG": "But at the time of testing, they already had information about Takano."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107476,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700135.",
+		"TextJPN": "「だからお隣の県警さん、綿流しの日に彼氏とデートしてたはずの死体が死後２４時間では話が合わないって言って、その鑑定結果を握り潰しちゃったらしい」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``They knew that she was at the festival that night, and realized that the test results didn't match up."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107477,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700136.",
+		"TextJPN": "「……死亡時刻の鑑定なんかより、死体の歯型鑑定の方がよっぽど精度が高いですからね。@k@vS12/11/280700137.まぁ、現場にはたまにある話です」",
+		"NamesENG": "Ooishi",
+		"TextENG": "So they just dumped the results and decided to take the dental records alone.@k@vS12/11/280700137. These things do happen every once in a while..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107478,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700138.",
+		"TextJPN": "「ですが、鷹野が犯人かもしれないって目で見てみると、こいつぁ、鷹野の死体じゃない可能性が出てきます」",
+		"NamesENG": "Ooishi",
+		"TextENG": "However, if Takano really is the culprit, this body might belong to someone else.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107479,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/280500094.",
+		"TextJPN": "「……死体を誤魔化すことなんて可能なのですか？」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Is it possible to do something like that?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107480,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700139.",
+		"TextJPN": "「焼死体の鑑定は基本的に歯型以外は絶望的です」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``When a body is burnt, dental records are the only way to identify it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107481,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700140.",
+		"TextJPN": "「たとえば、これは推理小説的な荒技ですが、興宮のデンタルクリニックに残されていた『鷹野三四』の歯型のカルテ、@k@vS12/11/280700141.これが、巧妙な手口で捏造されていたら、誤認もありえる」",
+		"NamesENG": "Ooishi",
+		"TextENG": "This might sound too much like a mystery novel, but what if, for example, someone faked Miyo Takano's dental records?@k@vS12/11/280700141. If they were skillfully forged, we could have the wrong ID."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107482,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700142.",
+		"TextJPN": "「……まぁ、そんなのは抜きにして、単純にお隣の県警さんが鷹野に間違いないと決め付けてしまった可能性の方が高いですが」",
+		"NamesENG": "Ooishi",
+		"TextENG": "...Anyway, the Gifu police department has made up their mind that the body belongs to Takano."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107483,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700143.",
+		"TextJPN": "「警察組織内では往々にして、初動時の鑑定ミスが後々まで尾を引くことが少なくない。@k@vS12/11/280700144.伝説的な冤罪事件のほとんどはこれに起因します」",
+		"NamesENG": "Ooishi",
+		"TextENG": "Within police departments, we sometimes have issues with false test results.@k@vS12/11/280700144. That's how most false charges are made."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107484,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700145.",
+		"TextJPN": "「………私ゃどうやら、その可能性が拭えない気がする」",
+		"NamesENG": "Ooishi",
+		"TextENG": "......It feels to me like this is one of those times.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107485,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/280500095.",
+		"TextJPN": "「……つまり、鷹野は生きてる？」",
+		"NamesENG": "Rika",
+		"TextENG": "``...So you think Takano is alive?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107486,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS12/11/280700146.",
+		"TextJPN": "「鷹野三四は先日以来、車ごと行方不明です。@k@vS12/11/280700147.現地の死体が鷹野でないなら、……これは何だか面白そうな話になってきます」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Since last night, both Miyo Takano and her car have gone missing.@k@vS12/11/280700147. If that body found in Gifu isn't Takano... this is going to be very interesting indeed.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107487,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/280500096.",
+		"TextJPN": "「……………………………」",
+		"NamesENG": "Rika",
+		"TextENG": "``................``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107488,
+		"TextJPN": "富竹たちの死については、もちろん入江の耳にも入っていた。",
+		"TextENG": "Irie had already heard about the deaths of Tomitake and Takano."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107489,
+		"TextJPN": "そして、入江が電話している様子を見る限り、東京も診療所も混乱しているように見えた。",
+		"TextENG": "It seemed like both the clinic and the office in Tokyo had flown into a panic over it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107490,
+		"TextJPN": "……自分たちの研究のためには人の命などどうとも思わないくせに、内部の人間の死には大騒ぎするのが何だか皮肉だった。",
+		"TextENG": "...It's funny how they make such a big fuss about their own people when they don't care about what happens to other people's lives if it would get in the way of their research."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107491,
+		"TextJPN": "そして部屋には、鷹野の部下の小此木の姿もあった。",
+		"TextENG": "Takano's subordinate, Okonogi, was in the room."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107492,
+		"TextJPN": "小此木は山狗の隊長だ。",
+		"TextENG": "Okonogi is the leader of the Mountain Dogs."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107493,
+		"TextJPN": "……この男が今も私の警護をしてくれているのかの確認が最大の目的だった。",
+		"TextENG": "I came here to make sure he's still willing to protect me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107494,
+		"TextJPN": "過去の場合、上司の鷹野が死ぬと、彼らは私に構わなくなってしまうことがほとんどだ。",
+		"TextENG": "Based on past experience, they tend to lose interest in protecting me after Takano dies."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107495,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/280500097.",
+		"TextJPN": "「……小此木。@k@vS12/05/280500098.鷹野が死んでしまいましたですが、ボクは大丈夫なのですか…？」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Okonogi.@k@vS12/05/280500098. Takano is dead, but am I still safe...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107496,
+		"NamesJPN": "小此木",
+		"PreTextTags": "@vS12/14/283400008.",
+		"TextJPN": "「大丈夫ですよ梨花さん。@k@vS12/14/283400009.我々が今後も厳重に警護してますんね。@k@vS12/14/283400010.…ですから、警察に頼ろうとしなくても問題ないです」",
+		"NamesENG": "Okonogi",
+		"TextENG": "``Don't worry Rika-san.@k@vS12/14/283400009. We'll still keep up the tight security around you.@k@vS12/14/283400010. You don't have to call the police.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107497,
+		"TextJPN": "…厳重に警護というのはこういう意味か。",
+		"TextENG": "...I guess this is part of that tight security?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107498,
+		"TextJPN": "私が大石と話していたことは彼らに聞かれていたようだった。",
+		"TextENG": "They must have been listening to my conversation with Ooishi."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107499,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/280500099.",
+		"TextJPN": "「……大石に聞きました。@k@vS12/05/280500100.鷹野が実は死んでいないというのは本当ですか？」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Ooishi told me something.@k@vS12/05/280500100. Is it true that Takano isn't really dead?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107500,
+		"NamesJPN": "小此木",
+		"PreTextTags": "@vS12/14/283400011.",
+		"TextJPN": "「まさか。@k@vS12/14/283400012.現地の県警の正式な発表ですんね」",
+		"NamesENG": "Okonogi",
+		"TextENG": "``That can't be true.@k@vS12/14/283400012. The Gifu police department made an official announcement."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107501,
+		"NamesJPN": "小此木",
+		"PreTextTags": "@vS12/14/283400013.",
+		"TextJPN": "「大石という刑事は今年で定年、オヤシロさまの祟りを何とか解決したい一心で、何でも話をおかしくしようとするクセがありよります。@k@vS12/14/283400014.あいつの言うことに耳を貸さん方がいいでしょう」",
+		"NamesENG": "Okonogi",
+		"TextENG": "That Ooishi is retiring this year, isn't he? Sometimes he makes up stories because he's desperate to solve the curse of Oyashiro-sama.@k@vS12/14/283400014. You shouldn't pay attention to anything he says.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107502,
+		"TextJPN": "…確かにそれは言うとおりだった。",
+		"TextENG": "...Well, he's not wrong."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107503,
+		"TextJPN": "昭和５８年の大石は定年前のラストチャンス。",
+		"TextENG": "This year is Ooishi's last chance."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107504,
+		"TextJPN": "溺れる者は藁をも掴むの故事どおり、どんなデマにも飛びつく悪癖があった。",
+		"TextENG": "Because he's so desperate, he's developed a bad habit of listening to every rumor he hears."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107505,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/280500101.",
+		"TextJPN": "「……では、小此木はこの事件をどう見ていますですか…？」",
+		"NamesENG": "Rika",
+		"TextENG": "``......What's your opinion about this, Okonogi?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107506,
+		"NamesJPN": "小此木",
+		"PreTextTags": "@vS12/14/283400015.",
+		"TextJPN": "「現在、上が調査してますんね、いい加減なことは言えません。@k@vS12/14/283400016.殺された二人の関係を知る以上、内部犯行の可能性が極めて高いちゅうんは、間違いないんじゃないかと」",
+		"NamesENG": "Okonogi",
+		"TextENG": "``Right now, they're still investigating, so I can't say anything.@k@vS12/14/283400016. Knowing the relationship between those two... I think it's clear that this was done by someone within the organization.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107507,
+		"TextJPN": "その話を聞きながら入江の様子を見る。",
+		"TextENG": "I glanced over at Irie as I listened to Okonogi speak."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107508,
+		"TextJPN": "……どうやら、富竹たちを殺した嫌疑は入江に掛けられているようで、入江は濡れ衣を晴らそうと必死だった。",
+		"TextENG": "...It seemed that whoever he was talking to over the phone was accusing him of killing them. Irie was frantically trying to prove his innocence."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107509,
+		"TextJPN": "やがて電話が終わった。",
+		"TextENG": "Soon enough, he hung up the phone."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107510,
+		"TextJPN": "献身的に働いてきたのに、真っ先に自分が疑われるとは思わず、入江は少し憤慨していた。",
+		"TextENG": "Irie looked upset that he was under suspicion after working so hard for the organization."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107511,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS12/10/281000030.",
+		"TextJPN": "「あぁ梨花さん。@k@vS12/10/281000031.すみませんね、だいぶお待たせして」",
+		"NamesENG": "Irie",
+		"TextENG": "``Oh, Rika-san.@k@vS12/10/281000031. I'm sorry for making you wait.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107512,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/280500102.",
+		"TextJPN": "「……入江も大変なことになったようなのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``......It seems like you're in big trouble.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107513,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS12/10/281000032.",
+		"TextJPN": "「お聞きになったとおりです。@k@vS12/10/281000033.……富竹さんたちの死は何かの陰謀による可能性が非常に高いです」",
+		"NamesENG": "Irie",
+		"TextENG": "``Just as you heard.@k@vS12/10/281000033. ...It sounds like there's some big conspiracy behind their deaths."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107514,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS12/10/281000034.",
+		"TextJPN": "「そして、東京はその黒幕が私であると思っているようです。@k@vS12/10/281000035.……まったく、どうしてそういう方向になるのか大いに疑問です！」",
+		"NamesENG": "Irie",
+		"TextENG": "People in Tokyo think that I'm the one who's pulling the strings.@k@vS12/10/281000035. ...Good grief, I have a lot of questions as to how they figure that!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107515,
+		"TextJPN": "入江は珍しく感情を露にしていた。",
+		"TextENG": "I rarely ever saw Irie get so emotional."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107516,
+		"TextJPN": "自分の功績が認められず、恩を仇で返されたような気持ちなのだろう。",
+		"TextENG": "He must be feeling as though all his effort is being repaid with injustice."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107517,
+		"TextJPN": "だが、入江は研究の縮小に伴う予算の削減に頑強に抵抗していた経緯があった。",
+		"TextENG": "However, it's a fact that Irie was trying to fight against the budget cuts and downsizing of his research team."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107518,
+		"TextJPN": "研究者である入江にとっては当然の主張でも、東京はそうは思っていなかったということなのかもしれない。",
+		"TextENG": "Tokyo is thinking that could be his motive for killing them."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107519,
+		"TextJPN": "……どの道、みんなみんな胡散臭い連中だ。",
+		"TextENG": "...In any case, everyone in the organization is suspicious."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107520,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS12/10/281000036.",
+		"TextJPN": "「梨花さんの心配はわかってます。@k@vS12/10/281000037.鷹野さんたちを殺した何者かが次にあなたを狙わないとは限らないですからね。@k@vS12/10/281000038.東京もそこは特に気にしていました」",
+		"NamesENG": "Irie",
+		"TextENG": "``I understand how scared you must feel.@k@vS12/10/281000037. The people who attacked Takano-san and Tomitake-san could be after you, too...@k@vS12/10/281000038. The people in Tokyo are also concerned about that.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107521,
+		"NamesJPN": "小此木",
+		"PreTextTags": "@vS12/14/283400017.",
+		"TextJPN": "「山狗にも、あなたの警護体制を最高にするよう命令が来ています。@k@vS12/14/283400018.ご安心してくださいんね」",
+		"NamesENG": "Okonogi",
+		"TextENG": "``We got the order to tighten up your security.@k@vS12/14/283400018. Don't worry.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107522,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/280500103.",
+		"TextJPN": "「……それが聞ければ、ボクは少し安心なのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``...I'm very relieved to hear that.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107523,
+		"TextJPN": "山狗たちにそういう命令が来ていると直接聞けたのは初めての経験だった。",
+		"TextENG": "This was the first time the Mountain Dogs had ever tightened up my security."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107524,
+		"TextJPN": "今までは、疑惑の目を向けられた入江の監視に体制が移り、私は無視されることがほとんどだった。",
+		"TextENG": "They usually become so busy keeping tabs on Irie after Tomitake and Takano's deaths that they end up ignoring me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107525,
+		"TextJPN": "だから、富竹たちの死は防げなくても、今回の世界はかなり有利な条件であることを確認できた。",
+		"TextENG": "Even though they're dead, I'm still in a pretty favorable situation."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107526,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/280500104.",
+		"TextJPN": "「……鷹野たちを殺した犯人に、心当たりはないのですか？」",
+		"NamesENG": "Rika",
+		"TextENG": "``...So do you have any idea who killed them?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107527,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS12/10/281000039.",
+		"TextJPN": "「東京の皆さんも調べられています。@k@vS12/10/281000040.状況を見る限り、内部事情に精通した人間の仕業です。@k@vS12/10/281000041.……はははは、どうやら真っ先に疑われたのは私のようです」",
+		"NamesENG": "Irie",
+		"TextENG": "``People in Tokyo are investigating that now.@k@vS12/10/281000040. Based on the situation, it's clear that this was done by someone within the organization.@k@vS12/10/281000041. ...Ha ha ha ha, I guess I'm their prime suspect.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107528,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/280500105.",
+		"TextJPN": "「……富竹にああいう死に方をさせられるのは入江だけなのです」",
+		"NamesENG": "Rika",
+		"TextENG": "``...You're the only one who could kill Tomitake like that.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107529,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS12/10/281000042.",
+		"TextJPN": "「そ、そんなことはありません。@k@vS12/10/281000043.恐らく東京の方もＨ１７３の話をしているのでしょうが。@k@vS12/10/281000044.あれは危険な目的での研究が中止された時、全て破棄されたはずです。@k@vS12/10/281000045.あんなことは不可能だ…！」",
+		"NamesENG": "Irie",
+		"TextENG": "``Th-That's not true.@k@vS12/10/281000043. The people in Tokyo are discussing the possible use of H173.@k@vS12/10/281000044. But that drug was destroyed when the research was cancelled.@k@vS12/10/281000045. It's impossible...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107530,
+		"NamesJPN": "小此木",
+		"PreTextTags": "@vS12/14/283400019.",
+		"TextJPN": "「ですんが所長。@k@vS12/14/283400020.こういうことが起こってしまった以上、東京は疑わざるを得ません。@k@vS12/14/283400021.それに富竹氏には予防薬が予め与えられていたはず。@k@vS12/14/283400022.にも拘らず発症したんです」",
+		"NamesENG": "Okonogi",
+		"TextENG": "``However...@k@vS12/14/283400020. They have no choice but to suspect you in this case.@k@vS12/14/283400021. Mr. Tomitake even took a vaccine before he came here.@k@vS12/14/283400022. But he still got infected.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107531,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS12/10/281000046.",
+		"TextJPN": "「天文学的低確率で起こった偶然だとしか言えません…。@k@vS12/10/281000047.とにかく、絶対そんなことはありえないんです…！」",
+		"NamesENG": "Irie",
+		"TextENG": "``It must just be an extremely unlikely coincidence...@k@vS12/10/281000047. Anyway, it's just impossible...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107532,
+		"TextJPN": "…入江は普段は落ち着きのある人間なのだが。",
+		"TextENG": "...Irie is usually a very calm person..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107533,
+		"TextJPN": "…東京から疑いの目を向けられる綿流し以降は、落ち着きを失ってしまうことがほとんどだった。",
+		"TextENG": "but once the people in Tokyo start suspecting him, he often loses his mind."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107534,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/280500106.",
+		"TextJPN": "「……鷹野が犯人、ということはありませんですか？@k@vS12/05/280500107.　鷹野なら内部の人間です」",
+		"NamesENG": "Rika",
+		"TextENG": "``......Do you think Takano might be the culprit?@k@vS12/05/280500107. She's someone within the organization.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107535,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS12/10/281000048.",
+		"TextJPN": "「鷹野さんが…？@k@vS12/10/281000049.　ま、まさか……」",
+		"NamesENG": "Irie",
+		"TextENG": "``Takano-san....?@k@vS12/10/281000049. N-No way...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107536,
+		"TextJPN": "とは言いつつも、鷹野が犯人だったら全ての理由は説明できることに入江は気付きつつあった。",
+		"TextENG": "But as he spoke, Irie also started to realize that everything could be explained if Takano was the culprit."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107537,
+		"TextJPN": "……ただ、その仮説に自信を持たせる動機がまったく思いつかなかった。",
+		"TextENG": "......But I don't know how to persuade him that it's the truth."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107538,
+		"TextJPN": "人は動機を求める生き物だ。",
+		"TextENG": "More than anything, people want to hear a motive."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107539,
+		"TextJPN": "誰がやったかよりも、どうしてやったかを知りたがる。",
+		"TextENG": "Not who did something, but why."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107540,
+		"TextJPN": "……よくよく考えればそれはとても取るに足らないことかもしれない。",
+		"TextENG": "...Knowing that probably isn't as important as it sounds."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107541,
+		"TextJPN": "動機なんて、犯人が打ち明けるまでわからない。",
+		"TextENG": "After all, you never know the motive unless the suspect talks."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107542,
+		"TextJPN": "それを他人が想像して至ろうという時点で無意味だ。",
+		"TextENG": "Guessing about the motive is just a waste of time."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107543,
+		"TextJPN": "だから、動機がわからないから鷹野が犯人ではありえないという入江の考え方はきっと間違っていた。",
+		"TextENG": "In other words, it's stupid to assume that Takano isn't the culprit just because I don't know what her motive is."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107544,
+		"NamesJPN": "小此木",
+		"PreTextTags": "@vS12/14/283400023.",
+		"TextJPN": "「梨花さん、確証もないことを言っちゃあいけませんね…。@k@vS12/14/283400024.あれだけ親切にしてくれたんじゃあないんですか。@k@vS12/14/283400025.それを疑っちゃあ悪いですんね」",
+		"NamesENG": "Okonogi",
+		"TextENG": "``Rika-san, you can't say something like that without any proof...@k@vS12/14/283400024. She was very nice to you.@k@vS12/14/283400025. How can you suspect her after that?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107545,
+		"TextJPN": "小此木が、まるで恩知らずだとでも言いたそうな嫌味っぽい目で笑いながら私に言った。",
+		"TextENG": "Upon hearing me be ungrateful towards his boss, Okonogi flashed me an unpleasant smile."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107546,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS12/05/280500108.",
+		"TextJPN": "「…………………」",
+		"NamesENG": "Rika",
+		"TextENG": "``...........``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107547,
+		"TextJPN": "確かに私は鷹野にたくさん世話になった。",
+		"TextENG": "It's true that Takano was very nice to me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107548,
+		"TextJPN": "それを思えば疑うのは恩知らずかもしれない。",
+		"TextENG": "It might be disrespectful of me to suspect her."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107549,
+		"TextJPN": "でも、……だからといって、疑いから外すことはまだできない。",
+		"TextENG": "However... I still can't trust her completely yet."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107550,
+		"TextJPN": "それとも、私も大石と同じ悪い癖に取り憑かれているのか？",
+		"TextENG": "Perhaps I've developed the same bad habit as Ooishi."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107551,
+		"TextJPN": "何とか自分の運命から逃れたいと足掻くあまり、異説奇説に飛び付きたがっているのか…？",
+		"TextENG": "Am I believing every crazy theory I hear just because I'm desperate to escape from my fate...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107552,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS12/10/281000050.",
+		"TextJPN": "「とにかく、私たちの身近で、何かよくないことが起こりつつあるのは間違いありません。@k@vS12/10/281000051.用心するに越したことはないでしょう」",
+		"NamesENG": "Irie",
+		"TextENG": "``In any case, something bad is going on around here.@k@vS12/10/281000051. We all need to be careful.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107553,
+		"NamesJPN": "小此木",
+		"PreTextTags": "@vS12/14/283400026.",
+		"TextJPN": "「ご心配なく。@k@vS12/14/283400027.所長に対する警護体制も最高にするよう命令を受けておりますんね」",
+		"NamesENG": "Okonogi",
+		"TextENG": "``Don't worry.@k@vS12/14/283400027. We've received an order to tighten up your security too...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107554,
+		"TextJPN": "入江が苦笑いする。@k…きっと、警護でなく監視の間違いだと胸の中で苦笑しているだろう。",
+		"TextENG": "Irie smiled bitterly.@k ...For him, their protection wouldn't be too different from stalking."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107555,
+		"NamesJPN": "小此木",
+		"PreTextTags": "@vS12/14/283400028.",
+		"TextJPN": "「梨花さんも警察には不用意なことをしゃべらないようにお願いしますん。@k@vS12/14/283400029.……わかってると思いますが、場合によっては機密保持のため、厄介なことになるかもしれませんので」",
+		"NamesENG": "Okonogi",
+		"TextENG": "``Rika-san, make sure that you don't give up too much information to the police.@k@vS12/14/283400029. I think you understand, but you could create a problem if you talked to them about our secrets.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107556,
+		"TextJPN": "それは私が不用意なことをしゃべった相手を消すという意味だ。",
+		"TextENG": "He was implying that he'd have to kill anyone I talked to."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107557,
+		"TextJPN": "……そんなのは今この場で改めて言われることでもない。",
+		"TextENG": "...This isn't the first time they've warned me about this."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107558,
+		"TextJPN": "ただ、………もし本当に鷹野が犯人なら。",
+		"TextENG": "It's just...... what if Takano really is the culprit...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107559,
+		"TextJPN": "鷹野の部下である小此木もその一味に違いなかった。",
+		"TextENG": "If she is, then Okonogi is almost certainly involved too."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107560,
+		"TextJPN": "…そう考えれば、小此木が鷹野が犯人かもしれないというとすぐに否定したがるのも納得がいった。",
+		"TextENG": "...Then it'd make sense that he wouldn't want me to suspect Takano."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107561,
+		"TextJPN": "でも、もしもそうならば恐ろしい。",
+		"TextENG": "But that would be horrifying."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107562,
+		"TextJPN": "鷹野が敵で、@k山狗も敵なら、@k…つまりこの診療所は丸ごと敵の巣だということになる。",
+		"TextENG": "If Takano was my enemy,@k then the Mountain Dogs were too.@k ...This whole clinic is a lion's den."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107563,
+		"TextJPN": "入江は所詮、所長という名を冠した単なる研究者に過ぎないから、何があっても知りはしないだろう。",
+		"TextENG": "Irie is just a researcher, so he probably wouldn't know what's really going on."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107564,
+		"TextJPN": "でも考えれば考えるほどにわからない。",
+		"TextENG": "The more I thought about it, the more confused I got."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107565,
+		"TextJPN": "……鷹野がどうしてそんなことをしなくてはいけないのか？",
+		"TextENG": "Why would Takano do something like this?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107566,
+		"TextJPN": "…あぁもう、動機なんか何の意味もないとわかっているのに考えてしまう人としての身が憎い。",
+		"TextENG": "I thought I'd just convinced myself that the motive shouldn't even matter, but I can't stop thinking about it..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107567,
+		"TextJPN": "鷹野は本当に犯人なのか。",
+		"TextENG": "Is Takano really behind it all?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107568,
+		"TextJPN": "それとも、私も大石に感化されて妙な妄想に取り憑かれているのか。",
+		"TextENG": "Am I going as crazy as Ooishi just because of how badly I want to solve this mystery?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107569,
+		"TextJPN": "こう考えると、……山狗の警護はむしろ、羊の番を狼にさせるようなものなのかもしれない。",
+		"TextENG": "Perhaps... the Mountain Dogs are more like wolves looking after a flock of sheep."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107570,
+		"TextJPN": "私は今日までの百年間。",
+		"TextENG": "I've lived for over a hundred years."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107571,
+		"TextJPN": "…自分を殺す何者かの正体を掴めず、自分の守りを固めるために入江機関に媚を売ってきた。",
+		"TextENG": "I never once found out who killed me, and I stayed close to the Irie Institute so that they'd protect me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107572,
+		"TextJPN": "…それがそもそもの間違いなのだとしたら…？",
+		"TextENG": "...What if that was my big mistake...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107573,
+		"TextJPN": "………いや、……入江に悪意も下心もないのは間違いない。",
+		"TextENG": "......Well... I'm sure that Irie has no bad intentions."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107574,
+		"TextJPN": "数多の世界で彼の真摯な姿を見てきた。",
+		"TextENG": "In many lives, I got to see just how genuine his feelings are."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107575,
+		"TextJPN": "だから入江だけは信用できる。",
+		"TextENG": "I can trust him."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107576,
+		"TextJPN": "……問題は頼りにならないことだけだ。",
+		"TextENG": "...However, he's not really reliable."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107577,
+		"TextJPN": "小此木と目が合う。",
+		"TextENG": "Okonogi glanced over at me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107578,
+		"TextJPN": "大船に乗った気でいてくださいんね、と胸を叩き余裕をアピールする笑みは、今の私には悪意が篭っているように見えてならない。",
+		"TextENG": "He smiled and told me not to worry, but I noticed an evil glint in his eyes."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107579,
+		"TextJPN": "………私も、いつの間にか雛見沢症候群を発症させてしまい、疑心暗鬼に取り憑かれてしまったか……？",
+		"TextENG": "......It's possible that I have Hinamizawa Syndrome, and that was just a hallucination."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107580,
+		"TextJPN": "何が何やらわからない。",
+		"TextENG": "I don't understand anything."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107581,
+		"TextJPN": "誰が味方で誰が敵かわからなくなる。",
+		"TextENG": "I don't even know who my enemies are anymore."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107582,
+		"TextJPN": "……いや、そんな情けないことを言うな。",
+		"TextENG": "...There's no point in thinking about this any longer."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107583,
+		"TextJPN": "数多の世界で知ってきた、信頼を寄せるべき相手を信じるんだ。",
+		"TextENG": "I have to only trust who I know I can trust for sure."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107584,
+		"TextJPN": "確実に私の敵じゃないのは、……入江、大石。@k……そして、私の仲間たち。",
+		"TextENG": "There are only a few of those people, though. ...... Irie, Ooishi...@k and my friends."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107585,
+		"TextJPN": "だが、小此木が鷹野の手先なら、鷹野を疑い始めている私を厳重に監視してくるだろう。",
+		"TextENG": "If Okonogi is on Takano's side, he will be watching me very closely."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107586,
+		"TextJPN": "下手な接触を悟られれば、彼らの本来任務に従い、あっさり消されてしまうかもしれない。",
+		"TextENG": "If I started accusing Takano of anything, who knows what they'd do to me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107587,
+		"TextJPN": "……………私はこの世界が再び始まった時、何て残り少ない時間の世界だろうと嘆いたが。",
+		"TextENG": ".........When this world first began, I thought I had no time left."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107588,
+		"TextJPN": "…そんなことはない。",
+		"TextENG": "...But that wasn't true."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107589,
+		"TextJPN": "……なんて長く濃密な２週間なのか。",
+		"TextENG": "...The number of things that happened in just two weeks was immense."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107590,
+		"TextJPN": "そして多分、私が迎える命日までもう何日もないだろう。",
+		"TextENG": "I probably only have a few more days left until the day of my death."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107591,
+		"TextJPN": "私に何ができる？",
+		"TextENG": "What can I do?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107592,
+		"TextJPN": "何が足掻ける？",
+		"TextENG": "How can I change this?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 107593,
+		"TextJPN": "……羽入が諦めるようにやはり今回も駄目なのか？",
+		"TextENG": "Am I supposed to just take Hanyuu's advice and resign this time?"
+	}
+]

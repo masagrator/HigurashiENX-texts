@@ -1,781 +1,779 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "A4 サイコロの１",
-            "ENG": "A4 A Roll of a One"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3849,
-            "TextJPN": "…………それは突然のことだった。",
-            "TextENG": "......It happened so suddenly."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3850,
-            "TextJPN": "小泉のおじいちゃんが、亡くなったからだ。",
-            "TextENG": "Uncle Koizumi passed away."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3851,
-            "TextJPN": "具合が悪いとか、体調が優れないとか、そんな話は一度も聞いたことがなかった。",
-            "TextENG": "I never heard he was ill or wasn't feeling well."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3852,
-            "TextJPN": "…胸が急に痛くなって眠れない。明日の朝が待てそうにないと、生まれて初めて救急車を呼んでみたという。すぐに救急治療室に運び込まれたが、朝まで持たなかった。",
-            "TextENG": "His chest started to hurt suddenly, and he couldn't sleep. He called an ambulance for the first time in his life because he didn't think he could endure the pain. He was taken into emergency care, but he didn't live to see morning."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3853,
-            "TextJPN": "急性心筋梗塞だという。………でも、ある意味、幸せな最期だったかもしれない。",
-            "TextENG": "It was an acute myocardial infarction. ......But maybe it was the best possible way to go."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3854,
-            "TextJPN": "病床に伏せり、数年かけて痩せ衰えてから死に至るのに比べれば、死に至る直前まで元気に過ごせたのだから、その分、生を満喫できたと言うべきだろう。",
-            "TextENG": "Instead of being in bed for many years slowly dilapidating and withering away, he was healthy until his death, so I think he must have lived a wonderful life."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3855,
-            "TextJPN": "しかし、…それでもあまりに呆気ない最期だった。",
-            "TextENG": "But still... it was too sudden."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3856,
-            "TextJPN": "もっと彼のことをおじいちゃんと呼んであげればよかった…。そう後悔しても、もう遅い。……小泉のおじいちゃんは、もう私が何度そう呼んでも、はにかむような笑顔を返してくれることはないのだ。",
-            "TextENG": "I wish I had called him 'Uncle' more. It's too late though. ......Uncle Koizumi would never smile at me again with his wrinkly old face, no matter how many times I called for him."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3857,
-            "TextJPN": "……今日まで彼は私の後見人で居てくれた。私の努力が正当に評価されるよう、常に見守ってくれていた。",
-            "TextENG": "......He was my guardian until now. He always looked after me, making sure my efforts received proper recognition."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3858,
-            "TextJPN": "祖父が存命中、研究に協力できなかったことへの罪滅ぼしだったにせよ、私にとっては掛け替えのない人で、…………大切な人だった。…単に後ろ盾という意味でなく。",
-            "TextENG": "Maybe he only did that because he couldn't help my grandfather when he was alive. But still, he was an important person to me. He wasn't just my political backing."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3859,
-            "TextJPN": "でも、それは存命中には気付かなかったこと。彼の持つ強大な権力を自分の目的のためにうまく使ってやろう、そんな失礼極まりないことを平気で考えていたこともある。",
-            "TextENG": "But, I didn't realize that when he was alive. I only thought of using his power for my own agenda."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3860,
-            "TextJPN": "だが、……彼がいなくなって初めて知った。",
-            "TextENG": "But after he died, I realized."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3861,
-            "TextJPN": "小泉のおじいちゃんは、……おじいちゃんだった。…私が祖父に求めていたものを、温かく見守ることで与えてくれていたのだ。",
-            "TextENG": "Uncle Koizumi was my grandpa too. He provided the warmth and protection that I longed for from my own grandfather."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3862,
-            "TextJPN": "私は本葬に駆けつけ、焼香する時に、…………祖父が死んだ時以来、流し方も忘れていた涙を、…再び零すのだった………。",
-            "TextENG": "At his funeral, I shed tears that I thought that I forgot how to."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3863,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900049.",
-            "TextJPN": "「…おじいちゃん……。今までありがとう……。もっと、………もっと、おじいちゃんって呼んであげればよかったね……。………………うぅうぅぅぅ………」",
-            "NamesENG": "Takano",
-            "TextENG": "``...Uncle... Thank you for everything... I should have called you Uncle more, huh? .......Oooh...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3864,
-            "TextJPN": "…もう何度呼んでも、それに応えてくれることはない。",
-            "TextENG": "No matter how many times I called to him, he would never reply."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3865,
-            "TextJPN": "私にできる恩返しは、お膳立てしてくれた研究を完遂すること。………つまり、私の目的をきっちりと成し遂げることだけだ。",
-            "TextENG": "What I can do for him at this point is complete my research. I must accomplish my goal for his sake."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3866,
-            "TextJPN": "祖父の研究を認めさせた時、その唯一の理解者であった小泉のおじいちゃんの名前も共に蘇らせる。……それだけが多分、今日までの恩に報いる方法に違いなかった。",
-            "TextENG": "When my grandfather's research is finally acknowledged, Uncle Koizumi's name will be known once again for being the sole supporter of his endeavor. I believe that's the best way to repay him for everything he has done."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3867,
-            "TextJPN": "…私は、ますますに日々の研究に全精力を注ぐことを遺影に誓うのだった…。",
-            "TextENG": "I vow to devote myself to my work even more from this day on..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3868,
-            "TextJPN": "だが、………泣き面に蜂と言うように。…悲しいことや辛いことは重なる。",
-            "TextENG": "But... unfortunately... ...hardships and sadness tend to come together."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3869,
-            "TextJPN": "それはまるで、…今日まで順調に吹いていた追い風が止み、…急に向い風になるようなもの。……あまりに突然な、風向きの変化。…強く、冷たく、悲しく。",
-            "TextENG": "It was like... the tailwind that blew steadily until today... suddenly became a headwind."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3870,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900050.",
-            "TextJPN": "「………え？　どういうことなの、ジロウさん」",
-            "NamesENG": "Takano",
-            "TextENG": "``......What? What are you talking about, Jirou-san?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3871,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800049.",
-            "TextJPN": "「…うん。小泉先生が入江機関設立の立役者だったのは、鷹野さんも知ってるよね。……関係機関でなかなか承認の取れなかったのを、小泉先生が強力に押さえ込んで無理やり通させたって話なんだよ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``...Well, you know that Koizumi-sensei was the main political sponsor for the Irie Insitute, right? ...He had trouble getting approval from the related agencies, but Koizumi-sensei used his political weight to force it through."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3872,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800050.",
-            "TextJPN": "「……何しろ、医薬品業界で絶大な功績を挙げられた戦後日本復興の重鎮だからね。政財界に絶大な影響力を持たれていたし」",
-            "NamesENG": "Tomitake",
-            "TextENG": "...After all, he was one of the key figures in the post-war restoration, accomplishing tremendous deeds in the medical industry. He held a huge influence in politics and industry.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3873,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900051.",
-            "TextJPN": "「…その小泉先生が亡くなって、小泉先生が通した無理やりが通らなくなったということ…？」",
-            "NamesENG": "Takano",
-            "TextENG": "``So now that Koizumi-sensei is gone, the way he did things won't work any longer?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3874,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800051.",
-            "TextJPN": "「あくまでも噂なんで本当のところは僕にもわからないんだけど…。……一部の予算配当やプロジェクトの見直しが行なわれるらしいというのを聞いたんだよ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``So far, it's only a rumor, so I don't know for sure. But I heard they're going to reconsider the budget allocated for the project.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3875,
-            "NamesJPN": "鷹野",
-            "PreTextTags": "@vS20/09/440900052.",
-            "TextJPN": "「……入江機関が廃止されるということ？！」",
-            "NamesENG": "Takano",
-            "TextENG": "``...Are you saying the Irie Institute will be closed down?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3876,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800052.",
-            "TextJPN": "「いや、入江機関を見直すというのは聞いたことないけど…。ただ、小泉先生の死後、長老たちの派閥や勢力、後継者争いがややこしくなっているってもっぱらの噂なんだ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "``No, I haven't heard anything about them reconsidering the Institute. ...But since Koizumi-sensei's death, the rumors say that there's a great deal of confusion among the old guard and their factions as well as the civil strife within the party around finding his successor."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3877,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800053.",
-            "TextJPN": "「すでにクライアントの人事にかなりの影響を与え始めてるらしいんだ」",
-            "NamesENG": "Tomitake",
-            "TextENG": "It seems the opposing factions are gaining influence in the human resources of our client."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3878,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800054.",
-            "TextJPN": "「それで、小泉派が主導していたプロジェクトや聖域予算に対し、締め付けが行なわれるんじゃないかって、憶測が飛び交ってるらしいんだよ…」",
-            "NamesENG": "Tomitake",
-            "TextENG": "So they may begin to dig deep into the holy treasure chest that the Koizumi faction held to fund their project."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3879,
-            "NamesJPN": "富竹",
-            "PreTextTags": "@vS20/08/440800055.",
-            "TextJPN": "「もちろん、それらは全て僕にとって、雲の上の話だからね。伝え聞いた噂話でしかないんだけれど…」",
-            "NamesENG": "Tomitake",
-            "TextENG": "Of course, this is all too complicated for me to explain that well and besides, these might just be rumors.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3880,
-            "TextJPN": "ジロウさんは噂に過ぎないと何度も断ったが、……それは風向きが向い風に変わったことを教えてくれるものだった…。",
-            "TextENG": "Jirou-san kept saying they were rumors, but that told me the wind's direction has changed."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3881,
-            "TextJPN": "いや、…あるいはジロウさんはもう全てを知っていて、…風向きが急激に変わることを私に警告してくれたのかもしれない…。",
-            "TextENG": "Or maybe... Jirou-san already knows everything, and is simply trying to warn me about it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3882,
-            "TextJPN": "そして、…次の定期監査の時。それははっきりとジロウさんの口から告げられた。",
-            "TextENG": "And then, at our next routine audit. Jirou-san made it clear with his own mouth."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3883,
-            "TextJPN": "その定期監査には、ジロウさんだけでなく、これまで一度も訪れたことがないような高官たちが混じっていた。…その面々だけで、私は転機が訪れていることを知った。",
-            "TextENG": "High-ranking government officials, who had never came here before, attended the routine audit along with Jirou-san. Just by seeing those faces, I can tell the turning point is approaching."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3884,
-            "NamesJPN": "役人",
-            "PreTextTags": "@vS20/00/kanryoA44000.",
-            "TextJPN": "「ご存じのとおり、アルファベットプロジェクトは戦後日本の国際的な地位向上を目的としたものです」",
-            "NamesENG": "Government Official",
-            "TextENG": "``As you know, the Alphabet Project was created to strengthen post-war Japan's presence in the world with the view of developing deterrent weaponry."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3885,
-            "NamesJPN": "役人",
-            "PreTextTags": "@vS20/00/kanryoA44001.",
-            "TextJPN": "「ですが、すでに昭和も５０年代に至り、西暦は２１世紀を間近にしております」",
-            "NamesENG": "Government Official",
-            "TextENG": "However, the 21st century is now just around the corner."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3886,
-            "TextJPN": "それはそのままの意味。日本がすでに戦後を脱却しているということ。そして、過去の栄光にしがみつく亡霊との決別を意味する。",
-            "TextENG": "He meant exactly what he said. Japan has already put the past behind. And it's cutting off its ties to the ghosts that wished to resurrect the militaristic might of the pre-war era."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3887,
-            "NamesJPN": "役人",
-            "PreTextTags": "@vS20/00/kanryoA44002.",
-            "TextJPN": "「戦後４０年間、我が国は世界への平和的貢献を模索し、国際的地位を確立するに至りました」",
-            "NamesENG": "Government Official",
-            "TextENG": "``It's been forty years since the end of the war, and we've contributed to the world in various peaceful ways. We have a strong alliance with the United States, and our nation has established its position in world affairs well enough."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3888,
-            "NamesJPN": "役人",
-            "PreTextTags": "@vS20/00/kanryoA44003.",
-            "TextJPN": "「日本は国際社会において重要なポジションを担う国家として成熟し、来世紀にはますますにその存在感を強めることでしょう」",
-            "NamesENG": "Government Official",
-            "TextENG": "We have kept our promise to forever renounce war and nuclear weapons, and we are known as a nation of peace. In this coming century, our presence and influence will grow even larger.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3889,
-            "TextJPN": "入江機関のスポンサー団体であるアルファベットプロジェクトは、国際社会においての発言力を高める『手段』を探そうというのが設立趣旨のはずだ。",
-            "TextENG": "The Alphabet Project, the main sponsor of the Irie Institute, are a group of people who want to develop a weapon that would act as a deterrent to the nuclear weapons which Japan is forbidden to own."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3890,
-            "TextJPN": "…その下部組織である入江機関に出向き、今や日本は国際社会に地位を築いたと言うのだから、……入江機関に対して今後、向い風が吹き、しかもそれが強くて冷たいものになるのは明白だった。",
-            "TextENG": "...So they've come to the Irie Institute, one of its branch organizations, to tell us Japan has now renounced nuclear arms... so the Irie Institute will be facing a strong, cold headwind from now on."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3891,
-            "TextJPN": "あの雷雨の日で終わったはずの、サイコロの１が、再び私に、その出目を見せるようになりつつある…。",
-            "TextENG": "The roll of the die that came up with 1 on that stormy day has reappeared."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3892,
-            "TextJPN": "………サイコロの目程度で挫けるものか…。神々の弄ぶサイコロ如きに、私の意思の力が負けてたまるか…。",
-            "TextENG": "......I won't let the result of a die affect me. The power of my will won't be beaten by some god's roll of the dice..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3893,
-            "NamesJPN": "役人",
-            "PreTextTags": "@vS20/00/kanryoA44004.",
-            "TextJPN": "「よって、現在、時代に即した形になるよう、アルファベットプロジェクトの見直しを進めています」",
-            "NamesENG": "Government Official",
-            "TextENG": "``Therefore, we are going to restructure the Alphabet Project to one that's more suitable for the day and age."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3894,
-            "NamesJPN": "役人",
-            "PreTextTags": "@vS20/00/kanryoA44005.",
-            "TextJPN": "「新生アルファベットプロジェクトは、国際交流と経済発展の２軸からなる平和外交の見地から日本の地位向上を模索していくことになるでしょう」",
-            "NamesENG": "Government Official",
-            "TextENG": "This new Alphabet Project will be tasked with figuring out the best way for this country to achieve a larger presence in world affairs, not through militaristic means.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3895,
-            "TextJPN": "…日本の政財界に絶大な影響力を持つ黒幕たちは皆、戦前の生まれ。過去の栄光再び、が念願だ。",
-            "TextENG": "All of the people who hold tremendous influence in the politics and economy of Japan were born before the war, so naturally they want to regain the glory of pre-war Japan."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3896,
-            "TextJPN": "過去の栄光を取り戻す、なんて発想自体が、すでに過去の亡霊なのだ。",
-            "TextENG": "The very idea that we can win next time if we research the new bomb that defeated us is itself a specter of the war."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3897,
-            "TextJPN": "……いや、そんなことは誰でも思ってた。だが、大恩ある長老たちが気炎を上げるそれに、誰も意見することができなかっただけだ。",
-            "TextENG": "...No, everyone already realized that. It was just that no one could speak out against the grandstanding elders they owed their gratitude towards."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3898,
-            "TextJPN": "いずれ古き世代は老いて去り、新しい世代が長老と呼ばれるようになる。",
-            "TextENG": "Soon, the old will wither away and the new generation will take control."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3899,
-            "TextJPN": "…小泉のおじいちゃんはその古い世代の、最後の砦だったということなのだろう。その死をきっかけに、黒幕たちの世代交代が行なわれるというだけの話だ。",
-            "TextENG": "Uncle Koizumi was, in a way, the last remaining pillar for the old generation. His death is a chance for the new generation to step in."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3900,
-            "TextJPN": "表だって批判できなかったものが、次々と批判され見直されるようになっている。",
-            "TextENG": "The things they couldn't argue openly are now being discussed."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3901,
-            "TextJPN": "アルファベットプロジェクトは、一部の人間により私物化された諮問機関との指摘が当初からあり、省庁の予算を不正に吸い出しているとの批判が尽きなかった。",
-            "TextENG": "They've pointed out that from the beginning, the Alphabet Project was created for the personal satisfaction of a small group of people, and it's sucked money out of the treasury."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3902,
-            "TextJPN": "そうして、古い世代の利権を奪い、……結局は巡り巡って新しい世代の利権となる。",
-            "TextENG": "And so, the new generation of politicians... have taken over from the old."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3903,
-            "NamesJPN": "役人",
-            "PreTextTags": "@vS20/00/kanryoA44006.",
-            "TextJPN": "「よって、アルファベットに関わる全てのプロジェクトで今後、大幅な予算の見直しが図られていくことになります」",
-            "NamesENG": "Government Official",
-            "TextENG": "``Therefore, everything the Alphabet Project was sponsoring will have to be re-reviewed."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3904,
-            "NamesJPN": "役人",
-            "PreTextTags": "@vS20/00/kanryoA44007.",
-            "TextJPN": "「これはもちろん、入江機関も例外ではありません。どうかご了解をいただけますよう、よろしくお願いいたします」",
-            "NamesENG": "Government Official",
-            "TextENG": "Of course, the Irie Institute is one of those subsidiaries. We hope that you'll understand and respond amicably.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3905,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS20/10/441000058.",
-            "TextJPN": "「…………わかりました。私たちもスポンサーあっての研究です。どうかよろしくお願いいたします」",
-            "NamesENG": "Irie",
-            "TextENG": "``I understand... We can't do research without our sponsors, after all. We'll give you our full cooperation.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3906,
-            "TextJPN": "入江が儀礼的な返事をするが、戸惑いは隠せないようだった。",
-            "TextENG": "Irie responded appropriately, but he's obviously bewildered."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3907,
-            "TextJPN": "入江機関には最高の機材と最高の人材が当てられている。",
-            "TextENG": "The best equipment and staff are being provided to the Irie Institute."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3908,
-            "TextJPN": "はっきり言えば、金食い虫の研究だ。………雛見沢症候群に興味のない人間から見れば、得体の知れない現象の研究に、なぜこんな莫大な予算を投じるのか理解できないだろう。",
-            "TextENG": "In other words, our research requires a huge amount of money. For those with no interest in Hinamizawa Syndrome, they probably won't be able to understand why that much money is being put into the research of disgusting parasites."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3909,
-            "TextJPN": "だが、予算の引き締めならまだ何とかなる。…これまでの予算が潤沢過ぎたのだ。それが適正な額に戻されるだけ。",
-            "TextENG": "If they're simply going to revise our budget, that would be fine. ...We were receiving more than enough money."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3910,
-            "TextJPN": "………確かに痛いことだが、まだ何とか耐え凌げる。…そう思っていた。………だが、耐え凌げる程度ならば、サイコロの１とは言えない。",
-            "TextENG": "That would, naturally, be adjusted. ......It hurts, but we can endure. ...That's what I thought. ...But if just enduring it was enough, it wouldn't be a 1 on the die."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3911,
-            "TextJPN": "……その意味においても、…これは間違いなくサイコロの１だったのである。",
-            "TextENG": "...So, even in that sense ...this is definitely a roll of a die coming up as 1."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3912,
-            "NamesJPN": "役人",
-            "PreTextTags": "@vS20/00/kanryoA44008.",
-            "TextJPN": "「…でありまして、この４月に新体制の理事会が発足し、全プロジェクトに対する新方針が示されました。これにつきましてはお配りします資料をご覧ください」",
-            "NamesENG": "Government Official",
-            "TextENG": "``Anyway, the new board of directors was inaugurated back in April, and they've outlined their new policies for all projects. For more details, please look through the papers I'll be handing out.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3913,
-            "TextJPN": "時計回りに資料が回ってくる。…資料の内容について進行役がのんびりと読み始めるが、私はそれよりも早く読み進み、この資料がどのような暴言を言おうとしているのかを一秒でも早く知ろうとしていた…。",
-            "TextENG": "His papers were then passed around. He started to go over the details, but I read through quickly so I could learn about their stupid decisions first."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3914,
-            "NamesJPN": "役人",
-            "PreTextTags": "@vS20/00/kanryoA44009.",
-            "TextJPN": "「入江機関はこれまで、先進的な研究において数々の目覚しい成果を挙げられ、未知であった雛見沢症候群の全貌解明、そして治療薬の開発を成し遂げました」",
-            "NamesENG": "Government Official",
-            "TextENG": "``The Irie Institute has made great headway in uncovering the mystery of the Hinamizawa Syndrome, as well as creating a cure for the disease."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3915,
-            "NamesJPN": "役人",
-            "PreTextTags": "@vS20/00/kanryoA44010.",
-            "TextJPN": "「理事会でもこの成果は大変に高く評価しています。これも全て、入江所長以下、入江機関全職員の@bたゆ.@<弛@>みない努力によるものと思っております」",
-            "NamesENG": "Government Official",
-            "TextENG": "The board of directors is extremely pleased. We recognize this is due to the unceasing efforts of Director Irie and all the staff of the Irie Institute.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3916,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS20/10/441000059.",
-            "TextJPN": "「いえ、…恐縮です」",
-            "NamesENG": "Irie",
-            "TextENG": "``Thank you.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3917,
-            "TextJPN": "褒め言葉のはずだが、私も入江も緊張は抜けない。……物事の伝え方は、本題の前に逆の方向へ持ち上げるのが常套手段だからだ。",
-            "TextENG": "Even while he received their congratulations, a tense atmosphere surrounded me and Irie. It's customary to start the conversation in the opposite way you're planning to take it before delving into your main point to convey."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3918,
-            "TextJPN": "良い話だったら、先に悪い話をして後の話の良さを引き立てる。…悪い話でも同じだ。",
-            "TextENG": "If the main issue is something good, then start with something bad. ...Or vice versa."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3919,
-            "NamesJPN": "役人",
-            "PreTextTags": "@vS20/00/kanryoA44011.",
-            "TextJPN": "「入江機関の研究目的は２つありました。雛見沢症候群の研究と治療法の確立。そして多面運用の模索です」",
-            "NamesENG": "Government Official",
-            "TextENG": "``The Irie Institute had two main intentions. One was to study the disease and hopefully find a cure. The other was to research the possibility of utilizing the disease for military applications."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3920,
-            "NamesJPN": "役人",
-            "PreTextTags": "@vS20/00/kanryoA44012.",
-            "TextJPN": "「新生理事会はこの後者の、多面運用の模索については即時の中止を決定しました」",
-            "NamesENG": "Government Official",
-            "TextENG": "The new board of directors has decided to put a stop to the latter immediately."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3921,
-            "NamesJPN": "役人",
-            "PreTextTags": "@vS20/00/kanryoA44013.",
-            "TextJPN": "「これらの研究開発が国内で行なわれていた事実と痕跡は、今後はむしろアキレス腱になりかねません」",
-            "NamesENG": "Government Official",
-            "TextENG": "In this day and age, researching biological weapons is an Achilles' heel for Japan."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3922,
-            "NamesJPN": "役人",
-            "PreTextTags": "@vS20/00/kanryoA44014.",
-            "TextJPN": "「入江機関は直ちに、これに関わる全ての研究を中止し、一切を破棄してください」",
-            "NamesENG": "Government Official",
-            "TextENG": "The Irie Institution must cease all related research and destroy any results.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3923,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS20/10/441000060.",
-            "TextJPN": "「わかりました。ご指示に従います」",
-            "NamesENG": "Irie",
-            "TextENG": "``I understand. I will comply.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3924,
-            "TextJPN": "入江は即答する。",
-            "TextENG": "Irie replied with that immediately."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3925,
-            "TextJPN": "治療には積極的だが、その他については極めて消極的だった入江にとって、軍事的運用の研究など、元から何の興味もなかったことだ。渡りに船とばかりに、それを了解した。",
-            "TextENG": "Irie was assertive about finding a cure, but was never even remotely interested in researching the disease's use for military purposes. So I'm sure he has no qualms about concurring with such demands."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3926,
-            "TextJPN": "もちろん、これは私にとってはとても歯痒いことだ。なぜなら、入江機関の研究目標を、雛見沢症候群の治療のためのみに限定しかねないからだ。",
-            "TextENG": "But I don't agree. Because our research will be more limited if we're just trying to find a cure."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3927,
-            "TextJPN": "…私にとって治療の研究など、全容を暴く過程での副産物に過ぎないのだから。",
-            "TextENG": "...To me, finding that cure is simply a by-product of my larger goal of discovering everything about the syndrome."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3928,
-            "NamesJPN": "役人",
-            "PreTextTags": "@vS20/00/kanryoA44015.",
-            "TextJPN": "「また、入江機関につきましては、最長３年以内を目処に、研究の収束を図ってまいります。予算もそれに合わせ、段階的に縮小する方針です」",
-            "NamesENG": "Government Official",
-            "TextENG": "``Also, regarding the Irie Institution, we have decided to have you wrap up your work within the next three years. Your budget will decrease gradually as well.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3929,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS20/10/441000061.",
-            "TextJPN": "「ちょ、ちょっと待ってください…！　近年ようやく雛見沢症候群の全貌がわかり、今まさに治療法の研究を進めているところです」",
-            "NamesENG": "Irie",
-            "TextENG": "``W-Wait, please...! We've only recently figured out anything about the syndrome, and there's more we have to learn in order to create a better cure."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3930,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS20/10/441000062.",
-            "TextJPN": "「確かに研究は日々、進んでおりますが、３年という短い期間で確実に完成させられることをお約束はできません…！」",
-            "NamesENG": "Irie",
-            "TextENG": "We're making progress, but I can't guarantee we'll come up with a complete cure within three years.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3931,
-            "NamesJPN": "役人",
-            "PreTextTags": "@vS20/00/kanryoA44016.",
-            "TextJPN": "「理事会では、入江機関はすでに治療薬について充分な研究を完成させているという認識です。すでに入江機関は治療薬Ｃ１１７を完成させ、その臨床データを多数、」",
-            "NamesENG": "Government Official",
-            "TextENG": "``It's the understanding of the board that the Irie Institute has already completed enough research to develop a cure. The Irie Institute has already completed the C117 vaccine, and has a great deal of clinical data--``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3932,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS20/10/441000063.",
-            "TextJPN": "「いえ、完成なんてとんでもない…！　まだまだ試薬の域を出ず、村人全員を治療できる目処はまったく立っていません！」",
-            "NamesENG": "Irie",
-            "TextENG": "``No, it's not even close to being completed!! It's still only a prototype, and we're far from being able to see a cure for all the villagers!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3933,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS20/10/441000064.",
-            "TextJPN": "「このような段階で、研究終了ありきでの議論はまったくもって無謀としか言い様がありません…！」",
-            "NamesENG": "Irie",
-            "TextENG": "Debating the end of our research at this stage can only be described as absolutely, positively reckless!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3934,
-            "TextJPN": "さすがに、これには入江も反対してくれた。そのお陰で、私が騒ぎ立てずに済む。……もしも入江が反対していなかったら、私は金切り声を上げて反論していたに違いない。",
-            "TextENG": "I'm surprised that Irie objected. Thanks to him, I didn't have to say anything. ...But if Irie hadn't objected, I'm sure I would have shrieked in protest."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3935,
-            "NamesJPN": "役人",
-            "PreTextTags": "@vS20/00/kanryoA44017.",
-            "TextJPN": "「それでは、入江機関には現時点では、感染者全員を治療し、雛見沢症候群を撲滅することは不可能だということですね？」",
-            "NamesENG": "Government Official",
-            "TextENG": "``In other words, the Irie Institute is not yet capable of curing all the people who are infected or to fully eradicate the syndrome, is that correct?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3936,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS20/10/441000065.",
-            "TextJPN": "「そうです。もちろん村人全員の治療と雛見沢症候群の撲滅は将来的には不可能なことではありませんし、私もそれを最大の目標にしています」",
-            "NamesENG": "Irie",
-            "TextENG": "``Yes. Of course, curing all the villagers and eradicating the syndrome will be possible in the future, and that's our ultimate goal."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3937,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS20/10/441000066.",
-            "TextJPN": "「ただ、それには充分な時間が必要で、そのためには無論、予算も必要です」",
-            "NamesENG": "Irie",
-            "TextENG": "But I need more time, and of course, funding to do that."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3938,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS20/10/441000067.",
-            "TextJPN": "「私たちは調べ、実践し、確立する仕事をしています。設計図に従って物を作り、期間があれば必ず決まった成果が出せる仕事とは事情が違います。どうかそこを誤解なさらないようにしていただきたいです」",
-            "NamesENG": "Irie",
-            "TextENG": "Our job is to investigate, find a practice that works, and establish it as a product. This isn't a job where you can follow a blueprint to create something with certainty in a set time frame. So we hope that you'll avoid following that misconception.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3939,
-            "TextJPN": "意外に、入江も言うべき時は言う。そして、言っている内容は至極もっともなことだ。研究は、カネと時間があれば、必ず成果が挙げられるというものではない。",
-            "TextENG": "I guess Irie speaks out when he needs to. And what he's saying is absolutely right. Research isn't something guaranteed to produce results with money and time."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3940,
-            "TextJPN": "…ただ、入江の言うこと全てが承服できるわけではない。……入江は、予算と期間については反論しているものの、研究方針が雛見沢症候群の治療のみに限定されることについてはほぼ納得している。",
-            "TextENG": "...But I disagree with some of the things he said. He's objecting about the time and the money, but he's basically agreeing to limit our research only towards finding a cure for Hinamizawa Syndrome."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3941,
-            "TextJPN": "………それでは駄目だ。神秘を解き明かせない。雛見沢症候群の発見が、祖父の偉業にならない…！",
-            "TextENG": "That won't do. We won't unravel any mysteries that way. At that rate, the discovery of the Hinamizawa Syndrome won't be recognized as my grandfather's great achievement!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3942,
-            "NamesJPN": "役人",
-            "PreTextTags": "@vS20/00/kanryoA44018.",
-            "TextJPN": "「なるほど、入江所長の仰ることもごもっともと思います。私どもにとっての最大の目的は、軍事目的の研究が行なわれていたことの完全な破棄です」",
-            "NamesENG": "Government Official",
-            "TextENG": "``I see. I think I see your point. Our main purpose here is to dispose of the fact that this research was conducted for military purposes."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3943,
-            "NamesJPN": "役人",
-            "PreTextTags": "@vS20/00/kanryoA44019.",
-            "TextJPN": "「よって、雛見沢症候群という特殊現象が研究されていた痕跡と、そもそも存在していた事実についても隠蔽すべきであると考えます」",
-            "NamesENG": "Government Official",
-            "TextENG": "So we must forever hide the fact that research was conducted on the strange disease called Hinamizawa Syndrome, as well as hide its existence."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3944,
-            "NamesJPN": "役人",
-            "PreTextTags": "@vS20/00/kanryoA44020.",
-            "TextJPN": "「最終的に、雛見沢症候群が世間に知られることなく、撲滅されるならば、そのための期間と予算は必要不可欠なものでしょう。…それについては、今後、協議を重ねていくということでよろしいでしょうか？」",
-            "NamesENG": "Government Official",
-            "TextENG": "If you can eradicate the disease without anyone ever learning about it, then we will give you the time and funding you require. ...But we'll discuss more about that later. Is that acceptable?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3945,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS20/10/441000068.",
-            "TextJPN": "「はい。異存ありません」",
-            "NamesENG": "Irie",
-            "TextENG": "``Yes. I have no problem with that.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3946,
-            "NamesJPN": "役人",
-            "PreTextTags": "@vS20/00/kanryoA44021.",
-            "TextJPN": "「では入江機関は、できるだけ早急に、雛見沢症候群撲滅を秘密裏に行なえるプランと予算案を作成、提出してください。極力、ご趣旨を汲み取れるよう努力します」",
-            "NamesENG": "Government Official",
-            "TextENG": "``Then, please submit a plan and a budget proposal for eradicating the syndrome in secrecy. We'll do our best on our part to approve your proposal.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3947,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS20/10/441000069.",
-            "TextJPN": "「わかりました。早急に提出いたします」",
-            "NamesENG": "Irie",
-            "TextENG": "``Thank you. I'll work on it immediately.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3948,
-            "NamesJPN": "役人",
-            "PreTextTags": "@vS20/00/kanryoA44022.",
-            "TextJPN": "「誤解ないようにしていただきたいのは、私どもはあくまでも研究を直ちに中断させようというのではなく、円満な形で研究を終了させようということです。この違いをご理解ください」",
-            "NamesENG": "Government Official",
-            "TextENG": "``Please don't misunderstand that it's our intention to halt that research immediately. We want to see the best possible outcome for your work. Please understand that.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3949,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS20/10/441000070.",
-            "TextJPN": "「えぇ、もちろん理解しております」",
-            "NamesENG": "Irie",
-            "TextENG": "``Yes, of course, I understand.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3950,
-            "TextJPN": "……そんなやり取りがされている間、…私は彼らが口にしたある一言に呆然としていた。",
-            "TextENG": "......While I was listening to their conversation, I was struck dumbfounded with something they said."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3951,
-            "TextJPN": "雛見沢症候群を、秘密裏に撲滅する。",
-            "TextENG": "Eradicating the syndrome in secrecy."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3952,
-            "TextJPN": "それはつまり、雛見沢症候群をなかったことにするというのと同じだ。…それでは、祖父の偉業が讃えられないじゃないか…………。",
-            "TextENG": "In other words, it would be as though Hinamizawa Syndrome never existed. ...So my grandfather's name will never be revered by anyone..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 3953,
-            "TextJPN": "書類の擦れる音と議事の進行の声だけが聞こえる会議室内で、…私は時計が秒を刻む音だけを耳に入れながら、手の平に滲む汗を、ただぐっと握り締めていた……。",
-            "TextENG": "The sound of rustling papers and hushed proceedings filled the meeting room, but I only heard the ticking clock as I clutched my sweating palms."
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "A4 サイコロの１",
+		"ENG": "A4 A Roll of a One"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3849,
+		"TextJPN": "…………それは突然のことだった。",
+		"TextENG": "......It happened so suddenly."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3850,
+		"TextJPN": "小泉のおじいちゃんが、亡くなったからだ。",
+		"TextENG": "Uncle Koizumi passed away."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3851,
+		"TextJPN": "具合が悪いとか、体調が優れないとか、そんな話は一度も聞いたことがなかった。",
+		"TextENG": "I never heard he was ill or wasn't feeling well."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3852,
+		"TextJPN": "…胸が急に痛くなって眠れない。明日の朝が待てそうにないと、生まれて初めて救急車を呼んでみたという。すぐに救急治療室に運び込まれたが、朝まで持たなかった。",
+		"TextENG": "His chest started to hurt suddenly, and he couldn't sleep. He called an ambulance for the first time in his life because he didn't think he could endure the pain. He was taken into emergency care, but he didn't live to see morning."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3853,
+		"TextJPN": "急性心筋梗塞だという。………でも、ある意味、幸せな最期だったかもしれない。",
+		"TextENG": "It was an acute myocardial infarction. ......But maybe it was the best possible way to go."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3854,
+		"TextJPN": "病床に伏せり、数年かけて痩せ衰えてから死に至るのに比べれば、死に至る直前まで元気に過ごせたのだから、その分、生を満喫できたと言うべきだろう。",
+		"TextENG": "Instead of being in bed for many years slowly dilapidating and withering away, he was healthy until his death, so I think he must have lived a wonderful life."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3855,
+		"TextJPN": "しかし、…それでもあまりに呆気ない最期だった。",
+		"TextENG": "But still... it was too sudden."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3856,
+		"TextJPN": "もっと彼のことをおじいちゃんと呼んであげればよかった…。そう後悔しても、もう遅い。……小泉のおじいちゃんは、もう私が何度そう呼んでも、はにかむような笑顔を返してくれることはないのだ。",
+		"TextENG": "I wish I had called him 'Uncle' more. It's too late though. ......Uncle Koizumi would never smile at me again with his wrinkly old face, no matter how many times I called for him."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3857,
+		"TextJPN": "……今日まで彼は私の後見人で居てくれた。私の努力が正当に評価されるよう、常に見守ってくれていた。",
+		"TextENG": "......He was my guardian until now. He always looked after me, making sure my efforts received proper recognition."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3858,
+		"TextJPN": "祖父が存命中、研究に協力できなかったことへの罪滅ぼしだったにせよ、私にとっては掛け替えのない人で、…………大切な人だった。…単に後ろ盾という意味でなく。",
+		"TextENG": "Maybe he only did that because he couldn't help my grandfather when he was alive. But still, he was an important person to me. He wasn't just my political backing."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3859,
+		"TextJPN": "でも、それは存命中には気付かなかったこと。彼の持つ強大な権力を自分の目的のためにうまく使ってやろう、そんな失礼極まりないことを平気で考えていたこともある。",
+		"TextENG": "But, I didn't realize that when he was alive. I only thought of using his power for my own agenda."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3860,
+		"TextJPN": "だが、……彼がいなくなって初めて知った。",
+		"TextENG": "But after he died, I realized."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3861,
+		"TextJPN": "小泉のおじいちゃんは、……おじいちゃんだった。…私が祖父に求めていたものを、温かく見守ることで与えてくれていたのだ。",
+		"TextENG": "Uncle Koizumi was my grandpa too. He provided the warmth and protection that I longed for from my own grandfather."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3862,
+		"TextJPN": "私は本葬に駆けつけ、焼香する時に、…………祖父が死んだ時以来、流し方も忘れていた涙を、…再び零すのだった………。",
+		"TextENG": "At his funeral, I shed tears that I thought that I forgot how to."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3863,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900049.",
+		"TextJPN": "「…おじいちゃん……。今までありがとう……。もっと、………もっと、おじいちゃんって呼んであげればよかったね……。………………うぅうぅぅぅ………」",
+		"NamesENG": "Takano",
+		"TextENG": "``...Uncle... Thank you for everything... I should have called you Uncle more, huh? .......Oooh...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3864,
+		"TextJPN": "…もう何度呼んでも、それに応えてくれることはない。",
+		"TextENG": "No matter how many times I called to him, he would never reply."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3865,
+		"TextJPN": "私にできる恩返しは、お膳立てしてくれた研究を完遂すること。………つまり、私の目的をきっちりと成し遂げることだけだ。",
+		"TextENG": "What I can do for him at this point is complete my research. I must accomplish my goal for his sake."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3866,
+		"TextJPN": "祖父の研究を認めさせた時、その唯一の理解者であった小泉のおじいちゃんの名前も共に蘇らせる。……それだけが多分、今日までの恩に報いる方法に違いなかった。",
+		"TextENG": "When my grandfather's research is finally acknowledged, Uncle Koizumi's name will be known once again for being the sole supporter of his endeavor. I believe that's the best way to repay him for everything he has done."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3867,
+		"TextJPN": "…私は、ますますに日々の研究に全精力を注ぐことを遺影に誓うのだった…。",
+		"TextENG": "I vow to devote myself to my work even more from this day on..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3868,
+		"TextJPN": "だが、………泣き面に蜂と言うように。…悲しいことや辛いことは重なる。",
+		"TextENG": "But... unfortunately... ...hardships and sadness tend to come together."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3869,
+		"TextJPN": "それはまるで、…今日まで順調に吹いていた追い風が止み、…急に向い風になるようなもの。……あまりに突然な、風向きの変化。…強く、冷たく、悲しく。",
+		"TextENG": "It was like... the tailwind that blew steadily until today... suddenly became a headwind."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3870,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900050.",
+		"TextJPN": "「………え？　どういうことなの、ジロウさん」",
+		"NamesENG": "Takano",
+		"TextENG": "``......What? What are you talking about, Jirou-san?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3871,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800049.",
+		"TextJPN": "「…うん。小泉先生が入江機関設立の立役者だったのは、鷹野さんも知ってるよね。……関係機関でなかなか承認の取れなかったのを、小泉先生が強力に押さえ込んで無理やり通させたって話なんだよ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``...Well, you know that Koizumi-sensei was the main political sponsor for the Irie Insitute, right? ...He had trouble getting approval from the related agencies, but Koizumi-sensei used his political weight to force it through."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3872,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800050.",
+		"TextJPN": "「……何しろ、医薬品業界で絶大な功績を挙げられた戦後日本復興の重鎮だからね。政財界に絶大な影響力を持たれていたし」",
+		"NamesENG": "Tomitake",
+		"TextENG": "...After all, he was one of the key figures in the post-war restoration, accomplishing tremendous deeds in the medical industry. He held a huge influence in politics and industry.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3873,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900051.",
+		"TextJPN": "「…その小泉先生が亡くなって、小泉先生が通した無理やりが通らなくなったということ…？」",
+		"NamesENG": "Takano",
+		"TextENG": "``So now that Koizumi-sensei is gone, the way he did things won't work any longer?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3874,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800051.",
+		"TextJPN": "「あくまでも噂なんで本当のところは僕にもわからないんだけど…。……一部の予算配当やプロジェクトの見直しが行なわれるらしいというのを聞いたんだよ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``So far, it's only a rumor, so I don't know for sure. But I heard they're going to reconsider the budget allocated for the project.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3875,
+		"NamesJPN": "鷹野",
+		"PreTextTags": "@vS20/09/440900052.",
+		"TextJPN": "「……入江機関が廃止されるということ？！」",
+		"NamesENG": "Takano",
+		"TextENG": "``...Are you saying the Irie Institute will be closed down?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3876,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800052.",
+		"TextJPN": "「いや、入江機関を見直すというのは聞いたことないけど…。ただ、小泉先生の死後、長老たちの派閥や勢力、後継者争いがややこしくなっているってもっぱらの噂なんだ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "``No, I haven't heard anything about them reconsidering the Institute. ...But since Koizumi-sensei's death, the rumors say that there's a great deal of confusion among the old guard and their factions as well as the civil strife within the party around finding his successor."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3877,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800053.",
+		"TextJPN": "「すでにクライアントの人事にかなりの影響を与え始めてるらしいんだ」",
+		"NamesENG": "Tomitake",
+		"TextENG": "It seems the opposing factions are gaining influence in the human resources of our client."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3878,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800054.",
+		"TextJPN": "「それで、小泉派が主導していたプロジェクトや聖域予算に対し、締め付けが行なわれるんじゃないかって、憶測が飛び交ってるらしいんだよ…」",
+		"NamesENG": "Tomitake",
+		"TextENG": "So they may begin to dig deep into the holy treasure chest that the Koizumi faction held to fund their project."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3879,
+		"NamesJPN": "富竹",
+		"PreTextTags": "@vS20/08/440800055.",
+		"TextJPN": "「もちろん、それらは全て僕にとって、雲の上の話だからね。伝え聞いた噂話でしかないんだけれど…」",
+		"NamesENG": "Tomitake",
+		"TextENG": "Of course, this is all too complicated for me to explain that well and besides, these might just be rumors.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3880,
+		"TextJPN": "ジロウさんは噂に過ぎないと何度も断ったが、……それは風向きが向い風に変わったことを教えてくれるものだった…。",
+		"TextENG": "Jirou-san kept saying they were rumors, but that told me the wind's direction has changed."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3881,
+		"TextJPN": "いや、…あるいはジロウさんはもう全てを知っていて、…風向きが急激に変わることを私に警告してくれたのかもしれない…。",
+		"TextENG": "Or maybe... Jirou-san already knows everything, and is simply trying to warn me about it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3882,
+		"TextJPN": "そして、…次の定期監査の時。それははっきりとジロウさんの口から告げられた。",
+		"TextENG": "And then, at our next routine audit. Jirou-san made it clear with his own mouth."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3883,
+		"TextJPN": "その定期監査には、ジロウさんだけでなく、これまで一度も訪れたことがないような高官たちが混じっていた。…その面々だけで、私は転機が訪れていることを知った。",
+		"TextENG": "High-ranking government officials, who had never came here before, attended the routine audit along with Jirou-san. Just by seeing those faces, I can tell the turning point is approaching."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3884,
+		"NamesJPN": "役人",
+		"PreTextTags": "@vS20/00/kanryoA44000.",
+		"TextJPN": "「ご存じのとおり、アルファベットプロジェクトは戦後日本の国際的な地位向上を目的としたものです」",
+		"NamesENG": "Government Official",
+		"TextENG": "``As you know, the Alphabet Project was created to strengthen post-war Japan's presence in the world with the view of developing deterrent weaponry."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3885,
+		"NamesJPN": "役人",
+		"PreTextTags": "@vS20/00/kanryoA44001.",
+		"TextJPN": "「ですが、すでに昭和も５０年代に至り、西暦は２１世紀を間近にしております」",
+		"NamesENG": "Government Official",
+		"TextENG": "However, the 21st century is now just around the corner."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3886,
+		"TextJPN": "それはそのままの意味。日本がすでに戦後を脱却しているということ。そして、過去の栄光にしがみつく亡霊との決別を意味する。",
+		"TextENG": "He meant exactly what he said. Japan has already put the past behind. And it's cutting off its ties to the ghosts that wished to resurrect the militaristic might of the pre-war era."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3887,
+		"NamesJPN": "役人",
+		"PreTextTags": "@vS20/00/kanryoA44002.",
+		"TextJPN": "「戦後４０年間、我が国は世界への平和的貢献を模索し、国際的地位を確立するに至りました」",
+		"NamesENG": "Government Official",
+		"TextENG": "``It's been forty years since the end of the war, and we've contributed to the world in various peaceful ways. We have a strong alliance with the United States, and our nation has established its position in world affairs well enough."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3888,
+		"NamesJPN": "役人",
+		"PreTextTags": "@vS20/00/kanryoA44003.",
+		"TextJPN": "「日本は国際社会において重要なポジションを担う国家として成熟し、来世紀にはますますにその存在感を強めることでしょう」",
+		"NamesENG": "Government Official",
+		"TextENG": "We have kept our promise to forever renounce war and nuclear weapons, and we are known as a nation of peace. In this coming century, our presence and influence will grow even larger.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3889,
+		"TextJPN": "入江機関のスポンサー団体であるアルファベットプロジェクトは、国際社会においての発言力を高める『手段』を探そうというのが設立趣旨のはずだ。",
+		"TextENG": "The Alphabet Project, the main sponsor of the Irie Institute, are a group of people who want to develop a weapon that would act as a deterrent to the nuclear weapons which Japan is forbidden to own."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3890,
+		"TextJPN": "…その下部組織である入江機関に出向き、今や日本は国際社会に地位を築いたと言うのだから、……入江機関に対して今後、向い風が吹き、しかもそれが強くて冷たいものになるのは明白だった。",
+		"TextENG": "...So they've come to the Irie Institute, one of its branch organizations, to tell us Japan has now renounced nuclear arms... so the Irie Institute will be facing a strong, cold headwind from now on."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3891,
+		"TextJPN": "あの雷雨の日で終わったはずの、サイコロの１が、再び私に、その出目を見せるようになりつつある…。",
+		"TextENG": "The roll of the die that came up with 1 on that stormy day has reappeared."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3892,
+		"TextJPN": "………サイコロの目程度で挫けるものか…。神々の弄ぶサイコロ如きに、私の意思の力が負けてたまるか…。",
+		"TextENG": "......I won't let the result of a die affect me. The power of my will won't be beaten by some god's roll of the dice..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3893,
+		"NamesJPN": "役人",
+		"PreTextTags": "@vS20/00/kanryoA44004.",
+		"TextJPN": "「よって、現在、時代に即した形になるよう、アルファベットプロジェクトの見直しを進めています」",
+		"NamesENG": "Government Official",
+		"TextENG": "``Therefore, we are going to restructure the Alphabet Project to one that's more suitable for the day and age."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3894,
+		"NamesJPN": "役人",
+		"PreTextTags": "@vS20/00/kanryoA44005.",
+		"TextJPN": "「新生アルファベットプロジェクトは、国際交流と経済発展の２軸からなる平和外交の見地から日本の地位向上を模索していくことになるでしょう」",
+		"NamesENG": "Government Official",
+		"TextENG": "This new Alphabet Project will be tasked with figuring out the best way for this country to achieve a larger presence in world affairs, not through militaristic means.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3895,
+		"TextJPN": "…日本の政財界に絶大な影響力を持つ黒幕たちは皆、戦前の生まれ。過去の栄光再び、が念願だ。",
+		"TextENG": "All of the people who hold tremendous influence in the politics and economy of Japan were born before the war, so naturally they want to regain the glory of pre-war Japan."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3896,
+		"TextJPN": "過去の栄光を取り戻す、なんて発想自体が、すでに過去の亡霊なのだ。",
+		"TextENG": "The very idea that we can win next time if we research the new bomb that defeated us is itself a specter of the war."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3897,
+		"TextJPN": "……いや、そんなことは誰でも思ってた。だが、大恩ある長老たちが気炎を上げるそれに、誰も意見することができなかっただけだ。",
+		"TextENG": "...No, everyone already realized that. It was just that no one could speak out against the grandstanding elders they owed their gratitude towards."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3898,
+		"TextJPN": "いずれ古き世代は老いて去り、新しい世代が長老と呼ばれるようになる。",
+		"TextENG": "Soon, the old will wither away and the new generation will take control."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3899,
+		"TextJPN": "…小泉のおじいちゃんはその古い世代の、最後の砦だったということなのだろう。その死をきっかけに、黒幕たちの世代交代が行なわれるというだけの話だ。",
+		"TextENG": "Uncle Koizumi was, in a way, the last remaining pillar for the old generation. His death is a chance for the new generation to step in."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3900,
+		"TextJPN": "表だって批判できなかったものが、次々と批判され見直されるようになっている。",
+		"TextENG": "The things they couldn't argue openly are now being discussed."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3901,
+		"TextJPN": "アルファベットプロジェクトは、一部の人間により私物化された諮問機関との指摘が当初からあり、省庁の予算を不正に吸い出しているとの批判が尽きなかった。",
+		"TextENG": "They've pointed out that from the beginning, the Alphabet Project was created for the personal satisfaction of a small group of people, and it's sucked money out of the treasury."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3902,
+		"TextJPN": "そうして、古い世代の利権を奪い、……結局は巡り巡って新しい世代の利権となる。",
+		"TextENG": "And so, the new generation of politicians... have taken over from the old."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3903,
+		"NamesJPN": "役人",
+		"PreTextTags": "@vS20/00/kanryoA44006.",
+		"TextJPN": "「よって、アルファベットに関わる全てのプロジェクトで今後、大幅な予算の見直しが図られていくことになります」",
+		"NamesENG": "Government Official",
+		"TextENG": "``Therefore, everything the Alphabet Project was sponsoring will have to be re-reviewed."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3904,
+		"NamesJPN": "役人",
+		"PreTextTags": "@vS20/00/kanryoA44007.",
+		"TextJPN": "「これはもちろん、入江機関も例外ではありません。どうかご了解をいただけますよう、よろしくお願いいたします」",
+		"NamesENG": "Government Official",
+		"TextENG": "Of course, the Irie Institute is one of those subsidiaries. We hope that you'll understand and respond amicably.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3905,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS20/10/441000058.",
+		"TextJPN": "「…………わかりました。私たちもスポンサーあっての研究です。どうかよろしくお願いいたします」",
+		"NamesENG": "Irie",
+		"TextENG": "``I understand... We can't do research without our sponsors, after all. We'll give you our full cooperation.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3906,
+		"TextJPN": "入江が儀礼的な返事をするが、戸惑いは隠せないようだった。",
+		"TextENG": "Irie responded appropriately, but he's obviously bewildered."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3907,
+		"TextJPN": "入江機関には最高の機材と最高の人材が当てられている。",
+		"TextENG": "The best equipment and staff are being provided to the Irie Institute."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3908,
+		"TextJPN": "はっきり言えば、金食い虫の研究だ。………雛見沢症候群に興味のない人間から見れば、得体の知れない現象の研究に、なぜこんな莫大な予算を投じるのか理解できないだろう。",
+		"TextENG": "In other words, our research requires a huge amount of money. For those with no interest in Hinamizawa Syndrome, they probably won't be able to understand why that much money is being put into the research of disgusting parasites."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3909,
+		"TextJPN": "だが、予算の引き締めならまだ何とかなる。…これまでの予算が潤沢過ぎたのだ。それが適正な額に戻されるだけ。",
+		"TextENG": "If they're simply going to revise our budget, that would be fine. ...We were receiving more than enough money."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3910,
+		"TextJPN": "………確かに痛いことだが、まだ何とか耐え凌げる。…そう思っていた。………だが、耐え凌げる程度ならば、サイコロの１とは言えない。",
+		"TextENG": "That would, naturally, be adjusted. ......It hurts, but we can endure. ...That's what I thought. ...But if just enduring it was enough, it wouldn't be a 1 on the die."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3911,
+		"TextJPN": "……その意味においても、…これは間違いなくサイコロの１だったのである。",
+		"TextENG": "...So, even in that sense ...this is definitely a roll of a die coming up as 1."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3912,
+		"NamesJPN": "役人",
+		"PreTextTags": "@vS20/00/kanryoA44008.",
+		"TextJPN": "「…でありまして、この４月に新体制の理事会が発足し、全プロジェクトに対する新方針が示されました。これにつきましてはお配りします資料をご覧ください」",
+		"NamesENG": "Government Official",
+		"TextENG": "``Anyway, the new board of directors was inaugurated back in April, and they've outlined their new policies for all projects. For more details, please look through the papers I'll be handing out.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3913,
+		"TextJPN": "時計回りに資料が回ってくる。…資料の内容について進行役がのんびりと読み始めるが、私はそれよりも早く読み進み、この資料がどのような暴言を言おうとしているのかを一秒でも早く知ろうとしていた…。",
+		"TextENG": "His papers were then passed around. He started to go over the details, but I read through quickly so I could learn about their stupid decisions first."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3914,
+		"NamesJPN": "役人",
+		"PreTextTags": "@vS20/00/kanryoA44009.",
+		"TextJPN": "「入江機関はこれまで、先進的な研究において数々の目覚しい成果を挙げられ、未知であった雛見沢症候群の全貌解明、そして治療薬の開発を成し遂げました」",
+		"NamesENG": "Government Official",
+		"TextENG": "``The Irie Institute has made great headway in uncovering the mystery of the Hinamizawa Syndrome, as well as creating a cure for the disease."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3915,
+		"NamesJPN": "役人",
+		"PreTextTags": "@vS20/00/kanryoA44010.",
+		"TextJPN": "「理事会でもこの成果は大変に高く評価しています。これも全て、入江所長以下、入江機関全職員の@bたゆ.@<弛@>みない努力によるものと思っております」",
+		"NamesENG": "Government Official",
+		"TextENG": "The board of directors is extremely pleased. We recognize this is due to the unceasing efforts of Director Irie and all the staff of the Irie Institute.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3916,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS20/10/441000059.",
+		"TextJPN": "「いえ、…恐縮です」",
+		"NamesENG": "Irie",
+		"TextENG": "``Thank you.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3917,
+		"TextJPN": "褒め言葉のはずだが、私も入江も緊張は抜けない。……物事の伝え方は、本題の前に逆の方向へ持ち上げるのが常套手段だからだ。",
+		"TextENG": "Even while he received their congratulations, a tense atmosphere surrounded me and Irie. It's customary to start the conversation in the opposite way you're planning to take it before delving into your main point to convey."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3918,
+		"TextJPN": "良い話だったら、先に悪い話をして後の話の良さを引き立てる。…悪い話でも同じだ。",
+		"TextENG": "If the main issue is something good, then start with something bad. ...Or vice versa."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3919,
+		"NamesJPN": "役人",
+		"PreTextTags": "@vS20/00/kanryoA44011.",
+		"TextJPN": "「入江機関の研究目的は２つありました。雛見沢症候群の研究と治療法の確立。そして多面運用の模索です」",
+		"NamesENG": "Government Official",
+		"TextENG": "``The Irie Institute had two main intentions. One was to study the disease and hopefully find a cure. The other was to research the possibility of utilizing the disease for military applications."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3920,
+		"NamesJPN": "役人",
+		"PreTextTags": "@vS20/00/kanryoA44012.",
+		"TextJPN": "「新生理事会はこの後者の、多面運用の模索については即時の中止を決定しました」",
+		"NamesENG": "Government Official",
+		"TextENG": "The new board of directors has decided to put a stop to the latter immediately."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3921,
+		"NamesJPN": "役人",
+		"PreTextTags": "@vS20/00/kanryoA44013.",
+		"TextJPN": "「これらの研究開発が国内で行なわれていた事実と痕跡は、今後はむしろアキレス腱になりかねません」",
+		"NamesENG": "Government Official",
+		"TextENG": "In this day and age, researching biological weapons is an Achilles' heel for Japan."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3922,
+		"NamesJPN": "役人",
+		"PreTextTags": "@vS20/00/kanryoA44014.",
+		"TextJPN": "「入江機関は直ちに、これに関わる全ての研究を中止し、一切を破棄してください」",
+		"NamesENG": "Government Official",
+		"TextENG": "The Irie Institution must cease all related research and destroy any results.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3923,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS20/10/441000060.",
+		"TextJPN": "「わかりました。ご指示に従います」",
+		"NamesENG": "Irie",
+		"TextENG": "``I understand. I will comply.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3924,
+		"TextJPN": "入江は即答する。",
+		"TextENG": "Irie replied with that immediately."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3925,
+		"TextJPN": "治療には積極的だが、その他については極めて消極的だった入江にとって、軍事的運用の研究など、元から何の興味もなかったことだ。渡りに船とばかりに、それを了解した。",
+		"TextENG": "Irie was assertive about finding a cure, but was never even remotely interested in researching the disease's use for military purposes. So I'm sure he has no qualms about concurring with such demands."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3926,
+		"TextJPN": "もちろん、これは私にとってはとても歯痒いことだ。なぜなら、入江機関の研究目標を、雛見沢症候群の治療のためのみに限定しかねないからだ。",
+		"TextENG": "But I don't agree. Because our research will be more limited if we're just trying to find a cure."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3927,
+		"TextJPN": "…私にとって治療の研究など、全容を暴く過程での副産物に過ぎないのだから。",
+		"TextENG": "...To me, finding that cure is simply a by-product of my larger goal of discovering everything about the syndrome."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3928,
+		"NamesJPN": "役人",
+		"PreTextTags": "@vS20/00/kanryoA44015.",
+		"TextJPN": "「また、入江機関につきましては、最長３年以内を目処に、研究の収束を図ってまいります。予算もそれに合わせ、段階的に縮小する方針です」",
+		"NamesENG": "Government Official",
+		"TextENG": "``Also, regarding the Irie Institution, we have decided to have you wrap up your work within the next three years. Your budget will decrease gradually as well.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3929,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS20/10/441000061.",
+		"TextJPN": "「ちょ、ちょっと待ってください…！　近年ようやく雛見沢症候群の全貌がわかり、今まさに治療法の研究を進めているところです」",
+		"NamesENG": "Irie",
+		"TextENG": "``W-Wait, please...! We've only recently figured out anything about the syndrome, and there's more we have to learn in order to create a better cure."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3930,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS20/10/441000062.",
+		"TextJPN": "「確かに研究は日々、進んでおりますが、３年という短い期間で確実に完成させられることをお約束はできません…！」",
+		"NamesENG": "Irie",
+		"TextENG": "We're making progress, but I can't guarantee we'll come up with a complete cure within three years.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3931,
+		"NamesJPN": "役人",
+		"PreTextTags": "@vS20/00/kanryoA44016.",
+		"TextJPN": "「理事会では、入江機関はすでに治療薬について充分な研究を完成させているという認識です。すでに入江機関は治療薬Ｃ１１７を完成させ、その臨床データを多数、」",
+		"NamesENG": "Government Official",
+		"TextENG": "``It's the understanding of the board that the Irie Institute has already completed enough research to develop a cure. The Irie Institute has already completed the C117 vaccine, and has a great deal of clinical data--``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3932,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS20/10/441000063.",
+		"TextJPN": "「いえ、完成なんてとんでもない…！　まだまだ試薬の域を出ず、村人全員を治療できる目処はまったく立っていません！」",
+		"NamesENG": "Irie",
+		"TextENG": "``No, it's not even close to being completed!! It's still only a prototype, and we're far from being able to see a cure for all the villagers!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3933,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS20/10/441000064.",
+		"TextJPN": "「このような段階で、研究終了ありきでの議論はまったくもって無謀としか言い様がありません…！」",
+		"NamesENG": "Irie",
+		"TextENG": "Debating the end of our research at this stage can only be described as absolutely, positively reckless!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3934,
+		"TextJPN": "さすがに、これには入江も反対してくれた。そのお陰で、私が騒ぎ立てずに済む。……もしも入江が反対していなかったら、私は金切り声を上げて反論していたに違いない。",
+		"TextENG": "I'm surprised that Irie objected. Thanks to him, I didn't have to say anything. ...But if Irie hadn't objected, I'm sure I would have shrieked in protest."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3935,
+		"NamesJPN": "役人",
+		"PreTextTags": "@vS20/00/kanryoA44017.",
+		"TextJPN": "「それでは、入江機関には現時点では、感染者全員を治療し、雛見沢症候群を撲滅することは不可能だということですね？」",
+		"NamesENG": "Government Official",
+		"TextENG": "``In other words, the Irie Institute is not yet capable of curing all the people who are infected or to fully eradicate the syndrome, is that correct?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3936,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS20/10/441000065.",
+		"TextJPN": "「そうです。もちろん村人全員の治療と雛見沢症候群の撲滅は将来的には不可能なことではありませんし、私もそれを最大の目標にしています」",
+		"NamesENG": "Irie",
+		"TextENG": "``Yes. Of course, curing all the villagers and eradicating the syndrome will be possible in the future, and that's our ultimate goal."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3937,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS20/10/441000066.",
+		"TextJPN": "「ただ、それには充分な時間が必要で、そのためには無論、予算も必要です」",
+		"NamesENG": "Irie",
+		"TextENG": "But I need more time, and of course, funding to do that."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3938,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS20/10/441000067.",
+		"TextJPN": "「私たちは調べ、実践し、確立する仕事をしています。設計図に従って物を作り、期間があれば必ず決まった成果が出せる仕事とは事情が違います。どうかそこを誤解なさらないようにしていただきたいです」",
+		"NamesENG": "Irie",
+		"TextENG": "Our job is to investigate, find a practice that works, and establish it as a product. This isn't a job where you can follow a blueprint to create something with certainty in a set time frame. So we hope that you'll avoid following that misconception.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3939,
+		"TextJPN": "意外に、入江も言うべき時は言う。そして、言っている内容は至極もっともなことだ。研究は、カネと時間があれば、必ず成果が挙げられるというものではない。",
+		"TextENG": "I guess Irie speaks out when he needs to. And what he's saying is absolutely right. Research isn't something guaranteed to produce results with money and time."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3940,
+		"TextJPN": "…ただ、入江の言うこと全てが承服できるわけではない。……入江は、予算と期間については反論しているものの、研究方針が雛見沢症候群の治療のみに限定されることについてはほぼ納得している。",
+		"TextENG": "...But I disagree with some of the things he said. He's objecting about the time and the money, but he's basically agreeing to limit our research only towards finding a cure for Hinamizawa Syndrome."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3941,
+		"TextJPN": "………それでは駄目だ。神秘を解き明かせない。雛見沢症候群の発見が、祖父の偉業にならない…！",
+		"TextENG": "That won't do. We won't unravel any mysteries that way. At that rate, the discovery of the Hinamizawa Syndrome won't be recognized as my grandfather's great achievement!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3942,
+		"NamesJPN": "役人",
+		"PreTextTags": "@vS20/00/kanryoA44018.",
+		"TextJPN": "「なるほど、入江所長の仰ることもごもっともと思います。私どもにとっての最大の目的は、軍事目的の研究が行なわれていたことの完全な破棄です」",
+		"NamesENG": "Government Official",
+		"TextENG": "``I see. I think I see your point. Our main purpose here is to dispose of the fact that this research was conducted for military purposes."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3943,
+		"NamesJPN": "役人",
+		"PreTextTags": "@vS20/00/kanryoA44019.",
+		"TextJPN": "「よって、雛見沢症候群という特殊現象が研究されていた痕跡と、そもそも存在していた事実についても隠蔽すべきであると考えます」",
+		"NamesENG": "Government Official",
+		"TextENG": "So we must forever hide the fact that research was conducted on the strange disease called Hinamizawa Syndrome, as well as hide its existence."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3944,
+		"NamesJPN": "役人",
+		"PreTextTags": "@vS20/00/kanryoA44020.",
+		"TextJPN": "「最終的に、雛見沢症候群が世間に知られることなく、撲滅されるならば、そのための期間と予算は必要不可欠なものでしょう。…それについては、今後、協議を重ねていくということでよろしいでしょうか？」",
+		"NamesENG": "Government Official",
+		"TextENG": "If you can eradicate the disease without anyone ever learning about it, then we will give you the time and funding you require. ...But we'll discuss more about that later. Is that acceptable?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3945,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS20/10/441000068.",
+		"TextJPN": "「はい。異存ありません」",
+		"NamesENG": "Irie",
+		"TextENG": "``Yes. I have no problem with that.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3946,
+		"NamesJPN": "役人",
+		"PreTextTags": "@vS20/00/kanryoA44021.",
+		"TextJPN": "「では入江機関は、できるだけ早急に、雛見沢症候群撲滅を秘密裏に行なえるプランと予算案を作成、提出してください。極力、ご趣旨を汲み取れるよう努力します」",
+		"NamesENG": "Government Official",
+		"TextENG": "``Then, please submit a plan and a budget proposal for eradicating the syndrome in secrecy. We'll do our best on our part to approve your proposal.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3947,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS20/10/441000069.",
+		"TextJPN": "「わかりました。早急に提出いたします」",
+		"NamesENG": "Irie",
+		"TextENG": "``Thank you. I'll work on it immediately.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3948,
+		"NamesJPN": "役人",
+		"PreTextTags": "@vS20/00/kanryoA44022.",
+		"TextJPN": "「誤解ないようにしていただきたいのは、私どもはあくまでも研究を直ちに中断させようというのではなく、円満な形で研究を終了させようということです。この違いをご理解ください」",
+		"NamesENG": "Government Official",
+		"TextENG": "``Please don't misunderstand that it's our intention to halt that research immediately. We want to see the best possible outcome for your work. Please understand that.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3949,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS20/10/441000070.",
+		"TextJPN": "「えぇ、もちろん理解しております」",
+		"NamesENG": "Irie",
+		"TextENG": "``Yes, of course, I understand.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3950,
+		"TextJPN": "……そんなやり取りがされている間、…私は彼らが口にしたある一言に呆然としていた。",
+		"TextENG": "......While I was listening to their conversation, I was struck dumbfounded with something they said."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3951,
+		"TextJPN": "雛見沢症候群を、秘密裏に撲滅する。",
+		"TextENG": "Eradicating the syndrome in secrecy."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3952,
+		"TextJPN": "それはつまり、雛見沢症候群をなかったことにするというのと同じだ。…それでは、祖父の偉業が讃えられないじゃないか…………。",
+		"TextENG": "In other words, it would be as though Hinamizawa Syndrome never existed. ...So my grandfather's name will never be revered by anyone..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 3953,
+		"TextJPN": "書類の擦れる音と議事の進行の声だけが聞こえる会議室内で、…私は時計が秒を刻む音だけを耳に入れながら、手の平に滲む汗を、ただぐっと握り締めていた……。",
+		"TextENG": "The sound of rustling papers and hushed proceedings filled the meeting room, but I only heard the ticking clock as I clutched my sweating palms."
+	}
+]

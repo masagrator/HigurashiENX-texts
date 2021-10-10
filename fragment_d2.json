@@ -1,617 +1,615 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "D2 地元説明会",
-            "ENG": "D2 Explanatory Meeting"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5397,
-            "NamesJPN": "役人",
-            "PreTextTags": "@vS20/00/VTK1_yakuA1001.",
-            "TextJPN": "「でして、ダムの建設事業に伴う地域振興や地域産業の育成などですね…、」",
-            "NamesENG": "Government Official",
-            "TextENG": "``So the dam construction will bring in new jobs and revitalize the local industry...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5398,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS20/00/VTK1_farmMa1008.",
-            "TextJPN": "「そんなことは聞いてねぇっつってんだらぁ！！」",
-            "AfterTextTags": "@|@y",
-            "NamesENG": "Villager",
-            "TextENG": "``That's not what we're saying!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5399,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS20/00/VTK1_farmMb1009.",
-            "TextJPN": "「俺らの誰の断りがあって、ダムなんか作ろうって言い出したかって聞いてんだ！」",
-            "AfterTextTags": "@|@y",
-            "NamesENG": "Villager",
-            "TextENG": "``Who the hell gave you permission to build a dam here?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5400,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS20/00/VTK1_farmMc1009.",
-            "TextJPN": "「おう、わしらから税金絞るだけ絞っといてそれに対する返事がこれっちゅうんか？！@k@vS20/00/VTK1_farmMc1010.　おんどりゃあ、誰の税金で給料もらっとんじゃあ！！」",
-            "AfterTextTags": "@|@y",
-            "NamesENG": "Villager",
-            "TextENG": "``You squeeze tax money from us and this is what we get in return?@k@vS20/00/VTK1_farmMc1010. Who do you think pays your salaries, huh?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5401,
-            "NamesJPN": "役人",
-            "PreTextTags": "@vS20/00/VTK1_yakuA1002.",
-            "TextJPN": "「ですから！@k@vS20/00/VTK1_yakuA1003.　先ほどから申し上げておりますように…！！」",
-            "NamesENG": "Government Official",
-            "TextENG": "``Look,@k@vS20/00/VTK1_yakuA1003. we're trying to explain to you...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5402,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS20/00/VTK1_farmMa1009.",
-            "TextJPN": "「言い訳など聞いちゃならんねぇ、いつ計画を中止するんか聞いとるんじゃい！！」",
-            "NamesENG": "Villager",
-            "TextENG": "``We don't want to hear your excuses!! We want to know when you'll stop the construction!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5403,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS20/00/VTK1_farmMb1010.",
-            "TextJPN": "「お前じゃ話にならん、東京の建設大臣を連れて来い！！@k@vS20/00/VTK1_farmMb1011.　ここではっきり白黒つけちゃる！！」",
-            "NamesENG": "Villager",
-            "TextENG": "``You're useless! Bring the Minister of Construction here!!@k@vS20/00/VTK1_farmMb1011. He'll get to the bottom of it!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5404,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS20/00/VTK1_farmMc1011.",
-            "TextJPN": "「引っ込まんか木っ端役人があぁあぁ！！」",
-            "AfterTextTags": "@|@y",
-            "NamesENG": "Villager",
-            "TextENG": "``Shut up, you yuppie!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5405,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS20/00/VTK1_farmMa1010.",
-            "TextJPN": "「大体おどれら、人さまの税金で仕事しとって、何でわしらより高い段で話をしとるんじゃ。@k@vS20/00/VTK1_farmMa1011.目線で話さんかい目線で！！」",
-            "NamesENG": "Villager",
-            "TextENG": "``Hey, you're paid with our tax money, so why the hell are you talking down to us from up there?@k@vS20/00/VTK1_farmMa1011. Come down here and and let's speak face to face!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5406,
-            "TextJPN": "体育館の中は怒号に満ちていた。",
-            "TextENG": "The auditorium is filled with angry shouting."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5407,
-            "TextJPN": "雛見沢ダム基本計画地元説明会。",
-            "TextENG": "The sign at the entrance says"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5408,
-            "TextJPN": "…表に出ている立て看板にはそう書かれていた。",
-            "TextENG": "``Hinamizawa Dam Construction Explanatory Meeting``."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5409,
-            "TextJPN": "壇上で、役人の男が何かを言おうとする度に、満場の住民たちは一斉に怒号を浴びせ掛け、それを塗りつぶす。",
-            "TextENG": "Every time the official on the stage tried to say anything, the citizens packed into the room silenced him with their shouts."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5410,
-            "TextJPN": "それでは進行にならないので、それらを聞こえないかのように振る舞い、ダムの有用性をパネルで説明すればするほど、",
-            "TextENG": "Trying to ignore them, the official continued to explain the pros of the dam,"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5411,
-            "TextJPN": "住民の声を聞かない政府の横暴という図式になり、ますます彼らの怒りを焚きつけた。",
-            "TextENG": "but that just further infuriated them."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5412,
-            "TextJPN": "壇上と住民の席の間には空白地帯が設けられ、警官隊がスクラムを組み制止線を作っていた。",
-            "TextENG": "Between the stage and the citizens, there was an open area where a police squad is standing by."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5413,
-            "TextJPN": "…もし、これがなかったら、住民たちはすぐにでも壇上に駆け上がり、取っ組み合いに発展していたに違いない…。",
-            "TextENG": "If they weren't there, the citizens would jump onto the stage and start a riot."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5414,
-            "TextJPN": "…そんな光景を、僕はみんなの後から見守っていた。",
-            "TextENG": "...I'm watching all this from the back of the auditorium."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5415,
-            "TextJPN": "彼らが、怒りの感情に飲み込まれているのが、はっきりと色で見える。",
-            "TextENG": "It's obvious to anyone that they're being swallowed by their anger."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5416,
-            "TextJPN": "…血の赤に徐々に飲み込まれ、…ある目的のために芽生えた怒りの感情が、目的そのものに取って代わり、怒るために怒るという悪循環を生み出そうとしている…。",
-            "TextENG": "...They've become filled with a bloody red rage. ...The anger that came from a certain purpose becomes a purpose in itself and it creates a vicious cycle, where anger leads to more anger."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5417,
-            "TextJPN": "…怒りは決して不要な感情ではない。",
-            "TextENG": "...Anger is a necessary emotion for humans."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5418,
-            "TextJPN": "人は生きるために様々な障害にぶつかる。",
-            "TextENG": "People face many difficulties in their lives."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5419,
-            "TextJPN": "それと戦い乗り越える力の原動力が怒りなのだ。",
-            "TextENG": "Anger gives them the motivation to fight and conquer such difficulties."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5420,
-            "TextJPN": "…その意味において、怒りは人の生きる力そのものと言える。",
-            "TextENG": "Therefore, anger is an essential part of life itself."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5421,
-            "TextJPN": "だから、怒りそのものを否定したりはしない。",
-            "TextENG": "So I will never reject anger itself."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5422,
-            "TextJPN": "だが、度を越えた怒りは、時に目的を忘れさせる。",
-            "TextENG": "However, anger like this, that goes far beyond normal, makes people forget their purpose."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5423,
-            "TextJPN": "…それはすでに、生きるための力ではない。",
-            "TextENG": "That is no longer an essential part of life."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5424,
-            "TextJPN": "頭に血が上り、自分が何をしたかったのかも忘れてしまった、まさに暴走の状態なのだ。",
-            "TextENG": "As the blood rushes to their head, a person can't even remember what they've done. They go out of control."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5425,
-            "TextJPN": "……このような感情は、僕たちにとって辛く悲しく耐え難いもの。",
-            "TextENG": "......Such emotions are very painful, sad, and difficult to endure."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5426,
-            "TextJPN": "…村人と共にある僕たちが、少しずつ怒りの感情に飲み込まれて、『鬼』に染まっていくのを、僕は色を見るようにはっきりと見えているのだった…。",
-            "TextENG": "...I can clearly see the villagers who live alongside us turning into demons."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5427,
-            "TextJPN": "人間の世界のルールはわかる。",
-            "TextENG": "I understand the rules of the human world."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5428,
-            "TextJPN": "国の政策に立ち向かうには、個人の力はあまりに無力だ。",
-            "TextENG": "The power of an individual can't be compared to the power of the government."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5429,
-            "TextJPN": "…それに立ち向かうためには、個人の域を超えた力と結束が必要になる。",
-            "TextENG": "To be able to fight, an individual needs to become part of a larger, unified power."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5430,
-            "TextJPN": "だが、その力を正しい方向に導くのはとても難しいこと。",
-            "TextENG": "But to steer that unified power in the right direction is extremely difficult."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5431,
-            "TextJPN": "…怒りの連鎖は怒りのために怒りを生む。",
-            "TextENG": "The cycle of anger leads to more anger."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5432,
-            "TextJPN": "生きるために怒るのではなく、怒るために怒る。",
-            "TextENG": "Not anger that helps you live, but anger that exists only for anger."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5433,
-            "TextJPN": "…それは、ただの鬼でしかない。",
-            "TextENG": "...It's just like being a demon."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5434,
-            "TextJPN": "そして、…この感情は、永い間、静かに眠ってきた僕たちを乱暴に起こすものにしかならない…。",
-            "TextENG": "And... this emotion is capable of violently rousing us from our long, peaceful slumber."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5435,
-            "TextJPN": "みんなが、…怒りに塗りつぶされていく。",
-            "TextENG": "Everyone is immersed in their own anger."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5436,
-            "TextJPN": "僕たちは平和に村人たちと共存することを知り、静かに眠りながら過ごしてきたのだ。",
-            "TextENG": "We lived peacefully with the villagers while we slept quietly."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5437,
-            "TextJPN": "…それが、起こされ、…鬼ヶ淵沼から鬼が湧き出したと伝えられたあの時代に戻ってしまいそうになっている…。",
-            "TextENG": "...Yet now we've awakened, and it's like the world is trying to return to that age when demons were said to rise from Onigafuchi Swamp."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5438,
-            "TextJPN": "僕はみんなに、どうか落ち着いてと叫ぶ。",
-            "TextENG": "I keep shouting at everyone to get them to calm down."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5439,
-            "TextJPN": "でも、怒りが怒りを増幅しあうこの悪循環に、僕の声無き声など誰にも届きはしない…。",
-            "TextENG": "But my voice can't reach them, because of the vicious cycle of anger."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5440,
-            "TextJPN": "それでも誰かひとりの耳に届くことを信じて、僕はみんなに、どうか落ち着いてと何度も叫ぶしかないのだ。",
-            "TextENG": "Even so, I'll continue shouting, hoping even one of them will hear my voice."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5441,
-            "TextJPN": "このままでは、……鬼が目覚めてしまうかもしれない。",
-            "TextENG": "Because if I don't do anything... the demons may awaken."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5442,
-            "TextJPN": "眠りにつき、二度と蘇ることなどないはずだった鬼たちが、…この騒ぎで目覚めてしまうかもしれない…。",
-            "TextENG": "The demons that went into a deep sleep... may reawaken because of this commotion."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5443,
-            "TextJPN": "その時、騒ぎの雰囲気が変わった。",
-            "TextENG": "Then, all of a sudden, the atmosphere changed."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5444,
-            "TextJPN": "見れば、壇上と住民の間の対決だったのが、いつの間にか住民と住民の間の対決に移っていた。",
-            "TextENG": "Looking up, I saw that the angry exchange between villagers and those on the podium had devolved into confrontation between the villagers themselves."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5445,
-            "TextJPN": "…一体、何事だろう？",
-            "TextENG": "...What's going on?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5446,
-            "NamesJPN": "沙都子父",
-            "PreTextTags": "@vS20/00/VTK1_satokoF1001.",
-            "TextJPN": "「じゃかましいわッ！！@k@vS20/00/VTK1_satokoF1002.　そりゃおんどれの都合やんね、勝手に総意にせんといてんなクソババアッ！！」",
-            "NamesENG": "Satoko's dad",
-            "TextENG": "``Shut up!!!@k@vS20/00/VTK1_satokoF1002. Those are your reasons, not ours!! Don't pull us into this, you old hag!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5447,
-            "NamesJPN": "お魎",
-            "PreTextTags": "@vS20/17/VTK1_oryou1010.",
-            "TextJPN": "「あんじょう、すったらんわッ、あほんだらぁッ！！@k@|@y@vS20/17/VTK1_oryou1011.　ようも言ったん、抜かしよってからにこんの輩ぁああぁッ！！！」",
-            "NamesENG": "Oryou",
-            "TextENG": "``Who the hell cares!!@k@|@y@vS20/17/VTK1_oryou1011. The hell you say, you bastard!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5448,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS20/00/VTK1_farmMa1012.",
-            "TextJPN": "「おうおうッ！！@k@vS20/00/VTK1_farmMa1013.　てめぇお魎さんと知っててその口聞いとるんかいな、上等きっちゃら、おあああッ？！@k@vS20/00/VTK1_farmMa1014.　名乗らんかいおおぅッ！！」",
-            "NamesENG": "Villager",
-            "TextENG": "``Hey, hey, hey!!@k@vS20/00/VTK1_farmMa1013. Do you know who you're talking to? This is Oryou-san. You've got some nerve, huh?@k@vS20/00/VTK1_farmMa1014. Who the hell do you think you are?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5449,
-            "NamesJPN": "沙都子父",
-            "PreTextTags": "@vS20/00/VTK1_satokoF1003.",
-            "TextJPN": "「やっかましいわぁ！！@k@vS20/00/VTK1_satokoF1004.　園崎がなんぼのもんじゃい、わしゃあ北条じゃ、腰巾着は引っ込んどらんか、えぇッ！！」",
-            "NamesENG": "Satoko's dad",
-            "TextENG": "``Shut up!!@k@vS20/00/VTK1_satokoF1004. Sonozaki? So what? I'm Houjou. Get your goons away from me!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5450,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS20/00/VTK1_farmMb1012.",
-            "TextJPN": "「おぉう北条んの！@k@vS20/00/VTK1_farmMb1013.　何ば抜かしよったんようも村を沈めちゃる言えるのぉ！！@k@vS20/00/VTK1_farmMb1014.　お前ぇ何ぼで村を売ったんッ？！」",
-            "NamesENG": "Villager",
-            "TextENG": "``Hey, Houjou!!@k@vS20/00/VTK1_farmMb1013. How dare you say that you want the village to be submerged?@k@vS20/00/VTK1_farmMb1014. How much are they paying you?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5451,
-            "NamesJPN": "沙都子父",
-            "PreTextTags": "@vS20/00/VTK1_satokoF1005.",
-            "TextJPN": "「黙らんかい死に損ないがぁッ！！@k@vS20/00/VTK1_satokoF1006.　いいんか、雛見沢には貧乏人も大勢おるん、お前んとこみたいに、山に畑を唸るほど持ってる地主とはわけが違うんッ！！」",
-            "NamesENG": "Satoko's dad",
-            "TextENG": "``Shut up, you old geezer!!@k@vS20/00/VTK1_satokoF1006. Listen, there are plenty of poor people in Hinamizawa. Not everyone is rich and has fields all over the mountains like you do!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5452,
-            "NamesJPN": "沙都子父",
-            "PreTextTags": "@vS20/00/VTK1_satokoF1007.",
-            "TextJPN": "「わしゃあの国の補償金で充分満足しとったん、町の公営住宅も手配してくれるっちゅうし、なぁんも不足はなかったん！　えぇッ！！」",
-            "NamesENG": "Satoko's dad",
-            "TextENG": "I'm satisfied with the compensation from the government. They've even offered to provide us with public housing."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5453,
-            "NamesJPN": "沙都子父",
-            "PreTextTags": "@vS20/00/VTK1_satokoF1008.",
-            "TextJPN": "「それをおんどれが全部ちゃぶ台引っくり返しよったん、台無しにしよったんじゃボケぇッ！！！」",
-            "NamesENG": "Satoko's dad",
-            "TextENG": "Yet you're ruining everything, you assholes!!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5454,
-            "NamesJPN": "沙都子父",
-            "PreTextTags": "@vS20/00/VTK1_satokoF1009.",
-            "TextJPN": "「おどれら地主の都合で人まで巻き込むなや！@k@vS20/00/VTK1_satokoF1010.　そんなに国と喧嘩せぇんかったらおどれがひとりでやれ！！@k@vS20/00/VTK1_satokoF1011.　したらん、ゼニは誰が払うんね、おどれかいな！！」",
-            "NamesENG": "Satoko's dad",
-            "TextENG": "Don't pretend you're the same as us!@k@vS20/00/VTK1_satokoF1010. If you want to fight with the government, why don't you fight by yourself?@k@vS20/00/VTK1_satokoF1011. Then who's going to pay? You?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5455,
-            "NamesJPN": "沙都子父",
-            "PreTextTags": "@vS20/00/VTK1_satokoF1012.",
-            "TextJPN": "「うちはな、貧乏だし育ち盛りが二人もおるん。@k@vS20/00/VTK1_satokoF1013.おとなしゅう、国からゼニをもろぅて職を斡旋してもろぅて、人生再設計ちゅうとこなんや」",
-            "NamesENG": "Satoko's dad",
-            "TextENG": "I'm poor and have two kids at home.@k@vS20/00/VTK1_satokoF1013. I was planning to start a new life by leaving here in peace after getting compensation from the government and finding a job elsewhere."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5456,
-            "NamesJPN": "沙都子父",
-            "PreTextTags": "@vS20/00/VTK1_satokoF1014.",
-            "TextJPN": "「それをおどれは何じゃ、いつからお前はわしの代表になったんじゃ！！@k@vS20/00/VTK1_satokoF1015.　お前、そんなに偉いんか、おああああッ？！」",
-            "NamesENG": "Satoko's dad",
-            "TextENG": "But you... since when did you represent me, huh?!@k@vS20/00/VTK1_satokoF1015. Do you think you're that important, or what?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5457,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS20/00/VTK1_farmMc1012.",
-            "TextJPN": "「おうおうおう、北条の！！@k@vS20/00/VTK1_farmMc1013.　ようも抜かした、この裏切り者がぁッ！！@k@vS20/00/VTK1_farmMc1014.　んなら村から出てけ出てけッ！！」",
-            "NamesENG": "Villager",
-            "TextENG": "``Hey, hey, hey, Houjou!!@k@vS20/00/VTK1_farmMc1013. How dare you betray us!!@k@vS20/00/VTK1_farmMc1014. Then get out! Get out of this village!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5458,
-            "NamesJPN": "沙都子父",
-            "PreTextTags": "@vS20/00/VTK1_satokoF1016.",
-            "TextJPN": "「おう、出ていったら！@k@vS20/00/VTK1_satokoF1017.　もちろん、それに見合うゼニはお前が払うんじゃろうな？！@k@vS20/00/VTK1_satokoF1018.　わしが国からもらい損ねたゼニ、きっちり都合つけてくれるんじゃろなぁ？　なぁッ？！」",
-            "NamesENG": "Satoko's dad",
-            "TextENG": "``Sure, I'll be happy to!!@k@vS20/00/VTK1_satokoF1017. But you're going to pay what I'm entitled to, right?@k@vS20/00/VTK1_satokoF1018. You're going to pay me every yen of the compensation I was going to get from the government!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5459,
-            "NamesJPN": "沙都子父",
-            "PreTextTags": "@vS20/00/VTK1_satokoF1019.",
-            "TextJPN": "「村から出たぅともゼニがないんじゃ。@k@vS20/00/VTK1_satokoF1020.おどれが払うんならすぐにでも出てったるわ！！」",
-            "NamesENG": "Satoko's dad",
-            "TextENG": "Even if I wanted to leave the village, I don't have the money.@k@vS20/00/VTK1_satokoF1020. If you're going to pay me, I'll leave straight away!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5460,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS20/00/VTK1_farmMd1001.",
-            "TextJPN": "「…北条の言う通りだ！@k@vS20/00/VTK1_farmMd1002.　立ち退いてもいいと思ってる住民もいるんだぞ！@k@vS20/00/VTK1_farmMd1003.　御三家は俺たちを巻き込むな！」",
-            "NamesENG": "Villager",
-            "TextENG": "``...Houjou is right!@k@vS20/00/VTK1_farmMd1002. There are plenty of residents who are willing to leave!@k@vS20/00/VTK1_farmMd1003. You Three Families shouldn't drag us into this!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5461,
-            "NamesJPN": "お魎",
-            "PreTextTags": "@vS20/17/VTK1_oryou1012.",
-            "TextJPN": "「おうおう何じゃい？@k@vS20/17/VTK1_oryou1013.　今抜かしたのは誰じゃい？！@k@vS20/17/VTK1_oryou1014.　名乗らんかいボケッ？！」",
-            "NamesENG": "Oryou",
-            "TextENG": "``The hell is this?@k@vS20/17/VTK1_oryou1013. Who just spoke?@k@vS20/17/VTK1_oryou1014. Come on, who was it?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5462,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS20/00/VTK1_farmMd1004.",
-            "TextJPN": "「残りたいヤツは勝手に残ればいいだろが！！@k@vS20/00/VTK1_farmMd1005.　立ち退きも権利じゃ、勝手に人様の権利に干渉するなやこんのダラズがッ！！」",
-            "NamesENG": "Villager",
-            "TextENG": "``If you want to stay, then stay!!@k@vS20/00/VTK1_farmMd1005. We have the right to leave, so don't interfere!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5463,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS20/00/VTK1_farmMe1001.",
-            "TextJPN": "「そうじゃそうじゃ！！@k@vS20/00/VTK1_farmMe1002.　園崎のクソババアはすっこんどれッ！！」",
-            "NamesENG": "Villager",
-            "TextENG": "``That's right!!@k@vS20/00/VTK1_farmMe1002. Back the hell off, you damn Sonozaki hag!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5464,
-            "NamesJPN": "役人",
-            "PreTextTags": "@vS20/00/VTK1_yakuA1004.",
-            "TextJPN": "「…あーー、もちろんダム計画に同意してくださる方には見合う保障を用意いたしております。@k@vS20/00/VTK1_yakuA1005.決して土地の搾取ではありませんのでぇ…、」",
-            "NamesENG": "Government Official",
-            "TextENG": "``...Ahh, of course we'll compensate the people who support the dam construction plan.@k@vS20/00/VTK1_yakuA1005. We most certainly will not steal the land from you...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5465,
-            "NamesJPN": "お魎",
-            "PreTextTags": "@vS20/17/VTK1_oryou1015.",
-            "TextJPN": "「黙れ役人、ボケェ！！@|@y@k@vS20/17/VTK1_oryou1016.　おんどりゃあ、村ン真っ二つに裂こう魂胆かいッ！！」",
-            "NamesENG": "Oryou",
-            "TextENG": "``Shut up, government dog!!@|@y@k@vS20/17/VTK1_oryou1016. Are you trying to divide the village?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5466,
-            "NamesJPN": "お魎",
-            "PreTextTags": "@vS20/17/VTK1_oryou1017.",
-            "TextJPN": "「死ねや北条！！@k@vS20/17/VTK1_oryou1018.　村の空気を吸う資格はねぇ、今すぐ息止めて死ねッ！！」",
-            "NamesENG": "Oryou",
-            "TextENG": "Die, Houjou!!@k@vS20/17/VTK1_oryou1018. You don't deserve to breathe the village air. Hold your breath and suffocate to death!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5467,
-            "NamesJPN": "沙都子父",
-            "PreTextTags": "@vS20/00/VTK1_satokoF1021.",
-            "TextJPN": "「なめんなボケが！！@k@vS20/00/VTK1_satokoF1022.　ぶッ殺してやるわ、前に出ろクソババア！！！@k@vS20/00/VTK1_satokoF1023.　おおおお、引っ込まんかいデカポリ！！」",
-            "NamesENG": "Satoko's dad",
-            "TextENG": "``Screw you, old hag!!!@k@vS20/00/VTK1_satokoF1022. I'll murder your ass! Step up front, you damn hag!!!@k@vS20/00/VTK1_satokoF1023. Heeeey! Stay out of this, you fat pig!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5468,
-            "NamesJPN": "お魎",
-            "PreTextTags": "@vS20/17/VTK1_oryou1019.",
-            "TextJPN": "「よーーう抜かした。@k@vS20/17/VTK1_oryou1020.…よーぅ抜かしたわ北条の。@k@vS20/17/VTK1_oryou1021.…この園崎お魎、ひっさびさに頭ぁ血ぃ登って来よったんわ。@k@vS20/17/VTK1_oryou1022.きっちりケジメ取らしぃてもらうかんの。@k@vS20/17/VTK1_oryou1023.あんじょう、楽しみに待っとれやッ…！！！」",
-            "NamesENG": "Oryou",
-            "TextENG": "``Veeeery good.@k@vS20/17/VTK1_oryou1020. That was veeery good, Houjou.@k@vS20/17/VTK1_oryou1021. I haven't been this pissed off in so, so long.@k@vS20/17/VTK1_oryou1022. You'll get what you deserve!!@k@vS20/17/VTK1_oryou1023. Look forward to it!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5469,
-            "NamesJPN": "村人",
-            "PreTextTags": "@vS20/00/VTK1_farmMe1003.",
-            "TextJPN": "「北条、やれやれッ！！@k@vS20/00/VTK1_farmMe1004.　国は俺たちに仕事と住処とカネを与えろー！！」",
-            "NamesENG": "Villager",
-            "TextENG": "``Get 'em, get 'em, Houjou!!@k@vS20/00/VTK1_farmMe1004. The government has to provide us new jobs, shelter, and compensation.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5470,
-            "NamesJPN": "役人",
-            "PreTextTags": "@vS20/00/VTK1_yakuA1006.",
-            "TextJPN": "「こらこら！！@k@vS20/00/VTK1_yakuA1007.　やめなさい暴力は！！@k@vS20/00/VTK1_yakuA1008.　お互い、やめてやめてッ！！」",
-            "NamesENG": "Government Official",
-            "TextENG": "``Hey, hey!!@k@vS20/00/VTK1_yakuA1007. Stop this violence!!@k@vS20/00/VTK1_yakuA1008. All of you, stop it, stop it!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5471,
-            "NamesJPN": "お魎",
-            "PreTextTags": "@vS20/17/VTK1_oryou1024.",
-            "TextJPN": "「すったらん、上等じゃああ！！@k@vS20/17/VTK1_oryou1025.　おんしが出てこんかいなッ！！」",
-            "NamesENG": "Oryou",
-            "TextENG": "``Like hell, bring it on!!@k@vS20/17/VTK1_oryou1025. Come and get some!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5472,
-            "TextJPN": "みんなが、真っ赤な怒りにどんどんと染まっていく…。",
-            "TextENG": "Everyone is being tainted with the bloody red anger..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5473,
-            "TextJPN": "僕はそれを、黙って見ているしかできない……。",
-            "TextENG": "And I can only watch......"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5474,
-            "TextJPN": "せめてできるのは、…これから起こるかもしれない惨劇を、…今から詫びることだけだった…。",
-            "TextENG": "The least I can do... is to apologize for the tragedy that is about to happen..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5475,
-            "TextJPN": "…ごめんなさい、@|@yごめんなさい。",
-            "TextENG": "...I'm sorry,@|@y I'm sorry."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5476,
-            "TextJPN": "ごめんなさい、@|@yごめんなさい、@|@yごめんなさい…。",
-            "TextENG": "I'm sorry,@|@y I'm sorry,@|@y I'm sorry..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5477,
-            "TextJPN": "そして……、この日がきっかけなのだ。",
-            "TextENG": "This...... is how things started."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5478,
-            "TextJPN": "…この日を境に北条家と園崎家は決定的に対立し、北条家は村の中で孤立を深めていく。",
-            "TextENG": "From this day onward, the Houjou family and the Sonozaki family will wage a feud against each other, and the Houjou family will become ostracized within the village."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5479,
-            "TextJPN": "それは沙都子と悟史を辛い運命へ突き落としていくということなのだ…。",
-            "TextENG": "This marks the beginning of Satoko and Satoshi's lives of tremendous hardship."
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "D2 地元説明会",
+		"ENG": "D2 Explanatory Meeting"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5397,
+		"NamesJPN": "役人",
+		"PreTextTags": "@vS20/00/VTK1_yakuA1001.",
+		"TextJPN": "「でして、ダムの建設事業に伴う地域振興や地域産業の育成などですね…、」",
+		"NamesENG": "Government Official",
+		"TextENG": "``So the dam construction will bring in new jobs and revitalize the local industry...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5398,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS20/00/VTK1_farmMa1008.",
+		"TextJPN": "「そんなことは聞いてねぇっつってんだらぁ！！」",
+		"AfterTextTags": "@|@y",
+		"NamesENG": "Villager",
+		"TextENG": "``That's not what we're saying!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5399,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS20/00/VTK1_farmMb1009.",
+		"TextJPN": "「俺らの誰の断りがあって、ダムなんか作ろうって言い出したかって聞いてんだ！」",
+		"AfterTextTags": "@|@y",
+		"NamesENG": "Villager",
+		"TextENG": "``Who the hell gave you permission to build a dam here?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5400,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS20/00/VTK1_farmMc1009.",
+		"TextJPN": "「おう、わしらから税金絞るだけ絞っといてそれに対する返事がこれっちゅうんか？！@k@vS20/00/VTK1_farmMc1010.　おんどりゃあ、誰の税金で給料もらっとんじゃあ！！」",
+		"AfterTextTags": "@|@y",
+		"NamesENG": "Villager",
+		"TextENG": "``You squeeze tax money from us and this is what we get in return?@k@vS20/00/VTK1_farmMc1010. Who do you think pays your salaries, huh?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5401,
+		"NamesJPN": "役人",
+		"PreTextTags": "@vS20/00/VTK1_yakuA1002.",
+		"TextJPN": "「ですから！@k@vS20/00/VTK1_yakuA1003.　先ほどから申し上げておりますように…！！」",
+		"NamesENG": "Government Official",
+		"TextENG": "``Look,@k@vS20/00/VTK1_yakuA1003. we're trying to explain to you...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5402,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS20/00/VTK1_farmMa1009.",
+		"TextJPN": "「言い訳など聞いちゃならんねぇ、いつ計画を中止するんか聞いとるんじゃい！！」",
+		"NamesENG": "Villager",
+		"TextENG": "``We don't want to hear your excuses!! We want to know when you'll stop the construction!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5403,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS20/00/VTK1_farmMb1010.",
+		"TextJPN": "「お前じゃ話にならん、東京の建設大臣を連れて来い！！@k@vS20/00/VTK1_farmMb1011.　ここではっきり白黒つけちゃる！！」",
+		"NamesENG": "Villager",
+		"TextENG": "``You're useless! Bring the Minister of Construction here!!@k@vS20/00/VTK1_farmMb1011. He'll get to the bottom of it!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5404,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS20/00/VTK1_farmMc1011.",
+		"TextJPN": "「引っ込まんか木っ端役人があぁあぁ！！」",
+		"AfterTextTags": "@|@y",
+		"NamesENG": "Villager",
+		"TextENG": "``Shut up, you yuppie!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5405,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS20/00/VTK1_farmMa1010.",
+		"TextJPN": "「大体おどれら、人さまの税金で仕事しとって、何でわしらより高い段で話をしとるんじゃ。@k@vS20/00/VTK1_farmMa1011.目線で話さんかい目線で！！」",
+		"NamesENG": "Villager",
+		"TextENG": "``Hey, you're paid with our tax money, so why the hell are you talking down to us from up there?@k@vS20/00/VTK1_farmMa1011. Come down here and and let's speak face to face!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5406,
+		"TextJPN": "体育館の中は怒号に満ちていた。",
+		"TextENG": "The auditorium is filled with angry shouting."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5407,
+		"TextJPN": "雛見沢ダム基本計画地元説明会。",
+		"TextENG": "The sign at the entrance says"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5408,
+		"TextJPN": "…表に出ている立て看板にはそう書かれていた。",
+		"TextENG": "``Hinamizawa Dam Construction Explanatory Meeting``."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5409,
+		"TextJPN": "壇上で、役人の男が何かを言おうとする度に、満場の住民たちは一斉に怒号を浴びせ掛け、それを塗りつぶす。",
+		"TextENG": "Every time the official on the stage tried to say anything, the citizens packed into the room silenced him with their shouts."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5410,
+		"TextJPN": "それでは進行にならないので、それらを聞こえないかのように振る舞い、ダムの有用性をパネルで説明すればするほど、",
+		"TextENG": "Trying to ignore them, the official continued to explain the pros of the dam,"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5411,
+		"TextJPN": "住民の声を聞かない政府の横暴という図式になり、ますます彼らの怒りを焚きつけた。",
+		"TextENG": "but that just further infuriated them."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5412,
+		"TextJPN": "壇上と住民の席の間には空白地帯が設けられ、警官隊がスクラムを組み制止線を作っていた。",
+		"TextENG": "Between the stage and the citizens, there was an open area where a police squad is standing by."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5413,
+		"TextJPN": "…もし、これがなかったら、住民たちはすぐにでも壇上に駆け上がり、取っ組み合いに発展していたに違いない…。",
+		"TextENG": "If they weren't there, the citizens would jump onto the stage and start a riot."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5414,
+		"TextJPN": "…そんな光景を、僕はみんなの後から見守っていた。",
+		"TextENG": "...I'm watching all this from the back of the auditorium."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5415,
+		"TextJPN": "彼らが、怒りの感情に飲み込まれているのが、はっきりと色で見える。",
+		"TextENG": "It's obvious to anyone that they're being swallowed by their anger."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5416,
+		"TextJPN": "…血の赤に徐々に飲み込まれ、…ある目的のために芽生えた怒りの感情が、目的そのものに取って代わり、怒るために怒るという悪循環を生み出そうとしている…。",
+		"TextENG": "...They've become filled with a bloody red rage. ...The anger that came from a certain purpose becomes a purpose in itself and it creates a vicious cycle, where anger leads to more anger."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5417,
+		"TextJPN": "…怒りは決して不要な感情ではない。",
+		"TextENG": "...Anger is a necessary emotion for humans."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5418,
+		"TextJPN": "人は生きるために様々な障害にぶつかる。",
+		"TextENG": "People face many difficulties in their lives."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5419,
+		"TextJPN": "それと戦い乗り越える力の原動力が怒りなのだ。",
+		"TextENG": "Anger gives them the motivation to fight and conquer such difficulties."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5420,
+		"TextJPN": "…その意味において、怒りは人の生きる力そのものと言える。",
+		"TextENG": "Therefore, anger is an essential part of life itself."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5421,
+		"TextJPN": "だから、怒りそのものを否定したりはしない。",
+		"TextENG": "So I will never reject anger itself."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5422,
+		"TextJPN": "だが、度を越えた怒りは、時に目的を忘れさせる。",
+		"TextENG": "However, anger like this, that goes far beyond normal, makes people forget their purpose."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5423,
+		"TextJPN": "…それはすでに、生きるための力ではない。",
+		"TextENG": "That is no longer an essential part of life."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5424,
+		"TextJPN": "頭に血が上り、自分が何をしたかったのかも忘れてしまった、まさに暴走の状態なのだ。",
+		"TextENG": "As the blood rushes to their head, a person can't even remember what they've done. They go out of control."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5425,
+		"TextJPN": "……このような感情は、僕たちにとって辛く悲しく耐え難いもの。",
+		"TextENG": "......Such emotions are very painful, sad, and difficult to endure."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5426,
+		"TextJPN": "…村人と共にある僕たちが、少しずつ怒りの感情に飲み込まれて、『鬼』に染まっていくのを、僕は色を見るようにはっきりと見えているのだった…。",
+		"TextENG": "...I can clearly see the villagers who live alongside us turning into demons."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5427,
+		"TextJPN": "人間の世界のルールはわかる。",
+		"TextENG": "I understand the rules of the human world."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5428,
+		"TextJPN": "国の政策に立ち向かうには、個人の力はあまりに無力だ。",
+		"TextENG": "The power of an individual can't be compared to the power of the government."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5429,
+		"TextJPN": "…それに立ち向かうためには、個人の域を超えた力と結束が必要になる。",
+		"TextENG": "To be able to fight, an individual needs to become part of a larger, unified power."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5430,
+		"TextJPN": "だが、その力を正しい方向に導くのはとても難しいこと。",
+		"TextENG": "But to steer that unified power in the right direction is extremely difficult."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5431,
+		"TextJPN": "…怒りの連鎖は怒りのために怒りを生む。",
+		"TextENG": "The cycle of anger leads to more anger."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5432,
+		"TextJPN": "生きるために怒るのではなく、怒るために怒る。",
+		"TextENG": "Not anger that helps you live, but anger that exists only for anger."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5433,
+		"TextJPN": "…それは、ただの鬼でしかない。",
+		"TextENG": "...It's just like being a demon."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5434,
+		"TextJPN": "そして、…この感情は、永い間、静かに眠ってきた僕たちを乱暴に起こすものにしかならない…。",
+		"TextENG": "And... this emotion is capable of violently rousing us from our long, peaceful slumber."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5435,
+		"TextJPN": "みんなが、…怒りに塗りつぶされていく。",
+		"TextENG": "Everyone is immersed in their own anger."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5436,
+		"TextJPN": "僕たちは平和に村人たちと共存することを知り、静かに眠りながら過ごしてきたのだ。",
+		"TextENG": "We lived peacefully with the villagers while we slept quietly."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5437,
+		"TextJPN": "…それが、起こされ、…鬼ヶ淵沼から鬼が湧き出したと伝えられたあの時代に戻ってしまいそうになっている…。",
+		"TextENG": "...Yet now we've awakened, and it's like the world is trying to return to that age when demons were said to rise from Onigafuchi Swamp."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5438,
+		"TextJPN": "僕はみんなに、どうか落ち着いてと叫ぶ。",
+		"TextENG": "I keep shouting at everyone to get them to calm down."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5439,
+		"TextJPN": "でも、怒りが怒りを増幅しあうこの悪循環に、僕の声無き声など誰にも届きはしない…。",
+		"TextENG": "But my voice can't reach them, because of the vicious cycle of anger."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5440,
+		"TextJPN": "それでも誰かひとりの耳に届くことを信じて、僕はみんなに、どうか落ち着いてと何度も叫ぶしかないのだ。",
+		"TextENG": "Even so, I'll continue shouting, hoping even one of them will hear my voice."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5441,
+		"TextJPN": "このままでは、……鬼が目覚めてしまうかもしれない。",
+		"TextENG": "Because if I don't do anything... the demons may awaken."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5442,
+		"TextJPN": "眠りにつき、二度と蘇ることなどないはずだった鬼たちが、…この騒ぎで目覚めてしまうかもしれない…。",
+		"TextENG": "The demons that went into a deep sleep... may reawaken because of this commotion."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5443,
+		"TextJPN": "その時、騒ぎの雰囲気が変わった。",
+		"TextENG": "Then, all of a sudden, the atmosphere changed."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5444,
+		"TextJPN": "見れば、壇上と住民の間の対決だったのが、いつの間にか住民と住民の間の対決に移っていた。",
+		"TextENG": "Looking up, I saw that the angry exchange between villagers and those on the podium had devolved into confrontation between the villagers themselves."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5445,
+		"TextJPN": "…一体、何事だろう？",
+		"TextENG": "...What's going on?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5446,
+		"NamesJPN": "沙都子父",
+		"PreTextTags": "@vS20/00/VTK1_satokoF1001.",
+		"TextJPN": "「じゃかましいわッ！！@k@vS20/00/VTK1_satokoF1002.　そりゃおんどれの都合やんね、勝手に総意にせんといてんなクソババアッ！！」",
+		"NamesENG": "Satoko's dad",
+		"TextENG": "``Shut up!!!@k@vS20/00/VTK1_satokoF1002. Those are your reasons, not ours!! Don't pull us into this, you old hag!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5447,
+		"NamesJPN": "お魎",
+		"PreTextTags": "@vS20/17/VTK1_oryou1010.",
+		"TextJPN": "「あんじょう、すったらんわッ、あほんだらぁッ！！@k@|@y@vS20/17/VTK1_oryou1011.　ようも言ったん、抜かしよってからにこんの輩ぁああぁッ！！！」",
+		"NamesENG": "Oryou",
+		"TextENG": "``Who the hell cares!!@k@|@y@vS20/17/VTK1_oryou1011. The hell you say, you bastard!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5448,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS20/00/VTK1_farmMa1012.",
+		"TextJPN": "「おうおうッ！！@k@vS20/00/VTK1_farmMa1013.　てめぇお魎さんと知っててその口聞いとるんかいな、上等きっちゃら、おあああッ？！@k@vS20/00/VTK1_farmMa1014.　名乗らんかいおおぅッ！！」",
+		"NamesENG": "Villager",
+		"TextENG": "``Hey, hey, hey!!@k@vS20/00/VTK1_farmMa1013. Do you know who you're talking to? This is Oryou-san. You've got some nerve, huh?@k@vS20/00/VTK1_farmMa1014. Who the hell do you think you are?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5449,
+		"NamesJPN": "沙都子父",
+		"PreTextTags": "@vS20/00/VTK1_satokoF1003.",
+		"TextJPN": "「やっかましいわぁ！！@k@vS20/00/VTK1_satokoF1004.　園崎がなんぼのもんじゃい、わしゃあ北条じゃ、腰巾着は引っ込んどらんか、えぇッ！！」",
+		"NamesENG": "Satoko's dad",
+		"TextENG": "``Shut up!!@k@vS20/00/VTK1_satokoF1004. Sonozaki? So what? I'm Houjou. Get your goons away from me!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5450,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS20/00/VTK1_farmMb1012.",
+		"TextJPN": "「おぉう北条んの！@k@vS20/00/VTK1_farmMb1013.　何ば抜かしよったんようも村を沈めちゃる言えるのぉ！！@k@vS20/00/VTK1_farmMb1014.　お前ぇ何ぼで村を売ったんッ？！」",
+		"NamesENG": "Villager",
+		"TextENG": "``Hey, Houjou!!@k@vS20/00/VTK1_farmMb1013. How dare you say that you want the village to be submerged?@k@vS20/00/VTK1_farmMb1014. How much are they paying you?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5451,
+		"NamesJPN": "沙都子父",
+		"PreTextTags": "@vS20/00/VTK1_satokoF1005.",
+		"TextJPN": "「黙らんかい死に損ないがぁッ！！@k@vS20/00/VTK1_satokoF1006.　いいんか、雛見沢には貧乏人も大勢おるん、お前んとこみたいに、山に畑を唸るほど持ってる地主とはわけが違うんッ！！」",
+		"NamesENG": "Satoko's dad",
+		"TextENG": "``Shut up, you old geezer!!@k@vS20/00/VTK1_satokoF1006. Listen, there are plenty of poor people in Hinamizawa. Not everyone is rich and has fields all over the mountains like you do!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5452,
+		"NamesJPN": "沙都子父",
+		"PreTextTags": "@vS20/00/VTK1_satokoF1007.",
+		"TextJPN": "「わしゃあの国の補償金で充分満足しとったん、町の公営住宅も手配してくれるっちゅうし、なぁんも不足はなかったん！　えぇッ！！」",
+		"NamesENG": "Satoko's dad",
+		"TextENG": "I'm satisfied with the compensation from the government. They've even offered to provide us with public housing."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5453,
+		"NamesJPN": "沙都子父",
+		"PreTextTags": "@vS20/00/VTK1_satokoF1008.",
+		"TextJPN": "「それをおんどれが全部ちゃぶ台引っくり返しよったん、台無しにしよったんじゃボケぇッ！！！」",
+		"NamesENG": "Satoko's dad",
+		"TextENG": "Yet you're ruining everything, you assholes!!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5454,
+		"NamesJPN": "沙都子父",
+		"PreTextTags": "@vS20/00/VTK1_satokoF1009.",
+		"TextJPN": "「おどれら地主の都合で人まで巻き込むなや！@k@vS20/00/VTK1_satokoF1010.　そんなに国と喧嘩せぇんかったらおどれがひとりでやれ！！@k@vS20/00/VTK1_satokoF1011.　したらん、ゼニは誰が払うんね、おどれかいな！！」",
+		"NamesENG": "Satoko's dad",
+		"TextENG": "Don't pretend you're the same as us!@k@vS20/00/VTK1_satokoF1010. If you want to fight with the government, why don't you fight by yourself?@k@vS20/00/VTK1_satokoF1011. Then who's going to pay? You?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5455,
+		"NamesJPN": "沙都子父",
+		"PreTextTags": "@vS20/00/VTK1_satokoF1012.",
+		"TextJPN": "「うちはな、貧乏だし育ち盛りが二人もおるん。@k@vS20/00/VTK1_satokoF1013.おとなしゅう、国からゼニをもろぅて職を斡旋してもろぅて、人生再設計ちゅうとこなんや」",
+		"NamesENG": "Satoko's dad",
+		"TextENG": "I'm poor and have two kids at home.@k@vS20/00/VTK1_satokoF1013. I was planning to start a new life by leaving here in peace after getting compensation from the government and finding a job elsewhere."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5456,
+		"NamesJPN": "沙都子父",
+		"PreTextTags": "@vS20/00/VTK1_satokoF1014.",
+		"TextJPN": "「それをおどれは何じゃ、いつからお前はわしの代表になったんじゃ！！@k@vS20/00/VTK1_satokoF1015.　お前、そんなに偉いんか、おああああッ？！」",
+		"NamesENG": "Satoko's dad",
+		"TextENG": "But you... since when did you represent me, huh?!@k@vS20/00/VTK1_satokoF1015. Do you think you're that important, or what?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5457,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS20/00/VTK1_farmMc1012.",
+		"TextJPN": "「おうおうおう、北条の！！@k@vS20/00/VTK1_farmMc1013.　ようも抜かした、この裏切り者がぁッ！！@k@vS20/00/VTK1_farmMc1014.　んなら村から出てけ出てけッ！！」",
+		"NamesENG": "Villager",
+		"TextENG": "``Hey, hey, hey, Houjou!!@k@vS20/00/VTK1_farmMc1013. How dare you betray us!!@k@vS20/00/VTK1_farmMc1014. Then get out! Get out of this village!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5458,
+		"NamesJPN": "沙都子父",
+		"PreTextTags": "@vS20/00/VTK1_satokoF1016.",
+		"TextJPN": "「おう、出ていったら！@k@vS20/00/VTK1_satokoF1017.　もちろん、それに見合うゼニはお前が払うんじゃろうな？！@k@vS20/00/VTK1_satokoF1018.　わしが国からもらい損ねたゼニ、きっちり都合つけてくれるんじゃろなぁ？　なぁッ？！」",
+		"NamesENG": "Satoko's dad",
+		"TextENG": "``Sure, I'll be happy to!!@k@vS20/00/VTK1_satokoF1017. But you're going to pay what I'm entitled to, right?@k@vS20/00/VTK1_satokoF1018. You're going to pay me every yen of the compensation I was going to get from the government!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5459,
+		"NamesJPN": "沙都子父",
+		"PreTextTags": "@vS20/00/VTK1_satokoF1019.",
+		"TextJPN": "「村から出たぅともゼニがないんじゃ。@k@vS20/00/VTK1_satokoF1020.おどれが払うんならすぐにでも出てったるわ！！」",
+		"NamesENG": "Satoko's dad",
+		"TextENG": "Even if I wanted to leave the village, I don't have the money.@k@vS20/00/VTK1_satokoF1020. If you're going to pay me, I'll leave straight away!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5460,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS20/00/VTK1_farmMd1001.",
+		"TextJPN": "「…北条の言う通りだ！@k@vS20/00/VTK1_farmMd1002.　立ち退いてもいいと思ってる住民もいるんだぞ！@k@vS20/00/VTK1_farmMd1003.　御三家は俺たちを巻き込むな！」",
+		"NamesENG": "Villager",
+		"TextENG": "``...Houjou is right!@k@vS20/00/VTK1_farmMd1002. There are plenty of residents who are willing to leave!@k@vS20/00/VTK1_farmMd1003. You Three Families shouldn't drag us into this!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5461,
+		"NamesJPN": "お魎",
+		"PreTextTags": "@vS20/17/VTK1_oryou1012.",
+		"TextJPN": "「おうおう何じゃい？@k@vS20/17/VTK1_oryou1013.　今抜かしたのは誰じゃい？！@k@vS20/17/VTK1_oryou1014.　名乗らんかいボケッ？！」",
+		"NamesENG": "Oryou",
+		"TextENG": "``The hell is this?@k@vS20/17/VTK1_oryou1013. Who just spoke?@k@vS20/17/VTK1_oryou1014. Come on, who was it?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5462,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS20/00/VTK1_farmMd1004.",
+		"TextJPN": "「残りたいヤツは勝手に残ればいいだろが！！@k@vS20/00/VTK1_farmMd1005.　立ち退きも権利じゃ、勝手に人様の権利に干渉するなやこんのダラズがッ！！」",
+		"NamesENG": "Villager",
+		"TextENG": "``If you want to stay, then stay!!@k@vS20/00/VTK1_farmMd1005. We have the right to leave, so don't interfere!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5463,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS20/00/VTK1_farmMe1001.",
+		"TextJPN": "「そうじゃそうじゃ！！@k@vS20/00/VTK1_farmMe1002.　園崎のクソババアはすっこんどれッ！！」",
+		"NamesENG": "Villager",
+		"TextENG": "``That's right!!@k@vS20/00/VTK1_farmMe1002. Back the hell off, you damn Sonozaki hag!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5464,
+		"NamesJPN": "役人",
+		"PreTextTags": "@vS20/00/VTK1_yakuA1004.",
+		"TextJPN": "「…あーー、もちろんダム計画に同意してくださる方には見合う保障を用意いたしております。@k@vS20/00/VTK1_yakuA1005.決して土地の搾取ではありませんのでぇ…、」",
+		"NamesENG": "Government Official",
+		"TextENG": "``...Ahh, of course we'll compensate the people who support the dam construction plan.@k@vS20/00/VTK1_yakuA1005. We most certainly will not steal the land from you...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5465,
+		"NamesJPN": "お魎",
+		"PreTextTags": "@vS20/17/VTK1_oryou1015.",
+		"TextJPN": "「黙れ役人、ボケェ！！@|@y@k@vS20/17/VTK1_oryou1016.　おんどりゃあ、村ン真っ二つに裂こう魂胆かいッ！！」",
+		"NamesENG": "Oryou",
+		"TextENG": "``Shut up, government dog!!@|@y@k@vS20/17/VTK1_oryou1016. Are you trying to divide the village?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5466,
+		"NamesJPN": "お魎",
+		"PreTextTags": "@vS20/17/VTK1_oryou1017.",
+		"TextJPN": "「死ねや北条！！@k@vS20/17/VTK1_oryou1018.　村の空気を吸う資格はねぇ、今すぐ息止めて死ねッ！！」",
+		"NamesENG": "Oryou",
+		"TextENG": "Die, Houjou!!@k@vS20/17/VTK1_oryou1018. You don't deserve to breathe the village air. Hold your breath and suffocate to death!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5467,
+		"NamesJPN": "沙都子父",
+		"PreTextTags": "@vS20/00/VTK1_satokoF1021.",
+		"TextJPN": "「なめんなボケが！！@k@vS20/00/VTK1_satokoF1022.　ぶッ殺してやるわ、前に出ろクソババア！！！@k@vS20/00/VTK1_satokoF1023.　おおおお、引っ込まんかいデカポリ！！」",
+		"NamesENG": "Satoko's dad",
+		"TextENG": "``Screw you, old hag!!!@k@vS20/00/VTK1_satokoF1022. I'll murder your ass! Step up front, you damn hag!!!@k@vS20/00/VTK1_satokoF1023. Heeeey! Stay out of this, you fat pig!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5468,
+		"NamesJPN": "お魎",
+		"PreTextTags": "@vS20/17/VTK1_oryou1019.",
+		"TextJPN": "「よーーう抜かした。@k@vS20/17/VTK1_oryou1020.…よーぅ抜かしたわ北条の。@k@vS20/17/VTK1_oryou1021.…この園崎お魎、ひっさびさに頭ぁ血ぃ登って来よったんわ。@k@vS20/17/VTK1_oryou1022.きっちりケジメ取らしぃてもらうかんの。@k@vS20/17/VTK1_oryou1023.あんじょう、楽しみに待っとれやッ…！！！」",
+		"NamesENG": "Oryou",
+		"TextENG": "``Veeeery good.@k@vS20/17/VTK1_oryou1020. That was veeery good, Houjou.@k@vS20/17/VTK1_oryou1021. I haven't been this pissed off in so, so long.@k@vS20/17/VTK1_oryou1022. You'll get what you deserve!!@k@vS20/17/VTK1_oryou1023. Look forward to it!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5469,
+		"NamesJPN": "村人",
+		"PreTextTags": "@vS20/00/VTK1_farmMe1003.",
+		"TextJPN": "「北条、やれやれッ！！@k@vS20/00/VTK1_farmMe1004.　国は俺たちに仕事と住処とカネを与えろー！！」",
+		"NamesENG": "Villager",
+		"TextENG": "``Get 'em, get 'em, Houjou!!@k@vS20/00/VTK1_farmMe1004. The government has to provide us new jobs, shelter, and compensation.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5470,
+		"NamesJPN": "役人",
+		"PreTextTags": "@vS20/00/VTK1_yakuA1006.",
+		"TextJPN": "「こらこら！！@k@vS20/00/VTK1_yakuA1007.　やめなさい暴力は！！@k@vS20/00/VTK1_yakuA1008.　お互い、やめてやめてッ！！」",
+		"NamesENG": "Government Official",
+		"TextENG": "``Hey, hey!!@k@vS20/00/VTK1_yakuA1007. Stop this violence!!@k@vS20/00/VTK1_yakuA1008. All of you, stop it, stop it!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5471,
+		"NamesJPN": "お魎",
+		"PreTextTags": "@vS20/17/VTK1_oryou1024.",
+		"TextJPN": "「すったらん、上等じゃああ！！@k@vS20/17/VTK1_oryou1025.　おんしが出てこんかいなッ！！」",
+		"NamesENG": "Oryou",
+		"TextENG": "``Like hell, bring it on!!@k@vS20/17/VTK1_oryou1025. Come and get some!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5472,
+		"TextJPN": "みんなが、真っ赤な怒りにどんどんと染まっていく…。",
+		"TextENG": "Everyone is being tainted with the bloody red anger..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5473,
+		"TextJPN": "僕はそれを、黙って見ているしかできない……。",
+		"TextENG": "And I can only watch......"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5474,
+		"TextJPN": "せめてできるのは、…これから起こるかもしれない惨劇を、…今から詫びることだけだった…。",
+		"TextENG": "The least I can do... is to apologize for the tragedy that is about to happen..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5475,
+		"TextJPN": "…ごめんなさい、@|@yごめんなさい。",
+		"TextENG": "...I'm sorry,@|@y I'm sorry."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5476,
+		"TextJPN": "ごめんなさい、@|@yごめんなさい、@|@yごめんなさい…。",
+		"TextENG": "I'm sorry,@|@y I'm sorry,@|@y I'm sorry..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5477,
+		"TextJPN": "そして……、この日がきっかけなのだ。",
+		"TextENG": "This...... is how things started."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5478,
+		"TextJPN": "…この日を境に北条家と園崎家は決定的に対立し、北条家は村の中で孤立を深めていく。",
+		"TextENG": "From this day onward, the Houjou family and the Sonozaki family will wage a feud against each other, and the Houjou family will become ostracized within the village."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5479,
+		"TextJPN": "それは沙都子と悟史を辛い運命へ突き落としていくということなのだ…。",
+		"TextENG": "This marks the beginning of Satoko and Satoshi's lives of tremendous hardship."
+	}
+]

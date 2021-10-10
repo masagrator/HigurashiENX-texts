@@ -1,513 +1,511 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 0,
-            "JPN": "1日目",
-            "ENG": "Day 1"
-        },
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "#1 東京からの帰り道",
-            "ENG": "#1 / On the Way Back From Tokyo"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18406,
-            "PreTextTags": "@vS19/01/OKEI_0000.",
-            "TextJPN": "どうせ引き裂かれるなら、身を引き裂かれるほうがはるかにマシだと思った。",
-            "TextENG": "If I was going to be ripped apart anyways, having my body ripped apart would've been far better."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18407,
-            "PreTextTags": "@vS19/01/OKEI_0010.",
-            "TextJPN": "信じてた。……いや、信じてる。",
-            "TextENG": "I trusted her. ...No, I still trust her."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18408,
-            "PreTextTags": "@vS19/01/OKEI_0020.",
-            "TextJPN": "今この瞬間だって、信じてる。",
-            "TextENG": "Even in this very moment, I trust her."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18409,
-            "PreTextTags": "@vS19/01/OKEI_0030.",
-            "TextJPN": "でも……薄々は気付いてる。信じたいのは、認めたくないだけだからだ。",
-            "TextENG": "But... I'm starting to realize. I only wanted to trust her because I refused to accept the truth."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18410,
-            "PreTextTags": "@vS19/01/OKEI_0040.",
-            "TextJPN": "自分に言い聞かせるような、そんな涙声が…もうたまらなく馬鹿馬鹿しくて……。",
-            "TextENG": "It was as if I was trying to convince myself, in such a silly... sobbing voice..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18411,
-            "PreTextTags": "@vS19/01/OKEI_0050.",
-            "TextJPN": "さらなる涙が…顔をもっとぐしゃぐしゃにする…。",
-            "TextENG": "And those tears... those tears making a mess of my face..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18412,
-            "PreTextTags": "@vS19/01/OKEI_0060.",
-            "TextJPN": "機械的に繰り返されていたそれはようやく収まり、とても静かになった。",
-            "TextENG": "That mechanical, repetitious sound finally stilled, and everything fell silent."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18413,
-            "PreTextTags": "@vS19/01/OKEI_0070.",
-            "TextJPN": "ひぐらしの声だけが…いやに騒がしい。",
-            "TextENG": "Only the cry of the cicadas remained, annoyingly loud."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18414,
-            "PreTextTags": "@vS19/01/OKEI_0080.",
-            "TextJPN": "なのに、…彼女のそれはまだ聞こえる気がする。",
-            "TextENG": "And yet... I felt as if I could still hear her voice."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18415,
-            "PreTextTags": "@vS19/01/OKEI_0090.",
-            "TextJPN": "…聞こえるはずはない。彼女はもう、言うのをやめているのだから。",
-            "TextENG": "...But that's not possible. She is no longer speaking."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18416,
-            "PreTextTags": "@vS19/01/OKEI_0100.",
-            "TextJPN": "泣いているのは俺だけだった。@k@vS19/01/OKEI_0101.彼女は泣きもしなかった。@k@vS19/01/OKEI_0102.彼女がそれを繰り返し口にしていた時も、表情どころか感情もなかった。",
-            "TextENG": "The only one crying is me.@k@vS19/01/OKEI_0101. She never cried.@k@vS19/01/OKEI_0102. Even when she repeated those words over and over, she never expressed any emotion, because there were none to show."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18417,
-            "PreTextTags": "@vS19/01/OKEI_0110.",
-            "TextJPN": "彼女に、俺のために流す涙がないのなら、俺にだって。@k@vS19/01/OKEI_0111.…彼女らのために流す涙はいらないはずなのだ。",
-            "TextENG": "If she had no tears to shed for me, then I...@k@vS19/01/OKEI_0111. shouldn't need to shed any for her."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18418,
-            "PreTextTags": "@vS19/01/OKEI_0120.",
-            "TextJPN": "それなのに……痛み、目を潤ませてしまうのは……どうして？",
-            "TextENG": "Then why... this pain, my eyes getting moist... why was this happening?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18419,
-            "PreTextTags": "@vS19/01/OKEI_0130.",
-            "TextJPN": "それでも引き裂かれていないと、……信じていたいから。",
-            "TextENG": "I still wanted to believe... I hadn't been split apart."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18420,
-            "PreTextTags": "@vS19/01/OKEI_0140.",
-            "TextJPN": "もう充分だろ？@k@vS19/01/OKEI_0141.　内なる、もうひとりの自分がやさしく語りかける…。",
-            "TextENG": "That's enough, right?@k@vS19/01/OKEI_0141. Inside me, an inner voice whispered gently..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18421,
-            "PreTextTags": "@vS19/01/OKEI_0150.",
-            "TextJPN": "俺はもう充分に心を痛めたさ。",
-            "TextENG": "My spirit had suffered enough..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18422,
-            "PreTextTags": "@vS19/01/OKEI_0160.",
-            "TextJPN": "…そして何度も、その痛む心を捨てるべきかどうか迷ったんだ。",
-            "TextENG": "...and countless times I'd wavered over whether I should just throw the battered thing away."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18423,
-            "PreTextTags": "@vS19/01/OKEI_0170.",
-            "TextJPN": "だけど俺は…頑なに、捨てることを拒んだんじゃないか。",
-            "TextENG": "Except... I've stubbornly refused to do that, haven't I?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18424,
-            "PreTextTags": "@vS19/01/OKEI_0180.",
-            "TextJPN": "捨てれば…もっと心が楽になれる…。",
-            "TextENG": "I'd feel better if I just threw it away."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18425,
-            "PreTextTags": "@vS19/01/OKEI_0190.",
-            "TextJPN": "それを知りながらも、俺は信じることを選んだんじゃないか。",
-            "TextENG": "Even knowing that, I chose to believe, didn't I?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18426,
-            "PreTextTags": "@vS19/01/OKEI_0200.",
-            "TextJPN": "その辛かった苦労は、きっと俺にしかわからないし、俺にしかねぎらえない。",
-            "TextENG": "Only I can understand that painful struggle, and appreciate it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18427,
-            "PreTextTags": "@vS19/01/OKEI_0210.",
-            "TextJPN": "なぁ俺。@k@vS19/01/OKEI_0211.…俺は充分に頑張った。@k@vS19/01/OKEI_0212.…俺がそれを認めてやる。",
-            "TextENG": "Hey, me?@k@vS19/01/OKEI_0211. ...I've tried more than enough.@k@vS19/01/OKEI_0212. ...I'll acknowledge that much."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18428,
-            "PreTextTags": "@vS19/01/OKEI_0220.",
-            "TextJPN": "だから。@k@vS19/01/OKEI_0221.……もう楽になってもいいんじゃないか……？",
-            "TextENG": "So...@k@vS19/01/OKEI_0221. Isn't it all right to just take the easy way out?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18429,
-            "PreTextTags": "@vS19/01/OKEI_0230.",
-            "TextJPN": "それに………捨てるんじゃない。@k@vS19/01/OKEI_0231.彼女と一緒に、置いていくんだ。@k@vS19/01/OKEI_0232.…花を手向けるように。",
-            "TextENG": "Besides... I'm not throwing it away.@k@vS19/01/OKEI_0231. I'm leaving it behind, with her.@k@vS19/01/OKEI_0232. ...Like flowers by a grave."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18430,
-            "PreTextTags": "@vS19/01/OKEI_0240.",
-            "TextJPN": "さぁ。……心を落ち着けて…。@k@vS19/01/OKEI_0241.もう右腕が痺れているだろうけど。@k@vS19/01/OKEI_0242.……頑張って振り上げよう。@k@vS19/01/OKEI_0243.ひとつ振る度に忘れるんだ。",
-            "TextENG": "Now then. ...Calm your nerves.@k@vS19/01/OKEI_0241. Even though you can't feel your right arm.@k@vS19/01/OKEI_0242. ...Just lift it up.@k@vS19/01/OKEI_0243. And with every swing, forget a little more."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18431,
-            "PreTextTags": "@vS19/01/OKEI_0250.",
-            "TextJPN": "親切が、うれしかった。",
-            "TextENG": "That kindness made me happy."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18432,
-            "PreTextTags": "@vS19/01/OKEI_0260.",
-            "TextJPN": "愛らしい笑顔がうれしかった。",
-            "TextENG": "That adorable smile brought me joy."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18433,
-            "PreTextTags": "@vS19/01/OKEI_0270.",
-            "TextJPN": "頭を撫でるのが、好きだった。",
-            "TextENG": "I liked petting your head."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18434,
-            "PreTextTags": "@vS19/01/OKEI_0280.",
-            "TextJPN": "そんな君がはにかむのが、好きだった。",
-            "TextENG": "I loved how demure you were."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18435,
-            "PreTextTags": "@vS19/01/OKEI_0290.",
-            "TextJPN": "これで最後だから。@k@vS19/01/OKEI_0291.これを振り下ろせば忘れてしまうのだから。",
-            "TextENG": "...Because this will be the last time.@k@vS19/01/OKEI_0291. Because when I swing this down, I'll forget."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18436,
-            "PreTextTags": "@vS19/01/OKEI_0300.",
-            "TextJPN": "君に送る、……………俺からの、最初で最後の花束。",
-            "TextENG": "This is... my... first and last...  bouquet for you."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18437,
-            "PreTextTags": "@vS19/01/OKEI_0310.",
-            "TextJPN": "ひょっとすると、…俺は君の事が、@k@vS19/01/OKEI_0311.……………………好きだった。",
-            "TextENG": "Perhaps... I really did...@k@vS19/01/OKEI_0311. love you."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18438,
-            "TextJPN": "…誰かが、ずっと謝っている気がした。",
-            "TextENG": "...Somebody has been apologizing for a while now."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18439,
-            "TextJPN": "彼女は何を謝っているのだろう。",
-            "TextENG": "I wonder what she's apologizing for."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18440,
-            "TextJPN": "それに聞き耳を立てるのは悪い気がしたので、意識的に聞かないようにした。",
-            "TextENG": "It felt wrong to eavesdrop, so I tried to ignore it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18441,
-            "TextJPN": "親類の葬儀のために戻った、久しぶりの都会だった。",
-            "TextENG": "It had been a while since I'd last went to the city. I only returned to attend the funeral of a relative."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18442,
-            "TextJPN": "つい先月まで住んでいたにも拘らず、都会の賑やかさに圧倒された。",
-            "TextENG": "Even though I'd lived there until last month, I found the bustle of the city to be overwhelming."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18443,
-            "TextJPN": "高層ビルに何車線もの道路。",
-            "TextENG": "Those skyscrapers and the multi-lane roads."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18444,
-            "TextJPN": "歌うように騒がしい横断歩道のメロディ。",
-            "TextENG": "The melodious cacophony of the crosswalk."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18445,
-            "TextJPN": "駅前での騒々しい選挙演説すらも今では懐かしかった。",
-            "TextENG": "Even the campaign speeches blaring in front of the station felt nostalgic."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18446,
-            "TextJPN": "今、住んでいる土地にはそんな賑やかなものはない。",
-            "TextENG": "The place where I live now isn't nearly as lively."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18447,
-            "TextJPN": "あるのはセミの声と清流のせせらぎ。@kそして、ひぐらしの声。",
-            "TextENG": "There's only the chirping of locusts and the babbling of brooks.@k And the cry of the higurashi―the evening cicadas."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18448,
-            "TextJPN": "そんな静けさに寂しさでなく、安らぎを感じ始めたのは最近だ。",
-            "TextENG": "Rather than making me feel lonely, that quietness had begun to instill a sense of serenity."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18449,
-            "TextJPN": "確かに今住む土地には何もない。",
-            "TextENG": "There is nothing where I'm living now."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18450,
-            "TextJPN": "気の利いたハンバーガー屋はおろか、自動販売機すらない。",
-            "TextENG": "I don't just mean there aren't any burger joints. There aren't even vending machines."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18451,
-            "TextJPN": "レコード屋もないし、レストランもないし、@kゲームセンターもない。",
-            "TextENG": "No music stores, no restaurants...@k and no arcades."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18452,
-            "TextJPN": "アイスクリーム屋なんてもってのほかだ。",
-            "TextENG": "An ice cream parlor? No chance."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18453,
-            "TextJPN": "最寄りの町まで行けばあるにはあるが、自転車で１時間もかかる。",
-            "TextENG": "The nearest town has some stuff like that, but it's an hour away by bike."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18454,
-            "TextJPN": "だが、考えてみればそれに不便を感じる必要はなかった。",
-            "TextENG": "But come to think of it, it wasn't really a big deal."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18455,
-            "TextJPN": "前の町には確かにレコード屋もゲームセンターもアイスクリーム屋もあったが、別にそれらを頻繁に利用していたわけじゃない。",
-            "TextENG": "There were music stores and arcades and ice cream parlors where I used to live, but it wasn't like I ever hung out at any of them."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18456,
-            "TextJPN": "アイスクリーム屋に至っては、１０年も住みながらついに一度も入ることはなかったのだから。",
-            "TextENG": "I had lived in the city for ten years and never once been to an ice cream parlor."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18457,
-            "TextJPN": "…一度くらいは食べに行けばよかった。",
-            "TextENG": "...I should have gone at least once."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18458,
-            "TextJPN": "今更ながらちょっと後悔。",
-            "TextENG": "It's only now that I'm starting to regret that a little."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18459,
-            "TextJPN": "…誰かが、まだ謝り続けている。",
-            "TextENG": "...Somebody is still apologizing."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18460,
-            "TextJPN": "彼女は誰に謝っているのだろう。",
-            "TextENG": "Who is she apologizing to?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18461,
-            "TextJPN": "これだけ謝っているのだから、もう許してやればいいのに。",
-            "TextENG": "She's apologized so much, so just forgive her already."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18462,
-            "TextJPN": "彼女だって、こんなにも謝り続けることはないはずだ。",
-            "TextENG": "There's no reason anyone should ever need to apologize so much."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18463,
-            "TextJPN": "いつまでも彼女を許そうとしない誰かに、俺は少し苛立ちを覚えた。",
-            "TextENG": "I started to feel a bit annoyed at whoever was refusing to forgive her."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18464,
-            "TextJPN": "どんな過ちだって、許されないことはないはずだ。",
-            "TextENG": "No matter how bad the mistake, there's nothing that can't be forgiven."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18465,
-            "TextJPN": "取り返せないミスなんかない。",
-            "TextENG": "There's no such thing as an irreparable mistake."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18466,
-            "TextJPN": "次から気をつければいい。",
-            "TextENG": "You just need to be more careful next time."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18467,
-            "TextJPN": "…それでも彼女は謝り続けている。",
-            "TextENG": "...She's still apologizing, even now."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18468,
-            "TextJPN": "では…取り返しのつかない過ちを犯してしまったのだろうか？",
-            "TextENG": "Then... has she really done something that can't be fixed?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18469,
-            "TextJPN": "一体彼女が何を犯したのか知らないが、取り返しがつかないものなら、なおのこと許してやるべきだ。",
-            "TextENG": "I have no idea what she's done, but if it can't be fixed, then that's all the more reason to forgive her."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18470,
-            "TextJPN": "彼女がいくら謝ったって、どうにもならないのだから。",
-            "TextENG": "No matter how much she apologizes, nothing will change."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18471,
-            "TextJPN": "それでも彼女は、こんなにもみじめな声で謝り続けている…。",
-            "TextENG": "But even so, she keeps apologizing in such a heartbreaking voice..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18472,
-            "TextJPN": "なあ、彼女に謝られている誰かさんよ。",
-            "TextENG": "Hey, you. The one she's apologizing to..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18473,
-            "TextJPN": "もういい加減に彼女を許してやれよ。",
-            "TextENG": "Why don't you just go ahead and forgive her?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18474,
-            "TextJPN": "こんなにも…みじめな声で謝っているんだから……。",
-            "TextENG": "She's apologizing... in such a pathetic voice..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18475,
-            "NamesJPN": "圭一の父",
-            "PreTextTags": "@vS19/00/992600001.",
-            "TextJPN": "「圭一、そろそろ着くぞ。@k@vS19/00/992600002.起きなさい」",
-            "NamesENG": "Keiichi's dad",
-            "TextENG": "``Keiichi, we're almost there.@k@vS19/00/992600002. Wake up.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18476,
-            "TextJPN": "親父に小突かれようやくまどろみから目を覚ました。",
-            "TextENG": "I was finally roused from my nap by my father's prodding."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18477,
-            "TextJPN": "ようやく列車が終点に着いたようだった。",
-            "TextENG": "It seemed the train had reached its final stop."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18478,
-            "TextJPN": "新幹線やら電車やらを乗り継ぎ数時間。",
-            "TextENG": "We'd spent hours riding everything from the bullet train to the local routes."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18479,
-            "TextJPN": "窓の外の風景は、半日前までいた都会と同じ国であることを、いや、同じ時代であることすら疑わせる。",
-            "TextENG": "It was hard to believe that the landscape beyond the window and the city I was in half a day ago were in the same country. No... that they were even from the same era."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18480,
-            "TextJPN": "ここからさらに車で山道を走る。",
-            "TextENG": "From there, we'd take a car deeper into the mountains."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18481,
-            "TextJPN": "うっそうと木々が茂る山道が急に開けるとそこが……。",
-            "TextENG": "Past where the dense forest encroaching on the mountain road suddenly opened up..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 18482,
-            "TextJPN": "そこが今の俺の住む土地、@bひなみざわ.@<雛見沢@>だ。",
-            "TextENG": "There, where I live now. Hinamizawa."
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 0,
+		"JPN": "1日目",
+		"ENG": "Day 1"
+	},
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "#1 東京からの帰り道",
+		"ENG": "#1 / On the Way Back From Tokyo"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18406,
+		"PreTextTags": "@vS19/01/OKEI_0000.",
+		"TextJPN": "どうせ引き裂かれるなら、身を引き裂かれるほうがはるかにマシだと思った。",
+		"TextENG": "If I was going to be ripped apart anyways, having my body ripped apart would've been far better."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18407,
+		"PreTextTags": "@vS19/01/OKEI_0010.",
+		"TextJPN": "信じてた。……いや、信じてる。",
+		"TextENG": "I trusted her. ...No, I still trust her."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18408,
+		"PreTextTags": "@vS19/01/OKEI_0020.",
+		"TextJPN": "今この瞬間だって、信じてる。",
+		"TextENG": "Even in this very moment, I trust her."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18409,
+		"PreTextTags": "@vS19/01/OKEI_0030.",
+		"TextJPN": "でも……薄々は気付いてる。信じたいのは、認めたくないだけだからだ。",
+		"TextENG": "But... I'm starting to realize. I only wanted to trust her because I refused to accept the truth."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18410,
+		"PreTextTags": "@vS19/01/OKEI_0040.",
+		"TextJPN": "自分に言い聞かせるような、そんな涙声が…もうたまらなく馬鹿馬鹿しくて……。",
+		"TextENG": "It was as if I was trying to convince myself, in such a silly... sobbing voice..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18411,
+		"PreTextTags": "@vS19/01/OKEI_0050.",
+		"TextJPN": "さらなる涙が…顔をもっとぐしゃぐしゃにする…。",
+		"TextENG": "And those tears... those tears making a mess of my face..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18412,
+		"PreTextTags": "@vS19/01/OKEI_0060.",
+		"TextJPN": "機械的に繰り返されていたそれはようやく収まり、とても静かになった。",
+		"TextENG": "That mechanical, repetitious sound finally stilled, and everything fell silent."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18413,
+		"PreTextTags": "@vS19/01/OKEI_0070.",
+		"TextJPN": "ひぐらしの声だけが…いやに騒がしい。",
+		"TextENG": "Only the cry of the cicadas remained, annoyingly loud."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18414,
+		"PreTextTags": "@vS19/01/OKEI_0080.",
+		"TextJPN": "なのに、…彼女のそれはまだ聞こえる気がする。",
+		"TextENG": "And yet... I felt as if I could still hear her voice."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18415,
+		"PreTextTags": "@vS19/01/OKEI_0090.",
+		"TextJPN": "…聞こえるはずはない。彼女はもう、言うのをやめているのだから。",
+		"TextENG": "...But that's not possible. She is no longer speaking."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18416,
+		"PreTextTags": "@vS19/01/OKEI_0100.",
+		"TextJPN": "泣いているのは俺だけだった。@k@vS19/01/OKEI_0101.彼女は泣きもしなかった。@k@vS19/01/OKEI_0102.彼女がそれを繰り返し口にしていた時も、表情どころか感情もなかった。",
+		"TextENG": "The only one crying is me.@k@vS19/01/OKEI_0101. She never cried.@k@vS19/01/OKEI_0102. Even when she repeated those words over and over, she never expressed any emotion, because there were none to show."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18417,
+		"PreTextTags": "@vS19/01/OKEI_0110.",
+		"TextJPN": "彼女に、俺のために流す涙がないのなら、俺にだって。@k@vS19/01/OKEI_0111.…彼女らのために流す涙はいらないはずなのだ。",
+		"TextENG": "If she had no tears to shed for me, then I...@k@vS19/01/OKEI_0111. shouldn't need to shed any for her."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18418,
+		"PreTextTags": "@vS19/01/OKEI_0120.",
+		"TextJPN": "それなのに……痛み、目を潤ませてしまうのは……どうして？",
+		"TextENG": "Then why... this pain, my eyes getting moist... why was this happening?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18419,
+		"PreTextTags": "@vS19/01/OKEI_0130.",
+		"TextJPN": "それでも引き裂かれていないと、……信じていたいから。",
+		"TextENG": "I still wanted to believe... I hadn't been split apart."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18420,
+		"PreTextTags": "@vS19/01/OKEI_0140.",
+		"TextJPN": "もう充分だろ？@k@vS19/01/OKEI_0141.　内なる、もうひとりの自分がやさしく語りかける…。",
+		"TextENG": "That's enough, right?@k@vS19/01/OKEI_0141. Inside me, an inner voice whispered gently..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18421,
+		"PreTextTags": "@vS19/01/OKEI_0150.",
+		"TextJPN": "俺はもう充分に心を痛めたさ。",
+		"TextENG": "My spirit had suffered enough..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18422,
+		"PreTextTags": "@vS19/01/OKEI_0160.",
+		"TextJPN": "…そして何度も、その痛む心を捨てるべきかどうか迷ったんだ。",
+		"TextENG": "...and countless times I'd wavered over whether I should just throw the battered thing away."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18423,
+		"PreTextTags": "@vS19/01/OKEI_0170.",
+		"TextJPN": "だけど俺は…頑なに、捨てることを拒んだんじゃないか。",
+		"TextENG": "Except... I've stubbornly refused to do that, haven't I?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18424,
+		"PreTextTags": "@vS19/01/OKEI_0180.",
+		"TextJPN": "捨てれば…もっと心が楽になれる…。",
+		"TextENG": "I'd feel better if I just threw it away."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18425,
+		"PreTextTags": "@vS19/01/OKEI_0190.",
+		"TextJPN": "それを知りながらも、俺は信じることを選んだんじゃないか。",
+		"TextENG": "Even knowing that, I chose to believe, didn't I?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18426,
+		"PreTextTags": "@vS19/01/OKEI_0200.",
+		"TextJPN": "その辛かった苦労は、きっと俺にしかわからないし、俺にしかねぎらえない。",
+		"TextENG": "Only I can understand that painful struggle, and appreciate it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18427,
+		"PreTextTags": "@vS19/01/OKEI_0210.",
+		"TextJPN": "なぁ俺。@k@vS19/01/OKEI_0211.…俺は充分に頑張った。@k@vS19/01/OKEI_0212.…俺がそれを認めてやる。",
+		"TextENG": "Hey, me?@k@vS19/01/OKEI_0211. ...I've tried more than enough.@k@vS19/01/OKEI_0212. ...I'll acknowledge that much."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18428,
+		"PreTextTags": "@vS19/01/OKEI_0220.",
+		"TextJPN": "だから。@k@vS19/01/OKEI_0221.……もう楽になってもいいんじゃないか……？",
+		"TextENG": "So...@k@vS19/01/OKEI_0221. Isn't it all right to just take the easy way out?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18429,
+		"PreTextTags": "@vS19/01/OKEI_0230.",
+		"TextJPN": "それに………捨てるんじゃない。@k@vS19/01/OKEI_0231.彼女と一緒に、置いていくんだ。@k@vS19/01/OKEI_0232.…花を手向けるように。",
+		"TextENG": "Besides... I'm not throwing it away.@k@vS19/01/OKEI_0231. I'm leaving it behind, with her.@k@vS19/01/OKEI_0232. ...Like flowers by a grave."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18430,
+		"PreTextTags": "@vS19/01/OKEI_0240.",
+		"TextJPN": "さぁ。……心を落ち着けて…。@k@vS19/01/OKEI_0241.もう右腕が痺れているだろうけど。@k@vS19/01/OKEI_0242.……頑張って振り上げよう。@k@vS19/01/OKEI_0243.ひとつ振る度に忘れるんだ。",
+		"TextENG": "Now then. ...Calm your nerves.@k@vS19/01/OKEI_0241. Even though you can't feel your right arm.@k@vS19/01/OKEI_0242. ...Just lift it up.@k@vS19/01/OKEI_0243. And with every swing, forget a little more."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18431,
+		"PreTextTags": "@vS19/01/OKEI_0250.",
+		"TextJPN": "親切が、うれしかった。",
+		"TextENG": "That kindness made me happy."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18432,
+		"PreTextTags": "@vS19/01/OKEI_0260.",
+		"TextJPN": "愛らしい笑顔がうれしかった。",
+		"TextENG": "That adorable smile brought me joy."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18433,
+		"PreTextTags": "@vS19/01/OKEI_0270.",
+		"TextJPN": "頭を撫でるのが、好きだった。",
+		"TextENG": "I liked petting your head."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18434,
+		"PreTextTags": "@vS19/01/OKEI_0280.",
+		"TextJPN": "そんな君がはにかむのが、好きだった。",
+		"TextENG": "I loved how demure you were."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18435,
+		"PreTextTags": "@vS19/01/OKEI_0290.",
+		"TextJPN": "これで最後だから。@k@vS19/01/OKEI_0291.これを振り下ろせば忘れてしまうのだから。",
+		"TextENG": "...Because this will be the last time.@k@vS19/01/OKEI_0291. Because when I swing this down, I'll forget."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18436,
+		"PreTextTags": "@vS19/01/OKEI_0300.",
+		"TextJPN": "君に送る、……………俺からの、最初で最後の花束。",
+		"TextENG": "This is... my... first and last...  bouquet for you."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18437,
+		"PreTextTags": "@vS19/01/OKEI_0310.",
+		"TextJPN": "ひょっとすると、…俺は君の事が、@k@vS19/01/OKEI_0311.……………………好きだった。",
+		"TextENG": "Perhaps... I really did...@k@vS19/01/OKEI_0311. love you."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18438,
+		"TextJPN": "…誰かが、ずっと謝っている気がした。",
+		"TextENG": "...Somebody has been apologizing for a while now."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18439,
+		"TextJPN": "彼女は何を謝っているのだろう。",
+		"TextENG": "I wonder what she's apologizing for."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18440,
+		"TextJPN": "それに聞き耳を立てるのは悪い気がしたので、意識的に聞かないようにした。",
+		"TextENG": "It felt wrong to eavesdrop, so I tried to ignore it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18441,
+		"TextJPN": "親類の葬儀のために戻った、久しぶりの都会だった。",
+		"TextENG": "It had been a while since I'd last went to the city. I only returned to attend the funeral of a relative."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18442,
+		"TextJPN": "つい先月まで住んでいたにも拘らず、都会の賑やかさに圧倒された。",
+		"TextENG": "Even though I'd lived there until last month, I found the bustle of the city to be overwhelming."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18443,
+		"TextJPN": "高層ビルに何車線もの道路。",
+		"TextENG": "Those skyscrapers and the multi-lane roads."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18444,
+		"TextJPN": "歌うように騒がしい横断歩道のメロディ。",
+		"TextENG": "The melodious cacophony of the crosswalk."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18445,
+		"TextJPN": "駅前での騒々しい選挙演説すらも今では懐かしかった。",
+		"TextENG": "Even the campaign speeches blaring in front of the station felt nostalgic."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18446,
+		"TextJPN": "今、住んでいる土地にはそんな賑やかなものはない。",
+		"TextENG": "The place where I live now isn't nearly as lively."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18447,
+		"TextJPN": "あるのはセミの声と清流のせせらぎ。@kそして、ひぐらしの声。",
+		"TextENG": "There's only the chirping of locusts and the babbling of brooks.@k And the cry of the higurashi―the evening cicadas."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18448,
+		"TextJPN": "そんな静けさに寂しさでなく、安らぎを感じ始めたのは最近だ。",
+		"TextENG": "Rather than making me feel lonely, that quietness had begun to instill a sense of serenity."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18449,
+		"TextJPN": "確かに今住む土地には何もない。",
+		"TextENG": "There is nothing where I'm living now."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18450,
+		"TextJPN": "気の利いたハンバーガー屋はおろか、自動販売機すらない。",
+		"TextENG": "I don't just mean there aren't any burger joints. There aren't even vending machines."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18451,
+		"TextJPN": "レコード屋もないし、レストランもないし、@kゲームセンターもない。",
+		"TextENG": "No music stores, no restaurants...@k and no arcades."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18452,
+		"TextJPN": "アイスクリーム屋なんてもってのほかだ。",
+		"TextENG": "An ice cream parlor? No chance."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18453,
+		"TextJPN": "最寄りの町まで行けばあるにはあるが、自転車で１時間もかかる。",
+		"TextENG": "The nearest town has some stuff like that, but it's an hour away by bike."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18454,
+		"TextJPN": "だが、考えてみればそれに不便を感じる必要はなかった。",
+		"TextENG": "But come to think of it, it wasn't really a big deal."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18455,
+		"TextJPN": "前の町には確かにレコード屋もゲームセンターもアイスクリーム屋もあったが、別にそれらを頻繁に利用していたわけじゃない。",
+		"TextENG": "There were music stores and arcades and ice cream parlors where I used to live, but it wasn't like I ever hung out at any of them."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18456,
+		"TextJPN": "アイスクリーム屋に至っては、１０年も住みながらついに一度も入ることはなかったのだから。",
+		"TextENG": "I had lived in the city for ten years and never once been to an ice cream parlor."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18457,
+		"TextJPN": "…一度くらいは食べに行けばよかった。",
+		"TextENG": "...I should have gone at least once."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18458,
+		"TextJPN": "今更ながらちょっと後悔。",
+		"TextENG": "It's only now that I'm starting to regret that a little."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18459,
+		"TextJPN": "…誰かが、まだ謝り続けている。",
+		"TextENG": "...Somebody is still apologizing."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18460,
+		"TextJPN": "彼女は誰に謝っているのだろう。",
+		"TextENG": "Who is she apologizing to?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18461,
+		"TextJPN": "これだけ謝っているのだから、もう許してやればいいのに。",
+		"TextENG": "She's apologized so much, so just forgive her already."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18462,
+		"TextJPN": "彼女だって、こんなにも謝り続けることはないはずだ。",
+		"TextENG": "There's no reason anyone should ever need to apologize so much."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18463,
+		"TextJPN": "いつまでも彼女を許そうとしない誰かに、俺は少し苛立ちを覚えた。",
+		"TextENG": "I started to feel a bit annoyed at whoever was refusing to forgive her."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18464,
+		"TextJPN": "どんな過ちだって、許されないことはないはずだ。",
+		"TextENG": "No matter how bad the mistake, there's nothing that can't be forgiven."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18465,
+		"TextJPN": "取り返せないミスなんかない。",
+		"TextENG": "There's no such thing as an irreparable mistake."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18466,
+		"TextJPN": "次から気をつければいい。",
+		"TextENG": "You just need to be more careful next time."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18467,
+		"TextJPN": "…それでも彼女は謝り続けている。",
+		"TextENG": "...She's still apologizing, even now."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18468,
+		"TextJPN": "では…取り返しのつかない過ちを犯してしまったのだろうか？",
+		"TextENG": "Then... has she really done something that can't be fixed?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18469,
+		"TextJPN": "一体彼女が何を犯したのか知らないが、取り返しがつかないものなら、なおのこと許してやるべきだ。",
+		"TextENG": "I have no idea what she's done, but if it can't be fixed, then that's all the more reason to forgive her."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18470,
+		"TextJPN": "彼女がいくら謝ったって、どうにもならないのだから。",
+		"TextENG": "No matter how much she apologizes, nothing will change."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18471,
+		"TextJPN": "それでも彼女は、こんなにもみじめな声で謝り続けている…。",
+		"TextENG": "But even so, she keeps apologizing in such a heartbreaking voice..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18472,
+		"TextJPN": "なあ、彼女に謝られている誰かさんよ。",
+		"TextENG": "Hey, you. The one she's apologizing to..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18473,
+		"TextJPN": "もういい加減に彼女を許してやれよ。",
+		"TextENG": "Why don't you just go ahead and forgive her?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18474,
+		"TextJPN": "こんなにも…みじめな声で謝っているんだから……。",
+		"TextENG": "She's apologizing... in such a pathetic voice..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18475,
+		"NamesJPN": "圭一の父",
+		"PreTextTags": "@vS19/00/992600001.",
+		"TextJPN": "「圭一、そろそろ着くぞ。@k@vS19/00/992600002.起きなさい」",
+		"NamesENG": "Keiichi's dad",
+		"TextENG": "``Keiichi, we're almost there.@k@vS19/00/992600002. Wake up.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18476,
+		"TextJPN": "親父に小突かれようやくまどろみから目を覚ました。",
+		"TextENG": "I was finally roused from my nap by my father's prodding."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18477,
+		"TextJPN": "ようやく列車が終点に着いたようだった。",
+		"TextENG": "It seemed the train had reached its final stop."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18478,
+		"TextJPN": "新幹線やら電車やらを乗り継ぎ数時間。",
+		"TextENG": "We'd spent hours riding everything from the bullet train to the local routes."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18479,
+		"TextJPN": "窓の外の風景は、半日前までいた都会と同じ国であることを、いや、同じ時代であることすら疑わせる。",
+		"TextENG": "It was hard to believe that the landscape beyond the window and the city I was in half a day ago were in the same country. No... that they were even from the same era."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18480,
+		"TextJPN": "ここからさらに車で山道を走る。",
+		"TextENG": "From there, we'd take a car deeper into the mountains."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18481,
+		"TextJPN": "うっそうと木々が茂る山道が急に開けるとそこが……。",
+		"TextENG": "Past where the dense forest encroaching on the mountain road suddenly opened up..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 18482,
+		"TextJPN": "そこが今の俺の住む土地、@bひなみざわ.@<雛見沢@>だ。",
+		"TextENG": "There, where I live now. Hinamizawa."
+	}
+]

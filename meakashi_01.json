@@ -1,1717 +1,1715 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 0,
-            "JPN": "目明し編",
-            "ENG": "Meakashi-hen"
-        },
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "#1 雛見沢帰還",
-            "ENG": "#1 / Return to Hinamizawa"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63855,
-            "TextJPN": "…キーホルダーに@bくく.@<括@>り付けられたカギは大小７つ。",
-            "TextENG": "...Seven keys were attached to the key chain."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63856,
-            "TextJPN": "どのカギが正しいものかよくわからないから、自分の勘に従って順に一つずつ試すしかない。",
-            "TextENG": "Without knowing which key was the correct one, I had to go by instinct and try every key, one by one."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63857,
-            "TextJPN": "期待値は３．５本。",
-            "TextENG": "On average, I'd reach the correct key within 3.5 attempts."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63858,
-            "TextJPN": "最初に試した三本以内のカギで開けば、幸運。",
-            "TextENG": "I'd be fortunate if I could open the lock within the first three keys..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63859,
-            "TextJPN": "それ以外は不運と占うことができるだろう。",
-            "TextENG": "And I'd be unfortunate if I didn't."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63860,
-            "TextJPN": "こういう場合、石橋を叩いて渡るなら、正解のカギを７本目に当ててしまうという最悪の可能性を考慮するべきだ。",
-            "TextENG": "I had to think of the worst-case scenario: getting the right key only on the very last attempt."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63861,
-            "TextJPN": "頭がしくしくと痛み出すぐらいに、冷静さと緊張感がせめぎ合う。",
-            "TextENG": "I fought with my nervousness. My head ached from it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63862,
-            "TextJPN": "カギを錠前に挿す、開錠を確かめる。",
-            "TextENG": "I put the key in, and turned it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63863,
-            "TextJPN": "その行為を淡々と繰り返せばいいだけのはずなのに、…指先の微弱な震えを抑えきれない。",
-            "TextENG": "I just needed to repeat that small procedure several more times, but...... I couldn't stop shaking."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63864,
-            "TextJPN": "…ちぇ、…カギを挿して回すなんて、それだけの動作、幼稚園児だってやれる。",
-            "TextENG": "...Damn... Even a three-year-old kid can do something this easy."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63865,
-            "TextJPN": "…じゃあ今の私は幼稚園児以下ってわけ？",
-            "TextENG": "...So, am I more childish than a three-year-old?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63866,
-            "TextJPN": "下らないことは考えなくていい、不器用だっていい。",
-            "TextENG": "Whatever. I don't care if I'm clumsy."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63867,
-            "TextJPN": "…とにかく、淡々とこの７つのカギを全て試せばいいのだ…。",
-            "TextENG": "...I just need to try all these keys..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63868,
-            "TextJPN": "…どんなに星の巡りが悪くたって、７本目で絶対に開くのだから…………。",
-            "TextENG": "...Even in the worst-case scenario, the lock will open on the seventh try..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63869,
-            "NamesJPN": "詩音",
-            "PreTextTags": "@vS06/06/150600001.",
-            "TextJPN": "「……………。@k@vS06/06/150600002.…………うっそ…」",
-            "NamesENG": "Shion",
-            "TextENG": "``......@k@vS06/06/150600002. ............No way...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63870,
-            "TextJPN": "…だが、現実は算数じゃない。",
-            "TextENG": "...Reality isn't always the same as math."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63871,
-            "TextJPN": "私の目の前に突きつけられた現実は、どのカギも外れであるという致命的なものだった。",
-            "TextENG": "What happened was worse than my worst-case scenario... None of the keys worked at all."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63872,
-            "TextJPN": "全身から、ザーーっという音を立てて血の気が引いていくのが分かる。",
-            "TextENG": "I could feel the blood draining from my brain."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63873,
-            "TextJPN": "…このカギ束ではなかった？！",
-            "TextENG": "...Did I get the wrong set of keys?!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63874,
-            "TextJPN": "いや、プレートにはここの施錠に使うカギだと薄らとだが明記されている。",
-            "TextENG": "No. I definitely see a faint marking that says this set is for this door."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63875,
-            "TextJPN": "…それすらも読み間違えたのか？",
-            "TextENG": "...Am I just reading it wrong?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63876,
-            "TextJPN": "今すぐ引き返し、再びあのキーボックスを丹念に調べなおすべきだろうか…？",
-            "TextENG": "Should I go back to the key cabinet to look for the right one...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63877,
-            "TextJPN": "それはもちろん致命的なタイムロスだった。",
-            "TextENG": "That would mean a great loss of time."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63878,
-            "TextJPN": "私は、今ここに居続けているだけで、リスクを一秒毎に累積している。",
-            "TextENG": "Just by being here I'm already risking so much."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63879,
-            "TextJPN": "…次の一秒で、どんな予想外のハプニングが起こって、全てが水泡に帰すかわかったものではないのだ…。",
-            "TextENG": "...Something that could ruin everything might happen any moment..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63880,
-            "TextJPN": "管理室に引き返し、キーボックスを探し直す以外に、ここを開ける方法がないなら…私は躊躇なくそれを実行する他ない？",
-            "TextENG": "If I can't open this lock, do I have to go back to the administration office?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63881,
-            "TextJPN": "…なら、ここで座して脂汗をかくことに数秒を費やすことこそ愚の骨頂…！",
-            "TextENG": "...If there were no other choice, it'd be a waste of time to spend another second here...!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63882,
-            "TextJPN": "管理室がこの時間に無人なのは、統計的なものであって絶対的なものではない。",
-            "TextENG": "The administration office wouldn't necessarily be empty at this time."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63883,
-            "TextJPN": "…職員のちょっとした気まぐれで、誰かが戻ってきてしまうのだ。",
-            "TextENG": "...Somebody might come in."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63884,
-            "TextJPN": "そうしたらもう、のんびりとキーボックスを漁るなんて真似はできなくなる…！！",
-            "TextENG": "I won't be able to look for the right key if that happens...!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63885,
-            "TextJPN": "…屈んでいた全身に電気が走って弾かれたかのように、私は立ち上がる。",
-            "TextENG": "...I stood up quickly, as if electrified."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63886,
-            "TextJPN": "パニックに陥りかけているからこそ、体を全力で動かさないと不安になる…。",
-            "TextENG": "I was almost in a panic, and so felt the urge to move..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63887,
-            "TextJPN": "人間の本能に突き動かされての行動だった。",
-            "TextENG": "My instinct pushed me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63888,
-            "TextJPN": "一刻も早く走って戻らないと危険…！！",
-            "TextENG": "I have to go back there as quickly as possible...!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63889,
-            "TextJPN": "ここにいるのも危険だし、管理室に誰かが戻ってきてしまうのも、危険危険！",
-            "TextENG": "It's dangerous to be here, and it's also dangerous if somebody comes into the administration office!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63890,
-            "TextJPN": "……そんな恐怖心を、私は冷たすぎて、むしろ痛みすら感じさせるような…ドライアイスのように冷え切った冷静さで抑えこむ…。",
-            "TextENG": "...I cooled my head, making it as chilly as possible, to repress my fear..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63891,
-            "TextJPN": "落ち着け、詩音…。",
-            "TextENG": "Calm down, Shion..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63892,
-            "TextJPN": "…魅音ならこんなことでは取り乱さないぞ…。",
-            "TextENG": "...Mion wouldn't panic in this situation..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63893,
-            "TextJPN": "何かの間違いかもしれないじゃないか…。",
-            "TextENG": "Maybe I'm just mistaken..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63894,
-            "TextJPN": "もう一度、…もう一度だけカギを試してみよう…。@kもう一度…最初から…。",
-            "TextENG": "Why don't I try the keys@k one more time...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63895,
-            "TextJPN": "その時、長い長い廊下を満たした空気が震えて、どこか遠くを歩いている誰かの足音をかすかに伝えてきた。",
-            "TextENG": "The next moment, I felt a faint vibration in the air. Somebody was walking somewhere in the hallway."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63896,
-            "TextJPN": "いつもの落ち着いた状態でなら、その足音が非常に遠くで、その主と出くわすこともないと理解できる。",
-            "TextENG": "If it were a normal situation, I would've known I wouldn't run into them, since the footsteps were very far away."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63897,
-            "TextJPN": "…だが、今の精神状態ではそんなの屁理屈にしか聞こえない。",
-            "TextENG": "...But at the time, I couldn't think calmly."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63898,
-            "TextJPN": "あぁ…くそ…。",
-            "TextENG": "Ah... shit..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63899,
-            "TextJPN": "この程度の遠い足音が聞こえるだけで、私はここまで動揺できるのかよ。",
-            "TextENG": "Why am I panicking this much just because of footsteps...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63900,
-            "TextJPN": "落ち着け…落ち着け…。",
-            "TextENG": "Calm down... calm down..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63901,
-            "TextJPN": "むしろこの感情を楽しむんだ。",
-            "TextENG": "I should be feeling excited instead."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63902,
-            "TextJPN": "…落ち着け、落ち着け。",
-            "TextENG": "...Calm down, calm down."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63903,
-            "TextJPN": "…ただ淡々と目の前の作業をこなすんだ。",
-            "TextENG": "...I just need to do what I have to do."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63904,
-            "TextJPN": "聞こえてくる遠い足音を、自分に危機を成さないと判断して無視…。",
-            "TextENG": "I should ignore the footsteps, because they're not an immediate threat..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63905,
-            "TextJPN": "…聞こえないものと思え…！",
-            "TextENG": "...Pretend they aren't there...!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63906,
-            "TextJPN": "あんな遠い足音よりも、もっと気にしなければならない何かを聞き漏らさないために…！",
-            "TextENG": "I have to listen for something much more important right now...!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63907,
-            "TextJPN": "あぁ、くそ…。",
-            "TextENG": "Ah... shit..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63908,
-            "TextJPN": "このカギ…さっきまであんなにも硬くて冷たかったのに、@k…いつのまにか熱くなってぐにゃぐにゃになって、@kまるでゴムみたいになってるぞ…。",
-            "TextENG": "This key should be hard and cold, but...@k it's pliable and hot...@k it feels like rubber..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63909,
-            "TextJPN": "こんなにぐにゃぐにゃじゃ、鍵穴にうまく挿せるものか…。",
-            "TextENG": "How could I stick this into the keyhole?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63910,
-            "TextJPN": "くそくそくそ…！",
-            "TextENG": "Shit, shit, shit...!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63911,
-            "TextJPN": "カギがぐにゃぐにゃになったりなんかするもんか。",
-            "TextENG": "It wasn't the key that was pliable."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63912,
-            "TextJPN": "…ぐにゃぐにゃしてるのは私の手先だ。",
-            "TextENG": "...It's my fingers that were limp."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63913,
-            "TextJPN": "…あぁもぅ…くそくそくそ…！",
-            "TextENG": "...Ah... shit, shit, shit...!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63914,
-            "TextJPN": "その時、ぐにゃぐにゃになったカギはビヨンと弾け、私の指をくぐり抜けて床に落ちた。",
-            "TextENG": "The key sprung out of my hand and fell to the floor."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63915,
-            "TextJPN": "意地悪にもそいつは、さっきまであんなにもぐにゃぐにゃだったんだから、床に接地する時もそうであればいいのに…、",
-            "TextENG": "It shouldn't have made any sound because it was so pliable, but..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63916,
-            "TextJPN": "床に叩きつけられる時だけ、まるで食器棚を丸ごと床にぶちまけた時のような凄まじい音をたてて見せた。",
-            "TextENG": "It made a tremendous metal noise as if somebody pushed over a cupboard."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63917,
-            "TextJPN": "ジャリリリーンンッ！！！　という、凄まじい轟音が私の心臓を破ろうとする。",
-            "TextENG": "Cliiinnng!!! The sound almost stopped my heart."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63918,
-            "TextJPN": "そのぐわんぐわんとする音に、しばし頭がくらくらとした。",
-            "TextENG": "I felt dizzy for a while."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63919,
-            "TextJPN": "それから身を硬くして、この轟音によって世界に何か変化が起きなかったか、辺りを慎重にうかがった。",
-            "TextENG": "I looked around afterwards to carefully see if I caused any disturbance to the surroundings."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63920,
-            "TextJPN": "落ち着け、落ち着け…。",
-            "TextENG": "Calm down, calm down..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63921,
-            "TextJPN": "何も変化はない。@k何も聞こえない。@k…ってことはつまり、安全ってこと？",
-            "TextENG": "Nothing's changed.@k I don't hear anything...@k So... am I safe?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63922,
-            "TextJPN": "落ち着け…落ち着け落ち着け…。",
-            "TextENG": "Calm down... calm down, calm down..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63923,
-            "TextJPN": "あれ…何も聞こえないって？",
-            "TextENG": "Wait... I don't hear anything?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63924,
-            "TextJPN": "さっきまで聞こえてた、あの遠い足音はどうして聞こえない？",
-            "TextENG": "What about those footsteps in the distance?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63925,
-            "TextJPN": "落ち着け落ち着け落ち着け…！",
-            "TextENG": "Calm down, calm down, calm down...!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63926,
-            "TextJPN": "落としたカギの音に反応して、気配を殺してこちらをうかがっているのか…？",
-            "TextENG": "Are they looking for me after they noticed the sound...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63927,
-            "TextJPN": "ああぁくそ…、ぼたぼたというすごい音は、私がこぼしている汗が床を叩く音なのか？",
-            "TextENG": "Ah, shit... What is that sound I'm hearing? Is it my sweat dripping on the floor?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63928,
-            "TextJPN": "……うるさいうるさいうるさい…！",
-            "TextENG": "......Shut up, shut up, shut up...!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63929,
-            "TextJPN": "汗が落ちる音なんて聞こえるわけがないだろ…、@k落ち着けよ、@k落ち着け落ち着け、@k…落ち着けぇえぇえぇ…！！！",
-            "TextENG": "How could I hear the sound of my sweat?@k Calm down,@k calm down, calm down...@k Calm the fuck down...!!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63930,
-            "TextJPN": "誤解がないように補記しておくが、@k…もちろん、ここは鑑別所でも少年院でもない。",
-            "TextENG": "I have to clarify.@k This isn't a prison or a detention center."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63931,
-            "TextJPN": "学校法人の運営する私立学園だ。",
-            "TextENG": "It's a private school."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63932,
-            "TextJPN": "もちろん、ただの学校ではない。",
-            "TextENG": "Not a normal one, though."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63933,
-            "TextJPN": "入学金だけでも数百万。@k小学校から大学までの一貫教育でしかも全寮制。",
-            "TextENG": "It costs a fortune just to get in.@k It's a boarding school that provides education from elementary school to university."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63934,
-            "TextJPN": "その上、女子校と来たら…これはもう、学校というよりも、貞淑な温室野菜の生産工場というべきだ。",
-            "TextENG": "Being for girls only, rather than a school, you could say it's a factory that manufactures 'ladies.'"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63935,
-            "TextJPN": "なにしろ、クラスメイトの中には、公共の交通機関に乗ったことがないって本気で言ってるヤツもいるくらいだ。",
-            "TextENG": "Some of my classmates here have never even used public transportation."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63936,
-            "TextJPN": "…まったくもって普通じゃない。",
-            "TextENG": "...Really, it isn't normal."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63937,
-            "TextJPN": "まぁ、私にしてみれば、日々の挨拶が『こんにちは』じゃなくて『ご機嫌よう』ってだけでも十分に異常だし、@k先生のことをシスターと呼ぶのも、虫酸が走るくらいに異常だ。",
-            "TextENG": "To me, saying ``how nice to see you`` instead of just ``hi`` is already insane,@k and calling the teachers ``sisters`` gives me the creeps."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63938,
-            "TextJPN": "朝夕のお祈りだって面倒くさいし、日曜礼拝なんて大嫌いだ。",
-            "TextENG": "I hate the morning and evening prayers, to say nothing of the Sunday mass."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63939,
-            "TextJPN": "聖書の暗記なんかやってられないし、慈愛の精神なんて言葉は聞いただけでもジンマシンが出る！",
-            "TextENG": "I don't want to memorize the Bible passages, and the Holy Ghost gives me a rash."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63940,
-            "TextJPN": "こんな施設（私は学校と呼ばずにこう呼ぶ）に何年間も幽閉されたら、ふさぎこむかおかしくなるかの二つに一つしかない。",
-            "TextENG": "If I stayed in this institution (that's what I call the place) for many years, I'd either go crazy or be brainwashed."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63941,
-            "TextJPN": "ここに在籍するお嬢様どもはみな素直に洗脳を選ぶが、…斜な私はとてもそれは選べないのだ。",
-            "TextENG": "Most of the girls choose to be brainwashed, but... I can't do that."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63942,
-            "TextJPN": "…何しろ、聖書を読んでも、その裏の宗教戦略や布教のプロセス、信仰という名の商品の国際貿易機構に感嘆こそすれ、間違っても神様の愛に胸を打たれたりすることはない。",
-            "TextENG": "...After all, I was more impressed by the political schemes and international trade behind religious propagation than by the love of God which the Bible teaches."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63943,
-            "TextJPN": "そういう姿勢だからこそ、私は入学当初から問題児扱いだった。",
-            "TextENG": "Because of that, I'd been treated as a problematic child from the beginning."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63944,
-            "TextJPN": "…そういう扱いを受ければ、いろいろと不利益を被るのは誰にだってわかる。",
-            "TextENG": "...I experienced lots of disadvantages as a result."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63945,
-            "TextJPN": "もちろん、私もすぐそれに気付いたから、上辺は大人しく従うように演じ続けてきたのだ。",
-            "TextENG": "I realized that quickly, so I superficially pretended to be normal."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63946,
-            "TextJPN": "だが、いつの頃からそういう演技が退屈になってきて、地が出るようになっていた。",
-            "TextENG": "However, I got tired of acting, so I started to reveal my true self from time to time."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63947,
-            "TextJPN": "問題児再び。",
-            "TextENG": "I became a problematic child once again."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63948,
-            "TextJPN": "周りの態度も急激に硬化し始める。",
-            "TextENG": "People started to treat me differently once again."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63949,
-            "TextJPN": "斜な態度を取ることは、その場その場では確かに楽しい。",
-            "TextENG": "It's fun to misbehave."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63950,
-            "TextJPN": "…だが、トータルで見れば、何の得にもならないことは火を見るより明らかだ。",
-            "TextENG": "...But it wouldn't do anything for me in the long run."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63951,
-            "TextJPN": "…それなのになぜ私はこんな態度を？",
-            "TextENG": "...So, why did I act that way?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63952,
-            "TextJPN": "後々損をするとわかって、何でこんな無意味な態度を…？",
-            "TextENG": "Why, even though I knew it was going to backfire on me later on?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63953,
-            "TextJPN": "…冷静に自己分析を続けた結果、自分がすでにこの環境に限界を来していることを気付く。",
-            "TextENG": "......After examining my emotions, I realized that I'd completely had it with my surroundings."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63954,
-            "TextJPN": "私は、この緩慢な温室の中で飼い殺されることを何よりも恐れていたのだ。",
-            "TextENG": "I was afraid of being brainwashed in this institution."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63955,
-            "TextJPN": "こんなところは、私の生きて行けるところではない。",
-            "TextENG": "I can't live here."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63956,
-            "TextJPN": "こんなところで、私を殺されてたまるものかー！",
-            "TextENG": "I won't let them brainwash me!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63957,
-            "TextJPN": "この生活から抜け出そう、脱走しようと思い立ったのが、ちょうど半年前だった。",
-            "TextENG": "Six months ago, I decided to escape this place."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63958,
-            "TextJPN": "不思議なもので、脱走を生きる目的に掲げた途端に、私は生き生きとした生活を取り戻した。",
-            "TextENG": "The moment I made up my mind, I started to feel alive again."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63959,
-            "TextJPN": "シスターたちのマークを外すため、再び貞淑なフリを始めた。",
-            "TextENG": "I acted ladylike in order to deceive the sisters."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63960,
-            "TextJPN": "脱走という最終目的のための布石と思えば、このフリはたまらなく面白いものだった。",
-            "TextENG": "Pretending became fun once I'd set my goal."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63961,
-            "TextJPN": "シスターたちが、私が心を入れ替えて熱心に奉仕活動に励むのを見て、神様の御心のなせるワザがなんとやらとか言って、微笑みながら見守るのが、すっごく痒かったが。",
-            "TextENG": "It gave me the creeps when they told me with smiles that it was God's influence that I started to behave religiously."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63962,
-            "TextJPN": "私はそれらに背を向けて、こっそり舌を出しながら、ニヤリと笑っていた。",
-            "TextENG": "I laughed at them behind their backs."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63963,
-            "TextJPN": "学校敷地内のマップ、職員配置、警備体制をチェックするため、クラスメイトの奉仕活動や当番も率先して引き受けた。",
-            "TextENG": "I took on my classmates' duties in order to understand the layout of the school, and the schedules of the staff and guards."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63964,
-            "TextJPN": "…調べてすぐにわかったのだが、各界の要人のご令嬢を預かるこの学校の警備体制は厳重だ。",
-            "TextENG": "...I soon found out that the security of the school was immensely tight, because there were many daughters of important people living there."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63965,
-            "TextJPN": "警備会社の人間がランダムに巡回し、校内各所に仕掛けられた防犯カメラによる監視網は鉄壁だった。",
-            "TextENG": "The guards walked their beat randomly. There were surveillance cameras everywhere."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63966,
-            "TextJPN": "外部からの侵入者を警戒するこのシステムは、皮肉にも、私という脱走者を警戒するシステムとしても作用してしまっていたのだ。",
-            "TextENG": "The system that kept out intruders ironically also worked to prevent escapees."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63967,
-            "TextJPN": "だが、むしろそれは…私を大いに燃え上がらせた。",
-            "TextENG": "But... that excited me instead."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63968,
-            "TextJPN": "私は頭の中で何度となく監視網をくぐり抜けるシミュレーションを繰り返す。",
-            "TextENG": "I simulated how to avoid all the surveillance in my head many times."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63969,
-            "TextJPN": "授業中もノートの片隅に脱出経路を書き上げ、図上演習に徹した。",
-            "TextENG": "I drew an escape route in the corner of my notes during class and tested if it worked."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63970,
-            "TextJPN": "脱出に必要なスキルをピックアップし、その習得にも努めた。",
-            "TextENG": "I strove to acquire any necessary skills for the escape."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63971,
-            "TextJPN": "それらは全部が全部、とても面白かった。",
-            "TextENG": "It was all fun."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63972,
-            "TextJPN": "…つまり結局、私はこういうことにカタルシスを感じる女な訳だ。",
-            "TextENG": "...After all, the situation was cathartic for me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63973,
-            "TextJPN": "私は私。",
-            "TextENG": "That's who I am."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63974,
-            "TextJPN": "どう洗脳したって、私は私以外の人間にはならない。",
-            "TextENG": "No matter how hard they tried to brainwash me, I'd never change."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63975,
-            "TextJPN": "そして、心技体が共に最高点に達する時期をひたすらに探った。",
-            "TextENG": "I'd been waiting for the moment of my escape, preparing physically and mentally."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63976,
-            "TextJPN": "まず、脱走するための勇気、度胸。",
-            "TextENG": "First, I needed the courage to escape."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63977,
-            "TextJPN": "これは、成功の裏付けや自信があって初めて作られる。",
-            "TextENG": "I had to be confident of the plan."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63978,
-            "TextJPN": "私はそれを深めるため、なお一層、計画を煮詰めていった。",
-            "TextENG": "I had to think deeply about it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63979,
-            "TextJPN": "そして、技術や体力。",
-            "TextENG": "I also needed skills and physical strength."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63980,
-            "TextJPN": "…脱走経路の中で、突破せざるを得ないいくつかの障害を想定し、自身の基礎体力増強に努めた。",
-            "TextENG": "...I imagined all the possible obstacles and trained myself."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63981,
-            "TextJPN": "（面白いもので、そう割り切ると体育の授業もとても楽しいものだった。@k誰もがいやがる持久走すらも、楽しかったくらいだ）",
-            "TextENG": "(It was funny because I was finally able to enjoy gym classes,@k even the long-distance runs.)"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63982,
-            "TextJPN": "完璧な計画と、それを実行できる体力と技術。",
-            "TextENG": "I needed a perfect plan, as well as the physical strength and skills necessary to execute it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63983,
-            "TextJPN": "そして、それらに裏打ちされた揺るぎない覚悟。",
-            "TextENG": "Also, supported by those things, I needed determination."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63984,
-            "TextJPN": "それら全てが揃ったことを確認し、私はゆっくりと温めてきた脱走計画を実行に移すことにした。",
-            "TextENG": "I made sure that I had all I needed, and executed the plan."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63985,
-            "TextJPN": "私はＸデーを迎える前に、学校側にある種の爆弾を抱えさせることにしていた。",
-            "TextENG": "I decided to plant a seed in school before the appointed day."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63986,
-            "TextJPN": "その爆弾とはズバリ、校内に（わずかだが）いる男性教師の誰かが、一部生徒と密会を重ねている可能性を漂わせることだった。",
-            "TextENG": "The seed was a rumor that one of the male teachers was having a relationship with a student."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63987,
-            "TextJPN": "わざわざ説明しないが、この手の女子校では、それは致命的な問題になる。",
-            "TextENG": "I won't go into the details now, but that can turn into an enormous problem in this school."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63988,
-            "TextJPN": "…そもそも、そういうトラブルから遠ざけるための女子校だ。",
-            "TextENG": "......The school is limited to girls precisely because their parents want to avoid those kind of problems."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63989,
-            "TextJPN": "しかも、預けている親たちは皆、各界の要人ばかり…。",
-            "TextENG": "Those parents are mostly important people from various positions."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63990,
-            "TextJPN": "事実であり、かつ公になることがあれば…学長が首を吊るくらいでは済まされない。",
-            "TextENG": "If the romance was a fact and was leaked to the public, the principal would have to commit suicide in shame. In fact, even that might not be enough."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63991,
-            "TextJPN": "女の世界は小さな噂が大きく広がる。",
-            "TextENG": "In the world of girls, rumors spread fast."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63992,
-            "TextJPN": "ましてや、育ち盛りでそういうことへの興味が尽きないのに、男のいる環境から隔離された連中だ。",
-            "TextENG": "Especially when they're separated from boys and are obsessed with dirty thoughts."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63993,
-            "TextJPN": "この手の噂が駆けめぐるのはとにかく速かった。",
-            "TextENG": "So, this kind of rumor goes around really quickly."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63994,
-            "TextJPN": "シスターたちは、そういう噂の払拭にやっきになり、下らない噂に過敏にならないようにと警告していた。",
-            "TextENG": "The sisters try to get rid of that kind of rumor, and they warn the students not to be swayed by it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63995,
-            "TextJPN": "だが、一番過敏に反応していたのはほかならぬ学校側の方なのは、誰が見てもわかっていた。",
-            "TextENG": "But apparently, they're the ones who are most swayed by those rumors."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63996,
-            "TextJPN": "この爆弾を抱えさせることにより、学校は、何か不祥事が起こった時、警察や家庭に通報せず、内部で処理しようとする傾向に陥らすことができた。",
-            "TextENG": "This means that I managed to make them furtively deal with something shady, without contacting families or the authorities."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63997,
-            "TextJPN": "そして、この状況下で上手に私が失踪すると…、一部教師が私を連れて駆け落ちしたようにも見えるのだ。",
-            "TextENG": "So, if I disappeared in these circumstances, it'd look like I ran away with some teacher."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63998,
-            "TextJPN": "もちろん、男性教師たちは皆、口を揃えて否定するだろう。",
-            "TextENG": "All the male teachers would deny it, of course."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 63999,
-            "TextJPN": "もちろん学校側は簡単にはそれを信じない。",
-            "TextENG": "However, the school wouldn't believe what they said so easily."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64000,
-            "TextJPN": "…何しろ学校内に、不貞な密会の噂がすでに確認されているのだから。",
-            "TextENG": "...After all, there's a dirty rumor going around."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64001,
-            "TextJPN": "学校側が全ての可能性を潰しきり、私が単独で脱走したことにいつかは気付くだろうが、@kその頃には私は十二分な時間を得て、すでに彼方へ逃げ去っている…。",
-            "TextENG": "By the time the school finds out about my escape, after they eliminate all the other possibilities...@k I'll be somewhere safe..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64002,
-            "TextJPN": "私は噂を十分に浸透させ、さらに密会をしている生徒が私である可能性をうっすらと漂わせた。",
-            "TextENG": "I tried hard to spread the rumor that I was involved in the forbidden romance as widely as possible."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64003,
-            "TextJPN": "シスターに何度か問い詰められたが、何しろ密会話そのものがでっちあげなのだ。",
-            "TextENG": "The sisters questioned me a few times, but since the romance was something I'd made up, they couldn't find anything."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64004,
-            "TextJPN": "どう追及したって、アリバイこそあれ証拠など出て来ない。",
-            "TextENG": "No matter how hard they tried, they couldn't find any evidence."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64005,
-            "TextJPN": "私は、そういう特殊な土壌が十分に仕上がったことを、噂を流してから約３ヶ月目で確認した。",
-            "TextENG": "After three months, I was certain that I created a solid foundation."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64006,
-            "TextJPN": "そして私は、クラスメイトから夕食後の当番のいくつかを個人的に代り、Ｘデーの夜に死角となる時間が重なるよう調整した。",
-            "TextENG": "I swapped after-dinner duties with my classmates so that I could adjust my schedule on this day."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64007,
-            "TextJPN": "その晩だけ私と代わって欲しい…という頼み込みは、クラスメイトたちの心にほんのちょっとの不信感を植えつけることができる。",
-            "TextENG": "I was even able to fill them with suspicion about me by doing that."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64008,
-            "TextJPN": "この不信感の芽は、私が蒸発したあと、男性教師との駆け落ちという噂を生むための土壌になるのだ。",
-            "TextENG": "Now they'll definitely suspect I ran away with some male teacher."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64009,
-            "TextJPN": "そして、Ｘデーの夜が訪れた。",
-            "TextENG": "Tonight was the night."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64010,
-            "TextJPN": "私は食後のいくつかの当番のため、姿を消す。",
-            "TextENG": "I began my chores after dinner."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64011,
-            "TextJPN": "私の失踪が発覚するのは、おそらく消灯時間だろう。",
-            "TextENG": "After lights-out, somebody will find out about my disappearance."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64012,
-            "TextJPN": "寛大なルームメイトは、１０分くらいは待ってくれるだろうが、それ以上は待たずにシスターに通報する。",
-            "TextENG": "My generous roommate would probably wait about ten minutes before she reported me to a sister, but no longer than that."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64013,
-            "TextJPN": "私に許される時間は、長めに見積もっても１時間ちょっと。",
-            "TextENG": "I had about an hour tops."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64014,
-            "TextJPN": "それだけの時間があれば十分……！",
-            "TextENG": "But that's enough for me......!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64015,
-            "TextJPN": "いつもの決められた順路を一歩離れる。",
-            "TextENG": "I took a step off my regular route."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64016,
-            "TextJPN": "その一歩こそが、自由への大脱走劇の幕開けだった。",
-            "TextENG": "That was the first step toward my great escape."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64017,
-            "TextJPN": "冷静に冷静に考える…。",
-            "TextENG": "I calmed down and thought..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64018,
-            "TextJPN": "自分が持ってきたカギは間違いがないはず。",
-            "TextENG": "The key shouldn't be wrong."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64019,
-            "TextJPN": "…この錠前は少々古くて固い。",
-            "TextENG": "...This lock is old and firm."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64020,
-            "TextJPN": "ひょっとして、正解のカギを入れたけれども、固くて回せず、私がハズレのカギだと思い込んでしまっただけでは…？",
-            "TextENG": "Isn't it possible that I put the right one in, but the lock was just stiff, and I only thought I got the wrong one?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64021,
-            "TextJPN": "自分でも自覚しているが、今の私は少し緊張気味で、普段よりも不器用になっていると思う。",
-            "TextENG": "I realized that my nervousness was making me clumsy."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64022,
-            "TextJPN": "指紋を残さないためにしているこの軍手も、手先を不器用にしてしまっているに違いない。",
-            "TextENG": "The gloves that I'm wearing to avoid leaving fingerprints must be getting in the way, too."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64023,
-            "TextJPN": "…もう一度、冷静にトライしてみよう…。",
-            "TextENG": "......I should try the keys one more time..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64024,
-            "TextJPN": "…一番、そうだと思えるカギをもう一度鍵穴にさして…そぅっと…。",
-            "TextENG": "...I picked the most probable one, and gently inserted it into the keyhole..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64025,
-            "TextJPN": "…固い。",
-            "TextENG": "...It's stiff."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64026,
-            "TextJPN": "…無理にねじれば、カギの方が壊れてしまうのではと思った。",
-            "TextENG": "...If I twist it too strongly, I might break the key."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64027,
-            "TextJPN": "さすがに諦めようと思った瞬間、グリッとした手応え。@k…開いた！",
-            "TextENG": "The moment I thought of giving up, I felt something in my fingertips......@k The key worked!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64028,
-            "TextJPN": "扉を少し開く。",
-            "TextENG": "I slowly opened the door."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64029,
-            "TextJPN": "さっきから聞こえていた虫の音が、より大きくなって漏れ出してきた。",
-            "TextENG": "I could hear the crickets."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64030,
-            "TextJPN": "今さら躊躇する甘えなどない。@kそれでも、外へ出るのにわずかの戸惑いがあった。",
-            "TextENG": "I don't have to hesitate now,@k but somehow I'm reluctant to step outside."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64031,
-            "TextJPN": "少なくとも、今いるここまでは言い訳が効く。",
-            "TextENG": "I can still make excuses up to this point."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64032,
-            "TextJPN": "苦し紛れにせよ、何とか言い逃れが出来る。",
-            "TextENG": "It might look awkward, but I still can."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64033,
-            "TextJPN": "…だが、ここから先にはそういう甘えはない。",
-            "TextENG": "......But if I take a step outside now, there can be no excuse."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64034,
-            "TextJPN": "警備員たちが巡回し、見つかればたとえ生徒であっても事務室へ連行される。",
-            "TextENG": "If the guards find me, they'll take me to the office immediately."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64035,
-            "TextJPN": "過去にも脱走しようとした輩がいたらしい。",
-            "TextENG": "There have been escape attempts before."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64036,
-            "TextJPN": "…そりゃそうだ。",
-            "TextENG": "...That's not really so strange."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64037,
-            "TextJPN": "私だけが異端だとは思わない。",
-            "TextENG": "I don't think I'm the only heathen here."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64038,
-            "TextJPN": "私のように、この環境に適応できない人間が過去にもいたのは頷ける。",
-            "TextENG": "It's understandable that there have been people before who couldn't fit in this place."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64039,
-            "TextJPN": "だからこそ学校側は、生徒の脱走を、ありえる事態だとして認識していた。",
-            "TextENG": "So the school is well aware of the possibility of escapees."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64040,
-            "TextJPN": "…脱走を捕まった生徒の処遇は、……いくつかの噂を聞いているが、どれも信じたくない。",
-            "TextENG": "...I've heard rumors about what happened to those who were caught while attempting to escape. ...I don't want to believe any of those stories, though."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64041,
-            "TextJPN": "…この学校にまつわる怪談には、いつも脱走未遂の生徒が絡むからだ。",
-            "TextENG": "...You see, all the school's horror stories involved students who attempted escapes."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64042,
-            "TextJPN": "…くそったれ…、上等じゃないの…。",
-            "TextENG": "...Whatever... Bring it on..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64043,
-            "TextJPN": "私だって、ここでしくじったら、次のチャンスがあるなんて甘えるつもりはない。",
-            "TextENG": "I'm not expecting to get a second chance anyway."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64044,
-            "TextJPN": "…いつだってチャンスはたったの一回。",
-            "TextENG": "...There'll always be only one chance."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64045,
-            "TextJPN": "この扉から先こそが…正念場…！！",
-            "TextENG": "Things get serious beyond this door...!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64046,
-            "TextJPN": "自らを奮起し、…扉を押し開ける。",
-            "TextENG": "I psyched myself up and... pushed the door open."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64047,
-            "TextJPN": "外気は鮮烈な匂いがした。",
-            "TextENG": "A strong smell was hanging in the air."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64048,
-            "TextJPN": "普段嗅いでいる空気にこんなにも強烈な匂いがあったっけ…？",
-            "TextENG": "Is that normal for the outside?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64049,
-            "TextJPN": "こんな、むわっとするような青臭い匂いを嗅いだことはなかった。",
-            "TextENG": "I'd never smelled this strong grassy smell before."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64050,
-            "TextJPN": "何か普段と違う事態が発生している…？",
-            "TextENG": "Is there something going on...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64051,
-            "TextJPN": "注意した方がいい？",
-            "TextENG": "Do I have to be wary of it?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64052,
-            "TextJPN": "今夜は大人しくカギを返してチャンスを改めた方がいい…？",
-            "TextENG": "Should I go back and wait for another chance...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64053,
-            "TextJPN": "…馬鹿をいうな。",
-            "TextENG": "......That's silly."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64054,
-            "TextJPN": "何も普段と変わる事などない。",
-            "TextENG": "There's nothing strange going on."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64055,
-            "TextJPN": "これはいつも嗅いでいる空気の匂い。",
-            "TextENG": "This smell is something I smell every day."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64056,
-            "TextJPN": "…私が普段、気にも止めないいつもの外気の匂い。",
-            "TextENG": "...I just wasn't aware of it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64057,
-            "TextJPN": "つまりはそういうこと。",
-            "TextENG": "It's true, isn't it?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64058,
-            "TextJPN": "冷静沈着を気取る私にも、人並みに焦ったり緊張したりする心があるわけだ…。",
-            "TextENG": "Even though I pretend to be cool, I'm nothing but a nervous wreck..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64059,
-            "TextJPN": "…落ち着け、自分。@k…落ち着け、詩音…！",
-            "TextENG": "...Calm down...@k Calm down, Shion...!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64060,
-            "TextJPN": "ここからは頭の中にある地図だけが武器だ。",
-            "TextENG": "I can rely only on the map inside my head from this point onward."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64061,
-            "TextJPN": "監視カメラの位置は今日までに全て探った。",
-            "TextENG": "I'd researched the locations of all the surveillance cameras."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64062,
-            "TextJPN": "…それらを欺く自信はあるが、一番問題なのはカメラじゃない。@k警備員だ。",
-            "TextENG": "...I'm confident that I'll be able to avoid all of them,@k but I'm not sure about the guards."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64063,
-            "TextJPN": "警備員の巡視時間と巡視ルートは完全にランダムで、読みきれない。",
-            "TextENG": "They pick their patrol routes randomly, after all."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64064,
-            "TextJPN": "本当の意味での出たとこ勝負。",
-            "TextENG": "I have to take a chance."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64065,
-            "TextJPN": "身を隠せる場所はまだいい。",
-            "TextENG": "I can hide myself in most places..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64066,
-            "TextJPN": "だが、どうしてもやり過ごせない危険地帯が約数十メートルある。",
-            "TextENG": "But there's an area where there's nowhere to hide for several meters."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64067,
-            "TextJPN": "精神を研ぎ澄まし、五感を鋭くする。",
-            "TextENG": "I concentrated to keep my senses keen."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64068,
-            "TextJPN": "…ま、何だかんだと言ったって、結局のところ最後は運だ。",
-            "TextENG": "......Well, I have to depend on my luck in the end."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64069,
-            "TextJPN": "どんなに私がベストを尽くしても、ちょっと巡り合わせが悪ければアウト。",
-            "TextENG": "Even if I do my best, the guard might find me by mere chance."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64070,
-            "TextJPN": "逆に、私がどんないい加減な計画で動いたとしても、運が良ければ何でもＯＫになるということでもある。",
-            "TextENG": "On the contrary, I might be able to get away no matter how unwisely I choose to move, if I'm lucky."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64071,
-            "TextJPN": "…ちぇ、私が今日まで積み重ねてきた努力なんて、そんな程度のもんだとはね。",
-            "TextENG": "......Damn. After all that effort, it just boils down to luck?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64072,
-            "TextJPN": "あはは、こういうのをギャンブルって言うんだろうな。",
-            "TextENG": "Aha ha. This is a gamble after all."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64073,
-            "TextJPN": "自分の行為が博打だと気付くと、何だか緊張の奥底からわくわくする気持ちがこみ上げて来た。",
-            "TextENG": "When I realized that, I got excited."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64074,
-            "TextJPN": "そうさ、これはギャンブル。@k運試し。",
-            "TextENG": "Yes, this is a gamble.@k I'm trying my luck."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64075,
-            "TextJPN": "私、園崎詩音が、自分の意思で生活を一変させようとするこの決意を占う、運試しなのだ。",
-            "TextENG": "This is a game to test the determination to change my life."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64076,
-            "TextJPN": "この程度の学校から抜け出すのに、失敗して捕まってしまう程度の運気なら、仮に自由の身になれたとしても、ろくな未来などあるものか。",
-            "TextENG": "If somebody failed to escape from this school, that meant they didn't have enough luck to survive in the real world."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64077,
-            "TextJPN": "私は違う。",
-            "TextENG": "But I'm different."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64078,
-            "TextJPN": "ここから踏み出す。@k私自身の運気を試してやる。@kさぁ…行くぞ、詩音！",
-            "TextENG": "I'm going to get out of here.@k I'm testing my luck.@k Here goes, Shion!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64079,
-            "TextJPN": "うるさい虫どもの声だけを選別消去して、不審な音だけを抽出する。",
-            "TextENG": "I ignored the noisy bugs and concentrated only on suspicious sounds."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64080,
-            "TextJPN": "…気配、ゼロ。@k…一番うるさいのは虫の声より自分の心音。",
-            "TextENG": "......I heard no threats...@k ...The loudest sound wasn't the bugs--it was my own heartbeat."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64081,
-            "TextJPN": "じゃり。",
-            "TextENG": "Crunch."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64082,
-            "TextJPN": "…自分の足音すら、やかましくて鼓膜が破れそうだった…。",
-            "TextENG": "...Even my own footsteps were so loud they could break my eardrums..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64083,
-            "TextJPN": "一歩、歩くごとに私の想像力たくましきお頭は、警備員との予期せぬ遭遇を予感させて苛んだ。",
-            "TextENG": "With each and every step, my overactive imagination tormented me with premonitions of unexpected run-ins with guards."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64084,
-            "TextJPN": "その責め苦に耐え切れなくなり、走り出そうと何度思ったことか。@k…だが、無様に走れば不穏な騒音を掻き立てるだけだ。",
-            "TextENG": "Countless times that torture grew too hard to bear, and I thought of running.@k ...But if I broke into a run, the noise I made would only draw suspicion."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64085,
-            "TextJPN": "人がいてはいけない場所、時間帯に走る音が聞こえれば、誰だって何か異常な事態だと勘付く。",
-            "TextENG": "If anyone heard running at a time and place where people shouldn't be, they would realize something abnormal was happening."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64086,
-            "TextJPN": "仮に聞かれたとしたって、ただ歩く音なら、まだしも疑問には思わない。",
-            "TextENG": "But if the footsteps they heard were just walking, then they'd likely think nothing of it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64087,
-            "TextJPN": "もちろん私は、その歩く音すら聞かせるつもりはなかった。",
-            "TextENG": "Of course, I don't plan on even letting them hear those footsteps."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64088,
-            "TextJPN": "五感を研ぎ澄まし、視界に収まる以上の情報を採取することに努めた。",
-            "TextENG": "I tried to extend my senses to get as much information as possible."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64089,
-            "TextJPN": "だが、いくら耳を澄ませても、何の気配も感じられなかった。",
-            "TextENG": "I didn't sense anyone's presence."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64090,
-            "TextJPN": "…せめて、どこか遠くにいる警備員の気配でも感じられた方が、まだ安心できたかもしれない。",
-            "TextENG": "......I might have felt safer if I heard a guard in the distance."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64091,
-            "TextJPN": "何も聞こえないということは、周囲が安全であると教えるよりも、自分のセンサーがこの上なく鈍感で、頼りないものなのではないかと不安がらせる方が強かったからだ。",
-            "TextENG": "I'm worried that my senses might not be keen enough to detect everything."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64092,
-            "TextJPN": "実はすぐ近くに誰かいて、…間抜けにも私がそれに気付いていないだけなのでは…。",
-            "TextENG": "Somebody might be right behind me... without me being aware of it..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64093,
-            "TextJPN": "そう思うと、自分の足音さえ消したくて、時に歩みを止めたりもした。",
-            "TextENG": "I didn't want to make any noise, so I stopped from time to time."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64094,
-            "TextJPN": "…これじゃ、足がすくんでいるのと変わらない…。",
-            "TextENG": "...It's like I'm constantly fidgeting..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64095,
-            "TextJPN": "立ち止まるか、走り出すか。@kそのどちらかを内側の自分が強要してくる。",
-            "TextENG": "To stop or to run...@k something within urged me to choose from either one."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64096,
-            "TextJPN": "もちろん立ち止まっては駄目だ。",
-            "TextENG": "I can't choose to stop."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64097,
-            "TextJPN": "慎重に、だけれども迅速に進まなければ何の意味もない。",
-            "TextENG": "I have to keep going quickly and stealthily."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64098,
-            "TextJPN": "…私は、ここに居続けるだけでも、常にリスクを累積しているのだから。",
-            "TextENG": "...I'm already risking so much just by being here."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64099,
-            "TextJPN": "そして走り出すことは愚の骨頂。",
-            "TextENG": "Running, of course, would be absurd."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64100,
-            "TextJPN": "…あぁ、そんなことはわかっているのに…！@k　走り出したくなる衝動を抑えるのが…苦しい。",
-            "TextENG": "...Ah, I know that......!@k The urge to run continued to bug me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64101,
-            "TextJPN": "ほんの数十メートルの危険地帯を抜けるまで、私はずっと、それらのことで頭をいっぱいにしていた。",
-            "TextENG": "My head was filled with those thoughts as I went through this dangerous territory."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64102,
-            "TextJPN": "やがて、誰の気配も感じず、もちろん誰にも出くわすことがなく、抜け切ったことを知った時。",
-            "TextENG": "I succeed in passing through without running into anybody."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64103,
-            "TextJPN": "…私はその場にしゃがみ込んで、肺いっぱいに溜まった、腐った空気を吐き出さずにはいられなかった。",
-            "TextENG": "...I couldn't help but sit for a moment and exhale the rotten air from my lungs."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64104,
-            "TextJPN": "……ネガティブな感情が一気に引っ込む。",
-            "TextENG": "......My negative thoughts vanished quickly."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64105,
-            "TextJPN": "…もう一息だ。@k…もう一息！",
-            "TextENG": "......Just a little more to go.@k ...Just a little more!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64106,
-            "TextJPN": "そこの茂みを抜ければ、そこは外界と敷地を隔てる柵だ。",
-            "TextENG": "Just through that bush over there is the fence that separates this place and the outside world."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64107,
-            "TextJPN": "今にも走り出したい衝動は、どんどん強くなる。",
-            "TextENG": "Once again, I strongly felt the urge to run."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64108,
-            "TextJPN": "…私はそれを理性でぐっと抑えこみながら、慎重に最後の関門に臨んだ……。",
-            "TextENG": "...I suppressed that desire and carefully tackled the final step......"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64109,
-            "TextJPN": "学園の敷地を囲む洋風な柵は、美観上は優秀だったが、防犯上はそれほど優秀ではないようだった。",
-            "TextENG": "The beautiful-looking fence didn't seem designed to prevent escapes."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64110,
-            "TextJPN": "柵をよじ登るという、無防備な姿を発見されやしないかとずっとびくびくしていたが、幸いにもそれはなかった。",
-            "TextENG": "While I was worried that somebody might see me climbing up the fence, it fortunately didn't happen."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64111,
-            "TextJPN": "この柵に、接触感知の警報装置があるかもしれないという、妄想にも苛まれた。",
-            "TextENG": "It's even possible that this fence might have a touch sensor."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64112,
-            "TextJPN": "…だが、もう遅い。",
-            "TextENG": "...It's too late now."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64113,
-            "TextJPN": "こうしてよじ登っている今、そんな妄想に心を許すことそのものに意味がない。",
-            "TextENG": "It doesn't mean anything now, since I'm already climbing up."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64114,
-            "TextJPN": "柵のてっぺんから地面までは、２ｍはあったかもしれない。",
-            "TextENG": "From the top, the fence seemed about seven feet high."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64115,
-            "TextJPN": "慎重に登ったんだから、下りるときも慎重に。",
-            "TextENG": "I have to go down carefully, just like when I climbed up."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64116,
-            "TextJPN": "…理屈ではそうだったが、そこが私の理性の限界だった。",
-            "TextENG": "......I knew that logically, but I couldn't think that way anymore."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64117,
-            "TextJPN": "私は臆すことなく、その高さから飛び降りることを選ぶ。",
-            "TextENG": "I chose to jump off with no hesitation."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64118,
-            "TextJPN": "もちろん、自由落下に身を任せてから少しは後悔した。",
-            "TextENG": "Of course, I regretted my decision during the fall."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64119,
-            "TextJPN": "落下時特有の、ふわっとした感覚が、自分が予想したよりもずっと長かったので、落下しながら怖くなった。",
-            "TextENG": "I got scared because the flight was longer than I expected."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64120,
-            "TextJPN": "綺麗に着地できず、尻餅を付く。",
-            "TextENG": "I didn't land beautifully. I fell onto my butt."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64121,
-            "TextJPN": "だが、誰も笑う人はいないし、私だってそんなことに照れ笑いをするゆとりなんかなかった。",
-            "TextENG": "But there was nobody around to laugh, and I didn't have time to be embarrassed."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64122,
-            "TextJPN": "私が飛び降りた時に出した、最後の轟音が誰かの興味を引かなかったか、周囲を見回して探る。",
-            "TextENG": "I looked around to see if anybody heard my landing."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64123,
-            "TextJPN": "そして、合唱を続ける虫たちすら、そんな音には関心を示していないことを知り、私はようやく胸を撫で下ろすのだった…。",
-            "TextENG": "Even the crickets weren't interested in the sound I made. I felt relieved..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64124,
-            "TextJPN": "腕時計を見る。",
-            "TextENG": "I looked at my watch."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64125,
-            "TextJPN": "時間は…２０時５分前。",
-            "TextENG": "...Five minutes till 8 PM."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64126,
-            "TextJPN": "…わずか１５分ちょいの脱走劇だった。",
-            "TextENG": "...It was just a fifteen-minute escape."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64127,
-            "TextJPN": "数字に直すと、いかに短い時間だったかがわかる。",
-            "TextENG": "Putting a number to it really made it obvious how short it had been."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64128,
-            "TextJPN": "この１５分間にしたことを振り返れば、…一番占めているのは多分、あれこれと自問自答する躊躇の時間だったように思う。",
-            "TextENG": "Looking back, most of the time I was just asking myself questions and hesitating."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64129,
-            "TextJPN": "…取り越し苦労って言うんだろうな。",
-            "TextENG": "......I guess I worried too much."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64130,
-            "TextJPN": "だがまだ気を許してはいけない。",
-            "TextENG": "But I can't be too relaxed just yet."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64131,
-            "TextJPN": "私が監視カメラを全て欺けた保証はないのだ。",
-            "TextENG": "There's no guarantee that I fooled all the cameras."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64132,
-            "TextJPN": "別にここは銀行とかではない。",
-            "TextENG": "This place isn't a bank."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64133,
-            "TextJPN": "私の影を仮に警備員が認めたとしても、防犯ベルが鳴り響く訳じゃない。",
-            "TextENG": "There won't be a fire alarm going off even if the guards did see me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64134,
-            "TextJPN": "私がこうしてのんびりしている間にも、警備員たちがすぐそこまで来ているかもしれない。",
-            "TextENG": "It's possible they're rushing this way right now."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64135,
-            "TextJPN": "自由の空気を胸いっぱいに吸い込むには、まだちょっと早いのだ。",
-            "TextENG": "I can't enjoy the air of freedom yet."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64136,
-            "TextJPN": "それから、暗がりに身を隠し、時間を待った。",
-            "TextENG": "I hid myself in the darkness and waited."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 64137,
-            "TextJPN": "予め決められた時間まで、あと少しだった。",
-            "TextENG": "There's still time left until the rendezvous."
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 0,
+		"JPN": "目明し編",
+		"ENG": "Meakashi-hen"
+	},
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "#1 雛見沢帰還",
+		"ENG": "#1 / Return to Hinamizawa"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63855,
+		"TextJPN": "…キーホルダーに@bくく.@<括@>り付けられたカギは大小７つ。",
+		"TextENG": "...Seven keys were attached to the key chain."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63856,
+		"TextJPN": "どのカギが正しいものかよくわからないから、自分の勘に従って順に一つずつ試すしかない。",
+		"TextENG": "Without knowing which key was the correct one, I had to go by instinct and try every key, one by one."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63857,
+		"TextJPN": "期待値は３．５本。",
+		"TextENG": "On average, I'd reach the correct key within 3.5 attempts."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63858,
+		"TextJPN": "最初に試した三本以内のカギで開けば、幸運。",
+		"TextENG": "I'd be fortunate if I could open the lock within the first three keys..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63859,
+		"TextJPN": "それ以外は不運と占うことができるだろう。",
+		"TextENG": "And I'd be unfortunate if I didn't."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63860,
+		"TextJPN": "こういう場合、石橋を叩いて渡るなら、正解のカギを７本目に当ててしまうという最悪の可能性を考慮するべきだ。",
+		"TextENG": "I had to think of the worst-case scenario: getting the right key only on the very last attempt."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63861,
+		"TextJPN": "頭がしくしくと痛み出すぐらいに、冷静さと緊張感がせめぎ合う。",
+		"TextENG": "I fought with my nervousness. My head ached from it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63862,
+		"TextJPN": "カギを錠前に挿す、開錠を確かめる。",
+		"TextENG": "I put the key in, and turned it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63863,
+		"TextJPN": "その行為を淡々と繰り返せばいいだけのはずなのに、…指先の微弱な震えを抑えきれない。",
+		"TextENG": "I just needed to repeat that small procedure several more times, but...... I couldn't stop shaking."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63864,
+		"TextJPN": "…ちぇ、…カギを挿して回すなんて、それだけの動作、幼稚園児だってやれる。",
+		"TextENG": "...Damn... Even a three-year-old kid can do something this easy."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63865,
+		"TextJPN": "…じゃあ今の私は幼稚園児以下ってわけ？",
+		"TextENG": "...So, am I more childish than a three-year-old?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63866,
+		"TextJPN": "下らないことは考えなくていい、不器用だっていい。",
+		"TextENG": "Whatever. I don't care if I'm clumsy."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63867,
+		"TextJPN": "…とにかく、淡々とこの７つのカギを全て試せばいいのだ…。",
+		"TextENG": "...I just need to try all these keys..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63868,
+		"TextJPN": "…どんなに星の巡りが悪くたって、７本目で絶対に開くのだから…………。",
+		"TextENG": "...Even in the worst-case scenario, the lock will open on the seventh try..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63869,
+		"NamesJPN": "詩音",
+		"PreTextTags": "@vS06/06/150600001.",
+		"TextJPN": "「……………。@k@vS06/06/150600002.…………うっそ…」",
+		"NamesENG": "Shion",
+		"TextENG": "``......@k@vS06/06/150600002. ............No way...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63870,
+		"TextJPN": "…だが、現実は算数じゃない。",
+		"TextENG": "...Reality isn't always the same as math."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63871,
+		"TextJPN": "私の目の前に突きつけられた現実は、どのカギも外れであるという致命的なものだった。",
+		"TextENG": "What happened was worse than my worst-case scenario... None of the keys worked at all."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63872,
+		"TextJPN": "全身から、ザーーっという音を立てて血の気が引いていくのが分かる。",
+		"TextENG": "I could feel the blood draining from my brain."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63873,
+		"TextJPN": "…このカギ束ではなかった？！",
+		"TextENG": "...Did I get the wrong set of keys?!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63874,
+		"TextJPN": "いや、プレートにはここの施錠に使うカギだと薄らとだが明記されている。",
+		"TextENG": "No. I definitely see a faint marking that says this set is for this door."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63875,
+		"TextJPN": "…それすらも読み間違えたのか？",
+		"TextENG": "...Am I just reading it wrong?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63876,
+		"TextJPN": "今すぐ引き返し、再びあのキーボックスを丹念に調べなおすべきだろうか…？",
+		"TextENG": "Should I go back to the key cabinet to look for the right one...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63877,
+		"TextJPN": "それはもちろん致命的なタイムロスだった。",
+		"TextENG": "That would mean a great loss of time."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63878,
+		"TextJPN": "私は、今ここに居続けているだけで、リスクを一秒毎に累積している。",
+		"TextENG": "Just by being here I'm already risking so much."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63879,
+		"TextJPN": "…次の一秒で、どんな予想外のハプニングが起こって、全てが水泡に帰すかわかったものではないのだ…。",
+		"TextENG": "...Something that could ruin everything might happen any moment..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63880,
+		"TextJPN": "管理室に引き返し、キーボックスを探し直す以外に、ここを開ける方法がないなら…私は躊躇なくそれを実行する他ない？",
+		"TextENG": "If I can't open this lock, do I have to go back to the administration office?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63881,
+		"TextJPN": "…なら、ここで座して脂汗をかくことに数秒を費やすことこそ愚の骨頂…！",
+		"TextENG": "...If there were no other choice, it'd be a waste of time to spend another second here...!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63882,
+		"TextJPN": "管理室がこの時間に無人なのは、統計的なものであって絶対的なものではない。",
+		"TextENG": "The administration office wouldn't necessarily be empty at this time."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63883,
+		"TextJPN": "…職員のちょっとした気まぐれで、誰かが戻ってきてしまうのだ。",
+		"TextENG": "...Somebody might come in."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63884,
+		"TextJPN": "そうしたらもう、のんびりとキーボックスを漁るなんて真似はできなくなる…！！",
+		"TextENG": "I won't be able to look for the right key if that happens...!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63885,
+		"TextJPN": "…屈んでいた全身に電気が走って弾かれたかのように、私は立ち上がる。",
+		"TextENG": "...I stood up quickly, as if electrified."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63886,
+		"TextJPN": "パニックに陥りかけているからこそ、体を全力で動かさないと不安になる…。",
+		"TextENG": "I was almost in a panic, and so felt the urge to move..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63887,
+		"TextJPN": "人間の本能に突き動かされての行動だった。",
+		"TextENG": "My instinct pushed me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63888,
+		"TextJPN": "一刻も早く走って戻らないと危険…！！",
+		"TextENG": "I have to go back there as quickly as possible...!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63889,
+		"TextJPN": "ここにいるのも危険だし、管理室に誰かが戻ってきてしまうのも、危険危険！",
+		"TextENG": "It's dangerous to be here, and it's also dangerous if somebody comes into the administration office!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63890,
+		"TextJPN": "……そんな恐怖心を、私は冷たすぎて、むしろ痛みすら感じさせるような…ドライアイスのように冷え切った冷静さで抑えこむ…。",
+		"TextENG": "...I cooled my head, making it as chilly as possible, to repress my fear..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63891,
+		"TextJPN": "落ち着け、詩音…。",
+		"TextENG": "Calm down, Shion..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63892,
+		"TextJPN": "…魅音ならこんなことでは取り乱さないぞ…。",
+		"TextENG": "...Mion wouldn't panic in this situation..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63893,
+		"TextJPN": "何かの間違いかもしれないじゃないか…。",
+		"TextENG": "Maybe I'm just mistaken..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63894,
+		"TextJPN": "もう一度、…もう一度だけカギを試してみよう…。@kもう一度…最初から…。",
+		"TextENG": "Why don't I try the keys@k one more time...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63895,
+		"TextJPN": "その時、長い長い廊下を満たした空気が震えて、どこか遠くを歩いている誰かの足音をかすかに伝えてきた。",
+		"TextENG": "The next moment, I felt a faint vibration in the air. Somebody was walking somewhere in the hallway."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63896,
+		"TextJPN": "いつもの落ち着いた状態でなら、その足音が非常に遠くで、その主と出くわすこともないと理解できる。",
+		"TextENG": "If it were a normal situation, I would've known I wouldn't run into them, since the footsteps were very far away."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63897,
+		"TextJPN": "…だが、今の精神状態ではそんなの屁理屈にしか聞こえない。",
+		"TextENG": "...But at the time, I couldn't think calmly."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63898,
+		"TextJPN": "あぁ…くそ…。",
+		"TextENG": "Ah... shit..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63899,
+		"TextJPN": "この程度の遠い足音が聞こえるだけで、私はここまで動揺できるのかよ。",
+		"TextENG": "Why am I panicking this much just because of footsteps...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63900,
+		"TextJPN": "落ち着け…落ち着け…。",
+		"TextENG": "Calm down... calm down..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63901,
+		"TextJPN": "むしろこの感情を楽しむんだ。",
+		"TextENG": "I should be feeling excited instead."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63902,
+		"TextJPN": "…落ち着け、落ち着け。",
+		"TextENG": "...Calm down, calm down."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63903,
+		"TextJPN": "…ただ淡々と目の前の作業をこなすんだ。",
+		"TextENG": "...I just need to do what I have to do."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63904,
+		"TextJPN": "聞こえてくる遠い足音を、自分に危機を成さないと判断して無視…。",
+		"TextENG": "I should ignore the footsteps, because they're not an immediate threat..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63905,
+		"TextJPN": "…聞こえないものと思え…！",
+		"TextENG": "...Pretend they aren't there...!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63906,
+		"TextJPN": "あんな遠い足音よりも、もっと気にしなければならない何かを聞き漏らさないために…！",
+		"TextENG": "I have to listen for something much more important right now...!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63907,
+		"TextJPN": "あぁ、くそ…。",
+		"TextENG": "Ah... shit..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63908,
+		"TextJPN": "このカギ…さっきまであんなにも硬くて冷たかったのに、@k…いつのまにか熱くなってぐにゃぐにゃになって、@kまるでゴムみたいになってるぞ…。",
+		"TextENG": "This key should be hard and cold, but...@k it's pliable and hot...@k it feels like rubber..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63909,
+		"TextJPN": "こんなにぐにゃぐにゃじゃ、鍵穴にうまく挿せるものか…。",
+		"TextENG": "How could I stick this into the keyhole?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63910,
+		"TextJPN": "くそくそくそ…！",
+		"TextENG": "Shit, shit, shit...!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63911,
+		"TextJPN": "カギがぐにゃぐにゃになったりなんかするもんか。",
+		"TextENG": "It wasn't the key that was pliable."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63912,
+		"TextJPN": "…ぐにゃぐにゃしてるのは私の手先だ。",
+		"TextENG": "...It's my fingers that were limp."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63913,
+		"TextJPN": "…あぁもぅ…くそくそくそ…！",
+		"TextENG": "...Ah... shit, shit, shit...!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63914,
+		"TextJPN": "その時、ぐにゃぐにゃになったカギはビヨンと弾け、私の指をくぐり抜けて床に落ちた。",
+		"TextENG": "The key sprung out of my hand and fell to the floor."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63915,
+		"TextJPN": "意地悪にもそいつは、さっきまであんなにもぐにゃぐにゃだったんだから、床に接地する時もそうであればいいのに…、",
+		"TextENG": "It shouldn't have made any sound because it was so pliable, but..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63916,
+		"TextJPN": "床に叩きつけられる時だけ、まるで食器棚を丸ごと床にぶちまけた時のような凄まじい音をたてて見せた。",
+		"TextENG": "It made a tremendous metal noise as if somebody pushed over a cupboard."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63917,
+		"TextJPN": "ジャリリリーンンッ！！！　という、凄まじい轟音が私の心臓を破ろうとする。",
+		"TextENG": "Cliiinnng!!! The sound almost stopped my heart."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63918,
+		"TextJPN": "そのぐわんぐわんとする音に、しばし頭がくらくらとした。",
+		"TextENG": "I felt dizzy for a while."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63919,
+		"TextJPN": "それから身を硬くして、この轟音によって世界に何か変化が起きなかったか、辺りを慎重にうかがった。",
+		"TextENG": "I looked around afterwards to carefully see if I caused any disturbance to the surroundings."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63920,
+		"TextJPN": "落ち着け、落ち着け…。",
+		"TextENG": "Calm down, calm down..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63921,
+		"TextJPN": "何も変化はない。@k何も聞こえない。@k…ってことはつまり、安全ってこと？",
+		"TextENG": "Nothing's changed.@k I don't hear anything...@k So... am I safe?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63922,
+		"TextJPN": "落ち着け…落ち着け落ち着け…。",
+		"TextENG": "Calm down... calm down, calm down..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63923,
+		"TextJPN": "あれ…何も聞こえないって？",
+		"TextENG": "Wait... I don't hear anything?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63924,
+		"TextJPN": "さっきまで聞こえてた、あの遠い足音はどうして聞こえない？",
+		"TextENG": "What about those footsteps in the distance?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63925,
+		"TextJPN": "落ち着け落ち着け落ち着け…！",
+		"TextENG": "Calm down, calm down, calm down...!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63926,
+		"TextJPN": "落としたカギの音に反応して、気配を殺してこちらをうかがっているのか…？",
+		"TextENG": "Are they looking for me after they noticed the sound...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63927,
+		"TextJPN": "ああぁくそ…、ぼたぼたというすごい音は、私がこぼしている汗が床を叩く音なのか？",
+		"TextENG": "Ah, shit... What is that sound I'm hearing? Is it my sweat dripping on the floor?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63928,
+		"TextJPN": "……うるさいうるさいうるさい…！",
+		"TextENG": "......Shut up, shut up, shut up...!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63929,
+		"TextJPN": "汗が落ちる音なんて聞こえるわけがないだろ…、@k落ち着けよ、@k落ち着け落ち着け、@k…落ち着けぇえぇえぇ…！！！",
+		"TextENG": "How could I hear the sound of my sweat?@k Calm down,@k calm down, calm down...@k Calm the fuck down...!!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63930,
+		"TextJPN": "誤解がないように補記しておくが、@k…もちろん、ここは鑑別所でも少年院でもない。",
+		"TextENG": "I have to clarify.@k This isn't a prison or a detention center."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63931,
+		"TextJPN": "学校法人の運営する私立学園だ。",
+		"TextENG": "It's a private school."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63932,
+		"TextJPN": "もちろん、ただの学校ではない。",
+		"TextENG": "Not a normal one, though."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63933,
+		"TextJPN": "入学金だけでも数百万。@k小学校から大学までの一貫教育でしかも全寮制。",
+		"TextENG": "It costs a fortune just to get in.@k It's a boarding school that provides education from elementary school to university."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63934,
+		"TextJPN": "その上、女子校と来たら…これはもう、学校というよりも、貞淑な温室野菜の生産工場というべきだ。",
+		"TextENG": "Being for girls only, rather than a school, you could say it's a factory that manufactures 'ladies.'"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63935,
+		"TextJPN": "なにしろ、クラスメイトの中には、公共の交通機関に乗ったことがないって本気で言ってるヤツもいるくらいだ。",
+		"TextENG": "Some of my classmates here have never even used public transportation."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63936,
+		"TextJPN": "…まったくもって普通じゃない。",
+		"TextENG": "...Really, it isn't normal."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63937,
+		"TextJPN": "まぁ、私にしてみれば、日々の挨拶が『こんにちは』じゃなくて『ご機嫌よう』ってだけでも十分に異常だし、@k先生のことをシスターと呼ぶのも、虫酸が走るくらいに異常だ。",
+		"TextENG": "To me, saying ``how nice to see you`` instead of just ``hi`` is already insane,@k and calling the teachers ``sisters`` gives me the creeps."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63938,
+		"TextJPN": "朝夕のお祈りだって面倒くさいし、日曜礼拝なんて大嫌いだ。",
+		"TextENG": "I hate the morning and evening prayers, to say nothing of the Sunday mass."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63939,
+		"TextJPN": "聖書の暗記なんかやってられないし、慈愛の精神なんて言葉は聞いただけでもジンマシンが出る！",
+		"TextENG": "I don't want to memorize the Bible passages, and the Holy Ghost gives me a rash."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63940,
+		"TextJPN": "こんな施設（私は学校と呼ばずにこう呼ぶ）に何年間も幽閉されたら、ふさぎこむかおかしくなるかの二つに一つしかない。",
+		"TextENG": "If I stayed in this institution (that's what I call the place) for many years, I'd either go crazy or be brainwashed."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63941,
+		"TextJPN": "ここに在籍するお嬢様どもはみな素直に洗脳を選ぶが、…斜な私はとてもそれは選べないのだ。",
+		"TextENG": "Most of the girls choose to be brainwashed, but... I can't do that."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63942,
+		"TextJPN": "…何しろ、聖書を読んでも、その裏の宗教戦略や布教のプロセス、信仰という名の商品の国際貿易機構に感嘆こそすれ、間違っても神様の愛に胸を打たれたりすることはない。",
+		"TextENG": "...After all, I was more impressed by the political schemes and international trade behind religious propagation than by the love of God which the Bible teaches."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63943,
+		"TextJPN": "そういう姿勢だからこそ、私は入学当初から問題児扱いだった。",
+		"TextENG": "Because of that, I'd been treated as a problematic child from the beginning."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63944,
+		"TextJPN": "…そういう扱いを受ければ、いろいろと不利益を被るのは誰にだってわかる。",
+		"TextENG": "...I experienced lots of disadvantages as a result."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63945,
+		"TextJPN": "もちろん、私もすぐそれに気付いたから、上辺は大人しく従うように演じ続けてきたのだ。",
+		"TextENG": "I realized that quickly, so I superficially pretended to be normal."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63946,
+		"TextJPN": "だが、いつの頃からそういう演技が退屈になってきて、地が出るようになっていた。",
+		"TextENG": "However, I got tired of acting, so I started to reveal my true self from time to time."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63947,
+		"TextJPN": "問題児再び。",
+		"TextENG": "I became a problematic child once again."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63948,
+		"TextJPN": "周りの態度も急激に硬化し始める。",
+		"TextENG": "People started to treat me differently once again."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63949,
+		"TextJPN": "斜な態度を取ることは、その場その場では確かに楽しい。",
+		"TextENG": "It's fun to misbehave."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63950,
+		"TextJPN": "…だが、トータルで見れば、何の得にもならないことは火を見るより明らかだ。",
+		"TextENG": "...But it wouldn't do anything for me in the long run."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63951,
+		"TextJPN": "…それなのになぜ私はこんな態度を？",
+		"TextENG": "...So, why did I act that way?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63952,
+		"TextJPN": "後々損をするとわかって、何でこんな無意味な態度を…？",
+		"TextENG": "Why, even though I knew it was going to backfire on me later on?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63953,
+		"TextJPN": "…冷静に自己分析を続けた結果、自分がすでにこの環境に限界を来していることを気付く。",
+		"TextENG": "......After examining my emotions, I realized that I'd completely had it with my surroundings."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63954,
+		"TextJPN": "私は、この緩慢な温室の中で飼い殺されることを何よりも恐れていたのだ。",
+		"TextENG": "I was afraid of being brainwashed in this institution."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63955,
+		"TextJPN": "こんなところは、私の生きて行けるところではない。",
+		"TextENG": "I can't live here."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63956,
+		"TextJPN": "こんなところで、私を殺されてたまるものかー！",
+		"TextENG": "I won't let them brainwash me!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63957,
+		"TextJPN": "この生活から抜け出そう、脱走しようと思い立ったのが、ちょうど半年前だった。",
+		"TextENG": "Six months ago, I decided to escape this place."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63958,
+		"TextJPN": "不思議なもので、脱走を生きる目的に掲げた途端に、私は生き生きとした生活を取り戻した。",
+		"TextENG": "The moment I made up my mind, I started to feel alive again."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63959,
+		"TextJPN": "シスターたちのマークを外すため、再び貞淑なフリを始めた。",
+		"TextENG": "I acted ladylike in order to deceive the sisters."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63960,
+		"TextJPN": "脱走という最終目的のための布石と思えば、このフリはたまらなく面白いものだった。",
+		"TextENG": "Pretending became fun once I'd set my goal."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63961,
+		"TextJPN": "シスターたちが、私が心を入れ替えて熱心に奉仕活動に励むのを見て、神様の御心のなせるワザがなんとやらとか言って、微笑みながら見守るのが、すっごく痒かったが。",
+		"TextENG": "It gave me the creeps when they told me with smiles that it was God's influence that I started to behave religiously."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63962,
+		"TextJPN": "私はそれらに背を向けて、こっそり舌を出しながら、ニヤリと笑っていた。",
+		"TextENG": "I laughed at them behind their backs."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63963,
+		"TextJPN": "学校敷地内のマップ、職員配置、警備体制をチェックするため、クラスメイトの奉仕活動や当番も率先して引き受けた。",
+		"TextENG": "I took on my classmates' duties in order to understand the layout of the school, and the schedules of the staff and guards."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63964,
+		"TextJPN": "…調べてすぐにわかったのだが、各界の要人のご令嬢を預かるこの学校の警備体制は厳重だ。",
+		"TextENG": "...I soon found out that the security of the school was immensely tight, because there were many daughters of important people living there."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63965,
+		"TextJPN": "警備会社の人間がランダムに巡回し、校内各所に仕掛けられた防犯カメラによる監視網は鉄壁だった。",
+		"TextENG": "The guards walked their beat randomly. There were surveillance cameras everywhere."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63966,
+		"TextJPN": "外部からの侵入者を警戒するこのシステムは、皮肉にも、私という脱走者を警戒するシステムとしても作用してしまっていたのだ。",
+		"TextENG": "The system that kept out intruders ironically also worked to prevent escapees."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63967,
+		"TextJPN": "だが、むしろそれは…私を大いに燃え上がらせた。",
+		"TextENG": "But... that excited me instead."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63968,
+		"TextJPN": "私は頭の中で何度となく監視網をくぐり抜けるシミュレーションを繰り返す。",
+		"TextENG": "I simulated how to avoid all the surveillance in my head many times."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63969,
+		"TextJPN": "授業中もノートの片隅に脱出経路を書き上げ、図上演習に徹した。",
+		"TextENG": "I drew an escape route in the corner of my notes during class and tested if it worked."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63970,
+		"TextJPN": "脱出に必要なスキルをピックアップし、その習得にも努めた。",
+		"TextENG": "I strove to acquire any necessary skills for the escape."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63971,
+		"TextJPN": "それらは全部が全部、とても面白かった。",
+		"TextENG": "It was all fun."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63972,
+		"TextJPN": "…つまり結局、私はこういうことにカタルシスを感じる女な訳だ。",
+		"TextENG": "...After all, the situation was cathartic for me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63973,
+		"TextJPN": "私は私。",
+		"TextENG": "That's who I am."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63974,
+		"TextJPN": "どう洗脳したって、私は私以外の人間にはならない。",
+		"TextENG": "No matter how hard they tried to brainwash me, I'd never change."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63975,
+		"TextJPN": "そして、心技体が共に最高点に達する時期をひたすらに探った。",
+		"TextENG": "I'd been waiting for the moment of my escape, preparing physically and mentally."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63976,
+		"TextJPN": "まず、脱走するための勇気、度胸。",
+		"TextENG": "First, I needed the courage to escape."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63977,
+		"TextJPN": "これは、成功の裏付けや自信があって初めて作られる。",
+		"TextENG": "I had to be confident of the plan."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63978,
+		"TextJPN": "私はそれを深めるため、なお一層、計画を煮詰めていった。",
+		"TextENG": "I had to think deeply about it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63979,
+		"TextJPN": "そして、技術や体力。",
+		"TextENG": "I also needed skills and physical strength."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63980,
+		"TextJPN": "…脱走経路の中で、突破せざるを得ないいくつかの障害を想定し、自身の基礎体力増強に努めた。",
+		"TextENG": "...I imagined all the possible obstacles and trained myself."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63981,
+		"TextJPN": "（面白いもので、そう割り切ると体育の授業もとても楽しいものだった。@k誰もがいやがる持久走すらも、楽しかったくらいだ）",
+		"TextENG": "(It was funny because I was finally able to enjoy gym classes,@k even the long-distance runs.)"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63982,
+		"TextJPN": "完璧な計画と、それを実行できる体力と技術。",
+		"TextENG": "I needed a perfect plan, as well as the physical strength and skills necessary to execute it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63983,
+		"TextJPN": "そして、それらに裏打ちされた揺るぎない覚悟。",
+		"TextENG": "Also, supported by those things, I needed determination."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63984,
+		"TextJPN": "それら全てが揃ったことを確認し、私はゆっくりと温めてきた脱走計画を実行に移すことにした。",
+		"TextENG": "I made sure that I had all I needed, and executed the plan."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63985,
+		"TextJPN": "私はＸデーを迎える前に、学校側にある種の爆弾を抱えさせることにしていた。",
+		"TextENG": "I decided to plant a seed in school before the appointed day."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63986,
+		"TextJPN": "その爆弾とはズバリ、校内に（わずかだが）いる男性教師の誰かが、一部生徒と密会を重ねている可能性を漂わせることだった。",
+		"TextENG": "The seed was a rumor that one of the male teachers was having a relationship with a student."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63987,
+		"TextJPN": "わざわざ説明しないが、この手の女子校では、それは致命的な問題になる。",
+		"TextENG": "I won't go into the details now, but that can turn into an enormous problem in this school."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63988,
+		"TextJPN": "…そもそも、そういうトラブルから遠ざけるための女子校だ。",
+		"TextENG": "......The school is limited to girls precisely because their parents want to avoid those kind of problems."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63989,
+		"TextJPN": "しかも、預けている親たちは皆、各界の要人ばかり…。",
+		"TextENG": "Those parents are mostly important people from various positions."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63990,
+		"TextJPN": "事実であり、かつ公になることがあれば…学長が首を吊るくらいでは済まされない。",
+		"TextENG": "If the romance was a fact and was leaked to the public, the principal would have to commit suicide in shame. In fact, even that might not be enough."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63991,
+		"TextJPN": "女の世界は小さな噂が大きく広がる。",
+		"TextENG": "In the world of girls, rumors spread fast."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63992,
+		"TextJPN": "ましてや、育ち盛りでそういうことへの興味が尽きないのに、男のいる環境から隔離された連中だ。",
+		"TextENG": "Especially when they're separated from boys and are obsessed with dirty thoughts."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63993,
+		"TextJPN": "この手の噂が駆けめぐるのはとにかく速かった。",
+		"TextENG": "So, this kind of rumor goes around really quickly."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63994,
+		"TextJPN": "シスターたちは、そういう噂の払拭にやっきになり、下らない噂に過敏にならないようにと警告していた。",
+		"TextENG": "The sisters try to get rid of that kind of rumor, and they warn the students not to be swayed by it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63995,
+		"TextJPN": "だが、一番過敏に反応していたのはほかならぬ学校側の方なのは、誰が見てもわかっていた。",
+		"TextENG": "But apparently, they're the ones who are most swayed by those rumors."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63996,
+		"TextJPN": "この爆弾を抱えさせることにより、学校は、何か不祥事が起こった時、警察や家庭に通報せず、内部で処理しようとする傾向に陥らすことができた。",
+		"TextENG": "This means that I managed to make them furtively deal with something shady, without contacting families or the authorities."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63997,
+		"TextJPN": "そして、この状況下で上手に私が失踪すると…、一部教師が私を連れて駆け落ちしたようにも見えるのだ。",
+		"TextENG": "So, if I disappeared in these circumstances, it'd look like I ran away with some teacher."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63998,
+		"TextJPN": "もちろん、男性教師たちは皆、口を揃えて否定するだろう。",
+		"TextENG": "All the male teachers would deny it, of course."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 63999,
+		"TextJPN": "もちろん学校側は簡単にはそれを信じない。",
+		"TextENG": "However, the school wouldn't believe what they said so easily."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64000,
+		"TextJPN": "…何しろ学校内に、不貞な密会の噂がすでに確認されているのだから。",
+		"TextENG": "...After all, there's a dirty rumor going around."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64001,
+		"TextJPN": "学校側が全ての可能性を潰しきり、私が単独で脱走したことにいつかは気付くだろうが、@kその頃には私は十二分な時間を得て、すでに彼方へ逃げ去っている…。",
+		"TextENG": "By the time the school finds out about my escape, after they eliminate all the other possibilities...@k I'll be somewhere safe..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64002,
+		"TextJPN": "私は噂を十分に浸透させ、さらに密会をしている生徒が私である可能性をうっすらと漂わせた。",
+		"TextENG": "I tried hard to spread the rumor that I was involved in the forbidden romance as widely as possible."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64003,
+		"TextJPN": "シスターに何度か問い詰められたが、何しろ密会話そのものがでっちあげなのだ。",
+		"TextENG": "The sisters questioned me a few times, but since the romance was something I'd made up, they couldn't find anything."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64004,
+		"TextJPN": "どう追及したって、アリバイこそあれ証拠など出て来ない。",
+		"TextENG": "No matter how hard they tried, they couldn't find any evidence."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64005,
+		"TextJPN": "私は、そういう特殊な土壌が十分に仕上がったことを、噂を流してから約３ヶ月目で確認した。",
+		"TextENG": "After three months, I was certain that I created a solid foundation."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64006,
+		"TextJPN": "そして私は、クラスメイトから夕食後の当番のいくつかを個人的に代り、Ｘデーの夜に死角となる時間が重なるよう調整した。",
+		"TextENG": "I swapped after-dinner duties with my classmates so that I could adjust my schedule on this day."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64007,
+		"TextJPN": "その晩だけ私と代わって欲しい…という頼み込みは、クラスメイトたちの心にほんのちょっとの不信感を植えつけることができる。",
+		"TextENG": "I was even able to fill them with suspicion about me by doing that."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64008,
+		"TextJPN": "この不信感の芽は、私が蒸発したあと、男性教師との駆け落ちという噂を生むための土壌になるのだ。",
+		"TextENG": "Now they'll definitely suspect I ran away with some male teacher."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64009,
+		"TextJPN": "そして、Ｘデーの夜が訪れた。",
+		"TextENG": "Tonight was the night."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64010,
+		"TextJPN": "私は食後のいくつかの当番のため、姿を消す。",
+		"TextENG": "I began my chores after dinner."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64011,
+		"TextJPN": "私の失踪が発覚するのは、おそらく消灯時間だろう。",
+		"TextENG": "After lights-out, somebody will find out about my disappearance."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64012,
+		"TextJPN": "寛大なルームメイトは、１０分くらいは待ってくれるだろうが、それ以上は待たずにシスターに通報する。",
+		"TextENG": "My generous roommate would probably wait about ten minutes before she reported me to a sister, but no longer than that."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64013,
+		"TextJPN": "私に許される時間は、長めに見積もっても１時間ちょっと。",
+		"TextENG": "I had about an hour tops."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64014,
+		"TextJPN": "それだけの時間があれば十分……！",
+		"TextENG": "But that's enough for me......!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64015,
+		"TextJPN": "いつもの決められた順路を一歩離れる。",
+		"TextENG": "I took a step off my regular route."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64016,
+		"TextJPN": "その一歩こそが、自由への大脱走劇の幕開けだった。",
+		"TextENG": "That was the first step toward my great escape."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64017,
+		"TextJPN": "冷静に冷静に考える…。",
+		"TextENG": "I calmed down and thought..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64018,
+		"TextJPN": "自分が持ってきたカギは間違いがないはず。",
+		"TextENG": "The key shouldn't be wrong."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64019,
+		"TextJPN": "…この錠前は少々古くて固い。",
+		"TextENG": "...This lock is old and firm."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64020,
+		"TextJPN": "ひょっとして、正解のカギを入れたけれども、固くて回せず、私がハズレのカギだと思い込んでしまっただけでは…？",
+		"TextENG": "Isn't it possible that I put the right one in, but the lock was just stiff, and I only thought I got the wrong one?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64021,
+		"TextJPN": "自分でも自覚しているが、今の私は少し緊張気味で、普段よりも不器用になっていると思う。",
+		"TextENG": "I realized that my nervousness was making me clumsy."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64022,
+		"TextJPN": "指紋を残さないためにしているこの軍手も、手先を不器用にしてしまっているに違いない。",
+		"TextENG": "The gloves that I'm wearing to avoid leaving fingerprints must be getting in the way, too."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64023,
+		"TextJPN": "…もう一度、冷静にトライしてみよう…。",
+		"TextENG": "......I should try the keys one more time..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64024,
+		"TextJPN": "…一番、そうだと思えるカギをもう一度鍵穴にさして…そぅっと…。",
+		"TextENG": "...I picked the most probable one, and gently inserted it into the keyhole..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64025,
+		"TextJPN": "…固い。",
+		"TextENG": "...It's stiff."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64026,
+		"TextJPN": "…無理にねじれば、カギの方が壊れてしまうのではと思った。",
+		"TextENG": "...If I twist it too strongly, I might break the key."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64027,
+		"TextJPN": "さすがに諦めようと思った瞬間、グリッとした手応え。@k…開いた！",
+		"TextENG": "The moment I thought of giving up, I felt something in my fingertips......@k The key worked!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64028,
+		"TextJPN": "扉を少し開く。",
+		"TextENG": "I slowly opened the door."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64029,
+		"TextJPN": "さっきから聞こえていた虫の音が、より大きくなって漏れ出してきた。",
+		"TextENG": "I could hear the crickets."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64030,
+		"TextJPN": "今さら躊躇する甘えなどない。@kそれでも、外へ出るのにわずかの戸惑いがあった。",
+		"TextENG": "I don't have to hesitate now,@k but somehow I'm reluctant to step outside."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64031,
+		"TextJPN": "少なくとも、今いるここまでは言い訳が効く。",
+		"TextENG": "I can still make excuses up to this point."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64032,
+		"TextJPN": "苦し紛れにせよ、何とか言い逃れが出来る。",
+		"TextENG": "It might look awkward, but I still can."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64033,
+		"TextJPN": "…だが、ここから先にはそういう甘えはない。",
+		"TextENG": "......But if I take a step outside now, there can be no excuse."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64034,
+		"TextJPN": "警備員たちが巡回し、見つかればたとえ生徒であっても事務室へ連行される。",
+		"TextENG": "If the guards find me, they'll take me to the office immediately."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64035,
+		"TextJPN": "過去にも脱走しようとした輩がいたらしい。",
+		"TextENG": "There have been escape attempts before."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64036,
+		"TextJPN": "…そりゃそうだ。",
+		"TextENG": "...That's not really so strange."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64037,
+		"TextJPN": "私だけが異端だとは思わない。",
+		"TextENG": "I don't think I'm the only heathen here."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64038,
+		"TextJPN": "私のように、この環境に適応できない人間が過去にもいたのは頷ける。",
+		"TextENG": "It's understandable that there have been people before who couldn't fit in this place."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64039,
+		"TextJPN": "だからこそ学校側は、生徒の脱走を、ありえる事態だとして認識していた。",
+		"TextENG": "So the school is well aware of the possibility of escapees."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64040,
+		"TextJPN": "…脱走を捕まった生徒の処遇は、……いくつかの噂を聞いているが、どれも信じたくない。",
+		"TextENG": "...I've heard rumors about what happened to those who were caught while attempting to escape. ...I don't want to believe any of those stories, though."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64041,
+		"TextJPN": "…この学校にまつわる怪談には、いつも脱走未遂の生徒が絡むからだ。",
+		"TextENG": "...You see, all the school's horror stories involved students who attempted escapes."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64042,
+		"TextJPN": "…くそったれ…、上等じゃないの…。",
+		"TextENG": "...Whatever... Bring it on..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64043,
+		"TextJPN": "私だって、ここでしくじったら、次のチャンスがあるなんて甘えるつもりはない。",
+		"TextENG": "I'm not expecting to get a second chance anyway."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64044,
+		"TextJPN": "…いつだってチャンスはたったの一回。",
+		"TextENG": "...There'll always be only one chance."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64045,
+		"TextJPN": "この扉から先こそが…正念場…！！",
+		"TextENG": "Things get serious beyond this door...!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64046,
+		"TextJPN": "自らを奮起し、…扉を押し開ける。",
+		"TextENG": "I psyched myself up and... pushed the door open."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64047,
+		"TextJPN": "外気は鮮烈な匂いがした。",
+		"TextENG": "A strong smell was hanging in the air."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64048,
+		"TextJPN": "普段嗅いでいる空気にこんなにも強烈な匂いがあったっけ…？",
+		"TextENG": "Is that normal for the outside?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64049,
+		"TextJPN": "こんな、むわっとするような青臭い匂いを嗅いだことはなかった。",
+		"TextENG": "I'd never smelled this strong grassy smell before."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64050,
+		"TextJPN": "何か普段と違う事態が発生している…？",
+		"TextENG": "Is there something going on...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64051,
+		"TextJPN": "注意した方がいい？",
+		"TextENG": "Do I have to be wary of it?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64052,
+		"TextJPN": "今夜は大人しくカギを返してチャンスを改めた方がいい…？",
+		"TextENG": "Should I go back and wait for another chance...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64053,
+		"TextJPN": "…馬鹿をいうな。",
+		"TextENG": "......That's silly."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64054,
+		"TextJPN": "何も普段と変わる事などない。",
+		"TextENG": "There's nothing strange going on."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64055,
+		"TextJPN": "これはいつも嗅いでいる空気の匂い。",
+		"TextENG": "This smell is something I smell every day."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64056,
+		"TextJPN": "…私が普段、気にも止めないいつもの外気の匂い。",
+		"TextENG": "...I just wasn't aware of it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64057,
+		"TextJPN": "つまりはそういうこと。",
+		"TextENG": "It's true, isn't it?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64058,
+		"TextJPN": "冷静沈着を気取る私にも、人並みに焦ったり緊張したりする心があるわけだ…。",
+		"TextENG": "Even though I pretend to be cool, I'm nothing but a nervous wreck..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64059,
+		"TextJPN": "…落ち着け、自分。@k…落ち着け、詩音…！",
+		"TextENG": "...Calm down...@k Calm down, Shion...!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64060,
+		"TextJPN": "ここからは頭の中にある地図だけが武器だ。",
+		"TextENG": "I can rely only on the map inside my head from this point onward."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64061,
+		"TextJPN": "監視カメラの位置は今日までに全て探った。",
+		"TextENG": "I'd researched the locations of all the surveillance cameras."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64062,
+		"TextJPN": "…それらを欺く自信はあるが、一番問題なのはカメラじゃない。@k警備員だ。",
+		"TextENG": "...I'm confident that I'll be able to avoid all of them,@k but I'm not sure about the guards."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64063,
+		"TextJPN": "警備員の巡視時間と巡視ルートは完全にランダムで、読みきれない。",
+		"TextENG": "They pick their patrol routes randomly, after all."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64064,
+		"TextJPN": "本当の意味での出たとこ勝負。",
+		"TextENG": "I have to take a chance."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64065,
+		"TextJPN": "身を隠せる場所はまだいい。",
+		"TextENG": "I can hide myself in most places..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64066,
+		"TextJPN": "だが、どうしてもやり過ごせない危険地帯が約数十メートルある。",
+		"TextENG": "But there's an area where there's nowhere to hide for several meters."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64067,
+		"TextJPN": "精神を研ぎ澄まし、五感を鋭くする。",
+		"TextENG": "I concentrated to keep my senses keen."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64068,
+		"TextJPN": "…ま、何だかんだと言ったって、結局のところ最後は運だ。",
+		"TextENG": "......Well, I have to depend on my luck in the end."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64069,
+		"TextJPN": "どんなに私がベストを尽くしても、ちょっと巡り合わせが悪ければアウト。",
+		"TextENG": "Even if I do my best, the guard might find me by mere chance."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64070,
+		"TextJPN": "逆に、私がどんないい加減な計画で動いたとしても、運が良ければ何でもＯＫになるということでもある。",
+		"TextENG": "On the contrary, I might be able to get away no matter how unwisely I choose to move, if I'm lucky."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64071,
+		"TextJPN": "…ちぇ、私が今日まで積み重ねてきた努力なんて、そんな程度のもんだとはね。",
+		"TextENG": "......Damn. After all that effort, it just boils down to luck?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64072,
+		"TextJPN": "あはは、こういうのをギャンブルって言うんだろうな。",
+		"TextENG": "Aha ha. This is a gamble after all."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64073,
+		"TextJPN": "自分の行為が博打だと気付くと、何だか緊張の奥底からわくわくする気持ちがこみ上げて来た。",
+		"TextENG": "When I realized that, I got excited."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64074,
+		"TextJPN": "そうさ、これはギャンブル。@k運試し。",
+		"TextENG": "Yes, this is a gamble.@k I'm trying my luck."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64075,
+		"TextJPN": "私、園崎詩音が、自分の意思で生活を一変させようとするこの決意を占う、運試しなのだ。",
+		"TextENG": "This is a game to test the determination to change my life."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64076,
+		"TextJPN": "この程度の学校から抜け出すのに、失敗して捕まってしまう程度の運気なら、仮に自由の身になれたとしても、ろくな未来などあるものか。",
+		"TextENG": "If somebody failed to escape from this school, that meant they didn't have enough luck to survive in the real world."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64077,
+		"TextJPN": "私は違う。",
+		"TextENG": "But I'm different."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64078,
+		"TextJPN": "ここから踏み出す。@k私自身の運気を試してやる。@kさぁ…行くぞ、詩音！",
+		"TextENG": "I'm going to get out of here.@k I'm testing my luck.@k Here goes, Shion!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64079,
+		"TextJPN": "うるさい虫どもの声だけを選別消去して、不審な音だけを抽出する。",
+		"TextENG": "I ignored the noisy bugs and concentrated only on suspicious sounds."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64080,
+		"TextJPN": "…気配、ゼロ。@k…一番うるさいのは虫の声より自分の心音。",
+		"TextENG": "......I heard no threats...@k ...The loudest sound wasn't the bugs--it was my own heartbeat."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64081,
+		"TextJPN": "じゃり。",
+		"TextENG": "Crunch."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64082,
+		"TextJPN": "…自分の足音すら、やかましくて鼓膜が破れそうだった…。",
+		"TextENG": "...Even my own footsteps were so loud they could break my eardrums..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64083,
+		"TextJPN": "一歩、歩くごとに私の想像力たくましきお頭は、警備員との予期せぬ遭遇を予感させて苛んだ。",
+		"TextENG": "With each and every step, my overactive imagination tormented me with premonitions of unexpected run-ins with guards."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64084,
+		"TextJPN": "その責め苦に耐え切れなくなり、走り出そうと何度思ったことか。@k…だが、無様に走れば不穏な騒音を掻き立てるだけだ。",
+		"TextENG": "Countless times that torture grew too hard to bear, and I thought of running.@k ...But if I broke into a run, the noise I made would only draw suspicion."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64085,
+		"TextJPN": "人がいてはいけない場所、時間帯に走る音が聞こえれば、誰だって何か異常な事態だと勘付く。",
+		"TextENG": "If anyone heard running at a time and place where people shouldn't be, they would realize something abnormal was happening."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64086,
+		"TextJPN": "仮に聞かれたとしたって、ただ歩く音なら、まだしも疑問には思わない。",
+		"TextENG": "But if the footsteps they heard were just walking, then they'd likely think nothing of it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64087,
+		"TextJPN": "もちろん私は、その歩く音すら聞かせるつもりはなかった。",
+		"TextENG": "Of course, I don't plan on even letting them hear those footsteps."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64088,
+		"TextJPN": "五感を研ぎ澄まし、視界に収まる以上の情報を採取することに努めた。",
+		"TextENG": "I tried to extend my senses to get as much information as possible."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64089,
+		"TextJPN": "だが、いくら耳を澄ませても、何の気配も感じられなかった。",
+		"TextENG": "I didn't sense anyone's presence."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64090,
+		"TextJPN": "…せめて、どこか遠くにいる警備員の気配でも感じられた方が、まだ安心できたかもしれない。",
+		"TextENG": "......I might have felt safer if I heard a guard in the distance."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64091,
+		"TextJPN": "何も聞こえないということは、周囲が安全であると教えるよりも、自分のセンサーがこの上なく鈍感で、頼りないものなのではないかと不安がらせる方が強かったからだ。",
+		"TextENG": "I'm worried that my senses might not be keen enough to detect everything."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64092,
+		"TextJPN": "実はすぐ近くに誰かいて、…間抜けにも私がそれに気付いていないだけなのでは…。",
+		"TextENG": "Somebody might be right behind me... without me being aware of it..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64093,
+		"TextJPN": "そう思うと、自分の足音さえ消したくて、時に歩みを止めたりもした。",
+		"TextENG": "I didn't want to make any noise, so I stopped from time to time."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64094,
+		"TextJPN": "…これじゃ、足がすくんでいるのと変わらない…。",
+		"TextENG": "...It's like I'm constantly fidgeting..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64095,
+		"TextJPN": "立ち止まるか、走り出すか。@kそのどちらかを内側の自分が強要してくる。",
+		"TextENG": "To stop or to run...@k something within urged me to choose from either one."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64096,
+		"TextJPN": "もちろん立ち止まっては駄目だ。",
+		"TextENG": "I can't choose to stop."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64097,
+		"TextJPN": "慎重に、だけれども迅速に進まなければ何の意味もない。",
+		"TextENG": "I have to keep going quickly and stealthily."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64098,
+		"TextJPN": "…私は、ここに居続けるだけでも、常にリスクを累積しているのだから。",
+		"TextENG": "...I'm already risking so much just by being here."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64099,
+		"TextJPN": "そして走り出すことは愚の骨頂。",
+		"TextENG": "Running, of course, would be absurd."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64100,
+		"TextJPN": "…あぁ、そんなことはわかっているのに…！@k　走り出したくなる衝動を抑えるのが…苦しい。",
+		"TextENG": "...Ah, I know that......!@k The urge to run continued to bug me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64101,
+		"TextJPN": "ほんの数十メートルの危険地帯を抜けるまで、私はずっと、それらのことで頭をいっぱいにしていた。",
+		"TextENG": "My head was filled with those thoughts as I went through this dangerous territory."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64102,
+		"TextJPN": "やがて、誰の気配も感じず、もちろん誰にも出くわすことがなく、抜け切ったことを知った時。",
+		"TextENG": "I succeed in passing through without running into anybody."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64103,
+		"TextJPN": "…私はその場にしゃがみ込んで、肺いっぱいに溜まった、腐った空気を吐き出さずにはいられなかった。",
+		"TextENG": "...I couldn't help but sit for a moment and exhale the rotten air from my lungs."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64104,
+		"TextJPN": "……ネガティブな感情が一気に引っ込む。",
+		"TextENG": "......My negative thoughts vanished quickly."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64105,
+		"TextJPN": "…もう一息だ。@k…もう一息！",
+		"TextENG": "......Just a little more to go.@k ...Just a little more!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64106,
+		"TextJPN": "そこの茂みを抜ければ、そこは外界と敷地を隔てる柵だ。",
+		"TextENG": "Just through that bush over there is the fence that separates this place and the outside world."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64107,
+		"TextJPN": "今にも走り出したい衝動は、どんどん強くなる。",
+		"TextENG": "Once again, I strongly felt the urge to run."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64108,
+		"TextJPN": "…私はそれを理性でぐっと抑えこみながら、慎重に最後の関門に臨んだ……。",
+		"TextENG": "...I suppressed that desire and carefully tackled the final step......"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64109,
+		"TextJPN": "学園の敷地を囲む洋風な柵は、美観上は優秀だったが、防犯上はそれほど優秀ではないようだった。",
+		"TextENG": "The beautiful-looking fence didn't seem designed to prevent escapes."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64110,
+		"TextJPN": "柵をよじ登るという、無防備な姿を発見されやしないかとずっとびくびくしていたが、幸いにもそれはなかった。",
+		"TextENG": "While I was worried that somebody might see me climbing up the fence, it fortunately didn't happen."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64111,
+		"TextJPN": "この柵に、接触感知の警報装置があるかもしれないという、妄想にも苛まれた。",
+		"TextENG": "It's even possible that this fence might have a touch sensor."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64112,
+		"TextJPN": "…だが、もう遅い。",
+		"TextENG": "...It's too late now."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64113,
+		"TextJPN": "こうしてよじ登っている今、そんな妄想に心を許すことそのものに意味がない。",
+		"TextENG": "It doesn't mean anything now, since I'm already climbing up."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64114,
+		"TextJPN": "柵のてっぺんから地面までは、２ｍはあったかもしれない。",
+		"TextENG": "From the top, the fence seemed about seven feet high."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64115,
+		"TextJPN": "慎重に登ったんだから、下りるときも慎重に。",
+		"TextENG": "I have to go down carefully, just like when I climbed up."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64116,
+		"TextJPN": "…理屈ではそうだったが、そこが私の理性の限界だった。",
+		"TextENG": "......I knew that logically, but I couldn't think that way anymore."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64117,
+		"TextJPN": "私は臆すことなく、その高さから飛び降りることを選ぶ。",
+		"TextENG": "I chose to jump off with no hesitation."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64118,
+		"TextJPN": "もちろん、自由落下に身を任せてから少しは後悔した。",
+		"TextENG": "Of course, I regretted my decision during the fall."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64119,
+		"TextJPN": "落下時特有の、ふわっとした感覚が、自分が予想したよりもずっと長かったので、落下しながら怖くなった。",
+		"TextENG": "I got scared because the flight was longer than I expected."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64120,
+		"TextJPN": "綺麗に着地できず、尻餅を付く。",
+		"TextENG": "I didn't land beautifully. I fell onto my butt."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64121,
+		"TextJPN": "だが、誰も笑う人はいないし、私だってそんなことに照れ笑いをするゆとりなんかなかった。",
+		"TextENG": "But there was nobody around to laugh, and I didn't have time to be embarrassed."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64122,
+		"TextJPN": "私が飛び降りた時に出した、最後の轟音が誰かの興味を引かなかったか、周囲を見回して探る。",
+		"TextENG": "I looked around to see if anybody heard my landing."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64123,
+		"TextJPN": "そして、合唱を続ける虫たちすら、そんな音には関心を示していないことを知り、私はようやく胸を撫で下ろすのだった…。",
+		"TextENG": "Even the crickets weren't interested in the sound I made. I felt relieved..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64124,
+		"TextJPN": "腕時計を見る。",
+		"TextENG": "I looked at my watch."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64125,
+		"TextJPN": "時間は…２０時５分前。",
+		"TextENG": "...Five minutes till 8 PM."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64126,
+		"TextJPN": "…わずか１５分ちょいの脱走劇だった。",
+		"TextENG": "...It was just a fifteen-minute escape."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64127,
+		"TextJPN": "数字に直すと、いかに短い時間だったかがわかる。",
+		"TextENG": "Putting a number to it really made it obvious how short it had been."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64128,
+		"TextJPN": "この１５分間にしたことを振り返れば、…一番占めているのは多分、あれこれと自問自答する躊躇の時間だったように思う。",
+		"TextENG": "Looking back, most of the time I was just asking myself questions and hesitating."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64129,
+		"TextJPN": "…取り越し苦労って言うんだろうな。",
+		"TextENG": "......I guess I worried too much."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64130,
+		"TextJPN": "だがまだ気を許してはいけない。",
+		"TextENG": "But I can't be too relaxed just yet."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64131,
+		"TextJPN": "私が監視カメラを全て欺けた保証はないのだ。",
+		"TextENG": "There's no guarantee that I fooled all the cameras."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64132,
+		"TextJPN": "別にここは銀行とかではない。",
+		"TextENG": "This place isn't a bank."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64133,
+		"TextJPN": "私の影を仮に警備員が認めたとしても、防犯ベルが鳴り響く訳じゃない。",
+		"TextENG": "There won't be a fire alarm going off even if the guards did see me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64134,
+		"TextJPN": "私がこうしてのんびりしている間にも、警備員たちがすぐそこまで来ているかもしれない。",
+		"TextENG": "It's possible they're rushing this way right now."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64135,
+		"TextJPN": "自由の空気を胸いっぱいに吸い込むには、まだちょっと早いのだ。",
+		"TextENG": "I can't enjoy the air of freedom yet."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64136,
+		"TextJPN": "それから、暗がりに身を隠し、時間を待った。",
+		"TextENG": "I hid myself in the darkness and waited."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 64137,
+		"TextJPN": "予め決められた時間まで、あと少しだった。",
+		"TextENG": "There's still time left until the rendezvous."
+	}
+]

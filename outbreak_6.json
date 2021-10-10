@@ -1,1354 +1,1352 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "#6",
-            "ENG": "#6"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153735,
-            "TextJPN": "深夜。お袋がやって来た。手には封筒が握られていた。",
-            "TextENG": "Late at night. My mom comes to me. She has an envelope grasped in her hand."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153736,
-            "NamesJPN": "圭一の母",
-            "PreTextTags": "@vS24/00/NKMO_0030.",
-            "TextJPN": "「圭一…。今ね、圭一宛の手紙が来たのよ」",
-            "NamesENG": "Keiichi's mom",
-            "TextENG": "``Keiichi... Just now, a letter came addressed to you.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153737,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS24/01/NKEI_0280.",
-            "TextJPN": "「手紙？　俺宛…？！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``A letter? Addressed to me...?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153738,
-            "TextJPN": "それをお袋から引っ手繰る。そこには、“圭ちゃんへ、魅音より”と記されていた。",
-            "TextENG": "I took it from my mom. It is labeled, ``To Kei-chan, from Mion``."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153739,
-            "TextJPN": "こんな真っ暗な時間に何だろう。お袋が言うには、チャイムがあり、玄関へ行ってみたら扉の隙間に差し込まれていたのだと言う。",
-            "TextENG": "I wonder why she did this when it's completely dark outside. My mom said, there was a chime, and when she went to the front door it was inserted through the gap."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153740,
-            "TextJPN": "家までわざわざ来たなら上がっていけばいいのに。……それを避けて、手紙だけ置いていくというやり方に、一抹の不安感を覚えずにはいられない。",
-            "TextENG": "I guess she would have got nervous if she came to my house personally. ......So to avoid that, she left the letter in such a manner, although I can't help but feel a sense of uncertainty."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153741,
-            "TextJPN": "でも、最近の村を取り巻く異常さを思えば、魅音が慎重に連絡を取ろうとするのも何となく頷けた。",
-            "TextENG": "But, remembering the certain anomalies surrounding the village recently, I can think of this as Mion trying to carefully contact me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153742,
-            "TextJPN": "土着のウィルスがどうのこうの、オヤシロさまのお怒りがどうのこうの、という話はいつも最後には、引っ越してきた外様の家への疑いの目で締めくくられる。それを前原家も痛いぐらいに最近は理解していた。",
-            "TextENG": "An indigenous virus, the anger of Oyashiro-sama, the current talk of the village, all which concludes to suspicion of the new families that have moved in. I only recently understood that the Maebara family was one of them, set to be hurt."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153743,
-            "TextJPN": "園崎家の魅音と言えど、白昼堂々と前原家に接触できないような、そういう状況になってしまっているということを、この封筒を開けずとも理解できた。",
-            "TextENG": "Even Mion of the Sonozaki family cannot come into contact with one of the Maebara family in broad daylight, so we have to turn to such a situation, but I won't be able to fully understand without opening the envelope."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153744,
-            "TextJPN": "そして、その中身はそれでもなお現状認識が甘いことを鋭く教えてくれた。",
-            "TextENG": "And its contents should allow me to fully recognize our current situation."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153745,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0430.",
-            "TextJPN": "「圭ちゃんへ。気をつけて！　ウチの町会内で、前原家と竜宮家を槍玉に挙げようという意見が強くなってる。もう本当に馬鹿げてることだけれども、彼らは誰かを生贄にあげないと恐怖感に押しつぶされてしまうところまで追い詰められている」",
-            "NamesENG": "Mion",
-            "TextENG": "``To Kei-chan. Be careful! The neighborhood association are strongly considering making an example of the Maebara and Ryuugu families. This stupid idea is really getting out of hand, they're cornered and crushed by fear seeing a sacrifice as the only option.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153746,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0440.",
-            "TextJPN": "「そんなことしたって何の解決にもならないって反論できたのは最初の内だけ」",
-            "NamesENG": "Mion",
-            "TextENG": "``In the beginning, I was able to argue that it wouldn't solve anything."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153747,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0450.",
-            "TextJPN": "「数日前からそうであるように、少しでも反論すると、感染者を庇うのはお前も感染者だからだろうなんておかしな論法になっちゃって、誰もストップがかけられない！」",
-            "NamesENG": "Mion",
-            "TextENG": "But for the past few days, if you even try to argue with them, their reasoning becomes strange and they say you're only trying to protect infected people because you too are infected, the talk of lynching has seriously gotten out of hand!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153748,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0460.",
-            "TextJPN": "「ウィルス派とオヤシロさまの崇り派が互角だった内は、双方が支離滅裂な論争をするだけだったから良かったんだけど、最近、オヤシロさまの崇り派が伸してきてね。全体をリードするようになりつつある」",
-            "NamesENG": "Mion",
-            "TextENG": "``But the faction for the curse of Oyashiro-sama and the faction for the virus are equally matched, I'm glad both sides are in nothing but incoherent debates, Although recently, the faction for the curse of Oyashiro-sama has expanded. It seems they'll soon lead the whole village.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153749,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0470.",
-            "TextJPN": "「婆っちゃが元気だったならこんな暴走は許さないんだけど、実は数日前に高熱を出しちゃって起き上がることもできないんだよ」",
-            "NamesENG": "Mion",
-            "TextENG": "``If my grandma were healthy, I'm pretty sure she wouldn't have allowed any of this to happen, but a few days ago, she came down with a high fever and can't sit up.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153750,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0480.",
-            "TextJPN": "「一部の親類はそれを感染ではないかと吹聴していて、私の発言力もすでに危うい。いや、私自身、下手をすれば生贄にされかねないよ！　そんな立場の私には、これ以上、圭ちゃんやレナの家を庇う発言は難しい」",
-            "NamesENG": "Mion",
-            "TextENG": "``Some of my relatives are even spreading rumors that she may have become infected herself, and my influential voice was already in danger. No, even if I mess up, they wouldn't hesitate to consider me a sacrifice! For me to be in such a situation, no longer I can protect Kei-chan or Rena's family.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153751,
-            "TextJPN": "……魅音の、文字が次第に焦り気味になり歪み始めるのがわかる。どんな心境でこれを記したのか、その胸の内を聞かずとも理解できた。",
-            "TextENG": "......Mion, from this letter I am beginning to understand how impatient and strained you are feeling. To even wonder what state of mind you wrote this in, I'm glad I was able to understand."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153752,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0490.",
-            "TextJPN": "「これ以上、雛見沢に留まることは危険だと思う。少なくともこのまま自宅に閉じこもっていれば私たちはいずれ必ず殺される！　だから明日の夜に村から脱出しようと思う」",
-            "NamesENG": "Mion",
-            "TextENG": "``We can't stay here, it's too dangerous to remain in Hinamizawa. If we hold up in our homes any longer we'll be killed as it is! For this reason, I think we should escape from the village tomorrow night.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153753,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0500.",
-            "TextJPN": "「周囲は自衛隊に封鎖されているけど、園崎家は秘密のトンネルを持っていて、その内のひとつが封鎖線の外に出口を持ってるの。このトンネルは私と婆っちゃしか知らない」",
-            "NamesENG": "Mion",
-            "TextENG": "``Although the area is blocked off by the Self-Defense Forces, the Sonozaki family have a few secret tunnels, one of them leading beyond the blockade lines. Only grandma and I know about that one.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153754,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0510.",
-            "TextJPN": "「婆っちゃの回復を待ちたかったけど、もう無理みたい…。さっき婆っちゃに、自分を置いて逃げろと言われたところ…」",
-            "NamesENG": "Mion",
-            "TextENG": "``I wanted to wait until my grandma recovered, but that idea's already impossible... My grandma said a while ago, that I should go and escape by myself...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153755,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0520.",
-            "TextJPN": "「……婆っちゃはこの事態は、古代の伝承の、鬼ヶ淵の沼より鬼があふれ出し～の再来だと言ってる。今に村人たちに鬼が取り憑き、村人が村人を殺し出す地獄絵図になると！」",
-            "NamesENG": "Mion",
-            "TextENG": "``......Grandma says that this situation is exactly like the old legend. She calls it the second coming of the demons overflowing from Onigafuchi swamp. Where the demons will now possesses the villagers, turning this place into a picture of hell where everyone wants to kill each other!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153756,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0530.",
-            "TextJPN": "「伝承ではオヤシロさまがそれを治めてくれるんだけど、治めてくれるまでの間、血みどろの争いが繰り返され、大勢の死者が出たと伝承に残している！」",
-            "NamesENG": "Mion",
-            "TextENG": "``And just like Oyashiro-sama in the old legends, during his period of reign, a bloody battle will be repeated, leaving behind it a large number of dead!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153757,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0535.",
-            "TextJPN": "「私　た　ち　は　殺　さ　れ　る　よ　！」",
-            "NamesENG": "Mion",
-            "TextENG": "``W e a r e a l l g o i n g t o d i e !``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153758,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0540.",
-            "TextJPN": "「それで本題。今夜中に圭ちゃんの家族に話して準備をさせて。明日の夜、迎えに行くからみんなで脱出しよう。持ち物は現金、保険証や通帳、印鑑類。あと、重過ぎない範囲でリュックサックに着替えや日用品を詰め込んで。手荷物は厳禁！」",
-            "NamesENG": "Mion",
-            "TextENG": "``Onto the main subject. Talk to your family tonight, Kei-chan, and have them prepare to leave. Tomorrow night, I'm coming to pick you up and we're all going to escape together. Take personal belongings, cash, insurance cards, bankbooks, and a seal stamp. Followed by, a change of clothes and daily necessities, but make sure they won't be too heavy. Hand luggage is strictly prohibited!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153759,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0550.",
-            "TextJPN": "「絶対に両手は空けること。靴はスニーカー等の履きなれた歩きやすい物！　同じ手紙はレナにも送ってある」",
-            "NamesENG": "Mion",
-            "TextENG": "``Make sure both of your hands are free. And also make sure to wear sneakers or shoes you're used to and are easy to walk in! I've sent the same letter to Rena."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153760,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0560.",
-            "TextJPN": "「……圭ちゃんにはあまりに突拍子もないことで、多分現実感が伴わないと思う」",
-            "NamesENG": "Mion",
-            "TextENG": "......I know this all sounds crazy, Kei-chan, and without a doubt not in the realms of reality.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153761,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0570.",
-            "TextJPN": "「…でも信じて！　私は御三家の集まりや町会の会合、そして無線で情報を集めていたからこの村を取り巻く異常さがどれほどおかしいかよくわかってる！！」",
-            "NamesENG": "Mion",
-            "TextENG": "``...But believe me! The neighborhood association and a group from the big three will be meeting, and they'll be discussing all the anomalies surrounding this village they collected by radio no matter how strange they are!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153762,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0580.",
-            "TextJPN": "「私と同じ危機感を持って！　圭ちゃんが私を信じて全ての行動を共にしてくれても、私は自分と圭ちゃん、レナ、その家族が全員無事で雛見沢を脱出できる確率は１０％なら高い方と見積もってる」",
-            "NamesENG": "Mion",
-            "TextENG": "``I hope you sense the impending danger as I do! Believe me, Kei-chan, we all have to act together - you, myself and Rena. But even if we do, I estimate the probability of our chances at escaping Hinamizawa unharmed to be around 10％.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153763,
-            "TextJPN": "魅音の手紙はそこで終わりだった。",
-            "TextENG": "Mion's letter ends there."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153764,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS24/01/NKEI_0290.",
-            "TextJPN": "「な、……何なんだよこれはッ…！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Is... Is this for real...!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153765,
-            "TextJPN": "飲み込めない事態の大きさに両手で頭を抱える。だが魅音はそれを見越した上で、自分を信じてくれとこの手紙に託している…！",
-            "TextENG": "I place both of my hands on my forehead in an attempt to try and swallow this situation. However, I'm pretty sure Mion anticipated my reaction, but she entrusted this letter to me, I have to believe in her...!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153766,
-            "TextJPN": "３つも深呼吸をすれば、魅音の言っている異常事態が決して的外れでないことは理解できた。最近の雛見沢を包む空気の澱み方を思えば決しておかしな話ではなかった。ここに書いてあるのは紛れもない事実なのだ…！",
-            "TextENG": "If I take three deep breaths, I should be able to understand this abnormal situation without misinterpreting anything Mion said. No matter what I think of the stagnated air that now surrounds Hinamizawa, this isn't a joke. It's written as an obvious fact of life...!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153767,
-            "TextJPN": "そして同時に、沙都子はという不安感も持った。",
-            "TextENG": "At the same time, I'm pretty sure Satoko is having the same feelings of anxiety I am."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153768,
-            "TextJPN": "自衛隊に収容された梨花ちゃんはともかく、ひとり村に残されている沙都子についてが、この手紙には一言も出てこない。出てくるのは俺とレナの名だけだ。",
-            "TextENG": "Aside from Rika-chan being held by the Self-Defense Forces, Satoko has been left all alone in the village by herself, and there isn't even a single mention of her in this letter. The only names that come up are Rena's and mine."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153769,
-            "TextJPN": "……魅音が部活メンバーのことを忘れるわけがない。沙都子のことを書き漏らすわけはないのに！　何でだ？！　嫌な想像が次々と襲い掛かり俺を窒息させようとした。",
-            "TextENG": "......Mion can't forget the other club members. We can't leave without Satoko! What is this?! Terrible thoughts are hitting my imagination trying to suffocate me one after another."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153770,
-            "TextJPN": "そうだ、魅音は言ってた。沙都子を生贄に捧げればオヤシロさまの怒りが鎮まるとか本気で思ってる連中がいると言っていた。",
-            "TextENG": "Yes, it's what Mion said. She told me that there was a group of people who truly believed the wrath of Oyashiro-sama could be subsided through a sacrifice."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153771,
-            "TextJPN": "まさか、……沙都子……？！",
-            "TextENG": "Could it be...... Satoko?!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153772,
-            "TextJPN": "がばっと立ち上がった時、本棚の脇に立てかけてあった金属バットが倒れて俺の足下に転がった。",
-            "TextENG": "When I stood up, the metal bat leaned beside my bookshelf fell down and rolled to my feet."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153773,
-            "TextJPN": "まるで、自分も連れて行ってくれというかのように。",
-            "TextENG": "I quickly began to mumble to myself about the possibility."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153774,
-            "TextJPN": "…その時、銃声を聞いた。",
-            "TextENG": "...Then, I heard a gunshot."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153775,
-            "TextJPN": "平穏な普段なら、子供がふざけて鳴らした爆竹かロケット花火だとでも思うだろう。だが、こんな異常状況下だからこそ、俺は平和ボケした勘違いなどしなかった。",
-            "TextENG": "Things are mostly peaceful around here, so I would usually think it would be children playing with fireworks or firecrackers. But, precisely because I'm in this abnormal situation, I did not allow myself to take this as a misunderstanding becoming senile with peace."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153776,
-            "TextJPN": "カーテンを開け、夜の闇に目を凝らすと、再び銃声を聞いた。音はさっきより近い気がした。それに混じり何を言っているのかわからない怒号も聞こえた気がした。",
-            "TextENG": "When I opened the curtains, I squinted into the darkness of the night, and heard another gunshot. It sounds closer than the previous. It feels like a roar I've never known about, I don't want to hear it again."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153777,
-            "TextJPN": "突然、連打されるチャイム音！",
-            "TextENG": "Suddenly, a chime sound begins to ring repeatedly!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153778,
-            "TextJPN": "ピンポン、ピンポン、ピンポン、ピンポン、ピンポン！！",
-            "TextENG": "Ding dong, ding dong, ding dong, ding dong, ding dong!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153779,
-            "TextJPN": "俺の頭の中から不要なノイズが全て消え去りクリアになる。",
-            "TextENG": "That unwanted noise in my head quickly becomes clear."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153780,
-            "TextJPN": "呼吸の必要すらなくなった気がして、その真空状態の中、足下に転がる金属バットを拾うと玄関へ駆け下りていった。",
-            "TextENG": "I can't even feel the need to breath, it's like I'm in a vacuum. I grab the metal bat which rolled to my feet and run down the stairs to the entrance."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153781,
-            "TextJPN": "玄関前には、怯えるお袋と、台所から包丁を持って駆けて来る親父の姿があった。",
-            "TextENG": "In front of the entrance, I can see my mom frightened, and my dad running over with a knife he got from the kitchen."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153782,
-            "TextJPN": "……このような物騒な対応をする親父を、ついさっきまで異常だと思っていたが、今の瞬間に限ってだけは逆に、状況を適切に理解できていると思った。",
-            "TextENG": "......For my dad to give such a dangerous response, and I know something abnormal just happened. But he's the complete opposite of what he was a moment ago, I thought he would have been properly able to understand a situation like this."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153783,
-            "TextJPN": "お袋が扉を開けてもいいものかと親父の様子をうかがう。親父は下がっていろとお袋を下がらせる。",
-            "TextENG": "I watch the state of my mom and dad as they consider whether to open the door or not. Not long after, they both choose to stand back."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153784,
-            "TextJPN": "チャイムは門のところのボタンを押したものだ。その押した人物は、そのまま門内に入り今や扉の前にまで至っているようだった。",
-            "TextENG": "The chime is something you push at the front of the gate. That person must have pushed it, so they should have already entered through the gate and come up to the door by now."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153785,
-            "TextJPN": "そして、ダンダンダンダンダンダン！　と激しいノック！！",
-            "TextENG": "Suddenly, thud, thud, thud, thud, thud, thud! Someone is knocking intensely at the door!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153786,
-            "NamesJPN": "圭一の父",
-            "PreTextTags": "@vS24/00/NKFA_0060.",
-            "TextJPN": "「だ、誰ですか！！」",
-            "NamesENG": "Keiichi's dad",
-            "TextENG": "``Who... Who is it!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153787,
-            "TextJPN": "親父が叫ぶ。返事はすぐにあった。",
-            "TextENG": "My father cries. The reply was immediate."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153788,
-            "NamesJPN": "声",
-            "PreTextTags": "@vS24/02/NREN_0180.",
-            "TextJPN": "「こんばんは、竜宮です！　開けてください！」",
-            "NamesENG": "Voice",
-            "TextENG": "``Good evening, it's Ryuugu! Please open the door!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153789,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS24/01/NKEI_0300.",
-            "TextJPN": "「レナだ！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``It's Rena!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153790,
-            "TextJPN": "俺は親父の後から飛び出す。レナのその声色から、今すぐにここを開けなければならない緊急事態を感じ取ったからだ。",
-            "TextENG": "I jump past my dad. From Rena's tone, I can tell this is an emergency so we have to open the door right away."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153791,
-            "TextJPN": "例え村人が、互いを疑い合い殺し合うような異常事態になっても、……俺たち部活メンバーは互いを絶対に疑わないッ！！",
-            "TextENG": "Even if there are other villagers coming to kill her, I can't doubt her in such an abnormal situation, because...... we club members never doubt each other!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153792,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS24/01/NKEI_0310.",
-            "TextJPN": "「ぅ、うわ？！　み、魅音？！　大丈夫かッ？！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Wh-what?! Mi-Mion?! Is she okay?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153793,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS24/02/NREN_0190.",
-            "TextJPN": "「大丈夫なんかじゃない！　早く止血を…！」",
-            "NamesENG": "Rena",
-            "TextENG": "``Of course she's not okay! We need to stop the bleeding...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153794,
-            "TextJPN": "レナに背負われているのは、血塗れになって息も絶え絶えの魅音だった。それを見て、大丈夫か等と問い掛けるのは時間の無駄、社交辞令もいいところだ。",
-            "TextENG": "Rena is carrying Mion on her back, she's covered in blood and gasping for air. Seeing this, it was a complete waste of time to ask if she was okay, but at least she's somewhere safe now."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153795,
-            "TextJPN": "レナはそれを一喝すると、魅音を玄関に運び込んで床に寝かせる。魅音は左腕に怪我をしていて服を血で真っ赤に染めていた。",
-            "TextENG": "Rena charges past me, and lays Mion on the floor at the entrance. Mion's seriously injured in the left shoulder and her clothes are dyed red with blood."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153796,
-            "TextJPN": "…その服の色は本当は黄色だった。",
-            "TextENG": "...The color of her clothes were originally yellow."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153797,
-            "TextJPN": "私服の魅音が好んで着るシャツで、学校を終えてからこの清々しい黄色いシャツの魅音に会うことは、学校での時間に負けないくらいに楽しい時間が再び始まることを感じさせ、とてもうきうきとした気持ちにさせてくれたはずなのに…。",
-            "TextENG": "It's Mion's favorite shirt to wear, that refreshing yellow shirt she puts on right after finishing school to meet me, when the happy times begin again so we won't lose time by just fooling around in school, those are some very cheerful memories, but now..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153798,
-            "TextJPN": "その黄色が、真っ赤に染まって塗り潰されている。",
-            "TextENG": "That yellow has been dyed deep red."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153799,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS24/01/NKEI_0320.",
-            "TextJPN": "「か、母さん！！　手当てをして！　何かタオルを…！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``M-Mom!! We need to treat her! Bring a towel or something...!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153800,
-            "TextJPN": "魅音はハンカチで傷口を押さえているが、血は溢れ続けているようだった。",
-            "TextENG": "Although Mion's wound was being suppressed by a handkerchief, blood continued flowing out."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153801,
-            "TextJPN": "…絞ればぼたぼたと血を滴らせるに違いないそのハンカチが、本当はどんな色でどんな柄で、魅音のお気に入りだったかどうかなんて、もうわからない。",
-            "TextENG": "...That handkerchief would probably gush large amounts of blood if I squeezed it, who knows what color it'll become, will it still be Mion's favorite, I don't even know that."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153802,
-            "NamesJPN": "圭一の父",
-            "PreTextTags": "@vS24/00/NKFA_0070.",
-            "TextJPN": "「い、一体何があったんだ…？！　レナちゃん、これは一体…！！」",
-            "NamesENG": "Keiichi's dad",
-            "TextENG": "``Wh-What on earth happened...?! Rena-chan, what happened...!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153803,
-            "TextJPN": "親父が包丁を隠さずに言う。",
-            "TextENG": "My dad said so while trying to hide the kitchen knife."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153804,
-            "TextJPN": "レナは、何から説明したものかと面倒そうに顔を歪ませる。口で悠長に説明している時間すら惜しい、そう表情が語っていた。",
-            "TextENG": "Rena's face became warped having trouble thinking about how to explain what exactly happened. This also isn't the right time, her expression tells even that."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153805,
-            "TextJPN": "…だが説明は必要だろうか。魅音を背負った際に全身を汚した真っ赤な血は、彼女が語ろうとするどんな言葉よりも事態の急を教えてくれた。",
-            "TextENG": "...But, do we even need an explanation? The bright red stains over Mion's whole body say enough, that taught me immediately what this whole situation was before she even opened her mouth."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153806,
-            "TextJPN": "そして、その説明はレナが想像するどんな説明方法よりも短く説明される。",
-            "TextENG": "Then this visual explanation was far more brief than anything Rena could have said. The bullets sounded frightening as they hit the front door."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153807,
-            "TextJPN": "銃痕ができた？",
-            "TextENG": "Bullets?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153808,
-            "TextJPN": "１秒の間髪を入れずに事態が理解される。撃たれた…！！　誰かが、この玄関へ向けて発砲したのだッ！！！",
-            "TextENG": "I understood this situation within the flash of a second. We were shot at...!! Somebody fired at the entrance hall!!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153809,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS24/02/NREN_0200.",
-            "TextJPN": "「うわあああぁああああぁッ！！！」",
-            "NamesENG": "Rena",
-            "TextENG": "``Uu... Uwaaa~aaaaa~a!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153810,
-            "TextJPN": "その発砲に弾かれるように、レナが身を翻す。魅音を背負っていた時にも、もう片方の手で持っていた大きな鉈を振り上げながら。",
-            "TextENG": "Attracted to the gunshots, Rena runs back outside. Even when she was carrying Mion, she must have been fighting with that big hatchet using her other hand."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153811,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS24/01/NKEI_0330.",
-            "TextJPN": "「ぅ、うおおおぉおおおおッ！！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Uu... Uwaaa~aaaaa~a!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153812,
-            "NamesJPN": "圭一の父",
-            "PreTextTags": "@vS24/00/NKFA_0080.",
-            "TextJPN": "「け、圭一？！」",
-            "NamesENG": "Keiichi's dad",
-            "TextENG": "``K-Keiichi?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153813,
-            "TextJPN": "俺もバットを手に裸足のままレナを追うように飛び出す。その背に親父が俺の名を呼ぶが聞かなかった。",
-            "TextENG": "I chase after Rena, barefoot with a bat in my hand. My dad calls out my name, but I don't hear him."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153814,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS24/01/NKEI_0340.",
-            "TextJPN": "「レ、レナぁああぁッ！！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Re... Rena!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153815,
-            "TextJPN": "レナが、門の前に立つ誰かに飛びかかり、鉈を容赦なく振り下ろした。",
-            "TextENG": "Rena pounced on somebody standing at the front gate, and mercilessly beat his head in with a hatchet."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153816,
-            "TextJPN": "それは信じられないような、それでいて呆気ない光景。",
-            "TextENG": "I couldn't believe it, a disappointing scene nonetheless."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153817,
-            "TextJPN": "さらにレナはもう一人いた男に対し、大きな鉈を軽々と振り上げ、凄まじい投擲で投げつける！",
-            "TextENG": "Rena turns to the other man, and lightly raises her hatchet. She throws it with tremendous strength!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153818,
-            "TextJPN": "それは月の明かりに銀色の反射を閃かせながら飛んで男の肩口に叩き込まれる。小さな黒い飛沫を散らしながら。",
-            "TextENG": "It flies through the air glimmering like silver in the moonlight before smashing in the mans face. Scattering many small black dots."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153819,
-            "TextJPN": "男が短い悲鳴をあげる。",
-            "TextENG": "The man lets out a short scream."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153820,
-            "TextJPN": "俺の脳には、何をするんだレナ！という、通常時の社会モラルから紡がれる言葉と、…レナにここまでの反撃をさせるに値するどれほどの脅威だったのかということを探る２つが入り混じった。",
-            "TextENG": "I think inside my head, what has gotten into Rena! Words spin around inside me contrasting to the morality of our usual peaceful days... I know Rena has to fight back, but I don't think they deserve anything like this."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153821,
-            "TextJPN": "レナは肩口に鉈を受けてのた打ち回っている男に歩み寄ると乱暴に鉈を引き抜き、頭上に肉厚の刃の鉈を振り上げる。",
-            "TextENG": "Rena retrieves her hatchet and runs over to the writhing man, she violently raises it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153822,
-            "TextJPN": "男は、やめてくれと言葉を吐いたが、レナはまったく耳を貸さなかった。",
-            "TextENG": "And hammers the thick hatchet's blade into the man's head over and over. While the man, screamed several times telling her to stop, but Rena didn't listen to any of it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153823,
-            "TextJPN": "一息に振り下ろす。そして、動かなくなったのを見届けた後、言い放つ。",
-            "TextENG": "After making sure he is dead, Rena stops."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153824,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS24/02/NREN_0215.",
-            "TextJPN": "「……ひ、…人を殺すってことはね、自分も殺されることを覚悟するってことだよ！　甘えるんじゃないッ！！」",
-            "NamesENG": "Rena",
-            "TextENG": "``......If... If you want to kill somebody, you should be prepared to die yourself! Don't take that responsibility lightly!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153825,
-            "TextJPN": "まるで、その言葉は俺に対して言われたかのようだった。",
-            "TextENG": "I feel like, those words were meant for me."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153826,
-            "TextJPN": "…多分、レナから見たら、俺の表情はこの緊急事態をまるで理解していない平和ボケが浮かんでいたに違いないのだ。",
-            "TextENG": "...They probably were, because just by looking at Rena, she can tell from my expression that I don't fully understand this situation is an emergency."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153827,
-            "TextJPN": "その時、レナが振り返り鋭く叫ぶ！！",
-            "TextENG": "At that moment, Rena looks back and cries sharply!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153828,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS24/02/NREN_0220.",
-            "TextJPN": "「そっちの男、まだ動いてるよ！！」",
-            "NamesENG": "Rena",
-            "TextENG": "``That man is still alive!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153829,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS24/01/NKEI_0350.",
-            "TextJPN": "「…え、……ぁッ、」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``...Eh......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153830,
-            "TextJPN": "最初にレナが倒した男、…つまり、家の玄関に銃を放った男が額を押さえながら立ち上がろうとしている。",
-            "TextENG": "The man who Rena defeated first... In other words, the man who shot the gun at the front door of my house, is trying to stand back up again."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153831,
-            "TextJPN": "あれだけの大怪我を負わせたならもう許してもいいのでは…。そう思うのは俺の平和ボケのせいなのか。",
-            "TextENG": "Can we even forgive him for giving Mion such a serious injury... Or have I already become senile with peace."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153832,
-            "TextJPN": "…レナはまったくそうは思わなかった。男は片手で額を押さえ、もう片手には未だ猟銃を持っている！　銃の引き金を引く力があるならば、この男の脅威は未だ拭われていない…！！",
-            "TextENG": "...Rena doesn't seem to think so. The man is holding his forehead with one hand, while grasping the hunting rifle with the other! He still has the power to pull the trigger, the threat this man poses has not yet been wiped out...!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153833,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS24/02/NREN_0230.",
-            "TextJPN": "「うらああああああああぁああぁッ！！！」",
-            "NamesENG": "Rena",
-            "TextENG": "``Uraaaaaaaaaaaaa!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153834,
-            "TextJPN": "再び、肉厚の鉄塊が振るわれた。",
-            "TextENG": "Again, that lump of iron is wielded."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153835,
-            "TextJPN": "それは今度こそ、男の活動を停止させる。",
-            "TextENG": "Except this time, it smashes into the man's head."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153836,
-            "TextJPN": "キッとレナが振り返り睨む。それは俺に向けたもの。……この男に近いのはレナではなく俺だった。レナは、俺にその男を打ち倒せと言ったつもりだったのだ。それを俺がぼんやりしていたからレナが襲ったのだ。",
-            "TextENG": "Rena looks back and glares. It is directed at me. ......It's because I was closer to that man than Rena. Rena had intended for me to take him out. But because I was absentminded, Rena attacked him instead."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153837,
-            "TextJPN": "相手は銃だった。相手が素早かったら、レナの位置からは何もできなかった。だから俺に託したのに、俺は事態を未だ飲み込めてなくてぼんやりしていた…。",
-            "TextENG": "Our opponent had a gun. If he was quick, there wouldn't have been anything Rena could have done from where she was standing. It would have been up to me, she trusted me to do it, yet I was absentminded and didn't understand the situation..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153838,
-            "TextJPN": "それが、その険しい表情からわかるから、咄嗟に謝ってしまう。",
-            "TextENG": "I understand this from her fierce expression, I apologize at once."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153839,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS24/01/NKEI_0360.",
-            "TextJPN": "「ご、………ごめん……！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``I'm......... I'm sorry......!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153840,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS24/02/NREN_0240.",
-            "TextJPN": "「いいよ！　それより早く！」",
-            "NamesENG": "Rena",
-            "TextENG": "``It's fine! But we have to be quick!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153841,
-            "TextJPN": "レナは鉈を持ち上げ、もう片手で猟銃を拾う。",
-            "TextENG": "Rena pulls the hatchet out of the man's head, and picks up the hunting rifle with her other hand."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153842,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS24/02/NREN_0250.",
-            "TextJPN": "「銃はね、たとえ撃てなくても相手を怯ませることができる」",
-            "NamesENG": "Rena",
-            "TextENG": "``Even if you can't use a gun, you can still use it to intimidate people.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153843,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS24/01/NKEI_0370.",
-            "TextJPN": "「ぅ、………そ、そうだな…」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Ugh......... Y-You're right...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153844,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS24/02/NREN_0260.",
-            "TextJPN": "「それより、早く逃げる準備を！！」",
-            "NamesENG": "Rena",
-            "TextENG": "``We'll have to get away from here quickly!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153845,
-            "TextJPN": "…え、魅音の手紙には明日と書いてなかったっけ…？",
-            "TextENG": "...Eh, didn't it say in Mion's letter we would leave tomorrow...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153846,
-            "TextJPN": "そんな平和ボケはもうたくさんだッ！",
-            "TextENG": "No, I'm still being senile with peace!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153847,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS24/01/NKEI_0380.",
-            "TextJPN": "「あ、…あぁ！！　でも教えてくれ、一体何があったんだ？！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Y-Yeah!! But tell me, what on earth happened?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153848,
-            "TextJPN": "レナと玄関に駆け戻りながら聞く。",
-            "TextENG": "I talk to Rena as she walks back to the front door."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153849,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS24/02/NREN_0270.",
-            "TextJPN": "「…圭一くんのところにも手紙が来たでしょ？　魅ぃちゃんは私の家にも同じ手紙を持ってきた」",
-            "NamesENG": "Rena",
-            "TextENG": "``...Did she bring a letter to your place too, Keiichi-kun? Mii-chan brought the same letter to my house.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153850,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS24/02/NREN_0280.",
-            "TextJPN": "「そこで夜回りの自警団に見付かって撃たれたんだよ！　魅ぃちゃんが何かしたわけじゃない。ただレナに手紙を持ってきただけなのに撃たれた…！」",
-            "NamesENG": "Rena",
-            "TextENG": "``But she was found by the night watch of the vigilance committee and shot! Mii-chan didn't do anything. She was shot only for bringing a letter to Rena's house...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153851,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS24/02/NREN_0290.",
-            "TextJPN": "「…竜宮家は感染患者だから、そこに接触するのは感染者の仲間だって勝手に決め付けられて、一方的に撃たれた！！　魅ぃちゃんが彼らに対し何かしたわけじゃないのに、構わずに撃たれたッ！！」",
-            "NamesENG": "Rena",
-            "TextENG": "``...Because the Ryuugu family were infected, they labeled anyone and even their friends who came into contact with us also infected, so they shot her!! Mii-chan wasn't doing anything against them, but they shot her anyway without a second thought!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153852,
-            "TextJPN": "レナの目は怒りと悲しみでいっぱいになって、涙をぼろぼろと零していた。そんな激情のレナに掛けられる言葉などない…。",
-            "TextENG": "Rena's eyes are full of sorrow and anger, she's crying like rain. There's nothing I can say anything that can calm Rena down..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153853,
-            "TextJPN": "玄関に戻ると血塗れの魅音にはタオルが与えられ、お袋と一緒に傷口を押さえているところだった。",
-            "TextENG": "I return to the entrance hall and see Mion, my mom's suppressing her wound with a bloody towel."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153854,
-            "TextJPN": "お袋はおろおろするばかり。…家にある常備薬は、せいぜい絆創膏と頭痛薬、風邪薬が関の山だ。銃で撃たれた傷の治療ができる薬なんてあるわけがない！",
-            "TextENG": "My mom doesn't know what to do. ...She got out medicine from our house, headache tablets, band-aids, and even cold medicine. There's no reason any of that crap should be out in the first place, stupid medicine like that can't treat a gunshot wound!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153855,
-            "TextJPN": "戻ってきたレナの服に増えていた返り血と、それに染まった鉈。そして今の騒ぎと、レナが持ってきた猟銃を見て、親父は状況を全て理解したようだった。",
-            "TextENG": "Rena comes back with the victim's blood dyed into her clothes, her hatchet also stained in it. And with all the commotion just now, my dad looks at the hunting rifle Rena brought back, he seems to understand the situation."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153856,
-            "TextJPN": "…親父が全て理解したことをレナもまた理解し、言った。",
-            "TextENG": "...Rena notices my dad's expression, he knows what she is about to say."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153857,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS24/02/NREN_0300.",
-            "TextJPN": "「おじさま、今すぐここから逃げなければ死にます。……私のお父さんはもう殺されました！！　さっき！　魅ぃちゃんを助けようとして、…あいつらは躊躇わなかった！」",
-            "NamesENG": "Rena",
-            "TextENG": "``Mr. Maebara, we'll die if we don't escape here right now. ......My father has already been killed!! A little while ago! When he tried to help Mii-chan, they didn't hesitate!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153858,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS24/02/NREN_0310.",
-            "TextJPN": "「カラスか何かを追っ払うかのようにいとも簡単に撃ったッ！！　信じられない…、信じられないッ！！！」",
-            "NamesENG": "Rena",
-            "TextENG": "``They shot him as easily as shooting at crows to drive them away!! I couldn't believe it... I couldn't believe it!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153859,
-            "TextJPN": "その叫びに、魅音が弱々しく口を開く…。",
-            "TextENG": "Hearing Rena cry, Mion weakly opens her mouth..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153860,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0590.",
-            "TextJPN": "「…………ごめん……レナ…。……私がドジらなきゃ、…………。……本当に……ごめん……」",
-            "NamesENG": "Mion",
-            "TextENG": "``............I'm sorry...... Rena... ......If only I hadn't messed up............ ......Truly...... I'm sorry......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153861,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS24/02/NREN_0320.",
-            "TextJPN": "「…魅ぃちゃんは悪くないよ。そしてレナは誰も恨んでなんかいない。私が恨むべき人間は、全員然るべき清算をさせたもの。もちろん、魅ぃちゃんを撃った人にもね」",
-            "NamesENG": "Rena",
-            "TextENG": "``...It's not your fault, Mii-chan. Rena doesn't bear a grudge against anyone. Except the men that did this, but I've already settled the score with them. Of course, also the people that shot Mii-chan.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153862,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0600.",
-            "TextJPN": "「………………………」",
-            "NamesENG": "Mion",
-            "TextENG": "``...........................``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153863,
-            "TextJPN": "…レナは、ついさっき、目の前で魅音を撃たれ父親を殺され、自らの命も脅かされる地獄から自分の力で脱出してきた。",
-            "TextENG": "...Rena, just moments ago, watched Mion get shot and her father killed before her very eyes, and still managed to escape from that hell using her own power even when her life was threatened."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153864,
-            "TextJPN": "そこを経たレナの、日常では垣間見ることも叶わぬその表情が、…どれほどの地獄だったかを、見ぬ自分にも理解させる。",
-            "TextENG": "Rena just came from that, her face gave me a glimpse on what our daily life will truly become... Hell in itself, I never saw what she went through, but I can understand."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153865,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS24/02/NREN_0330.",
-            "TextJPN": "「………とにかく、…すぐに逃げる準備を……。もうすぐみんな押し寄せてくる…！」",
-            "NamesENG": "Rena",
-            "TextENG": "``.........Anyway... make preparations to leave immediately...... More of them will be coming soon...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153866,
-            "TextJPN": "なぜ、どうして、ここに村人が押し寄せてくるのか。そして何をしようというのか。それを問い掛ける必要は、血塗れの魅音の口から出る言葉に限り、なかった。",
-            "TextENG": "Why, why are the villagers rushing here. And for what reason. I don't even need to ask myself that, the only words I need to hear are the ones from Mion's bloody mouth."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153867,
-            "TextJPN": "だから親父は混乱をぐっと飲み込んで押さえ、一回咳き込んでから聞いた。",
-            "TextENG": "Therefore, my dad is trying to strongly swallow this distributing situation, I hear him cough only once."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153868,
-            "NamesJPN": "圭一の父",
-            "PreTextTags": "@vS24/00/NKFA_0090.",
-            "TextJPN": "「に、逃げるって、…どこへ…！」",
-            "NamesENG": "Keiichi's dad",
-            "TextENG": "``E-Escape... to where...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153869,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS24/02/NREN_0340.",
-            "TextJPN": "「魅ぃちゃんの家の秘密の地下に、村人は誰も知らない隠しトンネルがあるんです！　そこまで逃げ延びれば、何とかなるかもって…！」",
-            "NamesENG": "Rena",
-            "TextENG": "``It's a secret in the basement of Mii-chan's house, a hidden tunnel that none of the villagers know about! If we can safety escape to there, we'll manage to survive...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153870,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0610.",
-            "TextJPN": "「……げほ、…げほ…！」",
-            "NamesENG": "Mion",
-            "TextENG": "``......*Cough*... *cough*...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153871,
-            "TextJPN": "レナが魅音に代わって、俺宛の手紙にも書いてあったことを説明する。魅音は説明を引き継ごうとしたのだろうが、咽こんでしまった。",
-            "TextENG": "Rena, on the behalf of Mion, explains what was written on the letter that was addressed to me. Mion tries to take over, but her throat gets clogged."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153872,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS24/01/NKEI_0390.",
-            "TextJPN": "「父さん、母さん、…い、一刻の猶予もないよ…！　逃げよう！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``Dad, mom... W-We don't have a moment to lose...! We have to escape!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153873,
-            "NamesJPN": "圭一の父",
-            "PreTextTags": "@vS24/00/NKFA_0100.",
-            "TextJPN": "「……そ、…そうだな、そうしよう！」",
-            "NamesENG": "Keiichi's dad",
-            "TextENG": "``......O-Okay, let's do that!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153874,
-            "TextJPN": "親父は、差し迫っている緊急事態を把握し、平均的な社会人として持つ日常のモラルを捨てるために数瞬を経てから頷いた。…だが、お袋は即断できなかった。",
-            "TextENG": "My dad, able to understand the impending emergency, nods at Rena, ready to abandon the everyday morals he had kept as an average member of society. ...But, my mom could not make the same decision."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153875,
-            "NamesJPN": "圭一の母",
-            "PreTextTags": "@vS24/00/NKMO_0040.",
-            "TextJPN": "「で、でも！　逃げたらこの家はどうなるんですか！？　何が起こるかわからないのよ？！」",
-            "NamesENG": "Keiichi's mom",
-            "TextENG": "``B-But! What will happen to our house if we run away!? Do we even know what will happen to it?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153876,
-            "TextJPN": "暴徒化した村人がやって来たら、放火くらいのことはされるかもしれない。…でも、そこまでわかっているならお袋の躊躇は矛盾していた。",
-            "TextENG": "Once the village mob arrives, they'll probably commit arson. ...But, my mom hesitated to admit or understand the fact it could happen."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153877,
-            "TextJPN": "放火すらしかねない暴徒がやって来るというのに、ここに立て篭もって何ができるというのか。自分たちがどういう目に遭わされるのか…！",
-            "TextENG": "The mob will eventually arrive and commit arson, we can't be inside when that happens. What kind of experience are they trying to force people through...!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153878,
-            "TextJPN": "…お袋は決して馬鹿じゃない。いや、だからこそ頭が空回りして混乱してしまったのかもしれない。今この場においては、隔離の当日から神経質だった親父の方がむしろ冷静と言えた。",
-            "TextENG": "...My mom's not stupid at all. No, she's probably just confused on what to do. Even right now, she's become the nervous one rather than my dad was since the day of the quarantine."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153879,
-            "TextJPN": "お袋はそれでも何とか冷静さを取り戻し、通帳類を入れたハンドバッグだけを取りに戻る。",
-            "TextENG": "Still, my mom regained her composure somehow, she has begun to collect the bankbooks and decided to bring only a handbag to put stuff in."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153880,
-            "TextJPN": "親父はレナから猟銃を受け取っていた。",
-            "TextENG": "Meanwhile, my dad received the hunting rifle from Rena."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153881,
-            "TextJPN": "……よく似たタイプの空気銃を持っていたことがあるから扱いはわかると豪語するが、それが頼もしい言葉なのか、頼りない言葉なのかは聞き手によって異なるだろう。",
-            "TextENG": "......He boasts the handling should be similar to an air rifle, but I guess it depends on the listener if those words are reliable or not."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153882,
-            "TextJPN": "魅音は、自分が足手まといになるから置いていけと言っていたが、レナはその頬を容赦なく叩く。",
-            "TextENG": "Mion tells us to leave her behind because she would only slow us down, but Rena slaps her cheek mercilessly."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153883,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS24/02/NREN_0350.",
-            "TextJPN": "「ダメだよ！　魅ぃちゃんじゃなきゃ、秘密の地下はわからない！　軽々しく責任を放棄しないで！！　私たちを導いてッ！！」",
-            "NamesENG": "Rena",
-            "TextENG": "``There's no point! Without you, Mii-chan, we don't know how to find the secret basement! You can't just carelessly abandon your responsibility!! Lead us there!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153884,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0620.",
-            "TextJPN": "「……はは、………レナにかかっちゃ、…おちおち死なせてももらえないや…」",
-            "NamesENG": "Mion",
-            "TextENG": "``......Ha ha......... I can always depend on Rena... you won't even let me die in peace...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153885,
-            "TextJPN": "魅音は悪態をつく程度には気力を回復できたようだった。",
-            "TextENG": "Mion seemed to recover her spirit, to an almost curse like extent."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153886,
-            "TextJPN": "だが、傷口をいつまでも放置はできない。然るべき医師に見せなければ大量の出血で大事を免れなくなるだろう。",
-            "TextENG": "But, we can't leave her wound like that forever. It will become a serious matter if we don't get her to a doctor to stop the mass bleeding."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153887,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS24/02/NREN_0360.",
-            "TextJPN": "「…ねぇ、魅ぃちゃん。………問答してる時間はないから素直に教えて」",
-            "NamesENG": "Rena",
-            "TextENG": "``...Hey, Mii-chan. .........We don't have time to discuss it, so be honest with me.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153888,
-            "TextJPN": "レナが乾いた表情のまま、睨みを利かせて魅音に聞く。",
-            "TextENG": "Rena's expression is dry, she glares at Mion and waits for an answer."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153889,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS24/02/NREN_0370.",
-            "TextJPN": "「どうして沙都子ちゃんを抜きにして脱出しようなんて言うの？」",
-            "NamesENG": "Rena",
-            "TextENG": "``Why are you asking us to leave Satoko-chan behind and escape by ourselves?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153890,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS24/01/NKEI_0400.",
-            "TextJPN": "「……そ、そうだ！　それは俺も思ってた！！　沙都子はどうしたんだよ魅音！　状況的には俺やレナよりもずっとまずいんだろ？！　沙都子だけ置いてなんかいけないぞ！！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``......Th-That's right! I was wondering that, too!! Tell us what's going to happen to Satoko, Mion! Is she in a worse situation than me or Rena?! Did you do something to put Satoko in danger!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153891,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0630.",
-            "TextJPN": "「………………………沙都子は…」",
-            "NamesENG": "Mion",
-            "TextENG": "``...........................Satoko...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153892,
-            "TextJPN": "魅音が言いよどむ。だがレナはその誤魔化しを受け付けなかった。",
-            "TextENG": "Mion fumbles for the right words. But Rena doesn't accept her deception."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153893,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS24/02/NREN_0380.",
-            "TextJPN": "「死んだなら死んだってちゃんと言って…！！　じゃなきゃ私は、沙都子ちゃんは生きているって信じるッ！！」",
-            "NamesENG": "Rena",
-            "TextENG": "``If she's dead just tell us she's dead...!! Because if not, I want to believe that Satoko-chan is still alive!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153894,
-            "TextJPN": "俺は思わず目を堅く絞るように閉じてしまう…。その最悪の想像は俺の脳裏を一度や二度ならずかすめていた。",
-            "TextENG": "I unintentionally squeeze my eyes shut... And imagine the worst possibilities as they pass through my mind."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153895,
-            "TextJPN": "……魅音は沙都子のことを絶対に忘れやしない。なのに手紙からは沙都子の名が抜け落ちていた。",
-            "TextENG": "......Mion would never forget about Satoko. However, Satoko's name was missing from the letter."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153896,
-            "TextJPN": "だとしたら、考えられる理由はただひとつ……！　そのただひとつは俺だって思いついていた。でもそれを口にできなかった…！！",
-            "TextENG": "So if that was the case, I can only imagine one thing......! Even though I had considered it, the words could not escape from my mouth...!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153897,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0640.",
-            "TextJPN": "「……さ、沙都子は、……さっき、暴徒に連れ去られたらしい…。話では鬼ヶ淵に引き連れてったって…。伝承の生贄の儀に沿って、三日かけて沈めて殺す気らしい…」",
-            "NamesENG": "Mion",
-            "TextENG": "``......Sa-Satoko was... ...A little while ago, taken away by the mob... They all believe the Onigafuchi solution will fix things... She's to be the sacrifice for the ceremony from the legend of Onigafuchi, they intend to drown her at the end of a three day ritual...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153898,
-            "NamesJPN": "圭一＆レナ",
-            "PreTextTags": "@o75.@vS24/01/NKEI_0410|S24/02/NREN_0390.",
-            "TextJPN": "「まだ、生きてるんだなッ？！」@r@t「まだ、生きてるのねッ？！」",
-            "NamesENG": "Keiichi & Rena",
-            "TextENG": "``So she's alive?!``@r@t``So she's alive?!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153899,
-            "TextJPN": "俺とレナが同時に魅音に食いかかる。",
-            "TextENG": "Rena and I speak at the same time after Mion."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153900,
-            "TextJPN": "だが、魅音が沙都子を見殺しにしようとしたことを責めようなんて馬鹿な考えはこれっぽっちも浮かばなかった。",
-            "TextENG": "But, we shouldn't blame Mion for what happened to Satoko, it's stupid to think she could have stopped them."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153901,
-            "TextJPN": "……魅音は、園崎家の立場として聞き及んだ情報を冷静に判断して、どうやっても救えないと判断したのだ…！　苦渋の末にだ！",
-            "TextENG": "......Mion probably took in the information she heard and calmly made a judgement from the viewpoint of a member of the Sonozaki family, and determined that she couldn't save her no matter what she did...! In the end, it must have been an agonizing decision!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153902,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0650.",
-            "TextJPN": "「……どうしようもない…！　どうしようもないんだよ…！！　ううぅぅ！」",
-            "NamesENG": "Mion",
-            "TextENG": "``......There's nothing we can do...! We can't do anything...!! Uuuuuu!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153903,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0660.",
-            "TextJPN": "「町会役員たちが音頭を取って、神社部と青年部、防犯部がさらに村の有志も加えて１００人以上に膨れ上がってるらしい！！　防犯部には猟友会も合流してて少なくとも２０丁以上のショットガン、ライフルで武装してる！」",
-            "NamesENG": "Mion",
-            "TextENG": "``With the Neighborhood association officers taking the helm, partnered with the Youth league and the Shrine association, they have bolstered security in the village swelling their ranks with over 100 volunteers!! They've even joined up with the Hunters association, who are armed with more than 20 shotguns and hunting rifles!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153904,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0670.",
-            "TextJPN": "「みんなオヤシロさまの名を連呼しながら狂気に取り憑かれてる暴徒なんだよ！！　連中は容赦ない！　沙都子を庇おうとした村人に躊躇なく発砲してる！！」",
-            "NamesENG": "Mion",
-            "TextENG": "``They're an insane mob obsessed with madness chanting the name of Oyashiro-sama!! Those people are merciless! They shot and killed without hesitation the villagers who tried to protect Satoko!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153905,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS24/02/NREN_0400.",
-            "TextJPN": "「魅ぃちゃんや、私のお父さんのように…？」",
-            "NamesENG": "Rena",
-            "TextENG": "``Mii-chan, you mean just like my dad...?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153906,
-            "TextJPN": "魅音は涙を零しながら悔しそうに頷く。それを食い止められなかった自身の無力さに涙し、そしてこの狂気の村の中で正義を貫いて命を失った村人のためにも涙を流した。",
-            "TextENG": "Mion nods in regret while crying. Shedding tears at how powerless she was, and tears for the villagers who lost their lives through the insane justice of this mad village."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153907,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0680.",
-            "TextJPN": "「………何でかわかんないよッ！！　みんなつい３日前までは普通だった、冷静だったッ！！　この７２時間でみるみるおかしくなっていった！　みんな目が血走ったようになって、冷静さを失っていった！」",
-            "NamesENG": "Mion",
-            "TextENG": "``.........I don't know what to do!! They were completely normal just three days ago!! But they all started acting strange after 72 hours! Their eyes are so bloodshot, they've lost all composure!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153908,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0690.",
-            "TextJPN": "「自衛隊がいなくなったからおかしくなったんじゃない！　その前からもうおかしかったんだよ！！　今や怖いのは殺人ウィルスなんかじゃない、村のみんななんだ…ッ！！」",
-            "NamesENG": "Mion",
-            "TextENG": "``They only started to act like this after the Self-Defense Forces left! There was nothing wrong with them before that!! I'm not scared of this killer virus, people of this village are scarier...!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153909,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0700.",
-            "TextJPN": "「……………私、……思うんだよ。………このウィルスってさ。……人を死に至らしめるんじゃなくて、人を狂気に駆り立てるウィルスなんじゃないかなって」",
-            "NamesENG": "Mion",
-            "TextENG": "``...............I...... I Think. .........This virus... ...Rather than just kill us, the virus wants to force everyone to go insane."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153910,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0705.",
-            "TextJPN": "「……そして村人を次々、鬼に変えていって、……オヤシロさま伝説をもう一度なぞり直すんだよ…！」",
-            "NamesENG": "Mion",
-            "TextENG": "......Then one after another, the villagers will take the place of the demon ......and they will once again re-enact the legend of Oyashiro-sama...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153911,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0710.",
-            "TextJPN": "「この事態を何とかできるのはオヤシロさましかいない！　そしてその生まれ変わりの梨花ちゃんはいない！」",
-            "NamesENG": "Mion",
-            "TextENG": "``The only one who can do anything about this situation is Oyashiro-sama, but he is not with us! Rika-chan, his reincarnation, is not even with us!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153912,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0715.",
-            "TextJPN": "「それにそもそもオヤシロさまは神さまなんだよ？　人間じゃないんだよ？！　私たち人間には何もできないんだよ、何もッ！！！」",
-            "NamesENG": "Mion",
-            "TextENG": "Isn't Oyashiro-sama god in the first place? Then what about us?! We human beings can't do anything! Nothing!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153913,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS24/01/NKEI_0420.",
-            "TextJPN": "「………落ち着け、魅音……！」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``.........Calm down, Mion......!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153914,
-            "TextJPN": "俺はしゃがみ、傷に障るのを承知で、魅音の頭を力強く抱き俺の鼓動を聞かせてやった…。",
-            "TextENG": "I squat down beside her, and notice the wound, I can hear Mion's strong heartbeat as I embrace her head..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153915,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS24/01/NKEI_0430.",
-            "TextJPN": "「…………ありがとうな。…俺やレナが事態を把握できずのんびりしている間にも、魅音は村の裏側で、妙なデマを押さえるために色々と苦労していてくれたんだよな…。……だから、きっと今日までこの村は狂気に飲み込まれなかった…」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``............Thank you. ...While Rena and I were relaxing and didn't understand the situation, you were there at the back of the village, Mion, struggling in order to suppress those fake rumors... ......So, I'm sure this village was only swallowed up in madness today...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153916,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS24/01/NKEI_0440.",
-            "TextJPN": "「……魅音の頑張りがなかったら、……いずれ迎えていたかもしれない惨劇の今日は、…とっくに俺たちを飲み込んでいた」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``......If it was not for your best efforts, Mion...... this tragedy would have already greeted us... we would have been swallowed a long time ago.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153917,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS24/01/NKEI_0450.",
-            "TextJPN": "「…………だからありがとう、魅音」",
-            "NamesENG": "Keiichi",
-            "TextENG": "``............So thank you, Mion.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 153918,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS24/03/NMIO_0720.",
-            "TextJPN": "「…………………ぁ………ぅ、……………ぅああ…ああぁああああぁあぁあぁ…」",
-            "NamesENG": "Mion",
-            "TextENG": "``.....................Ah... ......uu......... ......uuah... aaaaahhhhh...``"
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "#6",
+		"ENG": "#6"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153735,
+		"TextJPN": "深夜。お袋がやって来た。手には封筒が握られていた。",
+		"TextENG": "Late at night. My mom comes to me. She has an envelope grasped in her hand."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153736,
+		"NamesJPN": "圭一の母",
+		"PreTextTags": "@vS24/00/NKMO_0030.",
+		"TextJPN": "「圭一…。今ね、圭一宛の手紙が来たのよ」",
+		"NamesENG": "Keiichi's mom",
+		"TextENG": "``Keiichi... Just now, a letter came addressed to you.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153737,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS24/01/NKEI_0280.",
+		"TextJPN": "「手紙？　俺宛…？！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``A letter? Addressed to me...?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153738,
+		"TextJPN": "それをお袋から引っ手繰る。そこには、“圭ちゃんへ、魅音より”と記されていた。",
+		"TextENG": "I took it from my mom. It is labeled, ``To Kei-chan, from Mion``."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153739,
+		"TextJPN": "こんな真っ暗な時間に何だろう。お袋が言うには、チャイムがあり、玄関へ行ってみたら扉の隙間に差し込まれていたのだと言う。",
+		"TextENG": "I wonder why she did this when it's completely dark outside. My mom said, there was a chime, and when she went to the front door it was inserted through the gap."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153740,
+		"TextJPN": "家までわざわざ来たなら上がっていけばいいのに。……それを避けて、手紙だけ置いていくというやり方に、一抹の不安感を覚えずにはいられない。",
+		"TextENG": "I guess she would have got nervous if she came to my house personally. ......So to avoid that, she left the letter in such a manner, although I can't help but feel a sense of uncertainty."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153741,
+		"TextJPN": "でも、最近の村を取り巻く異常さを思えば、魅音が慎重に連絡を取ろうとするのも何となく頷けた。",
+		"TextENG": "But, remembering the certain anomalies surrounding the village recently, I can think of this as Mion trying to carefully contact me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153742,
+		"TextJPN": "土着のウィルスがどうのこうの、オヤシロさまのお怒りがどうのこうの、という話はいつも最後には、引っ越してきた外様の家への疑いの目で締めくくられる。それを前原家も痛いぐらいに最近は理解していた。",
+		"TextENG": "An indigenous virus, the anger of Oyashiro-sama, the current talk of the village, all which concludes to suspicion of the new families that have moved in. I only recently understood that the Maebara family was one of them, set to be hurt."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153743,
+		"TextJPN": "園崎家の魅音と言えど、白昼堂々と前原家に接触できないような、そういう状況になってしまっているということを、この封筒を開けずとも理解できた。",
+		"TextENG": "Even Mion of the Sonozaki family cannot come into contact with one of the Maebara family in broad daylight, so we have to turn to such a situation, but I won't be able to fully understand without opening the envelope."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153744,
+		"TextJPN": "そして、その中身はそれでもなお現状認識が甘いことを鋭く教えてくれた。",
+		"TextENG": "And its contents should allow me to fully recognize our current situation."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153745,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0430.",
+		"TextJPN": "「圭ちゃんへ。気をつけて！　ウチの町会内で、前原家と竜宮家を槍玉に挙げようという意見が強くなってる。もう本当に馬鹿げてることだけれども、彼らは誰かを生贄にあげないと恐怖感に押しつぶされてしまうところまで追い詰められている」",
+		"NamesENG": "Mion",
+		"TextENG": "``To Kei-chan. Be careful! The neighborhood association are strongly considering making an example of the Maebara and Ryuugu families. This stupid idea is really getting out of hand, they're cornered and crushed by fear seeing a sacrifice as the only option.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153746,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0440.",
+		"TextJPN": "「そんなことしたって何の解決にもならないって反論できたのは最初の内だけ」",
+		"NamesENG": "Mion",
+		"TextENG": "``In the beginning, I was able to argue that it wouldn't solve anything."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153747,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0450.",
+		"TextJPN": "「数日前からそうであるように、少しでも反論すると、感染者を庇うのはお前も感染者だからだろうなんておかしな論法になっちゃって、誰もストップがかけられない！」",
+		"NamesENG": "Mion",
+		"TextENG": "But for the past few days, if you even try to argue with them, their reasoning becomes strange and they say you're only trying to protect infected people because you too are infected, the talk of lynching has seriously gotten out of hand!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153748,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0460.",
+		"TextJPN": "「ウィルス派とオヤシロさまの崇り派が互角だった内は、双方が支離滅裂な論争をするだけだったから良かったんだけど、最近、オヤシロさまの崇り派が伸してきてね。全体をリードするようになりつつある」",
+		"NamesENG": "Mion",
+		"TextENG": "``But the faction for the curse of Oyashiro-sama and the faction for the virus are equally matched, I'm glad both sides are in nothing but incoherent debates, Although recently, the faction for the curse of Oyashiro-sama has expanded. It seems they'll soon lead the whole village.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153749,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0470.",
+		"TextJPN": "「婆っちゃが元気だったならこんな暴走は許さないんだけど、実は数日前に高熱を出しちゃって起き上がることもできないんだよ」",
+		"NamesENG": "Mion",
+		"TextENG": "``If my grandma were healthy, I'm pretty sure she wouldn't have allowed any of this to happen, but a few days ago, she came down with a high fever and can't sit up.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153750,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0480.",
+		"TextJPN": "「一部の親類はそれを感染ではないかと吹聴していて、私の発言力もすでに危うい。いや、私自身、下手をすれば生贄にされかねないよ！　そんな立場の私には、これ以上、圭ちゃんやレナの家を庇う発言は難しい」",
+		"NamesENG": "Mion",
+		"TextENG": "``Some of my relatives are even spreading rumors that she may have become infected herself, and my influential voice was already in danger. No, even if I mess up, they wouldn't hesitate to consider me a sacrifice! For me to be in such a situation, no longer I can protect Kei-chan or Rena's family.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153751,
+		"TextJPN": "……魅音の、文字が次第に焦り気味になり歪み始めるのがわかる。どんな心境でこれを記したのか、その胸の内を聞かずとも理解できた。",
+		"TextENG": "......Mion, from this letter I am beginning to understand how impatient and strained you are feeling. To even wonder what state of mind you wrote this in, I'm glad I was able to understand."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153752,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0490.",
+		"TextJPN": "「これ以上、雛見沢に留まることは危険だと思う。少なくともこのまま自宅に閉じこもっていれば私たちはいずれ必ず殺される！　だから明日の夜に村から脱出しようと思う」",
+		"NamesENG": "Mion",
+		"TextENG": "``We can't stay here, it's too dangerous to remain in Hinamizawa. If we hold up in our homes any longer we'll be killed as it is! For this reason, I think we should escape from the village tomorrow night.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153753,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0500.",
+		"TextJPN": "「周囲は自衛隊に封鎖されているけど、園崎家は秘密のトンネルを持っていて、その内のひとつが封鎖線の外に出口を持ってるの。このトンネルは私と婆っちゃしか知らない」",
+		"NamesENG": "Mion",
+		"TextENG": "``Although the area is blocked off by the Self-Defense Forces, the Sonozaki family have a few secret tunnels, one of them leading beyond the blockade lines. Only grandma and I know about that one.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153754,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0510.",
+		"TextJPN": "「婆っちゃの回復を待ちたかったけど、もう無理みたい…。さっき婆っちゃに、自分を置いて逃げろと言われたところ…」",
+		"NamesENG": "Mion",
+		"TextENG": "``I wanted to wait until my grandma recovered, but that idea's already impossible... My grandma said a while ago, that I should go and escape by myself...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153755,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0520.",
+		"TextJPN": "「……婆っちゃはこの事態は、古代の伝承の、鬼ヶ淵の沼より鬼があふれ出し～の再来だと言ってる。今に村人たちに鬼が取り憑き、村人が村人を殺し出す地獄絵図になると！」",
+		"NamesENG": "Mion",
+		"TextENG": "``......Grandma says that this situation is exactly like the old legend. She calls it the second coming of the demons overflowing from Onigafuchi swamp. Where the demons will now possesses the villagers, turning this place into a picture of hell where everyone wants to kill each other!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153756,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0530.",
+		"TextJPN": "「伝承ではオヤシロさまがそれを治めてくれるんだけど、治めてくれるまでの間、血みどろの争いが繰り返され、大勢の死者が出たと伝承に残している！」",
+		"NamesENG": "Mion",
+		"TextENG": "``And just like Oyashiro-sama in the old legends, during his period of reign, a bloody battle will be repeated, leaving behind it a large number of dead!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153757,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0535.",
+		"TextJPN": "「私　た　ち　は　殺　さ　れ　る　よ　！」",
+		"NamesENG": "Mion",
+		"TextENG": "``W e a r e a l l g o i n g t o d i e !``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153758,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0540.",
+		"TextJPN": "「それで本題。今夜中に圭ちゃんの家族に話して準備をさせて。明日の夜、迎えに行くからみんなで脱出しよう。持ち物は現金、保険証や通帳、印鑑類。あと、重過ぎない範囲でリュックサックに着替えや日用品を詰め込んで。手荷物は厳禁！」",
+		"NamesENG": "Mion",
+		"TextENG": "``Onto the main subject. Talk to your family tonight, Kei-chan, and have them prepare to leave. Tomorrow night, I'm coming to pick you up and we're all going to escape together. Take personal belongings, cash, insurance cards, bankbooks, and a seal stamp. Followed by, a change of clothes and daily necessities, but make sure they won't be too heavy. Hand luggage is strictly prohibited!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153759,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0550.",
+		"TextJPN": "「絶対に両手は空けること。靴はスニーカー等の履きなれた歩きやすい物！　同じ手紙はレナにも送ってある」",
+		"NamesENG": "Mion",
+		"TextENG": "``Make sure both of your hands are free. And also make sure to wear sneakers or shoes you're used to and are easy to walk in! I've sent the same letter to Rena."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153760,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0560.",
+		"TextJPN": "「……圭ちゃんにはあまりに突拍子もないことで、多分現実感が伴わないと思う」",
+		"NamesENG": "Mion",
+		"TextENG": "......I know this all sounds crazy, Kei-chan, and without a doubt not in the realms of reality.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153761,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0570.",
+		"TextJPN": "「…でも信じて！　私は御三家の集まりや町会の会合、そして無線で情報を集めていたからこの村を取り巻く異常さがどれほどおかしいかよくわかってる！！」",
+		"NamesENG": "Mion",
+		"TextENG": "``...But believe me! The neighborhood association and a group from the big three will be meeting, and they'll be discussing all the anomalies surrounding this village they collected by radio no matter how strange they are!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153762,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0580.",
+		"TextJPN": "「私と同じ危機感を持って！　圭ちゃんが私を信じて全ての行動を共にしてくれても、私は自分と圭ちゃん、レナ、その家族が全員無事で雛見沢を脱出できる確率は１０％なら高い方と見積もってる」",
+		"NamesENG": "Mion",
+		"TextENG": "``I hope you sense the impending danger as I do! Believe me, Kei-chan, we all have to act together - you, myself and Rena. But even if we do, I estimate the probability of our chances at escaping Hinamizawa unharmed to be around 10％.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153763,
+		"TextJPN": "魅音の手紙はそこで終わりだった。",
+		"TextENG": "Mion's letter ends there."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153764,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS24/01/NKEI_0290.",
+		"TextJPN": "「な、……何なんだよこれはッ…！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Is... Is this for real...!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153765,
+		"TextJPN": "飲み込めない事態の大きさに両手で頭を抱える。だが魅音はそれを見越した上で、自分を信じてくれとこの手紙に託している…！",
+		"TextENG": "I place both of my hands on my forehead in an attempt to try and swallow this situation. However, I'm pretty sure Mion anticipated my reaction, but she entrusted this letter to me, I have to believe in her...!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153766,
+		"TextJPN": "３つも深呼吸をすれば、魅音の言っている異常事態が決して的外れでないことは理解できた。最近の雛見沢を包む空気の澱み方を思えば決しておかしな話ではなかった。ここに書いてあるのは紛れもない事実なのだ…！",
+		"TextENG": "If I take three deep breaths, I should be able to understand this abnormal situation without misinterpreting anything Mion said. No matter what I think of the stagnated air that now surrounds Hinamizawa, this isn't a joke. It's written as an obvious fact of life...!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153767,
+		"TextJPN": "そして同時に、沙都子はという不安感も持った。",
+		"TextENG": "At the same time, I'm pretty sure Satoko is having the same feelings of anxiety I am."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153768,
+		"TextJPN": "自衛隊に収容された梨花ちゃんはともかく、ひとり村に残されている沙都子についてが、この手紙には一言も出てこない。出てくるのは俺とレナの名だけだ。",
+		"TextENG": "Aside from Rika-chan being held by the Self-Defense Forces, Satoko has been left all alone in the village by herself, and there isn't even a single mention of her in this letter. The only names that come up are Rena's and mine."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153769,
+		"TextJPN": "……魅音が部活メンバーのことを忘れるわけがない。沙都子のことを書き漏らすわけはないのに！　何でだ？！　嫌な想像が次々と襲い掛かり俺を窒息させようとした。",
+		"TextENG": "......Mion can't forget the other club members. We can't leave without Satoko! What is this?! Terrible thoughts are hitting my imagination trying to suffocate me one after another."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153770,
+		"TextJPN": "そうだ、魅音は言ってた。沙都子を生贄に捧げればオヤシロさまの怒りが鎮まるとか本気で思ってる連中がいると言っていた。",
+		"TextENG": "Yes, it's what Mion said. She told me that there was a group of people who truly believed the wrath of Oyashiro-sama could be subsided through a sacrifice."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153771,
+		"TextJPN": "まさか、……沙都子……？！",
+		"TextENG": "Could it be...... Satoko?!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153772,
+		"TextJPN": "がばっと立ち上がった時、本棚の脇に立てかけてあった金属バットが倒れて俺の足下に転がった。",
+		"TextENG": "When I stood up, the metal bat leaned beside my bookshelf fell down and rolled to my feet."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153773,
+		"TextJPN": "まるで、自分も連れて行ってくれというかのように。",
+		"TextENG": "I quickly began to mumble to myself about the possibility."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153774,
+		"TextJPN": "…その時、銃声を聞いた。",
+		"TextENG": "...Then, I heard a gunshot."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153775,
+		"TextJPN": "平穏な普段なら、子供がふざけて鳴らした爆竹かロケット花火だとでも思うだろう。だが、こんな異常状況下だからこそ、俺は平和ボケした勘違いなどしなかった。",
+		"TextENG": "Things are mostly peaceful around here, so I would usually think it would be children playing with fireworks or firecrackers. But, precisely because I'm in this abnormal situation, I did not allow myself to take this as a misunderstanding becoming senile with peace."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153776,
+		"TextJPN": "カーテンを開け、夜の闇に目を凝らすと、再び銃声を聞いた。音はさっきより近い気がした。それに混じり何を言っているのかわからない怒号も聞こえた気がした。",
+		"TextENG": "When I opened the curtains, I squinted into the darkness of the night, and heard another gunshot. It sounds closer than the previous. It feels like a roar I've never known about, I don't want to hear it again."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153777,
+		"TextJPN": "突然、連打されるチャイム音！",
+		"TextENG": "Suddenly, a chime sound begins to ring repeatedly!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153778,
+		"TextJPN": "ピンポン、ピンポン、ピンポン、ピンポン、ピンポン！！",
+		"TextENG": "Ding dong, ding dong, ding dong, ding dong, ding dong!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153779,
+		"TextJPN": "俺の頭の中から不要なノイズが全て消え去りクリアになる。",
+		"TextENG": "That unwanted noise in my head quickly becomes clear."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153780,
+		"TextJPN": "呼吸の必要すらなくなった気がして、その真空状態の中、足下に転がる金属バットを拾うと玄関へ駆け下りていった。",
+		"TextENG": "I can't even feel the need to breath, it's like I'm in a vacuum. I grab the metal bat which rolled to my feet and run down the stairs to the entrance."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153781,
+		"TextJPN": "玄関前には、怯えるお袋と、台所から包丁を持って駆けて来る親父の姿があった。",
+		"TextENG": "In front of the entrance, I can see my mom frightened, and my dad running over with a knife he got from the kitchen."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153782,
+		"TextJPN": "……このような物騒な対応をする親父を、ついさっきまで異常だと思っていたが、今の瞬間に限ってだけは逆に、状況を適切に理解できていると思った。",
+		"TextENG": "......For my dad to give such a dangerous response, and I know something abnormal just happened. But he's the complete opposite of what he was a moment ago, I thought he would have been properly able to understand a situation like this."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153783,
+		"TextJPN": "お袋が扉を開けてもいいものかと親父の様子をうかがう。親父は下がっていろとお袋を下がらせる。",
+		"TextENG": "I watch the state of my mom and dad as they consider whether to open the door or not. Not long after, they both choose to stand back."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153784,
+		"TextJPN": "チャイムは門のところのボタンを押したものだ。その押した人物は、そのまま門内に入り今や扉の前にまで至っているようだった。",
+		"TextENG": "The chime is something you push at the front of the gate. That person must have pushed it, so they should have already entered through the gate and come up to the door by now."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153785,
+		"TextJPN": "そして、ダンダンダンダンダンダン！　と激しいノック！！",
+		"TextENG": "Suddenly, thud, thud, thud, thud, thud, thud! Someone is knocking intensely at the door!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153786,
+		"NamesJPN": "圭一の父",
+		"PreTextTags": "@vS24/00/NKFA_0060.",
+		"TextJPN": "「だ、誰ですか！！」",
+		"NamesENG": "Keiichi's dad",
+		"TextENG": "``Who... Who is it!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153787,
+		"TextJPN": "親父が叫ぶ。返事はすぐにあった。",
+		"TextENG": "My father cries. The reply was immediate."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153788,
+		"NamesJPN": "声",
+		"PreTextTags": "@vS24/02/NREN_0180.",
+		"TextJPN": "「こんばんは、竜宮です！　開けてください！」",
+		"NamesENG": "Voice",
+		"TextENG": "``Good evening, it's Ryuugu! Please open the door!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153789,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS24/01/NKEI_0300.",
+		"TextJPN": "「レナだ！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``It's Rena!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153790,
+		"TextJPN": "俺は親父の後から飛び出す。レナのその声色から、今すぐにここを開けなければならない緊急事態を感じ取ったからだ。",
+		"TextENG": "I jump past my dad. From Rena's tone, I can tell this is an emergency so we have to open the door right away."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153791,
+		"TextJPN": "例え村人が、互いを疑い合い殺し合うような異常事態になっても、……俺たち部活メンバーは互いを絶対に疑わないッ！！",
+		"TextENG": "Even if there are other villagers coming to kill her, I can't doubt her in such an abnormal situation, because...... we club members never doubt each other!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153792,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS24/01/NKEI_0310.",
+		"TextJPN": "「ぅ、うわ？！　み、魅音？！　大丈夫かッ？！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Wh-what?! Mi-Mion?! Is she okay?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153793,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS24/02/NREN_0190.",
+		"TextJPN": "「大丈夫なんかじゃない！　早く止血を…！」",
+		"NamesENG": "Rena",
+		"TextENG": "``Of course she's not okay! We need to stop the bleeding...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153794,
+		"TextJPN": "レナに背負われているのは、血塗れになって息も絶え絶えの魅音だった。それを見て、大丈夫か等と問い掛けるのは時間の無駄、社交辞令もいいところだ。",
+		"TextENG": "Rena is carrying Mion on her back, she's covered in blood and gasping for air. Seeing this, it was a complete waste of time to ask if she was okay, but at least she's somewhere safe now."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153795,
+		"TextJPN": "レナはそれを一喝すると、魅音を玄関に運び込んで床に寝かせる。魅音は左腕に怪我をしていて服を血で真っ赤に染めていた。",
+		"TextENG": "Rena charges past me, and lays Mion on the floor at the entrance. Mion's seriously injured in the left shoulder and her clothes are dyed red with blood."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153796,
+		"TextJPN": "…その服の色は本当は黄色だった。",
+		"TextENG": "...The color of her clothes were originally yellow."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153797,
+		"TextJPN": "私服の魅音が好んで着るシャツで、学校を終えてからこの清々しい黄色いシャツの魅音に会うことは、学校での時間に負けないくらいに楽しい時間が再び始まることを感じさせ、とてもうきうきとした気持ちにさせてくれたはずなのに…。",
+		"TextENG": "It's Mion's favorite shirt to wear, that refreshing yellow shirt she puts on right after finishing school to meet me, when the happy times begin again so we won't lose time by just fooling around in school, those are some very cheerful memories, but now..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153798,
+		"TextJPN": "その黄色が、真っ赤に染まって塗り潰されている。",
+		"TextENG": "That yellow has been dyed deep red."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153799,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS24/01/NKEI_0320.",
+		"TextJPN": "「か、母さん！！　手当てをして！　何かタオルを…！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``M-Mom!! We need to treat her! Bring a towel or something...!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153800,
+		"TextJPN": "魅音はハンカチで傷口を押さえているが、血は溢れ続けているようだった。",
+		"TextENG": "Although Mion's wound was being suppressed by a handkerchief, blood continued flowing out."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153801,
+		"TextJPN": "…絞ればぼたぼたと血を滴らせるに違いないそのハンカチが、本当はどんな色でどんな柄で、魅音のお気に入りだったかどうかなんて、もうわからない。",
+		"TextENG": "...That handkerchief would probably gush large amounts of blood if I squeezed it, who knows what color it'll become, will it still be Mion's favorite, I don't even know that."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153802,
+		"NamesJPN": "圭一の父",
+		"PreTextTags": "@vS24/00/NKFA_0070.",
+		"TextJPN": "「い、一体何があったんだ…？！　レナちゃん、これは一体…！！」",
+		"NamesENG": "Keiichi's dad",
+		"TextENG": "``Wh-What on earth happened...?! Rena-chan, what happened...!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153803,
+		"TextJPN": "親父が包丁を隠さずに言う。",
+		"TextENG": "My dad said so while trying to hide the kitchen knife."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153804,
+		"TextJPN": "レナは、何から説明したものかと面倒そうに顔を歪ませる。口で悠長に説明している時間すら惜しい、そう表情が語っていた。",
+		"TextENG": "Rena's face became warped having trouble thinking about how to explain what exactly happened. This also isn't the right time, her expression tells even that."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153805,
+		"TextJPN": "…だが説明は必要だろうか。魅音を背負った際に全身を汚した真っ赤な血は、彼女が語ろうとするどんな言葉よりも事態の急を教えてくれた。",
+		"TextENG": "...But, do we even need an explanation? The bright red stains over Mion's whole body say enough, that taught me immediately what this whole situation was before she even opened her mouth."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153806,
+		"TextJPN": "そして、その説明はレナが想像するどんな説明方法よりも短く説明される。",
+		"TextENG": "Then this visual explanation was far more brief than anything Rena could have said. The bullets sounded frightening as they hit the front door."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153807,
+		"TextJPN": "銃痕ができた？",
+		"TextENG": "Bullets?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153808,
+		"TextJPN": "１秒の間髪を入れずに事態が理解される。撃たれた…！！　誰かが、この玄関へ向けて発砲したのだッ！！！",
+		"TextENG": "I understood this situation within the flash of a second. We were shot at...!! Somebody fired at the entrance hall!!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153809,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS24/02/NREN_0200.",
+		"TextJPN": "「うわあああぁああああぁッ！！！」",
+		"NamesENG": "Rena",
+		"TextENG": "``Uu... Uwaaa~aaaaa~a!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153810,
+		"TextJPN": "その発砲に弾かれるように、レナが身を翻す。魅音を背負っていた時にも、もう片方の手で持っていた大きな鉈を振り上げながら。",
+		"TextENG": "Attracted to the gunshots, Rena runs back outside. Even when she was carrying Mion, she must have been fighting with that big hatchet using her other hand."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153811,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS24/01/NKEI_0330.",
+		"TextJPN": "「ぅ、うおおおぉおおおおッ！！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Uu... Uwaaa~aaaaa~a!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153812,
+		"NamesJPN": "圭一の父",
+		"PreTextTags": "@vS24/00/NKFA_0080.",
+		"TextJPN": "「け、圭一？！」",
+		"NamesENG": "Keiichi's dad",
+		"TextENG": "``K-Keiichi?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153813,
+		"TextJPN": "俺もバットを手に裸足のままレナを追うように飛び出す。その背に親父が俺の名を呼ぶが聞かなかった。",
+		"TextENG": "I chase after Rena, barefoot with a bat in my hand. My dad calls out my name, but I don't hear him."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153814,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS24/01/NKEI_0340.",
+		"TextJPN": "「レ、レナぁああぁッ！！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Re... Rena!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153815,
+		"TextJPN": "レナが、門の前に立つ誰かに飛びかかり、鉈を容赦なく振り下ろした。",
+		"TextENG": "Rena pounced on somebody standing at the front gate, and mercilessly beat his head in with a hatchet."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153816,
+		"TextJPN": "それは信じられないような、それでいて呆気ない光景。",
+		"TextENG": "I couldn't believe it, a disappointing scene nonetheless."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153817,
+		"TextJPN": "さらにレナはもう一人いた男に対し、大きな鉈を軽々と振り上げ、凄まじい投擲で投げつける！",
+		"TextENG": "Rena turns to the other man, and lightly raises her hatchet. She throws it with tremendous strength!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153818,
+		"TextJPN": "それは月の明かりに銀色の反射を閃かせながら飛んで男の肩口に叩き込まれる。小さな黒い飛沫を散らしながら。",
+		"TextENG": "It flies through the air glimmering like silver in the moonlight before smashing in the mans face. Scattering many small black dots."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153819,
+		"TextJPN": "男が短い悲鳴をあげる。",
+		"TextENG": "The man lets out a short scream."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153820,
+		"TextJPN": "俺の脳には、何をするんだレナ！という、通常時の社会モラルから紡がれる言葉と、…レナにここまでの反撃をさせるに値するどれほどの脅威だったのかということを探る２つが入り混じった。",
+		"TextENG": "I think inside my head, what has gotten into Rena! Words spin around inside me contrasting to the morality of our usual peaceful days... I know Rena has to fight back, but I don't think they deserve anything like this."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153821,
+		"TextJPN": "レナは肩口に鉈を受けてのた打ち回っている男に歩み寄ると乱暴に鉈を引き抜き、頭上に肉厚の刃の鉈を振り上げる。",
+		"TextENG": "Rena retrieves her hatchet and runs over to the writhing man, she violently raises it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153822,
+		"TextJPN": "男は、やめてくれと言葉を吐いたが、レナはまったく耳を貸さなかった。",
+		"TextENG": "And hammers the thick hatchet's blade into the man's head over and over. While the man, screamed several times telling her to stop, but Rena didn't listen to any of it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153823,
+		"TextJPN": "一息に振り下ろす。そして、動かなくなったのを見届けた後、言い放つ。",
+		"TextENG": "After making sure he is dead, Rena stops."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153824,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS24/02/NREN_0215.",
+		"TextJPN": "「……ひ、…人を殺すってことはね、自分も殺されることを覚悟するってことだよ！　甘えるんじゃないッ！！」",
+		"NamesENG": "Rena",
+		"TextENG": "``......If... If you want to kill somebody, you should be prepared to die yourself! Don't take that responsibility lightly!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153825,
+		"TextJPN": "まるで、その言葉は俺に対して言われたかのようだった。",
+		"TextENG": "I feel like, those words were meant for me."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153826,
+		"TextJPN": "…多分、レナから見たら、俺の表情はこの緊急事態をまるで理解していない平和ボケが浮かんでいたに違いないのだ。",
+		"TextENG": "...They probably were, because just by looking at Rena, she can tell from my expression that I don't fully understand this situation is an emergency."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153827,
+		"TextJPN": "その時、レナが振り返り鋭く叫ぶ！！",
+		"TextENG": "At that moment, Rena looks back and cries sharply!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153828,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS24/02/NREN_0220.",
+		"TextJPN": "「そっちの男、まだ動いてるよ！！」",
+		"NamesENG": "Rena",
+		"TextENG": "``That man is still alive!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153829,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS24/01/NKEI_0350.",
+		"TextJPN": "「…え、……ぁッ、」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``...Eh......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153830,
+		"TextJPN": "最初にレナが倒した男、…つまり、家の玄関に銃を放った男が額を押さえながら立ち上がろうとしている。",
+		"TextENG": "The man who Rena defeated first... In other words, the man who shot the gun at the front door of my house, is trying to stand back up again."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153831,
+		"TextJPN": "あれだけの大怪我を負わせたならもう許してもいいのでは…。そう思うのは俺の平和ボケのせいなのか。",
+		"TextENG": "Can we even forgive him for giving Mion such a serious injury... Or have I already become senile with peace."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153832,
+		"TextJPN": "…レナはまったくそうは思わなかった。男は片手で額を押さえ、もう片手には未だ猟銃を持っている！　銃の引き金を引く力があるならば、この男の脅威は未だ拭われていない…！！",
+		"TextENG": "...Rena doesn't seem to think so. The man is holding his forehead with one hand, while grasping the hunting rifle with the other! He still has the power to pull the trigger, the threat this man poses has not yet been wiped out...!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153833,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS24/02/NREN_0230.",
+		"TextJPN": "「うらああああああああぁああぁッ！！！」",
+		"NamesENG": "Rena",
+		"TextENG": "``Uraaaaaaaaaaaaa!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153834,
+		"TextJPN": "再び、肉厚の鉄塊が振るわれた。",
+		"TextENG": "Again, that lump of iron is wielded."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153835,
+		"TextJPN": "それは今度こそ、男の活動を停止させる。",
+		"TextENG": "Except this time, it smashes into the man's head."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153836,
+		"TextJPN": "キッとレナが振り返り睨む。それは俺に向けたもの。……この男に近いのはレナではなく俺だった。レナは、俺にその男を打ち倒せと言ったつもりだったのだ。それを俺がぼんやりしていたからレナが襲ったのだ。",
+		"TextENG": "Rena looks back and glares. It is directed at me. ......It's because I was closer to that man than Rena. Rena had intended for me to take him out. But because I was absentminded, Rena attacked him instead."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153837,
+		"TextJPN": "相手は銃だった。相手が素早かったら、レナの位置からは何もできなかった。だから俺に託したのに、俺は事態を未だ飲み込めてなくてぼんやりしていた…。",
+		"TextENG": "Our opponent had a gun. If he was quick, there wouldn't have been anything Rena could have done from where she was standing. It would have been up to me, she trusted me to do it, yet I was absentminded and didn't understand the situation..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153838,
+		"TextJPN": "それが、その険しい表情からわかるから、咄嗟に謝ってしまう。",
+		"TextENG": "I understand this from her fierce expression, I apologize at once."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153839,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS24/01/NKEI_0360.",
+		"TextJPN": "「ご、………ごめん……！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``I'm......... I'm sorry......!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153840,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS24/02/NREN_0240.",
+		"TextJPN": "「いいよ！　それより早く！」",
+		"NamesENG": "Rena",
+		"TextENG": "``It's fine! But we have to be quick!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153841,
+		"TextJPN": "レナは鉈を持ち上げ、もう片手で猟銃を拾う。",
+		"TextENG": "Rena pulls the hatchet out of the man's head, and picks up the hunting rifle with her other hand."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153842,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS24/02/NREN_0250.",
+		"TextJPN": "「銃はね、たとえ撃てなくても相手を怯ませることができる」",
+		"NamesENG": "Rena",
+		"TextENG": "``Even if you can't use a gun, you can still use it to intimidate people.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153843,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS24/01/NKEI_0370.",
+		"TextJPN": "「ぅ、………そ、そうだな…」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Ugh......... Y-You're right...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153844,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS24/02/NREN_0260.",
+		"TextJPN": "「それより、早く逃げる準備を！！」",
+		"NamesENG": "Rena",
+		"TextENG": "``We'll have to get away from here quickly!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153845,
+		"TextJPN": "…え、魅音の手紙には明日と書いてなかったっけ…？",
+		"TextENG": "...Eh, didn't it say in Mion's letter we would leave tomorrow...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153846,
+		"TextJPN": "そんな平和ボケはもうたくさんだッ！",
+		"TextENG": "No, I'm still being senile with peace!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153847,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS24/01/NKEI_0380.",
+		"TextJPN": "「あ、…あぁ！！　でも教えてくれ、一体何があったんだ？！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Y-Yeah!! But tell me, what on earth happened?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153848,
+		"TextJPN": "レナと玄関に駆け戻りながら聞く。",
+		"TextENG": "I talk to Rena as she walks back to the front door."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153849,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS24/02/NREN_0270.",
+		"TextJPN": "「…圭一くんのところにも手紙が来たでしょ？　魅ぃちゃんは私の家にも同じ手紙を持ってきた」",
+		"NamesENG": "Rena",
+		"TextENG": "``...Did she bring a letter to your place too, Keiichi-kun? Mii-chan brought the same letter to my house.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153850,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS24/02/NREN_0280.",
+		"TextJPN": "「そこで夜回りの自警団に見付かって撃たれたんだよ！　魅ぃちゃんが何かしたわけじゃない。ただレナに手紙を持ってきただけなのに撃たれた…！」",
+		"NamesENG": "Rena",
+		"TextENG": "``But she was found by the night watch of the vigilance committee and shot! Mii-chan didn't do anything. She was shot only for bringing a letter to Rena's house...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153851,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS24/02/NREN_0290.",
+		"TextJPN": "「…竜宮家は感染患者だから、そこに接触するのは感染者の仲間だって勝手に決め付けられて、一方的に撃たれた！！　魅ぃちゃんが彼らに対し何かしたわけじゃないのに、構わずに撃たれたッ！！」",
+		"NamesENG": "Rena",
+		"TextENG": "``...Because the Ryuugu family were infected, they labeled anyone and even their friends who came into contact with us also infected, so they shot her!! Mii-chan wasn't doing anything against them, but they shot her anyway without a second thought!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153852,
+		"TextJPN": "レナの目は怒りと悲しみでいっぱいになって、涙をぼろぼろと零していた。そんな激情のレナに掛けられる言葉などない…。",
+		"TextENG": "Rena's eyes are full of sorrow and anger, she's crying like rain. There's nothing I can say anything that can calm Rena down..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153853,
+		"TextJPN": "玄関に戻ると血塗れの魅音にはタオルが与えられ、お袋と一緒に傷口を押さえているところだった。",
+		"TextENG": "I return to the entrance hall and see Mion, my mom's suppressing her wound with a bloody towel."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153854,
+		"TextJPN": "お袋はおろおろするばかり。…家にある常備薬は、せいぜい絆創膏と頭痛薬、風邪薬が関の山だ。銃で撃たれた傷の治療ができる薬なんてあるわけがない！",
+		"TextENG": "My mom doesn't know what to do. ...She got out medicine from our house, headache tablets, band-aids, and even cold medicine. There's no reason any of that crap should be out in the first place, stupid medicine like that can't treat a gunshot wound!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153855,
+		"TextJPN": "戻ってきたレナの服に増えていた返り血と、それに染まった鉈。そして今の騒ぎと、レナが持ってきた猟銃を見て、親父は状況を全て理解したようだった。",
+		"TextENG": "Rena comes back with the victim's blood dyed into her clothes, her hatchet also stained in it. And with all the commotion just now, my dad looks at the hunting rifle Rena brought back, he seems to understand the situation."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153856,
+		"TextJPN": "…親父が全て理解したことをレナもまた理解し、言った。",
+		"TextENG": "...Rena notices my dad's expression, he knows what she is about to say."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153857,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS24/02/NREN_0300.",
+		"TextJPN": "「おじさま、今すぐここから逃げなければ死にます。……私のお父さんはもう殺されました！！　さっき！　魅ぃちゃんを助けようとして、…あいつらは躊躇わなかった！」",
+		"NamesENG": "Rena",
+		"TextENG": "``Mr. Maebara, we'll die if we don't escape here right now. ......My father has already been killed!! A little while ago! When he tried to help Mii-chan, they didn't hesitate!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153858,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS24/02/NREN_0310.",
+		"TextJPN": "「カラスか何かを追っ払うかのようにいとも簡単に撃ったッ！！　信じられない…、信じられないッ！！！」",
+		"NamesENG": "Rena",
+		"TextENG": "``They shot him as easily as shooting at crows to drive them away!! I couldn't believe it... I couldn't believe it!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153859,
+		"TextJPN": "その叫びに、魅音が弱々しく口を開く…。",
+		"TextENG": "Hearing Rena cry, Mion weakly opens her mouth..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153860,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0590.",
+		"TextJPN": "「…………ごめん……レナ…。……私がドジらなきゃ、…………。……本当に……ごめん……」",
+		"NamesENG": "Mion",
+		"TextENG": "``............I'm sorry...... Rena... ......If only I hadn't messed up............ ......Truly...... I'm sorry......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153861,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS24/02/NREN_0320.",
+		"TextJPN": "「…魅ぃちゃんは悪くないよ。そしてレナは誰も恨んでなんかいない。私が恨むべき人間は、全員然るべき清算をさせたもの。もちろん、魅ぃちゃんを撃った人にもね」",
+		"NamesENG": "Rena",
+		"TextENG": "``...It's not your fault, Mii-chan. Rena doesn't bear a grudge against anyone. Except the men that did this, but I've already settled the score with them. Of course, also the people that shot Mii-chan.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153862,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0600.",
+		"TextJPN": "「………………………」",
+		"NamesENG": "Mion",
+		"TextENG": "``...........................``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153863,
+		"TextJPN": "…レナは、ついさっき、目の前で魅音を撃たれ父親を殺され、自らの命も脅かされる地獄から自分の力で脱出してきた。",
+		"TextENG": "...Rena, just moments ago, watched Mion get shot and her father killed before her very eyes, and still managed to escape from that hell using her own power even when her life was threatened."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153864,
+		"TextJPN": "そこを経たレナの、日常では垣間見ることも叶わぬその表情が、…どれほどの地獄だったかを、見ぬ自分にも理解させる。",
+		"TextENG": "Rena just came from that, her face gave me a glimpse on what our daily life will truly become... Hell in itself, I never saw what she went through, but I can understand."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153865,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS24/02/NREN_0330.",
+		"TextJPN": "「………とにかく、…すぐに逃げる準備を……。もうすぐみんな押し寄せてくる…！」",
+		"NamesENG": "Rena",
+		"TextENG": "``.........Anyway... make preparations to leave immediately...... More of them will be coming soon...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153866,
+		"TextJPN": "なぜ、どうして、ここに村人が押し寄せてくるのか。そして何をしようというのか。それを問い掛ける必要は、血塗れの魅音の口から出る言葉に限り、なかった。",
+		"TextENG": "Why, why are the villagers rushing here. And for what reason. I don't even need to ask myself that, the only words I need to hear are the ones from Mion's bloody mouth."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153867,
+		"TextJPN": "だから親父は混乱をぐっと飲み込んで押さえ、一回咳き込んでから聞いた。",
+		"TextENG": "Therefore, my dad is trying to strongly swallow this distributing situation, I hear him cough only once."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153868,
+		"NamesJPN": "圭一の父",
+		"PreTextTags": "@vS24/00/NKFA_0090.",
+		"TextJPN": "「に、逃げるって、…どこへ…！」",
+		"NamesENG": "Keiichi's dad",
+		"TextENG": "``E-Escape... to where...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153869,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS24/02/NREN_0340.",
+		"TextJPN": "「魅ぃちゃんの家の秘密の地下に、村人は誰も知らない隠しトンネルがあるんです！　そこまで逃げ延びれば、何とかなるかもって…！」",
+		"NamesENG": "Rena",
+		"TextENG": "``It's a secret in the basement of Mii-chan's house, a hidden tunnel that none of the villagers know about! If we can safety escape to there, we'll manage to survive...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153870,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0610.",
+		"TextJPN": "「……げほ、…げほ…！」",
+		"NamesENG": "Mion",
+		"TextENG": "``......*Cough*... *cough*...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153871,
+		"TextJPN": "レナが魅音に代わって、俺宛の手紙にも書いてあったことを説明する。魅音は説明を引き継ごうとしたのだろうが、咽こんでしまった。",
+		"TextENG": "Rena, on the behalf of Mion, explains what was written on the letter that was addressed to me. Mion tries to take over, but her throat gets clogged."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153872,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS24/01/NKEI_0390.",
+		"TextJPN": "「父さん、母さん、…い、一刻の猶予もないよ…！　逃げよう！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``Dad, mom... W-We don't have a moment to lose...! We have to escape!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153873,
+		"NamesJPN": "圭一の父",
+		"PreTextTags": "@vS24/00/NKFA_0100.",
+		"TextJPN": "「……そ、…そうだな、そうしよう！」",
+		"NamesENG": "Keiichi's dad",
+		"TextENG": "``......O-Okay, let's do that!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153874,
+		"TextJPN": "親父は、差し迫っている緊急事態を把握し、平均的な社会人として持つ日常のモラルを捨てるために数瞬を経てから頷いた。…だが、お袋は即断できなかった。",
+		"TextENG": "My dad, able to understand the impending emergency, nods at Rena, ready to abandon the everyday morals he had kept as an average member of society. ...But, my mom could not make the same decision."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153875,
+		"NamesJPN": "圭一の母",
+		"PreTextTags": "@vS24/00/NKMO_0040.",
+		"TextJPN": "「で、でも！　逃げたらこの家はどうなるんですか！？　何が起こるかわからないのよ？！」",
+		"NamesENG": "Keiichi's mom",
+		"TextENG": "``B-But! What will happen to our house if we run away!? Do we even know what will happen to it?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153876,
+		"TextJPN": "暴徒化した村人がやって来たら、放火くらいのことはされるかもしれない。…でも、そこまでわかっているならお袋の躊躇は矛盾していた。",
+		"TextENG": "Once the village mob arrives, they'll probably commit arson. ...But, my mom hesitated to admit or understand the fact it could happen."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153877,
+		"TextJPN": "放火すらしかねない暴徒がやって来るというのに、ここに立て篭もって何ができるというのか。自分たちがどういう目に遭わされるのか…！",
+		"TextENG": "The mob will eventually arrive and commit arson, we can't be inside when that happens. What kind of experience are they trying to force people through...!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153878,
+		"TextJPN": "…お袋は決して馬鹿じゃない。いや、だからこそ頭が空回りして混乱してしまったのかもしれない。今この場においては、隔離の当日から神経質だった親父の方がむしろ冷静と言えた。",
+		"TextENG": "...My mom's not stupid at all. No, she's probably just confused on what to do. Even right now, she's become the nervous one rather than my dad was since the day of the quarantine."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153879,
+		"TextJPN": "お袋はそれでも何とか冷静さを取り戻し、通帳類を入れたハンドバッグだけを取りに戻る。",
+		"TextENG": "Still, my mom regained her composure somehow, she has begun to collect the bankbooks and decided to bring only a handbag to put stuff in."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153880,
+		"TextJPN": "親父はレナから猟銃を受け取っていた。",
+		"TextENG": "Meanwhile, my dad received the hunting rifle from Rena."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153881,
+		"TextJPN": "……よく似たタイプの空気銃を持っていたことがあるから扱いはわかると豪語するが、それが頼もしい言葉なのか、頼りない言葉なのかは聞き手によって異なるだろう。",
+		"TextENG": "......He boasts the handling should be similar to an air rifle, but I guess it depends on the listener if those words are reliable or not."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153882,
+		"TextJPN": "魅音は、自分が足手まといになるから置いていけと言っていたが、レナはその頬を容赦なく叩く。",
+		"TextENG": "Mion tells us to leave her behind because she would only slow us down, but Rena slaps her cheek mercilessly."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153883,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS24/02/NREN_0350.",
+		"TextJPN": "「ダメだよ！　魅ぃちゃんじゃなきゃ、秘密の地下はわからない！　軽々しく責任を放棄しないで！！　私たちを導いてッ！！」",
+		"NamesENG": "Rena",
+		"TextENG": "``There's no point! Without you, Mii-chan, we don't know how to find the secret basement! You can't just carelessly abandon your responsibility!! Lead us there!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153884,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0620.",
+		"TextJPN": "「……はは、………レナにかかっちゃ、…おちおち死なせてももらえないや…」",
+		"NamesENG": "Mion",
+		"TextENG": "``......Ha ha......... I can always depend on Rena... you won't even let me die in peace...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153885,
+		"TextJPN": "魅音は悪態をつく程度には気力を回復できたようだった。",
+		"TextENG": "Mion seemed to recover her spirit, to an almost curse like extent."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153886,
+		"TextJPN": "だが、傷口をいつまでも放置はできない。然るべき医師に見せなければ大量の出血で大事を免れなくなるだろう。",
+		"TextENG": "But, we can't leave her wound like that forever. It will become a serious matter if we don't get her to a doctor to stop the mass bleeding."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153887,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS24/02/NREN_0360.",
+		"TextJPN": "「…ねぇ、魅ぃちゃん。………問答してる時間はないから素直に教えて」",
+		"NamesENG": "Rena",
+		"TextENG": "``...Hey, Mii-chan. .........We don't have time to discuss it, so be honest with me.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153888,
+		"TextJPN": "レナが乾いた表情のまま、睨みを利かせて魅音に聞く。",
+		"TextENG": "Rena's expression is dry, she glares at Mion and waits for an answer."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153889,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS24/02/NREN_0370.",
+		"TextJPN": "「どうして沙都子ちゃんを抜きにして脱出しようなんて言うの？」",
+		"NamesENG": "Rena",
+		"TextENG": "``Why are you asking us to leave Satoko-chan behind and escape by ourselves?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153890,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS24/01/NKEI_0400.",
+		"TextJPN": "「……そ、そうだ！　それは俺も思ってた！！　沙都子はどうしたんだよ魅音！　状況的には俺やレナよりもずっとまずいんだろ？！　沙都子だけ置いてなんかいけないぞ！！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``......Th-That's right! I was wondering that, too!! Tell us what's going to happen to Satoko, Mion! Is she in a worse situation than me or Rena?! Did you do something to put Satoko in danger!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153891,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0630.",
+		"TextJPN": "「………………………沙都子は…」",
+		"NamesENG": "Mion",
+		"TextENG": "``...........................Satoko...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153892,
+		"TextJPN": "魅音が言いよどむ。だがレナはその誤魔化しを受け付けなかった。",
+		"TextENG": "Mion fumbles for the right words. But Rena doesn't accept her deception."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153893,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS24/02/NREN_0380.",
+		"TextJPN": "「死んだなら死んだってちゃんと言って…！！　じゃなきゃ私は、沙都子ちゃんは生きているって信じるッ！！」",
+		"NamesENG": "Rena",
+		"TextENG": "``If she's dead just tell us she's dead...!! Because if not, I want to believe that Satoko-chan is still alive!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153894,
+		"TextJPN": "俺は思わず目を堅く絞るように閉じてしまう…。その最悪の想像は俺の脳裏を一度や二度ならずかすめていた。",
+		"TextENG": "I unintentionally squeeze my eyes shut... And imagine the worst possibilities as they pass through my mind."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153895,
+		"TextJPN": "……魅音は沙都子のことを絶対に忘れやしない。なのに手紙からは沙都子の名が抜け落ちていた。",
+		"TextENG": "......Mion would never forget about Satoko. However, Satoko's name was missing from the letter."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153896,
+		"TextJPN": "だとしたら、考えられる理由はただひとつ……！　そのただひとつは俺だって思いついていた。でもそれを口にできなかった…！！",
+		"TextENG": "So if that was the case, I can only imagine one thing......! Even though I had considered it, the words could not escape from my mouth...!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153897,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0640.",
+		"TextJPN": "「……さ、沙都子は、……さっき、暴徒に連れ去られたらしい…。話では鬼ヶ淵に引き連れてったって…。伝承の生贄の儀に沿って、三日かけて沈めて殺す気らしい…」",
+		"NamesENG": "Mion",
+		"TextENG": "``......Sa-Satoko was... ...A little while ago, taken away by the mob... They all believe the Onigafuchi solution will fix things... She's to be the sacrifice for the ceremony from the legend of Onigafuchi, they intend to drown her at the end of a three day ritual...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153898,
+		"NamesJPN": "圭一＆レナ",
+		"PreTextTags": "@o75.@vS24/01/NKEI_0410|S24/02/NREN_0390.",
+		"TextJPN": "「まだ、生きてるんだなッ？！」@r@t「まだ、生きてるのねッ？！」",
+		"NamesENG": "Keiichi & Rena",
+		"TextENG": "``So she's alive?!``@r@t``So she's alive?!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153899,
+		"TextJPN": "俺とレナが同時に魅音に食いかかる。",
+		"TextENG": "Rena and I speak at the same time after Mion."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153900,
+		"TextJPN": "だが、魅音が沙都子を見殺しにしようとしたことを責めようなんて馬鹿な考えはこれっぽっちも浮かばなかった。",
+		"TextENG": "But, we shouldn't blame Mion for what happened to Satoko, it's stupid to think she could have stopped them."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153901,
+		"TextJPN": "……魅音は、園崎家の立場として聞き及んだ情報を冷静に判断して、どうやっても救えないと判断したのだ…！　苦渋の末にだ！",
+		"TextENG": "......Mion probably took in the information she heard and calmly made a judgement from the viewpoint of a member of the Sonozaki family, and determined that she couldn't save her no matter what she did...! In the end, it must have been an agonizing decision!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153902,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0650.",
+		"TextJPN": "「……どうしようもない…！　どうしようもないんだよ…！！　ううぅぅ！」",
+		"NamesENG": "Mion",
+		"TextENG": "``......There's nothing we can do...! We can't do anything...!! Uuuuuu!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153903,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0660.",
+		"TextJPN": "「町会役員たちが音頭を取って、神社部と青年部、防犯部がさらに村の有志も加えて１００人以上に膨れ上がってるらしい！！　防犯部には猟友会も合流してて少なくとも２０丁以上のショットガン、ライフルで武装してる！」",
+		"NamesENG": "Mion",
+		"TextENG": "``With the Neighborhood association officers taking the helm, partnered with the Youth league and the Shrine association, they have bolstered security in the village swelling their ranks with over 100 volunteers!! They've even joined up with the Hunters association, who are armed with more than 20 shotguns and hunting rifles!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153904,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0670.",
+		"TextJPN": "「みんなオヤシロさまの名を連呼しながら狂気に取り憑かれてる暴徒なんだよ！！　連中は容赦ない！　沙都子を庇おうとした村人に躊躇なく発砲してる！！」",
+		"NamesENG": "Mion",
+		"TextENG": "``They're an insane mob obsessed with madness chanting the name of Oyashiro-sama!! Those people are merciless! They shot and killed without hesitation the villagers who tried to protect Satoko!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153905,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS24/02/NREN_0400.",
+		"TextJPN": "「魅ぃちゃんや、私のお父さんのように…？」",
+		"NamesENG": "Rena",
+		"TextENG": "``Mii-chan, you mean just like my dad...?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153906,
+		"TextJPN": "魅音は涙を零しながら悔しそうに頷く。それを食い止められなかった自身の無力さに涙し、そしてこの狂気の村の中で正義を貫いて命を失った村人のためにも涙を流した。",
+		"TextENG": "Mion nods in regret while crying. Shedding tears at how powerless she was, and tears for the villagers who lost their lives through the insane justice of this mad village."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153907,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0680.",
+		"TextJPN": "「………何でかわかんないよッ！！　みんなつい３日前までは普通だった、冷静だったッ！！　この７２時間でみるみるおかしくなっていった！　みんな目が血走ったようになって、冷静さを失っていった！」",
+		"NamesENG": "Mion",
+		"TextENG": "``.........I don't know what to do!! They were completely normal just three days ago!! But they all started acting strange after 72 hours! Their eyes are so bloodshot, they've lost all composure!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153908,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0690.",
+		"TextJPN": "「自衛隊がいなくなったからおかしくなったんじゃない！　その前からもうおかしかったんだよ！！　今や怖いのは殺人ウィルスなんかじゃない、村のみんななんだ…ッ！！」",
+		"NamesENG": "Mion",
+		"TextENG": "``They only started to act like this after the Self-Defense Forces left! There was nothing wrong with them before that!! I'm not scared of this killer virus, people of this village are scarier...!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153909,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0700.",
+		"TextJPN": "「……………私、……思うんだよ。………このウィルスってさ。……人を死に至らしめるんじゃなくて、人を狂気に駆り立てるウィルスなんじゃないかなって」",
+		"NamesENG": "Mion",
+		"TextENG": "``...............I...... I Think. .........This virus... ...Rather than just kill us, the virus wants to force everyone to go insane."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153910,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0705.",
+		"TextJPN": "「……そして村人を次々、鬼に変えていって、……オヤシロさま伝説をもう一度なぞり直すんだよ…！」",
+		"NamesENG": "Mion",
+		"TextENG": "......Then one after another, the villagers will take the place of the demon ......and they will once again re-enact the legend of Oyashiro-sama...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153911,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0710.",
+		"TextJPN": "「この事態を何とかできるのはオヤシロさましかいない！　そしてその生まれ変わりの梨花ちゃんはいない！」",
+		"NamesENG": "Mion",
+		"TextENG": "``The only one who can do anything about this situation is Oyashiro-sama, but he is not with us! Rika-chan, his reincarnation, is not even with us!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153912,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0715.",
+		"TextJPN": "「それにそもそもオヤシロさまは神さまなんだよ？　人間じゃないんだよ？！　私たち人間には何もできないんだよ、何もッ！！！」",
+		"NamesENG": "Mion",
+		"TextENG": "Isn't Oyashiro-sama god in the first place? Then what about us?! We human beings can't do anything! Nothing!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153913,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS24/01/NKEI_0420.",
+		"TextJPN": "「………落ち着け、魅音……！」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``.........Calm down, Mion......!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153914,
+		"TextJPN": "俺はしゃがみ、傷に障るのを承知で、魅音の頭を力強く抱き俺の鼓動を聞かせてやった…。",
+		"TextENG": "I squat down beside her, and notice the wound, I can hear Mion's strong heartbeat as I embrace her head..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153915,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS24/01/NKEI_0430.",
+		"TextJPN": "「…………ありがとうな。…俺やレナが事態を把握できずのんびりしている間にも、魅音は村の裏側で、妙なデマを押さえるために色々と苦労していてくれたんだよな…。……だから、きっと今日までこの村は狂気に飲み込まれなかった…」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``............Thank you. ...While Rena and I were relaxing and didn't understand the situation, you were there at the back of the village, Mion, struggling in order to suppress those fake rumors... ......So, I'm sure this village was only swallowed up in madness today...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153916,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS24/01/NKEI_0440.",
+		"TextJPN": "「……魅音の頑張りがなかったら、……いずれ迎えていたかもしれない惨劇の今日は、…とっくに俺たちを飲み込んでいた」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``......If it was not for your best efforts, Mion...... this tragedy would have already greeted us... we would have been swallowed a long time ago.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153917,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS24/01/NKEI_0450.",
+		"TextJPN": "「…………だからありがとう、魅音」",
+		"NamesENG": "Keiichi",
+		"TextENG": "``............So thank you, Mion.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 153918,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS24/03/NMIO_0720.",
+		"TextJPN": "「…………………ぁ………ぅ、……………ぅああ…ああぁああああぁあぁあぁ…」",
+		"NamesENG": "Mion",
+		"TextENG": "``.....................Ah... ......uu......... ......uuah... aaaaahhhhh...``"
+	}
+]

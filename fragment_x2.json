@@ -1,162 +1,160 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "X2 事件報告４",
-            "ENG": "X2 Incident Report 4"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11218,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "【事件報告４：垣内ＳＡ女性刑事強殺事件】",
-            "AfterTextTags": "@|@y",
-            "TextENG": "[Incident Report 4: Kakiuchi Service Area Female Detective Murder Case]"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11219,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "１．発生@r昭和５８年８月◯日",
-            "AfterTextTags": "@|@y",
-            "TextENG": "1. Occurrence@rAugust X, 1983."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11220,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "２．場所@r愛知県垣内市内垣内ＳＡ",
-            "AfterTextTags": "@|@y",
-            "TextENG": "2. Location@rKakiuchi Service Area, Kakiuchi City, Aichi Prefecture."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11221,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "３．概要@r愛知県警察本部の通信指令室に、公衆電話回線による１１０番通報が入る。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "3. Overview@rThe incident was reported to the communications center of Aichi prefectural police headquarters from a public telephone line."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11222,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "通報元は、垣内ＳＡ内の公衆電話ボックス８号。通報者は匿名の男性。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "The source of the call was public phone box number 8 in the Kakiuchi Service Area. The report came from an anonymous man."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11223,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "家族旅行の帰りに立ち寄ったＳＡのレストランから出て一人公衆トイレに向かう途中、そばの駐車場にて不審な行動をしている人物を見とがめたとのことだった。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "The man claimed to be stopping at the service area on the way home from a family trip, and while heading from the restaurant to the bathrooms, he said he noticed a suspicious looking person in a nearby parking lot."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11224,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "その報を受け、所轄の垣内署から付近を巡回警らしていた警察車両７号車に連絡が入り、警察官２名が現場へと急行。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "In response to that information, police car number 7 which was on patrol in that area was contacted by Kakiuchi Station, since the area was under their jurisdiction, and two police officers rushed to the scene."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11225,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "通報から１７分後に到着し、通報者の証言に近い服装をした男に職務質問をかけたところ、即座に現場から逃走。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "They arrived 17 minutes after the initial report and were about to question a man matching the caller's description, but the suspect immediately fled the scene."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11226,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "その際、警察官一名を突き飛ばしたため、公務執行妨害を適用して男を追跡の末に捕獲し、警察車両内に拘束。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "One police officer was knocked out at the time, so the man was pursued and then detained in a police car on the charge of obstructing government duties."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11227,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "そこで当人の身体検査をとり行ったが、上着のポケットから数点の工具と凶器（刃渡り２０センチ未満のナイフ）、複数の財布が発見された。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "The man was then physically examined. Several tools and weapons (knives under 20cm in length), and multiple wallets were found in his jacket pockets."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11228,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "その中に、明らかに本人のものではない運転免許証が含まれていたため、車上荒らしと判断。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "It was judged as vehicular burglary, since not a single one of the wallets had a driver's license that matched him."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11229,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "やや遅れて到着した垣内署の捜査員が確認の上、窃盗と器物破損の現行犯として逮捕、男を垣内署へと連行した。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "After confirmation by a Kakiuchi Station investigator who arrived a little later, he was arrested on charges of theft and property damage, and taken to Kakiuchi Station."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11230,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "その後行われた取り調べの際、７月に同じく垣内ＳＡ内にて起きた南井巴警部（当時・殉職後警視正）強殺事件と手口が似ていることを、捜査員の１人が重視。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "During subsequent interrogation, investigators noticed that the methods used were similar to the murder of Chief Inspector Tomoe Minai (now Senior Superintendent after being killed in action), which also occurred at the Kakiuchi Service Area back in July."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11231,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "男は当初容疑を否認したものの、犯人しか知り得ない情報を雑談の際にふと口にしていた事実を指摘されたことで、自白を開始。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "The man initially denied the charges, but later began to confess after investigators pointed out he was saying things only the criminal could have known at the time."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11232,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "南井警部を殺害した事実を認め、調書に署名をしたことで強盗殺人の容疑で男を再逮捕。地検は即日起訴を行った。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "He admitted to Chief Inspector Minai's murder, and was then arraigned on the new charge of murder-robbery. On those grounds, the prosecution filed for same-day indictment."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11233,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "４．審議@rしかし、数ヶ月後に行われた一審では、男は容疑を一転して否認。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "4. Deliberation@rHowever, the man changed course and denied all charges at the trial a few months later."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11234,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "理由は「証言は、執拗な取り調べで疲弊した被告が誘導された返答から、担当の刑事が曲解して作り出したものである」というものだった。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "The defendant's reasoning was ``that testimony was coerced by detectives forcing him into exhausting, persistent interrogation.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11235,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "一部マスコミでは冤罪の可能性も、との声もあったが、被告が窃盗の常習者として前科二犯であったこともあり、一審では死刑判決がくだされる。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Some media outlets reported it was possibly a false accusation, but since the defendant was a habitual offender with two previous charges, the first trial sentenced him to the death penalty."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 11236,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "被告は即日控訴し、現在は再審を求めて再審理中である……。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "The defendant filed an appeal that same day and is currently awaiting a new trial..."
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "X2 事件報告４",
+		"ENG": "X2 Incident Report 4"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11218,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "【事件報告４：垣内ＳＡ女性刑事強殺事件】",
+		"AfterTextTags": "@|@y",
+		"TextENG": "[Incident Report 4: Kakiuchi Service Area Female Detective Murder Case]"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11219,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "１．発生@r昭和５８年８月◯日",
+		"AfterTextTags": "@|@y",
+		"TextENG": "1. Occurrence@rAugust X, 1983."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11220,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "２．場所@r愛知県垣内市内垣内ＳＡ",
+		"AfterTextTags": "@|@y",
+		"TextENG": "2. Location@rKakiuchi Service Area, Kakiuchi City, Aichi Prefecture."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11221,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "３．概要@r愛知県警察本部の通信指令室に、公衆電話回線による１１０番通報が入る。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "3. Overview@rThe incident was reported to the communications center of Aichi prefectural police headquarters from a public telephone line."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11222,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "通報元は、垣内ＳＡ内の公衆電話ボックス８号。通報者は匿名の男性。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "The source of the call was public phone box number 8 in the Kakiuchi Service Area. The report came from an anonymous man."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11223,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "家族旅行の帰りに立ち寄ったＳＡのレストランから出て一人公衆トイレに向かう途中、そばの駐車場にて不審な行動をしている人物を見とがめたとのことだった。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "The man claimed to be stopping at the service area on the way home from a family trip, and while heading from the restaurant to the bathrooms, he said he noticed a suspicious looking person in a nearby parking lot."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11224,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "その報を受け、所轄の垣内署から付近を巡回警らしていた警察車両７号車に連絡が入り、警察官２名が現場へと急行。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "In response to that information, police car number 7 which was on patrol in that area was contacted by Kakiuchi Station, since the area was under their jurisdiction, and two police officers rushed to the scene."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11225,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "通報から１７分後に到着し、通報者の証言に近い服装をした男に職務質問をかけたところ、即座に現場から逃走。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "They arrived 17 minutes after the initial report and were about to question a man matching the caller's description, but the suspect immediately fled the scene."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11226,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "その際、警察官一名を突き飛ばしたため、公務執行妨害を適用して男を追跡の末に捕獲し、警察車両内に拘束。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "One police officer was knocked out at the time, so the man was pursued and then detained in a police car on the charge of obstructing government duties."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11227,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "そこで当人の身体検査をとり行ったが、上着のポケットから数点の工具と凶器（刃渡り２０センチ未満のナイフ）、複数の財布が発見された。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "The man was then physically examined. Several tools and weapons (knives under 20cm in length), and multiple wallets were found in his jacket pockets."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11228,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "その中に、明らかに本人のものではない運転免許証が含まれていたため、車上荒らしと判断。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "It was judged as vehicular burglary, since not a single one of the wallets had a driver's license that matched him."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11229,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "やや遅れて到着した垣内署の捜査員が確認の上、窃盗と器物破損の現行犯として逮捕、男を垣内署へと連行した。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "After confirmation by a Kakiuchi Station investigator who arrived a little later, he was arrested on charges of theft and property damage, and taken to Kakiuchi Station."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11230,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "その後行われた取り調べの際、７月に同じく垣内ＳＡ内にて起きた南井巴警部（当時・殉職後警視正）強殺事件と手口が似ていることを、捜査員の１人が重視。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "During subsequent interrogation, investigators noticed that the methods used were similar to the murder of Chief Inspector Tomoe Minai (now Senior Superintendent after being killed in action), which also occurred at the Kakiuchi Service Area back in July."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11231,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "男は当初容疑を否認したものの、犯人しか知り得ない情報を雑談の際にふと口にしていた事実を指摘されたことで、自白を開始。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "The man initially denied the charges, but later began to confess after investigators pointed out he was saying things only the criminal could have known at the time."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11232,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "南井警部を殺害した事実を認め、調書に署名をしたことで強盗殺人の容疑で男を再逮捕。地検は即日起訴を行った。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "He admitted to Chief Inspector Minai's murder, and was then arraigned on the new charge of murder-robbery. On those grounds, the prosecution filed for same-day indictment."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11233,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "４．審議@rしかし、数ヶ月後に行われた一審では、男は容疑を一転して否認。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "4. Deliberation@rHowever, the man changed course and denied all charges at the trial a few months later."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11234,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "理由は「証言は、執拗な取り調べで疲弊した被告が誘導された返答から、担当の刑事が曲解して作り出したものである」というものだった。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "The defendant's reasoning was ``that testimony was coerced by detectives forcing him into exhausting, persistent interrogation.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11235,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "一部マスコミでは冤罪の可能性も、との声もあったが、被告が窃盗の常習者として前科二犯であったこともあり、一審では死刑判決がくだされる。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Some media outlets reported it was possibly a false accusation, but since the defendant was a habitual offender with two previous charges, the first trial sentenced him to the death penalty."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 11236,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "被告は即日控訴し、現在は再審を求めて再審理中である……。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "The defendant filed an appeal that same day and is currently awaiting a new trial..."
+	}
+]

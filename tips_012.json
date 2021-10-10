@@ -1,82 +1,80 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "無線記録",
-            "ENG": "Radio Log"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12835,
-            "NamesJPN": "興宮ＰＳ",
-            "PreTextTags": "@vS20/00/KeijiC44001.",
-            "TextJPN": "「３号どうぞ。３号どうぞ」",
-            "NamesENG": "Okinomiya PS",
-            "TextENG": "``Unit 3 please respond. Unit 3 please respond.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12836,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700001.",
-            "TextJPN": "「３号です。感度良好ー」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``This is Unit 3, loud and clear.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12837,
-            "NamesJPN": "興宮ＰＳ",
-            "PreTextTags": "@vS20/00/KeijiC44002.",
-            "TextJPN": "「応援が向かいました。別命あるまで維持願います。@k@vS20/00/KeijiC44003.どうぞー」",
-            "NamesENG": "Okinomiya PS",
-            "TextENG": "``Back-up is heading your way. Hold position until further instructions.@k@vS20/00/KeijiC44003. Over.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12838,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700002.",
-            "TextJPN": "「はいー、３号了解」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Roger, Unit 3 acknowledged.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12839,
-            "NamesJPN": "興宮ＰＳ",
-            "PreTextTags": "@vS20/00/KeijiC44004.",
-            "TextJPN": "「それから回転灯は点けないでお願いします。静か静かで願います」",
-            "NamesENG": "Okinomiya PS",
-            "TextENG": "``Requesting no headlights. Requesting radio silence.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12840,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700003.",
-            "TextJPN": "「今、先生が到着しました。運びたいそうですがどうしますか。@k@vS20/11/440700004.どうぞ」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``The doctor has arrived. What to do now?@k@vS20/11/440700004. Over.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12841,
-            "NamesJPN": "興宮ＰＳ",
-            "PreTextTags": "@vS20/00/KeijiC44005.",
-            "TextJPN": "「了解しました。先生に任せてください」",
-            "NamesENG": "Okinomiya PS",
-            "TextENG": "``Acknowledged. Leave it to the doctor.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 12842,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700005.",
-            "TextJPN": "「はいー。了解です。@k@vS20/11/440700006.……あ、応援も到着しました。@k@vS20/11/440700007.先に写真撮らせた方がいいんじゃないですか？@k@vS20/11/440700008.　…ガイ者、もームダだと思いますしー」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Affirmative. Understood.@k@vS20/11/440700006. ...Ah, back-up has arrived.@k@vS20/11/440700007. Shouldn't we let them take a photo first?@k@vS20/11/440700008. ...I think the vic is done for.``"
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "無線記録",
+		"ENG": "Radio Log"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12835,
+		"NamesJPN": "興宮ＰＳ",
+		"PreTextTags": "@vS20/00/KeijiC44001.",
+		"TextJPN": "「３号どうぞ。３号どうぞ」",
+		"NamesENG": "Okinomiya PS",
+		"TextENG": "``Unit 3 please respond. Unit 3 please respond.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12836,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700001.",
+		"TextJPN": "「３号です。感度良好ー」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``This is Unit 3, loud and clear.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12837,
+		"NamesJPN": "興宮ＰＳ",
+		"PreTextTags": "@vS20/00/KeijiC44002.",
+		"TextJPN": "「応援が向かいました。別命あるまで維持願います。@k@vS20/00/KeijiC44003.どうぞー」",
+		"NamesENG": "Okinomiya PS",
+		"TextENG": "``Back-up is heading your way. Hold position until further instructions.@k@vS20/00/KeijiC44003. Over.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12838,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700002.",
+		"TextJPN": "「はいー、３号了解」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Roger, Unit 3 acknowledged.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12839,
+		"NamesJPN": "興宮ＰＳ",
+		"PreTextTags": "@vS20/00/KeijiC44004.",
+		"TextJPN": "「それから回転灯は点けないでお願いします。静か静かで願います」",
+		"NamesENG": "Okinomiya PS",
+		"TextENG": "``Requesting no headlights. Requesting radio silence.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12840,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700003.",
+		"TextJPN": "「今、先生が到着しました。運びたいそうですがどうしますか。@k@vS20/11/440700004.どうぞ」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``The doctor has arrived. What to do now?@k@vS20/11/440700004. Over.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12841,
+		"NamesJPN": "興宮ＰＳ",
+		"PreTextTags": "@vS20/00/KeijiC44005.",
+		"TextJPN": "「了解しました。先生に任せてください」",
+		"NamesENG": "Okinomiya PS",
+		"TextENG": "``Acknowledged. Leave it to the doctor.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 12842,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700005.",
+		"TextJPN": "「はいー。了解です。@k@vS20/11/440700006.……あ、応援も到着しました。@k@vS20/11/440700007.先に写真撮らせた方がいいんじゃないですか？@k@vS20/11/440700008.　…ガイ者、もームダだと思いますしー」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Affirmative. Understood.@k@vS20/11/440700006. ...Ah, back-up has arrived.@k@vS20/11/440700007. Shouldn't we let them take a photo first?@k@vS20/11/440700008. ...I think the vic is done for.``"
+	}
+]

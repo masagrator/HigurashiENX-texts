@@ -1,430 +1,428 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "#2 青春スイッチオンで水着回キターッ！",
-            "ENG": "#2 青春スイッチオンで水着回キターッ！"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152752,
-            "NamesJPN": "羽入",
-            "PreTextTags": "@vS23/12/VTH_hanyu1001.",
-            "TextJPN": "それは、７月に入ったばかりの、@r真夏なみに暑かったある日の放課後のことでした。",
-            "NamesENG": "Hanyuu",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152753,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS23/05/VTH_rika1003.",
-            "TextJPN": "「……みー！　みんな、ちょっと聞いてほしいのです」",
-            "NamesENG": "Rika",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152754,
-            "NamesJPN": "部活メンバー",
-            "PreTextTags": "@o60.@vS23/01/VTH_k11003|S23/02/VTH_rena1003|S23/03/VTH_mion1005|S23/04/VTH_satoko1002.",
-            "TextJPN": "「「……？」」",
-            "NamesENG": "Club Members",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152755,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS23/01/VTH_k11004.",
-            "TextJPN": "「どうした、梨花ちゃん？」",
-            "NamesENG": "Keiichi",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152756,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS23/05/VTH_rika1004.",
-            "TextJPN": "「みー！　ボクはみんなとプールに行きたいのです」",
-            "NamesENG": "Rika",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152757,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS23/01/VTH_k11005.",
-            "TextJPN": "「え、……プール？」",
-            "NamesENG": "Keiichi",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152758,
-            "TextJPN": "部活が終わり、後片付けをしている最中に、梨花ちゃんが突然言い出した。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152759,
-            "TextJPN": "唐突ではあったが、言われてみれば、日頃から梨花ちゃんはそれを口にしていた気がする。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152760,
-            "TextJPN": "時期はようやく７月に入ったばかり。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152761,
-            "TextJPN": "夏休みまではもうちょっとあるが、今年は異常気象なのか、７月の頭でも真夏並みの暑さの日が続いていた。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152762,
-            "TextJPN": "梨花ちゃんがプールに行きたいと言い出したとしても、それは不思議なことではなかった。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152763,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS23/03/VTH_mion1006.",
-            "TextJPN": "「そういえば梨花ちゃん、ここのところプールに行きたい、ってずっと言ってたもんね。@k@vS23/03/VTH_mion1007.ふーむ、プールか……確かにこれだけ暑いと、プールが恋しくなるねぇ～」",
-            "NamesENG": "Mion",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152764,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS23/02/VTH_rena1004.",
-            "TextJPN": "「はぅ！　いいねいいね！@k@vS23/02/VTH_rena1005.　レナはもちろん異議なーし、だよっ♪」",
-            "NamesENG": "Rena",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152765,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS23/04/VTH_satoko1003.",
-            "TextJPN": "「ですわねぇ。@k@vS23/04/VTH_satoko1004.たまには沢遊びじゃなくて、広いプールの中を思い切り泳ぎまわりたいでしてよ」",
-            "NamesENG": "Satoko",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152766,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS23/01/VTH_k11006.",
-            "TextJPN": "「そういや、この学校ってプールないよな。@k@vS23/01/VTH_k11007.プール授業とかはどうしてるんだ？」",
-            "NamesENG": "Keiichi",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152767,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS23/03/VTH_mion1008.",
-            "TextJPN": "「沢で水遊びしたり、興宮の市民プールにみんなで行ったりしてるよ。@k@vS23/03/VTH_mion1009.そこって去年、改築が終わってね。@k@vS23/03/VTH_mion1010.少しは遊べるプールになったんだよ」",
-            "NamesENG": "Mion",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152768,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS23/05/VTH_rika1005.",
-            "TextJPN": "「……みー！　流れるプールやウォータースライダーが楽しみなのですよ」",
-            "NamesENG": "Rika",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152769,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS23/02/VTH_rena1006.",
-            "TextJPN": "「楽しみだよね！@k@vS23/02/VTH_rena1007.　ねぇねぇ魅ぃちゃん、今度の日曜日とか、みんなでプールに行くってのはどうかな、かな！」",
-            "NamesENG": "Rena",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152770,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS23/03/VTH_mion1011.",
-            "TextJPN": "「おじさんもバイトとかは特にないしね。@k@vS23/03/VTH_mion1012.今度の日曜日、都合の悪い人、いる？」",
-            "NamesENG": "Mion",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152771,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS23/02/VTH_rena1008.",
-            "TextJPN": "「レナは平気」",
-            "NamesENG": "Rena",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152772,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS23/04/VTH_satoko1005.",
-            "TextJPN": "「私も大丈夫ですわ」",
-            "NamesENG": "Satoko",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152773,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS23/05/VTH_rika1006.",
-            "TextJPN": "「もちろんなのですよ、にぱ～☆」",
-            "NamesENG": "Rika",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152774,
-            "TextJPN": "不都合のある人間はいないようだった。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152775,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS23/01/VTH_k11008.",
-            "TextJPN": "「お、お！　ってことは何だ！@k@vS23/01/VTH_k11009.　今度の日曜日はプールってわけか？！@k@vS23/01/VTH_k11010.　へへ、そいつぁ楽しみだなぁ！」",
-            "NamesENG": "Keiichi",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152776,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS23/04/VTH_satoko1006.",
-            "TextJPN": "「をっほっほっほ！　楽しみですわねぇ！@k@vS23/04/VTH_satoko1007.　綺麗になった市民プール、今から本当に楽しみですわー！」",
-            "NamesENG": "Satoko",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152777,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS23/05/VTH_rika1007.",
-            "TextJPN": "「……みんなでばちゃばちゃお水遊び、楽しみなのです」",
-            "NamesENG": "Rika",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152778,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS23/01/VTH_k11011.",
-            "TextJPN": "「へへ、単なるお水遊びなら楽しみなんだけどな。@k@vS23/01/VTH_k11012.どうせ当日はプールで何かとんでもない部活とかがあるんだろ？」",
-            "NamesENG": "Keiichi",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152779,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS23/03/VTH_mion1013.",
-            "TextJPN": "「はっはっは、さぁてねぇ。@k@vS23/03/VTH_mion1014.これだけ暑いと、プールには一般のお客さんも多いだろうしね。@k@vS23/03/VTH_mion1015.あんまり人が多いようだったら自重しようかね。@k@vS23/03/VTH_mion1016.行ってから考えてもいいでしょ」",
-            "NamesENG": "Mion",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152780,
-            "NamesJPN": "レナ",
-            "PreTextTags": "@vS23/02/VTH_rena1009.",
-            "TextJPN": "「そうだね。@k@vS23/02/VTH_rena1010.レナは部活抜きで、のんびりプールに浸かるのでも十分楽しいかな、かな」",
-            "NamesENG": "Rena",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152781,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS23/05/VTH_rika1008.",
-            "TextJPN": "「……みー。ボクもそれで十分楽しいのですよ」",
-            "NamesENG": "Rika",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152782,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS23/03/VTH_mion1017.",
-            "TextJPN": "「はは、たまにはそういうのもいいかもねぇ。@k@vS23/03/VTH_mion1018.ま、日々の激戦を忘れて、のんびり過ごすのもいいでしょ」",
-            "NamesENG": "Mion",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152783,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS23/01/VTH_k11013.",
-            "TextJPN": "「へ～、珍しいな。@k@vS23/01/VTH_k11014.俺はてっきり罰ゲームに、とんでもないものを用意してるんじゃないかって思ったけどな」",
-            "NamesENG": "Keiichi",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152784,
-            "TextJPN": "…珍しく、部活メンバーでのんびりと過ごすことができそうだな。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152785,
-            "TextJPN": "…もっとも油断はできんが。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152786,
-            "TextJPN": "どうせ当日は、何だかんだと大暴れになるに違いない。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152787,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS23/04/VTH_satoko1008.",
-            "TextJPN": "「をっほっほっほっ！@k@vS23/04/VTH_satoko1009.　さすがにたくさんの人がいらっしゃるのですから、常識を持って行動するのが当然のことでございますわ～！」",
-            "NamesENG": "Satoko",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152788,
-            "NamesJPN": "圭一",
-            "PreTextTags": "@vS23/01/VTH_k11015.",
-            "TextJPN": "「なんと、沙都子から『常識』なんて言葉を聞く日が来るとは。@k@vS23/01/VTH_k11016.明日は嵐か？」",
-            "NamesENG": "Keiichi",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152789,
-            "NamesJPN": "沙都子",
-            "PreTextTags": "@vS23/04/VTH_satoko1010.",
-            "TextJPN": "「な、なんですってぇ？！」",
-            "NamesENG": "Satoko",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152790,
-            "NamesJPN": "魅音",
-            "PreTextTags": "@vS23/03/VTH_mion1019.",
-            "TextJPN": "「はいはい。@k@vS23/03/VTH_mion1020.では部長、園崎魅音！　梨花ちゃんの申請を了承しよう！@k@vS23/03/VTH_mion1021.　今度の日曜日は市民プールに集合！@k@vS23/03/VTH_mion1022.　水着とタオル、お財布を忘れずにねー！」",
-            "NamesENG": "Mion",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152791,
-            "NamesJPN": "部活メンバー",
-            "PreTextTags": "@o60.@vS23/01/VTH_k11017|S23/02/VTH_rena1011|S23/04/VTH_satoko1011|S23/05/VTH_rika1009.",
-            "TextJPN": "「「おおーーーっっ！！」」",
-            "NamesENG": "Club Members",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152792,
-            "TextJPN": "プールかぁ！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152793,
-            "TextJPN": "去年の夏、前の学校のプール授業で泳いだのが最後だった気がするぜ。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152794,
-            "TextJPN": "授業で入るプールは堅苦しくてたまらんが、部活メンバーでプールなら、のんびりできるかはともかく、楽しいに違いない！",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152795,
-            "TextJPN": "俺は日曜日を、指を折りながらわくわくして待つのだった。",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152796,
-            "NamesJPN": "羽入",
-            "PreTextTags": "@vS23/12/VTH_hanyu1002.",
-            "TextJPN": "「あぅあぅ、楽しみなのですよ～♪」",
-            "NamesENG": "Hanyuu",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152797,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS23/05/VTH_rika1010.",
-            "TextJPN": "「……って、あんたも来るの、羽入？」",
-            "NamesENG": "Rika",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152798,
-            "NamesJPN": "羽入",
-            "PreTextTags": "@vS23/12/VTH_hanyu1003.",
-            "TextJPN": "「あぅ～、僕だけ仲間はずれにしないでくださいなのですよ～」",
-            "NamesENG": "Hanyuu",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152799,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS23/05/VTH_rika1011.",
-            "TextJPN": "「別にそんなつもりはないけど……@k@vS23/05/VTH_rika1012.一緒に来てもみんなには見えないんだから、面白くないでしょう？」",
-            "NamesENG": "Rika",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152800,
-            "NamesJPN": "羽入",
-            "PreTextTags": "@vS23/12/VTH_hanyu1004.",
-            "TextJPN": "「そんなことはないのですよ。@k@vS23/12/VTH_hanyu1005.圭一たちや梨花が楽しく遊んで騒いだり、予想もつかない大失敗でのたうちまわるのを見たりするのも、それはそれで結構楽しいのですよ～あぅ♪」",
-            "NamesENG": "Hanyuu",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152801,
-            "NamesJPN": "梨花",
-            "PreTextTags": "@vS23/05/VTH_rika1013.",
-            "TextJPN": "「……なんか気になる台詞もあるけど、まぁいいわ。@k@vS23/05/VTH_rika1014.あんまりぺたぺた足音立てたりしないで、おとなしくしてるのよ？」",
-            "NamesENG": "Rika",
-            "TextENG": ""
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 152802,
-            "NamesJPN": "羽入",
-            "PreTextTags": "@vS23/12/VTH_hanyu1006.",
-            "TextJPN": "「はいなのです。あぅっ☆」",
-            "NamesENG": "Hanyuu",
-            "TextENG": ""
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "#2 青春スイッチオンで水着回キターッ！",
+		"ENG": "#2 青春スイッチオンで水着回キターッ！"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152752,
+		"NamesJPN": "羽入",
+		"PreTextTags": "@vS23/12/VTH_hanyu1001.",
+		"TextJPN": "それは、７月に入ったばかりの、@r真夏なみに暑かったある日の放課後のことでした。",
+		"NamesENG": "Hanyuu",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152753,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS23/05/VTH_rika1003.",
+		"TextJPN": "「……みー！　みんな、ちょっと聞いてほしいのです」",
+		"NamesENG": "Rika",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152754,
+		"NamesJPN": "部活メンバー",
+		"PreTextTags": "@o60.@vS23/01/VTH_k11003|S23/02/VTH_rena1003|S23/03/VTH_mion1005|S23/04/VTH_satoko1002.",
+		"TextJPN": "「「……？」」",
+		"NamesENG": "Club Members",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152755,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS23/01/VTH_k11004.",
+		"TextJPN": "「どうした、梨花ちゃん？」",
+		"NamesENG": "Keiichi",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152756,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS23/05/VTH_rika1004.",
+		"TextJPN": "「みー！　ボクはみんなとプールに行きたいのです」",
+		"NamesENG": "Rika",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152757,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS23/01/VTH_k11005.",
+		"TextJPN": "「え、……プール？」",
+		"NamesENG": "Keiichi",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152758,
+		"TextJPN": "部活が終わり、後片付けをしている最中に、梨花ちゃんが突然言い出した。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152759,
+		"TextJPN": "唐突ではあったが、言われてみれば、日頃から梨花ちゃんはそれを口にしていた気がする。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152760,
+		"TextJPN": "時期はようやく７月に入ったばかり。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152761,
+		"TextJPN": "夏休みまではもうちょっとあるが、今年は異常気象なのか、７月の頭でも真夏並みの暑さの日が続いていた。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152762,
+		"TextJPN": "梨花ちゃんがプールに行きたいと言い出したとしても、それは不思議なことではなかった。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152763,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS23/03/VTH_mion1006.",
+		"TextJPN": "「そういえば梨花ちゃん、ここのところプールに行きたい、ってずっと言ってたもんね。@k@vS23/03/VTH_mion1007.ふーむ、プールか……確かにこれだけ暑いと、プールが恋しくなるねぇ～」",
+		"NamesENG": "Mion",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152764,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS23/02/VTH_rena1004.",
+		"TextJPN": "「はぅ！　いいねいいね！@k@vS23/02/VTH_rena1005.　レナはもちろん異議なーし、だよっ♪」",
+		"NamesENG": "Rena",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152765,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS23/04/VTH_satoko1003.",
+		"TextJPN": "「ですわねぇ。@k@vS23/04/VTH_satoko1004.たまには沢遊びじゃなくて、広いプールの中を思い切り泳ぎまわりたいでしてよ」",
+		"NamesENG": "Satoko",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152766,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS23/01/VTH_k11006.",
+		"TextJPN": "「そういや、この学校ってプールないよな。@k@vS23/01/VTH_k11007.プール授業とかはどうしてるんだ？」",
+		"NamesENG": "Keiichi",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152767,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS23/03/VTH_mion1008.",
+		"TextJPN": "「沢で水遊びしたり、興宮の市民プールにみんなで行ったりしてるよ。@k@vS23/03/VTH_mion1009.そこって去年、改築が終わってね。@k@vS23/03/VTH_mion1010.少しは遊べるプールになったんだよ」",
+		"NamesENG": "Mion",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152768,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS23/05/VTH_rika1005.",
+		"TextJPN": "「……みー！　流れるプールやウォータースライダーが楽しみなのですよ」",
+		"NamesENG": "Rika",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152769,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS23/02/VTH_rena1006.",
+		"TextJPN": "「楽しみだよね！@k@vS23/02/VTH_rena1007.　ねぇねぇ魅ぃちゃん、今度の日曜日とか、みんなでプールに行くってのはどうかな、かな！」",
+		"NamesENG": "Rena",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152770,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS23/03/VTH_mion1011.",
+		"TextJPN": "「おじさんもバイトとかは特にないしね。@k@vS23/03/VTH_mion1012.今度の日曜日、都合の悪い人、いる？」",
+		"NamesENG": "Mion",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152771,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS23/02/VTH_rena1008.",
+		"TextJPN": "「レナは平気」",
+		"NamesENG": "Rena",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152772,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS23/04/VTH_satoko1005.",
+		"TextJPN": "「私も大丈夫ですわ」",
+		"NamesENG": "Satoko",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152773,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS23/05/VTH_rika1006.",
+		"TextJPN": "「もちろんなのですよ、にぱ～☆」",
+		"NamesENG": "Rika",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152774,
+		"TextJPN": "不都合のある人間はいないようだった。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152775,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS23/01/VTH_k11008.",
+		"TextJPN": "「お、お！　ってことは何だ！@k@vS23/01/VTH_k11009.　今度の日曜日はプールってわけか？！@k@vS23/01/VTH_k11010.　へへ、そいつぁ楽しみだなぁ！」",
+		"NamesENG": "Keiichi",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152776,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS23/04/VTH_satoko1006.",
+		"TextJPN": "「をっほっほっほ！　楽しみですわねぇ！@k@vS23/04/VTH_satoko1007.　綺麗になった市民プール、今から本当に楽しみですわー！」",
+		"NamesENG": "Satoko",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152777,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS23/05/VTH_rika1007.",
+		"TextJPN": "「……みんなでばちゃばちゃお水遊び、楽しみなのです」",
+		"NamesENG": "Rika",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152778,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS23/01/VTH_k11011.",
+		"TextJPN": "「へへ、単なるお水遊びなら楽しみなんだけどな。@k@vS23/01/VTH_k11012.どうせ当日はプールで何かとんでもない部活とかがあるんだろ？」",
+		"NamesENG": "Keiichi",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152779,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS23/03/VTH_mion1013.",
+		"TextJPN": "「はっはっは、さぁてねぇ。@k@vS23/03/VTH_mion1014.これだけ暑いと、プールには一般のお客さんも多いだろうしね。@k@vS23/03/VTH_mion1015.あんまり人が多いようだったら自重しようかね。@k@vS23/03/VTH_mion1016.行ってから考えてもいいでしょ」",
+		"NamesENG": "Mion",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152780,
+		"NamesJPN": "レナ",
+		"PreTextTags": "@vS23/02/VTH_rena1009.",
+		"TextJPN": "「そうだね。@k@vS23/02/VTH_rena1010.レナは部活抜きで、のんびりプールに浸かるのでも十分楽しいかな、かな」",
+		"NamesENG": "Rena",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152781,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS23/05/VTH_rika1008.",
+		"TextJPN": "「……みー。ボクもそれで十分楽しいのですよ」",
+		"NamesENG": "Rika",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152782,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS23/03/VTH_mion1017.",
+		"TextJPN": "「はは、たまにはそういうのもいいかもねぇ。@k@vS23/03/VTH_mion1018.ま、日々の激戦を忘れて、のんびり過ごすのもいいでしょ」",
+		"NamesENG": "Mion",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152783,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS23/01/VTH_k11013.",
+		"TextJPN": "「へ～、珍しいな。@k@vS23/01/VTH_k11014.俺はてっきり罰ゲームに、とんでもないものを用意してるんじゃないかって思ったけどな」",
+		"NamesENG": "Keiichi",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152784,
+		"TextJPN": "…珍しく、部活メンバーでのんびりと過ごすことができそうだな。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152785,
+		"TextJPN": "…もっとも油断はできんが。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152786,
+		"TextJPN": "どうせ当日は、何だかんだと大暴れになるに違いない。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152787,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS23/04/VTH_satoko1008.",
+		"TextJPN": "「をっほっほっほっ！@k@vS23/04/VTH_satoko1009.　さすがにたくさんの人がいらっしゃるのですから、常識を持って行動するのが当然のことでございますわ～！」",
+		"NamesENG": "Satoko",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152788,
+		"NamesJPN": "圭一",
+		"PreTextTags": "@vS23/01/VTH_k11015.",
+		"TextJPN": "「なんと、沙都子から『常識』なんて言葉を聞く日が来るとは。@k@vS23/01/VTH_k11016.明日は嵐か？」",
+		"NamesENG": "Keiichi",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152789,
+		"NamesJPN": "沙都子",
+		"PreTextTags": "@vS23/04/VTH_satoko1010.",
+		"TextJPN": "「な、なんですってぇ？！」",
+		"NamesENG": "Satoko",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152790,
+		"NamesJPN": "魅音",
+		"PreTextTags": "@vS23/03/VTH_mion1019.",
+		"TextJPN": "「はいはい。@k@vS23/03/VTH_mion1020.では部長、園崎魅音！　梨花ちゃんの申請を了承しよう！@k@vS23/03/VTH_mion1021.　今度の日曜日は市民プールに集合！@k@vS23/03/VTH_mion1022.　水着とタオル、お財布を忘れずにねー！」",
+		"NamesENG": "Mion",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152791,
+		"NamesJPN": "部活メンバー",
+		"PreTextTags": "@o60.@vS23/01/VTH_k11017|S23/02/VTH_rena1011|S23/04/VTH_satoko1011|S23/05/VTH_rika1009.",
+		"TextJPN": "「「おおーーーっっ！！」」",
+		"NamesENG": "Club Members",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152792,
+		"TextJPN": "プールかぁ！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152793,
+		"TextJPN": "去年の夏、前の学校のプール授業で泳いだのが最後だった気がするぜ。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152794,
+		"TextJPN": "授業で入るプールは堅苦しくてたまらんが、部活メンバーでプールなら、のんびりできるかはともかく、楽しいに違いない！",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152795,
+		"TextJPN": "俺は日曜日を、指を折りながらわくわくして待つのだった。",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152796,
+		"NamesJPN": "羽入",
+		"PreTextTags": "@vS23/12/VTH_hanyu1002.",
+		"TextJPN": "「あぅあぅ、楽しみなのですよ～♪」",
+		"NamesENG": "Hanyuu",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152797,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS23/05/VTH_rika1010.",
+		"TextJPN": "「……って、あんたも来るの、羽入？」",
+		"NamesENG": "Rika",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152798,
+		"NamesJPN": "羽入",
+		"PreTextTags": "@vS23/12/VTH_hanyu1003.",
+		"TextJPN": "「あぅ～、僕だけ仲間はずれにしないでくださいなのですよ～」",
+		"NamesENG": "Hanyuu",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152799,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS23/05/VTH_rika1011.",
+		"TextJPN": "「別にそんなつもりはないけど……@k@vS23/05/VTH_rika1012.一緒に来てもみんなには見えないんだから、面白くないでしょう？」",
+		"NamesENG": "Rika",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152800,
+		"NamesJPN": "羽入",
+		"PreTextTags": "@vS23/12/VTH_hanyu1004.",
+		"TextJPN": "「そんなことはないのですよ。@k@vS23/12/VTH_hanyu1005.圭一たちや梨花が楽しく遊んで騒いだり、予想もつかない大失敗でのたうちまわるのを見たりするのも、それはそれで結構楽しいのですよ～あぅ♪」",
+		"NamesENG": "Hanyuu",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152801,
+		"NamesJPN": "梨花",
+		"PreTextTags": "@vS23/05/VTH_rika1013.",
+		"TextJPN": "「……なんか気になる台詞もあるけど、まぁいいわ。@k@vS23/05/VTH_rika1014.あんまりぺたぺた足音立てたりしないで、おとなしくしてるのよ？」",
+		"NamesENG": "Rika",
+		"TextENG": ""
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 152802,
+		"NamesJPN": "羽入",
+		"PreTextTags": "@vS23/12/VTH_hanyu1006.",
+		"TextJPN": "「はいなのです。あぅっ☆」",
+		"NamesENG": "Hanyuu",
+		"TextENG": ""
+	}
+]

@@ -1,316 +1,314 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "請求却下",
-            "ENG": "Request Denied"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13688,
-            "NamesJPN": "刑事",
-            "PreTextTags": "@vS20/00/KeijiB44007.",
-            "TextJPN": "「あ、お疲れさまです！！」",
-            "NamesENG": "Detective",
-            "TextENG": "``I'm back!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13689,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700160.",
-            "TextJPN": "「どうです？　何か手掛かりはありました？」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``How did it go? Did you find any clues?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13690,
-            "TextJPN": "…署員たちが残念そうに首を振る。",
-            "TextENG": "...The officers shook their heads in disappointment."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13691,
-            "TextJPN": "皆、疲労が色濃く出ている。",
-            "TextENG": "Exhaustion was plainly showing on everyone's faces."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13692,
-            "TextJPN": "無理もない。@k綿流しの日から一睡もしていない者ばかりだ。",
-            "TextENG": "That was only natural.@k None of them had gotten a wink of sleep since the day of Watanagashi."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13693,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700161.",
-            "TextJPN": "「課長。若い子から交替で仮眠取らせてあげて下さい。@k@vS20/11/440700162.ここからは長丁場になりますからねぇ。@k@vS20/11/440700163.無理せず、体を休めながらのんびり行きましょ」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Chief. Let the youngest of us take a nap, and then switch them out.@k@vS20/11/440700162. We've got a long stretch ahead of us, after all.@k@vS20/11/440700163. Let's not push ourselves too hard—rest up so we can take it easy as we go.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13694,
-            "NamesJPN": "高杉",
-            "PreTextTags": "@vS20/00/442700020.",
-            "TextJPN": "「みんなには交代で休めって言ってるんだけどね。みんな遠慮してなかなか休んでくれないんだよ。@k@vS20/00/442700021.…大石さんからも言ってくれないか」",
-            "NamesENG": "Takasugi",
-            "TextENG": "``I've been telling them to sleep in shifts. Nobody actually seems willing to sleep, though.@k@vS20/00/442700021. ...Could you tell them yourself, Ooishi-san?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13695,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700164.",
-            "TextJPN": "「ありゃありゃ。みんな、遠慮しないでいいんですよ？@k@vS20/11/440700165.　小宮山くん。@k@vS20/11/440700166.若い子から順に交代で休ませてあげて下さい」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Oh my. You don't need to force yourselves.@k@vS20/11/440700165. Komiyama-kun.@k@vS20/11/440700166. Please let everyone sleep in shifts, starting with the youngest.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13696,
-            "NamesJPN": "高杉",
-            "PreTextTags": "@vS20/00/442700022.",
-            "TextJPN": "「小宮山さん。そうしてあげてください」",
-            "NamesENG": "Takasugi",
-            "TextENG": "``Komiyama-san. Please do that.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13697,
-            "TextJPN": "課長に重ねて言われ、小宮山くんは席を立った。",
-            "TextENG": "After the chief told him as well, Komiyama-san left his seat."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13698,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700167.",
-            "TextJPN": "「で、課長。例の請求なんですけど、まだ駄目そうです？」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``So, Chief. Still no good on our request?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13699,
-            "NamesJPN": "高杉",
-            "PreTextTags": "@vS20/00/442700023.",
-            "TextJPN": "「…第一、村人の噂だけなんでしょう？　もっと具体的な証拠がなければ難しいよ」",
-            "NamesENG": "Takasugi",
-            "TextENG": "``...It's just a rumor among the villagers in the first place, you know? It's going to be difficult without more concrete evidence.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13700,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700168.",
-            "TextJPN": "「その証拠があの中に詰まってるかも知れないんですよ？」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Even when that evidence might be tucked away in there?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13701,
-            "NamesJPN": "高杉",
-            "PreTextTags": "@vS20/00/442700024.",
-            "TextJPN": "「その証拠が中に詰まっているという証拠が必要なんだよ…！」",
-            "NamesENG": "Takasugi",
-            "TextENG": "``We need evidence that evidence is tucked away in there...!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13702,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700169.",
-            "TextJPN": "「課長～。ナゾナゾやってるんじゃないんですよ？@k@vS20/11/440700170.　死んだ２人を含む４人が綿流しの晩に祭具殿と呼ばれる禁断の蔵に無断で入り込み、それを何者かが見ていた！@k@vS20/11/440700171.　ここまでは信頼できる情報なんです」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Chief~ Don't start speaking in riddles to me, now.@k@vS20/11/440700170. We have witnesses that say four people, including the two who died, went into the forbidden ritual storehouse without permission!@k@vS20/11/440700171. This is all reliable information.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13703,
-            "NamesJPN": "高杉",
-            "PreTextTags": "@vS20/00/442700025.",
-            "TextJPN": "「情報と言ったって、あくまでも噂だよ。証拠があるわけじゃない」",
-            "NamesENG": "Takasugi",
-            "TextENG": "``You might call it information, but they're really only rumors. They're not concrete evidence.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13704,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700172.",
-            "TextJPN": "「そりゃまぁ、４人が頬かむりして忍び込む写真はありませんがねぇ」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Well, it's true that we don't have any pictures of the four of them sneaking in with cloth tied around their heads."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13705,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700173.",
-            "TextJPN": "「とにかく、４人は祭具殿の中で何かを見たんです！　消されるくらいの何かを！」",
-            "NamesENG": "Ooishi",
-            "TextENG": "Anyway, those four saw something inside the storehouse! Something important enough that they'd be erased!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13706,
-            "NamesJPN": "高杉",
-            "PreTextTags": "@vS20/00/442700026.",
-            "TextJPN": "「消されるくらいの何か？　それは何だい」",
-            "NamesENG": "Takasugi",
-            "TextENG": "``Important enough that they'd be erased? What would that be, exactly?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13707,
-            "TextJPN": "…だから～…それを調べるために令状を請求してるんじゃあないですか…！",
-            "TextENG": "...That's why I'm asking for a warrant to go looking for it in the first place...!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13708,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700174.",
-            "TextJPN": "「園崎家絡みの闇市場関係が有力候補ですなぁ。拳銃とか、ご禁制の品とか。@k@vS20/11/440700175.園崎家の隠し資産ってのも捨てがたいあたりです」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Anything pointing out the Sonozaki family's connections to the black market would be a major contender. Like guns or contraband.@k@vS20/11/440700175. The secret Sonozaki family fortune would also be pretty difficult to discard.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13709,
-            "NamesJPN": "高杉",
-            "PreTextTags": "@vS20/00/442700027.",
-            "TextJPN": "「…大石さん、気持ちはわかるけど！　あの祭具殿ってのは古手神社にある神聖な建物で、地元の人間への相当の配慮が必要な建物なんだよ」",
-            "NamesENG": "Takasugi",
-            "TextENG": "``...Look, Ooishi-san, I know how you feel! However, that storehouse is a sacred building belonging to the Furude Shrine, and we need to have proper consideration for the locals when dealing with it.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13710,
-            "TextJPN": "園崎議員から署長に延々１時間に及ぶ電話があったって聞いたけど。@k…課長、ひょっとして署長に釘を刺されたかな？",
-            "TextENG": "I heard that there was an hour long call made from Congressman Sonozaki to the big man.@k ...Chief, could he have nailed you back down?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13711,
-            "NamesJPN": "高杉",
-            "PreTextTags": "@vS20/00/442700028.",
-            "TextJPN": "「とにかく！　相当の証拠がない限り、祭具殿の捜査令状は取れないよ。@k@vS20/00/442700029.園崎本家への令状も同じだ！@k@vS20/00/442700030.　特に園崎本家への捜査は四課と県警の暴対が絡んでる。@k@vS20/00/442700031.入念な事前調整がいるんだ！」",
-            "NamesENG": "Takasugi",
-            "TextENG": "``Anyway! As long as we don't have suitable evidence, we won't get a search warrant for the storehouse.@k@vS20/00/442700029. That goes for the Sonozaki main house, too!@k@vS20/00/442700030. Especially considering that's the jurisdiction of both Section 4 and the prefectural police's crime prevention division.@k@vS20/00/442700031. We need careful preparations first!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13712,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/440700176.",
-            "TextJPN": "「……調整がいるってんなら、私、直接乗り込んで付けてきてもいいですよ？　四課長はシゲちゃんでしょ？@k@vS20/11/440700177.　暴対は山海さん。@k@vS20/11/440700178.隣の雀荘で話した方が早そうな面子ですねぇ」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``...If you say you need preparations, then why don't you just let me talk with them directly? Shige-chan is the head of Section 4, right?@k@vS20/11/440700177. For crime prevention, it's Sankai-san.@k@vS20/11/440700178. They seem like they'd be quicker to talk if I sat them down at a mahjong table.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13713,
-            "NamesJPN": "小宮山",
-            "PreTextTags": "@vS20/00/442500010.",
-            "TextJPN": "「か、課長にお客様です…！　えっと、…ぅわ！」",
-            "NamesENG": "Komiyama",
-            "TextENG": "``C-Chief, you have a visitor...! Um... yikes!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13714,
-            "TextJPN": "案内してきた署員を弾き飛ばして、紋付袴でヤクザの親分みたいな格好のジジイが入ってきた。@k……電話だけじゃ飽き足らなくなったかな？",
-            "TextENG": "Pushing the employee who guided him in right out of the way was an old man who looked like a yakuza member, given his crested kimono and hakama.@k ...Did he not get enough of this over the phone?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13715,
-            "NamesJPN": "園崎県議",
-            "PreTextTags": "@vS20/00/saburo44001.",
-            "TextJPN": "「わしは議員の園崎じゃ！！　責任者を出さんかッ！！！@k@vS20/00/saburo44002.　早ぅせいッ！！」",
-            "NamesENG": "Sonozaki Representative",
-            "TextENG": "``I am Congressman Sonozaki!! I demand to know who's responsible for this!!!@k@vS20/00/saburo44002. This instant!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13716,
-            "NamesJPN": "高杉",
-            "PreTextTags": "@vS20/00/442700032.",
-            "TextJPN": "「ど、どうも…！　私が課長の高杉でございます！！」",
-            "NamesENG": "Takasugi",
-            "TextENG": "``H-Hello...! I am the division chief, Takasugi!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13717,
-            "NamesJPN": "園崎県議",
-            "PreTextTags": "@vS20/00/saburo44003.",
-            "TextJPN": "「お前の名刺なぞ要らんわ！！　お前なんぞ、いつだって閑職に飛ばせるんじゃぞ！@k@vS20/00/saburo44004.　それにお前だけでは足らん！@k@vS20/00/saburo44005.　大石とか言う男も呼ばんか！！@k@vS20/00/saburo44006.　神聖な古手神社に捜査令状なんぞを請求しおったバチ当たり者じゃッ！！！」",
-            "NamesENG": "Sonozaki Representative",
-            "TextENG": "``I don't need YOUR name!! I could have you demoted on a whim!@k@vS20/00/saburo44004. You wouldn't even be enough!@k@vS20/00/saburo44005. Bring out the one called Ooishi or whatever!!@k@vS20/00/saburo44006. He deserves punishment for requesting a search warrant on the sacred Furude Shrine!!!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13718,
-            "NamesJPN": "高杉",
-            "PreTextTags": "@vS20/00/442700033.",
-            "TextJPN": "「も、申し訳ございません…！　お、大石はただいま捜査に出ておりまして、なかなか連絡が付き難く…私が代わって承りますので…！@k@vS20/00/442700034.　ど、どうぞ、おかけください！」",
-            "NamesENG": "Takasugi",
-            "TextENG": "``I-I sincerely apologize...! O-Ooishi is currently out on investigation, and he's been difficult to contact... I'll take his place and hear you out...!@k@vS20/00/442700034. S-So please, have a seat!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13719,
-            "TextJPN": "課長が今のうちに消えろと目で合図する。",
-            "TextENG": "The chief's eyes were telling me to get out of here."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13720,
-            "TextJPN": "…ここはひとつ、厚意をありがたく頂戴しますかね…。@k仮眠室でちょっと横になるかなぁ。",
-            "TextENG": "...Perhaps I'll gratefully accept this favor...@k Maybe I'll go lay down in the nap room."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13721,
-            "NamesJPN": "園崎県議",
-            "PreTextTags": "@vS20/00/saburo44007.",
-            "TextJPN": "「良いかッ？！　古手神社はそもそも皇暦２６００年に継ぐ２５００年の歴史を有する、神聖にして侵すべからずの聖地なのじゃ！！」",
-            "NamesENG": "Sonozaki Representative",
-            "TextENG": "``Listen here!! The Furude Shrine spent 2600 years under the imperial calendar and 2500 more beyond that! It is sacred! A sanctuary that must never be defiled!!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13722,
-            "NamesJPN": "園崎県議",
-            "PreTextTags": "@vS20/00/saburo44008.",
-            "TextJPN": "「@bやおよろず.@<八百万@>の神々とオヤシロさまと先祖の霊を祀り、日が昇りてから沈むまで。月が昇りてから沈むまで雛見沢を見守る尊い神社なのじゃ。@k@vS20/00/saburo44009.それを土足で踏みにじろうという馬鹿がいるッッ！！！」",
-            "NamesENG": "Sonozaki Representative",
-            "TextENG": "The eight hundred thousand gods, Oyashiro-sama, and the spirits of our ancestors are enshrined there. The holy shrine protects Hinamizawa from when the sun comes up to when it sets, and from when the moon rises to when it falls.@k@vS20/00/saburo44009. Who is the idiot who wanted to set foot in there?!?!"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13723,
-            "NamesJPN": "園崎県議",
-            "PreTextTags": "@vS20/00/saburo44010.",
-            "TextJPN": "「そもそも信仰の自由は憲法で定められた国民の最も尊い権利であろうが！！！　それを自らの捜査の怠慢を口実に汚そうという魂胆ッ！！！」",
-            "NamesENG": "Sonozaki Representative",
-            "TextENG": "Besides, the right to religion is the most revered right of the people of this country in the constitution!!! You dare to be so bold as to sully that using your own investigation's negligence as pretext!!?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 13724,
-            "NamesJPN": "園崎県議",
-            "PreTextTags": "@vS20/00/saburo44011.",
-            "TextJPN": "「こんなものは断じて許せんぞッ！！！　聞いておるのか大戯けがッ！！！@k@vS20/00/saburo44012.　わしを怒らせてただで済むと思わん方がいいぞぉおおぉッ！！！」",
-            "NamesENG": "Sonozaki Representative",
-            "TextENG": "I cannot—I will not allow it!!! Are you listening, you lying scum?!@k@vS20/00/saburo44012. I'm angry now, so you're not getting off the hook that easily!!!``"
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "請求却下",
+		"ENG": "Request Denied"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13688,
+		"NamesJPN": "刑事",
+		"PreTextTags": "@vS20/00/KeijiB44007.",
+		"TextJPN": "「あ、お疲れさまです！！」",
+		"NamesENG": "Detective",
+		"TextENG": "``I'm back!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13689,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700160.",
+		"TextJPN": "「どうです？　何か手掛かりはありました？」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``How did it go? Did you find any clues?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13690,
+		"TextJPN": "…署員たちが残念そうに首を振る。",
+		"TextENG": "...The officers shook their heads in disappointment."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13691,
+		"TextJPN": "皆、疲労が色濃く出ている。",
+		"TextENG": "Exhaustion was plainly showing on everyone's faces."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13692,
+		"TextJPN": "無理もない。@k綿流しの日から一睡もしていない者ばかりだ。",
+		"TextENG": "That was only natural.@k None of them had gotten a wink of sleep since the day of Watanagashi."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13693,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700161.",
+		"TextJPN": "「課長。若い子から交替で仮眠取らせてあげて下さい。@k@vS20/11/440700162.ここからは長丁場になりますからねぇ。@k@vS20/11/440700163.無理せず、体を休めながらのんびり行きましょ」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Chief. Let the youngest of us take a nap, and then switch them out.@k@vS20/11/440700162. We've got a long stretch ahead of us, after all.@k@vS20/11/440700163. Let's not push ourselves too hard—rest up so we can take it easy as we go.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13694,
+		"NamesJPN": "高杉",
+		"PreTextTags": "@vS20/00/442700020.",
+		"TextJPN": "「みんなには交代で休めって言ってるんだけどね。みんな遠慮してなかなか休んでくれないんだよ。@k@vS20/00/442700021.…大石さんからも言ってくれないか」",
+		"NamesENG": "Takasugi",
+		"TextENG": "``I've been telling them to sleep in shifts. Nobody actually seems willing to sleep, though.@k@vS20/00/442700021. ...Could you tell them yourself, Ooishi-san?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13695,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700164.",
+		"TextJPN": "「ありゃありゃ。みんな、遠慮しないでいいんですよ？@k@vS20/11/440700165.　小宮山くん。@k@vS20/11/440700166.若い子から順に交代で休ませてあげて下さい」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Oh my. You don't need to force yourselves.@k@vS20/11/440700165. Komiyama-kun.@k@vS20/11/440700166. Please let everyone sleep in shifts, starting with the youngest.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13696,
+		"NamesJPN": "高杉",
+		"PreTextTags": "@vS20/00/442700022.",
+		"TextJPN": "「小宮山さん。そうしてあげてください」",
+		"NamesENG": "Takasugi",
+		"TextENG": "``Komiyama-san. Please do that.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13697,
+		"TextJPN": "課長に重ねて言われ、小宮山くんは席を立った。",
+		"TextENG": "After the chief told him as well, Komiyama-san left his seat."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13698,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700167.",
+		"TextJPN": "「で、課長。例の請求なんですけど、まだ駄目そうです？」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``So, Chief. Still no good on our request?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13699,
+		"NamesJPN": "高杉",
+		"PreTextTags": "@vS20/00/442700023.",
+		"TextJPN": "「…第一、村人の噂だけなんでしょう？　もっと具体的な証拠がなければ難しいよ」",
+		"NamesENG": "Takasugi",
+		"TextENG": "``...It's just a rumor among the villagers in the first place, you know? It's going to be difficult without more concrete evidence.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13700,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700168.",
+		"TextJPN": "「その証拠があの中に詰まってるかも知れないんですよ？」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Even when that evidence might be tucked away in there?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13701,
+		"NamesJPN": "高杉",
+		"PreTextTags": "@vS20/00/442700024.",
+		"TextJPN": "「その証拠が中に詰まっているという証拠が必要なんだよ…！」",
+		"NamesENG": "Takasugi",
+		"TextENG": "``We need evidence that evidence is tucked away in there...!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13702,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700169.",
+		"TextJPN": "「課長～。ナゾナゾやってるんじゃないんですよ？@k@vS20/11/440700170.　死んだ２人を含む４人が綿流しの晩に祭具殿と呼ばれる禁断の蔵に無断で入り込み、それを何者かが見ていた！@k@vS20/11/440700171.　ここまでは信頼できる情報なんです」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Chief~ Don't start speaking in riddles to me, now.@k@vS20/11/440700170. We have witnesses that say four people, including the two who died, went into the forbidden ritual storehouse without permission!@k@vS20/11/440700171. This is all reliable information.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13703,
+		"NamesJPN": "高杉",
+		"PreTextTags": "@vS20/00/442700025.",
+		"TextJPN": "「情報と言ったって、あくまでも噂だよ。証拠があるわけじゃない」",
+		"NamesENG": "Takasugi",
+		"TextENG": "``You might call it information, but they're really only rumors. They're not concrete evidence.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13704,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700172.",
+		"TextJPN": "「そりゃまぁ、４人が頬かむりして忍び込む写真はありませんがねぇ」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Well, it's true that we don't have any pictures of the four of them sneaking in with cloth tied around their heads."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13705,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700173.",
+		"TextJPN": "「とにかく、４人は祭具殿の中で何かを見たんです！　消されるくらいの何かを！」",
+		"NamesENG": "Ooishi",
+		"TextENG": "Anyway, those four saw something inside the storehouse! Something important enough that they'd be erased!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13706,
+		"NamesJPN": "高杉",
+		"PreTextTags": "@vS20/00/442700026.",
+		"TextJPN": "「消されるくらいの何か？　それは何だい」",
+		"NamesENG": "Takasugi",
+		"TextENG": "``Important enough that they'd be erased? What would that be, exactly?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13707,
+		"TextJPN": "…だから～…それを調べるために令状を請求してるんじゃあないですか…！",
+		"TextENG": "...That's why I'm asking for a warrant to go looking for it in the first place...!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13708,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700174.",
+		"TextJPN": "「園崎家絡みの闇市場関係が有力候補ですなぁ。拳銃とか、ご禁制の品とか。@k@vS20/11/440700175.園崎家の隠し資産ってのも捨てがたいあたりです」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Anything pointing out the Sonozaki family's connections to the black market would be a major contender. Like guns or contraband.@k@vS20/11/440700175. The secret Sonozaki family fortune would also be pretty difficult to discard.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13709,
+		"NamesJPN": "高杉",
+		"PreTextTags": "@vS20/00/442700027.",
+		"TextJPN": "「…大石さん、気持ちはわかるけど！　あの祭具殿ってのは古手神社にある神聖な建物で、地元の人間への相当の配慮が必要な建物なんだよ」",
+		"NamesENG": "Takasugi",
+		"TextENG": "``...Look, Ooishi-san, I know how you feel! However, that storehouse is a sacred building belonging to the Furude Shrine, and we need to have proper consideration for the locals when dealing with it.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13710,
+		"TextJPN": "園崎議員から署長に延々１時間に及ぶ電話があったって聞いたけど。@k…課長、ひょっとして署長に釘を刺されたかな？",
+		"TextENG": "I heard that there was an hour long call made from Congressman Sonozaki to the big man.@k ...Chief, could he have nailed you back down?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13711,
+		"NamesJPN": "高杉",
+		"PreTextTags": "@vS20/00/442700028.",
+		"TextJPN": "「とにかく！　相当の証拠がない限り、祭具殿の捜査令状は取れないよ。@k@vS20/00/442700029.園崎本家への令状も同じだ！@k@vS20/00/442700030.　特に園崎本家への捜査は四課と県警の暴対が絡んでる。@k@vS20/00/442700031.入念な事前調整がいるんだ！」",
+		"NamesENG": "Takasugi",
+		"TextENG": "``Anyway! As long as we don't have suitable evidence, we won't get a search warrant for the storehouse.@k@vS20/00/442700029. That goes for the Sonozaki main house, too!@k@vS20/00/442700030. Especially considering that's the jurisdiction of both Section 4 and the prefectural police's crime prevention division.@k@vS20/00/442700031. We need careful preparations first!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13712,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/440700176.",
+		"TextJPN": "「……調整がいるってんなら、私、直接乗り込んで付けてきてもいいですよ？　四課長はシゲちゃんでしょ？@k@vS20/11/440700177.　暴対は山海さん。@k@vS20/11/440700178.隣の雀荘で話した方が早そうな面子ですねぇ」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``...If you say you need preparations, then why don't you just let me talk with them directly? Shige-chan is the head of Section 4, right?@k@vS20/11/440700177. For crime prevention, it's Sankai-san.@k@vS20/11/440700178. They seem like they'd be quicker to talk if I sat them down at a mahjong table.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13713,
+		"NamesJPN": "小宮山",
+		"PreTextTags": "@vS20/00/442500010.",
+		"TextJPN": "「か、課長にお客様です…！　えっと、…ぅわ！」",
+		"NamesENG": "Komiyama",
+		"TextENG": "``C-Chief, you have a visitor...! Um... yikes!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13714,
+		"TextJPN": "案内してきた署員を弾き飛ばして、紋付袴でヤクザの親分みたいな格好のジジイが入ってきた。@k……電話だけじゃ飽き足らなくなったかな？",
+		"TextENG": "Pushing the employee who guided him in right out of the way was an old man who looked like a yakuza member, given his crested kimono and hakama.@k ...Did he not get enough of this over the phone?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13715,
+		"NamesJPN": "園崎県議",
+		"PreTextTags": "@vS20/00/saburo44001.",
+		"TextJPN": "「わしは議員の園崎じゃ！！　責任者を出さんかッ！！！@k@vS20/00/saburo44002.　早ぅせいッ！！」",
+		"NamesENG": "Sonozaki Representative",
+		"TextENG": "``I am Congressman Sonozaki!! I demand to know who's responsible for this!!!@k@vS20/00/saburo44002. This instant!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13716,
+		"NamesJPN": "高杉",
+		"PreTextTags": "@vS20/00/442700032.",
+		"TextJPN": "「ど、どうも…！　私が課長の高杉でございます！！」",
+		"NamesENG": "Takasugi",
+		"TextENG": "``H-Hello...! I am the division chief, Takasugi!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13717,
+		"NamesJPN": "園崎県議",
+		"PreTextTags": "@vS20/00/saburo44003.",
+		"TextJPN": "「お前の名刺なぞ要らんわ！！　お前なんぞ、いつだって閑職に飛ばせるんじゃぞ！@k@vS20/00/saburo44004.　それにお前だけでは足らん！@k@vS20/00/saburo44005.　大石とか言う男も呼ばんか！！@k@vS20/00/saburo44006.　神聖な古手神社に捜査令状なんぞを請求しおったバチ当たり者じゃッ！！！」",
+		"NamesENG": "Sonozaki Representative",
+		"TextENG": "``I don't need YOUR name!! I could have you demoted on a whim!@k@vS20/00/saburo44004. You wouldn't even be enough!@k@vS20/00/saburo44005. Bring out the one called Ooishi or whatever!!@k@vS20/00/saburo44006. He deserves punishment for requesting a search warrant on the sacred Furude Shrine!!!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13718,
+		"NamesJPN": "高杉",
+		"PreTextTags": "@vS20/00/442700033.",
+		"TextJPN": "「も、申し訳ございません…！　お、大石はただいま捜査に出ておりまして、なかなか連絡が付き難く…私が代わって承りますので…！@k@vS20/00/442700034.　ど、どうぞ、おかけください！」",
+		"NamesENG": "Takasugi",
+		"TextENG": "``I-I sincerely apologize...! O-Ooishi is currently out on investigation, and he's been difficult to contact... I'll take his place and hear you out...!@k@vS20/00/442700034. S-So please, have a seat!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13719,
+		"TextJPN": "課長が今のうちに消えろと目で合図する。",
+		"TextENG": "The chief's eyes were telling me to get out of here."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13720,
+		"TextJPN": "…ここはひとつ、厚意をありがたく頂戴しますかね…。@k仮眠室でちょっと横になるかなぁ。",
+		"TextENG": "...Perhaps I'll gratefully accept this favor...@k Maybe I'll go lay down in the nap room."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13721,
+		"NamesJPN": "園崎県議",
+		"PreTextTags": "@vS20/00/saburo44007.",
+		"TextJPN": "「良いかッ？！　古手神社はそもそも皇暦２６００年に継ぐ２５００年の歴史を有する、神聖にして侵すべからずの聖地なのじゃ！！」",
+		"NamesENG": "Sonozaki Representative",
+		"TextENG": "``Listen here!! The Furude Shrine spent 2600 years under the imperial calendar and 2500 more beyond that! It is sacred! A sanctuary that must never be defiled!!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13722,
+		"NamesJPN": "園崎県議",
+		"PreTextTags": "@vS20/00/saburo44008.",
+		"TextJPN": "「@bやおよろず.@<八百万@>の神々とオヤシロさまと先祖の霊を祀り、日が昇りてから沈むまで。月が昇りてから沈むまで雛見沢を見守る尊い神社なのじゃ。@k@vS20/00/saburo44009.それを土足で踏みにじろうという馬鹿がいるッッ！！！」",
+		"NamesENG": "Sonozaki Representative",
+		"TextENG": "The eight hundred thousand gods, Oyashiro-sama, and the spirits of our ancestors are enshrined there. The holy shrine protects Hinamizawa from when the sun comes up to when it sets, and from when the moon rises to when it falls.@k@vS20/00/saburo44009. Who is the idiot who wanted to set foot in there?!?!"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13723,
+		"NamesJPN": "園崎県議",
+		"PreTextTags": "@vS20/00/saburo44010.",
+		"TextJPN": "「そもそも信仰の自由は憲法で定められた国民の最も尊い権利であろうが！！！　それを自らの捜査の怠慢を口実に汚そうという魂胆ッ！！！」",
+		"NamesENG": "Sonozaki Representative",
+		"TextENG": "Besides, the right to religion is the most revered right of the people of this country in the constitution!!! You dare to be so bold as to sully that using your own investigation's negligence as pretext!!?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 13724,
+		"NamesJPN": "園崎県議",
+		"PreTextTags": "@vS20/00/saburo44011.",
+		"TextJPN": "「こんなものは断じて許せんぞッ！！！　聞いておるのか大戯けがッ！！！@k@vS20/00/saburo44012.　わしを怒らせてただで済むと思わん方がいいぞぉおおぉッ！！！」",
+		"NamesENG": "Sonozaki Representative",
+		"TextENG": "I cannot—I will not allow it!!! Are you listening, you lying scum?!@k@vS20/00/saburo44012. I'm angry now, so you're not getting off the hook that easily!!!``"
+	}
+]

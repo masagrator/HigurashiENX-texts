@@ -1,138 +1,136 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "お見積書",
-            "ENG": "Property Estimate"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15340,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "間宮律子さま@r　　　　　　　　　　　　　株式会社エグゼクティハウジング",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Dear Ritsuko Mamiya-sama@rExecutive Housing Corporation"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15341,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "お見積書の送付について",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Attached Estimate"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15342,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "この度は、弊社をご愛顧いただきまして誠に有難うございます。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "We thank you for your past visits and inquiries to our office."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15343,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "お問い合わせの物件について、以下にお見積もりをお送りさせていただきます。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "We've included the estimate for the property you inquired about."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15344,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "記@r物件名　　パレスオブベルサイユ　７０７号室@r物件番号　１４Ｍ１４２１",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Basic Information@rProperty Name: Palace of Versailles, Room 707@rProperty Code: 14M1421"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15345,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "物件タイプ　新築マンション@r間取り　　２ＬＤＫ",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Property Type: Modern Condominium@rLayout: 2LDK"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15346,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "所在地　　鹿骨市小岩町２丁目@r交通　　　穀倉駅　　徒歩５分",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Address: Shishibone-city Koiwa-cho 2 chome@rTransportation: XXX Line, Gogura Station, 5 minutes on foot"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15347,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "価格　　４，９８０万円　　管理費　２０，０００円",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Cost: 49,800,000 yen \\nMaintenance Fee: 20,000 yen"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15348,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "その他　　東南角部屋・エレベーター停止階@rマンション内フィットネスクラブの会員権付",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Other: South-east corner room, elevator floor@rCondominium fitness club membership included."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15349,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "この度はお問い合わせをありがとうございます。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Thank you for your interest in this property."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15350,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "こちらの物件は現在、急発展を遂げている穀倉駅近くの高級分譲マンションでございまして、今後、穀倉駅周辺の地価上昇に伴い、さらに価値が上がることが予想される優良物件でございます。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "The area around Gogura Station is a prime real estate zone for luxury condominiums. Along with future planned developments, the real estate values in and around the Gogura Station are expected to rise, and this property is not an exception."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15351,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "すでに募集数の数倍のお客様からのお問い合わせをいただいております。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "As a result, many prospective buyers are interested in this property."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15352,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "そのため抽選制となりますことを予めご容赦ください。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Hence we'd like for you to understand that the selection process for this property will be done via lottery."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15353,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "また、抽選の口数で格段の優遇を得られる『セレブリティ会員様優待枠』もございます。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Also, we also offer ``Celebrity Member Preferential Treatment,`` granting highly improved chances through additional lottery entries."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15354,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "どうぞお気軽に担当までお問い合わせください。",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Please feel free to inquire with our agents for more details."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 15355,
-            "PreTextTags": "@s0.@a0.",
-            "TextJPN": "株式会社エグゼクティハウジング@rセレブリティ担当マネージャ　川畑",
-            "AfterTextTags": "@|@y",
-            "TextENG": "Executive Housing Corporation@rCelebrity Account Manager, Kawabata"
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "お見積書",
+		"ENG": "Property Estimate"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15340,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "間宮律子さま@r　　　　　　　　　　　　　株式会社エグゼクティハウジング",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Dear Ritsuko Mamiya-sama@rExecutive Housing Corporation"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15341,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "お見積書の送付について",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Attached Estimate"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15342,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "この度は、弊社をご愛顧いただきまして誠に有難うございます。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "We thank you for your past visits and inquiries to our office."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15343,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "お問い合わせの物件について、以下にお見積もりをお送りさせていただきます。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "We've included the estimate for the property you inquired about."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15344,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "記@r物件名　　パレスオブベルサイユ　７０７号室@r物件番号　１４Ｍ１４２１",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Basic Information@rProperty Name: Palace of Versailles, Room 707@rProperty Code: 14M1421"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15345,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "物件タイプ　新築マンション@r間取り　　２ＬＤＫ",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Property Type: Modern Condominium@rLayout: 2LDK"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15346,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "所在地　　鹿骨市小岩町２丁目@r交通　　　穀倉駅　　徒歩５分",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Address: Shishibone-city Koiwa-cho 2 chome@rTransportation: XXX Line, Gogura Station, 5 minutes on foot"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15347,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "価格　　４，９８０万円　　管理費　２０，０００円",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Cost: 49,800,000 yen \\nMaintenance Fee: 20,000 yen"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15348,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "その他　　東南角部屋・エレベーター停止階@rマンション内フィットネスクラブの会員権付",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Other: South-east corner room, elevator floor@rCondominium fitness club membership included."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15349,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "この度はお問い合わせをありがとうございます。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Thank you for your interest in this property."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15350,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "こちらの物件は現在、急発展を遂げている穀倉駅近くの高級分譲マンションでございまして、今後、穀倉駅周辺の地価上昇に伴い、さらに価値が上がることが予想される優良物件でございます。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "The area around Gogura Station is a prime real estate zone for luxury condominiums. Along with future planned developments, the real estate values in and around the Gogura Station are expected to rise, and this property is not an exception."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15351,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "すでに募集数の数倍のお客様からのお問い合わせをいただいております。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "As a result, many prospective buyers are interested in this property."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15352,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "そのため抽選制となりますことを予めご容赦ください。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Hence we'd like for you to understand that the selection process for this property will be done via lottery."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15353,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "また、抽選の口数で格段の優遇を得られる『セレブリティ会員様優待枠』もございます。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Also, we also offer ``Celebrity Member Preferential Treatment,`` granting highly improved chances through additional lottery entries."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15354,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "どうぞお気軽に担当までお問い合わせください。",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Please feel free to inquire with our agents for more details."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 15355,
+		"PreTextTags": "@s0.@a0.",
+		"TextJPN": "株式会社エグゼクティハウジング@rセレブリティ担当マネージャ　川畑",
+		"AfterTextTags": "@|@y",
+		"TextENG": "Executive Housing Corporation@rCelebrity Account Manager, Kawabata"
+	}
+]

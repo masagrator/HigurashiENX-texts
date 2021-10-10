@@ -1,779 +1,777 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "F5 山沖薫",
-            "ENG": "F5 Kaoru Yamaoki"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6848,
-            "NamesJPN": "大石",
-            "PreTextTags": "@-@vS20/11/VTK1_oishi1083.",
-            "TextJPN": "（…はぁ、まさかここまでやってくれるとはなぁ）",
-            "NamesENG": "Ooishi",
-            "TextENG": "(...Haah, I can't believe they went this far.)"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6849,
-            "TextJPN": "緊張した思いを何とかほぐそうと、私はほどよく温まった熱燗をあおり飲んで、腹をゆすりながら大きく酒気を吐く。",
-            "TextENG": "I gulped down some warm alcohol and let out a long sigh while shaking my stomach to release the tension."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6850,
-            "TextJPN": "美味い酒に、美味い海山の肴。",
-            "TextENG": "Delicious liquor and delicious hors d'oeuvres."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6851,
-            "TextJPN": "…ちょうちん居酒屋での安酒とおでんに慣れたこの舌には、ちょいとどころか、明らかに分不相応な代物の数々だ。",
-            "TextENG": "...My tongue had grown accustomed to the cheap sake and stew served at bars, so this was clearly beyond my means."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6852,
-            "TextJPN": "いくらご招待を受けたとはいえ、仮にも警視庁のお偉方がこれほどに心をつくした接待でもてなしてくれるとは夢にも思わず、…私は手ぶらで参上したことを少々後悔していた。",
-            "TextENG": "Even when I received the invitation, I never dreamed that the Metropolitan Police Department would show such generous hospitality... and I felt a twinge of regret for showing up empty-handed."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6853,
-            "NamesJPN": "大石",
-            "PreTextTags": "@-@vS20/11/VTK1_oishi1084.",
-            "TextJPN": "（せめて、南井さんがいてくれたら気が楽だったんだが…）",
-            "NamesENG": "Ooishi",
-            "TextENG": "(At the very least, it would've been nice if Minai-san was here...)"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6854,
-            "TextJPN": "南井警部補とは、数年前に東京で開かれた交流会で意気投合して以来、上京した際にはともに酒を交わすなどの友誼を結んでいた。",
-            "TextENG": "After meeting Deputy Inspector Minai at a networking meeting in Tokyo a few years back, we'd become friends and would go out drinking together any time I came to Tokyo."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6855,
-            "TextJPN": "本来なら、ここに彼が参加してくれて、山沖理事官の仲介役を務めてもらうつもりだったのだが…あいにく急用が入ったらしく、残念ながら今回は不参加とのことだった。",
-            "TextENG": "He was originally supposed to be here acting as an intermediary for Commissioner Yamaoki... but unfortunately, something urgent came up that demanded his attention, so he wouldn't be coming."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6856,
-            "NamesJPN": "山沖",
-            "PreTextTags": "@vS20/30/VTK1_yamaoki1001.",
-            "TextJPN": "「大石さん、まぁそう固くならずに。@k@vS20/30/VTK1_yamaoki1002.南井くんからも、酒にはお強いと伺っております。@k@vS20/30/VTK1_yamaoki1003.ささ、どうぞご遠慮なくやってください」",
-            "NamesENG": "Yamaoki",
-            "TextENG": "``Ooishi-san, don't be so stiff.@k@vS20/30/VTK1_yamaoki1002. Minai-kun told me you're quite a drinker.@k@vS20/30/VTK1_yamaoki1003. Go on, no need to hesitate.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6857,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/VTK1_oishi1085.",
-            "TextJPN": "「なっはっはっはっ…いや、お恥ずかしい。@k@vS20/11/VTK1_oishi1086.こういう畳敷きの広い場所で飲むのは、温泉地に慰安旅行に行った時ぐらいなものでして。@k@vS20/11/VTK1_oishi1087.私ゃ田舎出の小心者ですから、妙に身構えてしまうんですよ～」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Na ha ha ha... how embarrassing.@k@vS20/11/VTK1_oishi1086. The only time I've drunk in a wide open tatami-lined room like this was when I went on a hot spring vacation.@k@vS20/11/VTK1_oishi1087. I'm a humble country man, so I feel a little out of my element here~.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6858,
-            "NamesJPN": "山沖",
-            "PreTextTags": "@vS20/30/VTK1_yamaoki1004.",
-            "TextJPN": "「はっはっはっ、そんなご謙遜を。@k@vS20/30/VTK1_yamaoki1005.とりあえず…こんな爺の酌で大変恐縮ですが、もうひとつどうぞ」",
-            "NamesENG": "Yamaoki",
-            "TextENG": "``Hahaha, so humble.@k@vS20/30/VTK1_yamaoki1005. Anyway... let an old man show his gratitude by pouring you another.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6859,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/VTK1_oishi1088.",
-            "TextJPN": "「あぁ、こりゃすみません。@k@vS20/11/VTK1_oishi1089.おっとっとっと…ん～、いい匂いだなぁ。@k@vS20/11/VTK1_oishi1090.いい日本酒ってのは、香りだけで酔わせてくれますねぇ」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Aah, thank you.@k@vS20/11/VTK1_oishi1089. Otototo... Mmm~, smells nice.@k@vS20/11/VTK1_oishi1090. Good alcohol can get you drunk off the scent alone.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6860,
-            "TextJPN": "そう言って私は、理事官どのが手づからお猪口一杯に注いでくれた熱燗をぐい、と飲み干す。",
-            "TextENG": "The commissioner poured some warm alcohol into my cup as I said that, and I took a drink."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6861,
-            "TextJPN": "改めて味わってみても、実にいい酒だ。",
-            "TextENG": "Even after tasting it again, I can confidently say this is really good alcohol."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6862,
-            "TextJPN": "綺麗なおネエちゃんのお酌で飲む酒も格別だが、自分より格上の人に勧められて飲むのも考えようによっては、いいものかもしれない。",
-            "TextENG": "It would be wonderful if a beautiful young lady was the one pouring it for me, but enjoying a drink recommended by a superior is nice too, I guess."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6863,
-            "TextJPN": "…そう開き直って私は、山沖さんが言ってくれた無礼講の言葉を信じてにこやかに切り出した。",
-            "TextENG": "...Thinking that, and not wanting to be rude to Yamaoki-san, I decided to believe that and smiled at him."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6864,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/VTK1_oishi1091.",
-            "TextJPN": "「いやぁ～、それにしても山沖さんにはほとほと頭が下がりますねぇ。@k@vS20/11/VTK1_oishi1092.わざわざ私なんかのためにこんな素敵な席を設けてくださったんですから。@k@vS20/11/VTK1_oishi1093.本当にありがたい限りですよ…んっふっふっふっ！」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Oh my~, anyway, my hat's off to you, Yamaoki-san.@k@vS20/11/VTK1_oishi1092. You went to a lot of trouble to prepare this for me.@k@vS20/11/VTK1_oishi1093. I do sincerely appreciate it... Nfu fu fu!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6865,
-            "NamesJPN": "山沖",
-            "PreTextTags": "@vS20/30/VTK1_yamaoki1006.",
-            "TextJPN": "「何をおっしゃいます。@k@vS20/30/VTK1_yamaoki1007.大石さんには、今回のしらかば山荘の篭城事件で大変お世話になりました」",
-            "NamesENG": "Yamaoki",
-            "TextENG": "``What are you talking about?@k@vS20/30/VTK1_yamaoki1007. Ooishi-san, I'm grateful for all your help during the Shirakaba mountain villa siege.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6866,
-            "NamesJPN": "山沖",
-            "PreTextTags": "@vS20/30/VTK1_yamaoki1008.",
-            "TextJPN": "「地元警察と我ら警視庁との連携がつつがなく行えたのも、ひとえにあなたのご協力があってのことと雄介…いや、うちの南井からお聞きしております。@k@vS20/30/VTK1_yamaoki1009.彼の分まで、お礼を言わせてください」",
-            "NamesENG": "Yamaoki",
-            "TextENG": "``The local police and the Metropolitan Police Department were only able to collaborate so seamlessly thanks to your help. That's what Yuusuke... I mean, Minai told me.@k@vS20/30/VTK1_yamaoki1009. So please, let me thank you on his behalf.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6867,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/VTK1_oishi1094.",
-            "TextJPN": "「いやいや、私は別に大したことなんてしていませんよ。@k@vS20/11/VTK1_oishi1095.ちょいと脇腹をつついて、冷やかしてやっただけです」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``No no, I didn't do all that much.@k@vS20/11/VTK1_oishi1095. Just a bit of prodding at people's sides and cooling things down.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6868,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/VTK1_oishi1096.",
-            "TextJPN": "「偉そうに見せようとふんぞり返るのも結構ですが、武装した犯人にはそんなはったりは通じませんよ、ってね」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Acting all cocky and tough is fine and all, but bluffs like that don't work when it comes to armed criminals.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6869,
-            "TextJPN": "そもそも、常日頃から凶悪犯罪への対処に手慣れている警視庁の捜査員、まして機動隊員たちと比べれば、県警本部の連中は装備やスキル以上に、度胸が明らかに不足していた。",
-            "TextENG": "Compared to MPD investigators and riot police who are used to dealing with violent criminals on a daily basis, the folks at prefectural police HQ weren't just lacking in skills and equipment, but courage too."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6870,
-            "TextJPN": "そんな彼らが、武装した上に人質を盾にした篭城犯を相手にするなど、危険を通り越して無謀でしかない。",
-            "TextENG": "It's beyond reckless to expect people like that to brave the danger of going up against holed up armed criminals using hostages as shields."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6871,
-            "TextJPN": "実際、当初は捜査員たちに防弾チョッキを配布していなかったと聞かされた時など、私でさえ責任者の頭を小突きたくなったほどだ。",
-            "TextENG": "In fact, I was ready to smack the person responsible upside the head when I heard they hadn't even distributed bulletproof vests to investigators from the get go."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6872,
-            "TextJPN": "それでも、上役さんたちは中央への劣等感からか…警視庁に対して頭を下げるどころか、彼らから下手に提案してくれた共同作戦までかたくなに拒み続けた。",
-            "TextENG": "Even so, perhaps fueled largely by a sense of inferiority... rather than bowing down to MPD, the higher ups stubbornly refused to work together."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6873,
-            "TextJPN": "そのおかげで、犯人グループへの対処姿勢はどうにもまとまらず、…ほとんどなし崩しに強行された最初の突入は、重軽傷者を出しただけの全く無意味なものとなってしまった。",
-            "TextENG": "Thanks to that, their posture for dealing with the criminal group was completely inadequate... and their initial raid was repelled immediately, making the effort completely meaningless and resulting in some serious injuries."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6874,
-            "TextJPN": "ゆえに、私たち現場の捜査員たちは粘り強く上層部にかけ合って説得を行い、機動隊への権限委嘱を強く訴えかけた。",
-            "TextENG": "And so, the other investigators on-scene and I argued with upper management and appealed for them to delegate authority to the riot police."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6875,
-            "TextJPN": "そのかいあって、全体の指揮権は機動隊の責任者へとゆだねられ、我々は後方支援を引き受けた結果、山荘への突入作戦は三度目にして成功したのだった…。",
-            "TextENG": "Thanks to that, overall command authority was handed off to the riot police while we took care of logistical support, and as a result the third raid on the mountain villa was a success..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6876,
-            "NamesJPN": "山沖",
-            "PreTextTags": "@vS20/30/VTK1_yamaoki1010.",
-            "TextJPN": "「大石さんたちが県警の方々を説得してくれなかったら…山荘への突入はさらに遅れていたでしょう。@k@vS20/30/VTK1_yamaoki1011.そうなれば、中で囚われていた人質の身はさらに危険なものとなっていたに違いない」",
-            "NamesENG": "Yamaoki",
-            "TextENG": "``Ooishi-san, if you and the others hadn't gotten through to the prefectural police... the mountain villa raid would've been delayed even further.@k@vS20/30/VTK1_yamaoki1011. And if that had happened, the hostages inside would've been in even more danger.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6877,
-            "NamesJPN": "山沖",
-            "PreTextTags": "@vS20/30/VTK1_yamaoki1012.",
-            "TextJPN": "「実際、身柄を保護した管理人の奥方は衰弱が激しく、精神的なストレスもあって現在も長期入院を余儀なくされていますからね」",
-            "NamesENG": "Yamaoki",
-            "TextENG": "``In fact, the landlord's wife suffered so much mental trauma she was taken into protection and had to stay hospitalized for a long time.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6878,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/VTK1_oishi1097.",
-            "TextJPN": "「…お気の毒な話です。@k@vS20/11/VTK1_oishi1098.私たちが、覚悟をもっと早いところで決めていたらと思うと、…心が痛みますよ」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``...I'm sorry to hear that.@k@vS20/11/VTK1_oishi1098. It pains me... that we didn't take action sooner.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6879,
-            "NamesJPN": "山沖",
-            "PreTextTags": "@vS20/30/VTK1_yamaoki1013.",
-            "TextJPN": "「いやいや、あなたがたは十分やってくださいました。@k@vS20/30/VTK1_yamaoki1014.その方のご主人も、無事の救出をとても喜んでくれましたし…犯人の逃亡も阻止できました。@k@vS20/30/VTK1_yamaoki1015.それだけでも上々とすべきだと、私は思っております」",
-            "NamesENG": "Yamaoki",
-            "TextENG": "``Oh, no, you did more than enough.@k@vS20/30/VTK1_yamaoki1014. The landlord was very pleased that the hostages were safely rescued... and that we managed to prevent the criminals from escaping.@k@vS20/30/VTK1_yamaoki1015. As far as I'm concerned, that alone is more than a job well done.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6880,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/VTK1_oishi1099.",
-            "TextJPN": "「そう言ってもらえると、こちらも救われます。@k@vS20/11/VTK1_oishi1100.…まぁ、うちの県警の連中ときたら自意識過剰っていうか、東京の方々に対して対抗意識を持ってるやつらが多いですからね」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Hearing you say that makes me feel at ease.@k@vS20/11/VTK1_oishi1100. ...Well, the prefectural police staff are overly self-conscious, and many of them do feel a sense of rivalry with the folks in Tokyo.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6881,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/VTK1_oishi1101.",
-            "TextJPN": "「こういう時にこそ、ゴチンと言っておかなくては。@k@vS20/11/VTK1_oishi1102.連中にもいい薬になったと思いますよ」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``At times like these, you have to speak sternly with people.@k@vS20/11/VTK1_oishi1102. I think this was good medicine for them.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6882,
-            "NamesJPN": "山沖",
-            "PreTextTags": "@vS20/30/VTK1_yamaoki1016.",
-            "TextJPN": "「いえいえ…本来なら我々警視庁も、県警の方々の立場を尊重して事を進める予定だったんですがね。@k@vS20/30/VTK1_yamaoki1017.あれ以上モタモタしていると、人質の安否はおろか犠牲者がさらに増えていたかもしれない」",
-            "NamesENG": "Yamaoki",
-            "TextENG": "``Oh, no... we at MPD originally intended to proceed while respecting the authority of the prefectural police.@k@vS20/30/VTK1_yamaoki1017. But moving any slower would likely have compromised the safety of the hostages, or even increased the number of casualties.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6883,
-            "NamesJPN": "山沖",
-            "PreTextTags": "@vS20/30/VTK1_yamaoki1018.",
-            "TextJPN": "「申し訳ないと思いつつも、苦渋の選択でした。@k@vS20/30/VTK1_yamaoki1019.そのあたりをぜひ、みなさんにもご理解いただけましたらありがたいです」",
-            "NamesENG": "Yamaoki",
-            "TextENG": "``I'm terribly sorry. It was a painful choice to make.@k@vS20/30/VTK1_yamaoki1019. It would be nice if everyone could understand that.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6884,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/VTK1_oishi1103.",
-            "TextJPN": "「えぇえぇ、わかっていますって！@k@vS20/11/VTK1_oishi1104.　捜査一課長と公安課長にはちゃーんと、話をつけておきますから。@k@vS20/11/VTK1_oishi1105.どうぞ安んじてお任せあれ…なんてね。@k@vS20/11/VTK1_oishi1106.なっはっはっはっ！」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Riiight, I totally understand!@k@vS20/11/VTK1_oishi1104. I'll have a nice long talk with the section chief of the First Division and the section chief of Public Security.@k@vS20/11/VTK1_oishi1105. Rest assured, you can leave that to me... Just kidding.@k@vS20/11/VTK1_oishi1106. Na ha ha ha!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6885,
-            "TextJPN": "機嫌良く山沖に返杯を注ぎながら、さすがは公安でも指折りの切れ者だと内心、舌を巻く。",
-            "TextENG": "As I poured another round to Yamaoki in a good mood, I was silently astonished that there were such capable people at Public Security."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6886,
-            "TextJPN": "県警本部の捜査一課長、そして公安課長は私の麻雀仲間だ。",
-            "TextENG": "The First Division section chief at prefectural HQ and the section chief of Public Security were actually old mahjong partners of mine."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6887,
-            "TextJPN": "そのつながりの深さをすでに調査した上で、私に仲介を頼んでいるのだろう。",
-            "TextENG": "They must've investigated the depth of those connections before asking me to act as the intermediary."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6888,
-            "NamesJPN": "大石",
-            "PreTextTags": "@-@vS20/11/VTK1_oishi1107.",
-            "TextJPN": "（もっとも…ここまでやってもらっちゃ、断れませんがねぇ）",
-            "NamesENG": "Ooishi",
-            "TextENG": "(Although... there was no way I could refuse after going so far.)"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6889,
-            "TextJPN": "そもそも、慣行に従えば直接課長連中に会いに行って、礼を述べるついでに釈明をしておけばいいだけなのだ。",
-            "TextENG": "If we were following standard protocol, you'd simply have to meet with each section chief directly and offer them your gratitude while clearly explaining the situation."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6890,
-            "TextJPN": "だが、それだけでは実際に危険な現場に臨んだ捜査員、特に私のような所轄の刑事たちの心象に差しさわりが出ると判断したのだろう。",
-            "TextENG": "But they figured someone who had actually endured dangerous crime scenes, especially a local detective like myself, would be a nice touch for getting through to them."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6891,
-            "TextJPN": "だからこそ、恩義に対してこういうかたちで労ってくれた上、現場の面目も保つことができるよう自分の仲介を求めている。",
-            "TextENG": "That's why, in addition to working hard for gratitude, they were seeking mediation so the people in the field could save face."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6892,
-            "TextJPN": "私としても、キーマンのように扱われて悪い気分になるわけがない。",
-            "TextENG": "And I couldn't exactly feel bad about them wanting to make me a key player."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6893,
-            "TextJPN": "その気持ちだけでも、十分にありがたいものには違いなかった。",
-            "TextENG": "I was grateful enough for that sentiment alone."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6894,
-            "NamesJPN": "山沖",
-            "PreTextTags": "@vS20/30/VTK1_yamaoki1020.",
-            "TextJPN": "「そういえば例の酒、いかがでしたか？@k@vS20/30/VTK1_yamaoki1021.　あの程度で皆さんの労功の代価とは思っておりませんが、お口に合えばよかったのですが…」",
-            "NamesENG": "Yamaoki",
-            "TextENG": "``By the way, how was the alcohol you all received after that incident?@k@vS20/30/VTK1_yamaoki1021. I don't think it was suitable compensation for the extent of everyone's troubles, but I hope you enjoyed it...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6895,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/VTK1_oishi1108.",
-            "TextJPN": "「とんでもない、十分ですよ！@k@vS20/11/VTK1_oishi1109.　鹿嶋桜…でしたか？@k@vS20/11/VTK1_oishi1110.　あんな美味い酒は飲んだことがないと、うちの署の連中大喜びでしたよ～んっふっふっ！」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Don't be absurd, it was more than enough!@k@vS20/11/VTK1_oishi1109. It was Kashima Sakura... wasn't it?@k@vS20/11/VTK1_oishi1110. Everyone at the station was overjoyed! They said they'd never tasted anything better~ Nfu fu fu!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6896,
-            "NamesJPN": "山沖",
-            "PreTextTags": "@vS20/30/VTK1_yamaoki1022.",
-            "TextJPN": "「実は南井の地元に、なかなかの酒蔵がありましてね。@k@vS20/30/VTK1_yamaoki1023.私も時々買い付けているんですが…いや、なかなかのものです」",
-            "NamesENG": "Yamaoki",
-            "TextENG": "``There is actually quite an impressive brewery near Minai's hometown.@k@vS20/30/VTK1_yamaoki1023. I buy it myself from time to time... No, actually pretty often.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6897,
-            "NamesJPN": "山沖",
-            "PreTextTags": "@vS20/30/VTK1_yamaoki1024.",
-            "TextJPN": "「部下たちも勝手に封を開けて飲んでしまうくらいで、最近では見つからないように隠しているくらいですよ」",
-            "NamesENG": "Yamaoki",
-            "TextENG": "``My subordinates would even uncork them without permission to have a drink, so these days I've been hiding it from them.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6898,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/VTK1_oishi1111.",
-            "TextJPN": "「なっはっはっはっ！@k@vS20/11/VTK1_oishi1112.　お気持ちはよぉくわかりますよぉ～！」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Na ha ha ha!@k@vS20/11/VTK1_oishi1112. Now that I can totally understand~!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6899,
-            "TextJPN": "みんなには内緒だが、私も一升瓶を１本…いや２本をくすねて、そのうちの１本を日頃から世話になっているおやっさんに差し上げてやった。",
-            "TextENG": "This is a secret to everyone, but I actually swiped one of those bottles... no, two bottles, but I gave one of them to my mentor as a show of gratitude."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6900,
-            "TextJPN": "…あの酒豪が舌鼓を打つほどによかったらしく、ずいぶん喜んでくれたものだ。",
-            "TextENG": "...He was a heavy drinker himself, so he was thrilled with it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6901,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/VTK1_oishi1113.",
-            "TextJPN": "「にしても、残念ですねぇ。@k@vS20/11/VTK1_oishi1114.ぜひとも今夜は、その鹿嶋桜の酒蔵を南井さんに教えてもらいたかったのに。@k@vS20/11/VTK1_oishi1115.急用が入っちまうとは…んっふっふっふ、ついてないですよ」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Anyway, it's a shame.@k@vS20/11/VTK1_oishi1114. It would've been nice if Minai-san could've been here tonight to tell us all about that Kashima Sakura brewery.@k@vS20/11/VTK1_oishi1115. But then he got called on urgent business... Nfu fu fu, what poor luck.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6902,
-            "NamesJPN": "山沖",
-            "PreTextTags": "@vS20/30/VTK1_yamaoki1025.",
-            "TextJPN": "「いやいや、申し訳ありません。@k@vS20/30/VTK1_yamaoki1026.あいつも今日の会合を楽しみにしていたのですが…ちょいと本店（警視庁本部）に呼び出されまして。@k@vS20/30/VTK1_yamaoki1027.上司も松葉杖をついて、一緒に上京しています」",
-            "NamesENG": "Yamaoki",
-            "TextENG": "``Oh no, I'm terribly sorry.@k@vS20/30/VTK1_yamaoki1026. He was really looking forward to today's meeting... but the main office (MPD HQ) called him in.@k@vS20/30/VTK1_yamaoki1027. And his boss is currently on crutches, so they had to go to Tokyo together.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6903,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/VTK1_oishi1116.",
-            "TextJPN": "「上司？@k@vS20/11/VTK1_oishi1117.　ああ、あの気の強いエリートさんですね」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Boss?@k@vS20/11/VTK1_oishi1117. Aah, you mean that strong-willed elite course candidate?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6904,
-            "TextJPN": "ふと南井刑事の隣にいた、いかにも才気走った青年の顔を思い出す。",
-            "TextENG": "I suddenly recalled the face of the talented young man who stood beside Detective Minai."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6905,
-            "TextJPN": "名前はそう、…確か前野といったっけ。",
-            "TextENG": "His name was... That's right, I'm sure it was Maeno."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6906,
-            "TextJPN": "階級は警部とのことだったが、国家公務員のⅠ種試験をパスしたキャリア組なので、年齢は部下の南井さんよりもはるか下になる。",
-            "TextENG": "His rank was Chief Inspector, but since he was in the career group and passed the national civil service exam, he was far younger than his subordinate, Minai-san."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6907,
-            "TextJPN": "少々人を食ったやんちゃさが目立っていたが、肝の据わった野性味があって、なかなかに見所がある青年だった。",
-            "TextENG": "He was a bit hard to get along with, but he had guts and a wild spirit. He was quite a remarkable young man."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6908,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/VTK1_oishi1118.",
-            "TextJPN": "「いやぁ、あの勇敢さはなかなか大したものだ。@k@vS20/11/VTK1_oishi1119.ああいう高学歴の方は、鉄砲の音を聞いただけでブルっちまうもんだと思ってたんですけどね」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Wow, he's got some impressive courage.@k@vS20/11/VTK1_oishi1119. People from a highly educated background usually cower at the sound of gunshots.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6909,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/VTK1_oishi1120.",
-            "TextJPN": "「自ら危険なチームの指揮を買って出るなんて、ベテラン刑事でもなかなかできることではありませんよ」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Not even veteran detectives would be so quick to volunteer to take command of such a dangerous team.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6910,
-            "NamesJPN": "山沖",
-            "PreTextTags": "@vS20/30/VTK1_yamaoki1028.",
-            "TextJPN": "「いやいや…勇敢と無鉄砲は違いますよ。@k@vS20/30/VTK1_yamaoki1029.突入の際は、周辺の哨戒を念入りに行うようにと命じていたのに…あの体たらくですから。@k@vS20/30/VTK1_yamaoki1030.一時は肝を冷やしました」",
-            "NamesENG": "Yamaoki",
-            "TextENG": "``No, no... courage and recklessness are very different.@k@vS20/30/VTK1_yamaoki1029. Even though I gave him orders to patrol the surrounding area at the time of the raid... this is how things turned out.@k@vS20/30/VTK1_yamaoki1030. I was terrified for a while.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6911,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/VTK1_oishi1121.",
-            "TextJPN": "「そういや、突入時に怪我をされたそうですね。@k@vS20/11/VTK1_oishi1122.でも、杖つきでも歩けるってことは大事がなさそうで、何よりじゃないですか」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Now that you mention it, I did hear he was injured when he went in.@k@vS20/11/VTK1_oishi1122. But it's not so serious that he'll have to walk with a cane, so it's all good, isn't it?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6912,
-            "NamesJPN": "山沖",
-            "PreTextTags": "@vS20/30/VTK1_yamaoki1031.",
-            "TextJPN": "「ええ。@k@|@y@vS20/30/VTK1_yamaoki1032.…南井のおかげで、ね」",
-            "NamesENG": "Yamaoki",
-            "TextENG": "``Right.@k@|@y@vS20/30/VTK1_yamaoki1032. ...All thanks to Minai-san.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6913,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/VTK1_oishi1123.",
-            "TextJPN": "「……」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``......``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6914,
-            "TextJPN": "その、苦笑交じりの返答を聞いて、…私は状況を理解する。",
-            "TextENG": "Listening to that reply and seeing the bitter smile on his face... I was able to grasp the situation."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6915,
-            "TextJPN": "思慮のしっかりした南井さんが、凶悪犯相手とはいえ感情的に発砲するはずがないと思っていたが、…なるほど、そういうわけだったのか。",
-            "TextENG": "Minai-san was considerate and didn't seem like the kind of person who would shoot at a dangerous criminal out of an emotional outburst, but... I see, so that's how it was?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6916,
-            "NamesJPN": "山沖",
-            "PreTextTags": "@vS20/30/VTK1_yamaoki1033.",
-            "TextJPN": "「南井は、前野が公安に配属された当初…彼の指導教官を務めていましてね。@k@vS20/30/VTK1_yamaoki1034.その縁あって、階級が逆転した後も師弟というか…年の離れた兄弟みたいな関係なんですよ」",
-            "NamesENG": "Yamaoki",
-            "TextENG": "``When Maeno was initially assigned to Public Security... Minai was the one acting as his mentor.@k@vS20/30/VTK1_yamaoki1034. Thanks to that, even after their roles were reversed... he regarded him like an older brother.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6917,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/VTK1_oishi1124.",
-            "TextJPN": "「…そういや、そんな感じでしたねぇ」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``...Now that you mention it, I could see that.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6918,
-            "TextJPN": "現場で何度か顔を合わせた時も、前野警部は南井さんに対して敬語で話し、常に一目置いた態度を崩さなかった。",
-            "TextENG": "Even in the handful of times I saw the two of them together, Chief Inspector Maeno always addressed Minai-san in an honorific tone, and never tried to act like a superior."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6919,
-            "TextJPN": "時々言動を注意されても、まったく素直にそれを受け入れていた。",
-            "TextENG": "And even when he had to be warned about the things he said and did, he accepted it completely frankly."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6920,
-            "TextJPN": "それを見た私たちは、プライドの高そうな彼にもなかなか可愛いところがあると言っていたものだ…。",
-            "TextENG": "When we saw that, we said it was funny how someone as proud as him had such a cute side to him..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6921,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/VTK1_oishi1125.",
-            "TextJPN": "「つまり、本店に呼び出された理由がそれですか。@k@vS20/11/VTK1_oishi1126.…山沖さん。@k@vS20/11/VTK1_oishi1127.南井さんの処分…どうなるんですか？」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``In other words, that's the reason he was called into the main office?@k@vS20/11/VTK1_oishi1126. ...Yamaoki-san,@k@vS20/11/VTK1_oishi1127. what's the situation with Minai-san's punishment?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6922,
-            "NamesJPN": "山沖",
-            "PreTextTags": "@vS20/30/VTK1_yamaoki1035.",
-            "TextJPN": "「それを、今査問にかけているところです。@k@vS20/30/VTK1_yamaoki1036.まぁ…全然お咎めなしというわけにはいかないでしょうがね」",
-            "NamesENG": "Yamaoki",
-            "TextENG": "``There's an ongoing inquiry into the incident.@k@vS20/30/VTK1_yamaoki1036. Well... I can't say he's completely free of blame.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6923,
-            "TextJPN": "発砲禁止の戒厳令の中、犯人に向けて実弾を発射。",
-            "TextENG": "He fired live rounds at a criminal even though a no-fire order was in effect."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6924,
-            "TextJPN": "…しかも、撃たれた相手は死亡。",
-            "TextENG": "...And to make it worse, the person he shot died."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6925,
-            "TextJPN": "いくら犯人が武装し、それまでに３人もの人間を殺害していたとはいえ…@k銃の発砲が厳しく制限されている警官が犯人を射殺したという事実は、非常にまずい流れだった。",
-            "TextENG": "Even though the criminals were armed and had already killed three people by that point in time...@k the fact that a policeman shot and killed a criminal while under strict no-fire orders was an extremely bad move."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6926,
-            "TextJPN": "先年も、シージャックを行った犯人を射殺した警察官が殺人罪で告訴されるという事態があった。",
-            "TextENG": "There was an incident just last year where a police officer shot and killed a ship hijacker, and the officer was charged with murder."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6927,
-            "TextJPN": "…本末転倒ともいえる話だが、それがまかり通るのが昨今の風潮なのだ。",
-            "TextENG": "...This may be putting the cart before the horse, but the modern trend was to overlook those sorts of incidents."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6928,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/VTK1_oishi1128.",
-            "TextJPN": "「…しかし、おかしな話だ。@k@vS20/11/VTK1_oishi1129.南井さんが撃っていなかったら、足を撃たれていた捜査員…前野警部は、おそらく目前に迫った犯人によって殺されていたでしょう」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``...But, there's something strange about that.@k@vS20/11/VTK1_oishi1129. If Minai-san hadn't fired that shot, then the already wounded officer... Chief Inspector Maeno would probably have been killed by the criminal in question.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6929,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/VTK1_oishi1130.",
-            "TextJPN": "「それは周囲の証言も、そしてＴＶカメラの映像も十分に正当防衛であると証明してくれているじゃないですか？」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``The testimony of surrounding people and the footage from TV cameras should be enough to prove he was acting in legitimate self-defense, right?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6930,
-            "NamesJPN": "山沖",
-            "PreTextTags": "@vS20/30/VTK1_yamaoki1037.",
-            "TextJPN": "「それでも、現場にいない人々にとっては建前のほうが大事なんですよ」",
-            "NamesENG": "Yamaoki",
-            "TextENG": "``Nevertheless, the people watching from the sidelines place a greater emphasis on saving face.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6931,
-            "TextJPN": "警官が撃たれて殺されても、職務上やむを得ないことだと言い切り、…その一方で凶悪犯を安全確保のために撃てば、違法行為で懲罰の対象とすらみなして騒ぎたてる。",
-            "TextENG": "Even if an officer is shot and killed, they'd just say it's an unavoidable part of this line of work... But on the other hand, shooting an armed criminal to ensure safety would cause a huge outcry demanding punishment for the illegal deed."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6932,
-            "TextJPN": "警察のお偉方か、それとも政治家か…誰が初めに言い出したのかは知らないが、現場無視にもほどがあるというものだ。",
-            "TextENG": "Were they police VIPs or politicians...? I don't know who said it first, but neglect of the people in the field had its limits."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6933,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/VTK1_oishi1131.",
-            "TextJPN": "「…くそったれ」",
-            "AfterTextTags": "@|@y",
-            "NamesENG": "Ooishi",
-            "TextENG": "``...Bullshit.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6934,
-            "TextJPN": "民主主義の代弁者を標榜する人の中には、警察や軍隊を猟犬や番犬といった何かとみなして、そこに命が宿っていることすら忘れて理想…いや、妄想を語るやつらがいる。",
-            "TextENG": "Some of the strong proponents of democracy consider police officers and soldiers like guard dogs or hunting dogs, and forget that they're actual human lives while spouting off their ideals... No, their delusions."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6935,
-            "TextJPN": "だが、彼らだって人間だ。",
-            "TextENG": "But those people are human too."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6936,
-            "TextJPN": "当然親もあれば兄弟もあり、そして妻子など職務以上に大切なものを持っている。",
-            "TextENG": "Of course they consider their parents, siblings, their wife and children more important than their job."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6937,
-            "TextJPN": "その権利と誇りは、一体何が保証してくれるというのだろうか…？",
-            "TextENG": "What on earth guarantees them their rights, their pride...?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6938,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/VTK1_oishi1132.",
-            "TextJPN": "「じゃあ…やはり南井さんは、…免職ですか？」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``So... in the end... Minai-san is going to be discharged?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6939,
-            "NamesJPN": "山沖",
-            "PreTextTags": "@vS20/30/VTK1_yamaoki1038.",
-            "TextJPN": "「いえいえ、そこまではさせませんよ。@k@vS20/30/VTK1_yamaoki1039.とりあえずミソギ程度に今の部署は異動させますが、新設の私の直下の部署に置く予定です。@k@vS20/30/VTK1_yamaoki1040.ちょうど彼には、担当してもらいたい事件がありましたからね」",
-            "NamesENG": "Yamaoki",
-            "TextENG": "``Oh no, I won't let it go that far.@k@vS20/30/VTK1_yamaoki1039. They're looking to remove him from his current department, but I plan to place him in a new department working directly under me.@k@vS20/30/VTK1_yamaoki1040. On the grounds that I have a case I want him to be in charge of.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6940,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/VTK1_oishi1133.",
-            "TextJPN": "「え？　それで、大丈夫なんですか？@k@vS20/11/VTK1_oishi1134.　確か以前、シージャック犯を射殺した刑事さんは刑事告発されて罷免、上の方々も何人かがお辞めになられたと聞きましたが…」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``Huh? Is that really all right?@k@vS20/11/VTK1_oishi1134. But in that case where a detective killed a ship hijacker, I heard the detective was dismissed and some of the higher-ups even resigned...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6941,
-            "NamesJPN": "山沖",
-            "PreTextTags": "@vS20/30/VTK1_yamaoki1041.",
-            "TextJPN": "「なに…私たちとて、指をくわえて黙っているわけではありませんよ」",
-            "NamesENG": "Yamaoki",
-            "TextENG": "``What...? You can't expect us to stick our fingers in our mouths and keep quiet.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6942,
-            "NamesJPN": "山沖",
-            "PreTextTags": "@vS20/30/VTK1_yamaoki1042.",
-            "TextJPN": "「そもそも彼らに危険を負わせて命令を下す権限は、彼らの後顧の憂いを取り除く義務を果たしてこそ担う資格を得るものと私は思っています」",
-            "NamesENG": "Yamaoki",
-            "TextENG": "``I believe that we're only qualified to give orders that put people's lives at risk if we can fulfill our obligation to absolve their worries.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6943,
-            "NamesJPN": "山沖",
-            "PreTextTags": "@vS20/30/VTK1_yamaoki1043.",
-            "TextJPN": "「なればこそ、その行動に正当性を保証するのが私の役目。@k@vS20/30/VTK1_yamaoki1044.全力でもって、南井のことを守るつもりです」",
-            "NamesENG": "Yamaoki",
-            "TextENG": "``In which case, it's my duty to guarantee the legitimacy of his actions.@k@vS20/30/VTK1_yamaoki1044. So I'll do everything in my power to protect Minai.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6944,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/VTK1_oishi1135.",
-            "TextJPN": "「…すごいなぁ」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``...Incredible.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6945,
-            "TextJPN": "皮肉でも何でもなく本気で、私は感心する。",
-            "TextENG": "There was no sarcasm there. I seriously admired him."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6946,
-            "TextJPN": "やはり、どこぞのエリートもどきのお偉いさんと違って、本物のエリートは覚悟と意識が格段に高い。",
-            "TextENG": "After all, unlike the so-called elites, the real elites have great resolve and strong compassion."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6947,
-            "TextJPN": "篭城事件の制圧作戦では、彼の部下全員が肩書き以上の働きをしている姿を見て圧倒され、敗北感すら抱いたものだが…これだけの上司なら、さもありなんというところだろう。",
-            "TextENG": "Even in the siege operation, when it was overwhelming to see all his subordinates acting beyond their duties, to the point I felt totally outclassed... it was only natural when they had a boss like that."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6948,
-            "NamesJPN": "大石",
-            "PreTextTags": "@vS20/11/VTK1_oishi1136.",
-            "TextJPN": "「…そういや、南井さんが撃ち殺したっていうあの外道野郎。@k@vS20/11/VTK1_oishi1137.名前…なんていいましたっけ」",
-            "NamesENG": "Ooishi",
-            "TextENG": "``...By the way, about that bastard that Minai-san killed.@k@vS20/11/VTK1_oishi1137. What... did you say their name was again?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 6949,
-            "NamesJPN": "山沖",
-            "PreTextTags": "@vS20/30/VTK1_yamaoki1045.",
-            "TextJPN": "「確か…滝口、一紀。@k@|@y@vS20/30/VTK1_yamaoki1046.東都大学の学生ですよ。@k@vS20/30/VTK1_yamaoki1047.Ｔ大学篭城事件の時にも、あの顔を見たことがあります」",
-            "NamesENG": "Yamaoki",
-            "TextENG": "``I'm sure it was... Kazunori Takiguchi.@k@|@y@vS20/30/VTK1_yamaoki1046. A student at Touto University.@k@vS20/30/VTK1_yamaoki1047. I recall seeing his face at the T University siege incident.``"
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "F5 山沖薫",
+		"ENG": "F5 Kaoru Yamaoki"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6848,
+		"NamesJPN": "大石",
+		"PreTextTags": "@-@vS20/11/VTK1_oishi1083.",
+		"TextJPN": "（…はぁ、まさかここまでやってくれるとはなぁ）",
+		"NamesENG": "Ooishi",
+		"TextENG": "(...Haah, I can't believe they went this far.)"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6849,
+		"TextJPN": "緊張した思いを何とかほぐそうと、私はほどよく温まった熱燗をあおり飲んで、腹をゆすりながら大きく酒気を吐く。",
+		"TextENG": "I gulped down some warm alcohol and let out a long sigh while shaking my stomach to release the tension."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6850,
+		"TextJPN": "美味い酒に、美味い海山の肴。",
+		"TextENG": "Delicious liquor and delicious hors d'oeuvres."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6851,
+		"TextJPN": "…ちょうちん居酒屋での安酒とおでんに慣れたこの舌には、ちょいとどころか、明らかに分不相応な代物の数々だ。",
+		"TextENG": "...My tongue had grown accustomed to the cheap sake and stew served at bars, so this was clearly beyond my means."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6852,
+		"TextJPN": "いくらご招待を受けたとはいえ、仮にも警視庁のお偉方がこれほどに心をつくした接待でもてなしてくれるとは夢にも思わず、…私は手ぶらで参上したことを少々後悔していた。",
+		"TextENG": "Even when I received the invitation, I never dreamed that the Metropolitan Police Department would show such generous hospitality... and I felt a twinge of regret for showing up empty-handed."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6853,
+		"NamesJPN": "大石",
+		"PreTextTags": "@-@vS20/11/VTK1_oishi1084.",
+		"TextJPN": "（せめて、南井さんがいてくれたら気が楽だったんだが…）",
+		"NamesENG": "Ooishi",
+		"TextENG": "(At the very least, it would've been nice if Minai-san was here...)"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6854,
+		"TextJPN": "南井警部補とは、数年前に東京で開かれた交流会で意気投合して以来、上京した際にはともに酒を交わすなどの友誼を結んでいた。",
+		"TextENG": "After meeting Deputy Inspector Minai at a networking meeting in Tokyo a few years back, we'd become friends and would go out drinking together any time I came to Tokyo."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6855,
+		"TextJPN": "本来なら、ここに彼が参加してくれて、山沖理事官の仲介役を務めてもらうつもりだったのだが…あいにく急用が入ったらしく、残念ながら今回は不参加とのことだった。",
+		"TextENG": "He was originally supposed to be here acting as an intermediary for Commissioner Yamaoki... but unfortunately, something urgent came up that demanded his attention, so he wouldn't be coming."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6856,
+		"NamesJPN": "山沖",
+		"PreTextTags": "@vS20/30/VTK1_yamaoki1001.",
+		"TextJPN": "「大石さん、まぁそう固くならずに。@k@vS20/30/VTK1_yamaoki1002.南井くんからも、酒にはお強いと伺っております。@k@vS20/30/VTK1_yamaoki1003.ささ、どうぞご遠慮なくやってください」",
+		"NamesENG": "Yamaoki",
+		"TextENG": "``Ooishi-san, don't be so stiff.@k@vS20/30/VTK1_yamaoki1002. Minai-kun told me you're quite a drinker.@k@vS20/30/VTK1_yamaoki1003. Go on, no need to hesitate.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6857,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/VTK1_oishi1085.",
+		"TextJPN": "「なっはっはっはっ…いや、お恥ずかしい。@k@vS20/11/VTK1_oishi1086.こういう畳敷きの広い場所で飲むのは、温泉地に慰安旅行に行った時ぐらいなものでして。@k@vS20/11/VTK1_oishi1087.私ゃ田舎出の小心者ですから、妙に身構えてしまうんですよ～」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Na ha ha ha... how embarrassing.@k@vS20/11/VTK1_oishi1086. The only time I've drunk in a wide open tatami-lined room like this was when I went on a hot spring vacation.@k@vS20/11/VTK1_oishi1087. I'm a humble country man, so I feel a little out of my element here~.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6858,
+		"NamesJPN": "山沖",
+		"PreTextTags": "@vS20/30/VTK1_yamaoki1004.",
+		"TextJPN": "「はっはっはっ、そんなご謙遜を。@k@vS20/30/VTK1_yamaoki1005.とりあえず…こんな爺の酌で大変恐縮ですが、もうひとつどうぞ」",
+		"NamesENG": "Yamaoki",
+		"TextENG": "``Hahaha, so humble.@k@vS20/30/VTK1_yamaoki1005. Anyway... let an old man show his gratitude by pouring you another.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6859,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/VTK1_oishi1088.",
+		"TextJPN": "「あぁ、こりゃすみません。@k@vS20/11/VTK1_oishi1089.おっとっとっと…ん～、いい匂いだなぁ。@k@vS20/11/VTK1_oishi1090.いい日本酒ってのは、香りだけで酔わせてくれますねぇ」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Aah, thank you.@k@vS20/11/VTK1_oishi1089. Otototo... Mmm~, smells nice.@k@vS20/11/VTK1_oishi1090. Good alcohol can get you drunk off the scent alone.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6860,
+		"TextJPN": "そう言って私は、理事官どのが手づからお猪口一杯に注いでくれた熱燗をぐい、と飲み干す。",
+		"TextENG": "The commissioner poured some warm alcohol into my cup as I said that, and I took a drink."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6861,
+		"TextJPN": "改めて味わってみても、実にいい酒だ。",
+		"TextENG": "Even after tasting it again, I can confidently say this is really good alcohol."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6862,
+		"TextJPN": "綺麗なおネエちゃんのお酌で飲む酒も格別だが、自分より格上の人に勧められて飲むのも考えようによっては、いいものかもしれない。",
+		"TextENG": "It would be wonderful if a beautiful young lady was the one pouring it for me, but enjoying a drink recommended by a superior is nice too, I guess."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6863,
+		"TextJPN": "…そう開き直って私は、山沖さんが言ってくれた無礼講の言葉を信じてにこやかに切り出した。",
+		"TextENG": "...Thinking that, and not wanting to be rude to Yamaoki-san, I decided to believe that and smiled at him."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6864,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/VTK1_oishi1091.",
+		"TextJPN": "「いやぁ～、それにしても山沖さんにはほとほと頭が下がりますねぇ。@k@vS20/11/VTK1_oishi1092.わざわざ私なんかのためにこんな素敵な席を設けてくださったんですから。@k@vS20/11/VTK1_oishi1093.本当にありがたい限りですよ…んっふっふっふっ！」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Oh my~, anyway, my hat's off to you, Yamaoki-san.@k@vS20/11/VTK1_oishi1092. You went to a lot of trouble to prepare this for me.@k@vS20/11/VTK1_oishi1093. I do sincerely appreciate it... Nfu fu fu!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6865,
+		"NamesJPN": "山沖",
+		"PreTextTags": "@vS20/30/VTK1_yamaoki1006.",
+		"TextJPN": "「何をおっしゃいます。@k@vS20/30/VTK1_yamaoki1007.大石さんには、今回のしらかば山荘の篭城事件で大変お世話になりました」",
+		"NamesENG": "Yamaoki",
+		"TextENG": "``What are you talking about?@k@vS20/30/VTK1_yamaoki1007. Ooishi-san, I'm grateful for all your help during the Shirakaba mountain villa siege.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6866,
+		"NamesJPN": "山沖",
+		"PreTextTags": "@vS20/30/VTK1_yamaoki1008.",
+		"TextJPN": "「地元警察と我ら警視庁との連携がつつがなく行えたのも、ひとえにあなたのご協力があってのことと雄介…いや、うちの南井からお聞きしております。@k@vS20/30/VTK1_yamaoki1009.彼の分まで、お礼を言わせてください」",
+		"NamesENG": "Yamaoki",
+		"TextENG": "``The local police and the Metropolitan Police Department were only able to collaborate so seamlessly thanks to your help. That's what Yuusuke... I mean, Minai told me.@k@vS20/30/VTK1_yamaoki1009. So please, let me thank you on his behalf.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6867,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/VTK1_oishi1094.",
+		"TextJPN": "「いやいや、私は別に大したことなんてしていませんよ。@k@vS20/11/VTK1_oishi1095.ちょいと脇腹をつついて、冷やかしてやっただけです」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``No no, I didn't do all that much.@k@vS20/11/VTK1_oishi1095. Just a bit of prodding at people's sides and cooling things down.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6868,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/VTK1_oishi1096.",
+		"TextJPN": "「偉そうに見せようとふんぞり返るのも結構ですが、武装した犯人にはそんなはったりは通じませんよ、ってね」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Acting all cocky and tough is fine and all, but bluffs like that don't work when it comes to armed criminals.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6869,
+		"TextJPN": "そもそも、常日頃から凶悪犯罪への対処に手慣れている警視庁の捜査員、まして機動隊員たちと比べれば、県警本部の連中は装備やスキル以上に、度胸が明らかに不足していた。",
+		"TextENG": "Compared to MPD investigators and riot police who are used to dealing with violent criminals on a daily basis, the folks at prefectural police HQ weren't just lacking in skills and equipment, but courage too."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6870,
+		"TextJPN": "そんな彼らが、武装した上に人質を盾にした篭城犯を相手にするなど、危険を通り越して無謀でしかない。",
+		"TextENG": "It's beyond reckless to expect people like that to brave the danger of going up against holed up armed criminals using hostages as shields."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6871,
+		"TextJPN": "実際、当初は捜査員たちに防弾チョッキを配布していなかったと聞かされた時など、私でさえ責任者の頭を小突きたくなったほどだ。",
+		"TextENG": "In fact, I was ready to smack the person responsible upside the head when I heard they hadn't even distributed bulletproof vests to investigators from the get go."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6872,
+		"TextJPN": "それでも、上役さんたちは中央への劣等感からか…警視庁に対して頭を下げるどころか、彼らから下手に提案してくれた共同作戦までかたくなに拒み続けた。",
+		"TextENG": "Even so, perhaps fueled largely by a sense of inferiority... rather than bowing down to MPD, the higher ups stubbornly refused to work together."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6873,
+		"TextJPN": "そのおかげで、犯人グループへの対処姿勢はどうにもまとまらず、…ほとんどなし崩しに強行された最初の突入は、重軽傷者を出しただけの全く無意味なものとなってしまった。",
+		"TextENG": "Thanks to that, their posture for dealing with the criminal group was completely inadequate... and their initial raid was repelled immediately, making the effort completely meaningless and resulting in some serious injuries."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6874,
+		"TextJPN": "ゆえに、私たち現場の捜査員たちは粘り強く上層部にかけ合って説得を行い、機動隊への権限委嘱を強く訴えかけた。",
+		"TextENG": "And so, the other investigators on-scene and I argued with upper management and appealed for them to delegate authority to the riot police."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6875,
+		"TextJPN": "そのかいあって、全体の指揮権は機動隊の責任者へとゆだねられ、我々は後方支援を引き受けた結果、山荘への突入作戦は三度目にして成功したのだった…。",
+		"TextENG": "Thanks to that, overall command authority was handed off to the riot police while we took care of logistical support, and as a result the third raid on the mountain villa was a success..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6876,
+		"NamesJPN": "山沖",
+		"PreTextTags": "@vS20/30/VTK1_yamaoki1010.",
+		"TextJPN": "「大石さんたちが県警の方々を説得してくれなかったら…山荘への突入はさらに遅れていたでしょう。@k@vS20/30/VTK1_yamaoki1011.そうなれば、中で囚われていた人質の身はさらに危険なものとなっていたに違いない」",
+		"NamesENG": "Yamaoki",
+		"TextENG": "``Ooishi-san, if you and the others hadn't gotten through to the prefectural police... the mountain villa raid would've been delayed even further.@k@vS20/30/VTK1_yamaoki1011. And if that had happened, the hostages inside would've been in even more danger.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6877,
+		"NamesJPN": "山沖",
+		"PreTextTags": "@vS20/30/VTK1_yamaoki1012.",
+		"TextJPN": "「実際、身柄を保護した管理人の奥方は衰弱が激しく、精神的なストレスもあって現在も長期入院を余儀なくされていますからね」",
+		"NamesENG": "Yamaoki",
+		"TextENG": "``In fact, the landlord's wife suffered so much mental trauma she was taken into protection and had to stay hospitalized for a long time.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6878,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/VTK1_oishi1097.",
+		"TextJPN": "「…お気の毒な話です。@k@vS20/11/VTK1_oishi1098.私たちが、覚悟をもっと早いところで決めていたらと思うと、…心が痛みますよ」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``...I'm sorry to hear that.@k@vS20/11/VTK1_oishi1098. It pains me... that we didn't take action sooner.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6879,
+		"NamesJPN": "山沖",
+		"PreTextTags": "@vS20/30/VTK1_yamaoki1013.",
+		"TextJPN": "「いやいや、あなたがたは十分やってくださいました。@k@vS20/30/VTK1_yamaoki1014.その方のご主人も、無事の救出をとても喜んでくれましたし…犯人の逃亡も阻止できました。@k@vS20/30/VTK1_yamaoki1015.それだけでも上々とすべきだと、私は思っております」",
+		"NamesENG": "Yamaoki",
+		"TextENG": "``Oh, no, you did more than enough.@k@vS20/30/VTK1_yamaoki1014. The landlord was very pleased that the hostages were safely rescued... and that we managed to prevent the criminals from escaping.@k@vS20/30/VTK1_yamaoki1015. As far as I'm concerned, that alone is more than a job well done.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6880,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/VTK1_oishi1099.",
+		"TextJPN": "「そう言ってもらえると、こちらも救われます。@k@vS20/11/VTK1_oishi1100.…まぁ、うちの県警の連中ときたら自意識過剰っていうか、東京の方々に対して対抗意識を持ってるやつらが多いですからね」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Hearing you say that makes me feel at ease.@k@vS20/11/VTK1_oishi1100. ...Well, the prefectural police staff are overly self-conscious, and many of them do feel a sense of rivalry with the folks in Tokyo.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6881,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/VTK1_oishi1101.",
+		"TextJPN": "「こういう時にこそ、ゴチンと言っておかなくては。@k@vS20/11/VTK1_oishi1102.連中にもいい薬になったと思いますよ」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``At times like these, you have to speak sternly with people.@k@vS20/11/VTK1_oishi1102. I think this was good medicine for them.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6882,
+		"NamesJPN": "山沖",
+		"PreTextTags": "@vS20/30/VTK1_yamaoki1016.",
+		"TextJPN": "「いえいえ…本来なら我々警視庁も、県警の方々の立場を尊重して事を進める予定だったんですがね。@k@vS20/30/VTK1_yamaoki1017.あれ以上モタモタしていると、人質の安否はおろか犠牲者がさらに増えていたかもしれない」",
+		"NamesENG": "Yamaoki",
+		"TextENG": "``Oh, no... we at MPD originally intended to proceed while respecting the authority of the prefectural police.@k@vS20/30/VTK1_yamaoki1017. But moving any slower would likely have compromised the safety of the hostages, or even increased the number of casualties.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6883,
+		"NamesJPN": "山沖",
+		"PreTextTags": "@vS20/30/VTK1_yamaoki1018.",
+		"TextJPN": "「申し訳ないと思いつつも、苦渋の選択でした。@k@vS20/30/VTK1_yamaoki1019.そのあたりをぜひ、みなさんにもご理解いただけましたらありがたいです」",
+		"NamesENG": "Yamaoki",
+		"TextENG": "``I'm terribly sorry. It was a painful choice to make.@k@vS20/30/VTK1_yamaoki1019. It would be nice if everyone could understand that.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6884,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/VTK1_oishi1103.",
+		"TextJPN": "「えぇえぇ、わかっていますって！@k@vS20/11/VTK1_oishi1104.　捜査一課長と公安課長にはちゃーんと、話をつけておきますから。@k@vS20/11/VTK1_oishi1105.どうぞ安んじてお任せあれ…なんてね。@k@vS20/11/VTK1_oishi1106.なっはっはっはっ！」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Riiight, I totally understand!@k@vS20/11/VTK1_oishi1104. I'll have a nice long talk with the section chief of the First Division and the section chief of Public Security.@k@vS20/11/VTK1_oishi1105. Rest assured, you can leave that to me... Just kidding.@k@vS20/11/VTK1_oishi1106. Na ha ha ha!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6885,
+		"TextJPN": "機嫌良く山沖に返杯を注ぎながら、さすがは公安でも指折りの切れ者だと内心、舌を巻く。",
+		"TextENG": "As I poured another round to Yamaoki in a good mood, I was silently astonished that there were such capable people at Public Security."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6886,
+		"TextJPN": "県警本部の捜査一課長、そして公安課長は私の麻雀仲間だ。",
+		"TextENG": "The First Division section chief at prefectural HQ and the section chief of Public Security were actually old mahjong partners of mine."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6887,
+		"TextJPN": "そのつながりの深さをすでに調査した上で、私に仲介を頼んでいるのだろう。",
+		"TextENG": "They must've investigated the depth of those connections before asking me to act as the intermediary."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6888,
+		"NamesJPN": "大石",
+		"PreTextTags": "@-@vS20/11/VTK1_oishi1107.",
+		"TextJPN": "（もっとも…ここまでやってもらっちゃ、断れませんがねぇ）",
+		"NamesENG": "Ooishi",
+		"TextENG": "(Although... there was no way I could refuse after going so far.)"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6889,
+		"TextJPN": "そもそも、慣行に従えば直接課長連中に会いに行って、礼を述べるついでに釈明をしておけばいいだけなのだ。",
+		"TextENG": "If we were following standard protocol, you'd simply have to meet with each section chief directly and offer them your gratitude while clearly explaining the situation."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6890,
+		"TextJPN": "だが、それだけでは実際に危険な現場に臨んだ捜査員、特に私のような所轄の刑事たちの心象に差しさわりが出ると判断したのだろう。",
+		"TextENG": "But they figured someone who had actually endured dangerous crime scenes, especially a local detective like myself, would be a nice touch for getting through to them."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6891,
+		"TextJPN": "だからこそ、恩義に対してこういうかたちで労ってくれた上、現場の面目も保つことができるよう自分の仲介を求めている。",
+		"TextENG": "That's why, in addition to working hard for gratitude, they were seeking mediation so the people in the field could save face."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6892,
+		"TextJPN": "私としても、キーマンのように扱われて悪い気分になるわけがない。",
+		"TextENG": "And I couldn't exactly feel bad about them wanting to make me a key player."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6893,
+		"TextJPN": "その気持ちだけでも、十分にありがたいものには違いなかった。",
+		"TextENG": "I was grateful enough for that sentiment alone."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6894,
+		"NamesJPN": "山沖",
+		"PreTextTags": "@vS20/30/VTK1_yamaoki1020.",
+		"TextJPN": "「そういえば例の酒、いかがでしたか？@k@vS20/30/VTK1_yamaoki1021.　あの程度で皆さんの労功の代価とは思っておりませんが、お口に合えばよかったのですが…」",
+		"NamesENG": "Yamaoki",
+		"TextENG": "``By the way, how was the alcohol you all received after that incident?@k@vS20/30/VTK1_yamaoki1021. I don't think it was suitable compensation for the extent of everyone's troubles, but I hope you enjoyed it...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6895,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/VTK1_oishi1108.",
+		"TextJPN": "「とんでもない、十分ですよ！@k@vS20/11/VTK1_oishi1109.　鹿嶋桜…でしたか？@k@vS20/11/VTK1_oishi1110.　あんな美味い酒は飲んだことがないと、うちの署の連中大喜びでしたよ～んっふっふっ！」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Don't be absurd, it was more than enough!@k@vS20/11/VTK1_oishi1109. It was Kashima Sakura... wasn't it?@k@vS20/11/VTK1_oishi1110. Everyone at the station was overjoyed! They said they'd never tasted anything better~ Nfu fu fu!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6896,
+		"NamesJPN": "山沖",
+		"PreTextTags": "@vS20/30/VTK1_yamaoki1022.",
+		"TextJPN": "「実は南井の地元に、なかなかの酒蔵がありましてね。@k@vS20/30/VTK1_yamaoki1023.私も時々買い付けているんですが…いや、なかなかのものです」",
+		"NamesENG": "Yamaoki",
+		"TextENG": "``There is actually quite an impressive brewery near Minai's hometown.@k@vS20/30/VTK1_yamaoki1023. I buy it myself from time to time... No, actually pretty often.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6897,
+		"NamesJPN": "山沖",
+		"PreTextTags": "@vS20/30/VTK1_yamaoki1024.",
+		"TextJPN": "「部下たちも勝手に封を開けて飲んでしまうくらいで、最近では見つからないように隠しているくらいですよ」",
+		"NamesENG": "Yamaoki",
+		"TextENG": "``My subordinates would even uncork them without permission to have a drink, so these days I've been hiding it from them.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6898,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/VTK1_oishi1111.",
+		"TextJPN": "「なっはっはっはっ！@k@vS20/11/VTK1_oishi1112.　お気持ちはよぉくわかりますよぉ～！」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Na ha ha ha!@k@vS20/11/VTK1_oishi1112. Now that I can totally understand~!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6899,
+		"TextJPN": "みんなには内緒だが、私も一升瓶を１本…いや２本をくすねて、そのうちの１本を日頃から世話になっているおやっさんに差し上げてやった。",
+		"TextENG": "This is a secret to everyone, but I actually swiped one of those bottles... no, two bottles, but I gave one of them to my mentor as a show of gratitude."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6900,
+		"TextJPN": "…あの酒豪が舌鼓を打つほどによかったらしく、ずいぶん喜んでくれたものだ。",
+		"TextENG": "...He was a heavy drinker himself, so he was thrilled with it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6901,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/VTK1_oishi1113.",
+		"TextJPN": "「にしても、残念ですねぇ。@k@vS20/11/VTK1_oishi1114.ぜひとも今夜は、その鹿嶋桜の酒蔵を南井さんに教えてもらいたかったのに。@k@vS20/11/VTK1_oishi1115.急用が入っちまうとは…んっふっふっふ、ついてないですよ」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Anyway, it's a shame.@k@vS20/11/VTK1_oishi1114. It would've been nice if Minai-san could've been here tonight to tell us all about that Kashima Sakura brewery.@k@vS20/11/VTK1_oishi1115. But then he got called on urgent business... Nfu fu fu, what poor luck.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6902,
+		"NamesJPN": "山沖",
+		"PreTextTags": "@vS20/30/VTK1_yamaoki1025.",
+		"TextJPN": "「いやいや、申し訳ありません。@k@vS20/30/VTK1_yamaoki1026.あいつも今日の会合を楽しみにしていたのですが…ちょいと本店（警視庁本部）に呼び出されまして。@k@vS20/30/VTK1_yamaoki1027.上司も松葉杖をついて、一緒に上京しています」",
+		"NamesENG": "Yamaoki",
+		"TextENG": "``Oh no, I'm terribly sorry.@k@vS20/30/VTK1_yamaoki1026. He was really looking forward to today's meeting... but the main office (MPD HQ) called him in.@k@vS20/30/VTK1_yamaoki1027. And his boss is currently on crutches, so they had to go to Tokyo together.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6903,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/VTK1_oishi1116.",
+		"TextJPN": "「上司？@k@vS20/11/VTK1_oishi1117.　ああ、あの気の強いエリートさんですね」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Boss?@k@vS20/11/VTK1_oishi1117. Aah, you mean that strong-willed elite course candidate?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6904,
+		"TextJPN": "ふと南井刑事の隣にいた、いかにも才気走った青年の顔を思い出す。",
+		"TextENG": "I suddenly recalled the face of the talented young man who stood beside Detective Minai."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6905,
+		"TextJPN": "名前はそう、…確か前野といったっけ。",
+		"TextENG": "His name was... That's right, I'm sure it was Maeno."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6906,
+		"TextJPN": "階級は警部とのことだったが、国家公務員のⅠ種試験をパスしたキャリア組なので、年齢は部下の南井さんよりもはるか下になる。",
+		"TextENG": "His rank was Chief Inspector, but since he was in the career group and passed the national civil service exam, he was far younger than his subordinate, Minai-san."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6907,
+		"TextJPN": "少々人を食ったやんちゃさが目立っていたが、肝の据わった野性味があって、なかなかに見所がある青年だった。",
+		"TextENG": "He was a bit hard to get along with, but he had guts and a wild spirit. He was quite a remarkable young man."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6908,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/VTK1_oishi1118.",
+		"TextJPN": "「いやぁ、あの勇敢さはなかなか大したものだ。@k@vS20/11/VTK1_oishi1119.ああいう高学歴の方は、鉄砲の音を聞いただけでブルっちまうもんだと思ってたんですけどね」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Wow, he's got some impressive courage.@k@vS20/11/VTK1_oishi1119. People from a highly educated background usually cower at the sound of gunshots.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6909,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/VTK1_oishi1120.",
+		"TextJPN": "「自ら危険なチームの指揮を買って出るなんて、ベテラン刑事でもなかなかできることではありませんよ」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Not even veteran detectives would be so quick to volunteer to take command of such a dangerous team.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6910,
+		"NamesJPN": "山沖",
+		"PreTextTags": "@vS20/30/VTK1_yamaoki1028.",
+		"TextJPN": "「いやいや…勇敢と無鉄砲は違いますよ。@k@vS20/30/VTK1_yamaoki1029.突入の際は、周辺の哨戒を念入りに行うようにと命じていたのに…あの体たらくですから。@k@vS20/30/VTK1_yamaoki1030.一時は肝を冷やしました」",
+		"NamesENG": "Yamaoki",
+		"TextENG": "``No, no... courage and recklessness are very different.@k@vS20/30/VTK1_yamaoki1029. Even though I gave him orders to patrol the surrounding area at the time of the raid... this is how things turned out.@k@vS20/30/VTK1_yamaoki1030. I was terrified for a while.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6911,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/VTK1_oishi1121.",
+		"TextJPN": "「そういや、突入時に怪我をされたそうですね。@k@vS20/11/VTK1_oishi1122.でも、杖つきでも歩けるってことは大事がなさそうで、何よりじゃないですか」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Now that you mention it, I did hear he was injured when he went in.@k@vS20/11/VTK1_oishi1122. But it's not so serious that he'll have to walk with a cane, so it's all good, isn't it?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6912,
+		"NamesJPN": "山沖",
+		"PreTextTags": "@vS20/30/VTK1_yamaoki1031.",
+		"TextJPN": "「ええ。@k@|@y@vS20/30/VTK1_yamaoki1032.…南井のおかげで、ね」",
+		"NamesENG": "Yamaoki",
+		"TextENG": "``Right.@k@|@y@vS20/30/VTK1_yamaoki1032. ...All thanks to Minai-san.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6913,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/VTK1_oishi1123.",
+		"TextJPN": "「……」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``......``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6914,
+		"TextJPN": "その、苦笑交じりの返答を聞いて、…私は状況を理解する。",
+		"TextENG": "Listening to that reply and seeing the bitter smile on his face... I was able to grasp the situation."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6915,
+		"TextJPN": "思慮のしっかりした南井さんが、凶悪犯相手とはいえ感情的に発砲するはずがないと思っていたが、…なるほど、そういうわけだったのか。",
+		"TextENG": "Minai-san was considerate and didn't seem like the kind of person who would shoot at a dangerous criminal out of an emotional outburst, but... I see, so that's how it was?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6916,
+		"NamesJPN": "山沖",
+		"PreTextTags": "@vS20/30/VTK1_yamaoki1033.",
+		"TextJPN": "「南井は、前野が公安に配属された当初…彼の指導教官を務めていましてね。@k@vS20/30/VTK1_yamaoki1034.その縁あって、階級が逆転した後も師弟というか…年の離れた兄弟みたいな関係なんですよ」",
+		"NamesENG": "Yamaoki",
+		"TextENG": "``When Maeno was initially assigned to Public Security... Minai was the one acting as his mentor.@k@vS20/30/VTK1_yamaoki1034. Thanks to that, even after their roles were reversed... he regarded him like an older brother.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6917,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/VTK1_oishi1124.",
+		"TextJPN": "「…そういや、そんな感じでしたねぇ」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``...Now that you mention it, I could see that.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6918,
+		"TextJPN": "現場で何度か顔を合わせた時も、前野警部は南井さんに対して敬語で話し、常に一目置いた態度を崩さなかった。",
+		"TextENG": "Even in the handful of times I saw the two of them together, Chief Inspector Maeno always addressed Minai-san in an honorific tone, and never tried to act like a superior."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6919,
+		"TextJPN": "時々言動を注意されても、まったく素直にそれを受け入れていた。",
+		"TextENG": "And even when he had to be warned about the things he said and did, he accepted it completely frankly."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6920,
+		"TextJPN": "それを見た私たちは、プライドの高そうな彼にもなかなか可愛いところがあると言っていたものだ…。",
+		"TextENG": "When we saw that, we said it was funny how someone as proud as him had such a cute side to him..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6921,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/VTK1_oishi1125.",
+		"TextJPN": "「つまり、本店に呼び出された理由がそれですか。@k@vS20/11/VTK1_oishi1126.…山沖さん。@k@vS20/11/VTK1_oishi1127.南井さんの処分…どうなるんですか？」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``In other words, that's the reason he was called into the main office?@k@vS20/11/VTK1_oishi1126. ...Yamaoki-san,@k@vS20/11/VTK1_oishi1127. what's the situation with Minai-san's punishment?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6922,
+		"NamesJPN": "山沖",
+		"PreTextTags": "@vS20/30/VTK1_yamaoki1035.",
+		"TextJPN": "「それを、今査問にかけているところです。@k@vS20/30/VTK1_yamaoki1036.まぁ…全然お咎めなしというわけにはいかないでしょうがね」",
+		"NamesENG": "Yamaoki",
+		"TextENG": "``There's an ongoing inquiry into the incident.@k@vS20/30/VTK1_yamaoki1036. Well... I can't say he's completely free of blame.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6923,
+		"TextJPN": "発砲禁止の戒厳令の中、犯人に向けて実弾を発射。",
+		"TextENG": "He fired live rounds at a criminal even though a no-fire order was in effect."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6924,
+		"TextJPN": "…しかも、撃たれた相手は死亡。",
+		"TextENG": "...And to make it worse, the person he shot died."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6925,
+		"TextJPN": "いくら犯人が武装し、それまでに３人もの人間を殺害していたとはいえ…@k銃の発砲が厳しく制限されている警官が犯人を射殺したという事実は、非常にまずい流れだった。",
+		"TextENG": "Even though the criminals were armed and had already killed three people by that point in time...@k the fact that a policeman shot and killed a criminal while under strict no-fire orders was an extremely bad move."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6926,
+		"TextJPN": "先年も、シージャックを行った犯人を射殺した警察官が殺人罪で告訴されるという事態があった。",
+		"TextENG": "There was an incident just last year where a police officer shot and killed a ship hijacker, and the officer was charged with murder."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6927,
+		"TextJPN": "…本末転倒ともいえる話だが、それがまかり通るのが昨今の風潮なのだ。",
+		"TextENG": "...This may be putting the cart before the horse, but the modern trend was to overlook those sorts of incidents."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6928,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/VTK1_oishi1128.",
+		"TextJPN": "「…しかし、おかしな話だ。@k@vS20/11/VTK1_oishi1129.南井さんが撃っていなかったら、足を撃たれていた捜査員…前野警部は、おそらく目前に迫った犯人によって殺されていたでしょう」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``...But, there's something strange about that.@k@vS20/11/VTK1_oishi1129. If Minai-san hadn't fired that shot, then the already wounded officer... Chief Inspector Maeno would probably have been killed by the criminal in question.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6929,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/VTK1_oishi1130.",
+		"TextJPN": "「それは周囲の証言も、そしてＴＶカメラの映像も十分に正当防衛であると証明してくれているじゃないですか？」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``The testimony of surrounding people and the footage from TV cameras should be enough to prove he was acting in legitimate self-defense, right?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6930,
+		"NamesJPN": "山沖",
+		"PreTextTags": "@vS20/30/VTK1_yamaoki1037.",
+		"TextJPN": "「それでも、現場にいない人々にとっては建前のほうが大事なんですよ」",
+		"NamesENG": "Yamaoki",
+		"TextENG": "``Nevertheless, the people watching from the sidelines place a greater emphasis on saving face.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6931,
+		"TextJPN": "警官が撃たれて殺されても、職務上やむを得ないことだと言い切り、…その一方で凶悪犯を安全確保のために撃てば、違法行為で懲罰の対象とすらみなして騒ぎたてる。",
+		"TextENG": "Even if an officer is shot and killed, they'd just say it's an unavoidable part of this line of work... But on the other hand, shooting an armed criminal to ensure safety would cause a huge outcry demanding punishment for the illegal deed."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6932,
+		"TextJPN": "警察のお偉方か、それとも政治家か…誰が初めに言い出したのかは知らないが、現場無視にもほどがあるというものだ。",
+		"TextENG": "Were they police VIPs or politicians...? I don't know who said it first, but neglect of the people in the field had its limits."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6933,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/VTK1_oishi1131.",
+		"TextJPN": "「…くそったれ」",
+		"AfterTextTags": "@|@y",
+		"NamesENG": "Ooishi",
+		"TextENG": "``...Bullshit.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6934,
+		"TextJPN": "民主主義の代弁者を標榜する人の中には、警察や軍隊を猟犬や番犬といった何かとみなして、そこに命が宿っていることすら忘れて理想…いや、妄想を語るやつらがいる。",
+		"TextENG": "Some of the strong proponents of democracy consider police officers and soldiers like guard dogs or hunting dogs, and forget that they're actual human lives while spouting off their ideals... No, their delusions."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6935,
+		"TextJPN": "だが、彼らだって人間だ。",
+		"TextENG": "But those people are human too."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6936,
+		"TextJPN": "当然親もあれば兄弟もあり、そして妻子など職務以上に大切なものを持っている。",
+		"TextENG": "Of course they consider their parents, siblings, their wife and children more important than their job."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6937,
+		"TextJPN": "その権利と誇りは、一体何が保証してくれるというのだろうか…？",
+		"TextENG": "What on earth guarantees them their rights, their pride...?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6938,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/VTK1_oishi1132.",
+		"TextJPN": "「じゃあ…やはり南井さんは、…免職ですか？」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``So... in the end... Minai-san is going to be discharged?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6939,
+		"NamesJPN": "山沖",
+		"PreTextTags": "@vS20/30/VTK1_yamaoki1038.",
+		"TextJPN": "「いえいえ、そこまではさせませんよ。@k@vS20/30/VTK1_yamaoki1039.とりあえずミソギ程度に今の部署は異動させますが、新設の私の直下の部署に置く予定です。@k@vS20/30/VTK1_yamaoki1040.ちょうど彼には、担当してもらいたい事件がありましたからね」",
+		"NamesENG": "Yamaoki",
+		"TextENG": "``Oh no, I won't let it go that far.@k@vS20/30/VTK1_yamaoki1039. They're looking to remove him from his current department, but I plan to place him in a new department working directly under me.@k@vS20/30/VTK1_yamaoki1040. On the grounds that I have a case I want him to be in charge of.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6940,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/VTK1_oishi1133.",
+		"TextJPN": "「え？　それで、大丈夫なんですか？@k@vS20/11/VTK1_oishi1134.　確か以前、シージャック犯を射殺した刑事さんは刑事告発されて罷免、上の方々も何人かがお辞めになられたと聞きましたが…」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``Huh? Is that really all right?@k@vS20/11/VTK1_oishi1134. But in that case where a detective killed a ship hijacker, I heard the detective was dismissed and some of the higher-ups even resigned...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6941,
+		"NamesJPN": "山沖",
+		"PreTextTags": "@vS20/30/VTK1_yamaoki1041.",
+		"TextJPN": "「なに…私たちとて、指をくわえて黙っているわけではありませんよ」",
+		"NamesENG": "Yamaoki",
+		"TextENG": "``What...? You can't expect us to stick our fingers in our mouths and keep quiet.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6942,
+		"NamesJPN": "山沖",
+		"PreTextTags": "@vS20/30/VTK1_yamaoki1042.",
+		"TextJPN": "「そもそも彼らに危険を負わせて命令を下す権限は、彼らの後顧の憂いを取り除く義務を果たしてこそ担う資格を得るものと私は思っています」",
+		"NamesENG": "Yamaoki",
+		"TextENG": "``I believe that we're only qualified to give orders that put people's lives at risk if we can fulfill our obligation to absolve their worries.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6943,
+		"NamesJPN": "山沖",
+		"PreTextTags": "@vS20/30/VTK1_yamaoki1043.",
+		"TextJPN": "「なればこそ、その行動に正当性を保証するのが私の役目。@k@vS20/30/VTK1_yamaoki1044.全力でもって、南井のことを守るつもりです」",
+		"NamesENG": "Yamaoki",
+		"TextENG": "``In which case, it's my duty to guarantee the legitimacy of his actions.@k@vS20/30/VTK1_yamaoki1044. So I'll do everything in my power to protect Minai.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6944,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/VTK1_oishi1135.",
+		"TextJPN": "「…すごいなぁ」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``...Incredible.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6945,
+		"TextJPN": "皮肉でも何でもなく本気で、私は感心する。",
+		"TextENG": "There was no sarcasm there. I seriously admired him."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6946,
+		"TextJPN": "やはり、どこぞのエリートもどきのお偉いさんと違って、本物のエリートは覚悟と意識が格段に高い。",
+		"TextENG": "After all, unlike the so-called elites, the real elites have great resolve and strong compassion."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6947,
+		"TextJPN": "篭城事件の制圧作戦では、彼の部下全員が肩書き以上の働きをしている姿を見て圧倒され、敗北感すら抱いたものだが…これだけの上司なら、さもありなんというところだろう。",
+		"TextENG": "Even in the siege operation, when it was overwhelming to see all his subordinates acting beyond their duties, to the point I felt totally outclassed... it was only natural when they had a boss like that."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6948,
+		"NamesJPN": "大石",
+		"PreTextTags": "@vS20/11/VTK1_oishi1136.",
+		"TextJPN": "「…そういや、南井さんが撃ち殺したっていうあの外道野郎。@k@vS20/11/VTK1_oishi1137.名前…なんていいましたっけ」",
+		"NamesENG": "Ooishi",
+		"TextENG": "``...By the way, about that bastard that Minai-san killed.@k@vS20/11/VTK1_oishi1137. What... did you say their name was again?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 6949,
+		"NamesJPN": "山沖",
+		"PreTextTags": "@vS20/30/VTK1_yamaoki1045.",
+		"TextJPN": "「確か…滝口、一紀。@k@|@y@vS20/30/VTK1_yamaoki1046.東都大学の学生ですよ。@k@vS20/30/VTK1_yamaoki1047.Ｔ大学篭城事件の時にも、あの顔を見たことがあります」",
+		"NamesENG": "Yamaoki",
+		"TextENG": "``I'm sure it was... Kazunori Takiguchi.@k@|@y@vS20/30/VTK1_yamaoki1046. A student at Touto University.@k@vS20/30/VTK1_yamaoki1047. I recall seeing his face at the T University siege incident.``"
+	}
+]

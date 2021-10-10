@@ -1,388 +1,386 @@
-{
-    "Main": [
-        {
-            "type": "SAVEINFO",
-            "category": 1,
-            "JPN": "E1 休部届け",
-            "ENG": "E1 Club Absence"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5885,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS20/10/VTK1_irie1302.",
-            "TextJPN": "「…そうですか。@k@vS20/10/VTK1_irie1303.…いえいえ届けなんていりません。@k@vS20/10/VTK1_irie1304.悟史くんは我が雛見沢ファイターズの頼もしい選手なんですからね。@k@vS20/10/VTK1_irie1305.席はちゃんと空けてあります。@k@vS20/10/VTK1_irie1306.いつでも戻ってきていいんですからね」",
-            "NamesENG": "Irie",
-            "TextENG": "``...I see.@k@vS20/10/VTK1_irie1303. No, you don't need to do that.@k@vS20/10/VTK1_irie1304. You're a promising member of the Hinamizawa Fighters.@k@vS20/10/VTK1_irie1305. We'll save your spot.@k@vS20/10/VTK1_irie1306. So you can come back anytime, okay?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5886,
-            "NamesJPN": "悟史",
-            "PreTextTags": "@vS20/07/VTK1_satoshi1032.",
-            "TextJPN": "「わかりません…。@k@vS20/07/VTK1_satoshi1033.当分は戻って来れないと思うので、一度、退部にしてもらった方がいいと思いまして…」",
-            "NamesENG": "Satoshi",
-            "TextENG": "``Ahh... I don't know about that though...@k@vS20/07/VTK1_satoshi1033. I have no idea when I can come back, so I thought I should resign at least for now...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5887,
-            "TextJPN": "悟史くんが、雛見沢ファイターズを辞めたいと言い出した。",
-            "TextENG": "Satoshi-kun says he wants to quit the Hinamizawa Fighters."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5888,
-            "TextJPN": "…悟史くんと沙都子ちゃんを取り巻く環境については、私も事情を知っていたので、@k…こういうことを言い出すのもあるかもしれないとは思っていた…。",
-            "TextENG": "I know very well of Satoshi-kun and Satoko-chan's situation,@k so I was expecting that he might say this."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5889,
-            "TextJPN": "沙都子ちゃんと叔母の仲違いはもはや致命的なものらしく、それはもう修復不可能なほどに酷いらしい。",
-            "TextENG": "The relationship between Satoko-chan and her aunt has gotten worse, to the point that it can be considered abuse."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5890,
-            "TextJPN": "最近、その絡みで生活相談所の人が指導に来たらしく、その時だけは叔母もわずかに大人しくなったが、@k…すぐにより陰湿な形での苛めに切り替わったという。",
-            "TextENG": "When someone from the child consultation center came, of course her aunt behaved herself.@k ...Then immediately after, her harassment turned even more vicious."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5891,
-            "TextJPN": "沙都子ちゃんに毎週施している定期検査の数値も、じわじわと悪化を辿っており、@kそれに対し、投薬量を増やすことで何とかすれすれを維持させているが、",
-            "TextENG": "Satoko-chan's weekly physical check up results are slowly growing worse,@k and we're trying to keep her stable by increasing her medication."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5892,
-            "TextJPN": "……叔母との関係を改善しない限り、いつか彼女はＬ５の症状をぶり返し錯乱するだろう。",
-            "TextENG": "But... unless her relationship with her aunt improves, she's sure to go terminal, and sink into madness."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5893,
-            "TextJPN": "…いや、確か彼女の末期症状は錯乱するタイプではない。",
-            "TextENG": "...Although, she isn't the type to become deranged, even at the terminal stage."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5894,
-            "TextJPN": "…心の中に凶気を宿しつつも、表向きにはそれを押し隠してしまえるタイプだ。",
-            "TextENG": "She's the type who holds everything in, harboring her insanity inside."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5895,
-            "TextJPN": "…一昨年、両親を突き落としたように、…叔母を沙都子ちゃんが殺してしまうこともあるかもしれない。",
-            "TextENG": "Just like she pushed her parents off the cliff two years ago, Satoko-chan may kill her aunt."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5896,
-            "TextJPN": "山狗の工作のお陰で、あの転落事故は事故ということで決着し、大石も手を引いたが、彼自身は未だ疑い続けている。",
-            "TextENG": "Thanks to the Mountain Dogs, the incident was resolved as an accident and Ooishi stepped aside, although he is still suspicious."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5897,
-            "TextJPN": "…沙都子ちゃんの近辺で再びこのような事件が起きたなら、…今度こそ彼は沙都子ちゃんに対し容赦のない捜査を行なうだろう。",
-            "TextENG": "If something like that happens again around Satoko-chan... he's sure to investigate her mercilessly."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5898,
-            "TextJPN": "…沙都子ちゃんの環境の悪化は、もはや私にはどうしようもないレベルにまで至っている。",
-            "TextENG": "...I can't do anything more about Satoko-chan's environment changing for worse."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5899,
-            "TextJPN": "それを見かねて、妹思いの悟史くんが野球を辞めて常に妹に付き添っていてやりたいと言い出したとしても、それは不思議なことではなかった…。",
-            "TextENG": "So I'm not surprised to hear that Satoshi-kun wants to quit the baseball team so he can be with his sister more."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5900,
-            "NamesJPN": "悟史",
-            "PreTextTags": "@vS20/07/VTK1_satoshi1034.",
-            "TextJPN": "「実は僕、アルバイトを始めるんです。@k@vS20/07/VTK1_satoshi1035.それで、あまり野球に出られなくて…」",
-            "NamesENG": "Satoshi",
-            "TextENG": "``Actually, I'm starting a part-time job.@k@vS20/07/VTK1_satoshi1035. That's why I can't come to practice...``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5901,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS20/10/VTK1_irie1307.",
-            "TextJPN": "「…アルバイト、ですか。@k@vS20/10/VTK1_irie1308.何か買いたいものでもあるんですか…？」",
-            "NamesENG": "Irie",
-            "TextENG": "``...A part-time job?@k@vS20/10/VTK1_irie1308. Is there something you want to buy?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5902,
-            "NamesJPN": "悟史",
-            "PreTextTags": "@vS20/07/VTK1_satoshi1036.",
-            "TextJPN": "「…はい。@k@vS20/07/VTK1_satoshi1037.…もうすぐ沙都子の誕生日なんです。@k@vS20/07/VTK1_satoshi1038.沙都子が欲しがっているぬいぐるみがあるので、それをプレゼントしてやりたいと思いまして」",
-            "NamesENG": "Satoshi",
-            "TextENG": "``...Yes.@k@vS20/07/VTK1_satoshi1037. It's almost Satoko's birthday.@k@vS20/07/VTK1_satoshi1038. There's a teddy bear Satoko has been looking at, and I want to get it for her.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5903,
-            "TextJPN": "そう言えばそうだっけ。",
-            "TextENG": "That's right."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5904,
-            "TextJPN": "保険証に書かれていた日付を思い出す。",
-            "TextENG": "I remember the birth date on her insurance card."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5905,
-            "TextJPN": "確か、６月の２４日。",
-            "TextENG": "I think it's June 24th."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5906,
-            "TextJPN": "綿流しのお祭りの直後じゃなかったっけ。",
-            "TextENG": "Right after the Watanagashi festival."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5907,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS20/10/VTK1_irie1309.",
-            "TextJPN": "「そうですか。@k@vS20/10/VTK1_irie1310.…悟史くんは本当に妹思いのお兄さんですね。@k@vS20/10/VTK1_irie1311.それはきっと沙都子ちゃんも喜んでくれるでしょう」",
-            "NamesENG": "Irie",
-            "TextENG": "``I see...@k@vS20/10/VTK1_irie1310. ...You're such a good brother.@k@vS20/10/VTK1_irie1311. I'm sure Satoko-chan will be thrilled!``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5908,
-            "NamesJPN": "悟史",
-            "PreTextTags": "@vS20/07/VTK1_satoshi1039.",
-            "TextJPN": "「…喜んでくれると、うれしいです」",
-            "NamesENG": "Satoshi",
-            "TextENG": "``......I hope so.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5909,
-            "TextJPN": "悟史くんの話しぶりから、かなり心労が溜まっているのがうかがえた。",
-            "TextENG": "I can tell Satoshi-kun is also stressed out."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5910,
-            "TextJPN": "…彼にとって、沙都子ちゃんが辛そうにしているのを見るのは、自分が酷い目に遭うのと同じなのだから…。",
-            "TextENG": "To him, seeing Satoko-chan being harassed is the same thing as being harassed himself."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5911,
-            "TextJPN": "心労は、スポーツなど適度な運動でのストレス発散、そして規則正しく充分な睡眠時間で癒すのが基本だ。",
-            "TextENG": "His stress can be released through moderate exercise, such as with sports, and also with plenty of rest."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5912,
-            "TextJPN": "沙都子ちゃんが夜な夜な叔母に叱りつけられているのだとすれば、…それを庇う悟史くんは充分な睡眠を取れているとは思い難い。",
-            "TextENG": "If Satoko-chan is being yelled at nightly, then it's easy to figure out that Satoshi-kun isn't getting enough sleep either."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5913,
-            "TextJPN": "…また、どんなバイトをするのか知らないが、スポーツと違いストレスの発散にはなり難いだろう。",
-            "TextENG": "I don't know what kind of job he's starting, but I don't think he will be able to vent his stress on it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5914,
-            "TextJPN": "…はっきり言って、身も心も参っている悟史くんに、さらに追い討ちをかけるようなバイトは、あまり賛成できなかった。",
-            "TextENG": "In fact, I don't like the idea of Satoshi-kun taking a part-time job, because he's already so worn out in every way."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5915,
-            "TextJPN": "私が少し、プレゼント代を出してあげようかと提案したが、もちろん彼の性分からして、それに甘んじるわけもない。",
-            "TextENG": "I asked him if he wanted me to help him pay for the present, but of course, he declined the offer."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5916,
-            "TextJPN": "彼は、自分が贈るプレゼントなのだから、そのお金は自分が全て用意して当然だと、模範的に断るのみだった。",
-            "TextENG": "It's a present from him, so he wants to earn the money himself."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5917,
-            "TextJPN": "アルバイトは、沙都子ちゃんのプレゼントを買うためだけにするので、短期間のみのものらしい。",
-            "TextENG": "He's taking this part-time job only to earn enough money to buy Satoko-chan's present, so it'll be a temporary thing."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5918,
-            "TextJPN": "…それくらいの期間だったら、それほど彼を追い詰めることにはならないか…。",
-            "TextENG": "If it's for a short period of time, maybe it won't be that bad."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5919,
-            "TextJPN": "本当は、心が参っている時期に、さらに負担を増やすようなことは避けさせたいのだが、@k沙都子ちゃんの誕生日が近いと言われれば、妹思いの悟史くんにそれを思い止まらせるのは難しい。",
-            "TextENG": "While I want to stop him from working because I don't want him to get even more stressed,@k since he says Satoko-chan's birthday is near, I don't think I can stop him."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5920,
-            "TextJPN": "……悟史くんの決意は固い。",
-            "TextENG": "Satoshi-kun is determined."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5921,
-            "TextJPN": "バイトをやめろとこれ以上しつこくすると、私と彼の信頼関係を損なってしまうかもしれない。",
-            "TextENG": "If I say any more, I may lose his trust."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5922,
-            "TextJPN": "それを恐れた私は、彼の休部を受け入れて見守ることにした。",
-            "TextENG": "So I'll have to accept his leave of absence."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5923,
-            "NamesJPN": "悟史",
-            "PreTextTags": "@vS20/07/VTK1_satoshi1040.",
-            "TextJPN": "「…そうだ、監督。@k@vS20/07/VTK1_satoshi1041.…バット、一本借りて行ってもいいですか？」",
-            "NamesENG": "Satoshi",
-            "TextENG": "``...Oh, Coach.@k@vS20/07/VTK1_satoshi1041. ...Can I maybe borrow a bat?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5924,
-            "TextJPN": "その言葉の意味を、私は大きく履き違えてしまう。",
-            "TextENG": "I completely misunderstood his words."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5925,
-            "TextJPN": "…後に、彼がそのバットを護身用のための武器として持ち歩いていたという話を聞き、@k…この時点で悟史くんには、ある種の危険な兆候が現れていたのだと知る。",
-            "TextENG": "Later I found out he carried around that bat to protect himself...@k and realized that, even then, he was already showing some dangerous symptoms."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5926,
-            "TextJPN": "彼は、連続怪死事件が四年目の今年も起こり、…その犠牲者が自分になるに違いないという思い込みを持っていた。",
-            "TextENG": "He believed there would be a fourth mysterious death this year and that he would be the victim."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5927,
-            "TextJPN": "…誰かが自分の命を狙っているに違いないと信じる強迫観念。",
-            "TextENG": "He became obsessed with the idea that someone was after his life."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5928,
-            "TextJPN": "それは紛れもない、雛見沢症候群のかなり末期に近い症状。",
-            "TextENG": "That is a symptom of Hinamizawa Syndrome's terminal stage."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5929,
-            "TextJPN": "…だが、この時点での私は、雛見沢症候群に関わる人間でありながら、あまりに迂闊だった…。",
-            "TextENG": "But although I was involved so deeply with the syndrome, I was careless..."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5930,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS20/10/VTK1_irie1312.",
-            "TextJPN": "「バットですか？@k@vS20/10/VTK1_irie1313.　はて、何に使うんですか？」",
-            "NamesENG": "Irie",
-            "TextENG": "``A bat?@k@vS20/10/VTK1_irie1313. What do you need a bat for?``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5931,
-            "TextJPN": "悟史くんの私物のバットはある。",
-            "TextENG": "Satoshi-kun had his own bat."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5932,
-            "TextJPN": "だから、借りて行くというよりは持って帰ってもいいですか、というのが正しいのだが、彼は、借りて行っていいかと聞いた。",
-            "TextENG": "So he should have asked if he could take it home, but instead, he asked if he could borrow it."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5933,
-            "TextJPN": "…それを、私に承諾を得て持ち帰ろうというのは、後から考えれば罪の意識の軽減行為なのだが、この時点ではわかろうはずもない…。",
-            "TextENG": "When I think about it now, he said it that way to lighten his guilty conscience. But how could I have known then?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5934,
-            "NamesJPN": "悟史",
-            "PreTextTags": "@vS20/07/VTK1_satoshi1042.",
-            "TextJPN": "「…いえ、その。@k@vS20/07/VTK1_satoshi1043.…野球にはそんなに来れなくなりますけど、…でもきっと、一人で素振りの練習をするくらいの時間は取れると思うので」",
-            "NamesENG": "Satoshi",
-            "TextENG": "``Well...@k@vS20/07/VTK1_satoshi1043. although I can't come to practice... I think I'll have a little time to practice swinging on my own.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5935,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS20/10/VTK1_irie1314.",
-            "TextJPN": "「それはいいですねぇ！@k@vS20/10/VTK1_irie1315.　そういうことならぜひ持って行ってください。@k@vS20/10/VTK1_irie1316.素振りをする時は、充分周りを確認して危険がないよう注意してからやってくださいね」",
-            "NamesENG": "Irie",
-            "TextENG": "``That's great!@k@vS20/10/VTK1_irie1315. Sure, please take it with you.@k@vS20/10/VTK1_irie1316. But make sure you do it in an open space, okay?"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5936,
-            "NamesJPN": "入江",
-            "PreTextTags": "@vS20/10/VTK1_irie1317.",
-            "TextJPN": "「ご近所迷惑でなければ、タイヤを吊るしてそれを打つのも良い練習になるでしょう」",
-            "NamesENG": "Irie",
-            "TextENG": "If it won't bother your neighbors, it's good practice to hit a hanging tire.``"
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5937,
-            "TextJPN": "バットを振るだけでも、きっとストレスの解消になる。",
-            "TextENG": "Swinging a bat can release stress."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5938,
-            "TextJPN": "だから、バットを持たせてやることは彼の心労をわずかでも和らげることになる。",
-            "TextENG": "So letting him take his bat home will help."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5939,
-            "TextJPN": "…そう思ってしまった。",
-            "TextENG": "That's what I thought."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5940,
-            "TextJPN": "………だが、…それは大きな誤りだった。",
-            "TextENG": "But...... that was a huge mistake."
-        },
-        {
-            "type": "MSGSET",
-            "MessageID": 5941,
-            "TextJPN": "後に、私は取り返しがつかない段階に至って、それを知ることになる…。",
-            "TextENG": "I realized it only when things were already past the point of no return."
-        }
-    ]
-}
+[
+	{
+		"type": "SAVEINFO",
+		"category": 1,
+		"JPN": "E1 休部届け",
+		"ENG": "E1 Club Absence"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5885,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS20/10/VTK1_irie1302.",
+		"TextJPN": "「…そうですか。@k@vS20/10/VTK1_irie1303.…いえいえ届けなんていりません。@k@vS20/10/VTK1_irie1304.悟史くんは我が雛見沢ファイターズの頼もしい選手なんですからね。@k@vS20/10/VTK1_irie1305.席はちゃんと空けてあります。@k@vS20/10/VTK1_irie1306.いつでも戻ってきていいんですからね」",
+		"NamesENG": "Irie",
+		"TextENG": "``...I see.@k@vS20/10/VTK1_irie1303. No, you don't need to do that.@k@vS20/10/VTK1_irie1304. You're a promising member of the Hinamizawa Fighters.@k@vS20/10/VTK1_irie1305. We'll save your spot.@k@vS20/10/VTK1_irie1306. So you can come back anytime, okay?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5886,
+		"NamesJPN": "悟史",
+		"PreTextTags": "@vS20/07/VTK1_satoshi1032.",
+		"TextJPN": "「わかりません…。@k@vS20/07/VTK1_satoshi1033.当分は戻って来れないと思うので、一度、退部にしてもらった方がいいと思いまして…」",
+		"NamesENG": "Satoshi",
+		"TextENG": "``Ahh... I don't know about that though...@k@vS20/07/VTK1_satoshi1033. I have no idea when I can come back, so I thought I should resign at least for now...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5887,
+		"TextJPN": "悟史くんが、雛見沢ファイターズを辞めたいと言い出した。",
+		"TextENG": "Satoshi-kun says he wants to quit the Hinamizawa Fighters."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5888,
+		"TextJPN": "…悟史くんと沙都子ちゃんを取り巻く環境については、私も事情を知っていたので、@k…こういうことを言い出すのもあるかもしれないとは思っていた…。",
+		"TextENG": "I know very well of Satoshi-kun and Satoko-chan's situation,@k so I was expecting that he might say this."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5889,
+		"TextJPN": "沙都子ちゃんと叔母の仲違いはもはや致命的なものらしく、それはもう修復不可能なほどに酷いらしい。",
+		"TextENG": "The relationship between Satoko-chan and her aunt has gotten worse, to the point that it can be considered abuse."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5890,
+		"TextJPN": "最近、その絡みで生活相談所の人が指導に来たらしく、その時だけは叔母もわずかに大人しくなったが、@k…すぐにより陰湿な形での苛めに切り替わったという。",
+		"TextENG": "When someone from the child consultation center came, of course her aunt behaved herself.@k ...Then immediately after, her harassment turned even more vicious."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5891,
+		"TextJPN": "沙都子ちゃんに毎週施している定期検査の数値も、じわじわと悪化を辿っており、@kそれに対し、投薬量を増やすことで何とかすれすれを維持させているが、",
+		"TextENG": "Satoko-chan's weekly physical check up results are slowly growing worse,@k and we're trying to keep her stable by increasing her medication."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5892,
+		"TextJPN": "……叔母との関係を改善しない限り、いつか彼女はＬ５の症状をぶり返し錯乱するだろう。",
+		"TextENG": "But... unless her relationship with her aunt improves, she's sure to go terminal, and sink into madness."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5893,
+		"TextJPN": "…いや、確か彼女の末期症状は錯乱するタイプではない。",
+		"TextENG": "...Although, she isn't the type to become deranged, even at the terminal stage."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5894,
+		"TextJPN": "…心の中に凶気を宿しつつも、表向きにはそれを押し隠してしまえるタイプだ。",
+		"TextENG": "She's the type who holds everything in, harboring her insanity inside."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5895,
+		"TextJPN": "…一昨年、両親を突き落としたように、…叔母を沙都子ちゃんが殺してしまうこともあるかもしれない。",
+		"TextENG": "Just like she pushed her parents off the cliff two years ago, Satoko-chan may kill her aunt."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5896,
+		"TextJPN": "山狗の工作のお陰で、あの転落事故は事故ということで決着し、大石も手を引いたが、彼自身は未だ疑い続けている。",
+		"TextENG": "Thanks to the Mountain Dogs, the incident was resolved as an accident and Ooishi stepped aside, although he is still suspicious."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5897,
+		"TextJPN": "…沙都子ちゃんの近辺で再びこのような事件が起きたなら、…今度こそ彼は沙都子ちゃんに対し容赦のない捜査を行なうだろう。",
+		"TextENG": "If something like that happens again around Satoko-chan... he's sure to investigate her mercilessly."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5898,
+		"TextJPN": "…沙都子ちゃんの環境の悪化は、もはや私にはどうしようもないレベルにまで至っている。",
+		"TextENG": "...I can't do anything more about Satoko-chan's environment changing for worse."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5899,
+		"TextJPN": "それを見かねて、妹思いの悟史くんが野球を辞めて常に妹に付き添っていてやりたいと言い出したとしても、それは不思議なことではなかった…。",
+		"TextENG": "So I'm not surprised to hear that Satoshi-kun wants to quit the baseball team so he can be with his sister more."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5900,
+		"NamesJPN": "悟史",
+		"PreTextTags": "@vS20/07/VTK1_satoshi1034.",
+		"TextJPN": "「実は僕、アルバイトを始めるんです。@k@vS20/07/VTK1_satoshi1035.それで、あまり野球に出られなくて…」",
+		"NamesENG": "Satoshi",
+		"TextENG": "``Actually, I'm starting a part-time job.@k@vS20/07/VTK1_satoshi1035. That's why I can't come to practice...``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5901,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS20/10/VTK1_irie1307.",
+		"TextJPN": "「…アルバイト、ですか。@k@vS20/10/VTK1_irie1308.何か買いたいものでもあるんですか…？」",
+		"NamesENG": "Irie",
+		"TextENG": "``...A part-time job?@k@vS20/10/VTK1_irie1308. Is there something you want to buy?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5902,
+		"NamesJPN": "悟史",
+		"PreTextTags": "@vS20/07/VTK1_satoshi1036.",
+		"TextJPN": "「…はい。@k@vS20/07/VTK1_satoshi1037.…もうすぐ沙都子の誕生日なんです。@k@vS20/07/VTK1_satoshi1038.沙都子が欲しがっているぬいぐるみがあるので、それをプレゼントしてやりたいと思いまして」",
+		"NamesENG": "Satoshi",
+		"TextENG": "``...Yes.@k@vS20/07/VTK1_satoshi1037. It's almost Satoko's birthday.@k@vS20/07/VTK1_satoshi1038. There's a teddy bear Satoko has been looking at, and I want to get it for her.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5903,
+		"TextJPN": "そう言えばそうだっけ。",
+		"TextENG": "That's right."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5904,
+		"TextJPN": "保険証に書かれていた日付を思い出す。",
+		"TextENG": "I remember the birth date on her insurance card."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5905,
+		"TextJPN": "確か、６月の２４日。",
+		"TextENG": "I think it's June 24th."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5906,
+		"TextJPN": "綿流しのお祭りの直後じゃなかったっけ。",
+		"TextENG": "Right after the Watanagashi festival."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5907,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS20/10/VTK1_irie1309.",
+		"TextJPN": "「そうですか。@k@vS20/10/VTK1_irie1310.…悟史くんは本当に妹思いのお兄さんですね。@k@vS20/10/VTK1_irie1311.それはきっと沙都子ちゃんも喜んでくれるでしょう」",
+		"NamesENG": "Irie",
+		"TextENG": "``I see...@k@vS20/10/VTK1_irie1310. ...You're such a good brother.@k@vS20/10/VTK1_irie1311. I'm sure Satoko-chan will be thrilled!``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5908,
+		"NamesJPN": "悟史",
+		"PreTextTags": "@vS20/07/VTK1_satoshi1039.",
+		"TextJPN": "「…喜んでくれると、うれしいです」",
+		"NamesENG": "Satoshi",
+		"TextENG": "``......I hope so.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5909,
+		"TextJPN": "悟史くんの話しぶりから、かなり心労が溜まっているのがうかがえた。",
+		"TextENG": "I can tell Satoshi-kun is also stressed out."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5910,
+		"TextJPN": "…彼にとって、沙都子ちゃんが辛そうにしているのを見るのは、自分が酷い目に遭うのと同じなのだから…。",
+		"TextENG": "To him, seeing Satoko-chan being harassed is the same thing as being harassed himself."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5911,
+		"TextJPN": "心労は、スポーツなど適度な運動でのストレス発散、そして規則正しく充分な睡眠時間で癒すのが基本だ。",
+		"TextENG": "His stress can be released through moderate exercise, such as with sports, and also with plenty of rest."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5912,
+		"TextJPN": "沙都子ちゃんが夜な夜な叔母に叱りつけられているのだとすれば、…それを庇う悟史くんは充分な睡眠を取れているとは思い難い。",
+		"TextENG": "If Satoko-chan is being yelled at nightly, then it's easy to figure out that Satoshi-kun isn't getting enough sleep either."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5913,
+		"TextJPN": "…また、どんなバイトをするのか知らないが、スポーツと違いストレスの発散にはなり難いだろう。",
+		"TextENG": "I don't know what kind of job he's starting, but I don't think he will be able to vent his stress on it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5914,
+		"TextJPN": "…はっきり言って、身も心も参っている悟史くんに、さらに追い討ちをかけるようなバイトは、あまり賛成できなかった。",
+		"TextENG": "In fact, I don't like the idea of Satoshi-kun taking a part-time job, because he's already so worn out in every way."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5915,
+		"TextJPN": "私が少し、プレゼント代を出してあげようかと提案したが、もちろん彼の性分からして、それに甘んじるわけもない。",
+		"TextENG": "I asked him if he wanted me to help him pay for the present, but of course, he declined the offer."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5916,
+		"TextJPN": "彼は、自分が贈るプレゼントなのだから、そのお金は自分が全て用意して当然だと、模範的に断るのみだった。",
+		"TextENG": "It's a present from him, so he wants to earn the money himself."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5917,
+		"TextJPN": "アルバイトは、沙都子ちゃんのプレゼントを買うためだけにするので、短期間のみのものらしい。",
+		"TextENG": "He's taking this part-time job only to earn enough money to buy Satoko-chan's present, so it'll be a temporary thing."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5918,
+		"TextJPN": "…それくらいの期間だったら、それほど彼を追い詰めることにはならないか…。",
+		"TextENG": "If it's for a short period of time, maybe it won't be that bad."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5919,
+		"TextJPN": "本当は、心が参っている時期に、さらに負担を増やすようなことは避けさせたいのだが、@k沙都子ちゃんの誕生日が近いと言われれば、妹思いの悟史くんにそれを思い止まらせるのは難しい。",
+		"TextENG": "While I want to stop him from working because I don't want him to get even more stressed,@k since he says Satoko-chan's birthday is near, I don't think I can stop him."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5920,
+		"TextJPN": "……悟史くんの決意は固い。",
+		"TextENG": "Satoshi-kun is determined."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5921,
+		"TextJPN": "バイトをやめろとこれ以上しつこくすると、私と彼の信頼関係を損なってしまうかもしれない。",
+		"TextENG": "If I say any more, I may lose his trust."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5922,
+		"TextJPN": "それを恐れた私は、彼の休部を受け入れて見守ることにした。",
+		"TextENG": "So I'll have to accept his leave of absence."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5923,
+		"NamesJPN": "悟史",
+		"PreTextTags": "@vS20/07/VTK1_satoshi1040.",
+		"TextJPN": "「…そうだ、監督。@k@vS20/07/VTK1_satoshi1041.…バット、一本借りて行ってもいいですか？」",
+		"NamesENG": "Satoshi",
+		"TextENG": "``...Oh, Coach.@k@vS20/07/VTK1_satoshi1041. ...Can I maybe borrow a bat?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5924,
+		"TextJPN": "その言葉の意味を、私は大きく履き違えてしまう。",
+		"TextENG": "I completely misunderstood his words."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5925,
+		"TextJPN": "…後に、彼がそのバットを護身用のための武器として持ち歩いていたという話を聞き、@k…この時点で悟史くんには、ある種の危険な兆候が現れていたのだと知る。",
+		"TextENG": "Later I found out he carried around that bat to protect himself...@k and realized that, even then, he was already showing some dangerous symptoms."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5926,
+		"TextJPN": "彼は、連続怪死事件が四年目の今年も起こり、…その犠牲者が自分になるに違いないという思い込みを持っていた。",
+		"TextENG": "He believed there would be a fourth mysterious death this year and that he would be the victim."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5927,
+		"TextJPN": "…誰かが自分の命を狙っているに違いないと信じる強迫観念。",
+		"TextENG": "He became obsessed with the idea that someone was after his life."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5928,
+		"TextJPN": "それは紛れもない、雛見沢症候群のかなり末期に近い症状。",
+		"TextENG": "That is a symptom of Hinamizawa Syndrome's terminal stage."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5929,
+		"TextJPN": "…だが、この時点での私は、雛見沢症候群に関わる人間でありながら、あまりに迂闊だった…。",
+		"TextENG": "But although I was involved so deeply with the syndrome, I was careless..."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5930,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS20/10/VTK1_irie1312.",
+		"TextJPN": "「バットですか？@k@vS20/10/VTK1_irie1313.　はて、何に使うんですか？」",
+		"NamesENG": "Irie",
+		"TextENG": "``A bat?@k@vS20/10/VTK1_irie1313. What do you need a bat for?``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5931,
+		"TextJPN": "悟史くんの私物のバットはある。",
+		"TextENG": "Satoshi-kun had his own bat."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5932,
+		"TextJPN": "だから、借りて行くというよりは持って帰ってもいいですか、というのが正しいのだが、彼は、借りて行っていいかと聞いた。",
+		"TextENG": "So he should have asked if he could take it home, but instead, he asked if he could borrow it."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5933,
+		"TextJPN": "…それを、私に承諾を得て持ち帰ろうというのは、後から考えれば罪の意識の軽減行為なのだが、この時点ではわかろうはずもない…。",
+		"TextENG": "When I think about it now, he said it that way to lighten his guilty conscience. But how could I have known then?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5934,
+		"NamesJPN": "悟史",
+		"PreTextTags": "@vS20/07/VTK1_satoshi1042.",
+		"TextJPN": "「…いえ、その。@k@vS20/07/VTK1_satoshi1043.…野球にはそんなに来れなくなりますけど、…でもきっと、一人で素振りの練習をするくらいの時間は取れると思うので」",
+		"NamesENG": "Satoshi",
+		"TextENG": "``Well...@k@vS20/07/VTK1_satoshi1043. although I can't come to practice... I think I'll have a little time to practice swinging on my own.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5935,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS20/10/VTK1_irie1314.",
+		"TextJPN": "「それはいいですねぇ！@k@vS20/10/VTK1_irie1315.　そういうことならぜひ持って行ってください。@k@vS20/10/VTK1_irie1316.素振りをする時は、充分周りを確認して危険がないよう注意してからやってくださいね」",
+		"NamesENG": "Irie",
+		"TextENG": "``That's great!@k@vS20/10/VTK1_irie1315. Sure, please take it with you.@k@vS20/10/VTK1_irie1316. But make sure you do it in an open space, okay?"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5936,
+		"NamesJPN": "入江",
+		"PreTextTags": "@vS20/10/VTK1_irie1317.",
+		"TextJPN": "「ご近所迷惑でなければ、タイヤを吊るしてそれを打つのも良い練習になるでしょう」",
+		"NamesENG": "Irie",
+		"TextENG": "If it won't bother your neighbors, it's good practice to hit a hanging tire.``"
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5937,
+		"TextJPN": "バットを振るだけでも、きっとストレスの解消になる。",
+		"TextENG": "Swinging a bat can release stress."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5938,
+		"TextJPN": "だから、バットを持たせてやることは彼の心労をわずかでも和らげることになる。",
+		"TextENG": "So letting him take his bat home will help."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5939,
+		"TextJPN": "…そう思ってしまった。",
+		"TextENG": "That's what I thought."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5940,
+		"TextJPN": "………だが、…それは大きな誤りだった。",
+		"TextENG": "But...... that was a huge mistake."
+	},
+	{
+		"type": "MSGSET",
+		"MessageID": 5941,
+		"TextJPN": "後に、私は取り返しがつかない段階に至って、それを知ることになる…。",
+		"TextENG": "I realized it only when things were already past the point of no return."
+	}
+]
